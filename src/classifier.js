@@ -20,7 +20,8 @@ const CATEGORY_RULES = {
   engineering: {
     strong: [
       "broadcast engineering", "broadcast engineer", "broadcast technology", "broadcast equipment",
-      "media technology", "media workflow", "production technology", "transmitter", "rf system",
+      "broadcast fabric", "broadcast distribution", "broadcast monitoring", "media technology",
+      "media workflow", "production technology", "video ai", "transmitter", "rf system",
       "audio console", "broadcast automation", "master control", "production switcher",
       "camera system", "video codec", "cloud production", "remote production", "atsc 3.0",
       "nextgen tv", "studio technology", "media infrastructure", "playout system"
@@ -61,7 +62,7 @@ const CATEGORY_RULES = {
   television: {
     strong: [
       "television station", "television stations", "broadcast television", "local television",
-      "tv station", "tv stations", "television network", "tv network", "local tv",
+      "tv station", "tv stations", "television network", "tv network", "local tv", "broadcast partnership",
       "reality series", "emmy awards", "primetime emmy",
       "gray media", "sinclair broadcast", "nexstar media", "tegna", "hearst television",
       "scripps", "fox news", "fox television stations", "paramount television", "cbs stations",
@@ -115,7 +116,9 @@ const EXCLUSIONS = [
 const CORPORATE_NOISE = [
   "shareholder alert", "investor alert", "securities fraud", "class action lawsuit",
   "opportunity to lead", "earnings release and conference call", "financial results",
-  "to present at the", "to speak at the", "investor conference", "investor events"
+  "to present at the", "to speak at the", "investor conference", "investor events",
+  "to participate in citi", "to participate in investor", "notes offering", "credit facility",
+  "quarterly results", "quarter results"
 ];
 
 export function classifyRelease(release) {
@@ -161,25 +164,25 @@ export function classifyRelease(release) {
 
   const explicitMedia = explicitMediaSignal(primary);
   const mediaIndustry = [...codes].some((code) => MEDIA_CODES.has(code));
-  const excluded = hardExcluded || (corporateNoise && !explicitMedia);
+  const excluded = hardExcluded || corporateNoise;
   const categories = [];
 
   if (!excluded) {
-    if (scores.advertising >= 4 && (primaryAdvertisingSignal(primary) || (codes.has("ADV") && newsScore > 0))) categories.push("advertising");
-    if (scores.digital >= 5 && (primaryDigitalSignal(primary) || explicitMedia)) categories.push("digital");
+    if (scores.advertising >= 4 && primaryAdvertisingSignal(primary)) categories.push("advertising");
+    if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
     if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
     if (scores.entertainment >= 5 && primaryEntertainmentSignal(primary) && !nonMediaEventPromoter(primary)) categories.push("entertainment");
     if (scores.radio >= 5 && primaryRadioSignal(primary)) categories.push("radio");
-    if (scores.television >= 5 && primaryTelevisionSignal(primary)) categories.push("television");
-    if (scores.podcast >= 5 && primaryPodcastSignal(primary)) categories.push("podcast");
-    if (scores.tradeshow >= 5 || (scores.tradeshow >= 2 && (primaryEngineeringSignal(primary) || primaryRadioSignal(primary) || primaryTelevisionSignal(primary)))) categories.push("tradeshow");
+    if ((scores.television >= 4 || (codes.has("TVN") && scores.television >= 2)) && primaryTelevisionSignal(primary) && !nonMediaEventPromoter(primary)) categories.push("television");
+    if (scores.podcast >= 4 && primaryPodcastSignal(primary)) categories.push("podcast");
+    if (namedMediaShow(primary) || (scores.tradeshow >= 2 && mediaIndustry && explicitMedia)) categories.push("tradeshow");
 
     const hasManagementEvent = scores.management >= 4 && newsScore > 0;
     const classifiedMediaStory = categories.some((category) => category !== "management" && category !== "tradeshow");
     if (hasManagementEvent && (explicitMedia || classifiedMediaStory || (mediaIndustry && mediaTerm(primary)))) categories.push("management");
   }
 
-  const review = !excluded && categories.length === 0 && newsScore > 0 &&
+  const review = !excluded && !nonMediaEventPromoter(primary) && categories.length === 0 && newsScore > 0 &&
     (explicitMedia || (mediaIndustry && mediaTerm(primary)));
 
   return {
@@ -213,15 +216,15 @@ function explicitMediaSignal(text) {
 }
 
 function primaryAdvertisingSignal(text) {
-  return /advertising|advertiser|adtech|media buying|media agency|\bmarketing\b|audience measurement|ad sales/i.test(text);
+  return /advertising|advertiser|adtech|media buying|media agency|marketing agency|digital marketing agenc|direct marketing|marketing (platform|software|technology|system|os|audit)|performance marketing|influencer marketing|seo (agency|strategy)|ad buy|earned media|audience measurement|ad sales/i.test(text);
 }
 
 function primaryDigitalSignal(text) {
-  return /digital media|digital content|digital publisher|online publisher|social media|creator economy|web content|digital news/i.test(text);
+  return /digital media|digital content|digital publisher|online publisher|social media|creator economy|web content|digital news|local media consortium|streaming (service|provider|platform)/i.test(text);
 }
 
 function primaryEngineeringSignal(text) {
-  return /broadcast (engineering|engineer|technology|equipment|automation|system)|media (technology|workflow|infrastructure)|transmitter|master control|production switcher|playout|atsc 3\.0|nextgen tv/i.test(text);
+  return /broadcast (engineering|engineer|technology|equipment|automation|system|fabric|distribution|monitoring)|media (technology|workflow|infrastructure)|video ai|streaming infrastructure|transmitter|master control|production switcher|playout|atsc 3\.0|nextgen tv/i.test(text);
 }
 
 function primaryEntertainmentSignal(text) {
@@ -233,7 +236,7 @@ function primaryRadioSignal(text) {
 }
 
 function primaryTelevisionSignal(text) {
-  return /\btelevision\b|\btv\b|newscast|news anchor|reality series|emmy|fox news|gray media|sinclair broadcast|nexstar media|tegna|hearst television|cbs stations|pbs station/i.test(text);
+  return /\btelevision\b|\btv\b|broadcast partnership|newscast|news anchor|reality series|emmy|fox news|gray media|sinclair broadcast|nexstar media|tegna|hearst television|cbs stations|pbs station/i.test(text);
 }
 
 function primaryPodcastSignal(text) {
@@ -241,6 +244,10 @@ function primaryPodcastSignal(text) {
 }
 
 function nonMediaEventPromoter(text) {
-  return /\b(hotel|hospitality|tourism|travel|resort|restaurant|casino|airline|bank|healthcare system)\b/i.test(text) &&
+  return /\b(hotel|hospitality|tourism|travel|resort|restaurant|casino|airline|bank|healthcare system|wines?|winery|fitness|attorney|law firm|cruise|ocean bar)\b|m&m/i.test(text) &&
     !/production company|film studio|movie studio|television network|record label/i.test(text);
+}
+
+function namedMediaShow(text) {
+  return /\bnab show\b|\bibc ?20\d{2}\b|\bibc show\b|international broadcasting convention|smpte|broadcastasia|infocomm/i.test(text);
 }
