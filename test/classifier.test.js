@@ -103,3 +103,83 @@ test("does not classify a hotel's film festival promotion as entertainment", () 
   const result = classifyRelease({ title: "Four Seasons Hotel Sets the Scene for International Film Festival", company: ["Four Seasons Hotels and Resorts"], industry: ["FLM", "ENT"] });
   assert.deepEqual(result.categories, []);
 });
+
+test("does not classify a hospitality leadership forum as entertainment", () => {
+  const result = classifyRelease({
+    title: "Hospitality Group Announces Leadership Forum Bringing Together Tourism, Sports and Entertainment Leaders",
+    industry: ["ENT"]
+  });
+  assert.deepEqual(result.categories, []);
+});
+
+test("does not classify a bank marketing executive as advertising or management", () => {
+  const result = classifyRelease({
+    title: "Huntington Bank Names Chief Marketing and Digital Products Officer",
+    industry: ["ADV", "FIN"]
+  });
+  assert.deepEqual(result.categories, []);
+});
+
+test("does not classify an unrelated conference as a tradeshow", () => {
+  const result = classifyRelease({
+    title: "Rent-to-Own Industry Leaders Donate Furniture Following National Conference",
+    summary: "The annual trade show brought exhibitors together."
+  });
+  assert.deepEqual(result.categories, []);
+});
+
+test("classifies IBC broadcast technology as engineering and tradeshow", () => {
+  const result = classifyRelease({
+    title: "Actus Digital Unveils the Future of Broadcast Monitoring at IBC2026",
+    industry: ["BRD", "MLM"]
+  });
+  assert.ok(result.categories.includes("engineering"));
+  assert.ok(result.categories.includes("tradeshow"));
+});
+
+test("classifies explicit podcast launches", () => {
+  const result = classifyRelease({
+    title: "Martin Guitar Launches a New Artist-Focused Podcast",
+    industry: ["RAD", "ENT"]
+  });
+  assert.ok(result.categories.includes("podcast"));
+});
+
+test("classifies television broadcast partnerships", () => {
+  const result = classifyRelease({
+    title: "World Team Tennis Announces Broadcast Partnership with USA Sports",
+    industry: ["TVN", "ENT"]
+  });
+  assert.ok(result.categories.includes("television"));
+});
+
+test("excludes non-editorial media-company financing releases", () => {
+  const notes = classifyRelease({ title: "Tencent Music Entertainment Group Announces Notes Offering", industry: ["MUS", "ENT"] });
+  const credit = classifyRelease({ title: "Corus Entertainment Provides Update Regarding Credit Facility", industry: ["TVN", "ENT"] });
+  assert.equal(notes.excluded, true);
+  assert.equal(credit.excluded, true);
+});
+
+test("does not classify consumer brand entertainment promotions", () => {
+  const result = classifyRelease({
+    title: "Decoy Wines Expands Emmy Awards Season Partnership",
+    industry: ["ENT", "FLM"]
+  });
+  assert.deepEqual(result.categories, []);
+});
+
+test("classifies TV-branded services when Cision confirms the television industry", () => {
+  const result = classifyRelease({
+    title: "Company Sets Subscriber Targets for IDILIO TV",
+    industry: ["TVN", "MLM"]
+  });
+  assert.ok(result.categories.includes("television"));
+});
+
+test("classifies digital-media consortium launches", () => {
+  const result = classifyRelease({
+    title: "Local Media Consortium Launches AI Accelerator",
+    industry: ["PUB"]
+  });
+  assert.ok(result.categories.includes("digital"));
+});
