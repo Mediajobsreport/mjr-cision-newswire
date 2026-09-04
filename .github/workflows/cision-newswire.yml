@@ -25,6 +25,7 @@ jobs:
       CISION_LOGIN: ${{ secrets.CISION_LOGIN }}
       CISION_PASSWORD: ${{ secrets.CISION_PASSWORD }}
       CISION_BACKFILL_HOURS: ${{ inputs.backfill_hours || '24' }}
+      CISION_FORCE_BACKFILL: ${{ github.event_name == 'workflow_dispatch' && 'true' || 'false' }}
       CISION_GEOGRAPHY: USA|CAN
       CISION_LANGUAGE: en
       CISION_RETENTION_DAYS: "45"
