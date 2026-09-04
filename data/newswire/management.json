@@ -1,11 +1,76 @@
 {
-  "generated_at": "2026-09-04T17:25:04.762Z",
+  "generated_at": "2026-09-04T17:39:29.928Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "management",
   "page_url": "https://www.mediajobsreport.com/management_news",
-  "count": 32,
+  "count": 33,
   "releases": [
+    {
+      "company": [
+        "4370422 Canada Inc."
+      ],
+      "date": "20260904T172500+0000",
+      "dateline": "MONTRÉAL, Sept. 4, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "QUE",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "FIN"
+      ],
+      "language": "en",
+      "multimedia": [],
+      "release_id": "20260904C4209",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">MONTRÉAL</span>, <span class=\"legendSpanClass\">Sept. 4, 2026</span> /CNW/ -- 4370422 Canada Inc. (the \"<b>Corporation</b>\") today announced that its board of directors is now comprised of three newly appointed directors: Donald W. Campbell, Jacques Valotaire and Marc Veilleux. These changes are effective immediately and follow the resignation of the Corporation's three former directors.</p>\n\n\n\n\n<p>SOURCE 4370422 Canada Inc.</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C4209&amp;Transmission_Id=202609041325CANADANWCANADAPR_C4209&amp;DateId=20260904\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "ticker": [],
+      "title": "4370422 CANADA INC. ANNOUNCES BOARD CHANGES",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260904C4209",
+      "body": "\n<p><span class=\"legendSpanClass\">MONTRÉAL</span>, <span class=\"legendSpanClass\">Sept. 4, 2026</span> /CNW/ -- 4370422 Canada Inc. (the \"<b>Corporation</b>\") today announced that its board of directors is now comprised of three newly appointed directors: Donald W. Campbell, Jacques Valotaire and Marc Veilleux. These changes are effective immediately and follow the resignation of the Corporation's three former directors.</p>\n\n\n\n\n<p>SOURCE 4370422 Canada Inc.</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C4209&amp;Transmission_Id=202609041325CANADANWCANADAPR_C4209&amp;DateId=20260904\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "4370422 Canada Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 5,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "management": [
+            "board of directors",
+            "appointed"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T17:39:30.889Z"
+    },
     {
       "company": [
         "White Knight Capital Corp"
