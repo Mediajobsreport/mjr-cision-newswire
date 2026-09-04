@@ -241,6 +241,6 @@ function primaryPodcastSignal(text) {
 }
 
 function nonMediaEventPromoter(text) {
-  return /\b(hotel|resort|restaurant|casino|airline|bank|healthcare system)\b/i.test(text) &&
+  return /\b(hotel|hospitality|tourism|travel|resort|restaurant|casino|airline|bank|healthcare system)\b/i.test(text) &&
     !/production company|film studio|movie studio|television network|record label/i.test(text);
 }
