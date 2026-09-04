@@ -1,6 +1,6 @@
 {
   "name": "mjr-cision-newswire-importer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "type": "module",
   "description": "Imports and categorizes Cision/PR Newswire releases for Media Jobs Report.",
