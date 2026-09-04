@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:41:28.099Z",
+  "generated_at": "2026-09-04T18:50:07.353Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
@@ -59,14 +59,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "digital",
-        "tradeshow"
+        "digital"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "digital",
-          "tradeshow"
+          "digital"
         ],
         "review": false,
         "scores": {
@@ -97,7 +95,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.463Z"
+      "imported_at": "2026-09-04T18:50:36.916Z"
     },
     {
       "company": [
@@ -171,7 +169,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.030Z"
+      "imported_at": "2026-09-04T18:50:37.800Z"
     },
     {
       "company": [
@@ -250,7 +248,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.924Z"
+      "imported_at": "2026-09-04T18:50:37.989Z"
     },
     {
       "company": [
@@ -331,7 +329,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.419Z"
+      "imported_at": "2026-09-04T18:50:38.662Z"
     },
     {
       "company": [
@@ -437,7 +435,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.605Z"
+      "imported_at": "2026-09-04T18:50:39.127Z"
     },
     {
       "company": [
@@ -523,7 +521,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.731Z"
+      "imported_at": "2026-09-04T18:50:41.165Z"
     },
     {
       "company": [
@@ -584,14 +582,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "digital",
-        "television"
+        "digital"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "digital",
-          "television"
+          "digital"
         ],
         "review": false,
         "scores": {
@@ -620,7 +616,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.184Z"
+      "imported_at": "2026-09-04T18:50:42.055Z"
     },
     {
       "company": [
@@ -711,7 +707,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.806Z"
+      "imported_at": "2026-09-04T18:50:44.861Z"
     },
     {
       "company": [
@@ -792,7 +788,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.349Z"
+      "imported_at": "2026-09-04T18:50:45.791Z"
     },
     {
       "company": [
@@ -871,7 +867,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.674Z"
+      "imported_at": "2026-09-04T18:50:48.025Z"
     },
     {
       "company": [
@@ -972,7 +968,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.569Z"
+      "imported_at": "2026-09-04T18:50:51.045Z"
     },
     {
       "company": [
@@ -1064,7 +1060,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.593Z"
+      "imported_at": "2026-09-04T18:50:57.176Z"
     }
   ]
 }

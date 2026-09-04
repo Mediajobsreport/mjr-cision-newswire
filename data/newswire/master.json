@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T18:41:28.099Z",
+  "generated_at": "2026-09-04T18:50:07.353Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 143,
+  "count": 131,
   "releases": [
     {
       "company": [
@@ -96,7 +96,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:58.936Z"
+      "imported_at": "2026-09-04T18:50:31.598Z"
     },
     {
       "company": [
@@ -169,7 +169,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.029Z"
+      "imported_at": "2026-09-04T18:50:31.808Z"
     },
     {
       "company": [
@@ -274,7 +274,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.126Z"
+      "imported_at": "2026-09-04T18:50:31.988Z"
     },
     {
       "company": [
@@ -353,7 +353,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.249Z"
+      "imported_at": "2026-09-04T18:50:32.173Z"
     },
     {
       "company": [
@@ -432,10 +432,10 @@
             "industry:TVN"
           ]
         },
-        "news_score": 0,
+        "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.355Z"
+      "imported_at": "2026-09-04T18:50:32.357Z"
     },
     {
       "company": [
@@ -517,7 +517,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.533Z"
+      "imported_at": "2026-09-04T18:50:32.713Z"
     },
     {
       "company": [
@@ -570,14 +570,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "entertainment",
-        "television"
+        "entertainment"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "entertainment",
-          "television"
+          "entertainment"
         ],
         "review": false,
         "scores": {
@@ -587,7 +585,7 @@
           "entertainment": 5,
           "management": 0,
           "radio": 0,
-          "television": 12,
+          "television": 2,
           "podcast": 0,
           "tradeshow": 0
         },
@@ -598,15 +596,13 @@
             "industry:FLM"
           ],
           "television": [
-            "emmy awards",
-            "primetime emmy",
             "industry:TVN"
           ]
         },
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.624Z"
+      "imported_at": "2026-09-04T18:50:32.888Z"
     },
     {
       "company": [
@@ -691,7 +687,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.754Z"
+      "imported_at": "2026-09-04T18:50:33.063Z"
     },
     {
       "company": [
@@ -775,7 +771,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.839Z"
+      "imported_at": "2026-09-04T18:50:33.243Z"
     },
     {
       "company": [
@@ -864,7 +860,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.932Z"
+      "imported_at": "2026-09-04T18:50:33.427Z"
     },
     {
       "company": [
@@ -994,7 +990,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.022Z"
+      "imported_at": "2026-09-04T18:50:33.606Z"
     },
     {
       "company": [
@@ -1088,7 +1084,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.121Z"
+      "imported_at": "2026-09-04T18:50:33.802Z"
     },
     {
       "company": [
@@ -1182,87 +1178,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.222Z"
-    },
-    {
-      "company": [
-        "REAL Shows Network"
-      ],
-      "date": "20260903T150500+0000",
-      "dateline": "SAN DIEGO, Sept. 3, 2026",
-      "feed": [
-        "PRNUS",
-        "APPLE_NEWS",
-        "prncom_prnj",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "ENT",
-        "RLT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2927174&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2927174&p=publish"
-        }
-      ],
-      "release_id": "20260903LA39802",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p>Locally hosted series led by Jan Ryan blends distinctive homes, fascinating people, local businesses, and unexpected adventures across San Diego and Southern California.</p><p><span class=\"legendSpanClass\">SAN DIEGO</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- REAL Shows Network (RSN), the national TV platform dedicated to elevating real estate and lifestyle storytelling, has added The Lifestyle Edit, a new locally hosted series serving San Diego and Southern California, to its lineup. The real estate and lifestyle TV series is hosted by local real estate leader Jan Ryan and produced by RSN's Emmy-nominated, Telly Award-winning team.</p>\n    ",
-      "ticker": [],
-      "title": "The Lifestyle Edit TV Series Spotlights San Diego Real Estate, Lifestyle and Local Stories on REAL Shows Network",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903LA39802",
-      "body": "\n<p>Locally hosted series led by Jan Ryan blends distinctive homes, fascinating people, local businesses, and unexpected adventures across San Diego and Southern California.</p><p><span class=\"legendSpanClass\">SAN DIEGO</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- REAL Shows Network (RSN), the national TV platform dedicated to elevating real estate and lifestyle storytelling, has added The Lifestyle Edit, a new locally hosted series serving San Diego and Southern California, to its lineup. The real estate and lifestyle TV series is hosted by local real estate leader Jan Ryan and produced by RSN's Emmy-nominated, Telly Award-winning team.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2927174\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>Viewers can learn more about the series and watch episodes of The Lifestyle Edit at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766368-1&amp;h=546271116&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766368-1&amp;h=2467272439&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=realshows.tv\" target=\"_blank\" rel=\"nofollow\">realshows.tv</a>.</p><p>The Lifestyle Edit mixes distinctive homes with fascinating people, local businesses, unexpected adventures, and the personalities that make Southern California communities worth calling home. Each episode features Jan Ryan:</p><ul type=\"disc\"><li>Exploring notable homes and neighborhoods throughout the San Diego area</li><li>Introducing viewers to local businesses, entrepreneurs, and community personalities</li><li>Highlighting the people and experiences that give Southern California communities their character</li><li>Bringing an adventurous and approachable perspective to real estate and lifestyle storytelling</li></ul><p>\"I love beautiful homes, but what really makes a community interesting is the people,\" said Jan Ryan, host of The Lifestyle Edit. \"I want this show to be fun, welcoming and real.\"</p><p>A longtime Realtor with a passion for adventure, Ryan is equally comfortable hosting a television segment, flying an airplane, surfing a wave, or jumping out of a plane. That sense of curiosity and adventure carries into The Lifestyle Edit, giving viewers a fresh way to experience the homes, lifestyles, and people that make the region extraordinary.</p><p>The Lifestyle Edit is part of REAL Shows Network's growing lineup of locally branded series that highlight communities across the United States.</p><p>As part of RSN's national network of locally branded shows, The Lifestyle Edit gives its host a full 30 minutes to build a recognizable, personality-driven brand while authentically representing San Diego and the broader Southern California region. The show provides local businesses, nonprofits, entrepreneurs, and community influencers a high-quality platform to share their stories through cinematic, lifestyle-driven segments.</p><p>Rooted in RSN's mission of positive media, The Lifestyle Edit focuses on authenticity, connection, and discovery. The goal is simple: showcase Southern California through the homes, lifestyles, and people who make it extraordinary, while bringing a sense of fun and adventure to every episode. High-resolution images and video clips from The Lifestyle Edit are available upon request.</p><p>About REAL Shows Network</p><p>REAL Shows Network (RSN) is a national TV network for top real estate professionals and influential local leaders, giving select hosts in each market the exclusive opportunity to lead a full 30-minute show that showcases their expertise, partners, and community. Created by an Emmy-nominated, Telly Award-winning production team, RSN delivers cinematic, lifestyle-driven storytelling and strategic media exposure that builds authority, deepens community connection, and elevates positive stories in each market. For more information, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766368-1&amp;h=546271116&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766368-1&amp;h=2467272439&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=realshows.tv\" target=\"_blank\" rel=\"nofollow\">realshows.tv</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39802&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-lifestyle-edit-tv-series-spotlights-san-diego-real-estate-lifestyle-and-local-stories-on-real-shows-network-302868613.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-lifestyle-edit-tv-series-spotlights-san-diego-real-estate-lifestyle-and-local-stories-on-real-shows-network-302868613.html</a></p><p>SOURCE REAL Shows Network</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39802&amp;Transmission_Id=202609031105PR_NEWS_USPR_____LA39802&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "REAL Shows Network",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:00.328Z"
+      "imported_at": "2026-09-04T18:50:33.968Z"
     },
     {
       "company": [
@@ -1367,88 +1283,6 @@
     },
     {
       "company": [
-        "Cambium Biomaterials, Inc"
-      ],
-      "date": "20260903T130000+0000",
-      "dateline": "EL SEGUNDO, Calif., Sept. 3, 2026",
-      "feed": [
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY",
-        "PRNUS"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ARO",
-        "CST",
-        "MFG",
-        "CHM"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170&p=publish"
-        },
-        {
-          "caption": "Cambium Announces Close of its $19 Million Series A Financing",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1508323/Cambium-orange-Logo.jpg?id=OA2927169&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1508323/Cambium-orange-Logo.jpg?id=OA2927169&p=publish"
-        }
-      ],
-      "release_id": "20260903LA39793",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">EL SEGUNDO, Calif.</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Cambium, developer of advanced composites and specialty materials, today announced the launch of ApexFrame<sup>™</sup> 5000, a phthalonitrile-based film adhesive engineered for high-temperature, non-structural bonding of polymer films and metallic foils.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170\" title=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\" alt=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\"></img>\n                </p>\n    </div>\n<p>ApexFrame 5000 delivers sustained operational performance up to 600°F (315°C), with short-duration performance up to 800°F (427°C), addressing a persistent gap in high-temperature adhesive systems: materials that can survive the most demanding thermal environments without the handling burden that typically comes with them. The system is solvent-free, room-temperature stable, and requires no freezer storage, reducing both logistics complexity and total cost of ownership for manufacturers.</p>",
-      "ticker": [],
-      "title": "Cambium launches ApexFrame 5000, a high-temperature laminating film adhesive for demanding bonding applications",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903LA39793",
-      "body": "\n<p><span class=\"legendSpanClass\">EL SEGUNDO, Calif.</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Cambium, developer of advanced composites and specialty materials, today announced the launch of ApexFrame<sup>™</sup> 5000, a phthalonitrile-based film adhesive engineered for high-temperature, non-structural bonding of polymer films and metallic foils.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170\" title=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\" alt=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\"></img>\n                </p>\n    </div>\n<p>ApexFrame 5000 delivers sustained operational performance up to 600°F (315°C), with short-duration performance up to 800°F (427°C), addressing a persistent gap in high-temperature adhesive systems: materials that can survive the most demanding thermal environments without the handling burden that typically comes with them. The system is solvent-free, room-temperature stable, and requires no freezer storage, reducing both logistics complexity and total cost of ownership for manufacturers.</p><p>\"A customer came to us with a challenge that existing adhesive technologies couldn't solve: bonding performance in extreme thermal environments for demanding aircraft and drone applications,\" said Cambium CTO James Griffin. \"By combining our materials expertise with a rapid development approach, we delivered ApexFrame 5000, a high-temperature laminating adhesive built for defense applications, that helps customers meet demanding performance requirements without compromising manufacturability.\"</p><p>The launch reflects Cambium's core operating model: taking a material from discovery through qualified production at speed and scale. ApexFrame 5000 moves through Cambium's integrated pipeline, discovery, product development, and manufacturing, unified under a single operating system, compressing a process that traditionally takes years into a matter of months.</p><p>Cambium's manufacturing footprint gives customers a direct path from formulation to production-ready material, without the handoffs and delays that come from working across separate suppliers for chemistry, qualification, and manufacturing. That integration is increasingly critical for customers in aerospace, defense, and space, where thermal extremes, tight qualification windows, and long-term reliability are all non-negotiable.</p><p>ApexFrame 5000 is available now as an unsupported film adhesive in standard roll widths of 12 in (300mm) and 38 in (965mm), with additional widths and carrier options available upon request.</p><p>For technical specifications or to request samples, contact <a href=\"mailto:composites@cambiumglobal.com\" target=\"_blank\" rel=\"nofollow\">composites@cambiumglobal.com</a>.</p><p><b>About Cambium</b><br></br>Cambium is building the advanced materials base for those building the future. The company integrates AI-driven materials discovery, rapid product development, industrialized qualification, and flexible manufacturing into a single operating system — compressing the path from invention to qualified production from years to months. Cambium's advanced composites and specialty materials serve customers across defense, aerospace, space, high-performance automotive and other industries where performance and speed of supply are decisive. Headquartered in El Segundo, CA, Cambium operates four manufacturing, development, and testing facilities across the US, UK, and EU. Please visit <a href=\"mailto:cambiumglobal.com\" target=\"_blank\" rel=\"nofollow\">cambiumglobal.com</a></p><p>For more information, contact Stephan Herrera, Co-founder, Chief Marketing Officer and Head of Government Affairs at <a href=\"mailto:stephan.herrera@cambiumglobal.com\" target=\"_blank\" rel=\"nofollow\">stephan.herrera@cambiumglobal.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1508323/Cambium-orange-Logo.jpg?id=OA2927169\" title=\"Cambium Announces Close of its $19 Million Series A Financing\" alt=\"Cambium Announces Close of its $19 Million Series A Financing\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39793&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/cambium-launches-apexframe-5000-a-high-temperature-laminating-film-adhesive-for-demanding-bonding-applications-302868220.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/cambium-launches-apexframe-5000-a-high-temperature-laminating-film-adhesive-for-demanding-bonding-applications-302868220.html</a></p><p>SOURCE Cambium Biomaterials, Inc</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39793&amp;Transmission_Id=202609030900PR_NEWS_USPR_____LA39793&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Cambium Biomaterials, Inc",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "film"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:00.571Z"
-    },
-    {
-      "company": [
         "World Team Tennis"
       ],
       "date": "20260903T130000+0000",
@@ -1524,7 +1358,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.681Z"
+      "imported_at": "2026-09-04T18:50:34.173Z"
     },
     {
       "company": [
@@ -1604,7 +1438,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.764Z"
+      "imported_at": "2026-09-04T18:50:34.353Z"
     },
     {
       "company": [
@@ -1693,7 +1527,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.890Z"
+      "imported_at": "2026-09-04T18:50:34.561Z"
     },
     {
       "company": [
@@ -1796,7 +1630,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.986Z"
+      "imported_at": "2026-09-04T18:50:34.727Z"
     },
     {
       "company": [
@@ -1887,7 +1721,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.100Z"
+      "imported_at": "2026-09-04T18:50:34.922Z"
     },
     {
       "company": [
@@ -1977,7 +1811,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.204Z"
+      "imported_at": "2026-09-04T18:50:35.087Z"
     },
     {
       "company": [
@@ -2054,7 +1888,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.286Z"
+      "imported_at": "2026-09-04T18:50:35.316Z"
     },
     {
       "company": [
@@ -2132,89 +1966,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.386Z"
-    },
-    {
-      "company": [
-        "REAL Shows Network"
-      ],
-      "date": "20260902T204300+0000",
-      "dateline": "RENO, Nev., Sept. 2, 2026",
-      "feed": [
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "APPLE_NEWS",
-        "PRNUS"
-      ],
-      "geography": [
-        "NEV",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "RLT",
-        "RRL",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2927138&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2927138&p=publish"
-        }
-      ],
-      "release_id": "20260902LA39788",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "RLE"
-      ],
-      "summary": "<p>Locally hosted series led by Kane Schaller highlights the people, neighborhoods, businesses, and experiences that define the Tahoe-Truckee region.</p><p><span class=\"legendSpanClass\">RENO, Nev.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- REAL Shows Network (RSN), the national TV platform dedicated to elevating real estate and lifestyle storytelling, has added Tahoe Truckee Life, a new locally hosted series serving the Reno-Tahoe market, to its lineup. The regional real estate and lifestyle TV series is hosted by local real estate leader Kane Schaller and produced by RSN's Emmy-nominated, Telly Award-winning team.</p>\n    ",
-      "ticker": [],
-      "title": "Tahoe Truckee Life TV Series Spotlights Reno-Tahoe Real Estate and Lifestyle on REAL Shows Network",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902LA39788",
-      "body": "\n<p>Locally hosted series led by Kane Schaller highlights the people, neighborhoods, businesses, and experiences that define the Tahoe-Truckee region.</p><p><span class=\"legendSpanClass\">RENO, Nev.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- REAL Shows Network (RSN), the national TV platform dedicated to elevating real estate and lifestyle storytelling, has added Tahoe Truckee Life, a new locally hosted series serving the Reno-Tahoe market, to its lineup. The regional real estate and lifestyle TV series is hosted by local real estate leader Kane Schaller and produced by RSN's Emmy-nominated, Telly Award-winning team.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2927138\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>Viewers can learn more about the series and watch episodes of Tahoe Truckee Life at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766354-1&amp;h=1561014203&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766354-1&amp;h=4002141888&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=realshows.tv\" target=\"_blank\" rel=\"nofollow\">realshows.tv</a>.</p><p>The series captures the spirit of the Tahoe-Truckee region by blending real estate, local culture, and community stories into a vibrant viewing experience. Each episode features Kane Schaller:</p><ul type=\"disc\"><li>Highlighting notable neighborhoods and distinctive properties throughout the Tahoe-Truckee region</li><li>Celebrating local businesses, nonprofits, and community organizations</li><li>Spotlighting the people, places, and experiences that shape life in the area</li></ul><p>\"I have been a part of the Tahoe-Truckee community for nearly 40 years, and I feel so blessed to be selected to share this amazing area and community through this phenomenal opportunity,\" said Kane Schaller, host of Tahoe Truckee Life. \"This area has so much to offer, and I look forward to giving the audience an insider's perspective on this region and all it has to offer.\"</p><p>Tahoe Truckee Life is part of REAL Shows Network's growing lineup of locally branded series that highlight communities across the United States.</p><p>As part of RSN's national network of locally branded shows, Tahoe Truckee Life gives its host a full 30 minutes to build a recognizable, personality-driven brand while authentically representing the unique character of the Tahoe-Truckee region and greater Reno-Tahoe market. The show provides local organizations, including nonprofits and philanthropic initiatives, along with entrepreneurs and community influencers, a high-quality platform to share their stories through cinematic, lifestyle-driven segments.</p><p>Rooted in RSN's mission of positive media, Tahoe Truckee Life focuses on authenticity, connection, and the everyday experiences that make communities stand out. It uplifts the people, businesses, and causes that make the region extraordinary, offering viewers fresh insight along with engaging, professionally produced entertainment. High-resolution images and video clips from Tahoe Truckee Life are available upon request.</p><p><b>About REAL Shows Network<br></br></b>REAL Shows Network (RSN) is a national TV network for top real estate professionals and influential local leaders, giving select hosts in each market the exclusive opportunity to lead a full 30-minute show that showcases their expertise, partners, and community. Created by an Emmy-nominated, Telly Award-winning production team, RSN delivers cinematic, lifestyle-driven storytelling and strategic media exposure that builds authority, deepens community connection, and elevates positive stories in each market. For more information, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766354-1&amp;h=1561014203&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766354-1&amp;h=4002141888&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=realshows.tv\" target=\"_blank\" rel=\"nofollow\">realshows.tv</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39788&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/tahoe-truckee-life-tv-series-spotlights-reno-tahoe-real-estate-and-lifestyle-on-real-shows-network-302868180.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/tahoe-truckee-life-tv-series-spotlights-reno-tahoe-real-estate-and-lifestyle-on-real-shows-network-302868180.html</a></p><p>SOURCE REAL Shows Network</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39788&amp;Transmission_Id=202609021643PR_NEWS_USPR_____LA39788&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "REAL Shows Network",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:01.475Z"
+      "imported_at": "2026-09-04T18:50:35.511Z"
     },
     {
       "company": [
@@ -2302,7 +2054,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.598Z"
+      "imported_at": "2026-09-04T18:50:35.688Z"
     },
     {
       "company": [
@@ -2394,7 +2146,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.693Z"
+      "imported_at": "2026-09-04T18:50:35.863Z"
     },
     {
       "company": [
@@ -2449,14 +2201,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "podcast",
-        "tradeshow"
+        "podcast"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "podcast",
-          "tradeshow"
+          "podcast"
         ],
         "review": false,
         "scores": {
@@ -2488,7 +2238,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.786Z"
+      "imported_at": "2026-09-04T18:50:36.059Z"
     },
     {
       "company": [
@@ -2584,92 +2334,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.878Z"
-    },
-    {
-      "company": [
-        "SKYWORTH USA"
-      ],
-      "date": "20260902T160000+0000",
-      "dateline": "CYPRESS, Calif., Sept. 2, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM",
-        "CHN",
-        "ASA"
-      ],
-      "industry": [
-        "HMI",
-        "TVN",
-        "ENT",
-        "CSE",
-        "ART"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "A SKYWORTH Canvas Art TV is mounted on the wall in one of Chip Wade's Perch Luxury Treehouses, blending seamlessly with the room's rustic-modern decor.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977352/20260827233015EDT_image_1.jpg?id=OA2917544&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1977352/20260827233015EDT_image_1.jpg?id=OA2917544&p=publish"
-        }
-      ],
-      "release_id": "20260902CN35865",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\"><i>SKYWORTH is Debuting a New Canvas Art</i><i><sup>®</sup></i><i> TV Line at the Show</i></p><p><span class=\"legendSpanClass\">CYPRESS, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- SKYWORTH, a global leader in advanced display technology, partnered with Emmy-winning designer and TV host Chip Wade to outfit his Perch Luxury Treehouses, a luxury vacation rental venture in the North Georgia mountains, with its lifestyle TV lineup. The three treehouses: The Tom, The Jenny, and The Jake, each named after a type of turkey --showcase Wade's signature blend of rustic craftsmanship and modern design.</p>\n    ",
-      "ticker": [],
-      "title": "Chip Wade Outfits Perch Luxury Treehouses with SKYWORTH's Lifestyle TV Lineup, Led by Its Canvas Art® TV",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902CN35865",
-      "body": "\n<p class=\"prntac\"><i>SKYWORTH is Debuting a New Canvas Art</i><i><sup>®</sup></i><i> TV Line at the Show</i></p><p><span class=\"legendSpanClass\">CYPRESS, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- SKYWORTH, a global leader in advanced display technology, partnered with Emmy-winning designer and TV host Chip Wade to outfit his Perch Luxury Treehouses, a luxury vacation rental venture in the North Georgia mountains, with its lifestyle TV lineup. The three treehouses: The Tom, The Jenny, and The Jake, each named after a type of turkey --showcase Wade's signature blend of rustic craftsmanship and modern design.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1977352/20260827233015EDT_image_1.jpg?id=OA2917544\" title=\"A SKYWORTH Canvas Art TV is mounted on the wall in one of Chip Wade's Perch Luxury Treehouses, blending seamlessly with the room's rustic-modern decor.\" alt=\"A SKYWORTH Canvas Art TV is mounted on the wall in one of Chip Wade's Perch Luxury Treehouses, blending seamlessly with the room's rustic-modern decor.\"></img>\n                </p>\n    </div>\n<p>At the heart of the installation is SKYWORTH's Canvas Art<sup>®</sup> TV, which doubles as a rotating gallery of artwork and photography when not in use for entertainment, turning each retreat into its own intimate art space. SKYWORTH's Clarus S1 Full Sun TV and Limited Edition Companion Portable™ Smart TV round out the property, bringing outdoor viewing and on-the-go flexibility to the guest experience. \"The SKYWORTH lifestyle TVs were a natural fit for this project,\" said Michael Gleason, Director of Sales, SKYWORTH USA. <span id=\"spanHghltc99f\">\"Our Ca</span>nvas Art<sup>®</sup> TV can even make a casual getaway into an art gallery.\"</p><p>Set against the North Georgia mountains, the Perch Luxury Treehouses pair comfort food, seasonal libations, and live entertainment with a rustic-modern escape — a fitting backdrop for showcasing how SKYWORTH's Canvas Art<sup>®</sup> TVs bring gallery-quality artistry into everyday spaces, a range the brand continues to expand.</p><p>SKYWORTH is demonstrating its new C2 Canvas Art<sup><span id=\"spanHghltf9f0\">®</span></sup> TV in Booth 2923. The C2 brings the brand's flagship 'True QD-Mini LED Technology' and OmniView Matte Screen™ to a broader range of TVs, making elite display performance more accessible for integrators to offer their clients.</p><p><b>About SKYWORTH</b></p><p>SKYWORTH USA is the North American division of SKYWORTH Group, a global electronics leader founded in 1988 and headquartered in Shenzhen. Built on a foundation of innovation, quality, and sustainability, SKYWORTH USA provides a comprehensive portfolio of television and display solutions designed to meet the demands of any user and delivers industry-leading visual technology. By engineering products for various applications, SKYWORTH USA ensures high-performance viewing experiences are accessible for every space.</p><p><b>Follow SKYWORTH <span id=\"spanHghltbee0\">on: </span></b><a href=\"https://www.linkedin.com/company/skyworth-usa/\" target=\"_blank\" rel=\"nofollow\"><b><span id=\"spanHghlt5238\">LinkedIn</span></b></a>  <a href=\"https://www.facebook.com/SkyworthNA/\" target=\"_blank\" rel=\"nofollow\"><b>Facebook</b></a>  <a href=\"https://www.instagram.com/skyworthna/\" target=\"_blank\" rel=\"nofollow\"><b>Instagram</b></a>  <a href=\"https://www.youtube.com/c/SkyworthNA\" target=\"_blank\" rel=\"nofollow\"><b>YouTube</b></a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN35865&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/chip-wade-outfits-perch-luxury-treehouses-with-skyworths-lifestyle-tv-lineup-led-by-its-canvas-art-tv-302862564.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/chip-wade-outfits-perch-luxury-treehouses-with-skyworths-lifestyle-tv-lineup-led-by-its-canvas-art-tv-302862564.html</a></p><p>SOURCE SKYWORTH USA</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN35865&amp;Transmission_Id=202609021200PR_NEWS_USPR_____CN35865&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "SKYWORTH USA",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:01.976Z"
+      "imported_at": "2026-09-04T18:50:36.232Z"
     },
     {
       "company": [
@@ -2749,7 +2414,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.060Z"
+      "imported_at": "2026-09-04T18:50:36.392Z"
     },
     {
       "company": [
@@ -2828,7 +2493,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.164Z"
+      "imported_at": "2026-09-04T18:50:36.572Z"
     },
     {
       "company": [
@@ -2897,7 +2562,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.366Z"
+      "imported_at": "2026-09-04T18:50:36.733Z"
     },
     {
       "company": [
@@ -2952,14 +2617,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "digital",
-        "tradeshow"
+        "digital"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "digital",
-          "tradeshow"
+          "digital"
         ],
         "review": false,
         "scores": {
@@ -2990,7 +2653,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.463Z"
+      "imported_at": "2026-09-04T18:50:36.916Z"
     },
     {
       "company": [
@@ -3077,7 +2740,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.568Z"
+      "imported_at": "2026-09-04T18:50:37.104Z"
     },
     {
       "company": [
@@ -3148,7 +2811,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.659Z"
+      "imported_at": "2026-09-04T18:50:37.286Z"
     },
     {
       "company": [
@@ -3256,7 +2919,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.829Z"
+      "imported_at": "2026-09-04T18:50:37.620Z"
     },
     {
       "company": [
@@ -3330,7 +2993,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.030Z"
+      "imported_at": "2026-09-04T18:50:37.800Z"
     },
     {
       "company": [
@@ -3409,7 +3072,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.924Z"
+      "imported_at": "2026-09-04T18:50:37.989Z"
     },
     {
       "company": [
@@ -3500,7 +3163,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.130Z"
+      "imported_at": "2026-09-04T18:50:38.150Z"
     },
     {
       "company": [
@@ -3585,7 +3248,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.234Z"
+      "imported_at": "2026-09-04T18:50:38.330Z"
     },
     {
       "company": [
@@ -3673,7 +3336,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.318Z"
+      "imported_at": "2026-09-04T18:50:38.494Z"
     },
     {
       "company": [
@@ -3754,7 +3417,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.419Z"
+      "imported_at": "2026-09-04T18:50:38.662Z"
     },
     {
       "company": [
@@ -3815,14 +3478,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "entertainment",
-        "television"
+        "entertainment"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "entertainment",
-          "television"
+          "entertainment"
         ],
         "review": false,
         "scores": {
@@ -3850,7 +3511,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.515Z"
+      "imported_at": "2026-09-04T18:50:38.961Z"
     },
     {
       "company": [
@@ -3956,7 +3617,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.605Z"
+      "imported_at": "2026-09-04T18:50:39.127Z"
     },
     {
       "company": [
@@ -4043,7 +3704,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.704Z"
+      "imported_at": "2026-09-04T18:50:39.300Z"
     },
     {
       "company": [
@@ -4141,7 +3802,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.801Z"
+      "imported_at": "2026-09-04T18:50:39.510Z"
     },
     {
       "company": [
@@ -4229,7 +3890,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.885Z"
+      "imported_at": "2026-09-04T18:50:39.718Z"
     },
     {
       "company": [
@@ -4306,7 +3967,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.982Z"
+      "imported_at": "2026-09-04T18:50:39.923Z"
     },
     {
       "company": [
@@ -4392,7 +4053,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.080Z"
+      "imported_at": "2026-09-04T18:50:40.101Z"
     },
     {
       "company": [
@@ -4471,7 +4132,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.186Z"
+      "imported_at": "2026-09-04T18:50:40.289Z"
     },
     {
       "company": [
@@ -4563,7 +4224,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.346Z"
+      "imported_at": "2026-09-04T18:50:40.633Z"
     },
     {
       "company": [
@@ -4640,7 +4301,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.434Z"
+      "imported_at": "2026-09-04T18:50:40.816Z"
     },
     {
       "company": [
@@ -4723,104 +4384,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.534Z"
-    },
-    {
-      "company": [
-        "Hearst Media Production Group, LLC"
-      ],
-      "date": "20260901T140100+0000",
-      "dateline": "NEW YORK, Sept. 1, 2026",
-      "feed": [
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "APPLE_NEWS",
-        "prncom_prnj",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "CMP",
-        "FLM",
-        "RAD",
-        "EDU",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Jeff Corwin hosts \"Jeff Corwin's Southern Wild,\" debuting October 3 on ABC stations nationwide.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979451/Jeff-Corwin-hosts-Jeff-Corwins-Southern-Wild-debuting-October-3-on-ABC-stations-nationwide.jpg?id=OA2923065&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1979451/Jeff-Corwin-hosts-Jeff-Corwins-Southern-Wild-debuting-October-3-on-ABC-stations-nationwide.jpg?id=OA2923065&p=publish"
-        }
-      ],
-      "release_id": "20260901NY38105",
-      "status": "PUBLISHED",
-      "subject": [
-        "ANW",
-        "PET"
-      ],
-      "summary": "<p class=\"prntac\"><b><i>JEFF CORWIN'S</i></b> <b><i>SOUTHERN WILD</i></b><b> ON ABC STATIONS NATIONWIDE</b></p><p class=\"prntac\"><b><i>Series Premieres Saturday, October 3 </i></b></p><p class=\"prntac\"><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764821-1&amp;h=4156324036&amp;u=https%3A%2F%2Fyoutu.be%2FV7eXPZh_jhU&amp;a=Watch+Trailer\" target=\"_blank\" rel=\"nofollow\"><b><i>Watch Trailer</i></b></a> </p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Emmy®-winning conservationist, television host, and executive producer Jeff Corwin returns to national television this fall with <i>Jeff Corwin's Southern Wild</i><b>,</b> a new wildlife conservation series produced by Hearst Media Production Group in an exclusive partnership with Lees-McRae College.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979451/Jeff-Corwin-hosts-Jeff-Corwins-Southern-Wild-debuting-October-3-on-ABC-stations-nationwide.jpg?id=OA2923065\" title=\"Jeff Corwin hosts &quot;Jeff Corwin's Southern Wild,&quot; debuting October 3 on ABC stations nationwide.\" alt=\"Jeff Corwin hosts &quot;Jeff Corwin's Southern Wild,&quot; debuting October 3 on ABC stations nationwide.\"></img>\n                </p>\n    </div>\n<p><i>Jeff Corwin's Southern Wild</i> premieres Saturday, October 3, and will air weekend mornings on ABC stations nationwide as part of the Weekend Adventure educational/informational (E/I) programming block (times vary; check local listings). </p>",
-      "ticker": [],
-      "title": "JEFF CORWIN RETURNS TO NATIONAL TELEVISION FOR NEW SERIES",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901NY38105",
-      "body": "\n<p class=\"prntac\"><b><i>JEFF CORWIN'S</i></b> <b><i>SOUTHERN WILD</i></b><b> ON ABC STATIONS NATIONWIDE</b></p><p class=\"prntac\"><b><i>Series Premieres Saturday, October 3 </i></b></p><p class=\"prntac\"><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764821-1&amp;h=4156324036&amp;u=https%3A%2F%2Fyoutu.be%2FV7eXPZh_jhU&amp;a=Watch+Trailer\" target=\"_blank\" rel=\"nofollow\"><b><i>Watch Trailer</i></b></a> </p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Emmy®-winning conservationist, television host, and executive producer Jeff Corwin returns to national television this fall with <i>Jeff Corwin's Southern Wild</i><b>,</b> a new wildlife conservation series produced by Hearst Media Production Group in an exclusive partnership with Lees-McRae College.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979451/Jeff-Corwin-hosts-Jeff-Corwins-Southern-Wild-debuting-October-3-on-ABC-stations-nationwide.jpg?id=OA2923065\" title=\"Jeff Corwin hosts &quot;Jeff Corwin's Southern Wild,&quot; debuting October 3 on ABC stations nationwide.\" alt=\"Jeff Corwin hosts &quot;Jeff Corwin's Southern Wild,&quot; debuting October 3 on ABC stations nationwide.\"></img>\n                </p>\n    </div>\n<p><i>Jeff Corwin's Southern Wild</i> premieres Saturday, October 3, and will air weekend mornings on ABC stations nationwide as part of the Weekend Adventure educational/informational (E/I) programming block (times vary; check local listings). </p><p>Filmed across North Carolina, <i>Jeff Corwin's Southern Wild</i> follows Corwin from the Appalachian Mountains to the Atlantic coast as he explores the wildlife, wild places and passionate people that make the Tar Heel State one of the country's most remarkable natural environments. Along the way, Corwin will search for bats and salamanders, encounter black bears, alligators and sea turtles, snorkel waterways in exploration of native fish, and take viewers inside wildlife rescue and conservation efforts happening in real-time. </p><p>Joining Corwin in the field are scientists, wildlife experts and conservationists, as well as Lees-McRae College students, educators and alumni, whose hands-on work in wildlife biology, rehabilitation and conservation offers a window into how the next generation of environmental leaders is being prepared.</p><p>\"North Carolina is an extraordinary place to tell stories about wildlife,\" Corwin said. \"But what excites me most about <i>Southern Wild</i> is that we're not only encountering incredible animals — we're meeting the people who have dedicated their lives to understanding and conserving them and working alongside students who will carry that mission into the future.\"</p><p>\"<i>Jeff Corwin's Southern Wild</i> gives us an extraordinary opportunity to demonstrate, on a national scale, why Lees-McRae is the premier institution for experiential learning,\" said Lee King, president of Lees-McRae College. \"North Carolina is a living classroom for our students. From actively caring for animals at our rehab center and leading research at our nature preserve, to working with conservation partners across the state, our students are already leaders in wildlife sciences. To have Jeff Corwin showcase their work and studies is incredibly exciting for our college.\"</p><p>\"Educating, informing and inspiring the next generation is at the heart of HMPG's mission,\" said Bryan Curb, president of Hearst Media Production Group. \"Bringing together Jeff Corwin's passion for wildlife with the hands-on conservation work at Lees-McRae College makes this series a natural and compelling fit for our viewers.\"</p><p>For more than three decades, Jeff Corwin has brought audiences face-to-face with wildlife and some of the planet's most extraordinary environments, building a career that has made him one of television's most recognizable wildlife conservationists. Corwin has fronted more than a dozen television series seen in more than 100 countries. He holds degrees in biology and anthropology and a master's degree in wildlife and fisheries conservation and is a noted author, wildlife biologist and conservation advocate. Corwin has partnered with HMPG on several series including <i>Wildlife Nation with Jeff Corwin</i> and <i>Ocean Mysteries with Jeff Corwin</i>.</p><p>HMPG's current program portfolio comprises more than 30 original series and hundreds of hours of content annually on leading broadcast networks and station groups and on connected TV and streaming platforms. It has a library of 85 series (6,000 episodes) and its content can be found in 100 countries.</p><p><b>About Lees-McRae College<br></br></b>Nestled in the Blue Ridge Mountains of western North Carolina, Lees-McRae College is a private, residential college that awards baccalaureate and graduate degrees. At nearly 4,000 feet—the highest elevation of any campus on the East Coast—the college celebrates its location through distinct programming. An emphasis on experiential education inspires students to learn by doing and gain broad knowledge through study across disciplines. To provide continuing education opportunities for all, the college also offers bachelor's and master's programs online and in surrounding communities. For more information, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764821-1&amp;h=451483110&amp;u=http%3A%2F%2Fwww.lmc.edu%2F&amp;a=www.lmc.edu\" target=\"_blank\" rel=\"nofollow\">www.lmc.edu</a> or call 828.898.5241.</p><p><b>About Hearst Media Production Group<br></br></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764821-1&amp;h=2297025220&amp;u=https%3A%2F%2Fhmpg.com%2F&amp;a=Hearst+Media+Production+Group\" target=\"_blank\" rel=\"nofollow\">Hearst Media Production Group</a> (HMPG), a business unit of Hearst Television, is an independent producer and distributor of original programming for TV stations, broadcast and cable networks and streaming services. HMPG produces hundreds of hours of Emmy® Award-winning programming annually across linear, streaming, digital and social media platforms for domestic and international distribution in 100 countries. Its popular weekly educational/informational (E/I) programming blocks air weekends nationwide including \"Weekend Adventure,\" on ABC stations; \"CBS WKND,\" on the CBS Network; \"The More You Know,\" on the NBC Network; \"One Magnificent Morning,\" on the CW Network; \"Mi Telemundo\" on the Telemundo Network and \"Go Time\" on independent stations. HMPG also produces and/or distributes a diverse slate of other programming and content including the company's dedicated FAST channels Xplore, The Jack Hanna Channel, Rovr Pets, and Lucky Dog Channel, available on some of the most popular smart TVs and streaming platforms. HMPG has offices in New York, Los Angeles, and Charlotte. HMPG is represented by United Talent Agency.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY38105&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/jeff-corwin-returns-to-national-television-for-new-series-302866328.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/jeff-corwin-returns-to-national-television-for-new-series-302866328.html</a></p><p>SOURCE Hearst Media Production Group, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY38105&amp;Transmission_Id=202609011001PR_NEWS_USPR_____NY38105&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Hearst Media Production Group, LLC",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 5,
-          "management": 1,
-          "radio": 2,
-          "television": 4,
-          "podcast": 2,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "summary:producer",
-            "industry:ENT",
-            "industry:FLM"
-          ],
-          "management": [
-            "summary:executive"
-          ],
-          "radio": [
-            "industry:RAD"
-          ],
-          "television": [
-            "television",
-            "industry:TVN"
-          ],
-          "podcast": [
-            "industry:RAD"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:04.635Z"
+      "imported_at": "2026-09-04T18:50:40.983Z"
     },
     {
       "company": [
@@ -4906,7 +4470,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.731Z"
+      "imported_at": "2026-09-04T18:50:41.165Z"
     },
     {
       "company": [
@@ -4987,7 +4551,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.819Z"
+      "imported_at": "2026-09-04T18:50:41.334Z"
     },
     {
       "company": [
@@ -5075,7 +4639,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.906Z"
+      "imported_at": "2026-09-04T18:50:41.495Z"
     },
     {
       "company": [
@@ -5150,7 +4714,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.004Z"
+      "imported_at": "2026-09-04T18:50:41.667Z"
     },
     {
       "company": [
@@ -5232,7 +4796,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.088Z"
+      "imported_at": "2026-09-04T18:50:41.875Z"
     },
     {
       "company": [
@@ -5324,7 +4888,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.281Z"
+      "imported_at": "2026-09-04T18:50:42.231Z"
     },
     {
       "company": [
@@ -5385,14 +4949,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "digital",
-        "television"
+        "digital"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "digital",
-          "television"
+          "digital"
         ],
         "review": false,
         "scores": {
@@ -5421,7 +4983,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.184Z"
+      "imported_at": "2026-09-04T18:50:42.055Z"
     },
     {
       "company": [
@@ -5522,7 +5084,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.373Z"
+      "imported_at": "2026-09-04T18:50:42.393Z"
     },
     {
       "company": [
@@ -5599,7 +5161,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.564Z"
+      "imported_at": "2026-09-04T18:50:42.840Z"
     },
     {
       "company": [
@@ -5687,7 +5249,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.601Z"
+      "imported_at": "2026-09-04T18:50:42.583Z"
     },
     {
       "company": [
@@ -5775,94 +5337,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.703Z"
-    },
-    {
-      "company": [
-        "Eluvio, Inc."
-      ],
-      "date": "20260901T040100+0000",
-      "dateline": "BERKELEY, Calif., Sept. 1, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS",
-        "prncom_prnj",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Eluvio to Power Pasifika+: ",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977844/Eluvio-PasifikaTV-Photo.jpg?id=OA2918783&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1977844/Eluvio-PasifikaTV-Photo.jpg?id=OA2918783&p=publish"
-        }
-      ],
-      "release_id": "20260901SF36446",
-      "status": "PUBLISHED",
-      "subject": [
-        "LIC",
-        "JVN"
-      ],
-      "summary": "<ul type=\"disc\"><li><b><i>New Direct-to-Consumer OTT Service: </i></b><i>New Zealand-based</i> <i>Pacific Cooperation Broadcasting Limited (PCBL), operator of Pasifika TV, has selected Eluvio for a new direct-to-consumer streaming service scheduled to launch later this year</i></li></ul><ul type=\"disc\"><li><b><i>A Platform with Purpose:</i></b><i> Focusing on Pacific media sustainability and story sovereignty, content will come from the consortium of 30+ Pacific broadcasters and local content creators, backed by a revenue-share model that returns value directly to the region's media ecosystem</i></li></ul>",
-      "ticker": [],
-      "title": "Eluvio to Power Pasifika+: New OTT TV Streaming Service to Reach Consumers Throughout the Pacific and Across the Globe",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901SF36446",
-      "body": "\n<ul type=\"disc\"><li><b><i>New Direct-to-Consumer OTT Service: </i></b><i>New Zealand-based</i> <i>Pacific Cooperation Broadcasting Limited (PCBL), operator of Pasifika TV, has selected Eluvio for a new direct-to-consumer streaming service scheduled to launch later this year</i></li></ul><ul type=\"disc\"><li><b><i>A Platform with Purpose:</i></b><i> Focusing on Pacific media sustainability and story sovereignty, content will come from the consortium of 30+ Pacific broadcasters and local content creators, backed by a revenue-share model that returns value directly to the region's media ecosystem</i></li></ul><ul type=\"disc\"><li><b><i>Built on Eluvio's Global Broadcast Fabric: </i></b><i>New service to provide live and VOD distribution, monetization, and frame-accurate inline AI without file duplication or use of legacy media clouds and CDNs</i> </li></ul><p><span class=\"legendSpanClass\">BERKELEY, Calif.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Ahead of IBC Show 2026, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762149-1&amp;h=1807109021&amp;u=https%3A%2F%2Feluv.io%2F&amp;a=Eluvio\" target=\"_blank\" rel=\"nofollow\">Eluvio</a> today announced that it was selected to power Pasifika+, a new direct-to-consumer streaming service for <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762149-1&amp;h=2512511724&amp;u=https%3A%2F%2Fpasifikatv.co.nz%2Fabout-us%2F&amp;a=Pacific+Cooperation+Broadcasting+Limited+(PCBL)%2C\" target=\"_blank\" rel=\"nofollow\">Pacific Cooperation Broadcasting Limited (PCBL),</a> that will extend the collective reach of Pasifika TV and its media partners to Pacific Island communities and fans across the globe. Eluvio's Content Fabric will provide Pasifika+ with a unified zero-copy platform for broadcast, streaming and AI video intelligence from a single ingest workflow, without creating file copies at any stage, and superseding the use of legacy media clouds or CDNs. Specific details about pricing and availability of Pasifika+ will be made by PCBL later this year. </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1977844/Eluvio-PasifikaTV-Photo.jpg?id=OA2918783\" title=\"Eluvio to Power Pasifika+: \" alt=\"Eluvio to Power Pasifika+: \"></img>\n                </p>\n    </div>\n<p>Formed to strengthen partnerships between New Zealand and the Pacific Islands through television broadcasting, PCBL delivers Pasifika TV to a growing collective of more than 30 free-to-air broadcast partners across the Pacific. Pasifika+ will extend that mission via a direct-to-consumer streaming service globally for the first time. Pasifika+ aims to connect diaspora audiences in New Zealand, Australia, the U.S., and elsewhere back to their home islands, preserve and share Pacific culture, sport, news, and original entertainment, and provide the region's broadcasters and content creators a new, equitable revenue stream.</p><p>\"Pasifika+ is a platform with purpose — it's about giving every fan of Pacific content, especially our diaspora, access to the unique stories, news, and entertainment to stay connected to home, while opening a new, equitable revenue stream back to the 30+ broadcasters and local content creators who make our stories possible. Beyond entertainment value, Pasifika+ will provide our regional media partners with a powerful new way to advocate for self-determination, sovereignty, and government accountability, while educating the rest of the world about the beauty of and issues facing Pacific island nations,\" said Natasha Meleisea, Chief Executive Officer, PCBL. \"Therefore, after evaluating numerous alternatives, we selected Eluvio because they aligned with our aspirations, had the most cost-effective, easy-to-use, and technologically advanced platform to securely scale into a global operation, while providing us a level of monetization and viewer insights never before possible. We look forward to partnering with Eluvio to launch Pasifika+ in the months ahead.\"</p><p>\"PCBL is a mission-driven organization with the trust of Pacific broadcasters, regional production companies, and content creators, and we're honored that the Eluvio Content Fabric, serving as a Global Broadcast Fabric, will enable them to distribute and monetize their exceptional regional news, sports, documentaries, and entertainment globally for the first time,\" said Michelle Munson, CEO and Co-founder, Eluvio. \"In addition to traditional live and VOD programming, Pasifika+ will also deploy our Inline AI services to expand their content pipeline, using Eluvio's AI-enabled analysis, clipping, search, and content composition, to scale efficiently from day one without requiring additional original production. For an organization carrying this much cultural and economic responsibility, having zero-copy distribution, monetization, and AI unified on a single platform isn't just efficient, it gives PCBL the freedom to focus on their audiences and creators well into the future.\"</p><p><b>A Unified Platform for Streaming and AI Video Intelligence</b></p><p>Eluvio's Content Fabric receives live or VOD source feeds and dynamically ingests, transcodes, publishes and generates just-in-time streaming output directly to viewers. Streaming is provided at full source resolution, including HD and 4K, with dynamic automatic adaptation to the user's available bandwidth with low latency HLS/DASH delivery, unlimited multi-view, and \"zero-copy\" live-to-VoD and fast DVR playback. Pasifika TV will provide a white-label browser, mobile, and connected TV application to its viewers built using the Eluvio Media <span>Wallet</span> platform (full turnkey OTT Suite). The platform also provides subscriptions, pay-per-view, and/or ad-supported monetization, while providing end-to-end content security and anti-piracy protection including strong encryption, DRM, forensic watermarking, and dynamic authorization per-offering including geo blocking and rights control. All features are built-in allowing for a hyper-efficient, tamper-proof distribution, fast and easy purchasing, and on-screen authenticity proofs for the viewer.</p><p>In addition, the Eluvio Video Intelligence Editor (EVIE) and AI-assisted tools provide frame-accurate, in-line analysis, indexing, and search, composition, and transformation such as<b> live vertical video</b>, all without file copies or re-transcoding. Finally, Eluvio Content Analytics provides complete transparency of source-to-viewer audience, QoS, and sales analytics. Full details about Eluvio's technical capabilities and benefits can be found at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762149-1&amp;h=3593819192&amp;u=https%3A%2F%2Feluv.io%2F&amp;a=https%3A%2F%2Feluv.io\" target=\"_blank\" rel=\"nofollow\">https://eluv.io</a>.</p><p><b>Eluvio at IBC Show 2026</b></p><p>During IBC Show 2026 at the RAI Amsterdam, Eluvio will highlight its work with Pasifika+ and showcase the full capabilities of the Global Broadcast Fabric and Eluvio AI and in Hall 8, Stand 8.MS5, and in the Future Tech Zone, Hall 14, Stand 14.A58, September 11–14, 2026. In addition, Eluvio's CEO and co-founder, Michelle Muson, will also speak on the Future Tech Zone stage on Sunday, September 13 from 2pm-2:15pm. Registration for one-on-one meetings and information about Eluvio on-site keynote demonstrations at IBC is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762149-1&amp;h=2420448658&amp;u=https%3A%2F%2Fibc.eluv.io%2F&amp;a=https%3A%2F%2Fibc.eluv.io\" target=\"_blank\" rel=\"nofollow\">https://ibc.eluv.io</a>.</p><p><b><u>About Eluvio<br></br></u></b>Eluvio (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762149-1&amp;h=3593819192&amp;u=https%3A%2F%2Feluv.io%2F&amp;a=https%3A%2F%2Feluv.io\" target=\"_blank\" rel=\"nofollow\">https://eluv.io</a>) is solving the generational problems of video over the Internet with its Content Fabric Protocol — transforming the distribution and monetization of premium video and digital media in contrast to legacy cloud workflows and CDNs. Eluvio serves Amazon Studios/MGM, Cricket Australia, European Professional Club Rugby, FOX, SONY, Telstra Broadcast Services, UEFA, United Rugby Championship, Warner Bros., WPALiveTV, WWE, and others. Led by Michelle Munson and Serban Simu, founders and inventors of Aspera, and based in Berkeley, California. Eluvio holds more than 15 issued US patents and has won multiple NAB Streaming Product of the Year awards, the Seicon Grand Prize, Hollywood Professional Association Engineering Excellence Award, and other industry honors. @EluvioInc | linkedin.com/company/eluv-io</p><p><b><u>About Pacific Cooperation Broadcasting Limited (PCBL)<br></br></u></b>Pacific Cooperation Broadcasting Limited (PCBL) was established in April 2015. It is a New Zealand initiative that is primarily funded by the Ministry of Foreign Affairs and Trade with the overall aim to deepen partnerships in the Pacific region by strengthening the media sector. PCBL supports Pacific free-to-air broadcasters through delivering New Zealand and Pacific originated content that can be rebroadcast to their local audiences and encouraging the production of local content via the provision of field equipment, network infrastructure, contestable funding and training. </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF36446&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/eluvio-to-power-pasifika-new-ott-tv-streaming-service-to-reach-consumers-throughout-the-pacific-and-across-the-globe-302864515.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/eluvio-to-power-pasifika-new-ott-tv-streaming-service-to-reach-consumers-throughout-the-pacific-and-across-the-globe-302864515.html</a></p><p>SOURCE Eluvio, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF36446&amp;Transmission_Id=202609010001PR_NEWS_USPR_____SF36446&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Eluvio, Inc.",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 1,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 2,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "summary:content creator"
-          ],
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "radio": [
-            "summary:broadcaster",
-            "summary:broadcasting"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:05.885Z"
+      "imported_at": "2026-09-04T18:50:43.027Z"
     },
     {
       "company": [
@@ -5947,7 +5422,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.972Z"
+      "imported_at": "2026-09-04T18:50:43.371Z"
     },
     {
       "company": [
@@ -6023,7 +5498,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.094Z"
+      "imported_at": "2026-09-04T18:50:43.563Z"
     },
     {
       "company": [
@@ -6081,15 +5556,11 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnrbrb0{\nBORDER-RIGHT:black 0pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnsbtb0{\nBORDER-TOP:black 0pt\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prnpr2{\nPADDING-RIGHT:0.17em\n}\n.prnpl2{\nPADDING-LEFT:0.17em\n}\n.prnsbbb0{\nBORDER-BOTTOM:black 0pt\n}\n.prnsblb0{\nBORDER-LEFT:black 0pt\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
+      "mjr_categories": [],
+      "mjr_review": true,
       "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
+        "categories": [],
+        "review": true,
         "scores": {
           "advertising": 0,
           "digital": 0,
@@ -6113,7 +5584,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.190Z"
+      "imported_at": "2026-09-04T18:50:43.755Z"
     },
     {
       "company": [
@@ -6201,7 +5672,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.276Z"
+      "imported_at": "2026-09-04T18:50:43.947Z"
     },
     {
       "company": [
@@ -6287,7 +5758,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.381Z"
+      "imported_at": "2026-09-04T18:50:44.123Z"
     },
     {
       "company": [
@@ -6361,7 +5832,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.491Z"
+      "imported_at": "2026-09-04T18:50:44.298Z"
     },
     {
       "company": [
@@ -6449,7 +5920,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.585Z"
+      "imported_at": "2026-09-04T18:50:44.474Z"
     },
     {
       "company": [
@@ -6531,7 +6002,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.720Z"
+      "imported_at": "2026-09-04T18:50:44.685Z"
     },
     {
       "company": [
@@ -6622,7 +6093,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.806Z"
+      "imported_at": "2026-09-04T18:50:44.861Z"
     },
     {
       "company": [
@@ -6700,7 +6171,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.924Z"
+      "imported_at": "2026-09-04T18:50:45.055Z"
     },
     {
       "company": [
@@ -6780,7 +6251,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.030Z"
+      "imported_at": "2026-09-04T18:50:45.226Z"
     },
     {
       "company": [
@@ -6868,7 +6339,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.222Z"
+      "imported_at": "2026-09-04T18:50:45.601Z"
     },
     {
       "company": [
@@ -6949,7 +6420,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.349Z"
+      "imported_at": "2026-09-04T18:50:45.791Z"
     },
     {
       "company": [
@@ -7046,7 +6517,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.435Z"
+      "imported_at": "2026-09-04T18:50:45.961Z"
     },
     {
       "company": [
@@ -7119,7 +6590,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.732Z"
+      "imported_at": "2026-09-04T18:50:46.144Z"
     },
     {
       "company": [
@@ -7215,7 +6686,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.843Z"
+      "imported_at": "2026-09-04T18:50:46.343Z"
     },
     {
       "company": [
@@ -7308,7 +6779,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.939Z"
+      "imported_at": "2026-09-04T18:50:46.537Z"
     },
     {
       "company": [
@@ -7391,7 +6862,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.035Z"
+      "imported_at": "2026-09-04T18:50:46.744Z"
     },
     {
       "company": [
@@ -7468,7 +6939,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.118Z"
+      "imported_at": "2026-09-04T18:50:46.910Z"
     },
     {
       "company": [
@@ -7556,7 +7027,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.214Z"
+      "imported_at": "2026-09-04T18:50:47.091Z"
     },
     {
       "company": [
@@ -7645,7 +7116,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.308Z"
+      "imported_at": "2026-09-04T18:50:47.283Z"
     },
     {
       "company": [
@@ -7724,7 +7195,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.389Z"
+      "imported_at": "2026-09-04T18:50:47.482Z"
     },
     {
       "company": [
@@ -7814,7 +7285,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.486Z"
+      "imported_at": "2026-09-04T18:50:47.645Z"
     },
     {
       "company": [
@@ -7907,7 +7378,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.575Z"
+      "imported_at": "2026-09-04T18:50:47.842Z"
     },
     {
       "company": [
@@ -7986,7 +7457,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.674Z"
+      "imported_at": "2026-09-04T18:50:48.025Z"
     },
     {
       "company": [
@@ -8076,7 +7547,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.754Z"
+      "imported_at": "2026-09-04T18:50:48.238Z"
     },
     {
       "company": [
@@ -8157,7 +7628,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.172Z"
+      "imported_at": "2026-09-04T18:50:48.419Z"
     },
     {
       "company": [
@@ -8250,7 +7721,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.258Z"
+      "imported_at": "2026-09-04T18:50:48.615Z"
     },
     {
       "company": [
@@ -8325,7 +7796,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.577Z"
+      "imported_at": "2026-09-04T18:50:48.806Z"
     },
     {
       "company": [
@@ -8420,7 +7891,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.669Z"
+      "imported_at": "2026-09-04T18:50:49.146Z"
     },
     {
       "company": [
@@ -8474,15 +7945,11 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnrbrb0{\nBORDER-RIGHT:black 0pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnsbtb0{\nBORDER-TOP:black 0pt\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prnpr2{\nPADDING-RIGHT:0.17em\n}\n.prnpl2{\nPADDING-LEFT:0.17em\n}\n.prnsbbb0{\nBORDER-BOTTOM:black 0pt\n}\n.prnsblb0{\nBORDER-LEFT:black 0pt\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
+      "mjr_categories": [],
+      "mjr_review": true,
       "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
+        "categories": [],
+        "review": true,
         "scores": {
           "advertising": 0,
           "digital": 0,
@@ -8502,7 +7969,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.860Z"
+      "imported_at": "2026-09-04T18:50:49.319Z"
     },
     {
       "company": [
@@ -8576,96 +8043,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.979Z"
-    },
-    {
-      "company": [
-        "Live Nation Entertainment"
-      ],
-      "date": "20260826T201500+0000",
-      "dateline": "LOS ANGELES, Aug. 26, 2026",
-      "feed": [
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "APPLE_NEWS",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "MUS",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Live Nation Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409&p=publish"
-        }
-      ],
-      "release_id": "20260826LA34615",
-      "status": "PUBLISHED",
-      "subject": [
-        "CCA",
-        "FVT",
-        "TDS"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- Live Nation Entertainment, Inc. (NYSE: LYV), the world's leading live entertainment company, announced today that management will present at Goldman Sachs Communacopia &amp; Technology Conference on Wednesday, September 9, 2026 at 10:10 a.m. PT.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409\" title=\"Live Nation Logo\" alt=\"Live Nation Logo\"></img>\n                </p>\n    </div>\n<p>A live webcast of the session will be accessible from the \"News / Events\" section of the company's website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1608232916&amp;u=http%3A%2F%2Fwww.investors.livenationentertainment.com%2F&amp;a=investors.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">investors.livenationentertainment.com</a>. </p><p><b>About Live Nation Entertainment</b></p>",
-      "ticker": [
-        "NYSE:LYV"
-      ],
-      "title": "Live Nation Entertainment To Participate In Goldman Sachs Communacopia &amp; Technology Conference",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826LA34615",
-      "body": "\n<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- Live Nation Entertainment, Inc. (NYSE: LYV), the world's leading live entertainment company, announced today that management will present at Goldman Sachs Communacopia &amp; Technology Conference on Wednesday, September 9, 2026 at 10:10 a.m. PT.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409\" title=\"Live Nation Logo\" alt=\"Live Nation Logo\"></img>\n                </p>\n    </div>\n<p>A live webcast of the session will be accessible from the \"News / Events\" section of the company's website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1608232916&amp;u=http%3A%2F%2Fwww.investors.livenationentertainment.com%2F&amp;a=investors.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">investors.livenationentertainment.com</a>. </p><p><b>About Live Nation Entertainment</b></p><p>Live Nation Entertainment (NYSE: LYV) is the world's leading live entertainment company comprised of global market leaders: Ticketmaster, Live Nation Concerts and Live Nation Media &amp; Sponsorship.  For additional information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1817577779&amp;u=http%3A%2F%2Fwww.livenationentertainment.com%2F&amp;a=www.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">www.livenationentertainment.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA34615&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/live-nation-entertainment-to-participate-in-goldman-sachs-communacopia--technology-conference-302860955.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/live-nation-entertainment-to-participate-in-goldman-sachs-communacopia--technology-conference-302860955.html</a></p><p>SOURCE Live Nation Entertainment</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA34615&amp;Transmission_Id=202608261615PR_NEWS_USPR_____LA34615&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Live Nation Entertainment",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "entertainment",
-        "tradeshow"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "entertainment",
-          "tradeshow"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 10,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 2
-        },
-        "reasons": {
-          "entertainment": [
-            "summary:entertainment company",
-            "summary:live entertainment",
-            "entertainment",
-            "industry:ENT",
-            "industry:MUS"
-          ],
-          "tradeshow": [
-            "conference"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:10.074Z"
+      "imported_at": "2026-09-04T18:50:49.516Z"
     },
     {
       "company": [
@@ -8745,7 +8123,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:10.181Z"
+      "imported_at": "2026-09-04T18:50:49.734Z"
     },
     {
       "company": [
@@ -8828,86 +8206,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:10.309Z"
-    },
-    {
-      "company": [
-        "I.S.T. Corporation"
-      ],
-      "date": "20260826T160000+0000",
-      "dateline": "SALT LAKE CITY, Aug. 26, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "UTH",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "CHM",
-        "SEM",
-        "MFG",
-        "ARO"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430&p=publish"
-        }
-      ],
-      "release_id": "20260826CN33996",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "FVT"
-      ],
-      "summary": "<p><i>At just 25 microns, the white polyimide film combines controlled thickness and low mass with a finished-film format designed to simplify spacecraft thermal-control manufacturing and support integrated functionality.</i></p><p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <b>I.S.T. Corporation introduced White TORMED®, a new white polyimide film platform for spacecraft thermal-control applications, at the 40th Annual Small Satellite Conference (SmallSat 2026).</b></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n",
-      "ticker": [],
-      "title": "I.S.T. Corporation Introduces White TORMED®, a New Polyimide Film Platform for Spacecraft Thermal Control",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826CN33996",
-      "body": "\n<p><i>At just 25 microns, the white polyimide film combines controlled thickness and low mass with a finished-film format designed to simplify spacecraft thermal-control manufacturing and support integrated functionality.</i></p><p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <b>I.S.T. Corporation introduced White TORMED®, a new white polyimide film platform for spacecraft thermal-control applications, at the 40th Annual Small Satellite Conference (SmallSat 2026).</b></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>Building on 45 years of polyimide expertise and the continued development of TORMED® for space applications, I.S.T. Corporation began with a material question: Could thermal-control functionality be incorporated directly into a lightweight, flexible polyimide film? That exploration led to White TORMED®.</p><p>White TORMED® is a finished, film-based design option that combines controlled thickness, low mass and repeatable thermal performance. Its flexible film format can simplify thermal-control manufacturing by replacing repeated coating, curing and drying steps with direct film application. The non-fluoropolymer film is designed for direct integration with composite structures and functional layers, including metals, and for adhesive-free co-curing with prepreg—a patent-pending integration technology that simplifies assembly and eliminates additional bonding steps.</p><p><b>A thin-film platform for thermal performance and manufacturing efficiency</b></p><p>Unlike a coating formed on the spacecraft surface, White TORMED® is precision-manufactured to its target thickness before application and supplied as a finished film. At only 25 microns, the concept presented at SmallSat is designed to bring together:</p><ul type=\"disc\"><li>Controlled and more consistent thickness across applicable surfaces, including edges and corners.</li><li>Repeatable thermal performance with minimal added mass.</li><li>A finished-film format that can replace days of coating, curing and drying with direct film application, significantly reducing manufacturing time, labor and processing cost.</li><li>A non-fluoropolymer film designed for direct integration with composite structures and functional layers, including metals, and for adhesive-free co-curing with prepreg—a patent-pending integration technology that simplifies assembly and eliminates additional bonding steps.</li></ul><p><b>Built on the TORMED® material platform</b></p><p>White TORMED® builds on I.S.T. Corporation's proprietary transparent polyimide film platform. TORMED® combines optical transparency, outgassing below the detection limit, mechanical flexibility, electrical insulation, and compatibility with deposited metals and other functional layers. TORMED® has been independently evaluated, exposed in orbit, and selected for commercial space applications.</p><p>Transparent TORMED® samples were included in the Euro Material Ageing (EMA) experiment, a European materials-exposure program developed through collaboration among CNES, CNRS and ESA and conducted on the Bartolomeo external platform aboard the International Space Station. The samples completed approximately one year of exposure and returned to Earth for post-flight evaluation. These results provide technical context for the broader material platform; post-flight evaluation is continuing.</p><p>Transparent TORMED® has also been selected as a protective cover film for silicon solar modules in commercial satellite applications, with production and supply preparations progressing. This connects scientific validation with practical spacecraft use.</p><p class=\"prntac\"><b>Powered by TORMED®</b>  <b>|</b>  <b>One Material. A New Approach to Spacecraft Design.</b></p><p class=\"prntal\"><b>What I.S.T. Corporation presented at SmallSat 2026</b></p><p>The presentation, \"A New Approach to Spacecraft Design: Introducing White TORMED®,\" gave participants - and now the wider market - a concise view of the commercialization and scale-up roadmap:</p><ul type=\"disc\"><li>The current White TORMED® concept, its 25-micron thermal performance, manufacturing-efficiency benefits and film-platform value.</li><li>The technical foundation provided by transparent TORMED® and its space-use progress.</li><li>A demand-led scale-up roadmap from A4 sheets to pilot and wide-roll production.</li></ul><p><b>Evaluation and scale-up roadmap</b></p><p>White TORMED® A4 sheets are available now for evaluation. I.S.T. Corporation is targeting the start of pilot production for a 300 mm-wide roll in November 2026. The roadmap presented at SmallSat includes a market review and investment decision in September 2027, followed by a conditional target for mass production of 1,000+ mm-wide rolls in fall 2028. These future steps remain subject to evaluation results, market demand, technical readiness and investment approval.</p><p><b>White TORMED® — Ready for Evaluation and Application</b></p><p>I.S.T. Corporation invites spacecraft manufacturers, subsystem suppliers and integrators to evaluate or purchase White TORMED® for their applications. For teams seeking application-specific solutions, I.S.T. can also support technical collaboration in thermal control, functional-film integration, RF concepts and composite-structure integration.</p><p>We make the material. You design what it becomes. Teams ready to explore the next application of TORMED® are invited to contact I.S.T. Corporation through the information below. Let's find out together.</p><p><b>About TORMED®</b></p><p>TORMED® is I.S.T. Corporation's proprietary transparent polyimide roll film. It is engineered for applications requiring optical transparency, thermal resistance, mechanical flexibility, outgassing below the detection limit, electrical insulation, and compatibility with functional coatings and deposited layers. Application concepts include solar-array cover films, flexible optical solar reflectors, antenna-integrated films, space electronics and tapes. White TORMED® is moving toward pilot roll production.</p><p><b>About I.S.T. Corporation</b></p><p>I.S.T. Corporation is a materials innovation company that develops high-performance polymers, films, fibers, composites and proprietary processing technologies for demanding industrial and advanced-technology applications. Its approach combines molecular design, material formulation, production-process development and scalable manufacturing.</p><p><span id=\"spanHghlte6f8\">TORMED information: <a href=\"https://ist-caretp.com/materials/tormed/\" target=\"_blank\" rel=\"nofollow\">https://ist-caretp.com/materials/tormed/</a><br></br>SmallSat conference: <a href=\"https://smallsat.org/\" target=\"_blank\" rel=\"nofollow\">https://smallsat.org/</a></span></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN33996&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ist-corporation-introduces-white-tormed-a-new-polyimide-film-platform-for-spacecraft-thermal-control-302860361.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ist-corporation-introduces-white-tormed-a-new-polyimide-film-platform-for-spacecraft-thermal-control-302860361.html</a></p><p>SOURCE I.S.T. Corporation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN33996&amp;Transmission_Id=202608261200PR_NEWS_USPR_____CN33996&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "I.S.T. Corporation",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 1
-        },
-        "reasons": {
-          "entertainment": [
-            "film"
-          ],
-          "tradeshow": [
-            "summary:conference"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:10.660Z"
+      "imported_at": "2026-09-04T18:50:49.919Z"
     },
     {
       "company": [
@@ -9003,96 +8302,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:10.758Z"
-    },
-    {
-      "company": [
-        "USTA Mid-Atlantic Foundation"
-      ],
-      "date": "20260826T142300+0000",
-      "dateline": "MCLEAN, Va., Aug. 26, 2026",
-      "feed": [
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "APPLE_NEWS",
-        "prncom_prnj",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "VIR",
-        "USE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ENT",
-        "SSE",
-        "SPT",
-        "TVN"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Malika Andrews, host of 2026 Tennis Creates Gala",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1976160/MA-Headshot-ID-cb36692f1f92.jpg?id=OA2913416&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1976160/MA-Headshot-ID-cb36692f1f92.jpg?id=OA2913416&p=publish"
-        },
-        {
-          "caption": "USTA Mid-Atlantic Foundation logo with a flaming tennis ball.",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1546736/USTA-MidAtlanticFoundation-1c-black-RGB-stacked-Logo-Logo.jpg?id=OA2911419&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1546736/USTA-MidAtlanticFoundation-1c-black-RGB-stacked-Logo-Logo.jpg?id=OA2911419&p=publish"
-        }
-      ],
-      "release_id": "20260826DC33824",
-      "status": "PUBLISHED",
-      "subject": [
-        "NPT"
-      ],
-      "summary": "<p class=\"prntac\">\n            <b>\n              <i>To raise critical funds expanding regional tennis access and honoring Vice Admiral Sean S. Buck</i>\n            </b>\n          </p>\n          <p>\n            <span class=\"legendSpanClass\">MCLEAN, Va.</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759699-1&amp;h=1054091569&amp;u=https%3A%2F%2Fustamidatlanticfoundation.org%2F&amp;a=USTA+Mid-Atlantic+Foundation\" target=\"_blank\" rel=\"nofollow\">USTA Mid-Atlantic Foundation</a> today announced that Emmy Award-winning sports journalist and host of ESPN's <i>NBA Countdown</i> and <i>NBA Today</i> <b>Malika Andrews</b>, who made her tennis-hosting debut at the 2026 Australian Open, will emcee the 4th annual Tennis Creates Gala on <b>Saturday, November 14, 2026</b>, at <b>The Ritz-Carlton, Tysons Corner in McLean, Virginia.</b></p>    ",
-      "ticker": [],
-      "title": "Emmy Award-Winning Sports Journalist Malika Andrews to Host 4th Annual USTA Mid-Atlantic Foundation Tennis Creates Gala in November",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826DC33824",
-      "body": "\n          <p class=\"prntac\">\n            <b>\n              <i>To raise critical funds expanding regional tennis access and honoring Vice Admiral Sean S. Buck</i>\n            </b>\n          </p>\n          <p>\n            <span class=\"legendSpanClass\">MCLEAN, Va.</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759699-1&amp;h=1054091569&amp;u=https%3A%2F%2Fustamidatlanticfoundation.org%2F&amp;a=USTA+Mid-Atlantic+Foundation\" target=\"_blank\" rel=\"nofollow\">USTA Mid-Atlantic Foundation</a> today announced that Emmy Award-winning sports journalist and host of ESPN's <i>NBA Countdown</i> and <i>NBA Today</i> <b>Malika Andrews</b>, who made her tennis-hosting debut at the 2026 Australian Open, will emcee the 4th annual Tennis Creates Gala on <b>Saturday, November 14, 2026</b>, at <b>The Ritz-Carlton, Tysons Corner in McLean, Virginia.</b></p>    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1976160/MA-Headshot-ID-cb36692f1f92.jpg?id=OA2913416\" title=\"Malika Andrews, host of 2026 Tennis Creates Gala\" alt=\"Malika Andrews, host of 2026 Tennis Creates Gala\"></img>                </p>    </div><p>The event will bring together some of the region's top leaders in business, sport, and philanthropy to celebrate and promote the transformational impact of tennis across the District of Columbia, Maryland, Virginia, and eastern/southern West Virginia.</p><p>\"The energy around tennis, specifically the excitement infused from the top American stars right now - from Coco Gauff, to Ben Shelton, to the DMV's own Frances Tiafoe - is captivating,\" said <b>Malika Andrews</b>. \"I am thrilled ESPN tapped me to be part of our coverage during this seminal time in the sport and I am grateful to the USTA Mid-Atlantic Foundation for the opportunity to support tennis at the local level.\" A trailblazer in sports broadcasting, Andrews is the host of ESPN's weekday NBA studio show, NBA Today. She also hosts NBA Countdown on ESPN and ABC, as well as WNBA Countdown on ESPN. In 2026, Andrews was added to ESPN's Tennis Team, leading broadcasts for Australian Open, Wimbledon, and the US Open.</p><p>\"We are thrilled to welcome Malika Andrews as our host for this year's Tennis Creates Gala,\" said <b>Tara Fitzpatrick-Navarro, CEO of the USTA Mid-Atlantic Foundation</b>. \"Malika's historic achievements in broadcasting, coupled with her commitment to sports and community, make her the ideal voice to champion our vision of 'tennis in every community.' More than an evening of celebration, this gala serves as an engine for generating the resources necessary to ensure every individual throughout our Mid-Atlantic community has the opportunity to experience the lifelong benefits of tennis.\"</p><p><b>Tennis Changes Everything: 2026 Gala Highlights &amp; Impact</b></p><p>Led by Gala Co-Chairs <b>Andrew and Michele Brammer</b>, the 2026 Tennis Creates Gala features an All-Star VIP reception, fine dining, live entertainment, and exclusive auctions. Every dollar raised goes directly back into neighboring Mid-Atlantic communities to break down financial and geographic barriers to the world's healthiest sport.</p><p>Key highlights of the evening include:</p><ul type=\"disc\"><li><b>2026 Tennis Creates Impact Award Honoree:</b> The Foundation will honor <b>Vice Admiral Sean S. Buck, U.S. Navy (retired)</b>, 63rd Superintendent of the United States Naval Academy, recognizing his distinguished leadership and dedication to fostering character, leadership, and well-being through tennis.<br></br> </li><li><b>Funding Grassroots Access:</b> Proceeds directly support core Foundation initiatives, including <b>Girls Rule the Court™</b>—which has served over 2,000 girls across the region —Junior Player Scholarships, and Tennis in Schools program.<br></br> </li><li><b>Restoring Public Courts:</b> Gala funds strengthen public infrastructure. With more than 70% of local players relying on courts in public parks, recreation centers, or schools, direct support fuels public court refurbishments—building on the $505,000 invested across 17 public venues over the last three years to support the region's 1.4 million players.<br></br> </li><li><b>Promoting Sportsmanship:</b> Celebrating regional leaders who embody the Foundation's ACES Pledge initiative, which has engaged over 6,000 participants to build character, respect, and positive life skills on and off the court.</li></ul><p><b>Ticket Packages &amp; Sponsorship Opportunities</b></p><p>As a 501(c)(3) nonprofit, the USTA Mid-Atlantic Foundation relies on donor support and philanthropy to deliver low-cost programming, scholarships, and court restoration grants.</p><p>To purchase tables or explore sponsorship opportunities visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759699-1&amp;h=3074208621&amp;u=https%3A%2F%2Ftenniscreatesgala.com%2F&amp;a=TennisCreatesGala.com\" target=\"_blank\" rel=\"nofollow\"><b>TennisCreatesGala.com</b></a>.</p><p><b>About the USTA Mid-Atlantic Foundation</b></p><p>The USTA Mid-Atlantic Foundation is a 501(c)(3) nonprofit organization committed to promoting tennis and its physical, social, and emotional health benefits across D.C., Maryland, Virginia, and eastern/southern West Virginia. Guided by core principles of Community, Character, and Well-Being, the Foundation reached more than 114,500 youth in 2025 through tennis programs—including nearly 70,000 students through school-based initiatives. By investing in public facilities, youth scholarships, and character development, the Foundation is working toward its vision of \"tennis in every community.\" Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759699-1&amp;h=1227725305&amp;u=https%3A%2F%2Fustamidatlanticfoundation.org%2F&amp;a=USTAMidAtlanticFoundation.org\" target=\"_blank\" rel=\"nofollow\">USTAMidAtlanticFoundation.org</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1546736/USTA-MidAtlanticFoundation-1c-black-RGB-stacked-Logo-Logo.jpg?id=OA2911419\" title=\"USTA Mid-Atlantic Foundation logo with a flaming tennis ball.\" alt=\"USTA Mid-Atlantic Foundation logo with a flaming tennis ball.\"></img>                </p></div>                <p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC33824&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/emmy-award-winning-sports-journalist-malika-andrews-to-host-4th-annual-usta-mid-atlantic-foundation-tennis-creates-gala-in-november-302860659.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/emmy-award-winning-sports-journalist-malika-andrews-to-host-4th-annual-usta-mid-atlantic-foundation-tennis-creates-gala-in-november-302860659.html</a></p><div id=\"sbIframeContainer\" style=\"width:100%; height:600px; padding:0\"><div style=\"width: 100%; height: 600px;\"><iframe src=\"https://share.prnewswire.com/toolkit/274cefdc-bb45-4741-bc92-054fdc88594d?embedded=true&amp;iconsColor=%23000000&amp;postBgColor=%23ffffff&amp;postTextColor=%23000000&amp;font=font-sans&amp;textSize=text-base&amp;buttonUsePlatformColor=true&amp;previewCardCornerRadius=rounded-xl&amp;shadow=shadow&amp;cornerRadius=rounded-2xl&amp;sliderEnabled=&amp;showArrows=\" allowfullscreen=\"allowfullscreen\" allow=\"camera; web-share; microphone; fullscreen; clipboard-write;\" frameborder=\"0\" style=\"border: 0; outline: none; color-scheme: normal; width: 100%; height: 100%; transform: scale(1); transform-origin: 0 0;\"></iframe></div></div><p>SOURCE USTA Mid-Atlantic Foundation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC33824&amp;Transmission_Id=202608261023PR_NEWS_USPR_____DC33824&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "USTA Mid-Atlantic Foundation",
-      "style": "/* Style Definitions */span.prnews_span{font-size:8pt;font-family:\"Arial\";color:black;}a.prnews_a{color:blue;}li.prnews_li{font-size:8pt;font-family:\"Arial\";color:black;}p.prnews_p{font-size:0.62em;font-family:\"Arial\";color:black;margin:0in;}.prntac{TEXT-ALIGN: CENTER}",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:11.134Z"
+      "imported_at": "2026-09-04T18:50:50.088Z"
     },
     {
       "company": [
@@ -9172,7 +8382,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.252Z"
+      "imported_at": "2026-09-04T18:50:50.324Z"
     },
     {
       "company": [
@@ -9260,7 +8470,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.350Z"
+      "imported_at": "2026-09-04T18:50:50.607Z"
     },
     {
       "company": [
@@ -9340,7 +8550,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.476Z"
+      "imported_at": "2026-09-04T18:50:50.815Z"
     },
     {
       "company": [
@@ -9441,7 +8651,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.569Z"
+      "imported_at": "2026-09-04T18:50:51.045Z"
     },
     {
       "company": [
@@ -9528,7 +8738,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.657Z"
+      "imported_at": "2026-09-04T18:50:51.405Z"
     },
     {
       "company": [
@@ -9610,7 +8820,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:12.872Z"
+      "imported_at": "2026-09-04T18:50:51.586Z"
     },
     {
       "company": [
@@ -9698,7 +8908,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:12.972Z"
+      "imported_at": "2026-09-04T18:50:51.762Z"
     },
     {
       "company": [
@@ -9795,7 +9005,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:13.097Z"
+      "imported_at": "2026-09-04T18:50:51.951Z"
     },
     {
       "company": [
@@ -9880,95 +9090,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:14.843Z"
-    },
-    {
-      "company": [
-        "REAL Shows Network"
-      ],
-      "date": "20260825T165500+0000",
-      "dateline": "PALM SPRINGS, Calif., Aug. 25, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "PRNUS"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "RLT",
-        "SMD",
-        "PUB",
-        "RRL",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2910424&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2910424&p=publish"
-        }
-      ],
-      "release_id": "20260825LA33407",
-      "status": "PUBLISHED",
-      "subject": [
-        "BFA",
-        "FVT"
-      ],
-      "summary": "<p>Locally hosted series led by Tiffany Williams highlights the people, neighborhoods, businesses, and stories that make Murrieta the Gem of the Valley.</p><p><span class=\"legendSpanClass\">PALM SPRINGS, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- REAL Shows Network (RSN), the national TV platform dedicated to elevating real estate and lifestyle storytelling, has added Murrieta the Gem of the Valley, a new locally hosted series serving Southern California, to its lineup. The real estate and lifestyle TV series is hosted by local real estate leader Tiffany Williams and produced by RSN's Emmy-nominated, Telly Award-winning team.</p>\n    ",
-      "ticker": [],
-      "title": "Murrieta the Gem of the Valley TV Series Spotlights Southern California Real Estate and Lifestyle on REAL Shows Network",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260825LA33407",
-      "body": "\n<p>Locally hosted series led by Tiffany Williams highlights the people, neighborhoods, businesses, and stories that make Murrieta the Gem of the Valley.</p><p><span class=\"legendSpanClass\">PALM SPRINGS, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- REAL Shows Network (RSN), the national TV platform dedicated to elevating real estate and lifestyle storytelling, has added Murrieta the Gem of the Valley, a new locally hosted series serving Southern California, to its lineup. The real estate and lifestyle TV series is hosted by local real estate leader Tiffany Williams and produced by RSN's Emmy-nominated, Telly Award-winning team.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1718105/REAL-Shows-Network-Logo.jpg?id=OA2910424\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>Viewers can learn more about the series and watch episodes of Murrieta the Gem of the Valley at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759324-1&amp;h=1853495483&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759324-1&amp;h=3724206528&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=realshows.tv\" target=\"_blank\" rel=\"nofollow\">realshows.tv</a>.</p><p>The series captures the spirit of Murrieta by blending real estate, local culture, and community stories into a vibrant viewing experience. Each episode features Tiffany Williams:</p><ul type=\"disc\"><li>Highlighting notable neighborhoods and distinctive properties</li><li>Celebrating local businesses and community organizations</li><li>Spotlighting the people and stories that give the area its unique character</li><li>Sharing insight into how real estate can help families build long-term wealth and legacy</li></ul><p>\"After nearly 30 years serving this valley, we've learned that real estate isn't just about property. It's about the people, businesses, and neighborhoods that give a place its soul,\" said Tiffany Williams, host of Murrieta the Gem of the Valley. \"Murrieta is truly the Gem of the Valley, and through this show, we want to spotlight those stories while teaching families how a home today can become a legacy tomorrow. Wealth via real estate isn't just a strategy. It's how you pass something priceless down to your children's children.\"</p><p>Murrieta the Gem of the Valley is part of REAL Shows Network's growing lineup of locally branded series that highlight communities across the United States.</p><p>As part of RSN's national network of locally branded shows, Murrieta the Gem of the Valley gives its host a full 30 minutes to build a recognizable, personality-driven brand while authentically representing the people and communities she serves. The show provides local organizations, including nonprofits and philanthropic initiatives, along with entrepreneurs and community influencers, a high-quality platform to share their stories through cinematic, lifestyle-driven segments.</p><p>Rooted in RSN's mission of positive media, Murrieta the Gem of the Valley focuses on authenticity, connection, and the everyday experiences that make communities stand out. It uplifts the people, businesses, and causes that make the region extraordinary, offering viewers fresh insight along with engaging, professionally produced entertainment. High-resolution images and video clips from Murrieta the Gem of the Valley are available upon request.</p><p><b>About REAL Shows Network</b></p><p>REAL Shows Network (RSN) is a national TV network for top real estate professionals and influential local leaders, giving select hosts in each market the exclusive opportunity to lead a full 30-minute show that showcases their expertise, partners, and community. Created by an Emmy-nominated, Telly Award-winning production team, RSN delivers cinematic, lifestyle-driven storytelling and strategic media exposure that builds authority, deepens community connection, and elevates positive stories in each market. For more information, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759324-1&amp;h=1853495483&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759324-1&amp;h=3724206528&amp;u=https%3A%2F%2Frealshows.tv%2F&amp;a=realshows.tv\" target=\"_blank\" rel=\"nofollow\">realshows.tv</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA33407&amp;sd=2026-08-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/murrieta-the-gem-of-the-valley-tv-series-spotlights-southern-california-real-estate-and-lifestyle-on-real-shows-network-302859651.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/murrieta-the-gem-of-the-valley-tv-series-spotlights-southern-california-real-estate-and-lifestyle-on-real-shows-network-302859651.html</a></p><p>SOURCE REAL Shows Network</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA33407&amp;Transmission_Id=202608251255PR_NEWS_USPR_____LA33407&amp;DateId=20260825\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "REAL Shows Network",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 4,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "industry:PUB",
-            "industry:SMD"
-          ],
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:14.939Z"
+      "imported_at": "2026-09-04T18:50:52.147Z"
     },
     {
       "company": [
@@ -10057,7 +9179,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.038Z"
+      "imported_at": "2026-09-04T18:50:52.324Z"
     },
     {
       "company": [
@@ -10118,13 +9240,11 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "television",
         "podcast"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "television",
           "podcast"
         ],
         "review": false,
@@ -10166,93 +9286,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.140Z"
-    },
-    {
-      "company": [
-        "Hearst Media Production Group, LLC"
-      ],
-      "date": "20260825T140000+0000",
-      "dateline": "NEW YORK, Aug. 25, 2026",
-      "feed": [
-        "PRNUS",
-        "APPLE_NEWS",
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "FLM",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "\"Mutual of Omaha's Wild Kingdom Protecting the Wild\" returns for its fourth season as part of NBC's “The More You Know” educational/informational (E/I) programming block on Saturday, October 3 at 10 a.m. ET (times may vary; check local listings)",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974939/Wild-Kingdom-S4-2026-Key-Art.jpg?id=OA2908682&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974939/Wild-Kingdom-S4-2026-Key-Art.jpg?id=OA2908682&p=publish"
-        }
-      ],
-      "release_id": "20260825NY32891",
-      "status": "PUBLISHED",
-      "subject": [
-        "ANW",
-        "PET",
-        "LIC",
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\"><b><i>Iconic Series' New Season Premieres Saturday, October 3 </i></b></p><p class=\"prntac\"><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758813-1&amp;h=693213282&amp;u=https%3A%2F%2Fyoutu.be%2F-fYHvly3Nzk&amp;a=Watch+Season+4+Trailer\" target=\"_blank\" rel=\"nofollow\"><b><i>Watch Season 4 Trailer</i></b></a> </p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- Hearst Media Production Group (HMPG) today announced that television's #1 weekend wildlife show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758813-1&amp;h=3478916000&amp;u=https%3A%2F%2Fwww.mutualofomaha.com%2Fwild-kingdom%2Fprotecting-the-wild%3Futm_source%3Dhearst%26utm_medium%3Dpr%26utm_campaign%3Dptwh%26content%3Dannouncement&amp;a=Mutual+of+Omaha%27s+Wild+Kingdom+Protecting+the+Wild\" target=\"_blank\" rel=\"nofollow\"><i>Mutual of Omaha's Wild Kingdom Protecting the Wild</i></a>, will return for its fourth season as part of NBC's \"The More You Know\" educational/informational (E/I) programming block on Saturday, October 3 at 10 a.m. ET (<i>times may vary; check local listings</i>). The show is designed for audiences to discover the natural world and the people working to protect it through educational wildlife adventures and stories of conservation.</p>\n    ",
-      "ticker": [],
-      "title": "EMMY® NOMINATED SERIES MUTUAL OF OMAHA'S WILD KINGDOM PROTECTING THE WILD RETURNS WITH NEW ADVENTURES FROM AROUND THE GLOBE FOR ITS FOURTH SEASON ON NBC",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260825NY32891",
-      "body": "\n<p class=\"prntac\"><b><i>Iconic Series' New Season Premieres Saturday, October 3 </i></b></p><p class=\"prntac\"><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758813-1&amp;h=693213282&amp;u=https%3A%2F%2Fyoutu.be%2F-fYHvly3Nzk&amp;a=Watch+Season+4+Trailer\" target=\"_blank\" rel=\"nofollow\"><b><i>Watch Season 4 Trailer</i></b></a> </p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- Hearst Media Production Group (HMPG) today announced that television's #1 weekend wildlife show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758813-1&amp;h=3478916000&amp;u=https%3A%2F%2Fwww.mutualofomaha.com%2Fwild-kingdom%2Fprotecting-the-wild%3Futm_source%3Dhearst%26utm_medium%3Dpr%26utm_campaign%3Dptwh%26content%3Dannouncement&amp;a=Mutual+of+Omaha%27s+Wild+Kingdom+Protecting+the+Wild\" target=\"_blank\" rel=\"nofollow\"><i>Mutual of Omaha's Wild Kingdom Protecting the Wild</i></a>, will return for its fourth season as part of NBC's \"The More You Know\" educational/informational (E/I) programming block on Saturday, October 3 at 10 a.m. ET (<i>times may vary; check local listings</i>). The show is designed for audiences to discover the natural world and the people working to protect it through educational wildlife adventures and stories of conservation.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1974939/Wild-Kingdom-S4-2026-Key-Art.jpg?id=OA2908682\" title=\"&quot;Mutual of Omaha's Wild Kingdom Protecting the Wild&quot; returns for its fourth season as part of NBC's “The More You Know” educational/informational (E/I) programming block on Saturday, October 3 at 10 a.m. ET (times may vary; check local listings)\" alt=\"&quot;Mutual of Omaha's Wild Kingdom Protecting the Wild&quot; returns for its fourth season as part of NBC's “The More You Know” educational/informational (E/I) programming block on Saturday, October 3 at 10 a.m. ET (times may vary; check local listings)\"></img>\n                </p>\n    </div>\n<p>The series, produced in collaboration between Mutual of Omaha and Hearst Media Production Group, follows co-hosts, wildlife expert Peter Gros and wildlife ecologist Dr. Rae Wynn-Grant, on unforgettable journeys to some of the world's most spectacular destinations as they uncover stories of wildlife protection. This season, they'll travel from the rainforests of Costa Rica and the wilderness of Alaska to the beaches of Queensland, Australia, the tropical forests of Puerto Rico, and remarkable landscapes across California and Utah, among other locales. </p><p>Each destination brings Peter and Dr. Rae closer to the animals at the heart of these stories—including jaguars, grizzly bears, koalas, tapirs, spider monkeys, sea otters, and orcas—while they meet the conservationists, wildlife veterinarians, and local communities working to protect these extraordinary species. Combining breathtaking adventure, remarkable animal encounters, and inspiring human stories, Season 4 continues the <i>Wild Kingdom</i> tradition of bringing families together through discovery and exploration.</p><p>One of the season's highlights takes viewers to Alaska, where Peter is joined by Dylan Dreyer, co-host of <i>The 3rd Hour of TODAY</i>, NBC News Meteorologist, and host of <i>Earth Odyssey,</i> to explore one of North America's last great wildernesses. Together, they kayak through iceberg-covered seas, coming face-to-face with sea otters and sea lions, among other adventures.</p><p>\"For generations, <i>Wild Kingdom</i> has inspired families to discover the wonders of the natural world together,\" said Jennifer Wulf, vice president, brand marketing for Mutual of Omaha. \"It's the kind of show families can feel good about watching and one that sparks curiosity, conversation and a sense of adventure long after the episode ends.\"</p><p>\"<i>Mutual of Omaha's Wild Kingdom Protecting the Wild</i> continues to reflect our mission of educating, informing, and captivating viewers,\" said Bryan Curb, president of HMPG. \"The series has proven that audiences are looking for programming that not only entertains but also inspires and creates meaningful shared viewing experiences.\"</p><p>Since its 2023 debut, <i>Mutual of Omaha's Wild Kingdom Protecting the Wild</i> has become one of the leading wildlife series for family viewing across broadcast and cable, averaging more than one million weekly viewers during the 2025–26 television season, according to Nielsen. The series has earned widespread recognition, including five Daytime Emmy® nominations, 57 Telly Awards, the Alliance for Women in Media Foundation's Gracie Award for co-host Dr. Rae Wynn-Grant, and some of television's leading sustainability honors -- including BAFTA's Albert certification and the Environmental Media Association's Green Seal.</p><p>In addition to airing on NBC's \"The More You Know\" programming block, <i>Mutual of Omaha's Wild Kingdom Protecting the Wild</i> is available on Telemundo, Peacock, and NBC.com.</p><p>HMPG's current program portfolio comprises more than 30 original series and hundreds of hours of content annually on leading broadcast networks and station groups and on connected TV and streaming platforms. It has a library of 85 series (6,000 episodes) and its content can be found in 100 countries.</p><p><b>About Mutual of Omaha's Wild Kingdom</b> <br></br>Since its network television premiere in 1963, <i>Mutual of Omaha's Wild Kingdom</i> has been one of the most loved and respected wildlife programs in television history. The Daytime Emmy® nominated <i>Mutual of Omaha's Wild Kingdom Protecting the Wild</i>, now airing weekends on NBC's The More You Know educational/informational weekend program block, celebrates stories of conservation success, including the great work of caring, compassionate experts and how they are making a positive impact on the Wild Kingdom. For more information about <i>Mutual of Omaha's Wild Kingdom</i>, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758813-1&amp;h=1309212130&amp;u=https%3A%2F%2Fwww.mutualofomaha.com%2Fwild-kingdom%2Fprotecting-the-wild%3Futm_source%3Dhearst%26utm_medium%3Dpr%26utm_campaign%3Dptwh%26content%3Dannouncement&amp;a=wildkingdom.com\" target=\"_blank\" rel=\"nofollow\">wildkingdom.com</a>.</p><p><b>About Mutual of Omaha</b> <br></br>The Mutual of Omaha Companies offer a variety of insurance and financial products for individuals, businesses and groups throughout the United States. Founded in 1909 and headquartered in Omaha, Neb., the highly rated organization takes a long-term view with a focus on strength, stability and steady growth to help customers protect what they care about and achieve their financial goals over generations. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758813-1&amp;h=3675171060&amp;u=http%3A%2F%2Fwww.mutualofomaha.com%2F&amp;a=www.mutualofomaha.com\" target=\"_blank\" rel=\"nofollow\">www.mutualofomaha.com</a>.</p><p><b>About Hearst Media Production Group <br></br></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758813-1&amp;h=2626896545&amp;u=https%3A%2F%2Fhmpg.com%2F&amp;a=Hearst+Media+Production+Group\" target=\"_blank\" rel=\"nofollow\">Hearst Media Production Group</a> (HMPG), a business unit of Hearst Television, is an independent producer and distributor of original programming for TV stations, broadcast and cable networks and streaming services. HMPG produces hundreds of hours of Emmy® Award-winning programming annually across linear, streaming, digital and social media platforms for domestic and international distribution in 100 countries. Its popular weekly educational/informational (E/I) programming blocks air weekends nationwide including \"Weekend Adventure,\" on ABC stations; \"CBS WKND,\" on the CBS Network; \"The More You Know,\" on the NBC Network; \"One Magnificent Morning,\" on the CW Network; \"Mi Telemundo\" on the Telemundo Network and \"Go Time\" on independent stations. HMPG also produces and/or distributes a diverse slate of other programming and content including the company's dedicated FAST channels Xplore, The Jack Hanna Channel, Rovr Pets, and Lucky Dog Channel, available on some of the most popular smart TVs and streaming platforms. HMPG has offices in New York, Los Angeles, and Charlotte. HMPG is represented by United Talent Agency.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY32891&amp;sd=2026-08-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/emmy-nominated-series-mutual-of-omahas-wild-kingdom-protecting-the-wild-returns-with-new-adventures-from-around-the-globe-for-its-fourth-season-on-nbc-302859088.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/emmy-nominated-series-mutual-of-omahas-wild-kingdom-protecting-the-wild-returns-with-new-adventures-from-around-the-globe-for-its-fourth-season-on-nbc-302859088.html</a></p><p>SOURCE Hearst Media Production Group, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY32891&amp;Transmission_Id=202608251000PR_NEWS_USPR_____NY32891&amp;DateId=20260825\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Hearst Media Production Group, LLC",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 4,
-          "management": 0,
-          "radio": 0,
-          "television": 3,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "industry:ENT",
-            "industry:FLM"
-          ],
-          "television": [
-            "summary:television",
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:15.224Z"
+      "imported_at": "2026-09-04T18:50:52.492Z"
     },
     {
       "company": [
@@ -10327,7 +9361,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.306Z"
+      "imported_at": "2026-09-04T18:50:52.667Z"
     },
     {
       "company": [
@@ -10414,7 +9448,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.423Z"
+      "imported_at": "2026-09-04T18:50:52.843Z"
     },
     {
       "company": [
@@ -10502,7 +9536,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.530Z"
+      "imported_at": "2026-09-04T18:50:53.028Z"
     },
     {
       "company": [
@@ -10586,7 +9620,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.642Z"
+      "imported_at": "2026-09-04T18:50:53.208Z"
     },
     {
       "company": [
@@ -10642,15 +9676,11 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [
-        "tradeshow"
-      ],
-      "mjr_review": false,
+      "mjr_categories": [],
+      "mjr_review": true,
       "mjr_classification": {
-        "categories": [
-          "tradeshow"
-        ],
-        "review": false,
+        "categories": [],
+        "review": true,
         "scores": {
           "advertising": 0,
           "digital": 2,
@@ -10678,7 +9708,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.738Z"
+      "imported_at": "2026-09-04T18:50:53.400Z"
     },
     {
       "company": [
@@ -10769,7 +9799,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:20.805Z"
+      "imported_at": "2026-09-04T18:50:53.582Z"
     },
     {
       "company": [
@@ -10859,7 +9889,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:20.893Z"
+      "imported_at": "2026-09-04T18:50:53.742Z"
     },
     {
       "company": [
@@ -10932,15 +9962,11 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
+      "mjr_categories": [],
+      "mjr_review": true,
       "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
+        "categories": [],
+        "review": true,
         "scores": {
           "advertising": 2,
           "digital": 0,
@@ -10966,7 +9992,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:20.997Z"
+      "imported_at": "2026-09-04T18:50:53.918Z"
     },
     {
       "company": [
@@ -11064,7 +10090,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:21.102Z"
+      "imported_at": "2026-09-04T18:50:54.119Z"
     },
     {
       "company": [
@@ -11164,7 +10190,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:21.398Z"
+      "imported_at": "2026-09-04T18:50:54.479Z"
     },
     {
       "company": [
@@ -11262,7 +10288,7 @@
         "news_score": 3,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:21.966Z"
+      "imported_at": "2026-09-04T18:50:54.664Z"
     },
     {
       "company": [
@@ -11348,144 +10374,6 @@
     },
     {
       "company": [
-        "Age of Learning, Inc."
-      ],
-      "date": "20260825T100000+0000",
-      "dateline": "GLENDALE, Calif., Aug. 25, 2026",
-      "feed": [
-        "PRNUS_NO_ELD",
-        "APPLE_NEWS",
-        "prncom_prnj",
-        "PRNUS",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "EDU",
-        "ENT",
-        "MEN",
-        "MLM",
-        "TVN",
-        "REA"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Mandy Moore brings her signature warmth and\nauthenticity to the set of ABCmouse's first-ever celebrity back-to-school campaign during production day in Los Angeles. ABCmouse is available for free on iOS, Android, Amazon, and desktop at ABCmouse.com.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974859/mm_docupackage_20260814_2_web_master_hb.mp4?id=OA2908475&p=thumbnail",
-          "type": "video",
-          "url": "https://mmx.prnewswire.com/media/MS1974859/mm_docupackage_20260814_2_web_master_hb.mp4?id=OA2908475"
-        },
-        {
-          "caption": "She went from Y2K to the ABCs, and she's not mad\nabout it. Mandy Moore brings humor, heart, and a healthy dose of nostalgia to ABCmouse's first-ever celebrity back-to-school campaign during production day in Los Angeles. Research shows ABCmouse doubles early learning gains in reading and math for kids ages 2–8. Visit\nABCmouse.com — it's free.",
-          "seq": "2",
-          "thumbnailurl": "https://i.ytimg.com/vi/nXXLmTBmJ2Y/hqdefault.jpg",
-          "type": "video",
-          "url": "https://www.youtube.com/watch?v=nXXLmTBmJ2Y"
-        },
-        {
-          "caption": "LOS ANGELES, CALIFORNIA — July 2026: Mandy Moore, mother of three, explores ABCmouse's research-backed early learning platform during production of the brand's back-to-school campaign in Los Angeles. The ad-free app offers 13,000+ learning activities for kids ages 2–8 in\na safe environment trusted by families for more than 15 years. Download for free at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)",
-          "seq": "3",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974876/ABCmouse_MandyMoore_7.jpg?id=OA2908534&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974876/ABCmouse_MandyMoore_7.jpg?id=OA2908534&p=publish"
-        },
-        {
-          "caption": "Mandy Moore on set during production of\nABCmouse's back-to-school campaign, the brand's debut celebrity spokesperson partnership. The campaign centers on the honest reality of working motherhood and the power of intentional, purposeful screen time. ABCmouse is the most downloaded kids' education app, offering 13,000+ learning activities for kids ages 2–8 in a safe, ad-free environment. Download for free at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)",
-          "seq": "4",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974879/ABCmouse_MandyMoore_3.jpg?id=OA2908538&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974879/ABCmouse_MandyMoore_3.jpg?id=OA2908538&p=publish"
-        },
-        {
-          "caption": "Mandy Moore brings her signature warmth and\nauthenticity to the set of ABCmouse's first-ever celebrity back-to-school campaign during production day in Los Angeles. ABCmouse is available for free on iOS, Android, Amazon, and desktop at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of\nLearning/ABCmouse)",
-          "seq": "5",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974883/ABCmouse_MandyMoore_4.jpg?id=OA2908551&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974883/ABCmouse_MandyMoore_4.jpg?id=OA2908551&p=publish"
-        },
-        {
-          "caption": "LOS ANGELES, CALIFORNIA — July 2026: Behind the scenes with Mandy Moore as she films\nABCmouse's back-to-school campaign in Los Angeles. ABCmouse is available free on iOS, Android, Amazon, and desktop. Learn more at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)",
-          "seq": "6",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974884/ABCmouse_MandyMoore_6.jpg?id=OA2908561&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974884/ABCmouse_MandyMoore_6.jpg?id=OA2908561&p=publish"
-        },
-        {
-          "caption": "of three, on set during production of ABCmouse's first-ever celebrity spokesperson campaign in Los Angeles. The back-to-school campaign celebrates the confidence that comes when children learn through purposeful, engaging screen time. Get started free at ABCmouse.com. (Photo by\nPresley Ann/Getty Images for Age of Learning/ABCmouse)",
-          "seq": "7",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974885/ABCmouse_MandyMoore_8.jpg?id=OA2908562&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974885/ABCmouse_MandyMoore_8.jpg?id=OA2908562&p=publish"
-        },
-        {
-          "caption": "ABCmouse 2",
-          "seq": "8",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1731280/Age-of-Learning-Inc-ABCmouse-2.jpg?id=OA2908373&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1731280/Age-of-Learning-Inc-ABCmouse-2.jpg?id=OA2908373&p=publish"
-        }
-      ],
-      "release_id": "20260825LA32851",
-      "status": "PUBLISHED",
-      "subject": [
-        "BFA",
-        "CHI"
-      ],
-      "summary": "<p class=\"prntac\">\n            <i>Mandy Moore Brings Humor, Heart, and a Dose of Nostalgia to the Everyday Parenting Challenge of Making Screen Time Count</i>\n          </p>\n          <p>\n            <span class=\"legendSpanClass\">GLENDALE, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- <a href=\"https://www.ageoflearning.com/\" target=\"_blank\" rel=\"nofollow\">Age of Learning</a>, the company behind <a href=\"https://www.abcmouse.com/abc/?src_tag=pr:mm:1\" target=\"_blank\" rel=\"nofollow\">ABCmouse</a>®, the most downloaded kids' education app trusted by families and educators for more than 15 years, today announced a new partnership with Emmy®, Grammy®, and Golden Globe®-nominated actress and mom of three, Mandy Moore as part of its 2026 <a href=\"https://www.youtube.com/watch?v=RBOZ0Qq4lNs\" target=\"_blank\" rel=\"nofollow\">back-to-school campaign</a>.</p>    ",
-      "ticker": [],
-      "title": "Emmy®, Grammy® &amp; Golden Globe®-Nominated Actress, Mandy Moore, Talks Working Motherhood in New ABCmouse Back-to-School Video Series",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260825LA32851",
-      "body": "\n          <p class=\"prntac\">\n            <i>Mandy Moore Brings Humor, Heart, and a Dose of Nostalgia to the Everyday Parenting Challenge of Making Screen Time Count</i>\n          </p>\n          <p>\n            <span class=\"legendSpanClass\">GLENDALE, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- <a href=\"https://www.ageoflearning.com/\" target=\"_blank\" rel=\"nofollow\">Age of Learning</a>, the company behind <a href=\"https://www.abcmouse.com/abc/?src_tag=pr:mm:1\" target=\"_blank\" rel=\"nofollow\">ABCmouse</a>®, the most downloaded kids' education app trusted by families and educators for more than 15 years, today announced a new partnership with Emmy®, Grammy®, and Golden Globe®-nominated actress and mom of three, Mandy Moore as part of its 2026 <a href=\"https://www.youtube.com/watch?v=RBOZ0Qq4lNs\" target=\"_blank\" rel=\"nofollow\">back-to-school campaign</a>.</p>    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">                <p title=\"Mandy Moore brings her signature warmth and\r\nauthenticity to the set of ABCmouse's first-ever celebrity back-to-school campaign during production day in Los Angeles. ABCmouse is available for free on iOS, Android, Amazon, and desktop at ABCmouse.com.\"><iframe id=\"PlayMedia_1\" src=\"https://mmx.prnewswire.com/media/MS1974859/mm_docupackage_20260814_2_web_master_hb.mp4?id=OA2908475\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p>    </div><p>The partnership comes at a moment when families are shifting from summer schedules to school-year routines and parents are thinking about how to help their children start the year feeling prepared, confident, and excited to learn. Whether a child is heading into a classroom for the first time, building foundational skills at home, or looking for extra practice beyond the school day, ABCmouse gives families a research-backed way to make learning part of everyday life.</p><p>The campaign is also rooted in a reality parents know well: raising young children means making countless choices every day and wanting to feel confident those choices are helping them learn, grow, and thrive. As screen time becomes an increasingly common part of family life, ABCmouse is helping parents make that time count, giving children an experience they love while helping them build the skills they need for school and beyond.</p><p>\"Back-to-school brings lots of excitement, but it also brings a lot of questions for parents: Is my child ready? Are they building the right skills? Am I doing enough to support them?\" said Alex Galvagni, CEO of Age of Learning<b>.</b> \"Parents already have enough to think about every day. We want ABCmouse to be the one choice they don't have to second-guess. Our goal has always been to combine the joy and engagement kids love with meaningful learning that parents and educators can trust. This partnership with Mandy is about giving families confidence that even a small moment in a busy day can become a chance for their child to learn and grow.\"</p><p>Moore, a singer, actress, producer, and working mother of three young children, brings a deeply relatable perspective to the campaign. Like parents everywhere, she is navigating busy schedules, changing routines, and decisions about how and when her children use screens.</p><p>\"As a parent, I want my kids to be excited about learning and to develop that love of learning early on,\" said Mandy Moore. \"What I love about ABCmouse is that they're having fun and are engaged, while I know they're building important skills. It's screen time I can feel really good about.\"</p><p>The campaign will roll out across ABCmouse's YouTube and social channels, with a series of videos featuring Moore delivering her signature warmth and candor while sharing reflections on working <a href=\"https://youtu.be/KEG311BIkS4\" target=\"_blank\" rel=\"nofollow\">motherhood, screen time</a>, and the everyday choices parents make to support their children's learning, along with playful social content inspired by her <a href=\"https://www.youtube.com/watch?v=nXXLmTBmJ2Y\" target=\"_blank\" rel=\"nofollow\">Y2K roots</a>.</p><p>At the center of the campaign is ABCmouse's research-backed learning experience, which offers more than 13,000 activities for children ages 2–8 in a safe, ad-free environment built just for kids. Its curriculum helps children strengthen foundational skills across key subjects while fostering the confidence and curiosity that can help set the stage for future learning.</p><p>Research shows ABCmouse can make a meaningful difference in children's learning. In a randomized controlled trial, children who used ABCmouse demonstrated more than twice the growth in reading and math skills compared with children who did not use the program<sup>[1]</sup>. For parents, that means greater confidence that their children are building skills that can help them feel more prepared for the school year ahead.</p><p>The back-to-school campaign marks ABCmouse's first celebrity spokesperson partnership and reflects the brand's continued commitment to supporting families with high-quality learning experiences they can trust. At a time when parents have more digital options than ever, ABCmouse helps make one choice easier: giving children screen time that is engaging, purposeful, and grounded in learning.</p><p>ABCmouse is available for free on iOS, Android, Amazon, and desktop browsers. Families can download the app or get started at <a href=\"https://www.abcmouse.com/\" target=\"_blank\" rel=\"nofollow\">ABCmouse.com</a>.</p><p><b>About ABCmouse</b></p><p><b>ABCmouse®</b> is the most downloaded kids' education app and the most comprehensive digital learning program for children ages 2–8. Developed by Age of Learning, ABCmouse delivers a research-backed curriculum spanning reading, math, science, coding, and life skills through more than 13,000 games, activities, books, and videos. Research shows ABCmouse doubles early learning gains in reading and math*, giving children the foundational skills they need to thrive in school and beyond. ABCmouse is available on iOS, Android, Amazon, and desktop browsers.</p><p><i>*Randomized control trial conducted by Age of Learning. PreK children used ABCmouse for at least 2 days/week and for at least 1 hour per week. Go to <a href=\"http://www.aofl.com/research\" rel=\"nofollow\">www.aofl.com/research</a> for more information.</i></p><p><b>About Age of Learning</b></p><p>Age of Learning® is the leading developer of engaging and effective Pre-K through 2nd grade learning resources that help children build a strong foundation for academic success and a lifelong love of learning. The company's research-based curriculum, developed by education experts, includes the award-winning programs ABCmouse®, ABCmouse for Teachers, Adventure Academy®, as well as the adaptive, personalized school solutions, My Math Academy®, My Reading Academy®, and My Reading Academy Español®. Having served over 55 million children worldwide, Age of Learning is a global leader in efforts to advance equity, access, and opportunity for all children. To learn more about Age of Learning, visit AgeofLearning.com.</p><p><sup>[1]</sup> <i>Randomized control trial conducted by Age of Learning. PreK children used ABCmouse for at least 2 days/week and for at least 1 hour per week. Go to </i><a href=\"http://www.aofl.com/research\" target=\"_blank\" rel=\"nofollow\"><i>www.aofl.com/research</i></a><i> for more information. </i></p><p><b>MEDIA CONTACT<br></br></b>Jennifer Reza<br></br><u><a href=\"mailto:Jennifer.Reza@aofl.com\" target=\"_blank\" rel=\"nofollow\">Jennifer.Reza@aofl.com</a><br></br></u>Age of Learning, Inc.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">                <p title=\"She went from Y2K to the ABCs, and she's not mad\r\nabout it. Mandy Moore brings humor, heart, and a healthy dose of nostalgia to ABCmouse's first-ever celebrity back-to-school campaign during production day in Los Angeles. Research shows ABCmouse doubles early learning gains in reading and math for kids ages 2–8. Visit\r\nABCmouse.com — it's free.\"><iframe id=\"videoMedia_2\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nXXLmTBmJ2Y\" frameborder=\"0\"></iframe></p>                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1974876/ABCmouse_MandyMoore_7.jpg?id=OA2908534\" title=\"LOS ANGELES, CALIFORNIA — July 2026: Mandy Moore, mother of three, explores ABCmouse's research-backed early learning platform during production of the brand's back-to-school campaign in Los Angeles. The ad-free app offers 13,000+ learning activities for kids ages 2–8 in\r\na safe environment trusted by families for more than 15 years. Download for free at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)\" alt=\"LOS ANGELES, CALIFORNIA — July 2026: Mandy Moore, mother of three, explores ABCmouse's research-backed early learning platform during production of the brand's back-to-school campaign in Los Angeles. The ad-free app offers 13,000+ learning activities for kids ages 2–8 in\r\na safe environment trusted by families for more than 15 years. Download for free at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)\"></img>                </p>                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1974879/ABCmouse_MandyMoore_3.jpg?id=OA2908538\" title=\"Mandy Moore on set during production of\r\nABCmouse's back-to-school campaign, the brand's debut celebrity spokesperson partnership. The campaign centers on the honest reality of working motherhood and the power of intentional, purposeful screen time. ABCmouse is the most downloaded kids' education app, offering 13,000+ learning activities for kids ages 2–8 in a safe, ad-free environment. Download for free at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)\" alt=\"Mandy Moore on set during production of\r\nABCmouse's back-to-school campaign, the brand's debut celebrity spokesperson partnership. The campaign centers on the honest reality of working motherhood and the power of intentional, purposeful screen time. ABCmouse is the most downloaded kids' education app, offering 13,000+ learning activities for kids ages 2–8 in a safe, ad-free environment. Download for free at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)\"></img>                </p>                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1974883/ABCmouse_MandyMoore_4.jpg?id=OA2908551\" title=\"Mandy Moore brings her signature warmth and\r\nauthenticity to the set of ABCmouse's first-ever celebrity back-to-school campaign during production day in Los Angeles. ABCmouse is available for free on iOS, Android, Amazon, and desktop at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of\r\nLearning/ABCmouse)\" alt=\"Mandy Moore brings her signature warmth and\r\nauthenticity to the set of ABCmouse's first-ever celebrity back-to-school campaign during production day in Los Angeles. ABCmouse is available for free on iOS, Android, Amazon, and desktop at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of\r\nLearning/ABCmouse)\"></img>                </p>                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1974884/ABCmouse_MandyMoore_6.jpg?id=OA2908561\" title=\"LOS ANGELES, CALIFORNIA — July 2026: Behind the scenes with Mandy Moore as she films\r\nABCmouse's back-to-school campaign in Los Angeles. ABCmouse is available free on iOS, Android, Amazon, and desktop. Learn more at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)\" alt=\"LOS ANGELES, CALIFORNIA — July 2026: Behind the scenes with Mandy Moore as she films\r\nABCmouse's back-to-school campaign in Los Angeles. ABCmouse is available free on iOS, Android, Amazon, and desktop. Learn more at ABCmouse.com. (Photo by Presley Ann/Getty Images for Age of Learning/ABCmouse)\"></img>                </p>                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1974885/ABCmouse_MandyMoore_8.jpg?id=OA2908562\" title=\"of three, on set during production of ABCmouse's first-ever celebrity spokesperson campaign in Los Angeles. The back-to-school campaign celebrates the confidence that comes when children learn through purposeful, engaging screen time. Get started free at ABCmouse.com. (Photo by\r\nPresley Ann/Getty Images for Age of Learning/ABCmouse)\" alt=\"of three, on set during production of ABCmouse's first-ever celebrity spokesperson campaign in Los Angeles. The back-to-school campaign celebrates the confidence that comes when children learn through purposeful, engaging screen time. Get started free at ABCmouse.com. (Photo by\r\nPresley Ann/Getty Images for Age of Learning/ABCmouse)\"></img>                </p>                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1731280/Age-of-Learning-Inc-ABCmouse-2.jpg?id=OA2908373\" title=\"ABCmouse 2\" alt=\"ABCmouse 2\"></img>                </p></div>                <p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA32851&amp;sd=2026-08-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/emmy-grammy--golden-globe-nominated-actress-mandy-moore-talks-working-motherhood-in-new-abcmouse-back-to-school-video-series-302858815.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/emmy-grammy--golden-globe-nominated-actress-mandy-moore-talks-working-motherhood-in-new-abcmouse-back-to-school-video-series-302858815.html</a></p><div id=\"sbIframeContainer\" style=\"width:100%; height:600px; padding:0\"><div style=\"width: 100%; height: 600px;\"><iframe src=\"https://share.prnewswire.com/toolkit/692050d2-bf2d-4b0d-914d-d7130a5dd041?embedded=true&amp;iconsColor=%23000000&amp;postBgColor=%23ffffff&amp;postTextColor=%23000000&amp;font=font-sans&amp;textSize=text-base&amp;buttonUsePlatformColor=true&amp;previewCardCornerRadius=rounded-xl&amp;shadow=shadow&amp;cornerRadius=rounded-2xl&amp;sliderEnabled=&amp;showArrows=\" allowfullscreen=\"allowfullscreen\" allow=\"camera; web-share; microphone; fullscreen; clipboard-write;\" frameborder=\"0\" style=\"border: 0; outline: none; color-scheme: normal; width: 100%; height: 100%; transform: scale(1); transform-origin: 0 0;\"></iframe></div></div><p>SOURCE Age of Learning, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA32851&amp;Transmission_Id=202608250600PR_NEWS_USPR_____LA32851&amp;DateId=20260825\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Age of Learning, Inc.",
-      "style": "/* Style Definitions */span.prnews_span{font-size:8pt;font-family:\"Arial\";color:black;}a.prnews_a{color:blue;}li.prnews_li{font-size:8pt;font-family:\"Arial\";color:black;}p.prnews_p{font-size:0.62em;font-family:\"Arial\";color:black;margin:0in;}.prntac{TEXT-ALIGN: CENTER}",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 4,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "industry:MLM"
-          ],
-          "entertainment": [
-            "actress",
-            "industry:ENT"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:22.202Z"
-    },
-    {
-      "company": [
         "Hollyland"
       ],
       "date": "20260825T080000+0000",
@@ -11568,7 +10456,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:22.284Z"
+      "imported_at": "2026-09-04T18:50:54.888Z"
     },
     {
       "company": [
@@ -11651,7 +10539,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:22.402Z"
+      "imported_at": "2026-09-04T18:50:55.161Z"
     },
     {
       "company": [
@@ -11738,7 +10626,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:22.658Z"
+      "imported_at": "2026-09-04T18:50:55.383Z"
     },
     {
       "company": [
@@ -11823,7 +10711,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:22.740Z"
+      "imported_at": "2026-09-04T18:50:55.571Z"
     },
     {
       "company": [
@@ -11900,7 +10788,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:23.058Z"
+      "imported_at": "2026-09-04T18:50:55.742Z"
     },
     {
       "company": [
@@ -12001,7 +10889,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:23.151Z"
+      "imported_at": "2026-09-04T18:50:56.082Z"
     },
     {
       "company": [
@@ -12077,7 +10965,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:23.649Z"
+      "imported_at": "2026-09-04T18:50:56.241Z"
     },
     {
       "company": [
@@ -12161,7 +11049,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.091Z"
+      "imported_at": "2026-09-04T18:50:56.429Z"
     },
     {
       "company": [
@@ -12219,14 +11107,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "entertainment",
-        "television"
+        "entertainment"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "entertainment",
-          "television"
+          "entertainment"
         ],
         "review": false,
         "scores": {
@@ -12236,7 +11122,7 @@
           "entertainment": 5,
           "management": 0,
           "radio": 0,
-          "television": 6,
+          "television": 4,
           "podcast": 0,
           "tradeshow": 0
         },
@@ -12250,7 +11136,6 @@
             "industry:FLM"
           ],
           "television": [
-            "summary:emmy awards",
             "television",
             "industry:TVN"
           ]
@@ -12258,7 +11143,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.196Z"
+      "imported_at": "2026-09-04T18:50:56.604Z"
     },
     {
       "company": [
@@ -12354,7 +11239,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.317Z"
+      "imported_at": "2026-09-04T18:50:56.769Z"
     },
     {
       "company": [
@@ -12474,7 +11359,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.435Z"
+      "imported_at": "2026-09-04T18:50:56.968Z"
     },
     {
       "company": [
@@ -12566,7 +11451,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.593Z"
+      "imported_at": "2026-09-04T18:50:57.176Z"
     }
   ]
 }

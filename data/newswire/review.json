@@ -1,93 +1,11 @@
 {
-  "generated_at": "2026-09-04T18:41:28.099Z",
+  "generated_at": "2026-09-04T18:50:07.353Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 29,
+  "count": 31,
   "releases": [
-    {
-      "company": [
-        "Cambium Biomaterials, Inc"
-      ],
-      "date": "20260903T130000+0000",
-      "dateline": "EL SEGUNDO, Calif., Sept. 3, 2026",
-      "feed": [
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY",
-        "PRNUS"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ARO",
-        "CST",
-        "MFG",
-        "CHM"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170&p=publish"
-        },
-        {
-          "caption": "Cambium Announces Close of its $19 Million Series A Financing",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1508323/Cambium-orange-Logo.jpg?id=OA2927169&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1508323/Cambium-orange-Logo.jpg?id=OA2927169&p=publish"
-        }
-      ],
-      "release_id": "20260903LA39793",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">EL SEGUNDO, Calif.</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Cambium, developer of advanced composites and specialty materials, today announced the launch of ApexFrame<sup>™</sup> 5000, a phthalonitrile-based film adhesive engineered for high-temperature, non-structural bonding of polymer films and metallic foils.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170\" title=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\" alt=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\"></img>\n                </p>\n    </div>\n<p>ApexFrame 5000 delivers sustained operational performance up to 600°F (315°C), with short-duration performance up to 800°F (427°C), addressing a persistent gap in high-temperature adhesive systems: materials that can survive the most demanding thermal environments without the handling burden that typically comes with them. The system is solvent-free, room-temperature stable, and requires no freezer storage, reducing both logistics complexity and total cost of ownership for manufacturers.</p>",
-      "ticker": [],
-      "title": "Cambium launches ApexFrame 5000, a high-temperature laminating film adhesive for demanding bonding applications",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903LA39793",
-      "body": "\n<p><span class=\"legendSpanClass\">EL SEGUNDO, Calif.</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Cambium, developer of advanced composites and specialty materials, today announced the launch of ApexFrame<sup>™</sup> 5000, a phthalonitrile-based film adhesive engineered for high-temperature, non-structural bonding of polymer films and metallic foils.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980770/Cambium-Biomaterials-AF5000.jpg?id=OA2927170\" title=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\" alt=\"ApexFrame™ 5000 laminating film adhesive is built to perform up to 800°F\"></img>\n                </p>\n    </div>\n<p>ApexFrame 5000 delivers sustained operational performance up to 600°F (315°C), with short-duration performance up to 800°F (427°C), addressing a persistent gap in high-temperature adhesive systems: materials that can survive the most demanding thermal environments without the handling burden that typically comes with them. The system is solvent-free, room-temperature stable, and requires no freezer storage, reducing both logistics complexity and total cost of ownership for manufacturers.</p><p>\"A customer came to us with a challenge that existing adhesive technologies couldn't solve: bonding performance in extreme thermal environments for demanding aircraft and drone applications,\" said Cambium CTO James Griffin. \"By combining our materials expertise with a rapid development approach, we delivered ApexFrame 5000, a high-temperature laminating adhesive built for defense applications, that helps customers meet demanding performance requirements without compromising manufacturability.\"</p><p>The launch reflects Cambium's core operating model: taking a material from discovery through qualified production at speed and scale. ApexFrame 5000 moves through Cambium's integrated pipeline, discovery, product development, and manufacturing, unified under a single operating system, compressing a process that traditionally takes years into a matter of months.</p><p>Cambium's manufacturing footprint gives customers a direct path from formulation to production-ready material, without the handoffs and delays that come from working across separate suppliers for chemistry, qualification, and manufacturing. That integration is increasingly critical for customers in aerospace, defense, and space, where thermal extremes, tight qualification windows, and long-term reliability are all non-negotiable.</p><p>ApexFrame 5000 is available now as an unsupported film adhesive in standard roll widths of 12 in (300mm) and 38 in (965mm), with additional widths and carrier options available upon request.</p><p>For technical specifications or to request samples, contact <a href=\"mailto:composites@cambiumglobal.com\" target=\"_blank\" rel=\"nofollow\">composites@cambiumglobal.com</a>.</p><p><b>About Cambium</b><br></br>Cambium is building the advanced materials base for those building the future. The company integrates AI-driven materials discovery, rapid product development, industrialized qualification, and flexible manufacturing into a single operating system — compressing the path from invention to qualified production from years to months. Cambium's advanced composites and specialty materials serve customers across defense, aerospace, space, high-performance automotive and other industries where performance and speed of supply are decisive. Headquartered in El Segundo, CA, Cambium operates four manufacturing, development, and testing facilities across the US, UK, and EU. Please visit <a href=\"mailto:cambiumglobal.com\" target=\"_blank\" rel=\"nofollow\">cambiumglobal.com</a></p><p>For more information, contact Stephan Herrera, Co-founder, Chief Marketing Officer and Head of Government Affairs at <a href=\"mailto:stephan.herrera@cambiumglobal.com\" target=\"_blank\" rel=\"nofollow\">stephan.herrera@cambiumglobal.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1508323/Cambium-orange-Logo.jpg?id=OA2927169\" title=\"Cambium Announces Close of its $19 Million Series A Financing\" alt=\"Cambium Announces Close of its $19 Million Series A Financing\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39793&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/cambium-launches-apexframe-5000-a-high-temperature-laminating-film-adhesive-for-demanding-bonding-applications-302868220.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/cambium-launches-apexframe-5000-a-high-temperature-laminating-film-adhesive-for-demanding-bonding-applications-302868220.html</a></p><p>SOURCE Cambium Biomaterials, Inc</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39793&amp;Transmission_Id=202609030900PR_NEWS_USPR_____LA39793&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Cambium Biomaterials, Inc",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "film"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:00.571Z"
-    },
     {
       "company": [
         "Epic!"
@@ -166,7 +84,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.060Z"
+      "imported_at": "2026-09-04T18:50:36.392Z"
     },
     {
       "company": [
@@ -237,7 +155,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.659Z"
+      "imported_at": "2026-09-04T18:50:37.286Z"
     },
     {
       "company": [
@@ -316,7 +234,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.186Z"
+      "imported_at": "2026-09-04T18:50:40.289Z"
     },
     {
       "company": [
@@ -399,7 +317,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.534Z"
+      "imported_at": "2026-09-04T18:50:40.983Z"
     },
     {
       "company": [
@@ -487,7 +405,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.906Z"
+      "imported_at": "2026-09-04T18:50:41.495Z"
     },
     {
       "company": [
@@ -562,7 +480,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.004Z"
+      "imported_at": "2026-09-04T18:50:41.667Z"
     },
     {
       "company": [
@@ -644,7 +562,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.088Z"
+      "imported_at": "2026-09-04T18:50:41.875Z"
     },
     {
       "company": [
@@ -721,7 +639,93 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.564Z"
+      "imported_at": "2026-09-04T18:50:42.840Z"
+    },
+    {
+      "company": [
+        "SKYWORTH USA"
+      ],
+      "date": "20260831T190000+0000",
+      "dateline": "CYPRESS, Calif., Aug. 31, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "TVN",
+        "ENT",
+        "CSE"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "The SKYWORTH C2 Canvas Art TV displays a vibrant painting in a modern living room setting.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977338/20260827224449EDT_image_2.jpg?id=OA2917513&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1977338/20260827224449EDT_image_2.jpg?id=OA2917513&p=publish"
+        },
+        {
+          "caption": "The Skyworth logo is displayed in blue text against a white background.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977339/20260827224449EDT_image_1.jpg?id=OA2917514&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1977339/20260827224449EDT_image_1.jpg?id=OA2917514&p=publish"
+        }
+      ],
+      "release_id": "20260831CN35860",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>New C2 Boasts Same Revolutionary 'True QD-Mini LED Technology' and OmniView Matte Screen™ as Company's Flagship Canvas Elite™ Art TV Delivering Near OLED-Level Performance</i></p><p><span class=\"legendSpanClass\">CYPRESS, Calif.</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- SKYWORTH, a global innovator in advanced display technologies and one of the top 5 TV brands in the world, today announced the debut of the C2 <b>Canvas Art<sup>®</sup> TV</b>, the newest addition to the company's acclaimed Canvas Art<sup>®</sup> TV lineup, available in 55\", 65\", and 75\" models.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder5348\"><p><img src=\"https://mmx.prnewswire.com/media/MS1977338/20260827224449EDT_image_2.jpg?id=OA2917513\" title=\"The SKYWORTH C2 Canvas Art TV displays a vibrant painting in a modern living room setting.\" alt=\"The SKYWORTH C2 Canvas Art TV displays a vibrant painting in a modern living room setting.\"></img></p></div><p>Boasting the same cutting-edge 'True QD-Mini LED Technology' and OmniView Matte Screen™ as SKYWORTH's flagship Canvas Elite™ Art TV, the C2 features over 400 local dimming zones and a stunning 1000 nits of peak brightness. By making premium QD-Mini LED technology the new minimum standard for SKYWORTH Art TVs, the C2 establishes a new category-wide benchmark for performance, quality, and value in the fast growing Art TV category. The Canvas Art<sup>®</sup> TVs serve dual purposes as both premium televisions and digital art galleries.</p>",
+      "ticker": [],
+      "title": "SKYWORTH Sets New Quality/Performance Benchmark in Premium QD-Mini LED Art TVs with the Introduction of the C2 Canvas Art® TV",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831CN35860",
+      "body": "\n<p class=\"prntac\"><i>New C2 Boasts Same Revolutionary 'True QD-Mini LED Technology' and OmniView Matte Screen™ as Company's Flagship Canvas Elite™ Art TV Delivering Near OLED-Level Performance</i></p><p><span class=\"legendSpanClass\">CYPRESS, Calif.</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- SKYWORTH, a global innovator in advanced display technologies and one of the top 5 TV brands in the world, today announced the debut of the C2 <b>Canvas Art<sup>®</sup> TV</b>, the newest addition to the company's acclaimed Canvas Art<sup>®</sup> TV lineup, available in 55\", 65\", and 75\" models.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder5348\"><p><img src=\"https://mmx.prnewswire.com/media/MS1977338/20260827224449EDT_image_2.jpg?id=OA2917513\" title=\"The SKYWORTH C2 Canvas Art TV displays a vibrant painting in a modern living room setting.\" alt=\"The SKYWORTH C2 Canvas Art TV displays a vibrant painting in a modern living room setting.\"></img></p></div><p>Boasting the same cutting-edge 'True QD-Mini LED Technology' and OmniView Matte Screen™ as SKYWORTH's flagship Canvas Elite™ Art TV, the C2 features over 400 local dimming zones and a stunning 1000 nits of peak brightness. By making premium QD-Mini LED technology the new minimum standard for SKYWORTH Art TVs, the C2 establishes a new category-wide benchmark for performance, quality, and value in the fast growing Art TV category. The Canvas Art<sup>®</sup> TVs serve dual purposes as both premium televisions and digital art galleries.</p><p><b>Commitment to Custom Integration Excellence</b><br></br>SKYWORTH's dedication to the custom integration market extends beyond product innovation. The company offers integrators top-tier drivers for seamless integration with many of the industry's top control platforms, such as Control4 and Crestron and many others -- coupled with a focused digital sales strategy designed to maximize installer margins and streamline the specification process.</p><p>Custom integrators can also outfit the C2 with a fully customizable frame through SKYWORTH's partnership with <a href=\"https://www.hydroframes.com/\" target=\"_blank\" rel=\"nofollow\">hydro<i>frames</i></a>, available in black, silver, gold, white, and walnut, or in any custom pattern or color, with simple one-step installation over the TV's existing bezel.</p><p><b>\"From Palette to Pixel: Illuminate Life with Art\" </b><br></br>Michael Gleason, Director of Sales, SKYWORTH USA, commented on the significance of the C2 debut, noting: \"For years, the Art TV category has required consumers to accept a frustrating compromise: sacrifice visual depth and image quality for a beautiful frame. The industry standard expected buyers to settle for flat, edge-lit QLED panels that function well as ambient art but wash out the moment the lights go down for cinematic viewing.  Our C2 Canvas Art<sup>®</sup> TV shatters this paradigm by establishing a definitive new standard for Art TVs. Rather than lowering our technical specifications to meet the competition, we integrated the advanced display DNA of our flagship CE1 Canvas Elite™ Art TV into our standard Canvas Art<sup><b>®</b></sup> lineup. The result is a magnificent display that literally leaves the competition in the dust.\"</p><p><b>SKYWORTH C2 Canvas Art<sup>®</sup> TV: The New Standard for Masterpiece Displays</b><br></br>While the Canvas Elite™ Art TV remains the no-expense-spared showcase of absolute luxury with the highest specs available, by bringing such elite features as QD-Mini LED technology and the OmniView Matte Screen™ directly to standard Art TVs, the C2 truly transcends its category.</p><p><b>Specs at a Glance:</b></p><ul type=\"disc\"><li>144Hz refresh rate</li><li>400+ full-array local dimming zones</li><li>1,000 nits of peak brightness</li><li>True HDR10+ and Dolby Vision support</li><li>Built-in subwoofer with Dolby Atmos – no external soundbar required</li></ul><p>The result is a hybrid of gallery-ready aesthetic design and high-quality performance. Far from the stripped-down display typical of standard Art TVs, the SKYWORTH C2 Canvas Art<sup><b>®</b></sup> TV is a complete restoration of texture, shadow, and emotion, proving that the modern living room does not have to choose between art and engineering.</p><p><b>C2 Upgrades the Canvas Art<sup>®</sup></b> <b>Portfolio</b><br></br>In addition to the new Canvas C2, the Canvas Art<sup><b>®</b></sup> line includes the C1 available in 75-, 55-, and 65-inch models. This comprehensive range ensures custom integrators can offer clients the perfect size for any space while maintaining the signature blend of 4K entertainment and artistic display capabilities that has made the Canvas series a favorite among discerning homeowners.</p><p><b>Availability and Pricing</b><br></br>SKYWORTH will debut the C2 Canvas Art<sup>®</sup> TV at the CEDIA Expo 2026 (Booth 2923). The new line will be available through SKYWORTH's authorized custom integration dealer network.  Pricing and availability details will be announced at CEDIA.</p><p><b>About SKYWORTH</b><br></br>SKYWORTH USA is the North American division of SKYWORTH Group, a global electronics leader founded in 1988 and headquartered in Shenzhen. Built on a foundation of innovation, quality, and sustainability, SKYWORTH USA provides a comprehensive portfolio of display solutions designed with industry-leading visual technology. By engineering products for a variety of applications, SKYWORTH USA ensures high-performance viewing experiences are accessible for <span id=\"spanHghltdaf3\">every space. </span> </p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prnpr2 prnpl2 prnsbtb0 prnrbrb0 prnsbbb0 prnsblb0\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">*Control4 and Crestron are trademarks of their respective owners.</span></p></td></tr></table></div><p><b>Follow SKYWORTH on: </b><a href=\"https://www.linkedin.com/company/skyworth-usa/\" target=\"_blank\" rel=\"nofollow\"><b>LinkedIn</b></a>  <a href=\"https://www.facebook.com/SkyworthNA/\" target=\"_blank\" rel=\"nofollow\"><b>Facebook</b></a>  <a href=\"https://www.instagram.com/skyworthna/\" target=\"_blank\" rel=\"nofollow\"><b>Instagram</b></a>  <a href=\"https://www.youtube.com/c/SkyworthNA\" target=\"_blank\" rel=\"nofollow\"><b>YouTube</b></a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n                    <p>\n                        <img src=\"https://mmx.prnewswire.com/media/MS1977339/20260827224449EDT_image_1.jpg?id=OA2917514\" title=\"The Skyworth logo is displayed in blue text against a white background.\" alt=\"The Skyworth logo is displayed in blue text against a white background.\"></img>\n                    </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN35860&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/skyworth-sets-new-qualityperformance-benchmark-in-premium-qd-mini-led-art-tvs-with-the-introduction-of-the-c2-canvas-art-tv-302862563.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/skyworth-sets-new-qualityperformance-benchmark-in-premium-qd-mini-led-art-tvs-with-the-introduction-of-the-c2-canvas-art-tv-302862563.html</a></p><p>SOURCE SKYWORTH USA</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN35860&amp;Transmission_Id=202608311500PR_NEWS_USPR_____CN35860&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "SKYWORTH USA",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnrbrb0{\nBORDER-RIGHT:black 0pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnsbtb0{\nBORDER-TOP:black 0pt\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prnpr2{\nPADDING-RIGHT:0.17em\n}\n.prnpl2{\nPADDING-LEFT:0.17em\n}\n.prnsbbb0{\nBORDER-BOTTOM:black 0pt\n}\n.prnsblb0{\nBORDER-LEFT:black 0pt\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 3,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "television": [
+            "summary:television",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:50:43.755Z"
     },
     {
       "company": [
@@ -795,7 +799,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.491Z"
+      "imported_at": "2026-09-04T18:50:44.298Z"
     },
     {
       "company": [
@@ -873,7 +877,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.924Z"
+      "imported_at": "2026-09-04T18:50:45.055Z"
     },
     {
       "company": [
@@ -953,7 +957,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.030Z"
+      "imported_at": "2026-09-04T18:50:45.226Z"
     },
     {
       "company": [
@@ -1041,7 +1045,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.222Z"
+      "imported_at": "2026-09-04T18:50:45.601Z"
     },
     {
       "company": [
@@ -1134,7 +1138,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.939Z"
+      "imported_at": "2026-09-04T18:50:46.537Z"
     },
     {
       "company": [
@@ -1217,7 +1221,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.035Z"
+      "imported_at": "2026-09-04T18:50:46.744Z"
     },
     {
       "company": [
@@ -1294,7 +1298,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.118Z"
+      "imported_at": "2026-09-04T18:50:46.910Z"
     },
     {
       "company": [
@@ -1382,7 +1386,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.214Z"
+      "imported_at": "2026-09-04T18:50:47.091Z"
     },
     {
       "company": [
@@ -1463,7 +1467,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.172Z"
+      "imported_at": "2026-09-04T18:50:48.419Z"
     },
     {
       "company": [
@@ -1538,7 +1542,85 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.577Z"
+      "imported_at": "2026-09-04T18:50:48.806Z"
+    },
+    {
+      "company": [
+        "LG Electronics"
+      ],
+      "date": "20260827T100700+0000",
+      "dateline": "SEOUL, South Korea, Aug. 27, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "SKO",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CSE",
+        "AFI",
+        "TVN",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1976863/20260827053118EDT_image_1.jpg?id=OA2916015&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1976863/20260827053118EDT_image_1.jpg?id=OA2916015&p=publish"
+        }
+      ],
+      "release_id": "20260827CN35128",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>LG's 2026 AI TVs, Powered by the </i>α<i>11 AI Processor, Deliver a More Immersive and Intelligent Viewing Experience with Enhanced Picture Quality, Personalization, and </i><i>Robust </i><i>Security </i></p><p><b>News Summary:</b></p><ul type=\"disc\"><li>LG Electronics will present its 2026 AI TV lineup at IFA 2026, delivering a superior experience built around the award-winning α11 AI Processor Gen3, personalized AI content, and LG Shield security.</li><li>LG's 2026 AI TV lineup delivers an expanded viewing experience by offering highly personalized content recommendations and intuitive, user-centric features tailored to individual preferences.</li><li>LG Shield, a CES 2026 Innovation Awards honoree in the Cybersecurity category, leverages seven core security technologies to protect LG AI TV and user data.</li></ul>",
+      "ticker": [],
+      "title": "LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827CN35128",
+      "body": "\n<p class=\"prntac\"><i>LG's 2026 AI TVs, Powered by the </i>α<i>11 AI Processor, Deliver a More Immersive and Intelligent Viewing Experience with Enhanced Picture Quality, Personalization, and </i><i>Robust </i><i>Security </i></p><p><b>News Summary:</b></p><ul type=\"disc\"><li>LG Electronics will present its 2026 AI TV lineup at IFA 2026, delivering a superior experience built around the award-winning α11 AI Processor Gen3, personalized AI content, and LG Shield security.</li><li>LG's 2026 AI TV lineup delivers an expanded viewing experience by offering highly personalized content recommendations and intuitive, user-centric features tailored to individual preferences.</li><li>LG Shield, a CES 2026 Innovation Awards honoree in the Cybersecurity category, leverages seven core security technologies to protect LG AI TV and user data.</li></ul><p><span class=\"legendSpanClass\">SEOUL, South Korea</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- LG Electronics (LG) is presenting the ultimate AI TV experience with its 2026 lineup of AI-powered TVs at IFA 2026, in Berlin, Germany, from September 4–8. LG AI TVs are more than just screens; they are personalized entertainment platforms that recognize individual users, understand context, and proactively recommend apps, shows, settings, and more.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1976863/20260827053118EDT_image_1.jpg?id=OA2916015\" title=\"LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026\" alt=\"LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026\"></img>\n                </p>\n    </div>\n<p><b>Award-winning α11 AI Processor Gen3 Elevates Picture and Sound</b></p><p>The 2026 LG AI TV lineup is centered on the α11 AI Processor Gen3, LG's most powerful AI TV engine, which drives its refined picture-quality-enhancing technologies. First applied to this year's LG OLED evo series, the evolved processor now brings its advanced picture quality enhancements to LG's ultra-large Micro RGB evo TVs.</p><p>The α11 AI Processor Gen3 features faster, more precise video processing with a 5.6-fold improvement* in NPU performance and enhanced CPU and GPU capabilities. It also enables AI Dual 4K Upscaling, combining two AI methods to transform lower-resolution content into sharper, clearer 4K quality, while elevating audio to cinematic Virtual 11.1.2 channels with AI Sound Pro.</p><p>Earning accolades for its superior picture quality, Tom's Guide honored the α11 AI Processor at its AI Awards 2026, noting the award recognizes \"the best AI products that solve practical problems rather than just focusing on mere hype.\" Praising its ability to reduce color banding, Tom's Guide stated, \"While most of the other TVs we compared it to showed the red light as stripes, the LG OLED TV rendered the scene naturally.\"</p><p><b>Enhancing Daily Life Through Personalized AI</b></p><p>Beyond optimized picture quality, LG's AI TVs deliver an expanded viewing experience through personalized AI features.</p><p>LG's 2026 lineup incorporates a number of user-centric AI features designed to make everyday viewing more convenient and customized:</p><ul type=\"disc\"><li>Voice ID: Recognizes the user's voice and switches to their personal profile, which provides tailored content recommendations based on viewing history and preferences. When a user asks, \"Do you have any movies you can recommend?\" Voice ID responds with personalized suggestions matched to their taste in films.</li><li>AI Chatbot: Comprehends users' plain-language descriptions of viewing-related issues and presents appropriate solutions. When a user says, \"The screen is too dark,\" AI Chatbot identifies the exact setting issue, then walks the user through the fix.</li><li>AI Concierge: Analyzes viewing history and habits to proactively suggest content, search terms and relevant features on webOS 26. Accessible by pressing the AI button on the remote, this feature displays information in a convenient card format so that users don't have to navigate away from what they are watching.</li></ul><p><b>LG Shield: Robust Security with Multi-Layered Protection </b></p><p>Every experience on LG AI TV is protected by LG Shield, LG's proprietary, integrated security system for webOS. To safeguard users' information and privacy, LG Shield employs seven core security technologies: secure algorithms, secure data storage, secure data transmission, user authentication, software integrity assurance, secure update and security event detection.</p><p>This multi-layered defense is designed to protect user data and TV systems from threats such as data leakage, unauthorized access and malicious tampering.</p><p>A CES 2026 Innovation Awards honoree in the Cybersecurity category, LG Shield allows users to enjoy the personalized services available on LG AI TVs with greater peace of mind. In addition, LG's AI TVs come with up to five years of complimentary webOS upgrades, helping deliver an evolving user experience with access to new and improved features released post-purchase.</p><p><b>Experience LG AI TVs at IFA 2026</b></p><p>\"We are committed to bringing the next generation of AI-driven home entertainment to everyone, ensuring that our entire TV lineup delivers a truly AI TV experience,\" said Park Hyoung-sei, president of the LG Media Entertainment Solution Company. \"From picture quality to security to highly personalized user experiences, every AI-driven feature is designed to enrich and expand what you can do on LG TV – and IFA 2026 is where people can see these innovations in action.\"</p><p>Visitors to LG's booth in Hall 18 at Messe Berlin, can enjoy the LG AI TV experience in person throughout IFA 2026.</p><p class=\"prntac\"># # #</p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prnpr2 prnpl2 prnsbtb0 prnrbrb0 prnsbbb0 prnsblb0\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><i><span class=\"prnews_span\"><sup>*</sup></span></i><i> Compared to the 2025 α9 AI Processor Gen8</i></span></p></td></tr></table></div><p><b>About LG Electronics Media Entertainment Solution Company</b></p><p>The LG Media Entertainment Solution Company (MS) is a recognized innovator in televisions, audio, displays and smart TV platforms. The MS Company enhances the media entertainment experience with its OLED TVs, renowned for perfect black and perfect color, the newest Micro RGB TVs and Mini-LED QNED TVs, all powered by the personalized webOS smart TV platform. The MS Company also offers Information Technology solutions (gaming monitors, business monitors, laptops, projectors, cloud devices and medical displays) as well as Signage solutions (Micro LED signage, digital signage, hospitality displays and signage software solutions) that are designed to maximize customers' work efficiency and deliver strong value. For more news on LG, visit <a href=\"http://www.lg.com/global/newsroom/\" target=\"_blank\" rel=\"nofollow\"><b>www.LG.com/global/newsroom/</b></a>.</p><p><b>About webOS platform</b></p><p>The webOS platform has powered LG TVs for over a decade, earning acclaim for its user-friendly interface that allows for easy navigation and customization. With a growing ecosystem of global partners and audience-centric content delivered via services such as free ad-supported streaming TV LG Channels, LG Gallery+, LG Gaming Portal, LG Sports Portal and more, webOS is set to drive LG's future growth across multiple devices and out-of-home experiences. For more news on webOS for entertainment, visit <a href=\"https://www.lg.com/global/newsroom/\" target=\"_blank\" rel=\"nofollow\"><b>www.LG.com/global/newsroom/</b></a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN35128&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/lg-electronics-introduces-an-award-winning-ai-tv-experience-at-ifa-2026-302861700.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/lg-electronics-introduces-an-award-winning-ai-tv-experience-at-ifa-2026-302861700.html</a></p><p>SOURCE LG Electronics</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN35128&amp;Transmission_Id=202608270607PR_NEWS_USPR_____CN35128&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "LG Electronics",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnrbrb0{\nBORDER-RIGHT:black 0pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnsbtb0{\nBORDER-TOP:black 0pt\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prnpr2{\nPADDING-RIGHT:0.17em\n}\n.prnpl2{\nPADDING-LEFT:0.17em\n}\n.prnsbbb0{\nBORDER-BOTTOM:black 0pt\n}\n.prnsblb0{\nBORDER-LEFT:black 0pt\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:50:49.319Z"
     },
     {
       "company": [
@@ -1612,7 +1694,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:09.979Z"
+      "imported_at": "2026-09-04T18:50:49.516Z"
     },
     {
       "company": [
@@ -1692,86 +1774,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:10.181Z"
-    },
-    {
-      "company": [
-        "I.S.T. Corporation"
-      ],
-      "date": "20260826T160000+0000",
-      "dateline": "SALT LAKE CITY, Aug. 26, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "UTH",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "CHM",
-        "SEM",
-        "MFG",
-        "ARO"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430&p=publish"
-        }
-      ],
-      "release_id": "20260826CN33996",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "FVT"
-      ],
-      "summary": "<p><i>At just 25 microns, the white polyimide film combines controlled thickness and low mass with a finished-film format designed to simplify spacecraft thermal-control manufacturing and support integrated functionality.</i></p><p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <b>I.S.T. Corporation introduced White TORMED®, a new white polyimide film platform for spacecraft thermal-control applications, at the 40th Annual Small Satellite Conference (SmallSat 2026).</b></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n",
-      "ticker": [],
-      "title": "I.S.T. Corporation Introduces White TORMED®, a New Polyimide Film Platform for Spacecraft Thermal Control",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826CN33996",
-      "body": "\n<p><i>At just 25 microns, the white polyimide film combines controlled thickness and low mass with a finished-film format designed to simplify spacecraft thermal-control manufacturing and support integrated functionality.</i></p><p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <b>I.S.T. Corporation introduced White TORMED®, a new white polyimide film platform for spacecraft thermal-control applications, at the 40th Annual Small Satellite Conference (SmallSat 2026).</b></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1814474/IST-CORPORATION-Logo.jpg?id=OA2912430\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>Building on 45 years of polyimide expertise and the continued development of TORMED® for space applications, I.S.T. Corporation began with a material question: Could thermal-control functionality be incorporated directly into a lightweight, flexible polyimide film? That exploration led to White TORMED®.</p><p>White TORMED® is a finished, film-based design option that combines controlled thickness, low mass and repeatable thermal performance. Its flexible film format can simplify thermal-control manufacturing by replacing repeated coating, curing and drying steps with direct film application. The non-fluoropolymer film is designed for direct integration with composite structures and functional layers, including metals, and for adhesive-free co-curing with prepreg—a patent-pending integration technology that simplifies assembly and eliminates additional bonding steps.</p><p><b>A thin-film platform for thermal performance and manufacturing efficiency</b></p><p>Unlike a coating formed on the spacecraft surface, White TORMED® is precision-manufactured to its target thickness before application and supplied as a finished film. At only 25 microns, the concept presented at SmallSat is designed to bring together:</p><ul type=\"disc\"><li>Controlled and more consistent thickness across applicable surfaces, including edges and corners.</li><li>Repeatable thermal performance with minimal added mass.</li><li>A finished-film format that can replace days of coating, curing and drying with direct film application, significantly reducing manufacturing time, labor and processing cost.</li><li>A non-fluoropolymer film designed for direct integration with composite structures and functional layers, including metals, and for adhesive-free co-curing with prepreg—a patent-pending integration technology that simplifies assembly and eliminates additional bonding steps.</li></ul><p><b>Built on the TORMED® material platform</b></p><p>White TORMED® builds on I.S.T. Corporation's proprietary transparent polyimide film platform. TORMED® combines optical transparency, outgassing below the detection limit, mechanical flexibility, electrical insulation, and compatibility with deposited metals and other functional layers. TORMED® has been independently evaluated, exposed in orbit, and selected for commercial space applications.</p><p>Transparent TORMED® samples were included in the Euro Material Ageing (EMA) experiment, a European materials-exposure program developed through collaboration among CNES, CNRS and ESA and conducted on the Bartolomeo external platform aboard the International Space Station. The samples completed approximately one year of exposure and returned to Earth for post-flight evaluation. These results provide technical context for the broader material platform; post-flight evaluation is continuing.</p><p>Transparent TORMED® has also been selected as a protective cover film for silicon solar modules in commercial satellite applications, with production and supply preparations progressing. This connects scientific validation with practical spacecraft use.</p><p class=\"prntac\"><b>Powered by TORMED®</b>  <b>|</b>  <b>One Material. A New Approach to Spacecraft Design.</b></p><p class=\"prntal\"><b>What I.S.T. Corporation presented at SmallSat 2026</b></p><p>The presentation, \"A New Approach to Spacecraft Design: Introducing White TORMED®,\" gave participants - and now the wider market - a concise view of the commercialization and scale-up roadmap:</p><ul type=\"disc\"><li>The current White TORMED® concept, its 25-micron thermal performance, manufacturing-efficiency benefits and film-platform value.</li><li>The technical foundation provided by transparent TORMED® and its space-use progress.</li><li>A demand-led scale-up roadmap from A4 sheets to pilot and wide-roll production.</li></ul><p><b>Evaluation and scale-up roadmap</b></p><p>White TORMED® A4 sheets are available now for evaluation. I.S.T. Corporation is targeting the start of pilot production for a 300 mm-wide roll in November 2026. The roadmap presented at SmallSat includes a market review and investment decision in September 2027, followed by a conditional target for mass production of 1,000+ mm-wide rolls in fall 2028. These future steps remain subject to evaluation results, market demand, technical readiness and investment approval.</p><p><b>White TORMED® — Ready for Evaluation and Application</b></p><p>I.S.T. Corporation invites spacecraft manufacturers, subsystem suppliers and integrators to evaluate or purchase White TORMED® for their applications. For teams seeking application-specific solutions, I.S.T. can also support technical collaboration in thermal control, functional-film integration, RF concepts and composite-structure integration.</p><p>We make the material. You design what it becomes. Teams ready to explore the next application of TORMED® are invited to contact I.S.T. Corporation through the information below. Let's find out together.</p><p><b>About TORMED®</b></p><p>TORMED® is I.S.T. Corporation's proprietary transparent polyimide roll film. It is engineered for applications requiring optical transparency, thermal resistance, mechanical flexibility, outgassing below the detection limit, electrical insulation, and compatibility with functional coatings and deposited layers. Application concepts include solar-array cover films, flexible optical solar reflectors, antenna-integrated films, space electronics and tapes. White TORMED® is moving toward pilot roll production.</p><p><b>About I.S.T. Corporation</b></p><p>I.S.T. Corporation is a materials innovation company that develops high-performance polymers, films, fibers, composites and proprietary processing technologies for demanding industrial and advanced-technology applications. Its approach combines molecular design, material formulation, production-process development and scalable manufacturing.</p><p><span id=\"spanHghlte6f8\">TORMED information: <a href=\"https://ist-caretp.com/materials/tormed/\" target=\"_blank\" rel=\"nofollow\">https://ist-caretp.com/materials/tormed/</a><br></br>SmallSat conference: <a href=\"https://smallsat.org/\" target=\"_blank\" rel=\"nofollow\">https://smallsat.org/</a></span></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN33996&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ist-corporation-introduces-white-tormed-a-new-polyimide-film-platform-for-spacecraft-thermal-control-302860361.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ist-corporation-introduces-white-tormed-a-new-polyimide-film-platform-for-spacecraft-thermal-control-302860361.html</a></p><p>SOURCE I.S.T. Corporation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN33996&amp;Transmission_Id=202608261200PR_NEWS_USPR_____CN33996&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "I.S.T. Corporation",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 1
-        },
-        "reasons": {
-          "entertainment": [
-            "film"
-          ],
-          "tradeshow": [
-            "summary:conference"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:10.660Z"
+      "imported_at": "2026-09-04T18:50:49.734Z"
     },
     {
       "company": [
@@ -1853,7 +1856,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:12.872Z"
+      "imported_at": "2026-09-04T18:50:51.586Z"
     },
     {
       "company": [
@@ -1941,7 +1944,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:12.972Z"
+      "imported_at": "2026-09-04T18:50:51.762Z"
     },
     {
       "company": [
@@ -2028,7 +2031,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.423Z"
+      "imported_at": "2026-09-04T18:50:52.843Z"
     },
     {
       "company": [
@@ -2112,7 +2115,95 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.642Z"
+      "imported_at": "2026-09-04T18:50:53.208Z"
+    },
+    {
+      "company": [
+        "XGIMI"
+      ],
+      "date": "20260825T130000+0000",
+      "dateline": "SUNNYVALE, Calif., Aug. 25, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CSE",
+        "PEL",
+        "HMI",
+        "HRD",
+        "MLM",
+        "CPR",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "XGIMI and AWALL Announce Strategic Partnership and the Founding of “XWALL by XGIMI,” a New Premium Home Entertainment Brand for the U.S.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1975095/20260825030045EDT_image_1.jpg?id=OA2909488&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1975095/20260825030045EDT_image_1.jpg?id=OA2909488&p=publish"
+        }
+      ],
+      "release_id": "20260825CN33062",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "TDS",
+        "FVT"
+      ],
+      "summary": "<p><b><i>The jointly founded brand pairs XGIMI</i></b><b><i>'</i></b><b><i>s flagship engineering with AWALL</i></b><b><i>'</i></b><b><i>s U.S. custom-installation expertise and local service network </i></b><b><i>— with its first flagship product to be unveiled September 1 at CEDIA Expo 2026, Booth #3327</i></b></p><p><span class=\"legendSpanClass\">SUNNYVALE, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- XGIMI, a global leader in smart projection technology, and <b>AWALL LLC</b>, a U.S. company built for the custom-installation channel, today announced a strategic partnership and the founding of <b>XWALL by XGIMI</b> — a new premium home entertainment brand created jointly by the two companies for the United States. The brand, and its first flagship product, will make their public debut on <b>September 1 at CEDIA Expo 2026</b> (Colorado Convention Center, Denver — Booth #3327).</p>\n    ",
+      "ticker": [],
+      "title": "XGIMI and AWALL Announce Strategic Partnership and the Founding of \"XWALL by XGIMI,\" a New Premium Home Entertainment Brand for the U.S.",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260825CN33062",
+      "body": "\n<p><b><i>The jointly founded brand pairs XGIMI</i></b><b><i>'</i></b><b><i>s flagship engineering with AWALL</i></b><b><i>'</i></b><b><i>s U.S. custom-installation expertise and local service network </i></b><b><i>— with its first flagship product to be unveiled September 1 at CEDIA Expo 2026, Booth #3327</i></b></p><p><span class=\"legendSpanClass\">SUNNYVALE, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- XGIMI, a global leader in smart projection technology, and <b>AWALL LLC</b>, a U.S. company built for the custom-installation channel, today announced a strategic partnership and the founding of <b>XWALL by XGIMI</b> — a new premium home entertainment brand created jointly by the two companies for the United States. The brand, and its first flagship product, will make their public debut on <b>September 1 at CEDIA Expo 2026</b> (Colorado Convention Center, Denver — Booth #3327).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975095/20260825030045EDT_image_1.jpg?id=OA2909488\" title=\"XGIMI and AWALL Announce Strategic Partnership and the Founding of “XWALL by XGIMI,” a New Premium Home Entertainment Brand for the U.S.\" alt=\"XGIMI and AWALL Announce Strategic Partnership and the Founding of “XWALL by XGIMI,” a New Premium Home Entertainment Brand for the U.S.\"></img>\n                </p>\n    </div>\n<p>XWALL by XGIMI is not a distribution agreement — it is a brand the two companies founded together. XGIMI contributes its flagship engineering and manufacturing scale; AWALL contributes its deep understanding of the American home theater market, a nationwide network of specialty AV dealers and integrators, and a U.S.-based service organization. Where global products are often brought to the U.S. market as-is, XWALL was created to do the opposite: to adapt world-class projection into complete home cinema solutions built around how American customers, integrators, and dealers actually work.</p><p>\"Great hardware alone doesn't make a great home theater — the market, the service, and the installation have to be built for the customer in front of you,\" said <b>Xi Zhao, VP <span id=\"spanHghltb01f\">of</span> XGIMI. </b>\"That conviction is why we chose to found a brand with AWALL rather than simply appoint another distributor. XWALL by XGIMI is where XGIMI's engineering meets AWALL's American market expertise and service infrastructure — and what we unveil at CEDIA will show exactly what that combination makes possible.\"</p><p>The partnership is led on the AWALL side by <b>Steven Shulman, Chief Executive Officer of AWALL and founder of AWOL Vision</b>, one of the custom-installation industry's most recognized entrepreneurs in premium projection, joined by <b>Michael Yanoff, President of AWALL</b>. Together they bring the channel relationships and operational depth the new brand's dealer-first model is built on. As co-founder of XWALL by XGIMI, AWALL will serve as the brand's exclusive U.S. sales and service partner, leading dealer recruitment, training, and channel programs nationwide.</p><p>\"I've spent my career building premium projection brands for this channel, and XWALL is the opportunity I've been looking for,\" said <b>Shulman</b>. \"XGIMI brings world-class engineering and manufacturing scale; AWALL brings the market understanding and the service network that American customers expect. Founding a brand together is the only way to put those two things in one place — and integrators and dealers should watch what we open with at CEDIA.\"</p><p>Every XWALL by XGIMI product will carry what the two companies intend as defining hallmarks of the brand: a <b>signature three-year warranty</b>, engineered and backed by XGIMI and delivered locally through AWALL's U.S.-based service team, alongside professional calibration, customized configuration, and a complete home theater solution system — from consultation and system design through dealer-led installation and after-sales support. XWALL products will be offered in the U.S. exclusively through AWALL and its family of sales channels, from specialty dealers and integrators to retail and online.</p><p>The brand's inaugural product — a flagship home cinema statement built on XGIMI's most advanced projection platform — will be revealed on <b>September 1</b>, when XWALL by XGIMI makes its debut at CEDIA Expo 2026. Attendees will be able to experience it in a dedicated, calibrated demonstration space at <b>XGIMI's</b> <b>Booth #3327 </b>and<b> AWALL's booth #4107</b>, where XGIMI and AWALL will also host joint media sessions during the show. Integrators and dealers interested in joining the XWALL dealer program can visit the booth or contact AWALL at <span id=\"spanHghlt5fa7\"><a href=\"mailto:info@awall.com\" target=\"_blank\" rel=\"nofollow\">info@awall.com</a>.</span> </p><p><b>About XGIMI</b></p><p>Since 2013, XGIMI has helped people worldwide create genuinely immersive audio-visual experiences. Working with world-class partners, including Google, Harman Kardon, and Texas Instruments, XGIMI builds all-in-one entertainment devices guided by a user-first philosophy. Through industry-leading innovation, streamlined setup, and distinctive design, XGIMI develops the best home and portable projectors for everyone to enjoy. Learn more at XGIMI.com. </p><p><b>About AWALL</b></p><p>AWALL LLC is a U.S. company dedicated to premium home entertainment for the custom-installation channel. Founded and led by industry veteran Steven Shulman, founder of AWOL Vision, AWALL works with specialty AV dealers and integrators across the United States, providing brand programs, dealer training, professional calibration, and U.S.-based after-sales service. AWALL is the co-founder of the XWALL by XGIMI brand and its exclusive U.S. sales and service partner.</p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN33062&amp;sd=2026-08-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/xgimi-and-awall-announce-strategic-partnership-and-the-founding-of-xwall-by-xgimi-a-new-premium-home-entertainment-brand-for-the-us-302859221.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/xgimi-and-awall-announce-strategic-partnership-and-the-founding-of-xwall-by-xgimi-a-new-premium-home-entertainment-brand-for-the-us-302859221.html</a></p><p>SOURCE XGIMI</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN33062&amp;Transmission_Id=202608250900PR_NEWS_USPR_____CN33062&amp;DateId=20260825\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "XGIMI",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "entertainment",
+            "industry:ENT"
+          ],
+          "tradeshow": [
+            "summary:convention",
+            "summary:expo"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:50:53.400Z"
     },
     {
       "company": [
@@ -2203,7 +2294,110 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:20.805Z"
+      "imported_at": "2026-09-04T18:50:53.582Z"
+    },
+    {
+      "company": [
+        "Refuel Agency"
+      ],
+      "date": "20260825T125400+0000",
+      "dateline": "PRINCETON, N.J., Aug. 25, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "NJY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "TVN",
+        "FLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Keep It Secure – Face Your Dragon (:60)",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/r3qIgK9T25M/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=r3qIgK9T25M"
+        },
+        {
+          "caption": "Capital Emmys - Face Your Dragon PSA",
+          "seq": "2",
+          "thumbnailurl": "https://i.ytimg.com/vi/qPiXBvBVWbE/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=qPiXBvBVWbE"
+        },
+        {
+          "caption": "www.RefuelAgency.com",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1197654/refuel-agency-2019-RGB-Logo.jpg?id=OA2907085&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1197654/refuel-agency-2019-RGB-Logo.jpg?id=OA2907085&p=publish"
+        },
+        {
+          "caption": "Gig Line Media",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974476/logo-gigline-vert-blue.jpg?id=OA2907092&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1974476/logo-gigline-vert-blue.jpg?id=OA2907092&p=publish"
+        }
+      ],
+      "release_id": "20260825NY32315",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "VET",
+        "PHM"
+      ],
+      "summary": "<p><b><i>Face Your Dragon</i> has generated more than 500 million impressions in support of Veteran suicide prevention.</b></p><p><span class=\"legendSpanClass\">PRINCETON, N.J.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- <i>Face Your Dragon</i>, the Veteran-created suicide-prevention campaign, has generated more than <b>500 million impressions</b> and earned a Capital Emmy on June 20, 2026. Launched on September 1, 2025, at the start of Suicide Prevention Month, the campaign was created in support of the U.S. Department of Veterans Affairs Office of Suicide Prevention and Department of War lethal means safety efforts. Following the campaign's initial success, VA recently extended Face Your Dragon for an additional year of national media distribution.</p>\n    ",
+      "ticker": [],
+      "title": "Refuel Agency Partners with Gig Line Media on Capital Emmy-Winning Veteran Suicide Prevention Campaign",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260825NY32315",
+      "body": "\n<p><b><i>Face Your Dragon</i> has generated more than 500 million impressions in support of Veteran suicide prevention.</b></p><p><span class=\"legendSpanClass\">PRINCETON, N.J.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- <i>Face Your Dragon</i>, the Veteran-created suicide-prevention campaign, has generated more than <b>500 million impressions</b> and earned a Capital Emmy on June 20, 2026. Launched on September 1, 2025, at the start of Suicide Prevention Month, the campaign was created in support of the U.S. Department of Veterans Affairs Office of Suicide Prevention and Department of War lethal means safety efforts. Following the campaign's initial success, VA recently extended Face Your Dragon for an additional year of national media distribution.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"Keep It Secure – Face Your Dragon (:60)\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/r3qIgK9T25M\" frameborder=\"0\"></iframe></p>\n    </div>\n<p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=2814637108&amp;u=https%3A%2F%2Fwww.giglinemedia.com%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=Gig+Line+Media\" target=\"_blank\" rel=\"nofollow\">Gig Line Media</a> conceived, produced, and led the Veteran-driven Face Your Dragon campaign in support of the U.S. Department of Veterans Affairs Office of Suicide Prevention. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=3115930290&amp;u=https%3A%2F%2Frefuelagency.com%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=Refuel+Agency\" target=\"_blank\" rel=\"nofollow\">Refuel Agency</a>, a specialist agency for America's military and Veteran audiences, partnered with Gig Line Media to provide audience research and strategic insights that helped inform campaign planning and expand the campaign's reach.</p><p>With more than 35 years of experience reaching military and Veteran communities, Refuel Agency drew on its proprietary Military Explorer Series™, market research, and influencer analysis to help shape a message that would connect with Veterans and the people who support them.</p><p class=\"prnml40\">\"Gig Line Media built this campaign for Veterans with a message that truly resonated,\" said <b>Liz Carmo, EVP, Audience &amp; Brand Strategy at Refuel Agency and U.S. Army spouse</b>. \"We were proud to partner, bringing audience intelligence and strategy to a team committed to helping Veterans and families feel seen, supported, and never alone.\"</p><p>Refuel Agency applied AI and machine-learning-supported analysis to sharpen audience personas, campaign, and rollout planning. Combined with Gig Line Media's Veteran-led creative and production team, this work helped shape an authentic, impactful message built to support Veterans and their families at scale.</p><p class=\"prnml40\">\"More than 500 million impressions means more Veterans and families had the chance to see a message that could help save lives,\" said <b>Brian Smith, VP, Marketing Technology Solutions at Refuel Agency and U.S. Navy Veteran</b>. \"I am proud to support work that reminds our Veteran community that help is available, and no one has to face the fight alone.\"</p><p>The campaign features U.S. Marine Corps Recon Veteran <b>Rudy Reyes</b>, whose lived experience gives the work credibility and emotional weight. Reyes is known for portraying himself in HBO's <i>Generation Kill</i>, hosting <i>Special Forces: World's Toughest Test</i>, and inspiring the Enzo Reyes character in <i>Call of Duty: Modern Warfare II</i>.</p><p>Using a dragon as a symbol of the internal battles that can continue after military service, <i>Face Your Dragon</i> encourages secure firearm storage as a practical act of strength and protection.</p><p>Gig Line Media assembled an all-Veteran creative team led by director <b>Ryan Curtis</b>; executive producer <b>Mark Harper</b>, Gig Line Media CEO and U.S. Air Force combat Veteran; and executive producer <b>Chase Millsap</b>, a USMC and U.S. Army Veteran. <b>Jonathan Epstein</b> led the campaign's national media strategy and planning, helping expand the PSA into a nationwide public-service campaign.</p><p class=\"prnml40\">\"<i>Face Your Dragon</i> was built by Veterans, for Veterans, with one clear purpose: to help save lives,\" said <b>Mark Harper, CEO of Gig Line Media, U.S. Air Force combat Veteran, and Emmy Award-winning producer</b>. \"I'm proud of the team that brought this message to life and grateful for partners like Refuel Agency, whose audience and media insights helped us extend the campaign's reach to even more Veterans and families.\"</p><p>While the Capital Emmy is a meaningful milestone, the mission continues: helping Veterans and their loved ones recognize that support is available, and that reaching out is a sign of strength. The campaign earned Gig Line Media and its Veteran creative team a Capital Emmy Award in June 2026, and the mission continues following VA's extension of the campaign.</p><p>Veterans, service members, and those who care about them can contact the <b>Veterans Crisis Line</b> for free, confidential support 24/7 by <b>dialing 988, then Press 1; texting 838255; or chatting at VeteransCrisisLine.net/Chat</b>.</p><p><b>Media Resources &amp; Press Kit</b></p><p>To help raise awareness and support Veteran suicide prevention, reporters and media outlets are encouraged to share the campaign using the provided assets.</p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=3489532260&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr3qIgK9T25M&amp;a=Keep+It+Secure+%E2%80%93+Face+Your+Dragon+(%3A60)+PSA\" target=\"_blank\" rel=\"nofollow\">Keep It Secure – Face Your Dragon (:60) PSA</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=787222889&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3Q96UVZYNZk&amp;a=Keep+It+Secure+%E2%80%93+Face+Your+Dragon+(%3A30)+PSA\" target=\"_blank\" rel=\"nofollow\">Keep It Secure – Face Your Dragon (:30) PSA</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=3888893317&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAoLeShWg2yU&amp;a=Keep+It+Secure+%E2%80%93+Face+Your+Dragon+(%3A15)+PSA\" target=\"_blank\" rel=\"nofollow\">Keep It Secure – Face Your Dragon (:15) PSA</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=1890092791&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqPiXBvBVWbE&amp;a=Capital+Emmy+Recognition+Video\" target=\"_blank\" rel=\"nofollow\">Capital Emmy Recognition Video</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=19445663&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dzh-lawIAbgw&amp;a=Keep+It+Secure+%E2%80%93+Face+Your+Dragon+%E2%80%93+Behind+the+Scenes\" target=\"_blank\" rel=\"nofollow\">Keep It Secure – Face Your Dragon – Behind the Scenes</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=3086923617&amp;u=https%3A%2F%2Fwww.giglinemedia.com%2Fcase-studies%2Fface-your-dragon%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=Gig+Line+Media%3A+Face+Your+Dragon+Case+Study\" target=\"_blank\" rel=\"nofollow\">Gig Line Media: Face Your Dragon Case Study</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=3204508304&amp;u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1Azf_2iX0JkqsePl_Ym5zSiYHgybpjye5%3Fusp%3Dsharing&amp;a=Downloadable+Press+Kit\" target=\"_blank\" rel=\"nofollow\">Downloadable Press Kit</a> (Includes high-resolution assets, native video files, behind-the-scenes photography, and campaign documentation).</li></ul><p><i>This release is issued by Refuel Agency. It recognizes a campaign created in support of VA and Department of War suicide-prevention efforts and does not constitute a statement by, or endorsement from, the U.S. Department of Veterans Affairs or the Department of War.</i></p><p><b>About Refuel Agency</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=2860629516&amp;u=https%3A%2F%2Fwww.refuelagency.com%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=Refuel+Agency\" target=\"_blank\" rel=\"nofollow\">Refuel Agency</a> is the largest provider of Media + Marketing services for brands and agencies to reach military, teen, college and multicultural audiences. For over 35 years, Refuel has worked with almost half of all Fortune 500 companies, as well as most top 100 agencies and hundreds of boutique agencies, reaching over $2 Billion in total billings. Campaigns are based on Refuel audience intelligence and an omni-channel approach that may include digital, mobile, social, video, experiential, out-of-home and print advertising. Refuel Agency is headquartered in Princeton with locations in Santa Barbara, Los Angeles, Miami and New York. Visit our <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=3461026245&amp;u=https%3A%2F%2Fwww.refuelagency.com%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=Refuel+Agency+website\" target=\"_blank\" rel=\"nofollow\">Refuel Agency website</a> for more information</p><p><b>About Gig Line Media</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=2814637108&amp;u=https%3A%2F%2Fwww.giglinemedia.com%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=Gig+Line+Media\" target=\"_blank\" rel=\"nofollow\">Gig Line Media</a> is an SDVOSB full-service creative agency and production company specializing in authentic military and Veteran storytelling. Founded and led by Veterans, Gig Line partners with government agencies, nonprofits, and commercial brands to create award-winning campaigns that drive measurable impact.</p><p><b>Media inquiries:</b> Visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=395616643&amp;u=https%3A%2F%2Frefuelagency.com%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=RefuelAgency.com\" target=\"_blank\" rel=\"nofollow\">RefuelAgency.com</a> or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758241-1&amp;h=2377687850&amp;u=https%3A%2F%2Fwww.giglinemedia.com%2F%3Futm_source%3Dprnewswire%26utm_medium%3Dpress_release%26utm_campaign%3Dface_your_dragon_emmy&amp;a=GigLineMedia.com\" target=\"_blank\" rel=\"nofollow\">GigLineMedia.com</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p title=\"Capital Emmys - Face Your Dragon PSA\"><iframe id=\"videoMedia_2\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qPiXBvBVWbE\" frameborder=\"0\"></iframe></p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1197654/refuel-agency-2019-RGB-Logo.jpg?id=OA2907085\" title=\"www.RefuelAgency.com\" alt=\"www.RefuelAgency.com\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1974476/logo-gigline-vert-blue.jpg?id=OA2907092\" title=\"Gig Line Media\" alt=\"Gig Line Media\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY32315&amp;sd=2026-08-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/refuel-agency-partners-with-gig-line-media-on-capital-emmy-winning-veteran-suicide-prevention-campaign-302858655.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/refuel-agency-partners-with-gig-line-media-on-capital-emmy-winning-veteran-suicide-prevention-campaign-302858655.html</a></p><p>SOURCE Refuel Agency</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY32315&amp;Transmission_Id=202608250854PR_NEWS_USPR_____NY32315&amp;DateId=20260825\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Refuel Agency",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 2,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "industry:FLM"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:50:53.918Z"
     },
     {
       "company": [
@@ -2361,7 +2555,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:23.649Z"
+      "imported_at": "2026-09-04T18:50:56.241Z"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T18:41:28.099Z",
+  "generated_at": "2026-09-04T18:50:07.353Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 48,
+  "count": 47,
   "releases": [
     {
       "company": [
@@ -98,7 +98,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:58.936Z"
+      "imported_at": "2026-09-04T18:50:31.598Z"
     },
     {
       "company": [
@@ -171,7 +171,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.029Z"
+      "imported_at": "2026-09-04T18:50:31.808Z"
     },
     {
       "company": [
@@ -276,7 +276,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.126Z"
+      "imported_at": "2026-09-04T18:50:31.988Z"
     },
     {
       "company": [
@@ -358,7 +358,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.533Z"
+      "imported_at": "2026-09-04T18:50:32.713Z"
     },
     {
       "company": [
@@ -411,14 +411,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "entertainment",
-        "television"
+        "entertainment"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "entertainment",
-          "television"
+          "entertainment"
         ],
         "review": false,
         "scores": {
@@ -428,7 +426,7 @@
           "entertainment": 5,
           "management": 0,
           "radio": 0,
-          "television": 12,
+          "television": 2,
           "podcast": 0,
           "tradeshow": 0
         },
@@ -439,15 +437,13 @@
             "industry:FLM"
           ],
           "television": [
-            "emmy awards",
-            "primetime emmy",
             "industry:TVN"
           ]
         },
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.624Z"
+      "imported_at": "2026-09-04T18:50:32.888Z"
     },
     {
       "company": [
@@ -531,7 +527,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:32:59.839Z"
+      "imported_at": "2026-09-04T18:50:33.243Z"
     },
     {
       "company": [
@@ -625,7 +621,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.222Z"
+      "imported_at": "2026-09-04T18:50:33.968Z"
     },
     {
       "company": [
@@ -806,7 +802,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:00.764Z"
+      "imported_at": "2026-09-04T18:50:34.353Z"
     },
     {
       "company": [
@@ -898,7 +894,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.693Z"
+      "imported_at": "2026-09-04T18:50:35.863Z"
     },
     {
       "company": [
@@ -994,7 +990,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.878Z"
+      "imported_at": "2026-09-04T18:50:36.232Z"
     },
     {
       "company": [
@@ -1063,7 +1059,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.366Z"
+      "imported_at": "2026-09-04T18:50:36.733Z"
     },
     {
       "company": [
@@ -1171,7 +1167,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:02.829Z"
+      "imported_at": "2026-09-04T18:50:37.620Z"
     },
     {
       "company": [
@@ -1262,7 +1258,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.130Z"
+      "imported_at": "2026-09-04T18:50:38.150Z"
     },
     {
       "company": [
@@ -1347,7 +1343,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.234Z"
+      "imported_at": "2026-09-04T18:50:38.330Z"
     },
     {
       "company": [
@@ -1408,14 +1404,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "entertainment",
-        "television"
+        "entertainment"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "entertainment",
-          "television"
+          "entertainment"
         ],
         "review": false,
         "scores": {
@@ -1443,7 +1437,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.515Z"
+      "imported_at": "2026-09-04T18:50:38.961Z"
     },
     {
       "company": [
@@ -1530,7 +1524,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.704Z"
+      "imported_at": "2026-09-04T18:50:39.300Z"
     },
     {
       "company": [
@@ -1628,7 +1622,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.801Z"
+      "imported_at": "2026-09-04T18:50:39.510Z"
     },
     {
       "company": [
@@ -1705,7 +1699,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.982Z"
+      "imported_at": "2026-09-04T18:50:39.923Z"
     },
     {
       "company": [
@@ -1797,7 +1791,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:04.346Z"
+      "imported_at": "2026-09-04T18:50:40.633Z"
     },
     {
       "company": [
@@ -1885,7 +1879,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.703Z"
+      "imported_at": "2026-09-04T18:50:43.027Z"
     },
     {
       "company": [
@@ -1961,7 +1955,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.094Z"
+      "imported_at": "2026-09-04T18:50:43.563Z"
     },
     {
       "company": [
@@ -2049,7 +2043,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.585Z"
+      "imported_at": "2026-09-04T18:50:44.474Z"
     },
     {
       "company": [
@@ -2131,7 +2125,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:06.720Z"
+      "imported_at": "2026-09-04T18:50:44.685Z"
     },
     {
       "company": [
@@ -2228,7 +2222,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.435Z"
+      "imported_at": "2026-09-04T18:50:45.961Z"
     },
     {
       "company": [
@@ -2324,7 +2318,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:07.843Z"
+      "imported_at": "2026-09-04T18:50:46.343Z"
     },
     {
       "company": [
@@ -2417,7 +2411,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.575Z"
+      "imported_at": "2026-09-04T18:50:47.842Z"
     },
     {
       "company": [
@@ -2507,96 +2501,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:08.754Z"
-    },
-    {
-      "company": [
-        "Live Nation Entertainment"
-      ],
-      "date": "20260826T201500+0000",
-      "dateline": "LOS ANGELES, Aug. 26, 2026",
-      "feed": [
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "APPLE_NEWS",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "MUS",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Live Nation Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409&p=publish"
-        }
-      ],
-      "release_id": "20260826LA34615",
-      "status": "PUBLISHED",
-      "subject": [
-        "CCA",
-        "FVT",
-        "TDS"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- Live Nation Entertainment, Inc. (NYSE: LYV), the world's leading live entertainment company, announced today that management will present at Goldman Sachs Communacopia &amp; Technology Conference on Wednesday, September 9, 2026 at 10:10 a.m. PT.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409\" title=\"Live Nation Logo\" alt=\"Live Nation Logo\"></img>\n                </p>\n    </div>\n<p>A live webcast of the session will be accessible from the \"News / Events\" section of the company's website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1608232916&amp;u=http%3A%2F%2Fwww.investors.livenationentertainment.com%2F&amp;a=investors.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">investors.livenationentertainment.com</a>. </p><p><b>About Live Nation Entertainment</b></p>",
-      "ticker": [
-        "NYSE:LYV"
-      ],
-      "title": "Live Nation Entertainment To Participate In Goldman Sachs Communacopia &amp; Technology Conference",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826LA34615",
-      "body": "\n<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- Live Nation Entertainment, Inc. (NYSE: LYV), the world's leading live entertainment company, announced today that management will present at Goldman Sachs Communacopia &amp; Technology Conference on Wednesday, September 9, 2026 at 10:10 a.m. PT.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409\" title=\"Live Nation Logo\" alt=\"Live Nation Logo\"></img>\n                </p>\n    </div>\n<p>A live webcast of the session will be accessible from the \"News / Events\" section of the company's website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1608232916&amp;u=http%3A%2F%2Fwww.investors.livenationentertainment.com%2F&amp;a=investors.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">investors.livenationentertainment.com</a>. </p><p><b>About Live Nation Entertainment</b></p><p>Live Nation Entertainment (NYSE: LYV) is the world's leading live entertainment company comprised of global market leaders: Ticketmaster, Live Nation Concerts and Live Nation Media &amp; Sponsorship.  For additional information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1817577779&amp;u=http%3A%2F%2Fwww.livenationentertainment.com%2F&amp;a=www.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">www.livenationentertainment.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA34615&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/live-nation-entertainment-to-participate-in-goldman-sachs-communacopia--technology-conference-302860955.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/live-nation-entertainment-to-participate-in-goldman-sachs-communacopia--technology-conference-302860955.html</a></p><p>SOURCE Live Nation Entertainment</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA34615&amp;Transmission_Id=202608261615PR_NEWS_USPR_____LA34615&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Live Nation Entertainment",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "entertainment",
-        "tradeshow"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "entertainment",
-          "tradeshow"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 10,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 2
-        },
-        "reasons": {
-          "entertainment": [
-            "summary:entertainment company",
-            "summary:live entertainment",
-            "entertainment",
-            "industry:ENT",
-            "industry:MUS"
-          ],
-          "tradeshow": [
-            "conference"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:33:10.074Z"
+      "imported_at": "2026-09-04T18:50:48.238Z"
     },
     {
       "company": [
@@ -2679,7 +2584,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:10.309Z"
+      "imported_at": "2026-09-04T18:50:49.919Z"
     },
     {
       "company": [
@@ -2775,7 +2680,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:10.758Z"
+      "imported_at": "2026-09-04T18:50:50.088Z"
     },
     {
       "company": [
@@ -2855,7 +2760,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.252Z"
+      "imported_at": "2026-09-04T18:50:50.324Z"
     },
     {
       "company": [
@@ -2943,7 +2848,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:11.350Z"
+      "imported_at": "2026-09-04T18:50:50.607Z"
     },
     {
       "company": [
@@ -3040,7 +2945,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:13.097Z"
+      "imported_at": "2026-09-04T18:50:51.951Z"
     },
     {
       "company": [
@@ -3125,7 +3030,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:14.843Z"
+      "imported_at": "2026-09-04T18:50:52.147Z"
     },
     {
       "company": [
@@ -3214,7 +3119,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.038Z"
+      "imported_at": "2026-09-04T18:50:52.324Z"
     },
     {
       "company": [
@@ -3289,7 +3194,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.306Z"
+      "imported_at": "2026-09-04T18:50:52.667Z"
     },
     {
       "company": [
@@ -3377,7 +3282,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:15.530Z"
+      "imported_at": "2026-09-04T18:50:53.028Z"
     },
     {
       "company": [
@@ -3467,7 +3372,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:20.893Z"
+      "imported_at": "2026-09-04T18:50:53.742Z"
     },
     {
       "company": [
@@ -3565,7 +3470,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:21.102Z"
+      "imported_at": "2026-09-04T18:50:54.119Z"
     },
     {
       "company": [
@@ -3665,7 +3570,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:21.398Z"
+      "imported_at": "2026-09-04T18:50:54.479Z"
     },
     {
       "company": [
@@ -3748,7 +3653,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:22.402Z"
+      "imported_at": "2026-09-04T18:50:55.161Z"
     },
     {
       "company": [
@@ -3835,7 +3740,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:22.658Z"
+      "imported_at": "2026-09-04T18:50:55.383Z"
     },
     {
       "company": [
@@ -3912,7 +3817,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:23.058Z"
+      "imported_at": "2026-09-04T18:50:55.742Z"
     },
     {
       "company": [
@@ -4013,7 +3918,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:23.151Z"
+      "imported_at": "2026-09-04T18:50:56.082Z"
     },
     {
       "company": [
@@ -4071,14 +3976,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "entertainment",
-        "television"
+        "entertainment"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "entertainment",
-          "television"
+          "entertainment"
         ],
         "review": false,
         "scores": {
@@ -4088,7 +3991,7 @@
           "entertainment": 5,
           "management": 0,
           "radio": 0,
-          "television": 6,
+          "television": 4,
           "podcast": 0,
           "tradeshow": 0
         },
@@ -4102,7 +4005,6 @@
             "industry:FLM"
           ],
           "television": [
-            "summary:emmy awards",
             "television",
             "industry:TVN"
           ]
@@ -4110,7 +4012,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.196Z"
+      "imported_at": "2026-09-04T18:50:56.604Z"
     },
     {
       "company": [
@@ -4206,7 +4108,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.317Z"
+      "imported_at": "2026-09-04T18:50:56.769Z"
     },
     {
       "company": [
@@ -4326,7 +4228,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:24.435Z"
+      "imported_at": "2026-09-04T18:50:56.968Z"
     }
   ]
 }

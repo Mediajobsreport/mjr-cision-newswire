@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:41:28.099Z",
+  "generated_at": "2026-09-04T18:50:07.353Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "engineering",
@@ -95,7 +95,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.100Z"
+      "imported_at": "2026-09-04T18:50:34.922Z"
     },
     {
       "company": [
@@ -185,7 +185,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:01.204Z"
+      "imported_at": "2026-09-04T18:50:35.087Z"
     },
     {
       "company": [
@@ -291,7 +291,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:03.605Z"
+      "imported_at": "2026-09-04T18:50:39.127Z"
     },
     {
       "company": [
@@ -392,7 +392,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:33:05.373Z"
+      "imported_at": "2026-09-04T18:50:42.393Z"
     }
   ]
 }
