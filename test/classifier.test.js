@@ -170,7 +170,7 @@ test("does not classify consumer brand entertainment promotions", () => {
 
 test("classifies TV-branded services when Cision confirms the television industry", () => {
   const result = classifyRelease({
-    title: "Company Sets Subscriber Targets for IDILIO TV",
+    title: "Company Sets Subscriber and Audience Growth Targets for IDILIO TV",
     industry: ["TVN", "MLM"]
   });
   assert.ok(result.categories.includes("television"));
@@ -182,4 +182,30 @@ test("classifies digital-media consortium launches", () => {
     industry: ["PUB"]
   });
   assert.ok(result.categories.includes("digital"));
+});
+
+test("does not classify media-adjacent product promotions as television", () => {
+  const television = classifyRelease({ title: "LG Introduces an Award-Winning AI TV Experience", industry: ["TVN"] });
+  const gala = classifyRelease({ title: "Emmy-Winning Journalist to Host Tennis Gala", industry: ["TVN", "ENT"] });
+  assert.deepEqual(television.categories, []);
+  assert.deepEqual(gala.categories, []);
+});
+
+test("does not classify generic conferences as tradeshows even for media companies", () => {
+  const podcast = classifyRelease({
+    title: "Podcast Celebrates 300 Episodes",
+    summary: "The host previously spoke at a summit.",
+    industry: ["RAD", "ENT"]
+  });
+  assert.ok(podcast.categories.includes("podcast"));
+  assert.ok(!podcast.categories.includes("tradeshow"));
+});
+
+test("uses a named media show found in the summary", () => {
+  const result = classifyRelease({
+    title: "Comcast Technology Solutions Unveils New Video AI Applications",
+    summary: "The company will demonstrate the applications at IBC Show 2026.",
+    industry: ["BRD", "TVN"]
+  });
+  assert.ok(result.categories.includes("tradeshow"));
 });
