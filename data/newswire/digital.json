@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T18:16:37.778Z",
+  "generated_at": "2026-09-04T18:24:47.829Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 1,
+  "count": 4,
   "releases": [
     {
       "company": [
@@ -85,7 +85,264 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T17:48:40.711Z"
+      "imported_at": "2026-09-04T18:25:00.288Z"
+    },
+    {
+      "company": [
+        "GigaStar"
+      ],
+      "date": "20260902T110000+0000",
+      "dateline": "CHICAGO, Sept. 2, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "ILL",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIN",
+        "ICO",
+        "BLN",
+        "FNT",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "GigaStar Brings YouTube Creators and Investors Together",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1622879/GigaStar-Logo.jpg?id=OA2911327&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1622879/GigaStar-Logo.jpg?id=OA2911327&p=publish"
+        }
+      ],
+      "release_id": "20260902CG33757",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>GigaStar provides a marketplace for securitized Creator revenue, where investors can buy and now trade these securities through GigaStar Trading, one of the few U.S. platforms operating an SEC-registered <span>digital asset</span> securities ATS.</i></p><p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- GigaStar, the startup bringing Creators and Investors together, announced the launch of GigaStar Securities LLC dba GigaStar Trading, its affiliate broker-dealer platform with a digital Alternative Trading System (ATS) designed to support secondary market trading of Creator Economy digital securities initially purchased on GigaStar Market, its primary investment platform.</p>\n    ",
+      "ticker": [],
+      "title": "GigaStar Debuts Its Investing and Trading Ecosystem for the Creator Economy, Rings NASDAQ Bell",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902CG33757",
+      "body": "\n<p><i>GigaStar provides a marketplace for securitized Creator revenue, where investors can buy and now trade these securities through GigaStar Trading, one of the few U.S. platforms operating an SEC-registered <span>digital asset</span> securities ATS.</i></p><p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- GigaStar, the startup bringing Creators and Investors together, announced the launch of GigaStar Securities LLC dba GigaStar Trading, its affiliate broker-dealer platform with a digital Alternative Trading System (ATS) designed to support secondary market trading of Creator Economy digital securities initially purchased on GigaStar Market, its primary investment platform.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1622879/GigaStar-Logo.jpg?id=OA2911327\" title=\"GigaStar Brings YouTube Creators and Investors Together\" alt=\"GigaStar Brings YouTube Creators and Investors Together\"></img>\n                </p>\n    </div>\n<p>The launch of GigaStar Trading coincides with GigaStar team members ringing the opening NASDAQ Bell in New York City on August 31st, in recognition of the company's 2025 Chicago Innovation Award win.</p><p>Previously, Investors could only purchase Creator securities through GigaStar Market, the company's SEC-registered crowdfunding portal, via Regulation CF offerings. With the launch of GigaStar Trading, Investors now have expanded access to buy or sell Creator securities on a regulated secondary market.</p><p>While two distinct platforms, GigaStar Market and GigaStar Trading form a connected ecosystem where Investors can access, manage, and trade digital securities representing rights to a percentage of potential future Creator revenue, starting with YouTube revenue.</p><p>\"We're fueling an asset class that empowers individuals <i>and</i> institutions to participate in the growth of Creators,\" said David Hunt, CEO of GigaStar Securities. \"With the launch of GigaStar Trading, we are introducing broader access to the Creator Economy through an evolving investing and trading ecosystem.\"</p><p>The launch follows GigaStar Securities LLC obtaining registration from the Securities and Exchange Commission (SEC) and Financial Industry Regulatory Authority (FINRA) to operate as a Broker-Dealer and ATS for <span>digital asset</span> securities. GigaStar Trading is one of the few SEC-registered <span>digital asset</span> security ATSs in the U.S., licensed to operate in all 50 states, and, to our knowledge, is the only ATS purpose-built for the Creator Economy.<i>*</i></p><ul type=\"disc\"><li>To date, GigaStar Market has registered 30,000+ Investor accounts and has distributed $1.5M+ in monthly YouTube revenue to Investors.<sup>1 </sup></li><li>Since late July, GigaStar Trading has gained 1,000+ accounts, and has cleared $100K+ in trading volume.</li></ul><p>Visit GigaStar Trading at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759636-1&amp;h=3526767893&amp;u=https%3A%2F%2Fgigastartrading.io%2F&amp;a=gigastartrading.io\" target=\"_blank\" rel=\"nofollow\">gigastartrading.io</a>.</p><p><b>About GigaStar</b><br></br>GigaStar fuels human creativity by bringing Creators and Investors together. GigaStar provides Creators with an intuitive platform to raise capital from thousands of Investors who share in the channel's potential future YouTube revenue while supporting a Creator's journey. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759636-1&amp;h=1063187480&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4181916-1%26h%3D1754663588%26u%3Dhttps%253A%252F%252Fgigastar.io%252F%26a%3Dgigastar.io&amp;a=gigastar.io\" target=\"_blank\" rel=\"nofollow\">gigastar.io</a>.</p><p><sup>1 </sup> <i>Investments remain speculative and subject to total loss; past payouts do not guarantee future returns.</i></p><p><i>Securities purchased on GigaStar Market must be held for 12 months before becoming eligible for trading in the Secondary Market. There is no guarantee of an active or liquid secondary market, and investments may fluctuate in value. Investments in <span>digital asset</span> securities are speculative, illiquid, and involve risk, including the potential loss of the entire investment.</i></p><p><i>Creator Networks, Inc. (dba GigaStar) is the Parent Company of GigaStar Portal LLC (dba GigaStar Market), GigaStar Technologies (dba GigaStar Portfolio), and GigaStar Securities LLC (dba GigaStar Trading). GigaStar Market is an SEC-registered crowdfunding portal and a member of FINRA offering securities under Reg CF. GigaStar Trading is an SEC-registered Broker-Dealer, member of FINRA &amp; SIPC, and SEC-registered Digital Alternative Trading System (\"ATS\"),</i> <i>which is GigaStar Trading's secondary trading platform that matches orders for buyers and sellers of securities. There is no guarantee of an active or liquid secondary market, and investments are subject to market risk and will fluctuate in value. GigaStar and its affiliates do not make any investment recommendations or offer investment advice. </i></p><p><i>Channel Revenue Tokens (CRTs) digitally represent revenue-sharing rights to a percentage of a YouTube channel's future AdSense revenue. Investment offerings are speculative, illiquid, and involve risks, including the risk of loss of the entire investment. The past performance of an offering, security, or channel is not a guarantee of future results. There is no guarantee of an active secondary market for any specific security. The content herein does not constitute a solicitation of an offer to buy security(ies). </i></p><p><i>*To our knowledge, based on publicly available SEC Alternative Trading System (ATS) Form ATS disclosures and FINRA Member Firm <span>Crypto</span> Asset Nexus data as of August 2026, GigaStar Trading operates the only SEC-registered <span>digital asset</span> security ATS purpose-built for Creator Economy revenue-sharing securities. Primary offerings are separately facilitated by GigaStar Portal, LLC (dba GigaStar Market), an SEC-registered funding portal and FINRA member.</i></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG33757&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/gigastar-debuts-its-investing-and-trading-ecosystem-for-the-creator-economy-rings-nasdaq-bell-302862127.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/gigastar-debuts-its-investing-and-trading-ecosystem-for-the-creator-economy-rings-nasdaq-bell-302862127.html</a></p><p>SOURCE GigaStar</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG33757&amp;Transmission_Id=202609020700PR_NEWS_USPR_____CG33757&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "GigaStar",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 7,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "creator economy",
+            "industry:MLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:08.016Z"
+    },
+    {
+      "company": [
+        "Emplifi Inc"
+      ],
+      "date": "20260901T131900+0000",
+      "dateline": "NEW YORK, Sept. 1, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ECM",
+        "SMD",
+        "ADV",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Emplifi",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA2923050&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA2923050&p=publish"
+        }
+      ],
+      "release_id": "20260901CL38093",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY",
+        "MRR"
+      ],
+      "summary": "<p><i>Emplifi analysis of more than 7,700 ad accounts finds ecommerce advertisers increased paid social investment sharply in Q2, while click-through rates rose and cost per click declined.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Emplifi, the only <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=1927699984&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=Autonomous+CX+platform\" target=\"_blank\" rel=\"nofollow\">Autonomous CX platform</a>, today released findings from its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=2175775483&amp;u=https%3A%2F%2Femplifi.io%2Fresources%2Fblog-social-media-ads-benchmarks-2026%2F&amp;a=Q2+2026+Social+Ads+Benchmark+Report\" target=\"_blank\" rel=\"nofollow\"><i>Q2 2026 Social Ads Benchmark Report</i></a>, revealing strong year-over-year growth in paid social investment spanning regions and industries across Meta ad accounts.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA2923050\" title=\"Emplifi\" alt=\"Emplifi\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Ecommerce social media ad spend surged 70% as brands got more for every dollar",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901CL38093",
+      "body": "\n<p><i>Emplifi analysis of more than 7,700 ad accounts finds ecommerce advertisers increased paid social investment sharply in Q2, while click-through rates rose and cost per click declined.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Emplifi, the only <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=1927699984&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=Autonomous+CX+platform\" target=\"_blank\" rel=\"nofollow\">Autonomous CX platform</a>, today released findings from its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=2175775483&amp;u=https%3A%2F%2Femplifi.io%2Fresources%2Fblog-social-media-ads-benchmarks-2026%2F&amp;a=Q2+2026+Social+Ads+Benchmark+Report\" target=\"_blank\" rel=\"nofollow\"><i>Q2 2026 Social Ads Benchmark Report</i></a>, revealing strong year-over-year growth in paid social investment spanning regions and industries across Meta ad accounts.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA2923050\" title=\"Emplifi\" alt=\"Emplifi\"></img>\n                </p>\n    </div>\n<p>Based on anonymized data from more than 7,700 Meta ad accounts, the report found that median monthly social ad spend increased 13% year over year across all benchmarks. Ecommerce led industry growth, with median monthly spend rising 70%, from $16,426 in Q2 2025 to $27,966 in Q2 2026.</p><p>The increase was accompanied by stronger performance. Ecommerce click-through rates rose 29%, while cost per click declined 18% to $0.133, the lowest of any industry tracked. Across the worldwide benchmark, click-through rates increased 18% year over year, and cost per click declined 9%.</p><p>\"The brands seeing the biggest efficiency gains on paid social aren't just increasing budgets; they're investing in what happens after the click,\" said Susan Ganeshan, Chief Marketing Officer at Emplifi. \" When the ad lands on relevant content, real customer reviews, and a seamless purchase experience, performance improves. That's what this data is showing us: spend and efficiency moving in the same direction across the full customer journey.</p><p><b>North America sees significant spend growth</b></p><p>North America recorded one of the largest regional increases, with median monthly social ad spend rising 61% year over year, from $8,277 to $13,308.</p><p>In the United States, median monthly spend increased 57% to $15,111. Click-through rate rose 22% to 1.78%, the highest of any region tracked, while cost per click declined 3% to $0.483.</p><p>The United Kingdom also posted strong growth, with median monthly spend increasing 54%, from $5,257 to $8,074. Click-through rate rose 20%, while cost per click declined 9%.</p><p><b>Europe delivers the strongest efficiency gains</b></p><p>Across Europe, median monthly social ad spend increased 14% year over year to $7,037. Cost per click declined 16%, the largest decrease of any region analyzed, while click-through rate rose 20%.</p><p>The data shows that advertisers across the region increased investment while improving both engagement and cost efficiency.</p><p><b>Direct-to-consumer brands, fashion and automotive stand out by industry</b></p><p>Direct-to-consumer brands posted the strongest spend growth of any industry analyzed. Fashion also saw substantial increases, with median monthly spend rising 37% year over year to $18,787. Click-through rate increased 13%, while cost per click declined 17%.</p><p>Retail spend increased 14%, accompanied by an 11% increase in click-through rate and a 7% decline in cost per click.</p><p>Automotive saw a 24% CTR increase, the strongest engagement gain of any industry in the report, pointing to growing consumer appetite for social as a vehicle research and consideration channel, even as overall spend growth remained modest at 9%.</p><p>A full breakdown of the findings is available in Emplifi's analysis, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=1817737423&amp;u=https%3A%2F%2Femplifi.io%2Fresources%2Fblog-social-media-ads-benchmarks-2026%2F&amp;a=Social+Media+Ads+Benchmarks+2026%3A+Where+Paid+Social+Investment+Is+Actually+Paying+Off\" target=\"_blank\" rel=\"nofollow\">Social Media Ads Benchmarks 2026: Where Paid Social Investment Is Actually Paying Off</a>.</p><p><b>Methodology</b></p><p>Emplifi's <i>Q2 2026 Social Ads Benchmark Report</i> analyzes anonymized data from more than 7,700 Meta ad accounts, spanning global regions and industry verticals. Figures represent median monthly spend, click-through rate, and cost per click per account. Year-over-year comparisons reflect Q2 2026, from April through June 2026, against Q2 2025. Benchmarks are segmented by region, country, and industry, and sample sizes vary by segment.</p><p><b>About Emplifi </b></p><p>Emplifi is the only<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=3841017401&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=1927699984&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=Autonomous+CX+platform\" target=\"_blank\" rel=\"nofollow\">Autonomous CX platform</a> unifying<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=1502900070&amp;u=http%3A%2F%2Femplifi.io%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764810-1&amp;h=3873424682&amp;u=http%3A%2F%2Femplifi.io%2F&amp;a=AI-powered+social+media+management\" target=\"_blank\" rel=\"nofollow\">AI-powered social media management</a>, commerce, and customer care for more than 20,000 brands worldwide. Powered by Fuel AI, built on more than 5T of data, and recognized as a leader by leading industry analysts, Emplifi helps enterprise teams orchestrate connected customer journeys and deliver personalized experiences at scale, turning every customer touchpoint into a competitive advantage.</p><p>Contact:<br></br>Jordan Lukes, Corporate Communications Director, Emplifi<br></br><a href=\"mailto:jordan.lukes@emplifi.io\" target=\"_blank\" rel=\"nofollow\">jordan.lukes@emplifi.io</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL38093&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ecommerce-social-media-ad-spend-surged-70-as-brands-got-more-for-every-dollar-302866297.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ecommerce-social-media-ad-spend-surged-70-as-brands-got-more-for-every-dollar-302866297.html</a></p><p>SOURCE Emplifi Inc</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL38093&amp;Transmission_Id=202609010919PR_NEWS_USPR_____CL38093&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Emplifi Inc",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 3,
+          "digital": 6,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertiser",
+            "industry:ADV"
+          ],
+          "digital": [
+            "social media",
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:10.985Z"
+    },
+    {
+      "company": [
+        "Fountain 0"
+      ],
+      "date": "20260831T143500+0000",
+      "dateline": "NEW YORK, Aug. 31, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "TVN",
+        "SMD",
+        "ENT",
+        "PUB"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Sunny Hostin",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563&p=publish"
+        }
+      ],
+      "release_id": "20260831NY37043",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><i>Fountain 0 Calls for Influencers with Major Social Media Followings to Join the Fountain 0 Talent Directory to be Eligible to Earn from Licensing Their Images</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Fountain 0 announced that Sunny Hostin, co-anchor of the acclaimed daily talk show <i>The View, </i>would become the first major personality to agree to develop and produce one or more films, and license her image and likeness for purposes of those films to the leading AI film and tv studio.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563\" title=\"Sunny Hostin\" alt=\"Sunny Hostin\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Sunny Hostin Signs with Fountain 0 to License Her Image for Appearances in Upcoming Films Which She Looks to Produce Based on Her Best-Selling Books",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831NY37043",
+      "body": "\n<p><i>Fountain 0 Calls for Influencers with Major Social Media Followings to Join the Fountain 0 Talent Directory to be Eligible to Earn from Licensing Their Images</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Fountain 0 announced that Sunny Hostin, co-anchor of the acclaimed daily talk show <i>The View, </i>would become the first major personality to agree to develop and produce one or more films, and license her image and likeness for purposes of those films to the leading AI film and tv studio.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563\" title=\"Sunny Hostin\" alt=\"Sunny Hostin\"></img>\n                </p>\n    </div>\n<p>Fountain 0, which produced the first full length, live action film to be accepted at a major film festival, when it premiered at The Tribeca Film Festival last month, has also announced the release of its newest film, <i>Odysseus: The Fall</i>, in the very near future. The studio has gotten very significant national press for having produced content at a quality level comparable to traditional productions.</p><p><i>Odysseus: The Fall</i> is using images of real people in the film, including Ash Koosha, the film's creator and CEO of Fountain 0 as Odysseus; Pooya Koosha, co-producer and co-founder of Fountain 0, as Eurylochus; and Tom Rogers, Executive Chairman of Fountain 0 and executive producer of the film, as Mentor.</p><p>Having demonstrated that the proprietary software and virtual production studio that Fountain 0 has built on top of AI video models is capable of reducing production costs to nominal levels while achieving the highest of quality productions, it has set its sights on ways to reduce marketing and promotion costs of its films. Along these lines, a key innovation that Fountain 0 intends to pursue is licensing the images of well-known personalities and influencers to represent characters in upcoming productions as a way to efficiently market releases to their followers. It has been proven for decades that recognizable personalities in films drive audience appeal, and to combine that with the power of social media relevance creates a formula to better enable audiences to know about films that incorporate the image of those they follow.</p><p>Sunny Hostin could not be a more perfect example of a very well-known figure to pioneer this new approach to incorporating the likenesses of key personalities into new films. Sunny not only has heavily devoted fans who enjoy her political, social, legal and cultural television commentary, while also having a major social media presence, but she is also a New York Times bestselling author, having written several books of fiction. In that regard, Sunny intends to bring her novels to the big screen through the industry leading AI film production capability of Fountain 0, while incorporating her own image in the film.</p><p>Ash Koosha stated, \"This is obviously new territory for major talent personalities. We are incredibly gratified that Sunny is willing to be the talent pioneer willing to step out and take advantage of this new form of creative expression. Sunny, of course, will be able to decide which of her works she develops into a film, and what roles her image can be incorporated into under a licensing agreement which gives her strict control over how her image can be used.\"</p><p>Sunny Hostin stated, \"I am thrilled to be a part of how top-quality AI productions cannot only enable writers and directors to have their imaginations unleashed and no longer be tethered to budgetary constraints, but I am excited to be able to help pioneer a new art form which can open up new dimensions for how public personalities can engage with audiences.\"</p><p>Sunny Hostin, continued, \"To be able to bring my novels to life in movie and TV form, and actually have my image inserted in the productions, so that audiences can relate to me through my stories beyond my role as an author, is incredibly exciting to me. This entire generational innovation in filmmaking from Fountain 0 gives me confidence that AI can give me a way to both more fully develop, and more fully immerse myself in, IP I have developed. I feel particularly strongly that there is a need to bring stories to the big screen that are more in tune with the lives of diverse audiences that Hollywood focuses too little on, and I believe Fountain 0's AI productions can have a major impact on responding to the interests of these underserved audiences.\"</p><p>Pooya Koosha, also post- producer of the films, stated, \"Our ability to refine image generation to not only present the physical likeness of a personality, but to match their voice and other characteristics will give fans a real sense that their favorite talents are actually present in the productions despite the fact that they will be synthetic images.\"</p><p>Tom Rogers stated, \"Our approach is to make sure all persons whose images are used in any Fountain 0 production are compensated by receiving a revenue participation in the film. Even small parts which might not involve incorporating major personalities will participate in the revenue generated by any film for which their image is used.</p><p>Rogers continued, \"With Sunny not only being a personality in front of the camera, but an author as well, we look forward to the potential to develop films based on her books. Writers and directors will have quite significant revenue participation in the productions they create. In that sense Sunny will participate as both a producer/writer in the revenue generated from any film but also participate in the film's upside from her image appearing in the film as well.\"</p><p>Emma Sarah Wilson, Counsel to Fountain 0, said the company has developed a comprehensive licensing framework governing the use of an individual's image. Wilson explained, \"We have developed a robust long-form licensing agreement for every individual whose image, likeness and voice may be used in a Fountain 0 production. The agreement provides clear consent and usage rights, while establishing safeguards for how reference images and voice recordings are stored and used within the studio and its projects. Our goal is to protect each individual's privacy and control over their identity while preserving the creative flexibility and technical quality required to produce the highest quality image and voice generation.\"</p><p>Ash Koosha called for all influencers and those with major social media followings to join the Fountain 0 talent directory from which their likeness can be licensed. He stated, \"If one's image or likeness is licensed with approval, a person becomes eligible to earn from what will be a fountain of film and tv episodes.\" Sign up here <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763760-1&amp;h=2152322377&amp;u=https%3A%2F%2Fjoin%2Ffountain0.com&amp;a=https%3A%2F%2Fjoin.fountain0.com.\" target=\"_blank\" rel=\"nofollow\">https://join.fountain0.com.</a> </p><p><i>Dreams of Violets</i> is now streaming at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763760-1&amp;h=69694639&amp;u=https%3A%2F%2Fwatch.fountain0.com%2F&amp;a=Watch.Fountain0.com\" target=\"_blank\" rel=\"nofollow\">Watch.Fountain0.com</a>, and the trailer for <i>Odysseus: The Fall</i> is also available on the site as well. Interested viewers can sign up now to be on the list for advanced viewing of <i>Odysseus: The Fall</i>, scheduled for release next month.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY37043&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/sunny-hostin-signs-with-fountain-0-to-license-her-image-for-appearances-in-upcoming-films-which-she-looks-to-produce-based-on-her-best-selling-books-302865041.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/sunny-hostin-signs-with-fountain-0-to-license-her-image-for-appearances-in-upcoming-films-which-she-looks-to-produce-based-on-her-best-selling-books-302865041.html</a></p><p>SOURCE Fountain 0</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY37043&amp;Transmission_Id=202608311035PR_NEWS_USPR_____NY37043&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Fountain 0",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital",
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital",
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 5,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "summary:social media",
+            "industry:PUB",
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:15.143Z"
     }
   ]
 }

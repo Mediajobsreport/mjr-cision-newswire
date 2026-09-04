@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T18:16:37.778Z",
+  "generated_at": "2026-09-04T18:24:47.829Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 1,
+  "count": 18,
   "releases": [
     {
       "company": [
@@ -85,7 +85,1434 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T17:48:40.711Z"
+      "imported_at": "2026-09-04T18:25:00.288Z"
+    },
+    {
+      "company": [
+        "Agile & Co."
+      ],
+      "date": "20260903T165400+0000",
+      "dateline": "ST. LOUIS, Sept. 3, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "MSU",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "AFI",
+        "CPR",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Agile-Co-Core-Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1981391/Agile-Co-logo.jpg?id=OA2928994&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1981391/Agile-Co-logo.jpg?id=OA2928994&p=publish"
+        },
+        {
+          "caption": "Chans-Weber",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1981393/Chans-Weber.jpg?id=OA2928996&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1981393/Chans-Weber.jpg?id=OA2928996&p=publish"
+        }
+      ],
+      "release_id": "20260903PH40449",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT"
+      ],
+      "summary": "<p><i>New system pairs AI-driven strategy with human oversight, giving contractors, clinics, auto shops and med spas a marketing partner that remembers their business and compounds results over time</i></p><p><span class=\"legendSpanClass\">ST. LOUIS</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- <b>Agile &amp; Co</b>, a full-service marketing agency specializing in local service businesses, today announced the launch of Core, a proprietary AI-powered marketing platform. Built on an 80% AI, 20% human strategy model, Core is designed to help contractors, clinics, auto shops, med spas and other local service businesses generate more booked jobs without their marketing strategy starting from scratch every month. More information on Core is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767017-1&amp;h=2180956120&amp;u=https%3A%2F%2Fagileandco.com%2F&amp;a=agileandco.com\" target=\"_blank\" rel=\"nofollow\">agileandco.com</a>.</p>\n",
+      "ticker": [],
+      "title": "Agile &amp; Co Launches Core, a Proprietary AI Marketing Platform Built for Local Service Businesses",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903PH40449",
+      "body": "\n<p><i>New system pairs AI-driven strategy with human oversight, giving contractors, clinics, auto shops and med spas a marketing partner that remembers their business and compounds results over time</i></p><p><span class=\"legendSpanClass\">ST. LOUIS</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- <b>Agile &amp; Co</b>, a full-service marketing agency specializing in local service businesses, today announced the launch of Core, a proprietary AI-powered marketing platform. Built on an 80% AI, 20% human strategy model, Core is designed to help contractors, clinics, auto shops, med spas and other local service businesses generate more booked jobs without their marketing strategy starting from scratch every month. More information on Core is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767017-1&amp;h=2180956120&amp;u=https%3A%2F%2Fagileandco.com%2F&amp;a=agileandco.com\" target=\"_blank\" rel=\"nofollow\">agileandco.com</a>.</p>\n<p>Core connects directly to a business's operational data, including services, pricing, and past campaign performance, and applies that context across advertising, SEO, and website work. According to Agile &amp; Co, this removes the need for clients to repeatedly re-explain their business to a rotating cast of marketers, since Core retains that context across every campaign.</p><p>Each new campaign also feeds Core's models directly. The system analyzes lead and conversion data and adjusts strategy automatically, a design intended to help marketing performance compound over time rather than reset with every new push.</p><p>\"<i>We built Core because we were tired of watching service businesses get sold black-box AI tools that don't know their market. Core learns your business, your customers, and what actually converts, so every dollar you spend gets smarter over time instead of starting from zero,</i>\" said Chans, Founder and CEO of Agile &amp; Co.</p><p>Despite the AI foundation, Agile &amp; Co said human strategists review every campaign and write final copy before anything goes live. The company built Core using MCP architecture, RAG retrieval, and vector databases rather than off-the-shelf AI tools, and applies it across SEO, Google Ads, Meta Ads, and website design. Agile &amp; Co also offers transparent, attribution-based reporting, tracking leads to their source and optimizing toward booked jobs rather than clicks, and operates without long-term client contracts.</p><p><b>About Agile &amp; Co</b></p><p>Founded in 2012, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767017-1&amp;h=3149690841&amp;u=https%3A%2F%2Fagileandco.com%2F&amp;a=Agile+%26+Co\" target=\"_blank\" rel=\"nofollow\">Agile &amp; Co</a> has grown from a scrappy SEO shop into a full-service growth partner powered by proprietary AI. The mission never changed: do right by the businesses that trust us, even when it's the harder path.</p><p><b>Media Contact:</b></p><p>Chans, Founder and CEO<br></br>Agile &amp; Co<br></br>1535 S 8th St, Suite A, St. Louis, MO 63104<br></br>(314) 661-2375</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH40449&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/agile--co-launches-core-a-proprietary-ai-marketing-platform-built-for-local-service-businesses-302869251.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/agile--co-launches-core-a-proprietary-ai-marketing-platform-built-for-local-service-businesses-302869251.html</a></p><p>SOURCE Agile &amp; Co.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH40449&amp;Transmission_Id=202609031254PR_NEWS_USPR_____PH40449&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Agile & Co.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 6,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 1,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing agency",
+            "marketing",
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "summary:actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:01.438Z"
+    },
+    {
+      "company": [
+        "Gargle Inc."
+      ],
+      "date": "20260902T231800+0000",
+      "dateline": "LEHI, Utah, Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "UTH",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "DEN",
+        "ADV",
+        "AFI",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260902LA39896",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><b>Integrated AEO and GEO strategies help dental practices remain visible as patients increasingly turn to AI tools and voice assistants for answers.</b></p><p><span class=\"legendSpanClass\">LEHI, Utah</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Gargle, Inc., a dental marketing agency, has expanded its SEO offering to include Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO), helping dental practices improve their visibility across traditional search engines, AI-powered platforms, and voice search.</p>\n<p>Patients are no longer relying exclusively on traditional Google searches to find a dentist or learn about treatment options. They are also asking detailed questions through AI search tools and voice assistants. Gargle's enhanced SEO strategy is designed to help dental practices appear wherever those conversations begin.</p>",
+      "ticker": [],
+      "title": "Gargle Expands Dental SEO Strategy to Help Dental Practices Get Found in AI Search",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902LA39896",
+      "body": "\n<p><b>Integrated AEO and GEO strategies help dental practices remain visible as patients increasingly turn to AI tools and voice assistants for answers.</b></p><p><span class=\"legendSpanClass\">LEHI, Utah</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Gargle, Inc., a dental marketing agency, has expanded its SEO offering to include Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO), helping dental practices improve their visibility across traditional search engines, AI-powered platforms, and voice search.</p>\n<p>Patients are no longer relying exclusively on traditional Google searches to find a dentist or learn about treatment options. They are also asking detailed questions through AI search tools and voice assistants. Gargle's enhanced SEO strategy is designed to help dental practices appear wherever those conversations begin.</p><p>\"Search behavior is changing quickly,\" said Jeff Richins, President of Gargle. \"Patients are turning to AI tools and voice search for recommendations and answers. We want to ensure our clients are visible wherever potential patients are searching.\"</p><p><b>Helping Dental Practices Become the Answer</b></p><p>Traditional SEO helps practices rank for relevant keywords. AEO and GEO build on that foundation by structuring website content so search engines and AI platforms can more easily understand, reference, and present it in response to patient questions.</p><p>This allows dental practices to provide helpful information earlier in the patient journey, including answers about symptoms, procedures, costs, recovery, and available treatment options.</p><p>\"We don't just want a practice to appear in a list of search results,\" said Richins. \"We want it to be recognized as a trusted and relevant answer when a patient is actively looking for care.\"</p><p><b>Optimizing for High-Intent Patient Searches</b></p><p>Gargle's approach focuses on the questions patients ask when they are considering treatment or choosing a dental provider. By creating clear, useful, and locally relevant content, practices can improve their visibility during the moments most likely to influence a patient's decision.</p><p>The strategy is designed to support visibility across:</p><ul type=\"disc\"><li>Traditional Google search results</li><li>Google AI-powered search experiences</li><li>Featured snippets and answer boxes</li><li>Voice assistants</li><li>Generative AI search platforms</li><li>Local and map-based searches</li></ul><p><b>Built Into Gargle's Existing SEO Offering</b></p><p>AEO and GEO are integrated directly into Gargle's SEO product. Existing clients do not need to purchase separate software, manage another vendor, or add another layer to their marketing strategy.</p><p>\"There are no extra tools or added complexity,\" said Richins. \"We've incorporated these strategies into the SEO work we already provide, giving our clients greater value while preparing them for the future of search.\"</p><p>By expanding beyond traditional rankings, Gargle is helping dental practices build a stronger digital presence and remain competitive as online discovery continues to evolve.</p><p><b>About Gargle, Inc.</b></p><p>Gargle is a full-service dental marketing agency offering customized solutions including websites, SEO, paid search, social media, digital advertising, reputation management, and marketing performance reporting. Gargle helps dental practices improve their visibility, understand their marketing results, and connect with more prospective patients through personalized strategies and human-first support.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39896&amp;sd=2026-09-02\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/gargle-expands-dental-seo-strategy-to-help-dental-practices-get-found-in-ai-search-302868264.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/gargle-expands-dental-seo-strategy-to-help-dental-practices-get-found-in-ai-search-302868264.html</a></p><p>SOURCE Gargle Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39896&amp;Transmission_Id=202609021918PR_NEWS_USPR_____LA39896&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Gargle Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing agency",
+            "summary:marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:04.138Z"
+    },
+    {
+      "company": [
+        "Moore"
+      ],
+      "date": "20260902T205000+0000",
+      "dateline": "WASHINGTON, Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "DOC",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "DTA",
+        "IOT",
+        "CPR",
+        "NET"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS539354/Moore-Logo.jpg?id=OA2926628&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS539354/Moore-Logo.jpg?id=OA2926628&p=publish"
+        }
+      ],
+      "release_id": "20260902PH39587",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>RMI recommends clients transition list management and brokerage services to Moore's AudienceFirst Media.</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766172-1&amp;h=408653445&amp;u=http%3A%2F%2Fwearemoore.com%2F&amp;a=Moore%2C\" target=\"_blank\" rel=\"nofollow\">Moore,</a> the leading constituent experience management (CXM) company, and RMI Direct Marketing today announced a strategic alliance through which RMI is recommending that its clients transition their list management and brokerage services to AudienceFirst Media, a division of SimioCloud, a Moore company. This isn't an acquisition.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS539354/Moore-Logo.jpg?id=OA2926628\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Moore and RMI Direct Marketing Announce Strategic Alliance",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902PH39587",
+      "body": "\n<p class=\"prntac\"><i>RMI recommends clients transition list management and brokerage services to Moore's AudienceFirst Media.</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766172-1&amp;h=408653445&amp;u=http%3A%2F%2Fwearemoore.com%2F&amp;a=Moore%2C\" target=\"_blank\" rel=\"nofollow\">Moore,</a> the leading constituent experience management (CXM) company, and RMI Direct Marketing today announced a strategic alliance through which RMI is recommending that its clients transition their list management and brokerage services to AudienceFirst Media, a division of SimioCloud, a Moore company. This isn't an acquisition.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS539354/Moore-Logo.jpg?id=OA2926628\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>As a result of this alliance, RMI concluded operations on Sept. 1. Client notifications began last week, with a transition process put in place to provide continuity of service as clients move their list management and brokerage services to AudienceFirst Media.</p><p>\"For more than 40 years, RMI has been focused on helping our clients succeed, and that commitment was at the center of our decision about the future,\" said Rich Leary, president of RMI Direct Marketing. \"We selected Moore and AudienceFirst Media because of the strong alignment between our companies and their deep expertise in list management, brokerage and data-driven audience strategies. AudienceFirst Media understands this business and our clients' needs, and I am confident they are the right team to carry this important work forward.\"</p><p>AudienceFirst Media is an established industry leader in data solutions, creating data-driven integrated strategies for nonprofits, publishers, catalog and retail clients across a wide range of verticals. Its team specializes in identifying audiences to optimize performance and marketing investment while helping organizations maximize the value of their data assets. These capabilities closely align with the list management and brokerage services RMI has provided its clients.</p><p>\"RMI has built strong client relationships and an impressive business over decades, and we are honored that they selected Moore and AudienceFirst Media as the right partner for their clients,\" said Gretchen Littlefield, CEO of Moore. \"AudienceFirst Media brings the experience, data expertise and strategic capabilities to provide continuity for RMI clients without a break in service. We look forward to building on the strong foundation RMI has established.\"</p><p>Several RMI account representatives have joined Moore as part of the AudienceFirst Media team and will continue supporting their clients. This continuity of people and expertise provides RMI clients with a seamless transition.</p><p><b>About Moore<br></br></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766172-1&amp;h=3969894952&amp;u=https%3A%2F%2Fwearemoore.com%2F&amp;a=Moore\" target=\"_blank\" rel=\"nofollow\">Moore</a> is the growth engine for the purpose-driven economy. Powered by proprietary data intelligence from SimioCloud, a Moore company, we create connected constituent experiences that earn trust, deepen engagement and inspire action. As the leading constituent experience management (CXM) company<b>, </b>Moore brings together strategy, communications, creative, media, data, technology, research and execution across brand and fundraising to create integrated experiences across every platform, channel and device. The result is a smarter, more connected approach to growth that accelerates mission impact and builds brands that change the world. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766172-1&amp;h=871137381&amp;u=http%3A%2F%2Fwearemoore.com%2F&amp;a=wearemoore.com\" target=\"_blank\" rel=\"nofollow\">wearemoore.com</a>.</p><p><b>Media Contact<br></br></b>Mac McKeever<br></br><a href=\"mailto:mmckeever@wearemoore.com\" target=\"_blank\" rel=\"nofollow\">mmckeever@wearemoore.com</a><br></br>207-841-6110</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH39587&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/moore-and-rmi-direct-marketing-announce-strategic-alliance-302868066.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/moore-and-rmi-direct-marketing-announce-strategic-alliance-302868066.html</a></p><p>SOURCE Moore</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH39587&amp;Transmission_Id=202609021650PR_NEWS_USPR_____PH39587&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Moore",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:04.297Z"
+    },
+    {
+      "company": [
+        "Listrak"
+      ],
+      "date": "20260902T151900+0000",
+      "dateline": "LITITZ, Pa., Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "PSY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "REA",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Listrak logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1099092/Listrak-new-logo.jpg?id=OA2923993&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1099092/Listrak-new-logo.jpg?id=OA2923993&p=publish"
+        }
+      ],
+      "release_id": "20260902PH38502",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "SBS"
+      ],
+      "summary": "<p class=\"prntac\"><i>New tool gives marketers instant, actionable feedback on any marketing email to help drive e-commerce revenue growth </i></p><p><span class=\"legendSpanClass\">LITITZ, Pa.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Leading <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=488515628&amp;u=https%3A%2F%2Fwww.listrak.com%2Fplatform&amp;a=cross-channel+personalization\" target=\"_blank\" rel=\"nofollow\">cross-channel personalization</a> platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2925044448&amp;u=https%3A%2F%2Fwww.listrak.com%2F&amp;a=Listrak\" target=\"_blank\" rel=\"nofollow\">Listrak</a> announced its new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2699927469&amp;u=https%3A%2F%2Fwww.listrak.com%2Fservices%2Femail-marketing-audit&amp;a=Email+Marketing+Audit\" target=\"_blank\" rel=\"nofollow\">Email Marketing Audit</a> tool, which allows marketers to audit any marketing email against industry best practices for deliverability, accessibility, mobile optimization, content, and conversion.  The tool is free, with no signup required, and is the retail industry's first of its kind. It provides actionable insights that help drive email marketing success.</p>\n    ",
+      "ticker": [],
+      "title": "Listrak Launches Free Email Marketing Audit for Retailers",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902PH38502",
+      "body": "\n<p class=\"prntac\"><i>New tool gives marketers instant, actionable feedback on any marketing email to help drive e-commerce revenue growth </i></p><p><span class=\"legendSpanClass\">LITITZ, Pa.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Leading <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=488515628&amp;u=https%3A%2F%2Fwww.listrak.com%2Fplatform&amp;a=cross-channel+personalization\" target=\"_blank\" rel=\"nofollow\">cross-channel personalization</a> platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2925044448&amp;u=https%3A%2F%2Fwww.listrak.com%2F&amp;a=Listrak\" target=\"_blank\" rel=\"nofollow\">Listrak</a> announced its new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2699927469&amp;u=https%3A%2F%2Fwww.listrak.com%2Fservices%2Femail-marketing-audit&amp;a=Email+Marketing+Audit\" target=\"_blank\" rel=\"nofollow\">Email Marketing Audit</a> tool, which allows marketers to audit any marketing email against industry best practices for deliverability, accessibility, mobile optimization, content, and conversion.  The tool is free, with no signup required, and is the retail industry's first of its kind. It provides actionable insights that help drive email marketing success.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1099092/Listrak-new-logo.jpg?id=OA2923993\" title=\"Listrak logo\" alt=\"Listrak logo\"></img>\n                </p>\n    </div>\n<p>Listrak's Email Marketing Audit evaluates any marketing email against 30+ proven email marketing best practices across the key elements of a high-performing email.  The audit reviews emails for:</p><ul type=\"disc\"><li>Content: Strong email content helps capture attention and encourage subscribers to take action.<ul type=\"circle\"><li>The audit reviews elements such as Preheader, SMS Opt-In Invitation, Social Media, Manage Preferences Link, Early Call-to-Action, Subject Line Spam Triggers, Clickable Logo, and more.</li></ul></li><li>Compliance: Following email marketing and accessibility best practices helps build trust, improve usability, and support compliance.<ul type=\"circle\"><li>The audit assesses: CAN-SPAM Compliance, ADA Accessibility criteria, and SMS compliance if opt-in sources are present. This includes criteria like: Unsubscribe Link, Image Alt Text, Color Contrast, Company Physical Address, Urgency Claims, and more.</li></ul></li><li>Composition: How an email is built affects how it renders, loads, and performs across inboxes and devices.<ul type=\"circle\"><li>The audit analyzes Mobile-First Design, Gmail Clipping Risk, Image Payload Size, Coupon Code Accessibility, GIF Usage, Button-Style CTAs, Live Text, among other key elements.</li></ul></li></ul><p>Results, which are available in seconds, allow marketers to identify what's working, what's holding performance back, and where small changes can improve opens, clicks, and conversions. The report also provides recommendations to help improve performance.</p><p>\"Every marketing email serves to shape how customers experience retail brands, but emails are often created in silos across creative, merchandising and marketing teams, making it easy to miss important nuances that inhibit email performance,\" said Ross Kramer, co-founder and CEO, Listrak. \"We built our Email Marketing Audit to help illuminate blind spots across content, compliance and composition, based on Listrak's 25 years of experience and the same proven email best practices our experts use every day across more than 1,000 retail brands to help retailers drive revenue growth.\"</p><p>The launch of Listrak's Email Marketing Audit fills a growing need for marketers to stay current on the latest inbox intricacies and compliance regulations. Listrak platform data shows email click-through rates fell 11% year over year in Q2 2026, while email continues to be a workhorse marketing channel driving 30% of e-commerce revenue, making it highly essential and, while challenging, more critical than ever to optimize email marketing performance.</p><p><b>About Listrak</b></p><p>Listrak is the leading cross-channel personalization platform that seamlessly integrates data, identity, and cross-channel messaging to power hyper-personalized customer experiences across Email, SMS, Push, Web, In-Store and emerging channels like RCS from a single platform. Built for leading retailers and brands, Listrak drives measurable customer growth, maximizes efficiency, and delivers exceptional revenue results. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=1370118382&amp;u=https%3A%2F%2Fwww.listrak.com&amp;a=www.listrak.com\" target=\"_blank\" rel=\"nofollow\">www.listrak.com</a>.</p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH38502&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/listrak-launches-free-email-marketing-audit-for-retailers-302867842.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/listrak-launches-free-email-marketing-audit-for-retailers-302867842.html</a></p><p>SOURCE LISTRAK</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH38502&amp;Transmission_Id=202609021119PR_NEWS_USPR_____PH38502&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "LISTRAK",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:05.465Z"
+    },
+    {
+      "company": [
+        "Huntington Bank"
+      ],
+      "date": "20260902T130000+0000",
+      "dateline": "COLUMBUS, Ohio, Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "OHO",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "FIN",
+        "INS",
+        "FNT",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Ameesh Vakharia, Huntington's Chief Marketing and Digital Products Officer",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979920/Ameesh-Vakharia-Huntington-Chief-Marketing-and-Digital-Products-Officer.jpg?id=OA2924425&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1979920/Ameesh-Vakharia-Huntington-Chief-Marketing-and-Digital-Products-Officer.jpg?id=OA2924425&p=publish"
+        },
+        {
+          "caption": "Huntington Bank Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1003712/Huntington-Bank-1-Logo.jpg?id=OA2924414&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1003712/Huntington-Bank-1-Logo.jpg?id=OA2924414&p=publish"
+        }
+      ],
+      "release_id": "20260902CL38715",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER"
+      ],
+      "summary": "<p class=\"prntac\"><i>Experienced executive will lead newly integrated marketing and digital products organization</i></p><p><span class=\"legendSpanClass\">COLUMBUS, Ohio</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- The Huntington National Bank (\"Huntington\") today announced the appointment of Ameesh Vakharia as executive vice president and chief marketing and digital products officer.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979920/Ameesh-Vakharia-Huntington-Chief-Marketing-and-Digital-Products-Officer.jpg?id=OA2924425\" title=\"Ameesh Vakharia, Huntington's Chief Marketing and Digital Products Officer\" alt=\"Ameesh Vakharia, Huntington's Chief Marketing and Digital Products Officer\"></img>\n                </p>\n    </div>\n<p>In this newly created role, Ameesh will lead Huntington's integrated marketing and digital products organization, bringing together brand, marketing and digital product management to strengthen the Huntington brand, drive customer growth and create more connected sales and service experiences across digital and physical channels. He will report to Brant Standridge, president of consumer and regional banking. </p>",
+      "ticker": [],
+      "title": "Huntington Bank Names Ameesh Vakharia Chief Marketing and Digital Products Officer",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902CL38715",
+      "body": "\n<p class=\"prntac\"><i>Experienced executive will lead newly integrated marketing and digital products organization</i></p><p><span class=\"legendSpanClass\">COLUMBUS, Ohio</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- The Huntington National Bank (\"Huntington\") today announced the appointment of Ameesh Vakharia as executive vice president and chief marketing and digital products officer.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979920/Ameesh-Vakharia-Huntington-Chief-Marketing-and-Digital-Products-Officer.jpg?id=OA2924425\" title=\"Ameesh Vakharia, Huntington's Chief Marketing and Digital Products Officer\" alt=\"Ameesh Vakharia, Huntington's Chief Marketing and Digital Products Officer\"></img>\n                </p>\n    </div>\n<p>In this newly created role, Ameesh will lead Huntington's integrated marketing and digital products organization, bringing together brand, marketing and digital product management to strengthen the Huntington brand, drive customer growth and create more connected sales and service experiences across digital and physical channels. He will report to Brant Standridge, president of consumer and regional banking. </p><p>For more than 160 years, Huntington has evolved with its customers by investing in products, services and experiences that help people and businesses manage their financial lives. As expectations continue to change, the bank is bringing marketing and digital product teams closer to support more connected customer experiences.</p><p>\"Bringing marketing and digital products together creates an opportunity to move faster, simplify how we work and create more seamless experiences for customers,\" said Standridge. \"Ameesh has a strong track record of connecting strategy, brand, product and digital teams around the common goal of delivering differentiated value for customers. His experience will help us turn ideas into customer-focused solutions and accelerate innovation across the business.\"</p><p>Ameesh joins Huntington with more than two decades of leadership experience across strategy, digital, product and channel management, customer growth and brand leadership. Most recently, he served as executive vice president and chief strategy and brand officer at USAA, where he led enterprise strategy, innovation, digital, marketing, communications, corporate responsibility and membership growth efforts as a member of the company's Executive Council.</p><p>Prior to USAA, Ameesh served on the Operating Council at Truist, where he led retail deposits, small business banking, contact centers, strategy, analytics and omnichannel client experience. He also held several senior leadership positions at SunTrust spanning deposits, digital channels, customer experience and enterprise strategy.</p><p>\"What attracted me to Huntington was its strong culture, commitment to customers and long history of innovating on their behalf,\" said Ameesh. \"Customers don't distinguish between a brand promise and a product experience, and the strongest organizations shouldn't either. Bringing these capabilities together creates an opportunity to move faster, deliver more connected experiences, and make banking simpler and more personal for customers.\"</p><p>Ameesh's appointment follows the transition of Vijay Konduru and Mark Sheehan into newly expanded enterprise leadership roles. Konduru now serves as head of Huntington's business innovation and AI products organization, and Sheehan serves as head of the bank's digital assets organization.</p><p>\"These strategic changes will help us move ideas from concept to customer impact more quickly, and build the products, capabilities and experiences that will define the future of banking at Huntington,\" Standridge said.</p><p>Ameesh will be based in Charlotte, North Carolina.</p><p>For more information about Huntington, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765400-1&amp;h=949338277&amp;u=https%3A%2F%2Fwww.huntington.com%2F&amp;a=Huntington.com\" target=\"_blank\" rel=\"nofollow\">Huntington.com</a>.</p><p><b>About Huntington</b></p><p>Huntington Bancshares Incorporated is a $284 billion asset regional bank holding company headquartered in Columbus, Ohio. A top 10 U.S. commercial bank, The Huntington National Bank and its affiliates provide consumers, small and middle-market businesses, corporations, municipalities, and other organizations with a comprehensive suite of banking, payments, wealth management, and risk management products and services. Founded in 1866, Huntington operates over 1,400 branches in 21 states, with certain businesses operating nationally. Visit Huntington.com for more information.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1003712/Huntington-Bank-1-Logo.jpg?id=OA2924414\" title=\"Huntington Bank Logo\" alt=\"Huntington Bank Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL38715&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/huntington-bank-names-ameesh-vakharia-chief-marketing-and-digital-products-officer-302866840.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/huntington-bank-names-ameesh-vakharia-chief-marketing-and-digital-products-officer-302866840.html</a></p><p>SOURCE Huntington Bank</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL38715&amp;Transmission_Id=202609020900PR_NEWS_USPR_____CL38715&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Huntington Bank",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising",
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising",
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 6,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "management": [
+            "summary:vice president",
+            "names",
+            "summary:executive",
+            "summary:president"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:07.178Z"
+    },
+    {
+      "company": [
+        "CallRail"
+      ],
+      "date": "20260902T120500+0000",
+      "dateline": "ATLANTA, Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "GGA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "HEA",
+        "STW",
+        "DTA",
+        "MEQ"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1785962/CallRail-Logo.jpg?id=OA2925036&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1785962/CallRail-Logo.jpg?id=OA2925036&p=publish"
+        }
+      ],
+      "release_id": "20260902CL38964",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>New EHR and patient management system integrations help healthcare organizations connect marketing campaigns to appointments and new patients </i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- CallRail, the AI-powered lead engagement platform, today announced new healthcare capabilities that enable practices and their marketing partners to connect marketing investments to booked appointments and patient outcomes. Healthcare marketers can now see which calls result in appointments and move beyond measuring campaign success by call volume alone.</p>\n    ",
+      "ticker": [],
+      "title": "CallRail Connects Healthcare Marketing to Patient Outcomes Through 15 New Integrations",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902CL38964",
+      "body": "\n<p class=\"prntac\"><i>New EHR and patient management system integrations help healthcare organizations connect marketing campaigns to appointments and new patients </i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- CallRail, the AI-powered lead engagement platform, today announced new healthcare capabilities that enable practices and their marketing partners to connect marketing investments to booked appointments and patient outcomes. Healthcare marketers can now see which calls result in appointments and move beyond measuring campaign success by call volume alone.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1785962/CallRail-Logo.jpg?id=OA2925036\" title=\"CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing.\" alt=\"CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing.\"></img>\n                </p>\n    </div>\n<p>At the center of the update is CallRail's expanded healthcare integration library, which now connects with 15 leading electronic health record and patient management systems through its NexHealth partnership, including athenahealth, Dentrix, Eaglesoft, eClinicalWorks, ModMed and Open Dental, among others. By connecting marketing data with the tools practices already use to manage patient relationships and scheduling, healthcare organizations can identify where leads originate and which campaigns ultimately drive appointments.</p><p>To make those insights easier to use, CallRail is also introducing suggested healthcare outcome tags based on the results healthcare businesses actually track. The tags help teams understand the outcome of each conversation automatically without building a tagging system from scratch or requiring front-desk staff to manually label every interaction.</p><p>By connecting lead and appointment outcomes to marketing activity, healthcare organizations and their agencies gain a more complete view of performance. That visibility provides marketers with better information to evaluate their investments and optimize campaigns around the outcomes that matter most to the practice.  These include campaigns executed through Google Ads, Performance Max and other advertising channels.</p><p>\"Healthcare practices are investing more in marketing, but that investment can drive growth only when teams understand what happens after a lead reaches out,\" said Kara Kelly, VP of Platform Strategy at CallRail. \"These capabilities connect marketing activity to the outcomes practices actually care about, while taking work off of the intake and front-desk teams.\"</p><p>The capabilities are available to eligible CallRail healthcare customers, with no rebuilding or data migration required. CallRail's healthcare solutions are designed to support HIPAA compliance, and the company is certified to ISO 42001, the international standard for responsible AI management systems. Learn more about CallRail's approach to security and privacy at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765642-1&amp;h=798907270&amp;u=https%3A%2F%2Fwww.callrail.com%2Fsecurity&amp;a=callrail.com%2Fsecurity\" target=\"_blank\" rel=\"nofollow\">callrail.com/security</a>.</p><p>To learn more about how CallRail helps healthcare providers attract, engage, and convert more patients, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765642-1&amp;h=2689705534&amp;u=https%3A%2F%2Fwww.callrail.com%2Fhealthcare&amp;a=https%3A%2F%2Fwww.callrail.com%2Fhealthcare\" target=\"_blank\" rel=\"nofollow\">https://www.callrail.com/healthcare</a>.</p><p class=\"prntac\"><b>###</b></p><p><b>About</b> <b>CallRail</b>  <br></br>CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing. Serving more than 225,000 businesses worldwide, CallRail's AI-powered solutions help businesses attribute each call, text, chat, and form to their marketing journey, use insights from their conversations to better understand their buyers, and eliminate missed opportunities with AI that can handle lead interactions 24/7.  </p><p>CallRail has grown from the G2 top-rated inbound call tracking solution to include Form Tracking, Premium Conversation Intelligence™ and Voice Assist. CallRail's award-winning platform integrates with dozens of leading marketing and sales software, and offers affiliate, agency, and technology partnership opportunities, helping businesses earn, grow, and build with CallRail. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765642-1&amp;h=1802114501&amp;u=https%3A%2F%2Fcts.businesswire.com%2Fct%2FCT%3Fid%3Dsmartlink%26url%3Dhttp%253A%252F%252Fwww.callrail.com%26esheet%3D54180049%26newsitemid%3D20250114793850%26lan%3Den-US%26anchor%3Dhttp%253A%252F%252Fwww.callrail.com%26index%3D6%26md5%3D34a60d2f0f3a3e470bdd0513b16b6c42&amp;a=http%3A%2F%2Fwww.callrail.com\" target=\"_blank\" rel=\"nofollow\">http://www.callrail.com</a>.  </p><p><b>Media Contact</b>   </p><p>Madelyn Santaloci  </p><p>Trevelino/Keller  </p><p><u><a href=\"mailto:msantaloci@trevelinokeller.com\" rel=\"nofollow\">msantaloci@trevelinokeller.com</a></u>   </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL38964&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/callrail-connects-healthcare-marketing-to-patient-outcomes-through-15-new-integrations-302867078.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/callrail-connects-healthcare-marketing-to-patient-outcomes-through-15-new-integrations-302867078.html</a></p><p>SOURCE CallRail</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL38964&amp;Transmission_Id=202609020805PR_NEWS_USPR_____CL38964&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "CallRail",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:07.511Z"
+    },
+    {
+      "company": [
+        "Demand the Limits"
+      ],
+      "date": "20260901T185300+0000",
+      "dateline": "BOCA RATON, Fla., Sept. 1, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "LGL",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "\"DTL is DTF\" - Demand The Limits Injury Attorneys' newest bus wrap",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979704/Image-10.jpg?id=OA2923815&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1979704/Image-10.jpg?id=OA2923815&p=publish"
+        },
+        {
+          "caption": "DEMAND THE LIMITS LOGO",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1613473/DTL-new-green-Logo.jpg?id=OA2923804&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1613473/DTL-new-green-Logo.jpg?id=OA2923804&p=publish"
+        }
+      ],
+      "release_id": "20260901FL38423",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">BOCA RATON, Fla.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Personal injury law firm, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=470866198&amp;u=https%3A%2F%2Fdemandthelimits.com%2F%3Futm_source%3DDTF_brand%26utm_medium%3Dreferral%26utm_campaign%3Dpress_release%26utm_content%3Dhome&amp;a=Demand+The+Limits\" target=\"_blank\" rel=\"nofollow\">Demand The Limits</a>, (DTL) is taking an unconventional approach to legal marketing by launching a new campaign that trades stereotypical legal commercials for humor, personality, and to some – a bit of controversy.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979704/Image-10.jpg?id=OA2923815\" title=\"&quot;DTL is DTF&quot; - Demand The Limits Injury Attorneys' newest bus wrap\" alt=\"&quot;DTL is DTF&quot; - Demand The Limits Injury Attorneys' newest bus wrap\"></img>\n                </p>\n    </div>\n<p>For decades, legal advertising has followed a familiar formula: dramatic courtroom slow-motion videos, stereotypical headshots on highway billboards, bus stop benches, TV commercials, and the same <i>\"we will fight for you!\"</i> promise, delivered in nearly identical ways. Demand The Limits believes today's audiences need something fresh and different.</p>",
+      "ticker": [],
+      "title": "Demand The Limits Challenges Traditional Legal Advertising with Bold New Campaign in South Florida",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901FL38423",
+      "body": "\n<p><span class=\"legendSpanClass\">BOCA RATON, Fla.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Personal injury law firm, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=470866198&amp;u=https%3A%2F%2Fdemandthelimits.com%2F%3Futm_source%3DDTF_brand%26utm_medium%3Dreferral%26utm_campaign%3Dpress_release%26utm_content%3Dhome&amp;a=Demand+The+Limits\" target=\"_blank\" rel=\"nofollow\">Demand The Limits</a>, (DTL) is taking an unconventional approach to legal marketing by launching a new campaign that trades stereotypical legal commercials for humor, personality, and to some – a bit of controversy.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979704/Image-10.jpg?id=OA2923815\" title=\"&quot;DTL is DTF&quot; - Demand The Limits Injury Attorneys' newest bus wrap\" alt=\"&quot;DTL is DTF&quot; - Demand The Limits Injury Attorneys' newest bus wrap\"></img>\n                </p>\n    </div>\n<p>For decades, legal advertising has followed a familiar formula: dramatic courtroom slow-motion videos, stereotypical headshots on highway billboards, bus stop benches, TV commercials, and the same <i>\"we will fight for you!\"</i> promise, delivered in nearly identical ways. Demand The Limits believes today's audiences need something fresh and different.</p><p>At the center of the campaign is a fleet of newly-wrapped inter-city buses operated by PalmTran throughout Palm Beach County with a message that is intentionally difficult to ignore.</p><p><i>\"<b>DTL is DTF\"</b></i></p><p>The acronym, short for<i> \"Demand The Limits is Down To Fight\",</i> shares the firm's commitment to client service in a bold, unexpected way.</p><p>This new campaign embraces self-aware humor in a more modern fashion while remaining grounded in the firm's mission of advocating for injured clients across Florida. Instead of asking viewers to sit through yet another commercial, the goal is to create an advertisement people talk about, share, and remember.</p><p class=\"prnml40\"><i>\"We know this approach isn't what people expect from us, or a law firm at all for that matter,\" said Andrew Odza, Co-Founder of Demand The Limits. \"That's intentional. Legal advertising has spent decades sounding and doing the same expected advertising.</i></p><p class=\"prnml40\"><i>We believe you can maintain a balance of both professionalism and credibility while doing something different and entertaining.\"</i></p><p>To further push the concept, DTL is building a broader digital campaign surrounding the wrapped buses. Supporting social content across <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=4198369818&amp;u=https%3A%2F%2Fwww.instagram.com%2Fp%2FDcbkc3hT7lD%2F&amp;a=Meta+platforms\" target=\"_blank\" rel=\"nofollow\">Meta platforms</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=3559931857&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40demandthelimits%2Fvideo%2F7677655351994502413&amp;a=TikTok\" target=\"_blank\" rel=\"nofollow\">TikTok</a> and YouTube strategically welcomes the conversation and provides the Demand The Limits team the ability to see how the public receives and reacts to the campaign in real time.</p><p>The firm understands the campaign may generate discussion and welcomes it. According to Alan Siegel, Co-Founder of <i>Demand The Limits,</i> discourse has already begun:</p><p class=\"prnml40\"><i>\"Several people (including industry colleagues and potential clients) have already reached out after seeing the buses, and luckily</i> —<i> it's been a hit! Some people will laugh, some won't like it at all, but that's okay. </i></p><p class=\"prnml40\"><i>While we never want to offend anyone, we'd rather put something out there that people notice and remember than create another ad that blends into everything else. At the end of the day, DTF means 'Down To Fight', and we are!\"</i></p><p>The campaign reflects a broader shift in how brands are connecting with consumers. As audiences resonate more and more with unconventional advertising, DTL believes the legal industry has the opportunity to join the trend.</p><p>Demand The Limits has grown into one of Florida's fastest-growing personal injury law firms by choosing to be bold from the beginning. When Co-Founders Alan Siegel and Andrew Odza launched the firm in 2018, they set out to do things differently, starting with the firm's name. Rather than following the traditional \"Siegel &amp; Odza\" structure, they chose Demand The Limits Injury Attorneys, building the brand around a message bigger than their own identities, focusing on the firm's clients, not the founders.</p><p>And it worked. The firm was recently named to prestigious lists like the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=3573660192&amp;u=https%3A%2F%2Fwww.inc.com%2Fprofile%2Fdemand-the-limits&amp;a=Inc.+5000+Fastest+Growing+Companies+in+the+US\" target=\"_blank\" rel=\"nofollow\">Inc. 5000 Fastest Growing Companies in the US</a>. With offices across Florida and continued expansion on the horizon, the firm remains committed to delivering exceptional legal service while challenging the conventions of an industry often known for stereotypical, repetitive advertising.</p><p><b>About Demand The Limits</b></p><p>Demand The Limits Injury Attorneys is a Florida personal injury law firm representing people injured in motor vehicle accidents, medical malpractice, slip and falls, and other cases involving <span>negligence</span>.</p><p>DTL believes injured people deserve support, consistent communication, and a legal team willing to push for maximum compensation on their behalf.</p><p>If you or a loved one has been injured in Florida, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=821208707&amp;u=https%3A%2F%2Fdemandthelimits.com%2Fcontact-us%2F%3Futm_source%3DDTF_brand%26utm_medium%3Dreferral%26utm_campaign%3Dpress_release%26utm_content%3Dcontact&amp;a=contact+Demand+The+Limits+Injury+Attorneys\" target=\"_blank\" rel=\"nofollow\">contact Demand The Limits Injury Attorneys</a> for a free consultation at 561-600-3555.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=1745265497&amp;u=https%3A%2F%2Fdemandthelimits.com%2F%3Futm_source%3DDTF_brand%26utm_medium%3Dreferral%26utm_campaign%3Dpress_release%26utm_content%3Dhome&amp;a=Website\" target=\"_blank\" rel=\"nofollow\">Website</a> | <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=985287631&amp;u=https%3A%2F%2Fwww.instagram.com%2Fdemandthelimitslaw%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a> | <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765137-1&amp;h=1759034026&amp;u=https%3A%2F%2Fwww.facebook.com%2Fdemandthelimitsinjuryattorneys%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1613473/DTL-new-green-Logo.jpg?id=OA2923804\" title=\"DEMAND THE LIMITS LOGO\" alt=\"DEMAND THE LIMITS LOGO\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL38423&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/demand-the-limits-challenges-traditional-legal-advertising-with-bold-new-campaign-in-south-florida-302866718.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/demand-the-limits-challenges-traditional-legal-advertising-with-bold-new-campaign-in-south-florida-302866718.html</a></p><p>SOURCE Demand the Limits</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL38423&amp;Transmission_Id=202609011452PR_NEWS_USPR_____FL38423&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Demand the Limits",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 1
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "summary:marketing",
+            "industry:ADV"
+          ],
+          "tradeshow": [
+            "summary:convention"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:09.075Z"
+    },
+    {
+      "company": [
+        "SmarterX"
+      ],
+      "date": "20260901T182100+0000",
+      "dateline": "CLEVELAND, Sept. 1, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "OHO",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "AFI",
+        "EDU",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "September is Marketing AI Month, featuring free access to the AI for Marketing Course Series in SmarterX’s AI Academy.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979720/Marketing-AI-Month.jpg?id=OA2923866&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1979720/Marketing-AI-Month.jpg?id=OA2923866&p=publish"
+        }
+      ],
+      "release_id": "20260901NY38456",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "PDT",
+        "TDS"
+      ],
+      "summary": "<p>Marketers can access the complete AI for Marketing Course Series free throughout September and participate in a live AMA on October 1</p><p><span class=\"legendSpanClass\">CLEVELAND</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- SmarterX today announced the launch of <b>Marketing AI Month</b>, a month-long initiative designed to help marketers build the practical AI knowledge and capabilities increasingly required in their roles and organizations.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979720/Marketing-AI-Month.jpg?id=OA2923866\" title=\"September is Marketing AI Month, featuring free access to the AI for Marketing Course Series in SmarterX’s AI Academy.\" alt=\"September is Marketing AI Month, featuring free access to the AI for Marketing Course Series in SmarterX’s AI Academy.\"></img>\n                </p>\n    </div>\n<p>Throughout September, marketers can access the complete <b>AI for Marketing Course Series in AI Academy for free</b>. The five-course, self-paced series delivers 3.5 hours of focused learning designed to move participants from AI understanding to practical application.</p>",
+      "ticker": [],
+      "title": "SmarterX Launches Marketing AI Month to Expand Access to Practical AI Education",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901NY38456",
+      "body": "\n<p>Marketers can access the complete AI for Marketing Course Series free throughout September and participate in a live AMA on October 1</p><p><span class=\"legendSpanClass\">CLEVELAND</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- SmarterX today announced the launch of <b>Marketing AI Month</b>, a month-long initiative designed to help marketers build the practical AI knowledge and capabilities increasingly required in their roles and organizations.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979720/Marketing-AI-Month.jpg?id=OA2923866\" title=\"September is Marketing AI Month, featuring free access to the AI for Marketing Course Series in SmarterX’s AI Academy.\" alt=\"September is Marketing AI Month, featuring free access to the AI for Marketing Course Series in SmarterX’s AI Academy.\"></img>\n                </p>\n    </div>\n<p>Throughout September, marketers can access the complete <b>AI for Marketing Course Series in AI Academy for free</b>. The five-course, self-paced series delivers 3.5 hours of focused learning designed to move participants from AI understanding to practical application.</p><p>\"AI is moving too quickly for AI literacy to be optional,\" said Paul Roetzer, founder and CEO of SmarterX. \"Every marketer needs a foundational understanding of what these technologies can do, where they can create value, and how they will affect careers and organizations. Marketing AI Month is about giving more people a practical path forward.\"</p><p>The series explores AI's impact on the marketing profession, helps learners identify and prioritize use cases, provides frameworks for evaluating AI tools, and builds practical skills in generative AI, prompting, custom AI assistants, multimodal tools, and deep research.</p><p>Participants will create a prioritized inventory of AI use cases and a practical 30-day action plan. Those who complete the full series can earn an AI for Marketing Professional Certificate.</p><p>Marketing AI Month will conclude with a live AMA on <b>October 1 at 12:00 p.m. ET</b>. This exclusive Ask-Me-Anything live class is for registered course learners to bring questions from the series, hear additional insights from SmarterX team members, Paul Roetzer, Mike Kaput, and Cathy McPhillips, and connect what they have learned to their own work.</p><p>Marketing AI Month is part of <b>The AI Literacy Project</b>, a SmarterX initiative working to make high-quality, practical AI education more accessible. The program is free and meant to be shared with colleagues, teams, clients, and professional communities.</p><p>Marketers can enroll in the AI for Marketing Course Series for free through September 30 at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765169-1&amp;h=3158145010&amp;u=https%3A%2F%2Fsmarterx.ai%2Fmarketing-ai-month-september-2026&amp;a=%C2%A0smarterx.ai%2Fmarketing-ai-month-september-2026\" target=\"_blank\" rel=\"nofollow\"> smarterx.ai/marketing-ai-month-september-2026</a>.</p><p>About SmarterX<br></br>SmarterX is an AI research and education firm dedicated to AI Literacy for All™. Through its portfolio of brands, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765169-1&amp;h=4153826308&amp;u=https%3A%2F%2Facademy.smarterx.ai%2F&amp;a=AI+Academy\" target=\"_blank\" rel=\"nofollow\">AI Academy</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765169-1&amp;h=2185258046&amp;u=https%3A%2F%2Fpodcast.smarterx.ai%2F&amp;a=The+Artificial+Intelligence+Show\" target=\"_blank\" rel=\"nofollow\">The Artificial Intelligence Show</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765169-1&amp;h=2416948184&amp;u=http%3A%2F%2Fwww.marketingaiinstitute.com%2F&amp;a=Marketing+AI+Institute\" target=\"_blank\" rel=\"nofollow\">Marketing AI Institute</a>, SmarterX delivers practical education, original research, and strategic frameworks that help leaders and teams build AI literacy, advance the responsible adoption of AI in business, accelerate transformation, and achieve measurable results. <br></br><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765169-1&amp;h=2623612236&amp;u=https%3A%2F%2Fsmarterx.ai%2F&amp;a=SmarterX\" target=\"_blank\" rel=\"nofollow\">SmarterX</a> equips organizations with the knowledge, tools, and guidance needed to navigate rapid technological change and turn artificial intelligence into a sustainable competitive advantage. From foundational understanding to enterprise-scale implementation, SmarterX empowers professionals at every stage of their AI journey.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY38456&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/smarterx-launches-marketing-ai-month-to-expand-access-to-practical-ai-education-302866683.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/smarterx-launches-marketing-ai-month-to-expand-access-to-practical-ai-education-302866683.html</a></p><p>SOURCE SmarterX</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY38456&amp;Transmission_Id=202609011421PR_NEWS_USPR_____NY38456&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "SmarterX",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:09.234Z"
+    },
+    {
+      "company": [
+        "Monks"
+      ],
+      "date": "20260901T163900+0000",
+      "dateline": "NEW YORK, Sept. 1, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "OUT",
+        "DTA",
+        "ITE",
+        "SMD",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "The new Monks brand emphasises the cross-vertical and end-to-end capabilities offered by an integrated portfolio of services designed to maximise client revenue growth, innovation and reach.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1580689/Monks-Logo-Large-Black-Logo.jpg?id=OA2923721&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1580689/Monks-Logo-Large-Black-Logo.jpg?id=OA2923721&p=publish"
+        }
+      ],
+      "release_id": "20260901LA38385",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "SVY"
+      ],
+      "summary": "<p>Global, digital-first marketing brand leverages data-driven infrastructure and proprietary AI orchestration platform, Monks.Flow, to drive measurable market impact</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Monks, the global, digital-first, data-driven, unitary operating brand of S4 Capital plc, today announced Gartner® has officially named the company a Leader in its August 2026 report, titled Magic Quadrant™ for Global Digital Marketing Agencies. Gartner also named the company in the August 2026 report, Critical Capabilities for Global Digital Marketing Agencies.</p>\n    ",
+      "ticker": [],
+      "title": "S4 Capital's Monks Named a Leader in 2026 Gartner® Magic Quadrant™ for Global Digital Marketing Agencies",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901LA38385",
+      "body": "\n<p>Global, digital-first marketing brand leverages data-driven infrastructure and proprietary AI orchestration platform, Monks.Flow, to drive measurable market impact</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Monks, the global, digital-first, data-driven, unitary operating brand of S4 Capital plc, today announced Gartner® has officially named the company a Leader in its August 2026 report, titled Magic Quadrant™ for Global Digital Marketing Agencies. Gartner also named the company in the August 2026 report, Critical Capabilities for Global Digital Marketing Agencies.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1580689/Monks-Logo-Large-Black-Logo.jpg?id=OA2923721\" title=\"The new Monks brand emphasises the cross-vertical and end-to-end capabilities offered by an integrated portfolio of services designed to maximise client revenue growth, innovation and reach.\" alt=\"The new Monks brand emphasises the cross-vertical and end-to-end capabilities offered by an integrated portfolio of services designed to maximise client revenue growth, innovation and reach.\"></img>\n                </p>\n    </div>\n<p>According to the report, \"CMOs face pressure to prove agency ROI amid AI disruption and flat budgets. As a result, CMOs are scrutinizing agency spending and reducing the number of agencies on their rosters.\"</p><p>Modern marketing executives carry a brutal mandate: conceptualize Cannes-caliber brand platforms and deploy those core assets across thousands of personalized programmatic variants in real time. Monks addresses this challenge by operationalizing AI into content creation and marketing workflows to drive modern scale. This approach balances technological scale with human oversight and governance, allowing brands to radically increase content velocity and marketing efficiency without diluting creative quality.</p><p>\"Legacy holding companies are structurally incapable of moving at the speed modern brands need, bogged down by fragmented, analog processes,\" says Sir Martin Sorrell, Executive Chairman of S4 Capital. \"We stripped away that bloat to offer a purely digital, AI-first model that scales autonomous marketing.\"</p><p><b>Connecting Creative Output to Business Impact</b></p><p>We believe that Gartner's analysis reflects a broader industry shift toward rigorous analytics and closed-loop measurement. Connecting platform performance straight to creative results allows Monks to show clients precisely what drives outcomes. This data guides media, content, and campaign decisions, strengthening accountability for business results. Strategists apply immediate human governance to the automated workflow to capture attention and deploy always-on, omnichannel campaigns in days.</p><p>According to the report, \"CMOs face pressure to prove agency ROI amid AI disruption and flat budgets. As a result, CMOs are scrutinizing agency spending and reducing the number of agencies on their rosters.\" By locking our agentic, data-driven infrastructure right into the daily operations of our clients, we ensure every decision instantly drives measurable market impact.</p><p><b>Unifying Infrastructure with Monks.Flow</b></p><p>Executing a culturally resonant strategy across a global enterprise requires unified digital infrastructure. Disjointed teams passing files back and forth create delays and dilute the original idea. Monks.Flow, the company's AI ecosystem for marketing orchestration, eliminates manual handoffs and links core brand strategy directly to the final deliverables. The technology absorbs repetitive execution tasks to ensure a centralized creative vision survives entirely intact across all touchpoints.</p><p>This autonomous orchestration embeds directly into the creative lifecycle. It scales the craft and converts complex marketing visions into immediate business growth.</p><p><b>About Gartner</b></p><p>Gartner, Critical Capabilities for Global Digital Marketing Agencies, 26 August 2026, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765099-1&amp;h=1300130922&amp;u=https%3A%2F%2Fwww.gartner.com%2Fanalyst%2Fb9cb00bb72a5&amp;a=Philip+Black\" target=\"_blank\" rel=\"nofollow\">Philip Black</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765099-1&amp;h=3508974213&amp;u=https%3A%2F%2Fwww.gartner.com%2Fanalyst%2Fbdcd07bb7d&amp;a=Jay+Wilson\" target=\"_blank\" rel=\"nofollow\">Jay Wilson</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765099-1&amp;h=1041351994&amp;u=https%3A%2F%2Fwww.gartner.com%2Fanalyst%2Fb0c002bf7c&amp;a=Jen+Kady\" target=\"_blank\" rel=\"nofollow\">Jen Kady</a><br></br>Gartner, Magic Quadrant for Global Digital Marketing Agencies, 25 August 2026, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765099-1&amp;h=3508974213&amp;u=https%3A%2F%2Fwww.gartner.com%2Fanalyst%2Fbdcd07bb7d&amp;a=Jay+Wilson\" target=\"_blank\" rel=\"nofollow\">Jay Wilson</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765099-1&amp;h=1300130922&amp;u=https%3A%2F%2Fwww.gartner.com%2Fanalyst%2Fb9cb00bb72a5&amp;a=Philip+Black\" target=\"_blank\" rel=\"nofollow\">Philip Black</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765099-1&amp;h=1041351994&amp;u=https%3A%2F%2Fwww.gartner.com%2Fanalyst%2Fb0c002bf7c&amp;a=Jen+Kady\" target=\"_blank\" rel=\"nofollow\">Jen Kady</a></p><p>GARTNER and MAGIC QUADRANT is a trademark of Gartner, Inc. and/or its affiliates.<br></br>Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.</p><p><b>About Monks</b></p><p>Monks is the global, digital-first, data-driven, unitary operating brand of S4 Capital plc. Monks combines a global range of marketing and technology services to redefine how brands interact with the world. Through Monks.Flow, its AI platform for marketing orchestration, Monks transforms marketing into a growth engine, collapsing timelines and connecting brands to culture in real time. Monks was named a Contender in The Forrester Wave™: Global Marketing Services, ranks among Cannes Lions' Top 10 Creative Companies (2022-24), and is the only partner featured in AdExchanger's Programmatic Power Players list every year (2020-24). Named Adweek's first AI Agency of the Year (2023) and The One Show's inaugural AI Pioneer Organization, Monks was also awarded Business Intelligence Group's 2025 Excellence in Artificial Intelligence Award in both the Organizational and AI Product categories.</p><p><b>About S4 Capital</b></p><p>S4 Capital is a purely digital advertising and marketing services business built for global, multinational, regional, and local clients and millennial-driven influencer brands. The business operates through two data and digital media driven Practices: Marketing Services and Technology Services, emphasising 'faster, better and more efficient' execution in an always-on consumer-led environment. Its unitary structure positions the Company as a systems integration partner delivering real-time relevance in the post-agency era. The Company now has approximately 6,200 people in 34 countries with approximately 82% of net revenue across the Americas, 12% across Europe, the Middle East and Africa and 6% across Asia-Pacific. The longer-term objective is a geographic split of 60%:20%:20%. Marketing Services accounted for approximately 91% of net revenue and Technology Services 9%. The target allocation is a practice split of 75%:25%.</p><p>Sir Martin Sorrell was CEO of WPP for 33 years, building it from a £1 million 'shell' company in 1985 into the world's largest advertising and marketing services company, with a market capitalisation of over £16 billion on the day he left. Prior to that, Sir Martin was Group Financial Director of Saatchi &amp; Saatchi Company Plc for nine years.</p><p><b>Media Contact:<br></br></b><b>Sarah Murray<br></br></b><b><a href=\"mailto:sarah.murray@monks.com\" rel=\"nofollow\">sarah.murray@monks.com</a></b></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA38385&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/s4-capitals-monks-named-a-leader-in-2026-gartner-magic-quadrant-for-global-digital-marketing-agencies-302866583.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/s4-capitals-monks-named-a-leader-in-2026-gartner-magic-quadrant-for-global-digital-marketing-agencies-302866583.html</a></p><p>SOURCE Monks</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA38385&amp;Transmission_Id=202609011239PR_NEWS_USPR_____LA38385&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Monks",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:SMD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:09.556Z"
+    },
+    {
+      "company": [
+        "BetterBusinessAdvice.com"
+      ],
+      "date": "20260901T144900+0000",
+      "dateline": "NEW YORK, Sept. 1, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "SMD",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260901PH38265",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY",
+        "AWD"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Better Business Advice has named <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=2447364131&amp;u=https%3A%2F%2Fnicelynetwork.com%2F&amp;a=Nicely+Network\" target=\"_blank\" rel=\"nofollow\"><b>Nicely Network</b></a> the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=361668678&amp;u=https%3A%2F%2Fnicelynetwork.com%2Freddit-marketing&amp;a=Best+Reddit+Marketing+Agency\" target=\"_blank\" rel=\"nofollow\"><b>Best Reddit Marketing Agency</b></a> for September 2026, recognising the agency's leadership in organic Reddit marketing, AI-SEO, and large-scale AI visibility campaigns for global brands.</p>\n<p>The award highlights the agencies shaping how brands are discovered, recommended, and trusted across AI engines and modern search platforms. Nicely Network was selected for its proven ability to influence AI-generated recommendations across ChatGPT, Google AI Overview, Gemini, and Perplexity, while simultaneously driving first-page Google rankings and measurable revenue growth for its clients.</p>",
+      "ticker": [],
+      "title": "Best Reddit Marketing Agency (Sep 2026): Nicely Network Named Top AI-SEO &amp; Reddit Agency by Better Business Advice",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901PH38265",
+      "body": "\n<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Better Business Advice has named <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=2447364131&amp;u=https%3A%2F%2Fnicelynetwork.com%2F&amp;a=Nicely+Network\" target=\"_blank\" rel=\"nofollow\"><b>Nicely Network</b></a> the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=361668678&amp;u=https%3A%2F%2Fnicelynetwork.com%2Freddit-marketing&amp;a=Best+Reddit+Marketing+Agency\" target=\"_blank\" rel=\"nofollow\"><b>Best Reddit Marketing Agency</b></a> for September 2026, recognising the agency's leadership in organic Reddit marketing, AI-SEO, and large-scale AI visibility campaigns for global brands.</p>\n<p>The award highlights the agencies shaping how brands are discovered, recommended, and trusted across AI engines and modern search platforms. Nicely Network was selected for its proven ability to influence AI-generated recommendations across ChatGPT, Google AI Overview, Gemini, and Perplexity, while simultaneously driving first-page Google rankings and measurable revenue growth for its clients.</p><p>The recognition arrives as Nicely Network gears up for <b>Q4 2026 campaigns</b>, the highest-stakes quarter of the year for consumer brands. With holiday research already shifting from search results to AI answers, the agency is onboarding brands now for campaigns designed to land before peak buying season.</p><p><b>Why Nicely Network Is the Best Reddit Marketing Agency in 2026</b></p><p>Reddit is the #1 consumer research website in the United States and one of the most heavily cited sources across modern AI systems. Large language models consistently overweight Reddit content because it reflects consensus-driven human opinion, precisely the signal AI models are trained to trust.</p><p>Nicely Network's approach goes far beyond traditional social media marketing. The agency creates authentic, highly targeted Reddit discussions inside the communities where a brand's customers are already seeking recommendations. Every campaign is engineered to rank naturally at the top of Google search, attract genuine engagement, and weave brand mentions into conversations in a way that fits Reddit's culture and moderation standards.</p><p>Better Business Advice cited Nicely Network's \"deep understanding of how AI models source consensus, credibility, and authority\" as a key differentiator. Unlike agencies that treat AI visibility as an add-on, Nicely Network builds campaigns specifically engineered for how AI systems evaluate trust, relevance, and popularity.</p><p><b>Award Criteria: How Better Business Advice Selected Nicely Network</b></p><p>Better Business Advice evaluated the leading Reddit marketing, AI-SEO, and GEO (Generative Engine Optimisation) agencies against six criteria:</p><ul type=\"disc\"><li><b>AI citation generation</b>: can the agency reliably earn client citations across ChatGPT, Gemini, Perplexity, and Google AI Overview?</li><li><b>Google search ranking performance</b>: do campaigns rank on page one for high-intent commercial keywords?</li><li><b>Campaign authenticity</b>: does the work fit Reddit's culture, or does it read as marketing?</li><li><b>Client portfolio breadth</b>:does the agency deliver across industries and at enterprise scale?</li><li><b>Methodology transparency</b>: is the process repeatable, instrumented, and reportable?</li><li><b>Sustainability of results</b>: do outcomes compound, or decay when a campaign ends?</li></ul><p>Nicely Network led the field in every dimension.</p><p><b>Measurable Impact at Enterprise Scale</b></p><p>Since founding, Nicely Network has partnered with <b>300+ brands across 30+ industries</b>, including multiple Fortune 500 companies, generating:</p><ul type=\"disc\"><li><b>15,000+ AI citations</b> across leading AI engines</li><li><b>$100M+ in tracked sales revenue</b> attributable to Reddit and AI-SEO campaigns</li><li><b>2,000+ discussions ranked at the top of Google</b> for high-intent keywords</li><li><b>200M+ views</b> on ranked discussions</li></ul><p>Recent campaign outcomes span industries. A global antivirus brand became the #1 cited name in ChatGPT off the back of ten discussions, tripling AI Overview mentions and lifting share of voice from 6% to 17%. The largest global online supplements retailer achieved category-leading AI visibility in four months, with a +200% increase in AI mentions. A global B2B software brand drew 60K+ article views, 12,500+ clickthroughs, and citations across four AI engines from 24 buying guides published on Yahoo and Business Insider.</p><p><b>A Dual-Channel Strategy Built for AI Discovery</b></p><p>Nicely Network's award-winning methodology combines two core services.</p><p><b>Reddit Marketing.</b> The agency creates and manages organic Reddit discussions around high-intent keywords, targeting the subreddits where real consumers are actively seeking recommendations. Threads are optimised to rank on Google and be cited by AI engines, while ongoing monitoring keeps conversations authentic, adds supportive comments, and re-engages older posts to protect rankings over time.</p><p><b>AI-SEO Article Placements.</b> Nicely Network publishes expert-authored articles on household-name platforms including Yahoo and Business Insider. These placements carry the domain authority AI engines look for when choosing sources, rank in Google and Google News, drive tracked clickthroughs, and feed directly into AI-generated answers.</p><p>Reddit supplies the community consensus signal; editorial placements supply the authority signal. Together they are the most effective combination available for engineering consistent AI recommendation.</p><p><b>Gearing Up for Q4: Significant AI Visibility Before Peak Season</b></p><p>Nicely Network is currently scaling delivery capacity ahead of <b>Q4 2026</b>, when holiday and end-of-year purchase research concentrates into a short, high-value window.</p><p>\"Q4 is decided long before the discounts go live,\" said a spokesperson for Nicely Network. \"Buyers are asking ChatGPT and Google AI Overview what to buy, and the answers they get are built from Reddit threads and editorial articles that were published weeks or months earlier. Brands that start in September are the ones AI recommends in November.\"</p><p>Because Nicely Network's campaigns compound, discussions and placements deployed in Q4 continue generating AI citations, organic traffic, and tracked sales well into 2027, making the quarter both a peak-season play and a durable AI search asset.</p><p>For brands serious about AI-SEO dominance, the agency recommends a 3–6 month engagement to allow for strategic content deployment, algorithm response, and compounding visibility. Starter, Growth, and Leadership plans are available, alongside enterprise engagements for multi-brand portfolios and global rollouts.</p><p><b>Media Kit</b></p><p>Nicely Network's <b>Q4 2026 media kit</b> is now available for brands, covering the agency's Reddit marketing and article placement services, campaign examples, results by industry, client roster, and engagement plans. Request a copy at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=1467617224&amp;u=https%3A%2F%2Fnicelynetwork.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=1286652485&amp;u=https%3A%2F%2Fnicelynetwork.com%2Frequest-a-proposal&amp;a=https%3A%2F%2Fnicelynetwork.com%2Frequest-a-proposal\" target=\"_blank\" rel=\"nofollow\"><b>https://nicelynetwork.com/request-a-proposal</b></a>.</p><p><b>About Nicely Network</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=2447364131&amp;u=https%3A%2F%2Fnicelynetwork.com%2F&amp;a=Nicely+Network\" target=\"_blank\" rel=\"nofollow\"><b>Nicely Network</b></a> is a premium AI visibility and Reddit marketing agency trusted by 300+ brands across 30+ industries, including Fortune 500 companies. The agency specialises in authentic, organic Reddit campaigns and AI-SEO article placements that help brands rank at the top of Google search, earn recommendations from leading AI tools, and build lasting brand equity in the communities where consumers make purchase decisions. Nicely Network works with brands across software and B2B, technology, retail, fashion and beauty, nutrition and wellness, finance, and travel.</p><p>Learn more at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=1467617224&amp;u=https%3A%2F%2Fnicelynetwork.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=4195635334&amp;u=https%3A%2F%2Fnicelynetwork.com%2F&amp;a=nicelynetwork.com\" target=\"_blank\" rel=\"nofollow\">nicelynetwork.com</a> or contact Partnerships Director Mary Cooper at <a href=\"mailto:mary@nicelypromoted.com\" rel=\"nofollow\">mary@nicelypromoted.com</a>.</p><p>To read the full award report on Better Business Advice, click here:<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=2356115778&amp;u=https%3A%2F%2Fbetterbusinessadvice.com%2Fbest-reddit-marketing-agency-2026%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764981-1&amp;h=1548019395&amp;u=https%3A%2F%2Fbetterbusinessadvice.com%2Fbest-reddit-marketing-agency-2026%2F&amp;a=https%3A%2F%2Fbetterbusinessadvice.com%2Fbest-reddit-marketing-agency-2026%2F\" target=\"_blank\" rel=\"nofollow\">https://betterbusinessadvice.com/best-reddit-marketing-agency-2026/</a></p><p><b>About Better Business Advice</b></p><p>Better Business Advice is an independent business review and research platform that evaluates companies, agencies, and service providers across multiple industries. Its awards recognize organizations that demonstrate consistent performance, ethical practices, and measurable client outcomes.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH38265&amp;sd=2026-09-01\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/best-reddit-marketing-agency-sep-2026-nicely-network-named-top-ai-seo--reddit-agency-by-better-business-advice-302866430.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/best-reddit-marketing-agency-sep-2026-nicely-network-named-top-ai-seo--reddit-agency-by-better-business-advice-302866430.html</a></p><p>SOURCE BetterBusinessAdvice.com</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH38265&amp;Transmission_Id=202609011049PR_NEWS_USPR_____PH38265&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "BetterBusinessAdvice.com",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 9,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing agency",
+            "marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:10.202Z"
+    },
+    {
+      "company": [
+        "Thunderly Marketing"
+      ],
+      "date": "20260901T140000+0000",
+      "dateline": "DALLAS, Sept. 1, 2026",
+      "feed": [
+        "PRNUS_WEBMAX",
+        "PRNUS"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "MLM",
+        "RST",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Thunderly American Dreamers",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1875866/Thunderly_AD_MainLogo.jpg?id=OA2920825&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1875866/Thunderly_AD_MainLogo.jpg?id=OA2920825&p=publish"
+        }
+      ],
+      "release_id": "20260901DA37169",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "CXP"
+      ],
+      "summary": "<p class=\"prntac\">Franchise owners from Eggs Up Grill and Kitchen Tune-Up show how decades of corporate experience can become the foundation for a new chapter</p><p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- After nearly three decades in information technology, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=2056000500&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNPsJEBfBlLw&amp;a=Noel+Arriola\" target=\"_blank\" rel=\"nofollow\">Noel Arriola</a> made an unlikely career move: he went into the restaurant business. Jeff Toren spent approximately two decades climbing the ranks in high-tech and software sales before making his own pivot into home remodeling.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1875866/Thunderly_AD_MainLogo.jpg?id=OA2920825\" title=\"Thunderly American Dreamers\" alt=\"Thunderly American Dreamers\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "From Corporate Careers to Business Ownership: Thunderly's \"American Dreamers\" Celebrates Career Changers",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901DA37169",
+      "body": "\n<p class=\"prntac\">Franchise owners from Eggs Up Grill and Kitchen Tune-Up show how decades of corporate experience can become the foundation for a new chapter</p><p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- After nearly three decades in information technology, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=2056000500&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNPsJEBfBlLw&amp;a=Noel+Arriola\" target=\"_blank\" rel=\"nofollow\">Noel Arriola</a> made an unlikely career move: he went into the restaurant business. Jeff Toren spent approximately two decades climbing the ranks in high-tech and software sales before making his own pivot into home remodeling.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1875866/Thunderly_AD_MainLogo.jpg?id=OA2920825\" title=\"Thunderly American Dreamers\" alt=\"Thunderly American Dreamers\"></img>\n                </p>\n    </div>\n<p>Their paths are different, but both found their next professional chapter through franchising.</p><p>This month<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=530056798&amp;u=https%3A%2F%2Fthunderlymarketing.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=2663061875&amp;u=https%3A%2F%2Fthunderlymarketing.com%2F&amp;a=Thunderly\" target=\"_blank\" rel=\"nofollow\">Thunderly</a>, the franchise marketing agency behind \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=3867659051&amp;u=https%3A%2F%2Fthunderlymarketing.com%2Famerican-dreamers%2F&amp;a=American+Dreamers%3A+The+Stories+of+Franchising\" target=\"_blank\" rel=\"nofollow\">American Dreamers: The Stories of Franchising</a>\"©, is spotlighting Career Changers like Arriola and Toren who have used the experience and skills built over established careers to pursue business ownership in entirely new industries.</p><p>Arriola spent 28 years working in information technology before becoming an Eggs Up Grill franchise owner in Winter Garden, Florida. Despite having no previous restaurant industry experience, he saw franchising as a way to combine his business acumen with a longtime dream of restaurant ownership.</p><p>Toren's path took him from the technology sector to home improvement. Before becoming a Kitchen Tune-Up franchise owner serving the Philadelphia area, he built a career in high-tech and software sales and executive leadership, working with organizations ranging from startups to IBM and ultimately reaching the vice president level. At a career crossroads, Toren chose business ownership over another corporate position, launching his Kitchen Tune-Up business in 2015 and later expanding his presence in the home remodeling industry.</p><p>\"In both situations, Noel and Jeff had no real experience in their areas where they started their businesses, but thanks to the franchise model that provides the framework to make that transition, they were able to make a successful move from the corporate world to business ownership,\" said Scott White, co-founder and CEO of Thunderly. \"They didn't start over when they became franchise owners. They took decades of leadership, sales, problem-solving and business experience with them and applied those skills in completely different industries. The franchise model is what made that transition possible.\"</p><p>For experienced professionals considering what comes next, franchising can provide a path to business ownership without requiring them to build a business concept from the ground up. Established systems, training and ongoing support can help career changers learn a new industry while drawing on the transferable skills they have spent years developing.</p><p>\"Changing careers after decades in one field takes courage, but it can also open the door to an incredibly rewarding second act,\" added Thunderly co-founder and COO Monica Feid. \"These stories show that the experience you've accumulated throughout your career can become the foundation for something entirely new.\"</p><p>The September Career Changers feature is the latest installment of Thunderly's year-long campaign celebrating franchise owners whose journeys embody the American Dream. \"American Dreamers: The Stories of Franchising©\" was inspired by America's semiquincentennial and 250 years of the American Dream. For more than 25 years, Thunderly has helped entrepreneurs pursue business ownership and the opportunities that come with it.</p><p>Throughout the year, the campaign is sharing franchise owners' inspiring stories and the many different paths that can lead to business ownership, highlighting franchising as a vehicle for independence, economic mobility and community impact.</p><p>More information about the \"American Dreamers: The Stories of Franchising©\" campaign is available at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=895964359&amp;u=http%3A%2F%2Fwww.thunderlymarketing.com%2FAmerican-Dreamers&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=1722354925&amp;u=http%3A%2F%2Fwww.thunderlymarketing.com%2FAmerican-Dreamers&amp;a=www.thunderlymarketing.com%2FAmerican-Dreamers\" target=\"_blank\" rel=\"nofollow\">www.thunderlymarketing.com/American-Dreamers</a>.</p><p><b>About Thunderly</b></p><p>Recently named to the Inc. 5000 list of fastest growing private companies for the second year in a row and annually included in Entrepreneur Magazine's listing of Top Franchise Suppliers, Thunderly is a full-service franchise marketing agency built to amplify and grow franchises and other dynamic brands.</p><p>Founded in 1999, Thunderly brings decades of expertise in franchise development under one roof, including: lead generation, website design, video production, public relations, social media, thought leadership, influencer campaigns, digital advertising, graphic design, crisis communication, personal branding, podcast production and more.</p><p>Known for its proprietary AIM Model© (Amplified Integrated Marketing), Thunderly enables brands to align every aspect of marketing communications into a cohesive, structured strategy for visibility in a zero-click world across both traditional and AI-powered platforms.</p><p>More information is available at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=1392147290&amp;u=http%3A%2F%2Fwww.thunderlymarketing.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763888-1&amp;h=1615134292&amp;u=https%3A%2F%2Fwww.thunderlymarketing.com&amp;a=www.thunderlymarketing.com\" target=\"_blank\" rel=\"nofollow\">www.thunderlymarketing.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA37169&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/from-corporate-careers-to-business-ownership-thunderlys-american-dreamers-celebrates-career-changers-302865905.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/from-corporate-careers-to-business-ownership-thunderlys-american-dreamers-celebrates-career-changers-302865905.html</a></p><p>SOURCE Thunderly Marketing</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA37169&amp;Transmission_Id=202609011000PR_NEWS_USPR_____DA37169&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Thunderly Marketing",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:10.676Z"
+    },
+    {
+      "company": [
+        "Optimizely"
+      ],
+      "date": "20260901T133000+0000",
+      "dateline": "NEW YORK, Sept. 1, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Optimizely Introduces Purpose-Built AI Models for Marketing that Deliver Frontier-Level Quality at a Fraction of the Cost",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978024/Mark-AI-Press-Release-Thumbnail_1200x628_2.jpg?id=OA2919306&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1978024/Mark-AI-Press-Release-Thumbnail_1200x628_2.jpg?id=OA2919306&p=publish"
+        },
+        {
+          "caption": "Optimizely",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1413257/Optimizely-Logo.jpg?id=OA2919304&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1413257/Optimizely-Logo.jpg?id=OA2919304&p=publish"
+        }
+      ],
+      "release_id": "20260901NY36643",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Rather than depending on generic LLMs, a new family of post-trained AI models allows marketers to use the right model for the right task </i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763364-1&amp;h=1471498946&amp;u=http%3A%2F%2Fwww.optimizely.com%2F&amp;a=Optimizely\" target=\"_blank\" rel=\"nofollow\">Optimizely</a>, the AI platform for marketing, today announced a family of purpose-built, post-trained AI models built specifically for marketing work. In early testing, these models were able to achieve a 10x greater cost efficiency compared to state-of-the-art LLMs.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978024/Mark-AI-Press-Release-Thumbnail_1200x628_2.jpg?id=OA2919306\" title=\"Optimizely Introduces Purpose-Built AI Models for Marketing that Deliver Frontier-Level Quality at a Fraction of the Cost\" alt=\"Optimizely Introduces Purpose-Built AI Models for Marketing that Deliver Frontier-Level Quality at a Fraction of the Cost\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Optimizely Introduces Purpose-Built AI Models for Marketing that Deliver Frontier-Level Quality at a Fraction of the Cost",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901NY36643",
+      "body": "\n<p class=\"prntac\"><i>Rather than depending on generic LLMs, a new family of post-trained AI models allows marketers to use the right model for the right task </i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763364-1&amp;h=1471498946&amp;u=http%3A%2F%2Fwww.optimizely.com%2F&amp;a=Optimizely\" target=\"_blank\" rel=\"nofollow\">Optimizely</a>, the AI platform for marketing, today announced a family of purpose-built, post-trained AI models built specifically for marketing work. In early testing, these models were able to achieve a 10x greater cost efficiency compared to state-of-the-art LLMs.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978024/Mark-AI-Press-Release-Thumbnail_1200x628_2.jpg?id=OA2919306\" title=\"Optimizely Introduces Purpose-Built AI Models for Marketing that Deliver Frontier-Level Quality at a Fraction of the Cost\" alt=\"Optimizely Introduces Purpose-Built AI Models for Marketing that Deliver Frontier-Level Quality at a Fraction of the Cost\"></img>\n                </p>\n    </div>\n<p>Frontier models are built to be generalists, capable of a wide range of tasks, but that breadth comes at a cost. Marketing tasks are nuanced and domain specific, so a general model carries more parameters, pulls in extra context, and spends tokens it never needs. Optimizely's approach strips away the excess from the state-of-the-art models, leaving models built specifically for marketing tasks.</p><p>Marketers often ask the same general-purpose AI models to do a variety of different marketing jobs, from writing campaign copy to analyzing experiments and interpreting customer behavior. But knowing how to perform a task is different from understanding the brand behind it. Optimizely's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763364-1&amp;h=459668818&amp;u=https%3A%2F%2Fwww.optimizely.com%2Ffield-notes%2Fguides%2Foptimizely-2026-global-study&amp;a=global+study\" target=\"_blank\" rel=\"nofollow\">global study</a> of more than 2,000 B2B marketing leaders found that 53% say current AI tools can capture the facts of a brand but struggle to capture the emotional resonance that helps it connect with audiences. Optimizely's models were built around a different premise: AI can take on more of the work without stripping away the context and understanding that make marketing distinctive.</p><p>\"The initial results of our AI Lab have surpassed our expectations,\" said Imran Yousuf, Head of AI Engineering at Optimizely. \"We believe post-training models is the long-term solution to the challenging cost vs. quality debate. Our purpose-built family of models is built to get work done fast and cost-effectively, without sacrificing quality. Customers shouldn't have to think about which model to use, when, or how. They can just trust that our agent platform will apply the right model for the right use case, so their time and their budget go toward the work that actually grows the business.\"</p><p>Optimizely is also introducing Mark-Bench, an open source benchmark built to evaluate AI performance for the marketing domain specifically. The company's intent is for marketers, researchers, and other AI providers to test their own models and agentic harnesses against, giving the industry a shared, objective way to measure both cost and performance on marketing-specific work. Mark-Bench tests models directly against 285 tasks spanning 15 marketing functions, and over 6,000 criteria including writing a press release, creating a social post, and writing email copy.</p><p>Optimizely's models draw on Mark-IQ, the Agent Platform's data layer, which is built on each organization's own context, including experimentation history and web analytics, so every model has the brand's context without a marketer having to rebuild it with every prompt. As evaluated by Mark-Bench's all-pass rate on default configurations, Optimizely Agent Platform scored 67% compared to 60% for Claude Code at 2x lower cost.</p><p>\"The problem with generic harnesses is that they're good for general use and productivity but very inefficient when it comes to domain specific work,\" said Shafqat Islam, President of Optimizely. \"Marketing is a unique domain that requires agent harnesses to be specialized. By delivering frontier quality at lower costs, our customers finally have a way to scale agentic marketing to meet real-world demands rather than getting stuck in pilot purgatory.\"</p><p>This announcement comes on the heels of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763364-1&amp;h=3603880134&amp;u=https%3A%2F%2Fwww.optimizely.com%2Fcompany%2Fpress%2Fvirtual-teammates&amp;a=Optimizely%27s+Virtual+Teammates\" target=\"_blank\" rel=\"nofollow\">Optimizely's Virtual Teammates</a> launch yesterday, giving marketers both the specialized models and the role-specific AI coworkers to put them to work.</p><p>As usage scales, selecting the right model for each task, rather than defaulting to one general-purpose model, keeps costs predictable across large volumes of agentic work. Optimizely's models are coming soon to all Agent Platform customers.</p><p>To learn more about Optimizely Agent Platform, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763364-1&amp;h=3554219612&amp;u=https%3A%2F%2Fwww.optimizely.com%2Fproducts%2Fai&amp;a=https%3A%2F%2Fwww.optimizely.com%2Fproducts%2Fai\" target=\"_blank\" rel=\"nofollow\">https://www.optimizely.com/products/ai</a><br></br><br></br></p><p><b>About Opticon<br></br></b>Opticon is Optimizely's annual event for marketers, digital leaders, and experience makers who'd rather build than watch. Camp Opticon 26 spans New York, London, and online, with keynotes, workshops, and hands-on sessions on agentic AI, agentic CMS, and agentic experimentation. Opticon NYC is presented by Diamond sponsor SoftServe, an Optimizely Platinum Solution Partner working with Optimizely to build and scale enterprise agentic marketing solutions.<br></br><br></br></p><p><b>About Optimizely<br></br></b>Optimizely is the AI platform for marketing, built for the experience-makers who shape how brands show up in the world. Bringing together content management, content marketing, experimentation, commerce, personalization, and analytics into a single platform, Optimizely gives marketers the freedom to create, customers the experiences they remember, and AI agents the content they come looking for. With Optimizely, you're free to grow. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763364-1&amp;h=4273593324&amp;u=http%3A%2F%2Foptimizely.com%2F&amp;a=optimizely.com\" target=\"_blank\" rel=\"nofollow\">optimizely.com</a>.</p><p>Optimizely is the trademark of Optimizely North America Inc., and are registered (or registrations are pending) in the US, EU, UK and other countries. All third-party trademarks cited are the property of their respective owners and are used only for reference purposes.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1413257/Optimizely-Logo.jpg?id=OA2919304\" title=\"Optimizely\" alt=\"Optimizely\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY36643&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/optimizely-introduces-purpose-built-ai-models-for-marketing-that-deliver-frontier-level-quality-at-a-fraction-of-the-cost-302865074.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/optimizely-introduces-purpose-built-ai-models-for-marketing-that-deliver-frontier-level-quality-at-a-fraction-of-the-cost-302865074.html</a></p><p>SOURCE Optimizely</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY36643&amp;Transmission_Id=202609010930PR_NEWS_USPR_____NY36643&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Optimizely",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:10.832Z"
+    },
+    {
+      "company": [
+        "Performance Marketing Advisors"
+      ],
+      "date": "20260901T130500+0000",
+      "dateline": "TRAVERSE CITY, Mich., Sept. 1, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "MCH",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "SMD",
+        "LGL",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "PMA Group | Performance Marketing Advisors Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977606/PMA_Logo_Final.jpg?id=OA2918215&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1977606/PMA_Logo_Final.jpg?id=OA2918215&p=publish"
+        }
+      ],
+      "release_id": "20260901DE36112",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><b><i>Midwest personal injury law firm with more than $2 billion recovered for clients taps PMA Group to strengthen its presence across traditional and AI-powered search channels.</i></b></p><p><span class=\"legendSpanClass\">TRAVERSE CITY, Mich.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Performance Marketing Advisors (PMA Group), a leading provider of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761843-1&amp;h=4084063952&amp;u=https%3A%2F%2Fwww.performancemarketingadvisors.com%2Fservices%2Fseo-ai-visibility-optimization&amp;a=SEO+and+AI+visibility+services\" target=\"_blank\" rel=\"nofollow\">SEO and AI visibility services</a>, today announced that Brown &amp; Crouppen, P.C. has selected the firm to lead its SEO and AI visibility strategy as the law firm seeks to strengthen its digital presence and adapt to the changing ways consumers find and evaluate legal services.</p>\n    ",
+      "ticker": [],
+      "title": "PMA Group Selected by Brown &amp; Crouppen to Lead SEO and AI Visibility Strategy",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901DE36112",
+      "body": "\n<p><b><i>Midwest personal injury law firm with more than $2 billion recovered for clients taps PMA Group to strengthen its presence across traditional and AI-powered search channels.</i></b></p><p><span class=\"legendSpanClass\">TRAVERSE CITY, Mich.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Performance Marketing Advisors (PMA Group), a leading provider of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761843-1&amp;h=4084063952&amp;u=https%3A%2F%2Fwww.performancemarketingadvisors.com%2Fservices%2Fseo-ai-visibility-optimization&amp;a=SEO+and+AI+visibility+services\" target=\"_blank\" rel=\"nofollow\">SEO and AI visibility services</a>, today announced that Brown &amp; Crouppen, P.C. has selected the firm to lead its SEO and AI visibility strategy as the law firm seeks to strengthen its digital presence and adapt to the changing ways consumers find and evaluate legal services.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1977606/PMA_Logo_Final.jpg?id=OA2918215\" title=\"PMA Group | Performance Marketing Advisors Logo\" alt=\"PMA Group | Performance Marketing Advisors Logo\"></img>\n                </p>\n    </div>\n<p>Founded in 1979, Brown &amp; Crouppen is one of the Midwest's most recognized personal injury law firms, with more than 200 legal professionals and nine full-service offices across the greater St. Louis and Kansas City markets. The firm recently surpassed $2 billion recovered for clients.</p><p>\"We're honored to be selected by Brown &amp; Crouppen and to build on the reputation and trust they've earned over more than four decades,\" said Justin Moreno, CEO and Chief Consultant of PMA Group. \"Our job is to make sure that authority carries through wherever people are searching, from Google to emerging AI platforms.\"</p><p>Since its inception, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761843-1&amp;h=3722341166&amp;u=https%3A%2F%2Fwww.performancemarketingadvisors.com%2Findustry-expertise%2Flaw-firms&amp;a=PMA+Group+has+built+significant+experience+across+the+legal+industry\" target=\"_blank\" rel=\"nofollow\">PMA Group has built significant experience across the legal industry</a>, conducting more than 40 digital performance and SEO audits for law firms and providing SEO and AI content optimization for several other clients.</p><p>PMA Group will work alongside Brown &amp; Crouppen's marketing team to strengthen the firm's organic search presence while expanding its visibility across AI-powered search and discovery platforms. The work will include technical SEO, content strategy, local search, digital authority, website performance and advanced attribution.</p><p>\"Brown &amp; Crouppen has always believed in staying ahead of how consumers find and choose legal representation,\" said Carrie Nielsen, Brown &amp; Crouppen's Chief Marketing Officer. \"We selected PMA Group because their approach goes beyond traditional SEO and addresses where search is headed, not simply where it is today. This partnership gives us an opportunity to build on the authority of our brand, expand our visibility across both search and AI platforms, and ultimately connect with more people who need our services.\"</p><p><b>Adapting Search Strategy for a Changing Consumer</b></p><p>Traditional search remains critical to how consumers find and evaluate legal services, but AI-powered platforms are creating new ways for people to research services, compare options and make decisions.</p><p>For law firms, that means search strategy can no longer focus solely on rankings, traffic and backlinks. PMA Group will help Brown &amp; Crouppen strengthen the technical, content and authority signals that influence visibility across both traditional and AI-powered search, while connecting that visibility to qualified inquiries, conversions and marketing efficiency.</p><p>\"Rankings still matter, but search is becoming much more complicated than where you appear on Google,\" Moreno said. \"We're focused on making sure Brown &amp; Crouppen remains visible as people increasingly use new ways to research and choose a law firm.\"</p><p><b>About Brown &amp; Crouppen</b></p><p>Founded in 1979, <b>Brown &amp; Crouppen, </b><b>P.C</b>. is a personal injury law firm serving clients throughout Missouri and the broader Midwest. With more than 200 legal professionals and nine full-service offices in the greater St. Louis and Kansas City markets, the firm represents individuals and families affected by injury and negligence. Brown &amp; Crouppen has recovered more than <b>$2 billion for its clients</b>.</p><p><b>About Performance Marketing Advisors</b></p><p>Performance Marketing Advisors (PMA Group) is a performance marketing agency and consultancy helping organizations improve how they are found, evaluated and selected by customers.</p><p>PMA Group specializes in SEO, AI Visibility Optimization, digital authority, HubSpot implementation and optimization, website optimization, marketing transformation and strategic marketing advisory services.</p><p><b>Learn more:</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761843-1&amp;h=1175074581&amp;u=https%3A%2F%2Fwww.performancemarketingadvisors.com%2F&amp;a=PerformanceMarketingAdvisors.com\" target=\"_blank\" rel=\"nofollow\">PerformanceMarketingAdvisors.com</a></p><p><b>Media Contact</b></p><p><b>Performance Marketing Advisors | PMA Group</b><br></br>Justin Moreno<br></br>info@askPMA.com<br></br>231-714-6284<br></br>PerformanceMarketingAdvisors.com </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE36112&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/pma-group-selected-by-brown--crouppen-to-lead-seo-and-ai-visibility-strategy-302864909.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/pma-group-selected-by-brown--crouppen-to-lead-seo-and-ai-visibility-strategy-302864909.html</a></p><p>SOURCE Performance Marketing Advisors</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE36112&amp;Transmission_Id=202609010905PR_NEWS_USPR_____DE36112&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Performance Marketing Advisors",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:11.293Z"
+    },
+    {
+      "company": [
+        "Influencer Advantage"
+      ],
+      "date": "20260901T024900+0000",
+      "dateline": "NEW YORK, Aug. 31, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "UNK",
+        "WEU",
+        "EUR",
+        "USA",
+        "NAM",
+        "NYK",
+        "UNE"
+      ],
+      "industry": [
+        "ADV",
+        "SMD",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Influencer Advantage",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1973883/unnamed-10.jpg?id=OA2903149&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1973883/unnamed-10.jpg?id=OA2903149&p=publish"
+        }
+      ],
+      "release_id": "20260831LN31659",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "SVY"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- <a href=\"https://influenceradvantage.com/\" target=\"_blank\" rel=\"nofollow\">Influencer Advantage</a> has surpassed 75,000 creator partnerships activated each month, marking a significant milestone as brands increasingly adopt creator-led performance marketing to drive measurable business growth. The achievement reflects the company's continued investment in building the infrastructure that connects creators, brands, creative strategy, paid media, and performance data into a unified customer acquisition system.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1973883/unnamed-10.jpg?id=OA2903149\" title=\"Influencer Advantage\" alt=\"Influencer Advantage\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Influencer Advantage Surpasses 75,000 Monthly Creator Partnerships, Expands Scale of Creator-Led Performance Marketing",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831LN31659",
+      "body": "\n<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- <a href=\"https://influenceradvantage.com/\" target=\"_blank\" rel=\"nofollow\">Influencer Advantage</a> has surpassed 75,000 creator partnerships activated each month, marking a significant milestone as brands increasingly adopt creator-led performance marketing to drive measurable business growth. The achievement reflects the company's continued investment in building the infrastructure that connects creators, brands, creative strategy, paid media, and performance data into a unified customer acquisition system.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1973883/unnamed-10.jpg?id=OA2903149\" title=\"Influencer Advantage\" alt=\"Influencer Advantage\"></img>\n                </p>\n    </div>\n<p>Unlike traditional influencer marketing campaigns that often prioritize reach and engagement, Influencer Advantage focuses on helping ecommerce and consumer brands identify the creators, messages, and content that generate measurable business results. Its proprietary Creator Marketplace now includes more than 400,000 creators and supports the production of more than 200,000 performance creative assets each month. The company also manages more than $850 million in annual advertising spend across a portfolio of more than 700 active brands.</p><p>The milestone comes as many brands rethink how they approach influencer marketing. Rising advertising costs, faster creative fatigue, and increasingly automated advertising platforms have made it more difficult for marketers to rely on a handful of creators or isolated campaigns. Instead, many companies are shifting toward larger creator ecosystems that continuously test new content, audiences, and messaging before scaling the strongest performers.</p><p><a href=\"https://influenceradvantage.com/\" target=\"_blank\" rel=\"nofollow\">Influencer Advantage</a> was built around that model. Rather than treating influencer marketing as a series of one-off collaborations, the company integrates creator sourcing, creative strategy, performance content production, creator whitelisting, affiliate partnerships, paid media, and performance analysis into one operating system. Each campaign produces new data that helps guide future creative decisions, allowing brands to improve performance over time instead of starting from scratch with every campaign.</p><p>\"The old model asked brands to find one perfect influencer,\" said James Gray, Founder of Influencer Advantage. \"We would rather test hundreds of creators, measure the results, and let performance data identify the combinations that deserve to scale.\"</p><p>The company's proprietary Creator Marketplace plays a central role in that process. Instead of manually recruiting creators for every campaign, brands gain access to a structured marketplace that matches products with creators based on category, audience, demographics, creator style, and historical performance. The marketplace also streamlines contracting, content production, usage rights, creator whitelisting, approvals, and reporting, helping brands launch campaigns more efficiently.</p><p>Beyond creator scale, Influencer Advantage emphasizes what it calls meaningful creative diversity. Rather than producing multiple versions of the same advertisement, campaigns are built around different customer personas, creator styles, emotional angles, product benefits, and stages of the customer journey. This approach allows brands to generate a broader range of creative insights while reducing the effects of creative fatigue.</p><p>Those insights become increasingly valuable as campaigns grow. The company analyzes billions of creator, campaign, and performance data points to identify patterns that help determine which creators, creative concepts, messages, and audience combinations are most likely to succeed. The objective is not to replace human creativity but to strengthen decision-making through measurable performance data.</p><p>\"Real people create the content,\" James Gray added. \"Our data helps us understand why it works, so every campaign contributes to stronger performance in the future.\"</p><p>Influencer Advantage's operating model also reflects broader changes taking place across digital advertising. As paid media platforms continue to automate audience targeting, creative quality and authentic creator content have become increasingly important drivers of campaign performance. Brands are placing greater emphasis on testing diverse creator partnerships and amplifying the highest-performing content rather than relying solely on organic reach or follower counts.</p><p>The company's integrated approach allows brands to move from creator discovery to campaign activation in less time while maintaining continuous testing and optimization throughout the customer acquisition process. By connecting marketplace activity, creative production, paid media, and performance analysis, Influencer Advantage helps organizations build repeatable systems for long-term growth rather than isolated marketing campaigns.</p><p>As creator-led commerce continues to evolve, the company expects brands to invest more heavily in scalable creator ecosystems supported by measurable performance data. Surpassing 75,000 monthly creator partnerships represents both a company milestone and a reflection of the growing demand for performance-focused creator marketing that delivers accountable business outcomes.</p><p><b> About Influencer Advantage </b></p><p><a href=\"https://influenceradvantage.com/\" target=\"_blank\" rel=\"nofollow\">Influencer Advantage</a> is a creator-led performance marketing company that helps ecommerce and consumer brands build creator-powered customer acquisition systems. Through its proprietary Creator Marketplace, Creative Strategy Flywheel, performance creative operation, creator whitelisting, affiliate programs, paid media expertise, and performance analysis, the company helps brands identify winning creators and messages before scaling them profitably. Today, Influencer Advantage works with more than 700 active brands, supports more than $850 million in annual advertising spend, activates approximately 75,000 creator partnerships each month, and produces more than 200,000 performance creative assets monthly.</p><p>To learn more visit: <a href=\"https://influenceradvantage.com/\" target=\"_blank\" rel=\"nofollow\"> https://influenceradvantage.com/ </a></p><p>Contact Influencer Advantage: <a href=\"mailto:james@influenceradvantage.com\" target=\"_blank\" rel=\"nofollow\">james@influenceradvantage.com</a> </p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LN31659&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/influencer-advantage-surpasses-75-000-monthly-creator-partnerships-expands-scale-of-creator-led-performance-marketing-302865587.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/influencer-advantage-surpasses-75-000-monthly-creator-partnerships-expands-scale-of-creator-led-performance-marketing-302865587.html</a></p><p>SOURCE Influencer Advantage</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LN31659&amp;Transmission_Id=202608312249PR_NEWS_USPR_____LN31659&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Influencer Advantage",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:13.556Z"
+    },
+    {
+      "company": [
+        "Good At Marketing"
+      ],
+      "date": "20260831T154100+0000",
+      "dateline": "BOYNTON BEACH, Fla., Aug. 31, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "STW",
+        "CPR",
+        "ADV",
+        "SMD",
+        "OUT",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Take your digital marketing to the next level",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978004/FFF_Gam_LO-01.jpg?id=OA2919237&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1978004/FFF_Gam_LO-01.jpg?id=OA2919237&p=publish"
+        }
+      ],
+      "release_id": "20260831FL36603",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "SVY"
+      ],
+      "summary": "<p><i>While competitors bid up the same paid channels, Google Partner agency Good At Marketing has built exclusive in house software that wins its clients real press coverage, the kind money is not supposed to be able to buy.</i></p><p><span class=\"legendSpanClass\">BOYNTON BEACH, Fla.</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Every business in South Florida can buy an ad tomorrow. Almost none of them will be quoted in the press this year. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763324-1&amp;h=3652984474&amp;u=https%3A%2F%2Fgoodatmarketing.com%2F&amp;a=Good+At+Marketing\" target=\"_blank\" rel=\"nofollow\">Good At Marketing</a>, a Boynton Beach based Google Partner agency, says that difference is the most mispriced opportunity in marketing, and it has built proprietary software to exploit it.</p>\n    ",
+      "ticker": [],
+      "title": "Boynton Beach Agency Says the Smartest Ad Buy in 2026 Is Not an Ad: Good At Marketing Bets on Earned Media Odds With Proprietary Software No Other Agency Has",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831FL36603",
+      "body": "\n<p><i>While competitors bid up the same paid channels, Google Partner agency Good At Marketing has built exclusive in house software that wins its clients real press coverage, the kind money is not supposed to be able to buy.</i></p><p><span class=\"legendSpanClass\">BOYNTON BEACH, Fla.</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Every business in South Florida can buy an ad tomorrow. Almost none of them will be quoted in the press this year. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763324-1&amp;h=3652984474&amp;u=https%3A%2F%2Fgoodatmarketing.com%2F&amp;a=Good+At+Marketing\" target=\"_blank\" rel=\"nofollow\">Good At Marketing</a>, a Boynton Beach based Google Partner agency, says that difference is the most mispriced opportunity in marketing, and it has built proprietary software to exploit it.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978004/FFF_Gam_LO-01.jpg?id=OA2919237\" title=\"Take your digital marketing to the next level\" alt=\"Take your digital marketing to the next level\"></img>\n                </p>\n    </div>\n<p>The math the agency points to is about trust and odds. Nielsen's long running Global Trust in Advertising research has consistently found that consumers trust recommendations and editorial media far more than any paid format, with roughly nine in ten trusting earned recommendations while paid digital ads rank near the bottom of the list. Meanwhile AI assistants, which a growing share of buyers now consult before purchasing, build their answers from the same earned record: press mentions, expert commentary, and independent coverage.</p><p>\"Paid channels are a vending machine,\" said Donnie Strompf, the agency's founder. \"You put money in, an ad comes out, and everyone can see it is an ad, including the AI your customer asks for advice. Earned media is the opposite. You cannot simply buy it, the odds of landing it on your own are terrible, and that is exactly why it is worth more. A business owner might send fifty pitches to get one quote placed. We built software that changes those odds, and we are the only ones who have it.\"</p><p>The agency will not describe how the system works. It says that is the point.</p><p>\"It is proprietary, it is exclusive to our clients, and it stays that way,\" Strompf said. \"What I will describe is what a client experiences. Real journalists writing real stories quote them, their expertise shows up in outlets they did not pitch, and the AI assistants their customers use start citing them as the authority in their category. The client's entire job is to approve with one tap. We handle everything else.\"</p><p>The agency reports that client placements now span national business, marketing, and trade publications, with local clients ranging from law firms to home service companies to ecommerce brands.</p><p>The offering is deliberately capped, the agency says. \"Exclusive means exclusive. We are not selling this to everyone, and we are certainly not selling it to two competitors in the same market,\" Strompf said.</p><p>South Florida businesses can learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763324-1&amp;h=759658108&amp;u=https%3A%2F%2Fgoodatmarketing.com%2F&amp;a=goodatmarketing.com\" target=\"_blank\" rel=\"nofollow\">goodatmarketing.com</a>.</p><p>About Good At Marketing<br></br>Good At Marketing is a Google Partner marketing agency based in Boynton Beach, Florida, founded by Donnie Strompf in 2017. The agency runs performance marketing, search, and earned media programs for businesses across the United States. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763324-1&amp;h=759658108&amp;u=https%3A%2F%2Fgoodatmarketing.com%2F&amp;a=goodatmarketing.com\" target=\"_blank\" rel=\"nofollow\">goodatmarketing.com</a>.</p><p>Media Contact<br></br>Donnie Strompf, Founder, Good At Marketing, <a href=\"mailto:donnie@goodatmarketing.com\" target=\"_blank\" rel=\"nofollow\">donnie@goodatmarketing.com</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763324-1&amp;h=759658108&amp;u=https%3A%2F%2Fgoodatmarketing.com%2F&amp;a=goodatmarketing.com\" target=\"_blank\" rel=\"nofollow\">goodatmarketing.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL36603&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/boynton-beach-agency-says-the-smartest-ad-buy-in-2026-is-not-an-ad-good-at-marketing-bets-on-earned-media-odds-with-proprietary-software-no-other-agency-has-302864408.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/boynton-beach-agency-says-the-smartest-ad-buy-in-2026-is-not-an-ad-good-at-marketing-bets-on-earned-media-odds-with-proprietary-software-no-other-agency-has-302864408.html</a></p><p>SOURCE Good at Marketing</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL36603&amp;Transmission_Id=202608311141PR_NEWS_USPR_____FL36603&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Good at Marketing",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:14.822Z"
+    },
+    {
+      "company": [
+        "gocta.ai"
+      ],
+      "date": "20260831T124800+0000",
+      "dateline": "BOYNTON BEACH, Fla., Aug. 31, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "AFI",
+        "STW",
+        "CPR",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Never leave a lead waiting",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1968284/gocta-ai-logo.jpg?id=OA2919235&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1968284/gocta-ai-logo.jpg?id=OA2919235&p=publish"
+        }
+      ],
+      "release_id": "20260831FL36602",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT"
+      ],
+      "summary": "<p><i>Built by a marketing agency owner tired of watching ad budgets buy spam, gocta.ai qualifies leads in real time, books the meeting, and reports closed revenue back to Meta and Google so ad algorithms finally optimize on sales instead of form fills.</i></p><p><span class=\"legendSpanClass\">BOYNTON BEACH, Fla.</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Bots fill out a web form in seconds. Many businesses take hours to reply to the real leads sitting next to that spam. gocta.ai says that gap is where ad budgets go to die, and it is the problem the software company was built to close.</p>\n    ",
+      "ticker": [],
+      "title": "gocta.ai Says the Contact Form Is Dead: Florida Founder Launches AI Operator That Answers Leads Before Competitors Open Their Inbox",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831FL36602",
+      "body": "\n<p><i>Built by a marketing agency owner tired of watching ad budgets buy spam, gocta.ai qualifies leads in real time, books the meeting, and reports closed revenue back to Meta and Google so ad algorithms finally optimize on sales instead of form fills.</i></p><p><span class=\"legendSpanClass\">BOYNTON BEACH, Fla.</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Bots fill out a web form in seconds. Many businesses take hours to reply to the real leads sitting next to that spam. gocta.ai says that gap is where ad budgets go to die, and it is the problem the software company was built to close.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1968284/gocta-ai-logo.jpg?id=OA2919235\" title=\"Never leave a lead waiting\" alt=\"Never leave a lead waiting\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight0764\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">gocta.ai qualifies leads in real time, books the meeting, and reports closed revenue back to Meta and Google.</div><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763323-1&amp;h=1892304760&amp;u=https%3A%2F%2Fgocta.ai%2F&amp;a=gocta.ai\" target=\"_blank\" rel=\"nofollow\">gocta.ai</a> is an AI operator that sits in front of a business's lead intake. It replaces the standard contact form with an AI form that blocks spam and bot submissions before they reach the inbox, replies to real prospects instantly by email and chat, asks the qualifying questions a good salesperson would ask, books the meeting, and then closes the loop that most businesses never close: it feeds closed deal outcomes back to Meta and Google Ads, so the algorithms spending the money learn what a real customer looks like instead of what a form fill looks like.</p><p>\"Every business owner running ads is paying for two lies,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763323-1&amp;h=1272472810&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdonniestrompf%2F&amp;a=Donnie+Strompf\" target=\"_blank\" rel=\"nofollow\">Donnie Strompf</a>, the company's founder. \"The first lie is the lead count, because a chunk of those leads are bots and tire kickers. The second lie is what their ad platform thinks success is, because it optimizes toward whatever fills a form. We fixed both at the same place, the point of intake. Filter what comes in, and tell the ad platform what actually turned into money.\"</p><p>The product was built for the founder's own use first. It runs in production on the website of Good At Marketing, the Google Partner agency Strompf has operated since 2017, where it filters live traffic daily and has qualified leads that converted into closed client business.</p><p>The pricing model is a deliberate break from industry practice. Where most platforms sell AI capability as a paid add on per seat or per sub account on top of a platform fee, gocta.ai includes its AI in every tier and prices per verified lead, starting at 89 dollars per month.</p><p>\"AI as an upsell is how software bills quietly double,\" Strompf said. \"Our position is simple. The AI is the product. You should not pay extra for the thing the tool exists to do, and you should pay for real prospects, not seats.\"</p><p>The product installs with a single line of script, which keeps tracking native to the page so paid ad attribution, including click identifiers that embedded iframe forms routinely break, stays intact.</p><p>gocta.ai is drawing inbound interest from professional service networks interested in bringing the product to their industries, including the legal field.</p><p>Businesses can start a free trial at gocta.ai.</p><p>About gocta.ai<br></br>gocta.ai is an AI operator for business lead intake, founded by Donnie Strompf and based in South Florida. It blocks spam, engages and qualifies real leads instantly, books meetings, and reports closed deal conversions back to ad platforms. AI is included in every plan. Learn more at gocta.ai.</p><p>Media Contact<br></br>Donnie Strompf, Founder, gocta.ai, <a href=\"mailto:donnie@goodatmarketing.com\" rel=\"nofollow\">donnie@goodatmarketing.com</a>, gocta.ai</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL36602&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/goctaai-says-the-contact-form-is-dead-florida-founder-launches-ai-operator-that-answers-leads-before-competitors-open-their-inbox-302864448.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/goctaai-says-the-contact-form-is-dead-florida-founder-launches-ai-operator-that-answers-leads-before-competitors-open-their-inbox-302864448.html</a></p><p>SOURCE gocta.ai</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL36602&amp;Transmission_Id=202608310848PR_NEWS_USPR_____FL36602&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "gocta.ai",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing agency",
+            "summary:marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:15.469Z"
+    },
+    {
+      "company": [
+        "Power Metallic Mines Inc."
+      ],
+      "date": "20260828T220600+0000",
+      "dateline": "TORONTO, Aug. 28, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "MIN",
+        "OTC",
+        "MNG",
+        "PRM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Power Metallic Mines Inc. logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1883277/Power-Metallic-Mines-Inc-Power-Metallic-announces-Marketing-Pro.jpg?id=OA2918841&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1883277/Power-Metallic-Mines-Inc-Power-Metallic-announces-Marketing-Pro.jpg?id=OA2918841&p=publish"
+        }
+      ],
+      "release_id": "20260828TO36436",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p class=\"prntaj\"><b>In support of the upcoming MRE (Mineral Resource Estimate) announcement and the subsequent PEA (Preliminary Economic Assessment) Power Metallic has committed to a number of marketing arrangements to communicate its investment opportunity to investors.</b></p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Aug. 28, 2026</span> /PRNewswire/ -- <b>Power Metallic Mines Inc</b>.<b> (the</b><b> \"Company\" </b><b>or</b><b> \"Power Metallic\"</b><b>) </b>(TSXV: PNPN), (OTCBB: PNPNF) (Frankfurt: IVV1) is pleased to announce that it entered into a service agreement with Native Ads, Inc. (\"Native Ads\") dated August 27<sup>th</sup>, 2026, pursuant to which Native Ads will provide a marketing campaign for a total retainer of up to US$200,000, with a term of up to eighteen months or until the retainer is depleted. Under the agreement, Native Ads will execute a comprehensive digital media advertising campaign for the Company, where approximately 75% of the campaign budget will be allocated to cost per click expenses, media buying and content distribution, and search engine marketing. The remaining budget will be allocated for content creation, web development, advertising creative development, search engine optimization, campaign optimization, and reporting and data insights services. Native Ads is a full-service advertising agency based out of New York and Vancouver, BC. Native Ads and its principal Jon Malach are arms length to the Company and hold no interest, directly or indirectly, in the securities of the Company or any right to acquire such an interest. The engagement of Native Ads by the Company is subject to the approval of the TSX Venture Exchange (\"TSXV\").</p>\n    ",
+      "ticker": [
+        "Frankfurt:IVV1",
+        "OTC-BB:PNPNF",
+        "OTC-PINK:PNPNF",
+        "OTC-QB:PNPNF",
+        "TorontoVE:PNPN"
+      ],
+      "title": "Power Metallic announces Marketing Programs",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260828TO36436",
+      "body": "\n<p class=\"prntaj\"><b>In support of the upcoming MRE (Mineral Resource Estimate) announcement and the subsequent PEA (Preliminary Economic Assessment) Power Metallic has committed to a number of marketing arrangements to communicate its investment opportunity to investors.</b></p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Aug. 28, 2026</span> /PRNewswire/ -- <b>Power Metallic Mines Inc</b>.<b> (the</b><b> \"Company\" </b><b>or</b><b> \"Power Metallic\"</b><b>) </b>(TSXV: PNPN), (OTCBB: PNPNF) (Frankfurt: IVV1) is pleased to announce that it entered into a service agreement with Native Ads, Inc. (\"Native Ads\") dated August 27<sup>th</sup>, 2026, pursuant to which Native Ads will provide a marketing campaign for a total retainer of up to US$200,000, with a term of up to eighteen months or until the retainer is depleted. Under the agreement, Native Ads will execute a comprehensive digital media advertising campaign for the Company, where approximately 75% of the campaign budget will be allocated to cost per click expenses, media buying and content distribution, and search engine marketing. The remaining budget will be allocated for content creation, web development, advertising creative development, search engine optimization, campaign optimization, and reporting and data insights services. Native Ads is a full-service advertising agency based out of New York and Vancouver, BC. Native Ads and its principal Jon Malach are arms length to the Company and hold no interest, directly or indirectly, in the securities of the Company or any right to acquire such an interest. The engagement of Native Ads by the Company is subject to the approval of the TSX Venture Exchange (\"TSXV\").</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1883277/Power-Metallic-Mines-Inc-Power-Metallic-announces-Marketing-Pro.jpg?id=OA2918841\" title=\"Power Metallic Mines Inc. logo\" alt=\"Power Metallic Mines Inc. logo\"></img>\n                </p>\n    </div>\n<p>The Company has engaged the investor relation services of Ora IR Services Inc. at a cost of $20,000 a month for a period of six months commencing September 1, 2026, with an option to extend at the Company's sole discretion. Ora is a company controlled by Geoff Skinner and based in British Columbia. Ora is providing various services in connection with the Company's shareholder communications and investor outreach initiatives and supporting the Company's market visibility and engagement across multiple platforms. The engagement of Ora is subject to the approval of the TSXV.</p><p>The Company is presenting at the Emerging Growth Conference the world's largest virtual investor conference on September 24, 2026. At a cost of $4,400.</p><p>Power Metallic Mines Inc. has entered into an online advertising and marketing agreement with AGORA Internet Relations Corp. (\"AGORACOM\") for a 12-month digital marketing program commencing August 30, 2026. The program includes AI powered content creation and engagement, social media distribution, executive interviews and video content, search and AI answer engine optimization, and a customized HUB and Verified Forum designed to support investor awareness and shareholder engagement. Under the agreement, AGORACOM will receive aggregate compensation of C$125,000 plus HST, payable through shares for services in accordance with TSX Venture Exchange Policy 4.3.</p><p>The Company is attending several conferences in the fall winter session including Beavercreek, Precious Metal Summit, Luxembourg Natural Resource, New Orleans Investment Conference, Mines and Money London with an estimated total cost of approximately $75,000 USD.</p><p>\"We have an action packed next several months with a number of catalysts starting with the inaugural MRE on the Lion Zone and our high-graded Nisk Project. Will be following that up with updates on our Exploration program at Nisk, an update on our progress in the Kingdom of Saudi Arabia and also on our investment in Chilean Metals.</p><p>To make sure we are engaging with investors as the Company transitions from pure exploration by adding development progress on Nisk, we have committed to these steps to advance understanding of our Company and its progress in what we see is a robust capital market for a company positioned with the assets we are advancing\", commented CEO Terry Lynch.</p><p>Further to the Company's disclosure on July 30, 2026, about its arrangement with Red Cloud Securities Inc. for market stabilization services, the Company and Red Cloud have modified the fee arrangement such that the fees for such services are payable monthly in advance, rather than quarterly in advance.</p><p><b>About Power Metallic Mines Inc.</b></p><p>Power Metallic is a Canadian exploration company focused on advancing the Nisk Project Area (Nisk–Lion–Tiger)—a high–grade Copper–PGE, Nickel, gold and silver system—toward Canada's next polymetallic mine.</p><p>On 1 February 2021, Power Metallic (then Chilean Metals) secured an option to earn up to 80% of the Nisk project from Critical Elements Lithium Corp. (TSX–V: CRE). Following the June 2025 purchase of 313 adjoining claims (~167 km²) from Li–FT Power, the Company now controls ~330 km² and roughly 50 km of prospective basin margins.</p><p>Power Metallic is expanding mineralization at the Nisk and Lion discovery zones, evaluating the Tiger target, and exploring the enlarged land package through successive drill programs. Beyond the Nisk Project Area, Power Metallic indirectly has an interest in significant land packages in British Columbia and Chile, by its 50% share ownership position in Chilean Metals Inc., which were spun out from Power Metallic via a plan of arrangement on February 3, 2025.</p><p>It also owns 100% of Power Metallic Arabia which owns 100% interest in the Jabul Baudan exploration license in The Kingdon of Saudi Arabia's Jabal Said Belt. The property encompasses over 200 square kilometres in an area recognized for its high prospectivity for copper gold and zinc mineralization. The region is known for its massive volcanic sulfide (VMS) deposits, including the world-class Jabal Sayid mine and the promising Umm and Damad deposit.</p><p><b>For further information, readers are encouraged to contact:<br></br></b>Power Metallic Mines Inc.<br></br>The Canadian Venture Building<br></br>82 Richmond St East, Suite 202<br></br>Toronto, ON</p><p><i>Neither the TSX Venture Exchange nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this release.</i></p><p><b>QAQC and Sampling</b></p><p>GeoVector Management Inc (\"GeoVector\") is the Consulting company retained to perform the actual drilling program, which includes core logging and sampling of the drill core.</p><p>All core in this news release is either HQ or NQ sized core. Drill core is re-fitted and measured. Geotech on core includes photographs (wet &amp; dry), rock quality index, magnetic susceptibility, conductivity, and recovery estimates. Core is logged for lithology, mineralogy, and structural features, and sample intervals are delineated and tagged.</p><p>Sampled core is mechanically sawn, and half-core is retained for future reference. GeoVector's QAQC program includes regular insertion of CRM standards, duplicates, and blanks into the sample stream with a stringent review of all results. QAQC and data validation was performed, and no material errors were observed.</p><p>All samples were submitted to and analyzed at Activation Laboratories Ltd (\"Actlabs\"), a commercial laboratory independent of Power Metallic with no interest in the Project. Actlabs is an ISO 9001 and 17025 certified and accredited laboratories. Samples submitted through Actlabs are run through standard preparation methods and analysed using RX-1 (Dry, crush (&lt; 7 kg) up to 80% passing 2 mm, riffle split (250 g) and pulverize (mild steel) to 95% passing 105 μm) preparation methods, and using 1F2 (ICP-OES) and 1C-OES - 4-Acid near total digestion + Gold-Platinum-Palladium analysis and 8-Peroxide ICP-OES, for regular and over detection limit analysis. Pegmatite samples are analyzed using UT7 - Li up to 5%, Rb up to 2% method. Actlabs also undertake their own internal coarse and pulp duplicate analysis to ensure proper sample preparation and equipment calibration.</p><p><b>Cautionary Note Regarding Forward-Looking Statements</b></p><p>This message contains certain statements that may be deemed \"forward-looking statements\" concerning the Company within the meaning of applicable securities laws. Forward-looking statements are statements that are not historical facts and are generally, but not always, identified by the words \"expects,\" \"plans,\" \"anticipates,\" \"believes,\" \"intends,\" \"estimates,\" \"projects,\" \"potential,\" \"indicates,\" \"opportunity,\" \"possible\" and similar expressions, or that events or conditions \"will,\" \"would,\" \"may,\" \"could\" or \"should\" occur. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance, are subject to risks and uncertainties, and actual results or realities may differ materially from those in the forward-looking statements. Such material risks and uncertainties include, but are not limited to, among others; the timing for various drilling plans; the ability to raise sufficient capital to fund its obligations under its property agreements going forward and conduct drilling and exploration; to maintain its mineral tenures and concessions in good standing; to explore and develop its projects; changes in economic conditions or financial markets; the inherent hazards associates with mineral exploration and mining operations; future prices of nickel and other metals; changes in general economic conditions; accuracy of mineral resource and reserve estimates; the potential for new discoveries; the ability of the Company to obtain the necessary permits and consents required to explore, drill and develop the projects and if accepted, to obtain such licenses and approvals in a timely fashion relative to the Company's plans and business objectives for the applicable project; the general ability of the Company to monetize its mineral resources; and changes in environmental and other laws or regulations that could have an impact on the Company's operations, compliance with environmental laws and regulations, dependence on key management personnel and general competition in the mining industry.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=TO36436&amp;sd=2026-08-28\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/power-metallic-announces-marketing-programs-302863180.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/power-metallic-announces-marketing-programs-302863180.html</a></p><p>SOURCE Power Metallic Mines Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=TO36436&amp;Transmission_Id=202608281806PR_NEWS_USPR_____TO36436&amp;DateId=20260828\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Power Metallic Mines Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntaj{\nTEXT-ALIGN: JUSTIFY\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 7,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising agency",
+            "summary:media buying",
+            "summary:advertising",
+            "marketing"
+          ],
+          "digital": [
+            "summary:digital media"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:15.992Z"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-04T18:16:37.778Z",
+  "generated_at": "2026-09-04T18:24:47.829Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "television",
   "page_url": "https://www.mediajobsreport.com/tv_news",
-  "count": 3,
+  "count": 5,
   "releases": [
     {
       "company": [
@@ -98,7 +98,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T17:52:31.555Z"
+      "imported_at": "2026-09-04T18:24:59.748Z"
     },
     {
       "company": [
@@ -187,7 +187,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T17:52:31.957Z"
+      "imported_at": "2026-09-04T18:25:00.633Z"
     },
     {
       "company": [
@@ -272,7 +272,231 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T17:25:57.072Z"
+      "imported_at": "2026-09-04T18:25:01.092Z"
+    },
+    {
+      "company": [
+        "Sony Electronics, Inc."
+      ],
+      "date": "20260903T160000+0000",
+      "dateline": "SAN DIEGO, Sept. 3, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SPT",
+        "SPE",
+        "SSE",
+        "CSE",
+        "CPR",
+        "TVN",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "More than 2,300 Coach's Headsets used by all 32 NFL teams with zero hardware failures over the entire season.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980928/More-than-2300-Coachs-Headsets-used-by-all-32-NFL-teams.jpg?id=OA2927577&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980928/More-than-2300-Coachs-Headsets-used-by-all-32-NFL-teams.jpg?id=OA2927577&p=publish"
+        },
+        {
+          "caption": "Sony’s broadcast cameras captured over 1,100 hours of NFL action across over 300 games",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980929/Sonys-broadcast-cameras-captured-over-1100-hours-of-NFL-action.jpg?id=OA2927580&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980929/Sonys-broadcast-cameras-captured-over-1100-hours-of-NFL-action.jpg?id=OA2927580&p=publish"
+        },
+        {
+          "caption": "Sony’s Alpha™ lineup of interchangeable lens cameras enabled The Associated Press to capture more than 130,000 images",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980930/Sonys-Alpha-lineup-of-interchangeable-lens-cameras-enabled-The-Associated-Press-to-capture.jpg?id=OA2927581&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980930/Sonys-Alpha-lineup-of-interchangeable-lens-cameras-enabled-The-Associated-Press-to-capture.jpg?id=OA2927581&p=publish"
+        },
+        {
+          "caption": "Sony's Hawk-Eye video replay and measurement technologies supported ",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980931/Sonys-HawkEye-video-replay-and-measurement-technologies-supported.jpg?id=OA2927582&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980931/Sonys-HawkEye-video-replay-and-measurement-technologies-supported.jpg?id=OA2927582&p=publish"
+        },
+        {
+          "caption": "Sony’s Hawk-Eye technology supported 21 virtual measurements, completing each measurement in nearly half the average time as the traditional chain measurement",
+          "seq": "5",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980932/Sonys-HawkEye-technology-supported-21-virtual-measurements.jpg?id=OA2927583&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980932/Sonys-HawkEye-technology-supported-21-virtual-measurements.jpg?id=OA2927583&p=publish"
+        },
+        {
+          "caption": "The headset the provided coaches with the reliability, comfort, and clarity they need to make decisions throughout every game while supporting consistent game operations across the league.",
+          "seq": "6",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980935/The-headset-the-provided-coaches-with-the-reliability-comfort-and-clarity.jpg?id=OA2927587&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980935/The-headset-the-provided-coaches-with-the-reliability-comfort-and-clarity.jpg?id=OA2927587&p=publish"
+        },
+        {
+          "caption": "Sony logo",
+          "seq": "7",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS477789/Sony-Logo.jpg?id=OA2927568&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS477789/Sony-Logo.jpg?id=OA2927568&p=publish"
+        }
+      ],
+      "release_id": "20260903LA39943",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "CON"
+      ],
+      "summary": "<p class=\"prntac\"><i>Building on more than a decade of partnership, Sony + NFL are moving into the 2026 Season maintaining focus on advancing the game and laying a strong foundation for future innovation </i></p><p><span class=\"legendSpanClass\">SAN DIEGO</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Sony Electronics Inc. and the National Football League (NFL) today shared an update summarizing the measurable impact Sony's technologies have had across many of NFL's most critical gameday operations and communications.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980928/More-than-2300-Coachs-Headsets-used-by-all-32-NFL-teams.jpg?id=OA2927577\" title=\"More than 2,300 Coach's Headsets used by all 32 NFL teams with zero hardware failures over the entire season.\" alt=\"More than 2,300 Coach's Headsets used by all 32 NFL teams with zero hardware failures over the entire season.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "2025 NFL Season Marked a Historic Step Forward for Sony + NFL Partnership with Capture of 130,000 Images by The AP, 1,100+ Hours of Broadcast Television, Deployment of 2,300+ Coach's Headsets, and Collaboration on 600+ Officiating Events",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903LA39943",
+      "body": "\n<p class=\"prntac\"><i>Building on more than a decade of partnership, Sony + NFL are moving into the 2026 Season maintaining focus on advancing the game and laying a strong foundation for future innovation </i></p><p><span class=\"legendSpanClass\">SAN DIEGO</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Sony Electronics Inc. and the National Football League (NFL) today shared an update summarizing the measurable impact Sony's technologies have had across many of NFL's most critical gameday operations and communications.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980928/More-than-2300-Coachs-Headsets-used-by-all-32-NFL-teams.jpg?id=OA2927577\" title=\"More than 2,300 Coach's Headsets used by all 32 NFL teams with zero hardware failures over the entire season.\" alt=\"More than 2,300 Coach's Headsets used by all 32 NFL teams with zero hardware failures over the entire season.\"></img>\n                </p>\n    </div>\n<p>During the 2025 season, Sony's broadcast cameras captured over <b>1,100 hours</b> of NFL action across over <b>300 games</b>, while Sony's Alpha™ lineup of interchangeable lens cameras enabled The Associated Press to capture more than <b>130,000 images</b>. The 2025 season marked a historic milestone as the first full season of Sony's Hawk-Eye video replay and measurement technologies and Sony NFL Coach's Headsets, supporting <b>630 officiating events</b> and more than <b>2,300 Coach's Headsets</b> used by all 32 NFL teams with zero hardware failures over the entire season. Sony and the NFL will continue innovating to further enhance game operations and shape the future of football.</p><p><b>Seeing the Game Like Never Before <br></br></b>Sony imaging technologies help bring every NFL game to fans around the world. From live game coverage and replay to sideline photography and in-venue production, Sony's professional cameras, accessories, and imaging solutions provide broadcasters with the speed, clarity, and reliability needed to capture football's biggest moments.</p><p>Throughout the 2025 season, <b>Sony imaging technologies supported the league's more than 1,100 hours of live game broadcasts across its major broadcast partners</b>. <b>Hundreds of Sony cameras and imaging solutions</b> support broadcast production across every NFL game, with <b>more than 175 Sony cameras </b>deployed on and around the field during Super Bowl LX alone. Sony's high frame rate (HFR) cameras captured detailed slow-motion replays that brought fans even closer to the action.</p><p>Beyond the broadcast, Sony's continued partnership with The Associated Press enabled their team of sports photojournalists to utilize the most advanced Alpha™ camera and lens technologies, capturing over 130,000 memorable images throughout the season. </p><p>Sony's Beyond Sports innovations are helping drive fan engagement in entirely new ways by transforming real-time tracking data from Sony's Hawk-Eye Innovations and the NFL's Next Gen Stats powered by AWS into an immersive, animated viewing experience. During the 2025 season, its technology powered <b>Monsters Funday Football</b>, ESPN and Disney's animated Monday Night Football alternate broadcast, <b>contributing to ESPN's highest</b> <b><i>Monday Night Football Week 14</i></b><b> audience ever in the ESPN era of the iconic franchise.</b> These alternate broadcasts create new ways for broadcasters to tell the story of the game while engaging fans and reaching new audiences.</p><p><b>A Faster, More Precise Game Experience<br></br></b>Sony's Hawk-Eye virtual measurement system has quickly become an integral part of NFL officiating, helping officials make first down measurements faster. Available across <b>all NFL games,</b> including preseason, regular season and postseason matchups, Sony's Hawk-Eye technology <b>supported 21 virtual measurements, completing each measurement </b>in nearly half the average time as the traditional chain measurement.</p><p>This included several high-profile measurement situations, including two critical measurements during the Buffalo vs. Jacksonville playoff game<b>,</b> confirming first downs by margins of just two and four inches, respectively.</p><p>Sony's Hawk-Eye technology also supports replay operations by providing officials and fans with additional camera angles and real-time visual data throughout the game. During the 2025 season, <b>360 Hawk-Eye boundary line cameras were installed across every NFL </b>stadium (12 in each), including international venues, supporting <b>322 replay reviews and 141 replay assists</b>. This provided officials with additional visual perspectives while helping broadcasters and fans better understand critical plays.</p><p><i>\"Our partnership with Sony is rooted in a shared commitment to strengthening the game through innovation,\" said Tracie Rodburg, Senior Vice President of Global Partnerships at the NFL. \"From officiating and coaching communications to game operations, Sony's technologies have delivered meaningful results and helped us provide a more consistent experience for officials, coaches, players and fans. As we look ahead, we're excited to continue building on that success together.\"</i> </p><p><i>\"For more than a decade, we've worked alongside the NFL to develop technologies that solve real challenges and support some of the most important moments in the game,\" said Theresa Alesso, President, Imaging Products and Solutions Americas, Sony Electronics. \"The results from the first season reflect what's possible when innovation is built in collaboration with the people who use it. We're excited to continue evolving that partnership and exploring what's next together.\"</i></p><p><b>Enabling Clear Communication Across the Sideline<br></br></b>Sony's NFL Coach's Headsets completed their first full season supporting all 32 NFL teams, delivering industry-leading noise cancellation for clear communication in some of the loudest environments in professional sports. With more than <b>2,300 headsets deployed</b> across the league and <b>more than 1,100 hours of gameday communication without a single hardware failure, </b>the system provided coaches with the reliability, comfort, and clarity they need to make decisions throughout every game while supporting consistent game operations across the league.</p><p><i>\"Sideline communication is one of the most critical parts of gameday operations, and Sony's NFL Coach's Headsets have exceeded our expectations in their first season,\" said Kimberly Fields, Senior Vice President of Football Business &amp; Innovation Strategy at the NFL. \"The technology has delivered the reliability, clarity, and consistency our coaches need, and we're excited to continue evolving the partnership.\"</i></p><p><b>Looking Ahead<br></br></b>From next-generation broadcast cameras to state-of-the-art optical tracking technologies, Sony innovations are helping create new viewing angles, deliver richer in-stadium experiences and provide officials and broadcasters with more powerful tools than ever before.</p><p>New broadcast technologies, including Sony's AI-enabled Pant-Tilt-Zoom (PTZ) cameras, are expanding creative production possibilities by capturing unique perspectives from locations that were previously difficult to access while maintaining seamless color matching with Sony's system cameras. Across stadiums, Sony imaging technologies are also supporting new in-venue experiences, from producing highlight reels for videoboards to providing officials and teams with additional replay perspectives.</p><p>At the same time, Sony and the NFL continue to evolve Sony's Hawk-Eye tracking technologies to further enhance officiating and game administration. Planned advancements include expanded use of SkeleTRACK data and increased automation within the virtual measurement workflow to streamline operations, reduce manual inputs, expedite turnaround times and further improve the precision and consistency of virtual measurements, while continuing to evaluate future innovations such as ball spotting.</p><p>As the partnership continues to evolve, Sony and the NFL remain committed to continuing to innovate together, further build on this momentum, and help shape the future of football.</p><p><b>About Sony Electronics Inc.<br></br></b><i>Sony Electronics is a subsidiary of Sony Corporation of America and an affiliate of Sony Group Corporation, one of the most comprehensive entertainment companies in the world, with a portfolio that encompasses electronics, music, motion pictures, mobile, gaming, robotics and financial services. Headquartered in San Diego, California, Sony Electronics is a leader in electronics for the consumer and professional markets. Operations include research and development, engineering, sales, marketing, distribution and customer service. Sony Electronics creates products that innovate and inspire generations, such as the award-winning Alpha Interchangeable Lens Cameras and revolutionary high-resolution audio products. Sony is also a leading manufacturer of end-to-end solutions from 4K professional broadcast and A/V equipment to industry leading 4K and 8K Ultra HD TVs.</i></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980929/Sonys-broadcast-cameras-captured-over-1100-hours-of-NFL-action.jpg?id=OA2927580\" title=\"Sony’s broadcast cameras captured over 1,100 hours of NFL action across over 300 games\" alt=\"Sony’s broadcast cameras captured over 1,100 hours of NFL action across over 300 games\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980930/Sonys-Alpha-lineup-of-interchangeable-lens-cameras-enabled-The-Associated-Press-to-capture.jpg?id=OA2927581\" title=\"Sony’s Alpha™ lineup of interchangeable lens cameras enabled The Associated Press to capture more than 130,000 images\" alt=\"Sony’s Alpha™ lineup of interchangeable lens cameras enabled The Associated Press to capture more than 130,000 images\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980931/Sonys-HawkEye-video-replay-and-measurement-technologies-supported.jpg?id=OA2927582\" title=\"Sony's Hawk-Eye video replay and measurement technologies supported \" alt=\"Sony's Hawk-Eye video replay and measurement technologies supported \"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980932/Sonys-HawkEye-technology-supported-21-virtual-measurements.jpg?id=OA2927583\" title=\"Sony’s Hawk-Eye technology supported 21 virtual measurements, completing each measurement in nearly half the average time as the traditional chain measurement\" alt=\"Sony’s Hawk-Eye technology supported 21 virtual measurements, completing each measurement in nearly half the average time as the traditional chain measurement\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980935/The-headset-the-provided-coaches-with-the-reliability-comfort-and-clarity.jpg?id=OA2927587\" title=\"The headset the provided coaches with the reliability, comfort, and clarity they need to make decisions throughout every game while supporting consistent game operations across the league.\" alt=\"The headset the provided coaches with the reliability, comfort, and clarity they need to make decisions throughout every game while supporting consistent game operations across the league.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS477789/Sony-Logo.jpg?id=OA2927568\" title=\"Sony logo\" alt=\"Sony logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39943&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/2025-nfl-season-marked-a-historic-step-forward-for-sony--nfl-partnership-with-capture-of-130-000-images-by-the-ap-1-100-hours-of-broadcast-television-deployment-of-2-300-coachs-headsets-and-collaboration-on-600-officiating-302868586.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/2025-nfl-season-marked-a-historic-step-forward-for-sony--nfl-partnership-with-capture-of-130-000-images-by-the-ap-1-100-hours-of-broadcast-television-deployment-of-2-300-coachs-headsets-and-collaboration-on-600-officiating-302868586.html</a></p><p>SOURCE Sony Electronics, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39943&amp;Transmission_Id=202609031200PR_NEWS_USPR_____LA39943&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Sony Electronics, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "television"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "television"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 9,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "television": [
+            "broadcast television",
+            "television",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:01.609Z"
+    },
+    {
+      "company": [
+        "Fox News Network, LLC"
+      ],
+      "date": "20260903T155000+0000",
+      "dateline": "NEW YORK, Sept. 3, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "PUB",
+        "RAD",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "FOX News Media",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1648426/FOX-NEWS-MEDIA-Logo.jpg?id=OA2928872&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1648426/FOX-NEWS-MEDIA-Logo.jpg?id=OA2928872&p=publish"
+        }
+      ],
+      "release_id": "20260903NY40357",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- FOX News Media will honor the 25th anniversary of the September 11th, 2001 terrorist attacks with extensive multiplatform special programming. On Friday, September 11th and in the days leading up to it, network personalities and correspondents will present commemorative packages and interviews while reporting live from locations across New York, Pennsylvania and Washington, D.C.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1648426/FOX-NEWS-MEDIA-Logo.jpg?id=OA2928872\" title=\"FOX News Media\" alt=\"FOX News Media\"></img>\n                </p>\n    </div>\n<p>During the week of September 7th, <b>FOX News Channel's</b> (FNC) signature morning show <i>FOX &amp; Friends</i> (6-9 AM/ET) will broadcast live from several locations and feature interviews with guests about their experiences 25 years ago. Starting on Monday, co-host Steve Doocy, who was broadcasting live alongside co-host Brian Kilmeade on the morning of the attacks, will host the program's flagship \"Breakfast with Friends\" series live from the historic O'Hara's Pub in downtown Manhattan just two blocks from Ground Zero. Doocy will travel to Washington, D.C. on Tuesday and speak with Tunnels to Towers Foundation chairman and CEO Frank Siller, as the Steel Across America tour, a historic coast-to-coast campaign honoring those who sacrificed their lives on 9/11, arrives at the White House. Throughout the show on Thursday, Doocy will broadcast live from Shanksville, Pennsylvania, the crash site of United Airlines Flight 93. </p>",
+      "ticker": [],
+      "title": "FOX NEWS MEDIA TO PRESENT SPECIAL MULTIPLATFORM PROGRAMMING COMMEMORATING THE 25TH ANNIVERSARY OF SEPTEMBER 11TH",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903NY40357",
+      "body": "\n<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- FOX News Media will honor the 25th anniversary of the September 11th, 2001 terrorist attacks with extensive multiplatform special programming. On Friday, September 11th and in the days leading up to it, network personalities and correspondents will present commemorative packages and interviews while reporting live from locations across New York, Pennsylvania and Washington, D.C.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1648426/FOX-NEWS-MEDIA-Logo.jpg?id=OA2928872\" title=\"FOX News Media\" alt=\"FOX News Media\"></img>\n                </p>\n    </div>\n<p>During the week of September 7th, <b>FOX News Channel's</b> (FNC) signature morning show <i>FOX &amp; Friends</i> (6-9 AM/ET) will broadcast live from several locations and feature interviews with guests about their experiences 25 years ago. Starting on Monday, co-host Steve Doocy, who was broadcasting live alongside co-host Brian Kilmeade on the morning of the attacks, will host the program's flagship \"Breakfast with Friends\" series live from the historic O'Hara's Pub in downtown Manhattan just two blocks from Ground Zero. Doocy will travel to Washington, D.C. on Tuesday and speak with Tunnels to Towers Foundation chairman and CEO Frank Siller, as the Steel Across America tour, a historic coast-to-coast campaign honoring those who sacrificed their lives on 9/11, arrives at the White House. Throughout the show on Thursday, Doocy will broadcast live from Shanksville, Pennsylvania, the crash site of United Airlines Flight 93. </p><p>On Friday, September 11th, special coverage will commence with <i>FOX &amp; Friends</i> co-hosts Kilmeade, Ainsley Earhardt and Lawrence Jones broadcasting live from the Hyatt House in Jersey City, overlooking the New York City (NYC) skyline, while Doocy will contribute live from Ground Zero. <i>America's Newsroom</i> (9-11 AM/ET) co-anchors Bill Hemmer and Dana Perino will broadcast live from Brookfield Place overlooking the World Trade Center campus in downtown Manhattan. The program will carry the live reading of the victims' names from the National September 11 Memorial &amp; Museum. From 11 AM - 3 PM/ET, <i>The Faulkner Focus</i> (11-12 PM/ET), <i>Outnumbered</i> (12-1 PM/ET), and <i>America Reports</i> (1-3 PM/ET) will all feature special segments and interviews with a wide range of guests including families of 9/11 victims, military officials, 9/11 survivors, and founders/CEOs of 9/11-related foundations. Martha MacCallum, host of <i>The Story</i> (3-4 PM/ET), will report live from the Hyatt House and feature interviews with Cardinal Timothy Dolan, the New York Police Department (NYPD) co-chief chaplain, and Jessica Tisch, the NYPD Commissioner. Additionally, <i>The Will Cain Show</i> (4-5 PM/ET) will honor the anniversary with guests who will recount their experiences on 9/11.</p><p>Contributing to coverage throughout the day will be FNC senior correspondent Eric Shawn, who reported from Ground Zero on the day of the attacks, live from downtown Manhattan and correspondent Alexis McAdams from Shanksville. Chief national security correspondent Jennifer Griffin and senior White House correspondent Peter Doocy will report from the Pentagon and the White House, respectively. </p><p><b>FOX Nation</b> will debut two new specials exploring the impacts of the 9/11 attacks 25 years later. Premiering on September 4th, <i>Paul Mauro's Notes from Ground Zero</i> spotlights FNC contributor and former NYPD Inspector Paul Mauro – who was working the morning of 9/11 – as he returns to Ground Zero for the first time in 25 years. Mauro, who scribbled down notes in the days following the attacks, reunites with fellow officers and shares never-before-seen photos and video. On September 8th, FOX Nation will launch <i>Born on 9/11: 25 Years with Harris Faulkner</i>, exploring the lives of people born on September 11th, 2001, the hope they brought to the country, and where they are now. The platform will also livestream the official ceremonies at the NYC memorial site and the Pentagon on September 11th. </p><p><b>FOX Business Network's</b> (FBN) Liz Claman, anchor of <i>The Claman Countdown</i> (weekdays 3-4 PM/ET)<i>,</i> will speak exclusively with Brandon and Kyle Lutnick, the Chairman and Executive Vice Chairman of Cantor Fitzgerald, on September 10th to commemorate the 658 Cantor Fitzgerald employees lost in the 9/11 attacks and to preview the firm's annual BGC Charity Day. On September 11th, Claman will feature an interview with founder and CEO of Silverstein Properties Larry Silverstein from the World Trade Center, which he helped rebuild following the 9/11 attacks. She will also speak with then-U.S. Senator and former New Jersey Governor Jon Corzine (D-NJ), and former JP Morgan Chase CEO Bill Harrison as they reflect on the impact of the day. </p><p><b>FOX News Digital</b> will provide day-of coverage of the commemorations at Ground Zero, the Pentagon and Shanksville, including live updates, coordinated video and social content and live stream embeds from all three ceremonies. The platform will feature interviews with Elizabeth L. Hillman, president and CEO of the National September 11 Memorial &amp; Museum, and former Navy SEAL Robert O'Neill, who participated in the 2011 raid that killed Osama bin Laden. Throughout the day, FOX News Digital will publish multiple retrospective and feature stories focused on survivors, first responders, victims' families and those carrying the legacy of 9/11 forward 25 years later. The platform will also offer political and policy coverage, including reporting on how homeland security has evolved since the attacks. Additionally, the platform will publish a \"Never Forget\" archival photo retrospective, including a look at how Ground Zero and the lower Manhattan skyline have changed since the attacks. </p><p><b>FOX News Audio</b> will present extensive coverage of the anniversary. Throughout the day on September 11th, FOX News Headlines 24/7 on Sirius XM will provide the latest updates on ceremonies and events every 15 minutes. Leading up to the commemoration, FOX News Radio (FNR) will share two weeks of daily one-minute feature reports, each spotlighting someone personally affected by the 9/11 attacks. FNR will also offer breaking news coverage of the NYC memorial ceremony, featuring reporting from Ground Zero. <i>The Brian Kilmeade Show</i>, <i>Fox Across America with Jimmy Failla</i> and <i>The Guy Benson Show</i> will interview guests and newsmakers impacted by the attacks. On YouTube, <i>The Brian Kilmeade Show</i> will provide access to some of Kilmeade's most notable 9/11 interviews, and FNR affiliates will be offered an anniversary special from Kilmeade that reflects on how America has evolved since then.</p><p><b>FOX News Podcasts</b> will release specialized coverage in remembrance as well. <i>The FOX News Rundown</i> podcast will mark the anniversary by delivering a week of immersive content across its platform. <i>The FOX News Rundown: Evening Edition</i> will anchor the programming by providing personal accounts of survival and exploring the lasting geopolitical and cultural impacts of the attacks. <i>The FOX Business Rundown</i> and <i>FOX News From Washington</i> will examine the quarter-century legacy through dedicated economic, policy, and national security lenses. On <i>Perino on Politics</i>, Perino will sit down with key insiders of the Bush administration who helped navigate the crisis from the center of power, including Chief Photographer Eric Draper, Presidential Speechwriter John McConnell and Director of Media Affairs Jeanie Mamo. Additionally, the host of <i>Searching for Heroes</i>, FNC's Benjamin Hall, will sit down with guests whose lives were impacted by the attacks, sharing stories of survival, sacrifice and resilience. Finally, FOX News Podcasts has launched an eight-part documentary series entitled <i>FOX News Rewind: 9/11,</i> building upon previous coverage, this updated edition features new reporting, examining the events leading up to the attacks, the courage of those who survived and responded, as well as the aftermath. The series will feature commentators such as Brit Hume, Steve Doocy, and Kilmeade. Bill Hemmer will host the finale of the series from the National September 11 Memorial &amp; Museum where he will be joined by Elizabeth L. Hillman and other guests for a forward-looking dialogue on memory, endurance, and legacy.</p><p>FOX News Media operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Digital, FOX News Podcasts, FOX News Audio, FOX News Books, the direct-to-consumer streaming services FOX Nation and FOX News International and the free ad-supported television service FOX Weather. Currently the number one network in all of cable, FNC has also been the most watched television news channel for over 24 consecutive years, while FBN is the top business channel on cable. FOX News Media reaches nearly 200 million people each month and is also available to live stream on FOX One.</p><p class=\"prntac\">###</p><p><b>FOX News Media Contacts:</b></p><p>Allison Strasius: 212.301.3534 or <u><a href=\"mailto:Allison.Strasius@FOX.com\" target=\"_blank\" rel=\"nofollow\">Allison.Strasius@FOX.com</a></u></p><p>Lindsey Burstiner: 212.301.3294 or <u><a href=\"mailto:Lindsey.Burstiner@FOX.com\" target=\"_blank\" rel=\"nofollow\">Lindsey.Burstiner@FOX.com</a></u></p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY40357&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fox-news-media-to-present-special-multiplatform-programming-commemorating-the-25th-anniversary-of-september-11th-302869180.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fox-news-media-to-present-special-multiplatform-programming-commemorating-the-25th-anniversary-of-september-11th-302869180.html</a></p><p>SOURCE Fox News Network, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY40357&amp;Transmission_Id=202609031150PR_NEWS_USPR_____NY40357&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Fox News Network, LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "television"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "television"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 4,
+          "television": 7,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "summary:broadcasting",
+            "summary:morning show",
+            "industry:RAD"
+          ],
+          "television": [
+            "fox news",
+            "industry:TVN"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:01.794Z"
     }
   ]
 }

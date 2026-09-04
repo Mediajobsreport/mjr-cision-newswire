@@ -1,9 +1,186 @@
 {
-  "generated_at": "2026-09-04T18:16:37.778Z",
+  "generated_at": "2026-09-04T18:24:47.829Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "podcast",
   "page_url": "https://www.mediajobsreport.com/podcast_news",
-  "count": 0,
-  "releases": []
+  "count": 2,
+  "releases": [
+    {
+      "company": [
+        "Blubrry Podcasting"
+      ],
+      "date": "20260902T120000+0000",
+      "dateline": "COOPERSVILLE, Mich., Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "MCH",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "RAD",
+        "MLM",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Blubrry Podcasting, leading podcast provider.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411&p=publish"
+        }
+      ],
+      "release_id": "20260902NY38710",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "LIC"
+      ],
+      "summary": "<p><b><span>Blubrry Publisher customers can upload one video episode and make it available to watch or listen through a single podcast feed</span></b></p><p><span class=\"legendSpanClass\">COOPERSVILLE, Mich.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1956595667&amp;u=https%3A%2F%2Fwww.blubrry.com%2F&amp;a=Blubrry+Podcasting\" target=\"_blank\" rel=\"nofollow\">Blubrry Podcasting</a> today announced that it now works with Apple Podcasts to integrate HTTP Live Streaming (HLS) video into shows published through Blubrry Publisher.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411\" title=\"Blubrry Podcasting, leading podcast provider.\" alt=\"Blubrry Podcasting, leading podcast provider.\"></img>\n                </p>\n    </div>\n<p>The new workflow allows Blubrry hosting customers to upload one MP4 video episode and make it available in video and audio formats through a single RSS feed. Blubrry automatically creates an HLS video version for Apple Podcasts, retains the original video file and generates an MP3 audio version for podcast apps that do not support HLS video.</p>",
+      "ticker": [],
+      "title": "Blubrry Brings Unified Video and Audio Podcast Publishing to Apple Podcasts",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902NY38710",
+      "body": "\n<p><b><span>Blubrry Publisher customers can upload one video episode and make it available to watch or listen through a single podcast feed</span></b></p><p><span class=\"legendSpanClass\">COOPERSVILLE, Mich.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1956595667&amp;u=https%3A%2F%2Fwww.blubrry.com%2F&amp;a=Blubrry+Podcasting\" target=\"_blank\" rel=\"nofollow\">Blubrry Podcasting</a> today announced that it now works with Apple Podcasts to integrate HTTP Live Streaming (HLS) video into shows published through Blubrry Publisher.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411\" title=\"Blubrry Podcasting, leading podcast provider.\" alt=\"Blubrry Podcasting, leading podcast provider.\"></img>\n                </p>\n    </div>\n<p>The new workflow allows Blubrry hosting customers to upload one MP4 video episode and make it available in video and audio formats through a single RSS feed. Blubrry automatically creates an HLS video version for Apple Podcasts, retains the original video file and generates an MP3 audio version for podcast apps that do not support HLS video.</p><p>For creators, this means one upload, one episode and one feed to manage. For audiences using Apple Podcasts, it provides the flexibility to watch or listen and switch between audio and video with a tap.</p><p>\"Video podcasting should give creators more ways to share their work without requiring a separate publishing process,\" said Barry Kantz, CEO at Blubrry Podcasting. \"Blubrry Publisher customers can upload one video episode, continue managing one podcast feed and give their audience the choice to watch or listen.\"</p><p>A More Flexible Experience on Apple Podcasts</p><p>Video on Apple Podcasts uses HTTP Live Streaming video. HLS video divides an episode into smaller segments and prepares it at multiple quality levels.</p><p>As someone watches, Apple Podcasts can adjust the video quality based on the strength of their Wi-Fi or cellular connection. This adaptive delivery can help video begin playing faster and continue with fewer buffering interruptions as connection conditions change.</p><p>Because video and audio are connected to the same episode, audiences can switch between audio and video with a tap without searching for another version of the show.</p><p>One Upload, Three Available Formats</p><p>When a Blubrry Publisher customer uploads an MP4 video episode, Blubrry automatically prepares:</p><ul type=\"disc\"><li>An HLS video version for Apple Podcasts</li><li>The original uploaded video file</li><li>An MP3 audio version for audio-focused podcast apps</li></ul><p>All three formats are included within the same RSS feed.</p><p>Apple Podcasts uses the HLS video version. Other podcast apps can use the HLS video, original video file or MP3 audio enclosure based on the formats they support.</p><p>This removes the need to upload separate audio and video episodes or maintain parallel feeds for the same show.</p><p>Available Through Blubrry Publisher</p><p>After connecting Apple Podcasts Connect to Blubrry, customers can publish video episodes through their existing Blubrry Publisher workflow.</p><p>Blubrry automatically prepares the uploaded video as a 1080p Full HD HLS video version and creates an MP3 audio version. Some processing time is required before the episode becomes available to watch on Apple Podcasts.</p><p>The feature is currently available to Blubrry hosting customers using <b>Blubrry Publisher</b>. It is not available for shows published through the <b>PowerPress podcasting plugin</b> at this time.</p><p>PowerPress customers can continue using their current WordPress publishing workflow without making any changes.</p><p>To get started, customers must generate an API key through Apple Podcasts Connect and upload the key file within their Blubrry dashboard.</p><p>Customers can learn more at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=163464348&amp;u=https%3A%2F%2Fblubrry.com%2Fsupport%2Fmedia-hosting-documentation%2Fhow-to-set-up-hls-video-podcasting-with-blubrry%2Fhls-at-apple-podcasts%2F&amp;a=%C2%A0HLS+at+Blubrry\" target=\"_blank\" rel=\"nofollow\"> HLS at Blubrry</a> or follow the setup instructions in<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1440174248&amp;u=https%3A%2F%2Fblubrry.com%2Fsupport%2Fmedia-hosting-documentation%2Fhow-to-set-up-hls-video-podcasting-with-blubrry%2F&amp;a=%C2%A0Blubrry%27s+documentation\" target=\"_blank\" rel=\"nofollow\"> Blubrry's documentation</a>.</p><p>About Blubrry Podcasting</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1956595667&amp;u=https%3A%2F%2Fwww.blubrry.com%2F&amp;a=Blubrry+Podcasting\" target=\"_blank\" rel=\"nofollow\">Blubrry Podcasting</a> provides podcast hosting, publishing, audience statistics, monetization and distribution tools for audio and video creators. Its services include Blubrry Publisher, the PowerPress podcasting plugin for WordPress, IAB-certified podcast statistics, podcast websites and tools for independent creators, businesses and podcast networks.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY38710&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/blubrry-brings-unified-video-and-audio-podcast-publishing-to-apple-podcasts-302867040.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/blubrry-brings-unified-video-and-audio-podcast-publishing-to-apple-podcasts-302867040.html</a></p><p>SOURCE Blubrry Podcasting</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY38710&amp;Transmission_Id=202609020800PR_NEWS_USPR_____NY38710&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Blubrry Podcasting",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 8,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "podcasts",
+            "podcasting",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:07.838Z"
+    },
+    {
+      "company": [
+        "Leucan"
+      ],
+      "date": "20260901T120000+0000",
+      "dateline": "MONTRÉAL, Sept. 1, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "QUE",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "RAD",
+        "HEA"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "L'Accolade, Leucan's new French-language podcast",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979045/Leucan-Marie-Mai-hosts-L-Accolade-Leucan-s-new-podcast.jpg?id=OA2921962&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1979045/Leucan-Marie-Mai-hosts-L-Accolade-Leucan-s-new-podcast.jpg?id=OA2921962&p=publish"
+        },
+        {
+          "caption": "Marie-Mai (host of L'Accolade) with Juli Meilleur, Leucan’s executive director",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979048/Leucan-Marie-Mai-hosts-L-Accolade-Leucan-s-new-podcast.jpg?id=OA2921967&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1979048/Leucan-Marie-Mai-hosts-L-Accolade-Leucan-s-new-podcast.jpg?id=OA2921967&p=publish"
+        }
+      ],
+      "release_id": "20260901C3641",
+      "status": "PUBLISHED",
+      "subject": [
+        "CHI"
+      ],
+      "summary": "<p class=\"prntac\">A platform for families to share their experiences with pediatric cancer</p><p><span class=\"legendSpanClass\">MONTRÉAL</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /CNW/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=2320461572&amp;u=https%3A%2F%2Fwww.leucan.qc.ca%2Fen%2F&amp;a=Leucan\" target=\"_blank\" rel=\"nofollow\">Leucan</a> and Marie-Mai are proud to announce the launch of <i>L'Accolade</i>, Leucan's new French-language podcast. The four-episode series features conversations with adolescents, young adults and parents about their experiences with pediatric cancer. All four episodes of <i>L'Accolade</i> are now available in French on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=3907389423&amp;u=http%3A%2F%2Fwww.leucan.qc.ca%2Fen%2Fnews%2Fleucan-podcast&amp;a=Leucan%27s+website\" target=\"_blank\" rel=\"nofollow\">Leucan's website</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=3305289031&amp;u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLaQyG1VtenfA&amp;a=YouTube+channel\" target=\"_blank\" rel=\"nofollow\">YouTube channel</a>, as well as on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=100860730&amp;u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F1PwML6FGetSKeQmsdTQ1qH&amp;a=Spotify\" target=\"_blank\" rel=\"nofollow\">Spotify</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=562523946&amp;u=https%3A%2F%2Fpodcasts.apple.com%2Fca%2Fpodcast%2Flaccolade%2Fid6807076018&amp;a=Apple+Podcasts\" target=\"_blank\" rel=\"nofollow\">Apple Podcasts</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979045/Leucan-Marie-Mai-hosts-L-Accolade-Leucan-s-new-podcast.jpg?id=OA2921962\" title=\"L'Accolade, Leucan's new French-language podcast\" alt=\"L'Accolade, Leucan's new French-language podcast\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Marie-Mai hosts L'Accolade, Leucan's new podcast",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901C3641",
+      "body": "\n<p class=\"prntac\">A platform for families to share their experiences with pediatric cancer</p><p><span class=\"legendSpanClass\">MONTRÉAL</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /CNW/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=2320461572&amp;u=https%3A%2F%2Fwww.leucan.qc.ca%2Fen%2F&amp;a=Leucan\" target=\"_blank\" rel=\"nofollow\">Leucan</a> and Marie-Mai are proud to announce the launch of <i>L'Accolade</i>, Leucan's new French-language podcast. The four-episode series features conversations with adolescents, young adults and parents about their experiences with pediatric cancer. All four episodes of <i>L'Accolade</i> are now available in French on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=3907389423&amp;u=http%3A%2F%2Fwww.leucan.qc.ca%2Fen%2Fnews%2Fleucan-podcast&amp;a=Leucan%27s+website\" target=\"_blank\" rel=\"nofollow\">Leucan's website</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=3305289031&amp;u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLaQyG1VtenfA&amp;a=YouTube+channel\" target=\"_blank\" rel=\"nofollow\">YouTube channel</a>, as well as on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=100860730&amp;u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F1PwML6FGetSKeQmsdTQ1qH&amp;a=Spotify\" target=\"_blank\" rel=\"nofollow\">Spotify</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=562523946&amp;u=https%3A%2F%2Fpodcasts.apple.com%2Fca%2Fpodcast%2Flaccolade%2Fid6807076018&amp;a=Apple+Podcasts\" target=\"_blank\" rel=\"nofollow\">Apple Podcasts</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979045/Leucan-Marie-Mai-hosts-L-Accolade-Leucan-s-new-podcast.jpg?id=OA2921962\" title=\"L'Accolade, Leucan's new French-language podcast\" alt=\"L'Accolade, Leucan's new French-language podcast\"></img>\n                </p>\n    </div>\n<p>Marie-Mai, Leucan's spokesperson since 2016, hosts each hour-long episode. The launch coincides with the beginning of Childhood Cancer Awareness Month, observed each September.</p><p><i>L'Accolade</i> addresses the wide-ranging impacts of pediatric cancer, including psychosocial needs, financial insecurity, clinical research, self-esteem, resilience, and the loss of a child.</p><p>\"<i>As Leucan's spokesperson for the past 10 years, I have had the privilege of meeting many families, and every encounter has stayed with me in a different way</i>,\" says Marie-Mai. \"<i>I wanted to deepen my commitment through a project that would allow me to listen--to understand how pediatric cancer can change a family and a life. Despite the seriousness of the issues discussed, what has struck me most is the remarkable strength and spirit of these families. Beyond the lasting effects of illness, I wanted their voices to be heard</i>.\"</p><p><b>A resource for families affected by pediatric cancer</b></p><p>The title<i> L'Accolade</i>, French for \"the embrace,\" reflects Leucan's commitment to supporting families without judgment at every stage of their journey.</p><p>Juli Meilleur, Leucan's executive director, is featured in one episode. As the mother of a child who has recovered from three cancers, she brings both professional and personal perspectives to the conversation.</p><p>\"<i>Pediatric cancer is often discussed through statistics or fundraising campaigns. With this podcast, we are giving a face and a voice to the realities we encounter every day at Leucan</i>,\" says Meilleur. \"<i>I also take part as a Leucan parent. From the moment a diagnosis is announced, families often need to hear from others who have been through a similar journey. That is the space we have created with this podcast</i>.\"</p><p><b>Four episodes, four inspiring stories</b></p><ul type=\"disc\"><li><b>Episode 1:</b> Turning adversity into a mission, with Juli Meilleur</li><li><b>Episode 2:</b> Cancer, blindness and a new country: rebuilding as a teenager, with Anoushka</li><li><b>Episode 3:</b> Research, resilience and laughter, with Véronic</li><li><b>Episode 4:</b> Facing the unimaginable: the loss of a child, with Sabrina-Claudia</li></ul><p><b>About Leucan</b></p><p>For more than 48 years, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=2320461572&amp;u=https%3A%2F%2Fwww.leucan.qc.ca%2Fen%2F&amp;a=Leucan\" target=\"_blank\" rel=\"nofollow\">Leucan</a> has supported children with cancer and their families from the time of diagnosis and throughout every stage of the illness. Through a qualified team with recognized expertise in pediatric cancer, the Association provides specialized, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=1285478268&amp;u=https%3A%2F%2Fwww.leucan.qc.ca%2Fen%2Ffamily-services%2F&amp;a=tailored+services\" target=\"_blank\" rel=\"nofollow\">tailored services</a> to hundreds of families and thousands of members across Quebec.</p><p>Leucan also funds <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=1597936279&amp;u=https%3A%2F%2Fwww.leucan.qc.ca%2Fen%2Fget-involved%2Fimpact%2Ffight-cancer-and-improve-treatments%2F&amp;a=clinical+research\" target=\"_blank\" rel=\"nofollow\">clinical research</a> and operates the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764474-1&amp;h=496877354&amp;u=https%3A%2F%2Fwww.leucan.qc.ca%2Fen%2Ffamily-services%2Finformation-on-childhood-cancer%2F&amp;a=Leucan+Information+Centre\" target=\"_blank\" rel=\"nofollow\">Leucan Information Centre</a>, helping families access reliable information and support throughout their child's cancer journey. With seven offices across the province, Leucan is there for families throughout Quebec.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979048/Leucan-Marie-Mai-hosts-L-Accolade-Leucan-s-new-podcast.jpg?id=OA2921967\" title=\"Marie-Mai (host of L'Accolade) with Juli Meilleur, Leucan’s executive director\" alt=\"Marie-Mai (host of L'Accolade) with Juli Meilleur, Leucan’s executive director\"></img>\n                </p>\n</div>\n\n\n\n<p>SOURCE Leucan</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C3641&amp;Transmission_Id=202609010800CANADANWCANADAPR_C3641&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Leucan",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 5,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "summary:youtube channel"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "summary:podcasts",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:25:13.004Z"
+    }
+  ]
 }
