@@ -1,6 +1,6 @@
 import { join } from "node:path";
 import {
-  BACKFILL_HOURS, CODES_FILE, FEED_NAMES, GEOGRAPHY, LANGUAGE, LIST_FIELDS, PAGE_URLS,
+  BACKFILL_HOURS, CODES_FILE, FEED_NAMES, FORCE_BACKFILL, GEOGRAPHY, LANGUAGE, LIST_FIELDS, PAGE_URLS,
   OUTPUT_DIR, OVERLAP_MINUTES, RETENTION_DAYS, STATE_FILE
 } from "./config.js";
 import { CisionClient, formatCisionDate, parseCisionDate } from "./cision-client.js";
@@ -16,7 +16,7 @@ const existingMaster = await readJson(join(OUTPUT_DIR, "master.json"), { release
 const master = new Map(existingMaster.releases.map((release) => [release.release_id, release]));
 
 const fallbackStart = new Date(now.getTime() - boundedBackfillHours() * 60 * 60_000);
-const previousPoll = state.last_successful_poll ? new Date(state.last_successful_poll) : fallbackStart;
+const previousPoll = !FORCE_BACKFILL && state.last_successful_poll ? new Date(state.last_successful_poll) : fallbackStart;
 const start = new Date(Math.max(
   now.getTime() - 365 * 24 * 60 * 60_000,
   previousPoll.getTime() - OVERLAP_MINUTES * 60_000
@@ -66,13 +66,30 @@ for (const summary of summaries) {
   });
 }
 
+// Reapply current rules to retained releases so classifier updates do not
+// leave stale categories in the feeds.
+for (const [id, release] of master) {
+  const classification = classifyRelease(release, codeMaps);
+  if (!classification.categories.length && !classification.review) {
+    master.delete(id);
+    continue;
+  }
+  master.set(id, {
+    ...release,
+    mjr_categories: classification.categories,
+    mjr_review: classification.review,
+    mjr_classification: classification
+  });
+}
+
 const cutoff = now.getTime() - RETENTION_DAYS * 24 * 60 * 60_000;
 for (const [id, release] of master) {
   const releaseDate = parseCisionDate(release.date)?.getTime();
   if (releaseDate && releaseDate < cutoff) master.delete(id);
 }
 
-const releases = [...master.values()].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+const releases = deduplicateReleases([...master.values()])
+  .sort((a, b) => String(b.date).localeCompare(String(a.date)));
 await writeOutputs(releases, now);
 await writeJsonAtomic(STATE_FILE, {
   version: 1,
@@ -134,4 +151,21 @@ async function writeOutputs(all, generatedAt) {
 function boundedBackfillHours() {
   if (!Number.isFinite(BACKFILL_HOURS)) return 24;
   return Math.min(8760, Math.max(1, BACKFILL_HOURS));
+}
+
+function deduplicateReleases(releases) {
+  const unique = new Map();
+  for (const release of releases) {
+    const title = String(release.title || "")
+      .toLowerCase()
+      .replace(/&amp;/g, "&")
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim();
+    if (!title) continue;
+    const existing = unique.get(title);
+    if (!existing || String(release.date || "") > String(existing.date || "")) {
+      unique.set(title, release);
+    }
+  }
+  return [...unique.values()];
 }

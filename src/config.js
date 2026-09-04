@@ -7,6 +7,7 @@ export const CODES_FILE = process.env.CISION_CODES_FILE || "data/cision-codes.js
 export const PAGE_SIZE = 100;
 export const OVERLAP_MINUTES = Number(process.env.CISION_OVERLAP_MINUTES || 10);
 export const BACKFILL_HOURS = Number(process.env.CISION_BACKFILL_HOURS || 24);
+export const FORCE_BACKFILL = process.env.CISION_FORCE_BACKFILL === "true";
 export const RETENTION_DAYS = Number(process.env.CISION_RETENTION_DAYS || 45);
 export const GEOGRAPHY = process.env.CISION_GEOGRAPHY || "USA|CAN";
 export const LANGUAGE = process.env.CISION_LANGUAGE || "en";

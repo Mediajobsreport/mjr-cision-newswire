@@ -7,7 +7,7 @@ const CATEGORY_RULES = {
       "video advertising", "connected tv advertising", "advertising sales", "ad sales",
       "sponsorship sales", "marketing agency", "brand marketing", "audience measurement"
     ],
-    weak: ["advertising", "advertiser", "marketing", "sponsorship", "media sales", "campaign"]
+    weak: ["advertising", "advertiser", "marketing", "sponsorship", "media sales"]
   },
   digital: {
     strong: [
@@ -15,7 +15,7 @@ const CATEGORY_RULES = {
       "social media platform", "creator economy", "content creator platform", "web content",
       "digital news", "digital audience", "mobile media", "youtube channel", "tiktok creator"
     ],
-    weak: ["digital", "social media", "online audience", "creator", "web platform"]
+    weak: ["social media", "online audience", "content creator", "web publisher"]
   },
   engineering: {
     strong: [
@@ -25,16 +25,18 @@ const CATEGORY_RULES = {
       "camera system", "video codec", "cloud production", "remote production", "atsc 3.0",
       "nextgen tv", "studio technology", "media infrastructure", "playout system"
     ],
-    weak: ["engineering", "broadcast system", "audio technology", "video technology", "technical operations"]
+    weak: ["broadcast system", "audio technology", "video technology", "technical operations"]
   },
   entertainment: {
     strong: [
       "entertainment industry", "entertainment company", "film studio", "movie studio",
       "motion picture", "film production", "television production company", "production company",
       "talent agency", "talent management", "theatrical release", "box office", "live entertainment",
-      "entertainment programming", "unscripted series", "scripted series"
+      "entertainment programming", "unscripted series", "scripted series", "music industry",
+      "reality series", "film festival", "movie theater", "record label", "music publisher",
+      "music publishing", "recording artist"
     ],
-    weak: ["entertainment", "film", "movie", "television series", "actor", "actress", "producer"]
+    weak: ["entertainment", "film", "movie", "television series", "actor", "actress", "producer", "music", "album"]
   },
   management: {
     strong: [
@@ -60,8 +62,9 @@ const CATEGORY_RULES = {
     strong: [
       "television station", "television stations", "broadcast television", "local television",
       "tv station", "tv stations", "television network", "tv network", "local tv",
+      "reality series", "emmy awards", "primetime emmy",
       "gray media", "sinclair broadcast", "nexstar media", "tegna", "hearst television",
-      "scripps", "fox television stations", "paramount television", "cbs stations",
+      "scripps", "fox news", "fox television stations", "paramount television", "cbs stations",
       "nbc-owned stations", "abc owned television stations", "pbs station"
     ],
     weak: ["television", "newscast", "news anchor", "meteorologist", "tv news", "broadcast news"]
@@ -75,33 +78,33 @@ const CATEGORY_RULES = {
   },
   tradeshow: {
     strong: [
-      "trade show", "tradeshow", "industry exhibition", "exhibitor booth", "exhibition hall",
-      "nab show", "nab show new york", "ibc show", "international broadcasting convention",
-      "consumer electronics show", "ces 202", "smpte media technology summit",
+      "trade show", "tradeshow", "nab show", "nab show new york", "ibc show",
+      "international broadcasting convention", "smpte media technology summit",
       "radio show convention", "broadcastasia", "infocomm"
     ],
     weak: ["conference", "convention", "exhibitor", "expo", "summit", "show floor"]
   }
 };
 
-const INDUSTRY_HINTS = {
-  advertising: ["advertising", "marketing"],
-  digital: ["digital media", "internet media"],
-  engineering: ["broadcast equipment", "communications equipment", "media technology"],
-  entertainment: ["entertainment", "motion pictures", "film"],
-  management: [],
-  radio: ["radio", "satellite radio"],
-  television: ["television", "broadcasting"],
-  podcast: ["podcast"],
-  tradeshow: ["trade show", "exhibition"]
+const INDUSTRY_CODES = {
+  advertising: new Set(["ADV"]),
+  digital: new Set(["MLM", "PUB", "SMD"]),
+  engineering: new Set(["BRD"]),
+  entertainment: new Set(["ENT", "FLM", "MUS"]),
+  radio: new Set(["RAD"]),
+  television: new Set(["TVN"]),
+  podcast: new Set(["RAD"]),
+  tradeshow: new Set([])
 };
 
+const MEDIA_CODES = new Set(["ADV", "BRD", "ENT", "FLM", "MLM", "MUS", "PUB", "RAD", "SMD", "TVN"]);
+
 const NEWS_SIGNALS = [
-  "appoint", "named", "names", "promot", "joins", "hired", "launch", "debut",
+  "appoint", "named", "names", "promot", "joins", "hired", "launch", "introduc", "debut",
   "acquir", "merger", "partner", "expand", "renew", "syndicat", "programming",
   "ratings", "audience", "layoff", "restructur", "agreement", "distribution",
-  "broadcast", "coverage", "executive", "president", "vice president", "general manager",
-  "news director", "format", "fcc", "license", "station"
+  "broadcast", "coverage", "parts ways", "lawsuit", "executive", "president",
+  "vice president", "general manager", "news director", "format", "fcc", "license", "station"
 ];
 
 const EXCLUSIONS = [
@@ -109,15 +112,19 @@ const EXCLUSIONS = [
   "limited-time discount", "grand opening sale", "consumer survey giveaway"
 ];
 
-export function classifyRelease(release, codeMaps = {}) {
-  const text = normalizedText(release);
-  const industryNames = (release.industry || [])
-    .map((code) => codeMaps.industry?.[code])
-    .filter(Boolean)
-    .join(" ")
-    .toLowerCase();
-  const newsScore = NEWS_SIGNALS.reduce((sum, term) => sum + (text.includes(term) ? 1 : 0), 0);
-  const excluded = EXCLUSIONS.some((term) => text.includes(term));
+const CORPORATE_NOISE = [
+  "shareholder alert", "investor alert", "securities fraud", "class action lawsuit",
+  "opportunity to lead", "earnings release and conference call", "financial results",
+  "to present at the", "to speak at the", "investor conference", "investor events"
+];
+
+export function classifyRelease(release) {
+  const primary = normalizedPrimaryText(release);
+  const summary = normalize(release.summary || "");
+  const codes = new Set(Array.isArray(release.industry) ? release.industry : []);
+  const newsScore = NEWS_SIGNALS.reduce((sum, term) => sum + (primary.includes(term) ? 1 : 0), 0);
+  const hardExcluded = EXCLUSIONS.some((term) => `${primary} ${summary}`.includes(term));
+  const corporateNoise = CORPORATE_NOISE.some((term) => primary.includes(term));
   const scores = {};
   const reasons = {};
 
@@ -125,36 +132,58 @@ export function classifyRelease(release, codeMaps = {}) {
     let score = 0;
     const matches = [];
     for (const term of rules.strong) {
-      if (text.includes(term)) {
-        score += 4;
+      if (primary.includes(term)) {
+        score += 5;
         matches.push(term);
+      } else if (summary.includes(term)) {
+        score += 2;
+        matches.push(`summary:${term}`);
       }
     }
     for (const term of rules.weak) {
-      if (text.includes(term)) {
-        score += 1;
+      if (primary.includes(term)) {
+        score += 2;
         matches.push(term);
+      } else if (summary.includes(term)) {
+        score += 1;
+        matches.push(`summary:${term}`);
       }
     }
-    for (const hint of INDUSTRY_HINTS[category] || []) {
-      if (industryNames.includes(hint)) {
-        score += 3;
-        matches.push(`industry:${hint}`);
+    for (const code of INDUSTRY_CODES[category] || []) {
+      if (codes.has(code)) {
+        score += 2;
+        matches.push(`industry:${code}`);
       }
     }
     scores[category] = score;
     reasons[category] = [...new Set(matches)].slice(0, 8);
   }
 
-  const categories = Object.keys(scores).filter((category) => {
-    if (excluded) return false;
-    return scores[category] >= 4 && (newsScore > 0 || scores[category] >= 8);
-  });
-  const bestScore = Math.max(0, ...Object.values(scores));
-  const review = !excluded && categories.length === 0 && bestScore >= 1 && newsScore > 0;
+  const explicitMedia = explicitMediaSignal(primary);
+  const mediaIndustry = [...codes].some((code) => MEDIA_CODES.has(code));
+  const excluded = hardExcluded || (corporateNoise && !explicitMedia);
+  const categories = [];
+
+  if (!excluded) {
+    if (scores.advertising >= 4 && (primaryAdvertisingSignal(primary) || (codes.has("ADV") && newsScore > 0))) categories.push("advertising");
+    if (scores.digital >= 5 && (primaryDigitalSignal(primary) || explicitMedia)) categories.push("digital");
+    if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
+    if (scores.entertainment >= 5 && primaryEntertainmentSignal(primary) && !nonMediaEventPromoter(primary)) categories.push("entertainment");
+    if (scores.radio >= 5 && primaryRadioSignal(primary)) categories.push("radio");
+    if (scores.television >= 5 && primaryTelevisionSignal(primary)) categories.push("television");
+    if (scores.podcast >= 5 && primaryPodcastSignal(primary)) categories.push("podcast");
+    if (scores.tradeshow >= 5 || (scores.tradeshow >= 2 && (primaryEngineeringSignal(primary) || primaryRadioSignal(primary) || primaryTelevisionSignal(primary)))) categories.push("tradeshow");
+
+    const hasManagementEvent = scores.management >= 4 && newsScore > 0;
+    const classifiedMediaStory = categories.some((category) => category !== "management" && category !== "tradeshow");
+    if (hasManagementEvent && (explicitMedia || classifiedMediaStory || (mediaIndustry && mediaTerm(primary)))) categories.push("management");
+  }
+
+  const review = !excluded && categories.length === 0 && newsScore > 0 &&
+    (explicitMedia || (mediaIndustry && mediaTerm(primary)));
 
   return {
-    categories,
+    categories: [...new Set(categories)],
     review,
     scores,
     reasons: Object.fromEntries(Object.entries(reasons).filter(([, value]) => value.length)),
@@ -163,14 +192,55 @@ export function classifyRelease(release, codeMaps = {}) {
   };
 }
 
-function normalizedText(release) {
+function normalizedPrimaryText(release) {
   const company = Array.isArray(release.company) ? release.company.join(" ") : release.company || "";
   const subtitle = Array.isArray(release.sub_title) ? release.sub_title.join(" ") : release.sub_title || "";
-  // Deliberately exclude the full body. Corporate boilerplate often lists a
-  // company's unrelated radio, TV, streaming and podcast holdings, which can
-  // place an otherwise specific release into several incorrect feeds.
-  return `${release.title || ""} ${release.summary || ""} ${subtitle} ${company} ${release.source_company || ""} ${release.dateline || ""}`
-    .toLowerCase()
-    .replace(/&amp;/g, "&")
-    .replace(/\s+/g, " ");
+  return normalize(`${release.title || ""} ${subtitle} ${company} ${release.source_company || ""}`);
+}
+
+function normalize(value) {
+  return String(value).toLowerCase().replace(/&amp;/g, "&").replace(/\s+/g, " ");
+}
+
+function mediaTerm(text) {
+  return /\b(media|broadcast\w*|radio|television|podcast\w*|advertis\w*|publisher|publishing|film|movie|music|newsroom|newscast)\b/i.test(text);
+}
+
+function explicitMediaSignal(text) {
+  return primaryRadioSignal(text) || primaryTelevisionSignal(text) || primaryPodcastSignal(text) ||
+    primaryAdvertisingSignal(text) || primaryDigitalSignal(text) || primaryEngineeringSignal(text) ||
+    primaryEntertainmentSignal(text);
+}
+
+function primaryAdvertisingSignal(text) {
+  return /advertising|advertiser|adtech|media buying|media agency|\bmarketing\b|audience measurement|ad sales/i.test(text);
+}
+
+function primaryDigitalSignal(text) {
+  return /digital media|digital content|digital publisher|online publisher|social media|creator economy|web content|digital news/i.test(text);
+}
+
+function primaryEngineeringSignal(text) {
+  return /broadcast (engineering|engineer|technology|equipment|automation|system)|media (technology|workflow|infrastructure)|transmitter|master control|production switcher|playout|atsc 3\.0|nextgen tv/i.test(text);
+}
+
+function primaryEntertainmentSignal(text) {
+  return /entertainment|film|movie|motion picture|television (production|series)|reality series|emmy|actor|actress|producer|music|album|record label|recording artist|box office/i.test(text);
+}
+
+function primaryRadioSignal(text) {
+  return /\bradio\b|iheartradio|audacy|cumulus media|townsquare media|urban one|radio one|beasley media|hubbard radio|salem media|k-love|air1|siriusxm/i.test(text);
+}
+
+function primaryTelevisionSignal(text) {
+  return /\btelevision\b|\btv\b|newscast|news anchor|reality series|emmy|fox news|gray media|sinclair broadcast|nexstar media|tegna|hearst television|cbs stations|pbs station/i.test(text);
+}
+
+function primaryPodcastSignal(text) {
+  return /\bpodcasts?\b|\bpodcasting\b|\bpodcaster\b/i.test(text);
+}
+
+function nonMediaEventPromoter(text) {
+  return /\b(hotel|resort|restaurant|casino|airline|bank|healthcare system)\b/i.test(text) &&
+    !/production company|film studio|movie studio|television network|record label/i.test(text);
 }
