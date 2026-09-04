@@ -63,7 +63,7 @@ const CATEGORY_RULES = {
     strong: [
       "television station", "television stations", "broadcast television", "local television",
       "tv station", "tv stations", "television network", "tv network", "local tv", "broadcast partnership",
-      "reality series", "emmy awards", "primetime emmy",
+      "reality series",
       "gray media", "sinclair broadcast", "nexstar media", "tegna", "hearst television",
       "scripps", "fox news", "fox television stations", "paramount television", "cbs stations",
       "nbc-owned stations", "abc owned television stations", "pbs station"
@@ -104,7 +104,7 @@ const NEWS_SIGNALS = [
   "appoint", "named", "names", "promot", "joins", "hired", "launch", "introduc", "debut",
   "acquir", "merger", "partner", "expand", "renew", "syndicat", "programming",
   "ratings", "audience", "layoff", "restructur", "agreement", "distribution",
-  "broadcast", "coverage", "parts ways", "lawsuit", "executive", "president",
+  "broadcast", "coverage", "reaches", "parts ways", "lawsuit", "executive", "president",
   "vice president", "general manager", "news director", "format", "fcc", "license", "station"
 ];
 
@@ -117,7 +117,8 @@ const CORPORATE_NOISE = [
   "shareholder alert", "investor alert", "securities fraud", "class action lawsuit",
   "opportunity to lead", "earnings release and conference call", "financial results",
   "to present at the", "to speak at the", "investor conference", "investor events",
-  "to participate in citi", "to participate in investor", "notes offering", "credit facility",
+  "to participate in citi", "to participate in investor", "to participate in goldman sachs",
+  "notes offering", "credit facility", "laminating film", "polyimide film",
   "quarterly results", "quarter results"
 ];
 
@@ -173,9 +174,11 @@ export function classifyRelease(release) {
     if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
     if (scores.entertainment >= 5 && primaryEntertainmentSignal(primary) && !nonMediaEventPromoter(primary)) categories.push("entertainment");
     if (scores.radio >= 5 && primaryRadioSignal(primary)) categories.push("radio");
-    if ((scores.television >= 4 || (codes.has("TVN") && scores.television >= 2)) && primaryTelevisionSignal(primary) && !nonMediaEventPromoter(primary)) categories.push("television");
+    if ((scores.television >= 4 || (codes.has("TVN") && scores.television >= 2)) &&
+        primaryTelevisionSignal(primary) && newsScore > 0 &&
+        !nonMediaEventPromoter(primary) && !consumerTelevisionProduct(primary)) categories.push("television");
     if (scores.podcast >= 4 && primaryPodcastSignal(primary)) categories.push("podcast");
-    if (namedMediaShow(primary) || (scores.tradeshow >= 2 && mediaIndustry && explicitMedia)) categories.push("tradeshow");
+    if (namedMediaShow(`${primary} ${summary}`)) categories.push("tradeshow");
 
     const hasManagementEvent = scores.management >= 4 && newsScore > 0;
     const classifiedMediaStory = categories.some((category) => category !== "management" && category !== "tradeshow");
@@ -236,7 +239,7 @@ function primaryRadioSignal(text) {
 }
 
 function primaryTelevisionSignal(text) {
-  return /\btelevision\b|\btv\b|broadcast partnership|newscast|news anchor|reality series|emmy|fox news|gray media|sinclair broadcast|nexstar media|tegna|hearst television|cbs stations|pbs station/i.test(text);
+  return /\btelevision\b|\btv\b|broadcast partnership|newscast|news anchor|reality series|fox news|gray media|sinclair broadcast|nexstar media|tegna|hearst television|cbs stations|pbs station/i.test(text);
 }
 
 function primaryPodcastSignal(text) {
@@ -249,5 +252,9 @@ function nonMediaEventPromoter(text) {
 }
 
 function namedMediaShow(text) {
-  return /\bnab show\b|\bibc ?20\d{2}\b|\bibc show\b|international broadcasting convention|smpte|broadcastasia|infocomm/i.test(text);
+  return /\bnab show\b|\bibc ?20\d{2}\b|\bibc show\b|international broadcasting convention|smpte|broadcastasia|infocomm|video everywhere summit/i.test(text);
+}
+
+function consumerTelevisionProduct(text) {
+  return /art tv|ai tv experience|tv lineup|television set|qd-mini|mini led|canvas art|tv-quality/i.test(text);
 }
