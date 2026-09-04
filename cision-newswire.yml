@@ -1,0 +1,49 @@
+name: Update Cision Newswire Feeds
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      backfill_hours:
+        description: "Hours to retrieve when manually backfilling (maximum 8760)"
+        required: false
+        default: "24"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cision-newswire-importer
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      CISION_LOGIN: ${{ secrets.CISION_LOGIN }}
+      CISION_PASSWORD: ${{ secrets.CISION_PASSWORD }}
+      CISION_BACKFILL_HOURS: ${{ inputs.backfill_hours || '24' }}
+      CISION_GEOGRAPHY: USA|CAN
+      CISION_LANGUAGE: en
+      CISION_RETENTION_DAYS: "45"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Import releases
+        run: npm start
+      - name: Commit updated feeds
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "No feed changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Cision newswire feeds"
+          git pull --rebase
+          git push
