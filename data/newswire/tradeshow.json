@@ -1,156 +1,252 @@
 {
-  "generated_at": "2026-09-04T18:24:47.829Z",
+  "generated_at": "2026-09-04T18:32:45.387Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "tradeshow",
   "page_url": "https://www.mediajobsreport.com/tradeshow_news",
-  "count": 2,
+  "count": 10,
   "releases": [
     {
       "company": [
-        "Association of Professional Rental Organizations (APRO)"
+        "Eluvio, Inc."
       ],
-      "date": "20260902T130000+0000",
-      "dateline": "AUSTIN, Texas, Sept. 2, 2026",
+      "date": "20260903T040200+0000",
+      "dateline": "BERKELEY, Calif., Sept. 3, 2026",
       "feed": [
+        "APPLE_NEWS",
         "PRNUS_NO_ELD",
         "prncom_prnj",
-        "PRNUS",
-        "APPLE_NEWS",
-        "PRNUS_ONLY"
+        "PRNUS"
       ],
       "geography": [
-        "TXS",
+        "CLF",
         "UWS",
         "USA",
         "NAM"
       ],
       "industry": [
-        "FRN",
-        "HMI",
-        "HHP",
-        "CST"
+        "AFI",
+        "MLM",
+        "STW",
+        "DTA",
+        "BRD",
+        "CPR"
       ],
       "language": "en-US",
       "multimedia": [
         {
-          "caption": "Association of Professional Rental Organizations (APRO)",
+          "caption": "Eluvio Unveils Industry-First Inline Open Model AI & Agentic Orchestration",
           "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1795159/APRO-Logo-1-Logo.jpg?id=OA2924830&p=thumbnail",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980989/Eluvio-AI-PR-IBC-2026.jpg?id=OA2927686&p=thumbnail",
           "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1795159/APRO-Logo-1-Logo.jpg?id=OA2924830&p=publish"
+          "url": "https://mmx.prnewswire.com/media/MS1980989/Eluvio-AI-PR-IBC-2026.jpg?id=OA2927686&p=publish"
         }
       ],
-      "release_id": "20260902CL38890",
+      "release_id": "20260903SF40005",
       "status": "PUBLISHED",
       "subject": [
         "TDS",
-        "SVY"
+        "PDT"
       ],
-      "summary": "<p class=\"prntac\"><i>12 RTO World 2026 Exhibitors Donated Showroom Items to Support Local Nonprofits</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Following <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=2433780310&amp;u=https%3A%2F%2Fwww.rtohq.org%2Frtoworld%2F&amp;a=RTO+World+2026\" target=\"_blank\" rel=\"nofollow\">RTO World 2026</a>, the national conference and trade show for the rent-to-own industry, 12 exhibitors donated more than $81,000 in furniture, mattresses, appliances, and home goods displayed during the event to nonprofit organizations serving youth and young adults in Palm Beach County, Florida. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=2759754478&amp;u=https%3A%2F%2Fwww.rtohq.org%2F&amp;a=The+Association+of+Professional+Rental+Organizations+(APRO)\" target=\"_blank\" rel=\"nofollow\">The Association of Professional Rental Organizations (APRO)</a>, the national trade association for the rent-to-own industry, coordinated the donations following the Aug. 24-27, 2026, conference in West Palm Beach.</p>\n    ",
+      "summary": "<ul type=\"disc\"><li><b><i>Universal &amp; Dynamic Video Intelligence Architecture</i></b><i>: First commercially available solution for inline, frame-accurate, multimodal AI inference, analysis, and orchestration built natively into the Content Fabric media pipeline for live and derivative content generation</i></li><li><b><i>New Open Model AI Inference Engine with Fast Text &amp; Vector Storage</i></b><i>: Executes AI inline with content distribution and streaming, allowing any frame or video-level model to execute directly in the Fabric distribution pipeline, with inference metadata instantly available globally to the Fabric's just-in-time media pipeline</i></li><li><b><i>17 Built-In Models and Extensible API:</i></b><i> Covers analysis, segmentation, summarization, and multi-language transcription, with an extensible API for third-party and custom models. Unlike hypervisor cloud solutions, video AI inference requires no media or metadata movement, and AI data can directly drive frame-accurate personalization of live and on-demand content</i></li><li><b><i>Newest Models and Agentic Processors</i></b><i>: Include just-in-time live vertical video generation combining live sports motion analysis, expert focus tracking, and per-player jersey identification; expanded shot, beat, and scene segmentation; \"In this video\" key moment identification; and personalized synopses and summaries by segment or across entire titles and events</i></li><li><b><i>Next-Generation Eluvio Video Intelligence Editor (EVIE)</i></b><i>: Expanded with EVIE Titles, a unified title-view of AI intelligence; a new AI Runtime for inference management; media-synchronized visualization of AI data by frame, shot, beat, and scene; enhanced ground-truth management; zero-copy AI clipping and composition; automatic dynamic vertical video playout; and a new Eluvio MCP API exposing major functions for agentic orchestration</i></li><li><b><i>Eluvio at IBC Show 2026:</i></b><i> Hall 8, Stand 8.MS5, and the Future Tech Zone, Hall 14, Stand 14.A58, September 11–14, 2026, RAI Amsterdam</i></li></ul>",
       "ticker": [],
-      "title": "Rent-to-Own Industry Leaders Donate Over $81,000 in Furniture and Home Goods Following National Conference",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902CL38890",
-      "body": "\n<p class=\"prntac\"><i>12 RTO World 2026 Exhibitors Donated Showroom Items to Support Local Nonprofits</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Following <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=2433780310&amp;u=https%3A%2F%2Fwww.rtohq.org%2Frtoworld%2F&amp;a=RTO+World+2026\" target=\"_blank\" rel=\"nofollow\">RTO World 2026</a>, the national conference and trade show for the rent-to-own industry, 12 exhibitors donated more than $81,000 in furniture, mattresses, appliances, and home goods displayed during the event to nonprofit organizations serving youth and young adults in Palm Beach County, Florida. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=2759754478&amp;u=https%3A%2F%2Fwww.rtohq.org%2F&amp;a=The+Association+of+Professional+Rental+Organizations+(APRO)\" target=\"_blank\" rel=\"nofollow\">The Association of Professional Rental Organizations (APRO)</a>, the national trade association for the rent-to-own industry, coordinated the donations following the Aug. 24-27, 2026, conference in West Palm Beach.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1795159/APRO-Logo-1-Logo.jpg?id=OA2924830\" title=\"Association of Professional Rental Organizations (APRO)\" alt=\"Association of Professional Rental Organizations (APRO)\"></img>\n                </p>\n    </div>\n<p>The donated items went to <b>Vita Nova</b>, a Palm Beach County nonprofit that helps young adults ages 18 to 25 transition from homelessness or foster care to stable, independent living, and <b>Boys &amp; Girls Clubs of Palm Beach County</b>, which provides safe, welcoming spaces and programs that help thousands of local children and teens learn, grow, and build skills for the future.</p><p>The effort was made possible in part through <b>Aaron's</b>, one of the largest rent-to-own operators and longtime APRO member, which helped connect APRO with Boys &amp; Girls Clubs of Palm Beach County. Aaron's has a longstanding relationship with Boys &amp; Girls Clubs across the country.</p><p>\"RTO World brings together companies from across the rent-to-own industry, and we wanted to make sure that when we came to West Palm Beach, we left something meaningful behind,\"<b> said Charles Smitherman, CEO of APRO.</b> \"Our member brands stepped up with furniture, mattresses, appliances, and other products they were happy to donate, and we were able to connect those resources with local organizations that could put them to good use. It's an incredible example of our industry coming together to make a positive impact in the communities that welcome us.\"</p><p>The following companies contributed items collected at RTO World 2026:</p><ul type=\"disc\"><li><b>Almo </b>– 3 washing machines, 3 dryers, 1 washer/dryer stack, 5 refrigerators, 2 freezers, and 1 range</li><li><b>Ashley Furniture</b> – 4 sectionals, 2 loveseats, 1 sofa, 3 queen bedroom sets, 3 mattresses, 4 dining sets, 1 desk, 1 TV stand, lamps, tables, rugs, and metal foundations</li><li><b>CordaRoy's </b>– 3 convertible bean bag beds</li><li><b>Corsicana </b>– 4 queen mattresses and 5 bed frames</li><li><b>Global Furniture </b>– 1 recliner, 1 sofa bed, 1 dining set, 2 sofas, 2 fireplace/speaker units, and 1 queen bedroom set</li><li><b>Jamison Bedding</b> – 6 mattresses, including 3 queen and 3 twin</li><li><b>Living Essentials</b> – 1 TV stand, 1 king bed and frame, 1 queen bed and mattress, 1 nightstand, 1 fireplace/TV stand, 1 banquette/fireplace, 1 lounger, 1 shelving/coffee table unit, and 1 recliner</li><li><b>Million Dollar Rustic</b> – 1 fireplace, 1 farmhouse table, 4 stools, 1 pantry, and 1 nightstand</li><li><b>Nav-Air</b> – 2 speakers</li><li><b>Simply Bunk Beds</b> – 1 twin/twin loft bed, 1 twin/twin bunk bed with twin trundle, 1 twin captain's bed, all with mattresses</li><li><b>Southerland </b>– 8 queen mattresses, 6 queen frames, and 2 twin frames</li><li><b>Tempur Sealy International</b> – 11 queen mattresses, 9 queen platform bases, and 2 queen boxsprings with frames</li></ul><p>\"This generous furniture donation means so much to Boys &amp; Girls Clubs of Palm Beach County and, most importantly, to the young people we serve,\" <b>said Erin Nicoloso, Vice President of Marketing and Business Development for the Boys &amp; Girls Clubs of Palm Beach County.</b> \"These pieces will help us create welcoming, comfortable, and inspiring spaces where our Club members can learn, connect, and grow. Donations like this allow us to invest more of our resources directly into the programs and opportunities our kids deserve, and we are incredibly grateful for this meaningful donation!\"</p><p>\"Many of the young adults we serve arrive with just the clothes on their back and are moving into a place that may be empty or without reliable appliances or bedding,\" <b>said Gary Graham, Housing Supervisor of Vita Nova.</b> \"This donation helps them transition from the street to a house and turn that house into a home. It also means the thousands of dollars we would have spent finding mattresses, furniture, and appliances can instead go directly toward more leases, meals, and services that help get more young people off the streets.\"</p><p>In addition to its philanthropic efforts, APRO serves as a central resource for rent-to-own businesses seeking insights, education, and tools to strengthen operations and better serve consumers.</p><p>The U.S. rent-to-own industry generated approximately $11.8 billion in revenue in 2025, served more than 6.7 million households, and employed more than 34,000 Americans, according to <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=700972300&amp;u=https%3A%2F%2Fwww.rtohq.org%2Frent-to-own%2Findustry-reports%2F2026-review%2F&amp;a=APRO%27s+2026+Rent-to-Own+Industry+Health+Survey\" target=\"_blank\" rel=\"nofollow\">APRO's 2026 Rent-to-Own Industry Health Survey</a>.</p><p>APRO's work to strengthen the rent-to-own industry was recently recognized with a 2026 Power of Associations Silver Award from the American Society of Association Executives (ASAE) and the 2026 Association Impact Award from the Texas Society of Association Executives (TSAE). Both honors recognized APRO's Generative Knowledge Initiative, which works to improve the accuracy, accessibility, and authority of rent-to-own information available online.</p><p>To learn more about APRO, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=2479137343&amp;u=https%3A%2F%2Fwww.rtohq.org%2F&amp;a=www.rtohq.org\" target=\"_blank\" rel=\"nofollow\">www.rtohq.org</a> or follow the organization on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=1777863635&amp;u=https%3A%2F%2Fwww.facebook.com%2FRTOHQ&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=1391141001&amp;u=https%3A%2F%2Fwww.youtube.com%2Fuser%2FRTOHQ&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765569-1&amp;h=370543457&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fapro%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>.</p><p><b>About APRO</b></p><p>The Association of Professional Rental Organizations (APRO), formerly Association of Progressive Rental Organizations, is the national trade association representing the rent-to-own (RTO) industry. Established in 1980 to advocate for and support the interests of RTO businesses, APRO provides its 330 member brands with essential resources, industry insights, and a strong community network. Through educational initiatives, legislative advocacy, and professional development opportunities, APRO strives to elevate the standards and success of the RTO sector, ensuring it continues to thrive and serve customers with integrity and excellence.</p><p><b>Media Contact:</b> Ethan Gutstein, Fishman Public Relations, (847) 945-1300 or <a href=\"mailto:egutstein@fishmanpr.com\" target=\"_blank\" rel=\"nofollow\">egutstein@fishmanpr.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL38890&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/rent-to-own-industry-leaders-donate-over-81-000-in-furniture-and-home-goods-following-national-conference-302867191.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/rent-to-own-industry-leaders-donate-over-81-000-in-furniture-and-home-goods-following-national-conference-302867191.html</a></p><p>SOURCE Association of Professional Rental Organizations (APRO)</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL38890&amp;Transmission_Id=202609020900PR_NEWS_USPR_____CL38890&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Association of Professional Rental Organizations (APRO)",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "title": "Eluvio Unveils Industry-First: Inline, Open-Model Video AI and Agentic Orchestration at IBC 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903SF40005",
+      "body": "\n<ul type=\"disc\"><li><b><i>Universal &amp; Dynamic Video Intelligence Architecture</i></b><i>: First commercially available solution for inline, frame-accurate, multimodal AI inference, analysis, and orchestration built natively into the Content Fabric media pipeline for live and derivative content generation</i></li><li><b><i>New Open Model AI Inference Engine with Fast Text &amp; Vector Storage</i></b><i>: Executes AI inline with content distribution and streaming, allowing any frame or video-level model to execute directly in the Fabric distribution pipeline, with inference metadata instantly available globally to the Fabric's just-in-time media pipeline</i></li><li><b><i>17 Built-In Models and Extensible API:</i></b><i> Covers analysis, segmentation, summarization, and multi-language transcription, with an extensible API for third-party and custom models. Unlike hypervisor cloud solutions, video AI inference requires no media or metadata movement, and AI data can directly drive frame-accurate personalization of live and on-demand content</i></li><li><b><i>Newest Models and Agentic Processors</i></b><i>: Include just-in-time live vertical video generation combining live sports motion analysis, expert focus tracking, and per-player jersey identification; expanded shot, beat, and scene segmentation; \"In this video\" key moment identification; and personalized synopses and summaries by segment or across entire titles and events</i></li><li><b><i>Next-Generation Eluvio Video Intelligence Editor (EVIE)</i></b><i>: Expanded with EVIE Titles, a unified title-view of AI intelligence; a new AI Runtime for inference management; media-synchronized visualization of AI data by frame, shot, beat, and scene; enhanced ground-truth management; zero-copy AI clipping and composition; automatic dynamic vertical video playout; and a new Eluvio MCP API exposing major functions for agentic orchestration</i></li><li><b><i>Eluvio at IBC Show 2026:</i></b><i> Hall 8, Stand 8.MS5, and the Future Tech Zone, Hall 14, Stand 14.A58, September 11–14, 2026, RAI Amsterdam</i></li></ul><p><span class=\"legendSpanClass\">BERKELEY, Calif.</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Eluvio today announced that it will showcase major new advances in its <b>Universal &amp; Dynamic Video Intelligence architecture</b> and <b>Eluvio Video Intelligence Editor (EVIE)</b> at IBC Show 2026, introducing an expanded open-model AI inference engine, 17 built-in AI models and processors, fast text and vector storage, new live sports intelligence and vertical video capabilities, and Model Context Protocol (MCP) API for agentic orchestration across live events and title libraries.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980989/Eluvio-AI-PR-IBC-2026.jpg?id=OA2927686\" title=\"Eluvio Unveils Industry-First Inline Open Model AI &amp; Agentic Orchestration\" alt=\"Eluvio Unveils Industry-First Inline Open Model AI &amp; Agentic Orchestration\"></img>\n                </p>\n    </div>\n<p>Eluvio AI is the first commercially available architecture to run frame-accurate, multimodal AI analysis and inference <b>inline within the streaming media generation and distribution pipeline itself</b>. AI models operate directly against live and on-demand video as it flows through the Content Fabric, producing fully time-aligned labels, embeddings, vectors, transcripts, and metadata that are immediately available to the Fabric's just-in-time media pipeline.</p><p>Unlike conventional cloud AI workflows that require video to be copied, moved into separate AI processing infrastructure, analyzed, stored again, and frequently re-transcoded to produce derivatives, Eluvio performs the entire workflow in place. There are <b>zero file copies, zero media or metadata movement, and zero re-transcoding</b> across analysis, metadata generation, personalization, derivative creation, and delivery.</p><p>The result is a single architecture in which AI intelligence can immediately drive the video itself — enabling frame-accurate search, personalization, clipping, highlights, vertical video, compliance reels, summaries, and other derivative experiences for both live and on-demand content. Eluvio will demonstrate these capabilities live at IBC Show 2026.</p><p>\"Eluvio AI is fundamentally different from point AI solutions because the intelligence runs inline, with frame accuracy, across live and archival content — without the cost and delay of copying and re-transcoding media before it can be processed and ensembling the power of individual models with frame-accuracy,\" said Michelle Munson, CEO and co-founder of Eluvio. \"The AI is built directly into the video pipeline of the Content Fabric, rather than added afterward as a separate cloud workflow. Everything from identifying action, players, celebrities, speakers, or brands to turning that intelligence into highlights, vertical videos, compliance reels, or personalized content happens in place against the source media and has no limits on size, duration, or ensemble scale. The result is dramatically greater efficiency and speed, while making AI intelligence immediately actionable for personalization and monetization. At IBC, we're excited to show broadcasters and rights holders these capabilities running across both live sports and premium content.\"</p><p><b>Universal &amp; Dynamic Video Intelligence Architecture</b></p><p>At the foundation of the new capabilities is Eluvio's <b>Universal &amp; Dynamic Video Intelligence Architecture</b>, which integrates AI inference, multimodal intelligence, text and vector storage, search, generation, and agentic orchestration directly into the Content Fabric media pipeline. Its key capabilities include:</p><ul type=\"disc\"><li><b>Frame-Accurate &amp; Multimodal Intelligence — Video, Audio, Text, Images, Pose &amp; Telemetry:</b> Inference operates at frame and segment level across video, audio, text, images, pose, and multidimensional telemetry. Because the intelligence is generated against the underlying media timeline, no secondary metadata alignment step is required.</li><li><b>Zero-Copy, Zero-Movement AI:</b> Models execute directly against Content Fabric media parts. Media does not need to be exported into separate AI pipelines, and resulting intelligence is written directly back into the Fabric where it is immediately available for search, personalization, generation, and distribution.</li><li><b>Real-Time Inline Inference for Live and VoD:</b> AI reads live content parts as they are published and writes frame-accurate intelligence back in real time, enabling the same architecture to operate across live sports, live broadcasts, and on-demand libraries.</li><li><b>AI-Driven Just-in-Time Media:</b> AI metadata becomes directly actionable by the Content Fabric's just-in-time media pipeline, allowing intelligence generated at a specific frame, shot, beat, scene, player, speaker, or event to dynamically control clipping, composition, personalization, transformation, and delivery.</li></ul><p><b>New Open Model AI Inference Engine, 17 Built-In Models &amp; Fast Text/Vector Storage</b></p><p>Eluvio's expanded AI inference engine provides an <b>open runtime for frame-level, video-level, multimodal, and language models</b>, allowing new open-source, Eluvio-developed, customer-specific, and third-party models to be incorporated without changing the underlying media workflow or moving the media. The platform now includes <b>17 built-in models and processors</b> spanning multimodal analysis, segmentation, summarization, transcription, identification, search, and generation. Capabilities include:</p><ul type=\"disc\"><li><b>Frame and Video-Level Inference:</b> Models can operate against intra-coded frames, randomly sampled frames, segments, shots, scenes, or entire videos.</li><li><b>Shot, Beat &amp; Scene Segmentation:</b> Expanded temporal analysis identifies meaningful structural boundaries within content, providing the foundation for search, summarization, clipping, and composition.</li><li><b>Multimodal Embeddings:</b> OpenCLIP, ImageBind, Eluvio-enhanced MediaPipe, and other models support image, video, audio, text, and pose intelligence.</li><li><b>Motion, Focus &amp; Identity Analysis:</b> New capabilities include custom motion identification, expert focus tracking, speaker detection and identification, celebrity identification, and player identification.</li><li><b>Multi-Language Transcription:</b> Speech-to-text produces time-aligned transcripts that can be combined with speaker recognition and other visual intelligence.</li><li><b>Fast Text, Tag &amp; Vector Storage:</b> Model outputs, tags, embeddings, and associated metadata are stored directly within the Fabric and made globally available for immediate search, retrieval, inference, personalization, and generation.</li><li><b>Extensible Runtime API:</b> Custom, open-source, and third-party models can be added continuously as the state of the art evolves, without redesigning workflows or creating separate copies of the underlying media.</li><li><b>Private Ground Truth &amp; Model Configuration:</b> Customers can create and manage proprietary ground-truth datasets and deploy custom models trained against their own labeled content within the Content Fabric's tenant-isolated security model.</li></ul><p><b>Newest Models &amp; Agentic Processors for Live Sports and Premium Video</b></p><p>At IBC, Eluvio will demonstrate a new generation of models and processors that turn AI analysis directly into actionable media outputs. For <b>live sports</b>, these capabilities include <b>just-in-time vertical video generation</b> combining live motion analysis, expert focus tracking, and per-player jersey identification. The system dynamically determines the focal point for each shot and produces 9:16 vertical presentations from a live 16:9 source — without creating a second encoded video stream or pre-generating separate vertical assets. Additional new processors include:</p><ul type=\"disc\"><li><b>\"In This Video\" Key Moment Identification:</b> Automatically identifies the most important moments within a title, event, segment, or scene.</li><li><b>Personalized Synopsis &amp; Summarization:</b> Generates configurable synopses and summaries for individual segments or complete titles and events, tailored by purpose, length, and style.</li><li><b>Live and On-Demand Highlights:</b> Combines AI analysis with play-by-play, player and ball tracking, audio intelligence, and existing metadata to identify and compose personalized highlights.</li><li><b>Automatic Chapters &amp; Segmentation:</b> Generates chapter boundaries, labels, and descriptions using shot, beat, scene, topic, mood, and semantic analysis.</li><li><b>Zero-Copy Generative Composition:</b> Highlights, trailers, shorts, social clips, compliance reels, and other compositions are represented as references to the original media rather than newly rendered files.</li><li><b>Natural-Language Personalization:</b> Agentic processors can use natural-language prompts to control the purpose, content, length, style, and audience of generated outputs.</li></ul><p><b>Next-Generation EVIE and EVIE Titles &amp; Events</b></p><p>The <b>Eluvio Video Intelligence Editor (EVIE)</b> provides the media-facing application layer for this intelligence, allowing users to inspect, search, validate, edit, and act upon AI data while remaining synchronized to the underlying video. The new <b>EVIE Titles &amp; Events</b> experience brings the complete AI stack together around a title — such as a film or television program — or an event, such as a live sports match. New and expanded capabilities include:</p><ul type=\"disc\"><li><b>AI Runtime:</b> A new inference-management environment for selecting, running, and managing AI models and processors against content.</li><li><b>Media-Synchronized AI Visualization:</b> Model outputs are organized as synchronized tracks against the media timeline and can be viewed at frame, shot, beat, scene, segment, title, or event level.</li><li><b>Deep Multimodal Search:</b> Search across entire content libraries using natural language, images, text, music, metadata, and visual regions to identify matching shots, scenes, clips, or individual frames.</li><li><b>Ground-Truth Management:</b> Expanded tools allow media professionals to review and correct AI results and manage private ground truth, including celebrity, speaker, and other identity data.</li><li><b>Analyze:</b> Combine transcription, speaker recognition, motion and scene analysis, topics, moods, themes, pose, telemetry, celebrities, brands, and other intelligence within a single synchronized environment.</li><li><b>Highlight &amp; Compose:</b> Generate personalized sports highlights, chapter reels, trailers, shorts, compliance reels, and social compositions without duplicating the underlying source media.</li><li><b>Dynamic Vertical Video:</b> Automatically identify focal points and crop coordinates shot-by-shot and generate dynamic 9:16 video directly from 16:9 live or on-demand sources through the Fabric's just-in-time pipeline.</li></ul><p><b>New MCP API for Agentic Video Orchestration</b></p><p>Eluvio is also introducing a <b>Model Context Protocol (MCP) API exposing major Content Fabric and Eluvio AI functions for agentic orchestration</b>, allowing ChatGPT, Claude, other LLMs, third-party applications, and agentic systems to execute complex video workflows through natural-language interfaces.</p><p>A single agentic workflow can invoke models, analyze content, update vector indices, search video, generate transcriptions, identify key moments, create chapters and highlights, and produce social-ready clips, trailers, shorts, and other compositions. Because the underlying APIs operate directly against Fabric content, these agentic workflows retain the same zero-copy architecture and Content Fabric authorization model. Media remains secured within its tenant and owner-controlled permissions while agents operate against authorized functions and intelligence.</p><p>Separately, Eluvio today announced full details of the Global Broadcast Fabric, the newest Content Fabric version spanning broadcast distribution, D2C OTT streaming and monetization, and inline AI video intelligence in a companion press release </p><p><b>Eluvio at IBC Show 2026</b></p><p>During IBC Show 2026 at the RAI Amsterdam, Eluvio will demonstrate Eluvio AI, EVIE, live sports intelligence, agentic video workflows, and the full capabilities of the Content Fabric in <b>Hall 8, Stand 8.MS5</b>, and in the <b>Future Tech Zone, Hall 14, Stand 14.A58</b>, September 11–14, 2026.</p><p>On <b>Thursday, September 10</b>, Eluvio execs will be present at Eluvio's table at the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766570-1&amp;h=3743058364&amp;u=https%3A%2F%2Fwww.svgeurope.org%2Fregister-event%2F%3Freventid%3D127345&amp;a=SVGE+Europe+Summit\" target=\"_blank\" rel=\"nofollow\">SVGE Europe Summit</a> at De Hallen Studio. <b>On Friday, September 11</b> from 7:30-10:30 am, Michelle Munson will speak on the \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766570-1&amp;h=1966058716&amp;u=https%3A%2F%2Fwearehivegroup.com%2Fibc-show%2Fthe-future-of-satellite-replacement&amp;a=Where+does+the+Signal+Go+Next\" target=\"_blank\" rel=\"nofollow\">Where does the Signal Go Next</a>\" broadcast transition executive breakfast at the Traveler within the RAI. On<b> Saturday, September 12</b> at 1:00 pm, Eluvio founders Michelle Munson and Serban Simu will deliver a keynote deep dive at the Eluvio stand. <b>On Sunday, September 13</b> from 2pm-2:15 pm Michelle Munson will present \"Beyond Cloud and Satellite: The New Architecture for Broadcast\" on the Future Tech Zone stage in Hall 14.</p><p>Registration for one-on-one meetings and information about Eluvio's on-site keynote demonstrations at IBC is available at <b>ibc.eluv.io</b>.</p><p><b>About Eluvio</b></p><p>Eluvio is solving the generational problems of video over the Internet with its Content Fabric Protocol — transforming the distribution and monetization of premium video and digital media in contrast to legacy cloud workflows and CDNs. Eluvio serves Amazon Studios/MGM, Cricket Australia, European Professional Club Rugby, SONY, Telstra Broadcast Services, UEFA, United Rugby Championship, Warner Bros., WPALiveTV, WWE, and others.Led by Michelle Munson and Serban Simu, founders and inventors of Aspera, Eluvio is based in Berkeley, California. Eluvio holds 15 issued U.S. patents and has won multiple NAB Streaming Product of the Year awards, the Seicon Grand Prize, the Hollywood Professional Association Engineering Excellence Award, and other industry honors.</p><p>@EluvioInc | linkedin.com/company/eluv-io </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF40005&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/eluvio-unveils-industry-first-inline-open-model-video-ai-and-agentic-orchestration-at-ibc-2026-302868456.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/eluvio-unveils-industry-first-inline-open-model-video-ai-and-agentic-orchestration-at-ibc-2026-302868456.html</a></p><p>SOURCE Eluvio, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF40005&amp;Transmission_Id=202609030002PR_NEWS_USPR_____SF40005&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Eluvio, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
+        "engineering",
         "tradeshow"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
+          "engineering",
           "tradeshow"
         ],
         "review": false,
         "scores": {
           "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
+          "digital": 2,
+          "engineering": 7,
           "entertainment": 0,
           "management": 0,
           "radio": 0,
           "television": 0,
           "podcast": 0,
-          "tradeshow": 5
+          "tradeshow": 3
         },
         "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "engineering": [
+            "video ai",
+            "industry:BRD"
+          ],
           "tradeshow": [
-            "summary:trade show",
-            "conference",
-            "summary:exhibitor"
+            "summary:ibc show",
+            "summary:expo"
           ]
         },
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:25:07.014Z"
+      "imported_at": "2026-09-04T18:33:01.100Z"
     },
     {
       "company": [
-        "Paralyzed Veterans of America"
+        "Eluvio, Inc."
       ],
-      "date": "20260831T163500+0000",
-      "dateline": "LAS VEGAS, Aug. 31, 2026",
+      "date": "20260903T040100+0000",
+      "dateline": "BERKELEY, Calif., Sept. 3, 2026",
       "feed": [
-        "PRNUS",
         "prncom_prnj",
+        "PRNUS",
         "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY"
+        "PRNUS_NO_ELD"
       ],
       "geography": [
-        "NEV",
+        "CLF",
         "UWS",
         "USA",
         "NAM"
       ],
       "industry": [
-        "HEA",
-        "MTC"
+        "TCS",
+        "MLM",
+        "TLS",
+        "NET",
+        "CPR"
       ],
       "language": "en-US",
       "multimedia": [
         {
-          "caption": "Paralyzed Veterans of America Takes 2026 Healthcare Summit + Expo to Vegas to Advance Care for Spinal Cord Injury, MS, and ALS\n",
+          "caption": "Eluvio Content Fabric",
           "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978534/Paralyzed-Veterans-of-America-Takes-2026-Healthcare-Summit.jpg?id=OA2920840&p=thumbnail",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980981/Content-Fabric-IBC-PR-2026.jpg?id=OA2927674&p=thumbnail",
           "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1978534/Paralyzed-Veterans-of-America-Takes-2026-Healthcare-Summit.jpg?id=OA2920840&p=publish"
-        },
-        {
-          "caption": "",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS611103/PVA-Logo.jpg?id=OA2920836&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS611103/PVA-Logo.jpg?id=OA2920836&p=publish"
+          "url": "https://mmx.prnewswire.com/media/MS1980981/Content-Fabric-IBC-PR-2026.jpg?id=OA2927674&p=publish"
         }
       ],
-      "release_id": "20260831PH37180",
+      "release_id": "20260903SF40004",
       "status": "PUBLISHED",
       "subject": [
-        "VET",
-        "FVT",
         "TDS",
-        "DIS"
+        "PDT",
+        "FVT"
       ],
-      "summary": "<p class=\"prntac\"><i>VA Secretary Doug Collins plus </i><i>400+ clinicians across U.S. unite to discuss </i><i>emerging research, </i><i>evaluate new tech, share breakthroughs, and strengthen medical care</i></p><p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763899-1&amp;h=3622763551&amp;u=https%3A%2F%2Fwww.pva.org%2F&amp;a=Paralyzed+Veterans+of+America\" target=\"_blank\" rel=\"nofollow\">Paralyzed Veterans of America</a> today officially commenced its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763899-1&amp;h=1459457363&amp;u=https%3A%2F%2Fsummitpva.org%2F&amp;a=2026+Healthcare+Summit+%2B+Expo\" target=\"_blank\" rel=\"nofollow\">2026 Healthcare Summit + Expo</a> at the Horseshoe Hotel in Las Vegas, bringing together more than 400 healthcare professionals from across the U.S. to explore emerging research, evaluate new technologies, share medical breakthroughs, and strengthen care for veterans and others living with spinal cord injuries, MS, and ALS. The event, which kicked off with a welcome reception on August 30 and concludes on September 2, features 110 speakers, 60 exhibitors, and remarks from Department of Veterans Affairs Secretary Doug Collins.</p>\n    ",
+      "summary": "<ul type=\"disc\"><li><i><b>Broadcast Transformation: </b>Global Broadcast Fabric replaces satellite and legacy cloud for live broadcast feed distribution — sub-500ms global latency, sub-millisecond jitter, SMPTE 2022-7 <span>decentralized</span> multipath, fast global stream switching and failover, and instant replay — with end-to-end security, no egress fan-out charges, no internal transit charges, and no fees for unused distribution time</i></li><li><i><b>D2C OTT Streaming &amp; Full-Stack Monetization: </b>Studio-grade D2C OTT streaming and full-stack monetization — advanced premium A/V including Dolby Vision and Dolby Atmos, unlimited multi-view, casting and expanded connected TV platform coverage, DVR, Creator Studio CMS, SVOD/TVOD commerce, in-Fabric ad insertion, real-time analytics — and white-labeled OTT properties and \"Pocket TV\" microsites for best-in-class streaming UX, frictionless deployments and microtransactions</i></li><li><i><b>Inline AI Video Intelligence &amp; EVIE:</b> First commercially available inline, frame-accurate, multimodal AI built natively into a media platform — runs inference on live and VOD content with zero file copies, zero file movement, and zero transcoding including <b>live vertical video and personalized virtual signage at scale</b>; Full AI details showcased in a companion press release issued separately today</i></li><li><i><b>Eluvio at IBC Show 2026:</b> Hall 8, Stand 8.MS5, and the Future Tech Zone, Hall 14, Stand 14.A58, September 11–14, 2026, RAI Amsterdam</i></li></ul>",
       "ticker": [],
-      "title": "Paralyzed Veterans of America Takes 2026 Healthcare Summit + Expo to Vegas to Advance Care for Spinal Cord Injury, MS, and ALS",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831PH37180",
-      "body": "\n<p class=\"prntac\"><i>VA Secretary Doug Collins plus </i><i>400+ clinicians across U.S. unite to discuss </i><i>emerging research, </i><i>evaluate new tech, share breakthroughs, and strengthen medical care</i></p><p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763899-1&amp;h=3622763551&amp;u=https%3A%2F%2Fwww.pva.org%2F&amp;a=Paralyzed+Veterans+of+America\" target=\"_blank\" rel=\"nofollow\">Paralyzed Veterans of America</a> today officially commenced its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763899-1&amp;h=1459457363&amp;u=https%3A%2F%2Fsummitpva.org%2F&amp;a=2026+Healthcare+Summit+%2B+Expo\" target=\"_blank\" rel=\"nofollow\">2026 Healthcare Summit + Expo</a> at the Horseshoe Hotel in Las Vegas, bringing together more than 400 healthcare professionals from across the U.S. to explore emerging research, evaluate new technologies, share medical breakthroughs, and strengthen care for veterans and others living with spinal cord injuries, MS, and ALS. The event, which kicked off with a welcome reception on August 30 and concludes on September 2, features 110 speakers, 60 exhibitors, and remarks from Department of Veterans Affairs Secretary Doug Collins.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978534/Paralyzed-Veterans-of-America-Takes-2026-Healthcare-Summit.jpg?id=OA2920840\" title=\"Paralyzed Veterans of America Takes 2026 Healthcare Summit + Expo to Vegas to Advance Care for Spinal Cord Injury, MS, and ALS\r\n\" alt=\"Paralyzed Veterans of America Takes 2026 Healthcare Summit + Expo to Vegas to Advance Care for Spinal Cord Injury, MS, and ALS\r\n\"></img>\n                </p>\n    </div>\n<p>\"Healthcare doesn't start or end when veterans with traumatic spinal cord injuries and diseases, like MS and ALS, enter or leave the hospital - it begins well before injury or diagnosis… in research and at the lab, and it continues well afterwards when they return home, undergo rehab, and go on with life,\" said Robert Thomas, U.S. Army veteran and national president of Paralyzed Veterans of America. \"PVA has spent 80 years bringing the right people together to solve complex problems and create greater possibilities for the veterans we serve. PVA's Healthcare Summit is a powerful example of that work. By connecting the people driving progress across SCI/D care, we help turn new ideas into better outcomes, which produce greater independence for patients in communities across the country.\"</p><p>Since PVA's founding in 1946, PVA has been a leading force in protecting, advancing, and strengthening specialized SCI/D care. The organization is the only nonprofit Veterans Service Organization granted access inside all 25 VA SCI/D Centers, giving PVA a direct view into the needs of catastrophically injured veterans, the realities facing their care teams, and the opportunities to consistently improve VA's system of care. That perspective has also informed PVA's investments in research, clinical education – like its annual Healthcare Summit, advocacy, and innovation.</p><p>\"People living with spinal cord injuries, MS and ALS deserve care that keeps pace with the latest advances, and that starts with ensuring clinicians have opportunities to learn, collaborate, and grow,\" said Lindsay Perlman, director of PVA's Research and Education Department. \"PVA's Healthcare Summit + Expo gives clinicians both inside the VA and out in the community space to do just that. Here they can step away from the demands of daily care, engage with likeminded professionals, and think differently about how they can better serve their patients.\"</p><p>Later in the week, on September 2, the Summit will honor six clinicians from across the nation with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763899-1&amp;h=2525623324&amp;u=https%3A%2F%2Fsummitpva.org%2Fclinical-excellence-awards&amp;a=PVA%27s+Clinical+Excellence+Awards\" target=\"_blank\" rel=\"nofollow\">PVA's Clinical Excellence Awards</a>, recognizing their exceptional dedication to caring for veterans and others living with SCI/D. This year's honorees are:</p><ul type=\"disc\"><li><u>Marinella Galea, MD,</u> Chief of Spinal Cord Injury and Disorders at the James J. Peters VA Medical Center in <b>Bronx, New York,</b> whose more than two decades of leadership advanced specialized SCI/D care, research, education, and patient safety;</li><li><u>Nicholas Wendel, PT, DPT, NCS</u>, Physical Therapy Clinical Specialist at VA Boston Health Care System's West Roxbury VA in <b>Massachusetts,</b> recognized for using evidence-based rehabilitation and innovative technologies to help veterans increase mobility and independence;</li><li><u>Beth Whittington, MD</u>, neurologist at the Richard L. Roudebush VA Medical Center in <b>Indianapolis, Indiana,</b> whose work expanded access to specialized interdisciplinary ALS care through telehealth;</li><li><u>Ginger Willoughby, RN, BSN, MSN, CCM</u>, Inpatient Nurse Care Coordinator at the Louis Stokes Cleveland VA Medical Center in <b>Ohio,</b> recognized for strengthening care coordination, quality improvement, caregiver education, and staff development;</li><li><u>Felicia Skelton, MD, MS</u>, physician and faculty investigator at the Michael E. DeBakey VA Medical Center in <b>Houston, Texas,</b> whose research and innovative care models advanced SCI primary care, patient safety, and virtual access; and</li><li><u>Liam Kiernan, PT, DPT, NCS, OCS,</u> Clinical Specialist Physical Therapist at the Rocky Mountain Regional VA Medical Center in <b>Aurora, Colorado,</b> recognized for bringing advanced rehabilitation technologies into clinical practice while contributing to research, education, and mentorship.</li></ul><p>PVA is grateful for the generous support of this year's sponsors, including Biogen, First Nation Group, Genentech, Maxim Healthcare, NMEDA, Novartis, ONWARD Medical Inc., Permobil, Quantum, and Shionogi. Visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763899-1&amp;h=1011944073&amp;u=https%3A%2F%2Fsummitpva.org%2F&amp;a=SummitPVA.org\" target=\"_blank\" rel=\"nofollow\">SummitPVA.org</a> to learn more.</p><p><b>About Paralyzed Veterans of America</b><br></br>Paralyzed Veterans of America is a 501(c)(3) non-profit and the only congressionally chartered veterans service organization dedicated solely for the benefit and representation of veterans with spinal cord injury or diseases. The organization ensures veterans receive the benefits earned through service to our nation; monitors their care in VA spinal cord injury units; and funds research and education in the search for a cure and improved care for individuals with paralysis.</p><p>As a life-long partner and advocate for veterans and all people with disabilities, PVA also develops training and career services, works to ensure accessibility in public buildings and spaces, and provides health and rehabilitation opportunities through sports and recreation. With more than 70 offices and 33 chapters, Paralyzed Veterans of America serves veterans, their families, and their caregivers in all 50 states, the District of Columbia, and Puerto Rico. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763899-1&amp;h=2726534797&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3929589-1%26h%3D2659874552%26u%3Dhttps%253A%252F%252Fwww.pva.org%252F%26a%3DPVA.org&amp;a=PVA.org\" target=\"_blank\" rel=\"nofollow\"><b>PVA.org</b></a>.</p><p><b>Contact:</b> Oname Thompson<br></br><a href=\"mailto:CristinaV@PVA.org\" target=\"_blank\" rel=\"nofollow\">OnameT@PVA.org</a><br></br>(703) 864-5980 cell</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS611103/PVA-Logo.jpg?id=OA2920836\" title=\"\" alt=\"\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH37180&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/paralyzed-veterans-of-america-takes-2026-healthcare-summit--expo-to-vegas-to-advance-care-for-spinal-cord-injury-ms-and-als-302865133.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/paralyzed-veterans-of-america-takes-2026-healthcare-summit--expo-to-vegas-to-advance-care-for-spinal-cord-injury-ms-and-als-302865133.html</a></p><p>SOURCE Paralyzed Veterans of America</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH37180&amp;Transmission_Id=202608311235PR_NEWS_USPR_____PH37180&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Paralyzed Veterans of America",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "title": "Eluvio Showcases New Advanced Features in Global Broadcast Fabric for Zero-Copy Broadcast Distribution, D2C OTT Streaming &amp; Monetization, and Inline AI Video Intelligence at IBC 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903SF40004",
+      "body": "\n<ul type=\"disc\"><li><i><b>Broadcast Transformation: </b>Global Broadcast Fabric replaces satellite and legacy cloud for live broadcast feed distribution — sub-500ms global latency, sub-millisecond jitter, SMPTE 2022-7 <span>decentralized</span> multipath, fast global stream switching and failover, and instant replay — with end-to-end security, no egress fan-out charges, no internal transit charges, and no fees for unused distribution time</i></li><li><i><b>D2C OTT Streaming &amp; Full-Stack Monetization: </b>Studio-grade D2C OTT streaming and full-stack monetization — advanced premium A/V including Dolby Vision and Dolby Atmos, unlimited multi-view, casting and expanded connected TV platform coverage, DVR, Creator Studio CMS, SVOD/TVOD commerce, in-Fabric ad insertion, real-time analytics — and white-labeled OTT properties and \"Pocket TV\" microsites for best-in-class streaming UX, frictionless deployments and microtransactions</i></li><li><i><b>Inline AI Video Intelligence &amp; EVIE:</b> First commercially available inline, frame-accurate, multimodal AI built natively into a media platform — runs inference on live and VOD content with zero file copies, zero file movement, and zero transcoding including <b>live vertical video and personalized virtual signage at scale</b>; Full AI details showcased in a companion press release issued separately today</i></li><li><i><b>Eluvio at IBC Show 2026:</b> Hall 8, Stand 8.MS5, and the Future Tech Zone, Hall 14, Stand 14.A58, September 11–14, 2026, RAI Amsterdam</i></li></ul><p><span class=\"legendSpanClass\">BERKELEY, Calif.</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- Eluvio today announced new advanced features to be showcased at IBC 2026 in its Global Broadcast Fabric, the latest generation of the Content Fabric protocol and global infrastructure, providing comprehensive broadcast transformation from satellite, direct-to-consumer (D2C) OTT streaming and full-stack monetization, and inline AI video intelligence. To schedule a meeting or learn full details about Eluvio's presence at the show visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766569-1&amp;h=2775279232&amp;u=https%3A%2F%2Fibc.eluv.io%2F&amp;a=https%3A%2F%2Fibc.eluv.io\" target=\"_blank\" rel=\"nofollow\">https://ibc.eluv.io</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980981/Content-Fabric-IBC-PR-2026.jpg?id=OA2927674\" title=\"Eluvio Content Fabric\" alt=\"Eluvio Content Fabric\"></img>\n                </p>\n    </div>\n<p>\"Across the industry, broadcast distribution and D2C streaming are still largely separate tech stacks, and now everyone's bolting AI on as a third,\" said Michelle Munson, CEO and Co-founder, Eluvio. \"The Global Broadcast Fabric supersedes these point hypervisor and CDN solutions and provides a highly efficient and simple solution that unlocks media re-use, deterministic low latency distribution, and AI personalization end-to-end. We've taken advantage of the Content Fabric's zero-copy distribution architecture, frame-accurate metadata, and inline JIT processing to eliminate the cost, complexity, and bottlenecks in advanced media distribution.\"</p><p><b><u>Broadcast Transformation: Replacing Satellite and Legacy Cloud Distribution</u></b></p><p>During the recent <b>World Cup</b>, Eluvio powered a successful commercial pilot with a Tier 1 broadcaster to provide VIP access to live streams and zero-copy VoD rewatch of 105 World Cup matches, surpassing all latency benchmarks, and outperforming the best-case broadcast and streaming latency performance, 15-45+ seconds faster than the legacy streaming services tested worldwide.</p><p>At IBC, Eluvio will demonstrate the Global Broadcast Fabric's live broadcast distribution architecture — a <span>decentralized</span>, zero-copy system that replaces satellite distribution, fiber point-to-point connections, and ground-to-cloud multi-point egress for live broadcast feed distribution, extended with new live-operations and monetization capabilities. One <span>decentralized</span> Content Fabric distribution simultaneously serves every downstream taker just-in-time — B2B broadcast affiliates and D2C consumer endpoints — from a single ingest workflow without duplication.</p><ul type=\"disc\"><li><b>Global Broadcast Fabric with Zero-Copy &amp; No Egress Fan-Out Charges: </b>The <span>decentralized</span> any-to-any routing architecture replaces point-to-point links for no traffic duplication at scale. Cost does not increase with receiver count and performance does not degrade as receiver count grows. There are no internal Fabric transit charges and no fees for unused distribution time — delivering satellite-beating economics with over-the-top flexibility.</li><li><b>Broadcast Quality:</b> <b>Sub-500ms</b> global latency with <b>sub-millisecond jitter</b> and <b>SMPTE 2022-7</b> <span>decentralized</span> multipath phase-lock synchronization — broadcast-grade determinism delivered over-the-top, without centralized control or single points of failure. It's the first such capability delivered over IP at global scale.</li><li><b>Live Operations/Fast Global Switching &amp; Instant Replay: </b>Via the new Live Stream Manager and APIs, operators can instantly remap broadcast outputs to ingest sources and recover from failures with fast global stream switching and failover. All feeds have zero-copy recording and provide fast DVR and instant replay.</li><li><b>In-Fabric Ad Insertion:</b> Native server-side ad insertion (SSAI) with unlimited per-session personalization, enabling ad-supported monetization directly within the distribution pipeline — no third-party ad decisioning infrastructure required.</li><li><b>Personalized Virtual Signage in Live Sports at Scale: </b>The fabric metadata carries AI inference applied on source feeds, and executes per-frame rendering engines to apply virtual signage overlays and smart transformations per frame, for just-in-time zero-copy output generation (broadcast TS or consumer streaming).<b> The live feed distribution requirements are constant, independent of the number of variants produced, and all media parts are re-used, making personalized virtual signage possible at scale. </b></li></ul><p>At IBC, Eluvio and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766569-1&amp;h=1563221222&amp;u=https%3A%2F%2Fwww.uniqfeed.com%2F&amp;a=uniqFEED\" target=\"_blank\" rel=\"nofollow\"><b>uniqFEED</b></a> will preview an integrated virtual signage solution for live sports applying frame accurate virtual signage just-in-time per audience group. The original program feed is analyzed once by an <b>AdAPT Analyzer</b> and the extracted metadata is published into Eluvio's Content Fabric as metadata on the Fabric's live stream distribution. Upon a client streaming request, a Content Fabric node executes the <b>AdAPT Renderer</b> inline its just-in-time, frame-level A/V stack to produce a targeted program feed. The ad image is also available to the A/V stack as Content Fabric \"parts\", as it is also hosted and distributed by the Fabric<b>. </b> By combining metadata, program feed and received ads via Fabric JIT distribution, a dedicated feed can be created for any viewer at any time. The architecture allows for a high degree of non-intrusive targeting without modification of the player of the viewer and without duplicating the distribution. </p><ul type=\"disc\"><li><b>Flexible Ingest: </b>JPEG-XS, AVC/HEVC over UDP/RTP/SRT; Ingest from cameras, encoders, and broadcast trucks on-site, or via SRT for wide-area contribution — extending to any sporting venue or remote location.</li><li><b>End-to-End Security &amp; Authorization:</b> Multi-layer AES encryption with proxy re-encryption into per-session key spaces; Per-session authorization enforces availability windows, geo-restrictions, ACLs, and entitlements automatically for both B2B SRT/TS and D2C HLS/DASH endpoints. Multi-DRM for D2C, SRT encryption for B2B — all built in.</li><li><b>Live Stream Manager:</b> API-driven operational control for inputs, outputs, routing, health and QoS dashboards, multilayer statistics, and batch configuration for tens or hundreds of feeds simultaneously, with a full SDK for partner automation.</li><li><b>VIP Command Center / Single Pane of Glass:</b> Desktop and mobile browser application for unlimited global multiview of live feeds at ultra-low latency, with brandable SSO, Fabric policy-enforced stream visibility, and built-in access controls for VIP, NOC, and remote production operations.</li></ul><p><b><u>Direct-to-Consumer OTT Streaming, Full-Stack Monetization &amp; New White Label Media <span>Wallet</span> &amp; Pocket TV</u></b></p><p>The Content Fabric is powering thousands of D2C live games and streaming events and hosts hundreds of thousands of live, archive, and library titles for premium brands and creators — with <b>10x cost savings</b> over legacy CDN and media cloud infrastructure at scale. New features include:</p><ul type=\"disc\"><li><b>Performance and Scale:</b> 8x increase in live stream cross-variant serving; &lt;=30ms segment delivery latency; up to 4x scale of DRM encryption variants; zero-impact global maintenance; and instant-on HFR streaming.</li><li><b>Premium Next-Gen Video Formats: </b>Stereoscopic HFR 4K (SBS and MV-HEVC), Dolby Vision and Dolby Atmos, HDR/HDR10+, full Widevine parameterization, AV1 (upcoming), optimized asset structure for hundreds of language and subtitle tracks.</li><li><b>Best in Class White Label OTT Media <span>Wallet</span> UX:</b> Powered by new Media <span>Wallet</span> v3 and Creator Studio CMS — Eluvio provides best-in-class TV, browser, and mobile native white label D2C OTT properties with advanced UX branding, interactive experiences, and configurable live, VOD and clip based content presentation and management.  </li><li><b>Superior Viewing &amp; Device Support:</b> Configure and deploy unlimited D2C OTT streaming and archive monetization apps for TV/mobile/browser, B2B portals, and Pocket TV microsites with fast multi-view, integrated DVR, automatic live and VoD content slating, and up-next autoplay. New multi-view sidebar, \"In This Video\" AI data panel, and expanded entertainment and sports layout options provide a flexible and outstanding UX experience for fans with no code deployment. Fully integrated with the Eluvio Video Intelligence Editor (EVIE), browse and publish zero-copy EVIE clips and compositions.</li><li><b>Studio-Grade Monetization: </b>Full SVOD/TVOD (rental and ownership) entitlements, match-based live entitlements, seamless JWT/SSO, and fully integrated Apple Pay, Google Pay, and Stripe in a single checkout flow. CableLabs-compliant Title Metadata API with territory-based offers and delta-only global updates.</li><li><b>Pocket TV:</b> A fully white-labeled microsite for live and episodic content sales with zero friction: no login required, single-click Apple Pay and Google Pay, and magic links for return access. No PII collected. Instantly embeddable as a URL in any social post, paid ad, or CRM email. Deployed by a Tier 1 US broadcast network in 2026.</li><li><b>Analytics &amp; Reporting: </b>Real-time analytics spanning B2B SRT/TS and D2C HTTP streams; global receiver map with per-receiver performance stats; expanded audience metrics; client-side QoS stats; and sales transaction reporting by currency, product, and country.</li></ul><p><b><u>Eluvio AI &amp; EVIE: Inline, Frame-Accurate Video Intelligence</u></b></p><p>Complementing the Content Fabric is a major architecture for universal dynamic video intelligence: <b>Eluvio AI</b> and the <b>Eluvio Video Intelligence Editor (EVIE)</b>. Eluvio AI is the first commercially available inline, frame-accurate, multimodal AI built natively into a media platform — running inference on live and VOD content at frame and segment level with <b>zero file copies, zero file movement, and zero transcoding</b>, across open-source, custom, and third-party models. <b>Full details were announced in a companion press release issued separately today.</b></p><p><b><u>Eluvio at IBC Show 2026</u></b></p><p>During IBC Show 2026 at the RAI Amsterdam, Eluvio will showcase solutions chosen by Tier 1 content owners across broadcast, D2C, and AI, including live sport transformation case studies with and others, in <b>Hall 8, Stand 8.MS5</b>, and the <b>Future Tech Zone, Hall 14, Stand 14.A58</b>, September 11–14, 2026.</p><p>On <b>Thursday, September 10</b>, Eluvio execs will be present at Eluvio's table at the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766569-1&amp;h=1072888662&amp;u=https%3A%2F%2Fwww.svgeurope.org%2Fregister-event%2F%3Freventid%3D127345&amp;a=SVGE+Europe+Summit\" target=\"_blank\" rel=\"nofollow\">SVGE Europe Summit</a> at De Hallen Studio. <b>On Friday, September 11</b> from 7:30-10:30 am, Michelle Munson will speak on the \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766569-1&amp;h=2512903734&amp;u=https%3A%2F%2Fwearehivegroup.com%2Fibc-show%2Fthe-future-of-satellite-replacement&amp;a=Where+does+the+Signal+Go+Next\" target=\"_blank\" rel=\"nofollow\">Where does the Signal Go Next</a>\" broadcast transition executive breakfast at the Traveler within the RAI. On<b> Saturday, September 12</b> at 1:00 pm, Eluvio founders Michelle Munson and Serban Simu will deliver a keynote deep dive at the Eluvio stand. <b>On Sunday, September 13</b> from 2pm-2:15 pm Michelle Munson will present \"Beyond Cloud and Satellite: The New Architecture for Broadcast\" on the Future Tech Zone stage in Hall 14.</p><p>Registration for one-on-one meetings and information about Eluvio's on-site keynote demonstrations at IBC is available at <b>ibc.eluv.io</b>.</p><p><b>About Eluvio</b></p><p>Eluvio (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766569-1&amp;h=3810209578&amp;u=https%3A%2F%2Feluv.io%2F&amp;a=https%3A%2F%2Feluv.io\" target=\"_blank\" rel=\"nofollow\">https://eluv.io</a>) is solving the generational problems of video over the Internet with its Content Fabric Protocol — transforming the distribution and monetization of premium video and digital media in contrast to legacy cloud workflows and CDNs. Eluvio serves Amazon Studios/MGM, Cricket Australia, European Professional Club Rugby, SONY, Telstra Broadcast Services, UEFA, United Rugby Championship, Warner Bros., WPALiveTV, WWE, and others. Led by Michelle Munson and Serban Simu, founders and inventors of Aspera, and based in Berkeley, California. Eluvio holds 15 issued US patents and has won multiple NAB Streaming Product of the Year awards, the Seicon Grand Prize, Hollywood Professional Association Engineering Excellence Award, and other industry honors. @EluvioInc | <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766569-1&amp;h=1413380270&amp;u=http%3A%2F%2Flinkedin.com%2Fcompany%2Feluv-io&amp;a=linkedin.com%2Fcompany%2Feluv-io\" target=\"_blank\" rel=\"nofollow\">linkedin.com/company/eluv-io</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF40004&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/eluvio-showcases-new-advanced-features-in-global-broadcast-fabric-for-zero-copy-broadcast-distribution-d2c-ott-streaming--monetization-and-inline-ai-video-intelligence-at-ibc-2026-302868445.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/eluvio-showcases-new-advanced-features-in-global-broadcast-fabric-for-zero-copy-broadcast-distribution-d2c-ott-streaming--monetization-and-inline-ai-video-intelligence-at-ibc-2026-302868445.html</a></p><p>SOURCE Eluvio, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF40004&amp;Transmission_Id=202609030001PR_NEWS_USPR_____SF40004&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Eluvio, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
+        "engineering",
         "tradeshow"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
+          "engineering",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 10,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "engineering": [
+            "broadcast fabric",
+            "broadcast distribution"
+          ],
+          "tradeshow": [
+            "summary:ibc show"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:01.204Z"
+    },
+    {
+      "company": [
+        "Summit Professional Education, LLC"
+      ],
+      "date": "20260902T160700+0000",
+      "dateline": "NASHVILLE, Tenn., Sept. 2, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "TNS",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "RAD",
+        "HED",
+        "SPM",
+        "HEA",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "PT Final Exam",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980546/PT-Final-Exam-Logo.jpg?id=OA2926210&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980546/PT-Final-Exam-Logo.jpg?id=OA2926210&p=publish"
+        }
+      ],
+      "release_id": "20260902CL39370",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "PDT"
+      ],
+      "summary": "<p><b>The industry-leading podcast has helped thousands of future physical therapists and physical therapist assistants prepare for the NPTE with expert instruction, practical strategies, and free educational content.</b></p><p><span class=\"legendSpanClass\">NASHVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- PT Final Exam, one of the nation's leading NPTE and NPTAE preparation providers, announces the release of the <b>300th episode of </b><b><i>The NPTE Podcast</i></b>, the free weekly show that thousands of physical therapy and physical therapy assistant students use to prepare for the National Physical Therapy Examination (NPTE).</p>\n    ",
+      "ticker": [],
+      "title": "PT Final Exam Celebrates 300 Episodes of The NPTE Podcast, Marking a Major Milestone in NPTE Exam Preparation",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902CL39370",
+      "body": "\n<p><b>The industry-leading podcast has helped thousands of future physical therapists and physical therapist assistants prepare for the NPTE with expert instruction, practical strategies, and free educational content.</b></p><p><span class=\"legendSpanClass\">NASHVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- PT Final Exam, one of the nation's leading NPTE and NPTAE preparation providers, announces the release of the <b>300th episode of </b><b><i>The NPTE Podcast</i></b>, the free weekly show that thousands of physical therapy and physical therapy assistant students use to prepare for the National Physical Therapy Examination (NPTE).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980546/PT-Final-Exam-Logo.jpg?id=OA2926210\" title=\"PT Final Exam\" alt=\"PT Final Exam\"></img>\n                </p>\n    </div>\n<p>Hosted by <b>Dr. Will Crane, PT, DPT, OCS</b>, founder of PT Final Exam, <i>The NPTE Podcast</i> has become a trusted free resource for students seeking high-yield review, clinical reasoning, test-taking strategies, and practice questions designed to mirror the content and critical thinking required on the National Physical Therapy Examination (NPTE). The podcast is updated weekly and is available on Apple Podcasts, Spotify, YouTube, Amazon Music, iHeartRadio, and other major podcast platforms.</p><p>\"For many students, the NPTE can feel overwhelming,\" said Dr. Will Crane. \"Our goal has always been simple: provide high-quality education that makes complex concepts easier to understand and gives students the confidence to perform at their best. Reaching 300 episodes is exciting because it represents thousands of hours invested in helping future clinicians succeed.\"</p><p>Dr. Will Crane, PT, DPT, OCS, founded PT Final Exam in 2012. Since then, 95 percent of students who complete PT Final Exam's flagship review course have passed the NPTE. Offered at no charge, <i>The NPTE Podcast</i> has published 300 episodes featuring board-style practice questions, answer rationales, and clinical reasoning instruction.</p><p>Since launching PT Final Exam in 2012, Dr. Crane and his team have developed comprehensive review courses, practice exams, live webinars, and free educational resources. to help more than 25,000 physical therapist and physical therapist assistant students prepare for licensure. The company's mission has remained consistent: make exceptional board preparation more accessible while improving the confidence and readiness of tomorrow's rehabilitation professionals.</p><p>Unlike many exam prep resources, <i>The NPTE Podcast</i> combines realistic board-style questions with in-depth explanations that teach students <b>why</b> the correct answer is right—not simply what to memorize. Episodes cover every body system tested on the NPTE, along with professional topics, clinical decision-making, and evidence-based practice.</p><p>The podcast has also earned recognition from students preparing for the NPTE, who frequently recommend it as a free study resource alongside other exam preparation tools in online PT communities.</p><p>\"Education should empower, not intimidate,\" added Dr. Crane. \"Whether someone discovers us through a five-minute practice question on the podcast or joins one of our comprehensive review programs, our purpose is the same: help every student walk into exam day prepared.\"</p><p>The 300th episode continues the podcast's commitment to delivering concise, clinically relevant content that students can fit into busy schedules while building the knowledge and confidence needed to pass the NPTE.</p><p>Students can listen to the 300th episode and explore the full podcast library by visiting <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766047-1&amp;h=3910287476&amp;u=https%3A%2F%2Fptfinalexam.com%2Fpodcast&amp;a=https%3A%2F%2Fptfinalexam.com%2Fpodcast\" target=\"_blank\" rel=\"nofollow\"><b>https://ptfinalexam.com/podcast</b></a>.</p><p><b>About PT Final Exam</b></p><p>PT Final Exam, A Summit Professional Education Company, is a premier provider of NPTE and NPTAE preparation for physical therapist and physical therapist assistant students. Founded by Dr. Will Crane, PT, DPT, OCS, PT Final Exam offers comprehensive board preparation through online review courses, live instruction, practice exams, webinars, and <i>The NPTE Podcast</i>. Since 2012, thousands of students have trusted PT Final Exam to help them prepare for and pass their licensing examinations with confidence. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766047-1&amp;h=3429066&amp;u=https%3A%2F%2Fptfinalexam.com%2F&amp;a=https%3A%2F%2Fptfinalexam.com\" target=\"_blank\" rel=\"nofollow\"><b>https://ptfinalexam.com</b></a>.</p><p><b>About Summit Professional Education</b></p><p>Summit Professional Education believes confidence starts with education. Summit delivers engaging, expert-led continuing education to more than 500,000 healthcare professionals — physical therapists, occupational therapists, speech-language pathologists, athletic trainers, nurse practitioners, counselors, psychologists, and social workers — through on-demand, live, livestream, and in-person courses. Every course is taught by working clinicians and built to be applied the next day, not filed away for a license renewal. The Summit Education Family of Companies includes PT Final Exam, Herman and Wallace Pelvic Rehabilitation Institute, Kids Bowel and Bladder, The Knowledge Tree and National Federation of Professional Trainers, extending its mission across the professions it serves, from continuing education to board exam preparation. <b>For Those Who Care™.</b> Learn more at <a href=\"https://summit-education.com\" rel=\"nofollow\">https://summit-education.com</a>.</p><p><b>Media Contact – Dr. Will Crane (<a href=\"mailto:will@ptfinalexam.com\" rel=\"nofollow\">will@ptfinalexam.com</a>)</b></p><p>PT Final Exam<br></br>Website: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766047-1&amp;h=3429066&amp;u=https%3A%2F%2Fptfinalexam.com%2F&amp;a=https%3A%2F%2Fptfinalexam.com\" target=\"_blank\" rel=\"nofollow\">https://ptfinalexam.com</a><br></br>Podcast: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766047-1&amp;h=3910287476&amp;u=https%3A%2F%2Fptfinalexam.com%2Fpodcast&amp;a=https%3A%2F%2Fptfinalexam.com%2Fpodcast\" target=\"_blank\" rel=\"nofollow\">https://ptfinalexam.com/podcast</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL39370&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/pt-final-exam-celebrates-300-episodes-of-the-npte-podcast-marking-a-major-milestone-in-npte-exam-preparation-302867920.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/pt-final-exam-celebrates-300-episodes-of-the-npte-podcast-marking-a-major-milestone-in-npte-exam-preparation-302867920.html</a></p><p>SOURCE Summit Professional Education, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL39370&amp;Transmission_Id=202609021207PR_NEWS_USPR_____CL39370&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Summit Professional Education, LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast",
           "tradeshow"
         ],
         "review": false,
@@ -158,24 +254,683 @@
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
-          "entertainment": 0,
+          "entertainment": 2,
           "management": 0,
-          "radio": 0,
+          "radio": 2,
           "television": 0,
-          "podcast": 0,
-          "tradeshow": 5
+          "podcast": 4,
+          "tradeshow": 2
         },
         "reasons": {
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "industry:RAD"
+          ],
           "tradeshow": [
-            "summary:exhibitor",
-            "expo",
             "summit"
           ]
         },
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:25:14.662Z"
+      "imported_at": "2026-09-04T18:33:01.786Z"
+    },
+    {
+      "company": [
+        "MFour Data Research"
+      ],
+      "date": "20260902T141700+0000",
+      "dateline": "IRVINE, Calif., Sept. 2, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SMD",
+        "ADV",
+        "DTA",
+        "MEN",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "MFour Data Research logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS695834/MFour-Data-Research-logo-Logo.jpg?id=OA2925222&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS695834/MFour-Data-Research-logo-Logo.jpg?id=OA2925222&p=publish"
+        }
+      ],
+      "release_id": "20260902LA39050",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY",
+        "PDT"
+      ],
+      "summary": "<p><b>MFour's OmniTraffic® Digital Ads feed now captures ad exposure across ChatGPT, social, video and audio apps, and connects it to each panelist's downstream behavior for attribution.</b></p><p><span class=\"legendSpanClass\">IRVINE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- MFour Data Research today announced the launch of OmniTraffic® Digital Ads, expanding its digital ad exposure capabilities beyond social media to include AI, streaming video and audio platforms. The feed now captures advertising exposure across ChatGPT, YouTube, Spotify, Pandora and SoundCloud, alongside Facebook, Instagram, TikTok, and X.</p>\n    ",
+      "ticker": [],
+      "title": "MFour Expands Digital Ad Exposure Intelligence to ChatGPT and Audio Streaming Platforms",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902LA39050",
+      "body": "\n<p><b>MFour's OmniTraffic® Digital Ads feed now captures ad exposure across ChatGPT, social, video and audio apps, and connects it to each panelist's downstream behavior for attribution.</b></p><p><span class=\"legendSpanClass\">IRVINE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- MFour Data Research today announced the launch of OmniTraffic® Digital Ads, expanding its digital ad exposure capabilities beyond social media to include AI, streaming video and audio platforms. The feed now captures advertising exposure across ChatGPT, YouTube, Spotify, Pandora and SoundCloud, alongside Facebook, Instagram, TikTok, and X.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS695834/MFour-Data-Research-logo-Logo.jpg?id=OA2925222\" title=\"MFour Data Research logo\" alt=\"MFour Data Research logo\"></img>\n                </p>\n    </div>\n<p>MFour's OmniTraffic® Digital Ads feed gives brands a unified view of advertising exposure across channels that increasingly shape the consumer journey. Because each exposure is tied to the same opted-in MFour consumer identity used across the company's behavioral data, researchers can connect media exposure with downstream actions including app usage, web activity, store visits, AI conversations, and purchases.</p><p>\"Advertising is happening across more digital environments than ever, but measurement is still fragmented,\" said Chris St. Hilaire, Founder and CEO of MFour Data Research. \"By connecting ad exposure across social platforms, streaming media, and AI to what those same consumers do next, we're giving brands a clearer view of the full journey and a stronger understanding of what happens after exposure.\"</p><p>Unlike modeled or inferred impressions, OmniTraffic® Digital Ads captures real, observed ad exposure from consenting, compensated consumers in MFour's first-party panel. Available fields vary by platform and can include advertiser information, promotion type, creative metadata, exposure timing and duration.</p><p>At launch, the feed includes approximately 60,000 consumers and 63 million ad exposures from the most recent 30-day period. For brand and insights teams, that expanded coverage creates new opportunities to evaluate advertising and brand lift across a broader mix of digital environments.</p><p><b>Learn more at </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765727-1&amp;h=3633992518&amp;u=https%3A%2F%2Fwww.mfour.com%2F&amp;a=MFour.com\" target=\"_blank\" rel=\"nofollow\"><b>MFour.com</b></a><b>.</b></p><p><b>About MFour Data Research</b></p><p>MFour Data Research, founded in 2011, provides validated, opt-in consumer behavior and survey data powered by its Surveys On The Go® app and Fair Trade Data® model. The company's 13M+ consumer panel generates nine deterministic data streams — ChatGPT conversations, location, app usage, web browsing, receipts, demographics, attitudes, survey responses and behavior-triggered surveys — all connected to a single identity.</p><p>Through MFour Studio™, organizations can access these behavioral and survey signals to understand consumer journeys and measure outcomes, with DANI™ (Data Analytics Navigation Instructor), MFour's AI assistant, providing on-demand analysis across 4 billion monthly buyer signals. MFour is trusted by Samsung, Google, Amazon Ads, Microsoft, Hulu, Keurig Dr Pepper, Papa Johns and hundreds of other global brands.</p><p><b>Full Journey Intelligence. Know What to Do Next.</b></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39050&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mfour-expands-digital-ad-exposure-intelligence-to-chatgpt-and-audio-streaming-platforms-302867435.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mfour-expands-digital-ad-exposure-intelligence-to-chatgpt-and-audio-streaming-platforms-302867435.html</a></p><p>SOURCE MFour Data Research</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39050&amp;Transmission_Id=202609021017PR_NEWS_USPR_____LA39050&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "MFour Data Research",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 3,
+          "digital": 5,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "summary:social media",
+            "industry:MLM",
+            "industry:SMD"
+          ],
+          "tradeshow": [
+            "expo"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:02.463Z"
+    },
+    {
+      "company": [
+        "Comcast Technology Solutions"
+      ],
+      "date": "20260902T040000+0000",
+      "dateline": "DENVER, Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "COL",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "MLM",
+        "TLS",
+        "BRD",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Comcast Technology Solutions",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075&p=publish"
+        },
+        {
+          "caption": "Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076&p=publish"
+        }
+      ],
+      "release_id": "20260902SF37329",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "FVT",
+        "TDS"
+      ],
+      "summary": "<ul type=\"disc\"><li><i>Building on CTS' VideoAI™ platform, new suite of end-to-end AI-powered workflow applications brings premium content processing capabilities to manage and monetize entire content libraries<br></br><br></br></i></li><li><i>Applications include video verticalization, localization, smart chapters, metadata enrichment, quality control, and intelligent clip generation<br></br><br></br></i></li><li><i>Designed to work across CTS' portfolio, including Comcast Media360™, Comcast Sports360™, and standalone Cloud Video Platform deployments</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=1857801218&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today unveiled a comprehensive suite of end-to-end AI-powered workflow applications for broadcasters, content owners, and operators worldwide. Building on the foundation of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=2431810307&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5w&amp;a=VideoAI\" target=\"_blank\" rel=\"nofollow\">VideoAI</a>™ platform, these new applications deliver AI as practical, integrated solutions to real-world content production and management challenges.</p>\n    ",
+      "ticker": [],
+      "title": "Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902SF37329",
+      "body": "\n<ul type=\"disc\"><li><i>Building on CTS' VideoAI™ platform, new suite of end-to-end AI-powered workflow applications brings premium content processing capabilities to manage and monetize entire content libraries<br></br><br></br></i></li><li><i>Applications include video verticalization, localization, smart chapters, metadata enrichment, quality control, and intelligent clip generation<br></br><br></br></i></li><li><i>Designed to work across CTS' portfolio, including Comcast Media360™, Comcast Sports360™, and standalone Cloud Video Platform deployments</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=1857801218&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today unveiled a comprehensive suite of end-to-end AI-powered workflow applications for broadcasters, content owners, and operators worldwide. Building on the foundation of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=2431810307&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5w&amp;a=VideoAI\" target=\"_blank\" rel=\"nofollow\">VideoAI</a>™ platform, these new applications deliver AI as practical, integrated solutions to real-world content production and management challenges.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075\" title=\"Comcast Technology Solutions\" alt=\"Comcast Technology Solutions\"></img>\n                </p>\n    </div>\n<p>In a market increasingly crowded with standalone AI vendors and start-ups, CTS aims to serve as a single, trusted partner for end-to-end AI-enhanced content processing, video management, and monetization — backed by the proven reliability and scale of Comcast Technology Solutions and 24/7 managed services. CTS provides end-to-end, production-ready workflow integration that embeds AI capabilities into complete, deployable applications — requiring no additional specialist AI knowledge or developer requirements. The new applications are designed to work across CTS' full product portfolio, including <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=3593064493&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5z&amp;a=Comcast+Media360\" target=\"_blank\" rel=\"nofollow\">Comcast Media360</a>™ for broadcasters and content owners, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=884793227&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng63&amp;a=Comcast+Sports360\" target=\"_blank\" rel=\"nofollow\">Comcast Sports360</a>™ for sports rights holders, and standalone deployments of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=46168004&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng66&amp;a=Cloud+Video+Platform\" target=\"_blank\" rel=\"nofollow\">Cloud Video Platform</a> (CVP) for operators.</p><p><b>\"</b>The video industry is ready to move past AI hypotheticals and onto production-ready applications that solve real problems, generate new business opportunities, and integrate seamlessly into the workflows they already rely upon,<b>\"</b> said Bart Spriester, Senior Vice President and General Manager of Streaming, Broadcast, and Advertising at Comcast Technology Solutions. <b>\"</b>Whether for creating vertical videos, localization, advanced advertising, metadata enrichment, quality control, or intelligent clip generation, CTS stands ready to help our customers benefit from AI to better manage and monetize their content catalogs. CTS VideoAI is based on implementations deployed by some of the world's largest media companies, and we're excited to roll out this package of new applications designed to help our customers of all sizes benefit from that experience in new ways.\"</p><p><b>Next-Gen AI Applications</b> </p><p>The next-gen AI applications from CTS include:</p><ul type=\"disc\"><li><b>Video Verticalization: </b>Using AI-driven smart cropping technology, CTS can automatically convert landscape video content into portrait format for social media syndication, intelligently identifying the \"action center\" of each scene and making intelligent cut or pan decisions without manual editor intervention. </li><li><b>Localization of Regional Languages: </b>Leveraging AI-generated voices, CTS can automate dubbing workflows that previously required costly and time-consuming human voice talent. The application can extract audio from soundtracks, preserve ambience and music, translate dialogue, select appropriate voice matching, relay the finished audio back into the content, and generate automated captions. </li><li><b>Smart Chapters: </b>For distribution-ready workflows combining content and ad insertion, CTS can create AI-driven detection of intros, credit rolls, and ad break candidates, enhanced with weighting algorithms to select the optimal set of ad break points and automatically trigger stream conditioning, transcoding, and packaging. </li><li><b>Metadata Enrichment: </b>CTS will automatically generate scene and asset-level metadata and pass it into Cloud Video Platform metadata files, enabling semantic and natural language search capabilities. Rather than traditional keyword searches, content owners will be able to unlock intent-based discovery, allowing customers to find content based on themes, moods, and contextual queries. </li><li><b>Automated Quality Control: </b>CTS will also offer AI-powered \"virtual eyes-on-glass\" QC checks — including black screen detection, missing audio identification, and other content integrity verifications. This capability can enable cost-effective QC across a significantly larger portion of the content catalog compared to traditional human monitoring approaches. </li><li><b>Intelligent Clipping: </b>CTS will also offer natural language query-driven clip identification and selection, allowing editors to find key moments within long-form content. This could include sports highlights, social media clips, or trailer generation, and then trigger automated processing and publishing workflows.</li></ul><p>CTS' new applications are integrated into CTS' Cloud Media Processing (CMP) engine, a flexible, programmable workflow orchestration layer. Processors can be inserted as pre-processors, content manipulation steps, or post-processors, enabling customers to activate individual AI capabilities within their existing workflows without rebuilding their technology stack. For broadcasters and content owners using Comcast Media360, the AI-enhanced workflow processors integrate with existing channel origination and content supply chain services. For sports organizations leveraging Comcast Sports360, capabilities such as intelligent clipping and metadata enrichment are directly applicable to live and on-demand sports content workflows. For MVPDs and operators, these applications will be made available through CTS' Cloud Video Platform. Each of these applications is expected to be made commercially available throughout 2026-2027 to support customer deployments.</p><p><b>Comcast Technology Solutions at IBC 2026</b></p><p>At the 2026 IBC Show, CTS will showcase its next-gen video AI capabilities and full suite of solutions for streaming, broadcast, entertainment, and sports at RAI Amsterdam, September 11–14 in Hall 5, Stand 5.C80. Experts will be on hand to demonstrate the new AI applications and discuss how they integrate across the Comcast Media360, Comcast Sports360, and Cloud Video Platform portfolios. Customers, prospects, and partners of CTS seeking to schedule on-site business meetings can visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=3291731819&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng69&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com%2Fevents\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com/events</a>.</p><p>To learn more about Comcast Technology Solutions' entire product portfolio, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=679395412&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com</a>.</p><p><b><u>About Comcast Technology Solutions<br></br></u></b>Comcast Technology Solutions, a division of one of the world's leading media and technology companies, brings Comcast Corporation's proven technologies to an evolving list of industries worldwide. Comcast Technology Solutions offers a broad portfolio of solutions that deliver flexibility at scale for global video, media, communications, data applications, and cybersecurity &amp; compliance. Customers include leading content and streaming video providers, pay TV operators and MVPDs, advertisers, communications providers, financial service providers, retailers, and more. For more information, visit Comcast Technology Solutions.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076\" title=\"Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators\" alt=\"Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF37329&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/comcast-technology-solutions-unveils-next-gen-video-ai-applications-for-broadcasters-content-and-streaming-providers-and-operators-302866174.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/comcast-technology-solutions-unveils-next-gen-video-ai-applications-for-broadcasters-content-and-streaming-providers-and-operators-302866174.html</a></p><p>SOURCE Comcast Technology Solutions</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF37329&amp;Transmission_Id=202609020000PR_NEWS_USPR_____SF37329&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Comcast Technology Solutions",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital",
+        "engineering",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital",
+          "engineering",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 7,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "engineering": [
+            "video ai",
+            "industry:BRD"
+          ],
+          "radio": [
+            "broadcaster"
+          ],
+          "television": [
+            "industry:TVN"
+          ],
+          "tradeshow": [
+            "summary:ibc show"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:03.605Z"
+    },
+    {
+      "company": [
+        "LiveU"
+      ],
+      "date": "20260901T122600+0000",
+      "dateline": "HACKENSACK, N.J., Sept. 1, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NJY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "BRD",
+        "CPR",
+        "ITE",
+        "MLM",
+        "TLS",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Actus X Intelligent Monitoring Platform.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041&p=publish"
+        },
+        {
+          "caption": "LiveU ( http://liveu.tv/ ) is the pioneer and leader of IP-based video services and broadcast solutions for acquisition, management, and distribution. (PRNewsFoto/LiveU)",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS376853/LiveU-Logo.jpg?id=OA2923045&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS376853/LiveU-Logo.jpg?id=OA2923045&p=publish"
+        }
+      ],
+      "release_id": "20260901NY38086",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Next-generation Actus X introduces workflow-focused UX, customizable browser-based multiviewer, AI-based content monitoring and planned native LiveU LRT</i><i>™</i><i> integration</i></p><p><span class=\"legendSpanClass\">HACKENSACK, N.J.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Actus Digital, a LiveU company, will unveil the next generation of its Actus X platform at IBC2026 on LiveU's Stand 7.C24, demonstrating how broadcasters can simplify operations, respond faster to technical and content issues, and adapt confidently to rapidly changing workflows.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041\" title=\"Actus X Intelligent Monitoring Platform.\" alt=\"Actus X Intelligent Monitoring Platform.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Actus Digital Unveils the Future of Broadcast Monitoring at IBC2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901NY38086",
+      "body": "\n<p class=\"prntac\"><i>Next-generation Actus X introduces workflow-focused UX, customizable browser-based multiviewer, AI-based content monitoring and planned native LiveU LRT</i><i>™</i><i> integration</i></p><p><span class=\"legendSpanClass\">HACKENSACK, N.J.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Actus Digital, a LiveU company, will unveil the next generation of its Actus X platform at IBC2026 on LiveU's Stand 7.C24, demonstrating how broadcasters can simplify operations, respond faster to technical and content issues, and adapt confidently to rapidly changing workflows.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041\" title=\"Actus X Intelligent Monitoring Platform.\" alt=\"Actus X Intelligent Monitoring Platform.\"></img>\n                </p>\n    </div>\n<p>Visitors will experience the established capabilities that have made Actus X a trusted solution worldwide – compliance logging, QA and technical monitoring, browser-based multiviewing, clip creation and AI-powered media intelligence – alongside major advances in usability, performance, scalability and integration.</p><p>As media operations expand across linear, OTT and digital platforms, broadcasters must monitor more channels, formats and delivery points, often with distributed teams and shifting requirements. The latest evolution of Actus X addresses this through workflow-focused user experiences, intelligent automation, flexible deployment and deeper integration across the LiveU EcoSystem.</p><p>\"Broadcast operations are becoming more dynamic, distributed and complex, but the technology supporting them should become simpler,\" said Sima Levy, CEO of Actus Digital. \"The next generation of Actus X is designed around the people who use it every day, giving each team the visibility, flexibility and intelligence it needs to work faster and make better decisions.\"</p><p><b>Rebuilt for Dynamic Operations</b></p><p>The new Actus X infrastructure has been rebuilt using advanced software technologies for faster performance, greater scalability and enhanced cloud efficiency. System configuration is now significantly more dynamic: as a channel changes resolution, a new service launches or additional capacity is needed, adjustments can be made quickly without complex engineering work. This flexibility is especially valuable for temporary services, live events and fast changing broadcast environments.</p><p><b>A Next-Generation Browser-Based Multiviewer</b></p><p>Actus will also showcase its next-generation browser-based multiviewer, built for distributed, personalized monitoring. Each user can create unlimited layouts via drag-and-drop, selecting the channels, alerts and technical information relevant to their role – no longer restricted to fixed layouts or dedicated monitoring stations. Because it runs entirely within a browser, it can be securely accessed from virtually anywhere, with sub-second latency for real-time monitoring.</p><p>The experience goes beyond passive viewing. Operators can listen to live audio, rewind content instantly, investigate alerts and interact directly with monitored streams, all from one interface, with integrated alerts enabling faster response and less manual supervision.</p><p><b>Cloud-Optimized Without Compromising Choice</b></p><p>Actus has invested extensively in optimizing Actus X for cloud environments, improving resource efficiency and helping customers control infrastructure costs. Actus X continues to support on-premises, cloud-native and hybrid architectures, so organizations can choose and evolve the model that fits their operational, technical, security and regulatory needs.</p><p><b>Direct connection between content acquisition and monitoring</b> </p><p>At IBC2026, Actus will also present its roadmap for deeper integration with LiveU native LRT, led by planned native support for LiveU Reliable Transport (LRT™) within Actus X. This will allow LiveU feeds to be ingested directly into Actus X benefiting from all Actus monitoring and AI capabilities, without first converting them to another protocol – reducing latency, eliminating unnecessary points of failure, and preserving original video quality, and LRT's bonding and error-resilience advantages throughout the workflow. For customers, that means fewer gateway components and a more direct connection between content acquisition and monitoring.</p><p><b>A User Experience Designed Around Every Workflow</b></p><p>One of the most significant developments is a completely redesigned interface structured around specific operational roles. Instead of showing every user the same screens, Actus X provides focused workspaces for broadcast engineers, technical operators, compliance teams, production staff and media intelligence professionals – each with immediate access to the tools, data and alerts most relevant to their responsibilities.</p><p>For engineers, a dedicated technical workspace brings critical information onto a single screen, with multiple channels and delivery points viewable simultaneously to help teams identify anomalies, investigate their source and respond before viewers are affected – a cleaner experience and a faster route from detection to resolution.</p><p><b>Actus Digital will be presenting Actus X on LiveU's Stand 7.C24. For more information or to schedule a demonstration, visit </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=507162730&amp;u=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital&amp;a=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital\" target=\"_blank\" rel=\"nofollow\"><b>https://www.liveu.tv/products/manage/actus-digital</b></a><b>.</b></p><p><b><u>About Actus Digital</u></b></p><p>Since 2005, and now in a bigger capacity as a LiveU company, Actus Digital has set the standard for intelligent media monitoring and compliance logging, trusted by broadcasters, media regulators, public sector organizations, and governments. With over 2,000 installations, Actus delivers a QA Compliance Logger enhanced with advanced solutions like Actus SW based multiviewer, Actus AI Media Insight for content analysis, Clip Factory Pro for content repurposing, OTT StreamWatch for OTT/FAST monitoring and Actus Remote post-STB Video monitoring (RVM). Each product can stand alone or be fully integrated into one unified platform.</p><p>Actus supports all broadcast video and streaming protocols and is available as a turnkey appliance, software/VM-based system, or SaaS. Headquartered in the US with global 24/7 support, Actus Digital, now a LiveU company, is accelerating innovation and delivering even greater value to customers.</p><p>For more details, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=507162730&amp;u=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital&amp;a=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital\" target=\"_blank\" rel=\"nofollow\">https://www.liveu.tv/products/manage/actus-digital</a>, or follow us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=1760182162&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Factusdigital%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=42757822&amp;u=https%3A%2F%2Ftwitter.com%2Factusdigitaltm%3Flang%3Den&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=2016979404&amp;u=https%3A%2F%2Fwww.facebook.com%2FActusDigital%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=608007328&amp;u=https%3A%2F%2Fwww.youtube.com%2F%40ActusDigital&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>.</p><p><span><b>Press contacts:</b><br></br>Kate Ford (Int'l)+44-7740 948065<br></br><a id=\"menur6f2\" href=\"mailto:kate@jumppr.tv\" target=\"_blank\" rel=\"nofollow\"><span>kate@jumppr.tv</span></a><br></br><br></br>Joyce Essig (Americas)<br></br>201-906-9367<br></br><a id=\"menur6f4\" href=\"mailto:joyce@liveu.tv\" target=\"_blank\" rel=\"nofollow\"><span>joyce@liveu.tv</span></a></span></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS376853/LiveU-Logo.jpg?id=OA2923045\" title=\"LiveU ( http://liveu.tv/ ) is the pioneer and leader of IP-based video services and broadcast solutions for acquisition, management, and distribution. (PRNewsFoto/LiveU)\" alt=\"LiveU ( http://liveu.tv/ ) is the pioneer and leader of IP-based video services and broadcast solutions for acquisition, management, and distribution. (PRNewsFoto/LiveU)\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY38086&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/actus-digital-unveils-the-future-of-broadcast-monitoring-at-ibc2026-302866227.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/actus-digital-unveils-the-future-of-broadcast-monitoring-at-ibc2026-302866227.html</a></p><p>SOURCE LiveU</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY38086&amp;Transmission_Id=202609010826PR_NEWS_USPR_____NY38086&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "LiveU",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "engineering",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "engineering",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 2,
+          "digital": 2,
+          "engineering": 7,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 1,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "engineering": [
+            "broadcast monitoring",
+            "industry:BRD"
+          ],
+          "radio": [
+            "summary:broadcaster"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:05.373Z"
+    },
+    {
+      "company": [
+        "Live Nation Entertainment"
+      ],
+      "date": "20260826T201500+0000",
+      "dateline": "LOS ANGELES, Aug. 26, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Live Nation Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409&p=publish"
+        }
+      ],
+      "release_id": "20260826LA34615",
+      "status": "PUBLISHED",
+      "subject": [
+        "CCA",
+        "FVT",
+        "TDS"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- Live Nation Entertainment, Inc. (NYSE: LYV), the world's leading live entertainment company, announced today that management will present at Goldman Sachs Communacopia &amp; Technology Conference on Wednesday, September 9, 2026 at 10:10 a.m. PT.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409\" title=\"Live Nation Logo\" alt=\"Live Nation Logo\"></img>\n                </p>\n    </div>\n<p>A live webcast of the session will be accessible from the \"News / Events\" section of the company's website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1608232916&amp;u=http%3A%2F%2Fwww.investors.livenationentertainment.com%2F&amp;a=investors.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">investors.livenationentertainment.com</a>. </p><p><b>About Live Nation Entertainment</b></p>",
+      "ticker": [
+        "NYSE:LYV"
+      ],
+      "title": "Live Nation Entertainment To Participate In Goldman Sachs Communacopia &amp; Technology Conference",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826LA34615",
+      "body": "\n<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- Live Nation Entertainment, Inc. (NYSE: LYV), the world's leading live entertainment company, announced today that management will present at Goldman Sachs Communacopia &amp; Technology Conference on Wednesday, September 9, 2026 at 10:10 a.m. PT.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS227451/LNE-Logo-Aug-2024-Logo-Logo-Logo.jpg?id=OA2914409\" title=\"Live Nation Logo\" alt=\"Live Nation Logo\"></img>\n                </p>\n    </div>\n<p>A live webcast of the session will be accessible from the \"News / Events\" section of the company's website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1608232916&amp;u=http%3A%2F%2Fwww.investors.livenationentertainment.com%2F&amp;a=investors.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">investors.livenationentertainment.com</a>. </p><p><b>About Live Nation Entertainment</b></p><p>Live Nation Entertainment (NYSE: LYV) is the world's leading live entertainment company comprised of global market leaders: Ticketmaster, Live Nation Concerts and Live Nation Media &amp; Sponsorship.  For additional information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760454-1&amp;h=1817577779&amp;u=http%3A%2F%2Fwww.livenationentertainment.com%2F&amp;a=www.livenationentertainment.com\" target=\"_blank\" rel=\"nofollow\">www.livenationentertainment.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA34615&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/live-nation-entertainment-to-participate-in-goldman-sachs-communacopia--technology-conference-302860955.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/live-nation-entertainment-to-participate-in-goldman-sachs-communacopia--technology-conference-302860955.html</a></p><p>SOURCE Live Nation Entertainment</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA34615&amp;Transmission_Id=202608261615PR_NEWS_USPR_____LA34615&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Live Nation Entertainment",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 10,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:entertainment company",
+            "summary:live entertainment",
+            "entertainment",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "tradeshow": [
+            "conference"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:10.074Z"
+    },
+    {
+      "company": [
+        "XGIMI"
+      ],
+      "date": "20260825T130000+0000",
+      "dateline": "SUNNYVALE, Calif., Aug. 25, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CSE",
+        "PEL",
+        "HMI",
+        "HRD",
+        "MLM",
+        "CPR",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "XGIMI and AWALL Announce Strategic Partnership and the Founding of “XWALL by XGIMI,” a New Premium Home Entertainment Brand for the U.S.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1975095/20260825030045EDT_image_1.jpg?id=OA2909488&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1975095/20260825030045EDT_image_1.jpg?id=OA2909488&p=publish"
+        }
+      ],
+      "release_id": "20260825CN33062",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "TDS",
+        "FVT"
+      ],
+      "summary": "<p><b><i>The jointly founded brand pairs XGIMI</i></b><b><i>'</i></b><b><i>s flagship engineering with AWALL</i></b><b><i>'</i></b><b><i>s U.S. custom-installation expertise and local service network </i></b><b><i>— with its first flagship product to be unveiled September 1 at CEDIA Expo 2026, Booth #3327</i></b></p><p><span class=\"legendSpanClass\">SUNNYVALE, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- XGIMI, a global leader in smart projection technology, and <b>AWALL LLC</b>, a U.S. company built for the custom-installation channel, today announced a strategic partnership and the founding of <b>XWALL by XGIMI</b> — a new premium home entertainment brand created jointly by the two companies for the United States. The brand, and its first flagship product, will make their public debut on <b>September 1 at CEDIA Expo 2026</b> (Colorado Convention Center, Denver — Booth #3327).</p>\n    ",
+      "ticker": [],
+      "title": "XGIMI and AWALL Announce Strategic Partnership and the Founding of \"XWALL by XGIMI,\" a New Premium Home Entertainment Brand for the U.S.",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260825CN33062",
+      "body": "\n<p><b><i>The jointly founded brand pairs XGIMI</i></b><b><i>'</i></b><b><i>s flagship engineering with AWALL</i></b><b><i>'</i></b><b><i>s U.S. custom-installation expertise and local service network </i></b><b><i>— with its first flagship product to be unveiled September 1 at CEDIA Expo 2026, Booth #3327</i></b></p><p><span class=\"legendSpanClass\">SUNNYVALE, Calif.</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- XGIMI, a global leader in smart projection technology, and <b>AWALL LLC</b>, a U.S. company built for the custom-installation channel, today announced a strategic partnership and the founding of <b>XWALL by XGIMI</b> — a new premium home entertainment brand created jointly by the two companies for the United States. The brand, and its first flagship product, will make their public debut on <b>September 1 at CEDIA Expo 2026</b> (Colorado Convention Center, Denver — Booth #3327).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975095/20260825030045EDT_image_1.jpg?id=OA2909488\" title=\"XGIMI and AWALL Announce Strategic Partnership and the Founding of “XWALL by XGIMI,” a New Premium Home Entertainment Brand for the U.S.\" alt=\"XGIMI and AWALL Announce Strategic Partnership and the Founding of “XWALL by XGIMI,” a New Premium Home Entertainment Brand for the U.S.\"></img>\n                </p>\n    </div>\n<p>XWALL by XGIMI is not a distribution agreement — it is a brand the two companies founded together. XGIMI contributes its flagship engineering and manufacturing scale; AWALL contributes its deep understanding of the American home theater market, a nationwide network of specialty AV dealers and integrators, and a U.S.-based service organization. Where global products are often brought to the U.S. market as-is, XWALL was created to do the opposite: to adapt world-class projection into complete home cinema solutions built around how American customers, integrators, and dealers actually work.</p><p>\"Great hardware alone doesn't make a great home theater — the market, the service, and the installation have to be built for the customer in front of you,\" said <b>Xi Zhao, VP <span id=\"spanHghltb01f\">of</span> XGIMI. </b>\"That conviction is why we chose to found a brand with AWALL rather than simply appoint another distributor. XWALL by XGIMI is where XGIMI's engineering meets AWALL's American market expertise and service infrastructure — and what we unveil at CEDIA will show exactly what that combination makes possible.\"</p><p>The partnership is led on the AWALL side by <b>Steven Shulman, Chief Executive Officer of AWALL and founder of AWOL Vision</b>, one of the custom-installation industry's most recognized entrepreneurs in premium projection, joined by <b>Michael Yanoff, President of AWALL</b>. Together they bring the channel relationships and operational depth the new brand's dealer-first model is built on. As co-founder of XWALL by XGIMI, AWALL will serve as the brand's exclusive U.S. sales and service partner, leading dealer recruitment, training, and channel programs nationwide.</p><p>\"I've spent my career building premium projection brands for this channel, and XWALL is the opportunity I've been looking for,\" said <b>Shulman</b>. \"XGIMI brings world-class engineering and manufacturing scale; AWALL brings the market understanding and the service network that American customers expect. Founding a brand together is the only way to put those two things in one place — and integrators and dealers should watch what we open with at CEDIA.\"</p><p>Every XWALL by XGIMI product will carry what the two companies intend as defining hallmarks of the brand: a <b>signature three-year warranty</b>, engineered and backed by XGIMI and delivered locally through AWALL's U.S.-based service team, alongside professional calibration, customized configuration, and a complete home theater solution system — from consultation and system design through dealer-led installation and after-sales support. XWALL products will be offered in the U.S. exclusively through AWALL and its family of sales channels, from specialty dealers and integrators to retail and online.</p><p>The brand's inaugural product — a flagship home cinema statement built on XGIMI's most advanced projection platform — will be revealed on <b>September 1</b>, when XWALL by XGIMI makes its debut at CEDIA Expo 2026. Attendees will be able to experience it in a dedicated, calibrated demonstration space at <b>XGIMI's</b> <b>Booth #3327 </b>and<b> AWALL's booth #4107</b>, where XGIMI and AWALL will also host joint media sessions during the show. Integrators and dealers interested in joining the XWALL dealer program can visit the booth or contact AWALL at <span id=\"spanHghlt5fa7\"><a href=\"mailto:info@awall.com\" target=\"_blank\" rel=\"nofollow\">info@awall.com</a>.</span> </p><p><b>About XGIMI</b></p><p>Since 2013, XGIMI has helped people worldwide create genuinely immersive audio-visual experiences. Working with world-class partners, including Google, Harman Kardon, and Texas Instruments, XGIMI builds all-in-one entertainment devices guided by a user-first philosophy. Through industry-leading innovation, streamlined setup, and distinctive design, XGIMI develops the best home and portable projectors for everyone to enjoy. Learn more at XGIMI.com. </p><p><b>About AWALL</b></p><p>AWALL LLC is a U.S. company dedicated to premium home entertainment for the custom-installation channel. Founded and led by industry veteran Steven Shulman, founder of AWOL Vision, AWALL works with specialty AV dealers and integrators across the United States, providing brand programs, dealer training, professional calibration, and U.S.-based after-sales service. AWALL is the co-founder of the XWALL by XGIMI brand and its exclusive U.S. sales and service partner.</p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN33062&amp;sd=2026-08-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/xgimi-and-awall-announce-strategic-partnership-and-the-founding-of-xwall-by-xgimi-a-new-premium-home-entertainment-brand-for-the-us-302859221.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/xgimi-and-awall-announce-strategic-partnership-and-the-founding-of-xwall-by-xgimi-a-new-premium-home-entertainment-brand-for-the-us-302859221.html</a></p><p>SOURCE XGIMI</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN33062&amp;Transmission_Id=202608250900PR_NEWS_USPR_____CN33062&amp;DateId=20260825\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "XGIMI",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "entertainment",
+            "industry:ENT"
+          ],
+          "tradeshow": [
+            "summary:convention",
+            "summary:expo"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:15.738Z"
+    },
+    {
+      "company": [
+        "Hollyland"
+      ],
+      "date": "20260825T080000+0000",
+      "dateline": "AMSTERDAM, Aug. 25, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NEH",
+        "WEU",
+        "EUR",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "CSE",
+        "PEL",
+        "HRD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Visit Hollyland at IBC 2026, Booth 11.C28",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1973577/20260821050113EDT_image_1.jpg?id=OA2901658&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1973577/20260821050113EDT_image_1.jpg?id=OA2901658&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1420000/logo.jpg?id=OA2901681&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1420000/logo.jpg?id=OA2901681&p=publish"
+        }
+      ],
+      "release_id": "20260825CN31261",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS",
+        "PDT"
+      ],
+      "summary": "<p><b><u>Highlights</u></b></p><ul type=\"disc\"><li>Hollyland to showcase new solutions for professional live production and content creation at IBC 2026 Booth 11.C28.</li><li>Pyro 7 Ultra combines professional monitoring and wireless video transmission in one monitor.</li><li>Argus X1 brings switching, recording, monitoring, and streaming into one live production system.</li><li>Solidcom C1 Air and Solidcom SE 2 expand Hollyland's wireless intercom lineup.</li><li>New creator solutions include the LARK A2 and LARK M3 wireless microphones and the VenusLiv Air 2 streaming camera.</li></ul>",
+      "ticker": [],
+      "title": "Hollyland to Unveil New Solutions for Live Production and Content Creation at IBC 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260825CN31261",
+      "body": "\n<p><b><u>Highlights</u></b></p><ul type=\"disc\"><li>Hollyland to showcase new solutions for professional live production and content creation at IBC 2026 Booth 11.C28.</li><li>Pyro 7 Ultra combines professional monitoring and wireless video transmission in one monitor.</li><li>Argus X1 brings switching, recording, monitoring, and streaming into one live production system.</li><li>Solidcom C1 Air and Solidcom SE 2 expand Hollyland's wireless intercom lineup.</li><li>New creator solutions include the LARK A2 and LARK M3 wireless microphones and the VenusLiv Air 2 streaming camera.</li></ul><p><span class=\"legendSpanClass\">AMSTERDAM</span>, <span class=\"legendSpanClass\">Aug. 25, 2026</span> /PRNewswire/ -- Hollyland, a global provider of professional wireless audio and video solutions, is set to introduce new solutions for professional live production and modern content creation at IBC 2026. From September 11 to 14, 2026, the company will showcase its expanded ecosystem at <b><u>Booth 11.C28</u></b> in the RAI Amsterdam convention center, where visitors can explore its newest technologies and products scheduled for release later in 2026.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1973577/20260821050113EDT_image_1.jpg?id=OA2901658\" title=\"Visit Hollyland at IBC 2026, Booth 11.C28\" alt=\"Visit Hollyland at IBC 2026, Booth 11.C28\"></img>\n                </p>\n    </div>\n<p><b>Expanding Live Production Portfolio</b></p><p>Hollyland continues to expand its product range with new solutions for professional production and content creation. At IBC 2026, the company will introduce new solutions for professional live production, designed to help production teams work more efficiently, reliably, and seamlessly in demanding environments. The new lineup includes the Pyro 7 Ultra professional wireless monitor, Argus X1 all-in-one live production switcher, and Solidcom C1 Air and Solidcom SE 2 intercom systems.</p><p>The <b>Pyro 7 Ultra</b>, launching on September 3, brings professional monitoring and wireless video transmission together in one 7-inch monitor. Professional productions have traditionally relied on separate wireless transmission systems and standalone field monitors, with additional cables between devices and separate power sources for each device. The Pyro 7 Ultra can serve as an on-camera monitor and transmitter, or as a handheld monitor and receiver for mobile viewing. Its QD-LCD display delivers exceptional color accuracy, with each unit factory-calibrated via Calman® to achieve a ΔE &lt;1.5. Users can also recalibrate the display with the Hollyland Color Calibrator to maintain color accuracy over time. The system also offers 20ms latency, 1km transmission, unlimited receivers, 4K60 video transmission, and TWiFi technology.</p><p>Also debuting is <b>Argus X1</b>, an all‑in‑one live production switcher slated for release in December. Argus X1 consolidates switching, monitoring, recording, streaming, and content delivery into a single device. A 10.1‑inch FHD touchscreen provides intuitive control, while 4K60 video I/O and support for three Hollyland wireless transmitters expand its flexibility across multi‑camera workflows. Built‑in streaming, ISO recording, MultiView, and connectivity options including Wi‑Fi 6, 4G, and Gigabit Ethernet make Argus X1 a central hub within the Hollyland production ecosystem.</p><p>Two new intercom systems will also be introduced during the event. <b>Solidcom C1 Air</b> features an open‑ear design, a 42g headset, 300m wireless range, and dual‑microphone ENC for clean dialogue. <b>Solidcom SE 2</b> adds intelligent frequency hopping, a 123g build, 20 dB ENC, 3.5mm audio I/O, and up to 10 hours of runtime, delivering stable performance for field and studio teams.</p><p><b>Empowering Modern Content Creation</b></p><p>Hollyland is also expanding its creator‑focused audio lineup with several new tools designed for modern podcasting and production. <b>LARK A2</b>, arriving in early September, offers 48 kHz/24‑bit recording, three‑level AI noise cancellation, a 200m range, and an 8.5g transmitter. Quick charging, AI power saving, intuitive <span id=\"spanHghlt60a2\">controls, and</span> a –6 dB safety track support dependable on‑the‑go capture.</p><p>Launching on September 22, the <b>LARK M3</b> introduces flexible multi‑person recording with support for four transmitters and four receivers. It provides four‑track independent recording, 48 kHz/32‑bit float audio, vocal presets, 300m transmission and up to eight hours of use on a single charge. The LARK M3 is well suited for podcasts, interviews, video conversations, and multi-person content creation.</p><p><span id=\"spanHghlt4213\">Rounding out the lineup, the <b>VenusLiv Air 2</b> will arrive in November with 4K60 UVC streaming and SAR AI Tuning 2.0, while maintaining the core performance of the <a href=\"https://www.hollyland.com/product/venusliv-air\" target=\"_blank\" rel=\"nofollow\">VenusLiv Air</a>.</span></p><p>During IBC 2026, Hollyland will host Roll &amp; Win giveaways from September 11–14. Visitors can participate for a chance to win Hollyland's products and <span id=\"spanHghlt9f0d\">other prizes. </span>On September 11, the company will unveil its new products, followed by an anniversary celebration that evening. Meanwhile, all showcased solutions will be available for hands‑on experience at <b><u>Booth 11.C28</u></b> throughout the exhibition.</p><p><b>About Hollyland</b></p><p>Hollyland is a leading provider of wireless products, specializing in wireless intercom systems, video transmission systems, monitors, wireless microphones, and live streaming cameras. Since 2013, Hollyland has been serving millions of users around the world in various fields, including filmmaking, telecasting, video production, live events, exhibitions, theaters, houses of worship, and content creation. It has built a sales network covering approximately 160 countries and regions, supported by regional teams and offices worldwide. For more information, please visit <a href=\"https://www.hollyland.com/\" target=\"_blank\" rel=\"nofollow\">https://www.hollyland.com/</a>, <a href=\"https://www.facebook.com/HollylandTech/\" target=\"_blank\" rel=\"nofollow\">Hollyland Facebook</a>, and <a href=\"https://www.instagram.com/hollylandtech/\" target=\"_blank\" rel=\"nofollow\">Hollyland Instagram</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1420000/logo.jpg?id=OA2901681\" title=\"\" alt=\"\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN31261&amp;sd=2026-08-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/hollyland-to-unveil-new-solutions-for-live-production-and-content-creation-at-ibc-2026-302857874.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/hollyland-to-unveil-new-solutions-for-live-production-and-content-creation-at-ibc-2026-302857874.html</a></p><p>SOURCE Hollyland</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN31261&amp;Transmission_Id=202608250400PR_NEWS_USPR_____CN31261&amp;DateId=20260825\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Hollyland",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:22.284Z"
+    },
+    {
+      "company": [
+        "Digital Place Based Advertising Association (DPAA) / The Lippin Group Inc"
+      ],
+      "date": "20260824T130000+0000",
+      "dateline": "NEW YORK, Aug. 24, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "PUB"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "DPAA ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1973341/DPAA-Logo.jpg?id=OA2900959&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1973341/DPAA-Logo.jpg?id=OA2900959&p=publish"
+        }
+      ],
+      "release_id": "20260824NY30974",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Former White House Communications Director and SkyBridge Founder Anthony Scaramucci to Take the Stage on October 13, 2026, in NYC</i></p><p class=\"prntac\"><i>CMOs from American Eagle Outfitters, Expedia, Hisense, Microsoft, and Major League Soccer to Speak, along with Top Leaders from Stagwell and Omnicom's Mediahub Worldwide</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3108819845&amp;u=https%3A%2F%2Fwww.dpaaglobal.com%2F&amp;a=DPAA\" target=\"_blank\" rel=\"nofollow\"><b>DPAA</b></a>, the global trade marketing association driving the growth and digitization of out-of-home (OOH) advertising, has announced the initial speaker lineup for the 14th annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3909970040&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal&amp;a=Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">Video Everywhere Summit</a>, set for<b> October 13, 2026</b>, at Pier 60 at Chelsea Piers in New York City. This includes <b>Anthony Scaramucci</b>, former White House Communications Director, Founder &amp; Managing Partner, <b>SkyBridge</b>, and author of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=362633088&amp;u=https%3A%2F%2Fus.macmillan.com%2Fbooks%2F9781250437563%2Fallthewrongmoves%2F&amp;a=All+the+Wrong+Moves\" target=\"_blank\" rel=\"nofollow\"><i>All the Wrong Moves</i></a> (Sept. 22, Macmillan); top agency leaders; and CMOs from across brand categories.</p>\n    ",
+      "ticker": [],
+      "title": "DPAA Announces Initial Speakers for 14th Annual Video Everywhere Summit, With the Theme of \"Real Connections\"",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824NY30974",
+      "body": "\n<p class=\"prntac\"><i>Former White House Communications Director and SkyBridge Founder Anthony Scaramucci to Take the Stage on October 13, 2026, in NYC</i></p><p class=\"prntac\"><i>CMOs from American Eagle Outfitters, Expedia, Hisense, Microsoft, and Major League Soccer to Speak, along with Top Leaders from Stagwell and Omnicom's Mediahub Worldwide</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3108819845&amp;u=https%3A%2F%2Fwww.dpaaglobal.com%2F&amp;a=DPAA\" target=\"_blank\" rel=\"nofollow\"><b>DPAA</b></a>, the global trade marketing association driving the growth and digitization of out-of-home (OOH) advertising, has announced the initial speaker lineup for the 14th annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3909970040&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal&amp;a=Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">Video Everywhere Summit</a>, set for<b> October 13, 2026</b>, at Pier 60 at Chelsea Piers in New York City. This includes <b>Anthony Scaramucci</b>, former White House Communications Director, Founder &amp; Managing Partner, <b>SkyBridge</b>, and author of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=362633088&amp;u=https%3A%2F%2Fus.macmillan.com%2Fbooks%2F9781250437563%2Fallthewrongmoves%2F&amp;a=All+the+Wrong+Moves\" target=\"_blank\" rel=\"nofollow\"><i>All the Wrong Moves</i></a> (Sept. 22, Macmillan); top agency leaders; and CMOs from across brand categories.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1973341/DPAA-Logo.jpg?id=OA2900959\" title=\"DPAA \" alt=\"DPAA \"></img>\n                </p>\n    </div>\n<p>Also announced today was the theme for the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=299920025&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal&amp;a=2026+DPAA+Global+Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">2026 DPAA Global Video Everywhere Summit</a>: <b>Real Connections</b>. This comes following multiple forecasts of global DOOH revenue growth, most recently from <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=1672462305&amp;u=https%3A%2F%2Fwww.pqmedia.com%2F&amp;a=PQ+Media\" target=\"_blank\" rel=\"nofollow\">PQ Media</a>, which is predicting a 15.3% gain in 2026 (up from 12% growth in 2025), driven in part by major global events including the FIFA World Cup and Winter Olympics, as brands increasingly look to connect digital capabilities with real-world consumer experiences.</p><p>\"Creating authentic, real connections and conversations has never been more important,\" said <b>DPAA President &amp; CEO Barry Frey</b>. \"As we espouse the impact brands can make by connecting with consumers in the real world, we must also take advantage of every face-to-face connection we are able to make. This includes the marketers controlling ad spend; the agencies shaping their media plans; and the technology, data and research organizations coming up with new ways to innovate, execute and measure the outcomes that DOOH uniquely brings.\"</p><p>The Summit brings approximately 1,000 industry leaders direct access to the people who influence the future of omnichannel marketing. There, they network with others in this vibrant community, discuss marketing trends, challenges and opportunities, and hear from CMOs, newsmakers, and agency executives. This includes the top marketers from brands across the consumer electronics, retail, sports and travel sectors.</p><p>Taking the stage at DPAA's October 2026 events in addition to <b>Scaramucci</b> include:</p><ul type=\"disc\"><li><b>Craig Brommers</b>, CMO, <b>American Eagle Outfitters</b></li><li><b>David Sable</b>, Vice Chairman, <b>Stagwell</b></li><li><b>Jochen Koedijk</b>, CMO, <b>Expedia</b></li><li><b>Nicole Estebanell</b>, U.S. CEO, <b>Mediahub Worldwide</b> (Omnicom)</li><li><b>Radika Duggal</b>, CMO, <b>Major League Soccer</b></li><li><b>Sarah Larsen</b>, CMO, <b>Hisense</b></li><li><b>Sydne Mullings</b>, General Manager - Americas CMO, <b>Microsoft</b></li><li><i>Additional speakers to be announced.</i></li></ul><p>The Summit attendees each year connect and converse around key trends. This includes the growing DOOH medium, which has become a key driver of real business outcomes, real world experiences, real time buying and planning, and … <b>real connections</b>!</p><p>Also core to the discussions expected to take place at the Summit are how in-store retail media networks, programmatic offerings, AI-powered tools, IRL experiences around big sports and entertainment events, and improved measurement options are playing a major role in establishing and enhancing DOOH as both a launchpad of innovation and a growing part of brands and agencies' omnichannel strategies.</p><p>One day before the Summit is the <b>DPAA Newsmakers Dinner</b> - an annual invite-only event that takes place the evening before the Summit in NYC, and includes a broader discussion of key issues shaping the media and news landscape. In recent years, the Dinner has featured fireside chats with such notable Newsmakers as Chuck Todd (former host of <i>Meet the Press</i>), Jessica Tarlov (<i>The Five</i>), Alyssa Farah Griffin (<i>The View</i>, CNN), Katty Kay (BBC), Mark Bezos, and Frank Luntz. The Global Summit stage has previously hosted leaders from Colgate-Palmolive, General Motors, Mastercard, McDonald's, PepsiCo, Kroger, Danone, Warner Bros., Paramount+, H&amp;R Block, WPP, Dentsu, Omnicom and many others.</p><p>For more information, or to register to attend the Global Summit – part of Out of Home Week New York – please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=4176374987&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal%2F&amp;a=www.dpaasummit.com%2Fglobal\" target=\"_blank\" rel=\"nofollow\">www.dpaasummit.com/global</a>.</p><p><b>About</b> <b>DPAA<br></br></b>DPAA (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=276777529&amp;u=https%3A%2F%2Fwww.dpaaglobal.com%2F&amp;a=www.dpaaglobal.com\" target=\"_blank\" rel=\"nofollow\">www.dpaaglobal.com</a>) is the global trade marketing association, driving the growth and digitization of out-of-home (OOH) advertising and its growing role in the Omnichannel mix. Membership in the DPAA community includes many business acceleration benefits and access to a wide array of products. It offers members an extensive database of research, best practices and case studies; tools for planning, training and forecasting; social media amplification of news; insights on software and hardware solutions; and further integration into the advertising ecosystem by connecting DOOH networks, brands, agencies, ad tech and others – including through its podcast, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=1695610316&amp;u=https%3A%2F%2Flaunchpadofinnovation.com%2F&amp;a=Launchpad+of+Innovation\" target=\"_blank\" rel=\"nofollow\">Launchpad of Innovation</a>. DPAA's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=931151281&amp;u=https%3A%2F%2Fdpaasummit.com%2Fglobal%2F&amp;a=Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">Video Everywhere Summit</a>, the largest one-day media/marketing event of its kind, is October 13, 2026, at Pier 60 in New York City. </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY30974&amp;sd=2026-08-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/dpaa-announces-initial-speakers-for-14th-annual-video-everywhere-summit-with-the-theme-of-real-connections-302857348.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/dpaa-announces-initial-speakers-for-14th-annual-video-everywhere-summit-with-the-theme-of-real-connections-302857348.html</a></p><p>SOURCE Digital Place Based Advertising Association (DPAA) / The Lippin Group Inc</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY30974&amp;Transmission_Id=202608240900PR_NEWS_USPR_____NY30974&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Digital Place Based Advertising Association (DPAA) / The Lippin Group Inc",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "summary:marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:PUB"
+          ],
+          "tradeshow": [
+            "summit"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:24.091Z"
     }
   ]
 }

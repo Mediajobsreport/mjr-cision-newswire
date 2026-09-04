@@ -1,66 +1,160 @@
 {
-  "generated_at": "2026-09-04T18:24:47.829Z",
+  "generated_at": "2026-09-04T18:32:45.387Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 4,
+  "count": 12,
   "releases": [
     {
       "company": [
-        "Storiad, Inc."
+        "MFour Data Research"
       ],
-      "date": "20260904T120000+0000",
-      "dateline": "CHARLESTON, S.C., Sept. 4, 2026",
+      "date": "20260902T141700+0000",
+      "dateline": "IRVINE, Calif., Sept. 2, 2026",
       "feed": [
         "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS",
         "PRNUS_ONLY",
-        "PRNUS_NO_ELD"
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS"
       ],
       "geography": [
-        "SCR",
-        "USE",
+        "CLF",
+        "UWS",
         "USA",
         "NAM"
       ],
       "industry": [
-        "BKS",
-        "STW",
         "SMD",
-        "ADV"
+        "ADV",
+        "DTA",
+        "MEN",
+        "MLM",
+        "CPR"
       ],
       "language": "en-US",
-      "multimedia": [],
-      "release_id": "20260904CL40754",
+      "multimedia": [
+        {
+          "caption": "MFour Data Research logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS695834/MFour-Data-Research-logo-Logo.jpg?id=OA2925222&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS695834/MFour-Data-Research-logo-Logo.jpg?id=OA2925222&p=publish"
+        }
+      ],
+      "release_id": "20260902LA39050",
       "status": "PUBLISHED",
       "subject": [
+        "SVY",
         "PDT"
       ],
-      "summary": "<p><b>New software category gives authors a unified system to plan, execute and manage book marketing</b></p><p><span class=\"legendSpanClass\">CHARLESTON, S.C.</span>, <span class=\"legendSpanClass\">Sept. 4, 2026</span> /PRNewswire/ -- Storiad today introduced the <b>Author Marketing OS</b>, a new category of software designed to give authors a single system for planning, executing and managing the marketing of their books.</p>\n<p>Authors have never had more tools available to market their books. They have social media platforms, email services, advertising platforms, AI tools, websites, databases and countless other resources. Yet those tools remain largely disconnected, leaving authors to figure out how to organize the entire job of marketing a book themselves.</p>",
+      "summary": "<p><b>MFour's OmniTraffic® Digital Ads feed now captures ad exposure across ChatGPT, social, video and audio apps, and connects it to each panelist's downstream behavior for attribution.</b></p><p><span class=\"legendSpanClass\">IRVINE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- MFour Data Research today announced the launch of OmniTraffic® Digital Ads, expanding its digital ad exposure capabilities beyond social media to include AI, streaming video and audio platforms. The feed now captures advertising exposure across ChatGPT, YouTube, Spotify, Pandora and SoundCloud, alongside Facebook, Instagram, TikTok, and X.</p>\n    ",
       "ticker": [],
-      "title": "Storiad Introduces the Author Marketing OS",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260904CL40754",
-      "body": "\n<p><b>New software category gives authors a unified system to plan, execute and manage book marketing</b></p><p><span class=\"legendSpanClass\">CHARLESTON, S.C.</span>, <span class=\"legendSpanClass\">Sept. 4, 2026</span> /PRNewswire/ -- Storiad today introduced the <b>Author Marketing OS</b>, a new category of software designed to give authors a single system for planning, executing and managing the marketing of their books.</p>\n<p>Authors have never had more tools available to market their books. They have social media platforms, email services, advertising platforms, AI tools, websites, databases and countless other resources. Yet those tools remain largely disconnected, leaving authors to figure out how to organize the entire job of marketing a book themselves.</p><p>Storiad's premise is simple: <b>authors don't need more marketing tools. They need a system for using them.</b></p><p>\"Authors are expected to market their books like businesses, but they've never really had that kind of software businesses use to manage their marketing,\" said <b>Ramzi S. Hajj, founder of Storiad</b>. \"We've had writing software. We've had publishing software. We've had thousands of individual marketing tools. What we've been missing is an operating system for the whole job of marketing a book.\"</p><p><b>A New Category for an Old Problem</b></p><p>Marketing a book involves far more than creating a few social media posts or sending emails to a limited list.</p><p>Authors need to identify their target readers, establish marketing goals, develop a strategy, create promotional materials, find relevant media and industry contacts, conduct outreach, follow up, maintain visibility and measure what is working.</p><p>Those activities have traditionally been handled across multiple tools, documents and services.</p><p>Storiad brings them together in a single platform designed specifically around the author's book marketing workflow.</p><p>The company defines an <b>Author Marketing OS</b> as \"a unified system that organizes the major functions of book marketing, including strategy, planning, execution and optimization.\" Rather than replacing every marketing tool an author may use, the Storiad OS provides the strategic and operational structure that connects those activities.</p><p>Storiad is introducing the Author Marketing OS as a new software category built specifically around the job of marketing a book.</p><p><b>From Strategy to Execution</b></p><p>At the center of Storiad's approach is <b>Book Promotion nMotion™</b>, a proprietary system that helps authors turn a book marketing strategy into an actionable campaign.</p><p>Book Promotion nMotion™ organizes promotion around eight core areas:</p><ul type=\"disc\"><li>Promotional Asset Creation</li><li>Market Research</li><li>Social Media Management</li><li>Emailing &amp; Follow-up</li><li>Networking</li><li>Marketing</li><li>Publicity</li><li>Blogging &amp; Newsletter</li></ul><p>For each area, authors can develop strategies, planning documents and step-by-step checklists designed to move their campaigns from ideas to action.</p><p>\"There's a really big difference between giving an author a marketing plan and giving an author a system they can actually use to run the campaign,\" said Hajj. \"Our goal is to make book marketing something an author can learn, organize, execute and improve upon over time.\"</p><p><b>Built Around the Author's Book Sales Goal</b></p><p>Storiad begins with a simple question for the author:</p><p><b>How many books do you want to sell?</b></p><p>Its Book Sales Calculator helps authors establish a specific sales target and understand the marketing activities required to pursue it. From there, the platform provides tools and workflows for building and managing a campaign around that book sales goal.</p><p>The platform includes CRM-style contact management, a database of more than <b>52,000 verified book promotion contacts</b>, marketing planning tools such as a Target Reader Profile, email outreach, social media tools, an author website builder, a press room, publicity resources, campaign management and other book marketing capabilities.</p><p>Storiad is being used by <b>thousands of authors</b>, giving the company real-time experience developing software around the practical challenges authors face when promoting their books.</p><p><b>AI as Part of the Marketing System</b></p><p>The Author Marketing OS also incorporates <b>StoriA, Storiad's AI Author Assistant</b>.</p><p>StoriA is designed to help authors work through the marketing process, from developing strategies and plans to creating marketing materials and determining what to do next.</p><p>\"AI is very good at creating things,\" said Hajj. \"But creating another piece of content isn't necessarily the answer to an author's marketing problem. The bigger questions center around who should I reach, what should I say, what should I do next, and how does this fit into my overall campaign? That's where we think AI can become much more useful to authors.\"</p><p><b>Building the Author Marketing OS</b></p><p>The need for an Author Marketing OS comes from a simple reality of today's publishing environment: <b>authors are increasingly responsible for marketing their own books.</b></p><p>At the same time, the number of tools available to them continues to grow.</p><p>Storiad believes the answer is not another standalone marketing tool.</p><p><b>It is a system.</b></p><p>\"The ultimate goal is pretty simple,\" said Hajj. \"We want to help authors take control of their book marketing and sell more books.\"</p><p>Storiad is making its Author Marketing OS available to authors through its software platform.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767334-1&amp;h=2641185851&amp;u=http%3A%2F%2Fwww.storiad.com%2F&amp;a=www.storiad.com\" target=\"_blank\" rel=\"nofollow\"><b>www.storiad.com</b></a>.</p><p><b>About Storiad</b></p><p>Storiad is the first <b>Author Marketing Operating System</b>, designed to help published authors plan, execute and manage their entire book marketing lifecycle in one place. The platform combines marketing strategy, structured workflows, AI-powered assistance, CRM-style contact management, research, outreach and campaign execution.</p><p>Storiad's mission is simple: <b>help authors sell more books.</b></p><p><b>Media Contact</b><br></br>Ramzi S. Hajj<br></br>Founder &amp; CEO, Storiad, Inc.<br></br><a href=\"mailto:ramzi@storiad.com\" rel=\"nofollow\">ramzi@storiad.com</a><br></br>626.676.4142</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL40754&amp;sd=2026-09-04\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/storiad-introduces-the-author-marketing-os-302869647.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/storiad-introduces-the-author-marketing-os-302869647.html</a></p><p>SOURCE Storiad, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL40754&amp;Transmission_Id=202609040800PR_NEWS_USPR_____CL40754&amp;DateId=20260904\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Storiad, Inc.",
+      "title": "MFour Expands Digital Ad Exposure Intelligence to ChatGPT and Audio Streaming Platforms",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902LA39050",
+      "body": "\n<p><b>MFour's OmniTraffic® Digital Ads feed now captures ad exposure across ChatGPT, social, video and audio apps, and connects it to each panelist's downstream behavior for attribution.</b></p><p><span class=\"legendSpanClass\">IRVINE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- MFour Data Research today announced the launch of OmniTraffic® Digital Ads, expanding its digital ad exposure capabilities beyond social media to include AI, streaming video and audio platforms. The feed now captures advertising exposure across ChatGPT, YouTube, Spotify, Pandora and SoundCloud, alongside Facebook, Instagram, TikTok, and X.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS695834/MFour-Data-Research-logo-Logo.jpg?id=OA2925222\" title=\"MFour Data Research logo\" alt=\"MFour Data Research logo\"></img>\n                </p>\n    </div>\n<p>MFour's OmniTraffic® Digital Ads feed gives brands a unified view of advertising exposure across channels that increasingly shape the consumer journey. Because each exposure is tied to the same opted-in MFour consumer identity used across the company's behavioral data, researchers can connect media exposure with downstream actions including app usage, web activity, store visits, AI conversations, and purchases.</p><p>\"Advertising is happening across more digital environments than ever, but measurement is still fragmented,\" said Chris St. Hilaire, Founder and CEO of MFour Data Research. \"By connecting ad exposure across social platforms, streaming media, and AI to what those same consumers do next, we're giving brands a clearer view of the full journey and a stronger understanding of what happens after exposure.\"</p><p>Unlike modeled or inferred impressions, OmniTraffic® Digital Ads captures real, observed ad exposure from consenting, compensated consumers in MFour's first-party panel. Available fields vary by platform and can include advertiser information, promotion type, creative metadata, exposure timing and duration.</p><p>At launch, the feed includes approximately 60,000 consumers and 63 million ad exposures from the most recent 30-day period. For brand and insights teams, that expanded coverage creates new opportunities to evaluate advertising and brand lift across a broader mix of digital environments.</p><p><b>Learn more at </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765727-1&amp;h=3633992518&amp;u=https%3A%2F%2Fwww.mfour.com%2F&amp;a=MFour.com\" target=\"_blank\" rel=\"nofollow\"><b>MFour.com</b></a><b>.</b></p><p><b>About MFour Data Research</b></p><p>MFour Data Research, founded in 2011, provides validated, opt-in consumer behavior and survey data powered by its Surveys On The Go® app and Fair Trade Data® model. The company's 13M+ consumer panel generates nine deterministic data streams — ChatGPT conversations, location, app usage, web browsing, receipts, demographics, attitudes, survey responses and behavior-triggered surveys — all connected to a single identity.</p><p>Through MFour Studio™, organizations can access these behavioral and survey signals to understand consumer journeys and measure outcomes, with DANI™ (Data Analytics Navigation Instructor), MFour's AI assistant, providing on-demand analysis across 4 billion monthly buyer signals. MFour is trusted by Samsung, Google, Amazon Ads, Microsoft, Hulu, Keurig Dr Pepper, Papa Johns and hundreds of other global brands.</p><p><b>Full Journey Intelligence. Know What to Do Next.</b></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39050&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mfour-expands-digital-ad-exposure-intelligence-to-chatgpt-and-audio-streaming-platforms-302867435.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mfour-expands-digital-ad-exposure-intelligence-to-chatgpt-and-audio-streaming-platforms-302867435.html</a></p><p>SOURCE MFour Data Research</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39050&amp;Transmission_Id=202609021017PR_NEWS_USPR_____LA39050&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "MFour Data Research",
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "advertising",
+        "digital",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 3,
+          "digital": 5,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "summary:social media",
+            "industry:MLM",
+            "industry:SMD"
+          ],
+          "tradeshow": [
+            "expo"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:02.463Z"
+    },
+    {
+      "company": [
+        "Local Media Consortium"
+      ],
+      "date": "20260902T130000+0000",
+      "dateline": "NEW YORK, Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "AFI",
+        "DTA",
+        "PUB",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "LMC",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS917451/Local-Media-Consortium-Logo.jpg?id=OA2924628&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS917451/Local-Media-Consortium-Logo.jpg?id=OA2924628&p=publish"
+        }
+      ],
+      "release_id": "20260902FL38884",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><i>New program will help local media companies assess AI readiness, identify opportunities for implementation, and shape future training, resources and services</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- The Local Media Consortium (LMC) today announced the launch of the <b>AI Accelerator</b>, a new program designed to help local media companies better understand, evaluate and implement artificial intelligence strategies that improve operations, strengthen business performance and support long-term sustainability. As part of the program, the LMC is partnering with Stellis AI to conduct an <b>AI Readiness &amp; Digital Tech Stack Assessment</b> for participating members.</p>\n    ",
+      "ticker": [],
+      "title": "Local Media Consortium Launches AI Accelerator",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902FL38884",
+      "body": "\n<p><i>New program will help local media companies assess AI readiness, identify opportunities for implementation, and shape future training, resources and services</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- The Local Media Consortium (LMC) today announced the launch of the <b>AI Accelerator</b>, a new program designed to help local media companies better understand, evaluate and implement artificial intelligence strategies that improve operations, strengthen business performance and support long-term sustainability. As part of the program, the LMC is partnering with Stellis AI to conduct an <b>AI Readiness &amp; Digital Tech Stack Assessment</b> for participating members.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS917451/Local-Media-Consortium-Logo.jpg?id=OA2924628\" title=\"LMC\" alt=\"LMC\"></img>\n                </p>\n    </div>\n<p>The assessment comes as artificial intelligence continues to move up the priority list for local media organizations. In the LMC's recent industry survey, 46% of respondents identified AI for operations as one of the top trends on their radar for 2026, underscoring growing interest in practical applications that can improve efficiency, streamline workflows and support business growth.</p><p>The AI Readiness &amp; Digital Tech Stack Assessment will provide participating organizations with a comprehensive evaluation of their current technology environment, AI readiness, operational priorities and opportunities for implementation. Findings, which will be gleaned from a survey that kicked off on August 25, will help organizations identify practical ways to improve workflows, increase efficiency, reduce costs, strengthen audience engagement and uncover new revenue opportunities.</p><p>\"Artificial intelligence has quickly moved from a future consideration to an active business priority for many local media organizations,\" said Fran Wills, CEO of the Local Media Consortium. \"Our members are looking for practical guidance on where AI can create the greatest impact for their organizations. The AI Accelerator will help participants assess their readiness, identify opportunities and build a roadmap for implementation so they can make informed decisions with confidence.\"</p><p>Participating organizations will receive individualized findings and recommendations to support future planning and implementation efforts. Assessment results will remain proprietary to participating organizations and the LMC, while aggregated insights will help guide future AI-related education, programming, partnerships and support resources for members.</p><p>The AI Accelerator is part of a broader effort by LMC and Digital On-Demand Services (DODS), which helps local media organizations get important work done by connecting them with the right experts and managing the work from idea to execution. The AI Readiness &amp; Digital Tech Stack Assessment is supported through funding from the John S. and James L. Knight Foundation as part of the News Media Help Desk, an online resource created by the LMC and The Reynolds Journalism Institute that guides newsrooms toward strategic decisions that ensure the long-term future of local media.</p><p>\"By helping organizations move from AI experimentation to implementation, this initiative will provide the LMC with valuable insights into the needs and priorities of its membership,\" said Liz Hayes, program manager for DODS. \"Those insights will inform future training programs, educational resources, strategic partnerships and services designed to support local media organizations as they navigate a rapidly evolving technology landscape.\"</p><p><b>About the Local Media Consortium</b></p><p>The Local Media Consortium delivers more than $60 million in annual economic value through digital partnerships and strategic initiatives on behalf of more than 150 local media companies in top markets across the United States, Canada and Puerto Rico, and includes more than 5,000 newspaper, radio, TV and online-only news outlets. By harnessing the combined volume and scale of its members, the LMC reduces costs and increases revenue with technology and service providers. The aggregated LMC audience footprint spans 200 million unique monthly visitors, and its member companies serve more than nine billion pageviews to consumers. More information is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765563-1&amp;h=1041706561&amp;u=http%3A%2F%2Flocalmediaconsortium.com%2F%3F_gl%3D1*wxzsa*_ga*MTgzNjU3NjcxOC4xNzc3MzE5NzQy*_ga_VD0RLLD232*czE3ODcyNDE1NTgkbzckZzEkdDE3ODcyNDQ0MzMkajU4JGwwJGgw&amp;a=localmediaconsortium.com\" target=\"_blank\" rel=\"nofollow\">localmediaconsortium.com</a>.</p><p><b>Media Contact</b><br></br>Thatcher+Co.<br></br><a href=\"mailto:lmc@thatcherandco.com\" target=\"_blank\" rel=\"nofollow\">lmc@thatcherandco.com</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL38884&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/local-media-consortium-launches-ai-accelerator-302867166.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/local-media-consortium-launches-ai-accelerator-302867166.html</a></p><p>SOURCE Local Media Consortium</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL38884&amp;Transmission_Id=202609020900PR_NEWS_USPR_____FL38884&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Local Media Consortium",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
         "digital"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "advertising",
           "digital"
         ],
         "review": false,
         "scores": {
-          "advertising": 7,
-          "digital": 5,
+          "advertising": 0,
+          "digital": 2,
           "engineering": 0,
           "entertainment": 0,
           "management": 0,
@@ -70,22 +164,93 @@
           "tradeshow": 0
         },
         "reasons": {
-          "advertising": [
-            "summary:advertising platform",
-            "summary:advertising",
-            "marketing",
-            "industry:ADV"
-          ],
           "digital": [
-            "summary:social media platform",
-            "summary:social media",
-            "industry:SMD"
+            "industry:PUB"
           ]
         },
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:25:00.288Z"
+      "imported_at": "2026-09-04T18:33:03.030Z"
+    },
+    {
+      "company": [
+        "Malwarebytes"
+      ],
+      "date": "20260902T130000+0000",
+      "dateline": "SANTA CLARA, Calif., Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HTS",
+        "MEN",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS773512/malwarelogov1.jpg?id=OA2923884&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS773512/malwarelogov1.jpg?id=OA2923884&p=publish"
+        }
+      ],
+      "release_id": "20260902SF38539",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY",
+        "PSF"
+      ],
+      "summary": "<p class=\"prntac\"><i>MrBeast is the most impersonated person, Google is the most impersonated brand, and noon ET on Fridays is the prime time for scam texts</i></p><p><span class=\"legendSpanClass\">SANTA CLARA, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Malwarebytes, a global leader in real-time cyber protection, released <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=2036927628&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2Fblog%2Fscams%2F2026%2F09%2Fscammers-are-getting-smarter-about-where-they-target-you&amp;a=new+research\" target=\"_blank\" rel=\"nofollow\">new research</a> showing how criminals are tailoring specific scam types to the platforms where they are most likely to succeed. Nine in ten toll scams, the fake unpaid-toll messages that threaten fines or license suspension, arrive by email or text, while roughly six in ten romance scams play out on social media.</p>\n    ",
+      "ticker": [],
+      "title": "New Malwarebytes Research Shows Scammers are Tailoring Attacks to Specific Platforms, From Text Toll Scams to Social Media Romance Cons",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902SF38539",
+      "body": "\n<p class=\"prntac\"><i>MrBeast is the most impersonated person, Google is the most impersonated brand, and noon ET on Fridays is the prime time for scam texts</i></p><p><span class=\"legendSpanClass\">SANTA CLARA, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Malwarebytes, a global leader in real-time cyber protection, released <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=2036927628&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2Fblog%2Fscams%2F2026%2F09%2Fscammers-are-getting-smarter-about-where-they-target-you&amp;a=new+research\" target=\"_blank\" rel=\"nofollow\">new research</a> showing how criminals are tailoring specific scam types to the platforms where they are most likely to succeed. Nine in ten toll scams, the fake unpaid-toll messages that threaten fines or license suspension, arrive by email or text, while roughly six in ten romance scams play out on social media.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS773512/malwarelogov1.jpg?id=OA2923884\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>The findings draw on global data from Malwarebytes threat research systems. Malwarebytes analyzed more than 20 distinct scam types, from tech support and refund scams to sextortion and scareware, and found that each one favors a specific delivery channel.</p><p class=\"prntac\"><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=1437571030&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2Fblog%2Fscams%2F2026%2F09%2Fscammers-are-getting-smarter-about-where-they-target-you&amp;a=Read+the+full+report\" target=\"_blank\" rel=\"nofollow\"><b>Read the full report</b></a></p><p>\"Scammers are getting more deliberate about where and when they reach people,\" said Shahak Shalev, Global Head of Scam and AI Research, Malwarebytes. \"Certain scams work better on certain platforms, at certain moments, and scammers repeat what works. Knowing where and when particular scams are most likely to appear can help people recognize them before they engage.\"</p><p><b>Key findings</b></p><ul type=\"disc\"><li><b>Every scam type has a preferred platform</b>. Fake giveaway scams are far more likely to arrive through a social media feed than by email or text. Half of all IRS scams come by phone call. Job scams favor email, while romance scams mostly arrive through social media, and tech support scams mostly favor phone calls.</li><li><b>The web is still the biggest hunting ground. </b>Despite the rise of social media and messaging apps, scams are reaching us through the web more than any other platform, followed by email and SMS.</li><li><b>MrBeast is the most impersonated person, ahead of Elon Musk and Donald Trump.</b> MrBeast appears in roughly 30% of impersonation scams tracked by Malwarebytes, ranging from <span>crypto</span> giveaways to transfer-fee swindles. Elon Musk ranks second and Donald Trump ranks third.</li><li><b>Noon ET is the \"golden hour\" for scam texts</b>. Malwarebytes data shows scam text volume peaks at 12 p.m. ET, roughly 874% busier than the quietest hour, 1 a.m. ET.</li><li><b>Scam texts build all week and peak on Fridays. </b>Volume rises steadily from a low point on Sunday, and by Friday, people receive roughly 50% more <span>fraudulent</span> text messages than they did at the start of the week.</li><li><b>Scammers favor the world's best-known brands.</b> Based on reports from Malwarebytes users, Google, Microsoft, Apple, Roblox, and Amazon are the five most impersonated brands, in that order. Google's name appears in scam content at least twice as often as Amazon's name.</li><li><b>Gaming platforms are an increasingly popular target. </b>Roblox, Steam, Discord, and Minecraft were the most impersonated gaming platforms. Roblox saw a 15% spike in scam activity from mid-June to mid-July, and Steam saw a 19% spike over the same period.</li><li><b>One in five flagged sessions is high-risk</b>. Malwarebytes Scam Guard, which checks messages, phone numbers, texts, social media messages and links against its threat intelligence database, flags approximately one in five analyzed sessions as high-risk, meaning they could lead to a loss of at least $1,000 or other personal harm.</li></ul><p><b>How to spot and stop scams</b></p><p>Malwarebytes recommends the following steps to reduce risk:</p><ul type=\"disc\"><li>Do not click links or call phone numbers in unsolicited emails, texts, or social media DMs.</li><li>When in doubt, verify a message's legitimacy by going directly to the company's official website and contacting it through official channels. Do not follow sponsored search results to get there, since these can be scams.</li><li>Never share personal details, PINs, passwords, payment information, or verification codes during an unsolicited call. Legitimate companies will not ask for passwords or verification codes over the phone. Hang up and call back using the organization's official phone number.</li><li>Use a browser extension that blocks scam and phishing sites, such as <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=7965169&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2Fbrowserguard&amp;a=Malwarebytes+Browser+Guard\" target=\"_blank\" rel=\"nofollow\">Malwarebytes Browser Guard</a>, which can flag a fake storefront before a user lands on it.</li><li>Install a mobile security product that filters out scam and spam text messages like <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=3744526561&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2Fmobile&amp;a=Malwarebytes+Mobile+Security\" target=\"_blank\" rel=\"nofollow\">Malwarebytes Mobile Security</a> alongside comprehensive security with real-time protection for your desktop.</li><li>Check whether a message is legitimate with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=4193711231&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2Fsolutions%2Fscam-guard&amp;a=Malwarebytes+Scam+Guard\" target=\"_blank\" rel=\"nofollow\">Malwarebytes Scam Guard</a>, which analyzes any content, message, phone number, text or link against its threat intelligence database and provides information on red flags and recommended next steps.</li></ul><p><b>Methodology</b></p><p>The data in this report comes from Malwarebytes proprietary threat research systems, collected between April 15 and July 14, 2026. All data is anonymized and reflects what Malwarebytes is able to observe through its own infrastructure.</p><p>To read more about the latest threats and cyber protection strategies, visit the Malwarebytes <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=2367919288&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2Fblog&amp;a=blog\" target=\"_blank\" rel=\"nofollow\">blog</a>, or follow us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=1050630820&amp;u=https%3A%2F%2Fbsky.app%2Fprofile%2Fmalwarebytes.com&amp;a=Bluesky\" target=\"_blank\" rel=\"nofollow\">Bluesky</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=79737800&amp;u=https%3A%2F%2Fwww.facebook.com%2FMalwarebytes&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=2862913486&amp;u=https%3A%2F%2Fwww.instagram.com%2Fmalwarebytesofficial&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=820008474&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmalwarebytes&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=3520728597&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40malwarebytesofficial&amp;a=TikTok%2C\" target=\"_blank\" rel=\"nofollow\">TikTok,</a> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=473806137&amp;u=https%3A%2F%2Fwww.reddit.com%2Fr%2FMalwarebytes%2F&amp;a=Reddit%2C\" target=\"_blank\" rel=\"nofollow\">Reddit,</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=1531415170&amp;u=https%3A%2F%2Fx.com%2FMalwarebytes&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a>.</p><p><b>About Malwarebytes </b></p><p>Malwarebytes is reimagining security to safeguard devices, data, and people, no matter their location, lifestyle, or means. A global leader in online protection, its suite of award-winning cybersecurity, privacy, and identity solutions empower millions of people worldwide to enjoy their digital lives, free from threats and scams. Built and beloved by experts, Malwarebytes pairs a world-class team of threat researchers with proprietary AI-powered processes to supercharge and refine detections, providing unmatched protection against both known and unknown threats. Living up to its legacy, Malwarebytes continues to offer free tools that have long served as a first line of defense against malware and scams with new options for identity protection and data removal.</p><p>Malwarebytes, powerful digital protection that's always by your side.</p><p>Learn more: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765254-1&amp;h=2084660627&amp;u=https%3A%2F%2Fwww.malwarebytes.com%2F&amp;a=https%3A%2F%2Fwww.malwarebytes.com\" target=\"_blank\" rel=\"nofollow\">https://www.malwarebytes.com</a>.</p><p><b>Malwarebytes Media Contact:  <br></br></b>Ashley Stewart<br></br>Director of Public and Analyst Relations<br></br><a href=\"mailto:press@malwarebytes.com\" target=\"_blank\" rel=\"nofollow\">press@malwarebytes.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF38539&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/new-malwarebytes-research-shows-scammers-are-tailoring-attacks-to-specific-platforms-from-text-toll-scams-to-social-media-romance-cons-302866974.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/new-malwarebytes-research-shows-scammers-are-tailoring-attacks-to-specific-platforms-from-text-toll-scams-to-social-media-romance-cons-302866974.html</a></p><p>SOURCE Malwarebytes</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF38539&amp;Transmission_Id=202609020900PR_NEWS_USPR_____SF38539&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Malwarebytes",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "social media"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:02.924Z"
     },
     {
       "company": [
@@ -166,7 +331,113 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:25:08.016Z"
+      "imported_at": "2026-09-04T18:33:03.419Z"
+    },
+    {
+      "company": [
+        "Comcast Technology Solutions"
+      ],
+      "date": "20260902T040000+0000",
+      "dateline": "DENVER, Sept. 2, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "COL",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "MLM",
+        "TLS",
+        "BRD",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Comcast Technology Solutions",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075&p=publish"
+        },
+        {
+          "caption": "Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076&p=publish"
+        }
+      ],
+      "release_id": "20260902SF37329",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "FVT",
+        "TDS"
+      ],
+      "summary": "<ul type=\"disc\"><li><i>Building on CTS' VideoAI™ platform, new suite of end-to-end AI-powered workflow applications brings premium content processing capabilities to manage and monetize entire content libraries<br></br><br></br></i></li><li><i>Applications include video verticalization, localization, smart chapters, metadata enrichment, quality control, and intelligent clip generation<br></br><br></br></i></li><li><i>Designed to work across CTS' portfolio, including Comcast Media360™, Comcast Sports360™, and standalone Cloud Video Platform deployments</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=1857801218&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today unveiled a comprehensive suite of end-to-end AI-powered workflow applications for broadcasters, content owners, and operators worldwide. Building on the foundation of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=2431810307&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5w&amp;a=VideoAI\" target=\"_blank\" rel=\"nofollow\">VideoAI</a>™ platform, these new applications deliver AI as practical, integrated solutions to real-world content production and management challenges.</p>\n    ",
+      "ticker": [],
+      "title": "Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902SF37329",
+      "body": "\n<ul type=\"disc\"><li><i>Building on CTS' VideoAI™ platform, new suite of end-to-end AI-powered workflow applications brings premium content processing capabilities to manage and monetize entire content libraries<br></br><br></br></i></li><li><i>Applications include video verticalization, localization, smart chapters, metadata enrichment, quality control, and intelligent clip generation<br></br><br></br></i></li><li><i>Designed to work across CTS' portfolio, including Comcast Media360™, Comcast Sports360™, and standalone Cloud Video Platform deployments</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=1857801218&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today unveiled a comprehensive suite of end-to-end AI-powered workflow applications for broadcasters, content owners, and operators worldwide. Building on the foundation of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=2431810307&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5w&amp;a=VideoAI\" target=\"_blank\" rel=\"nofollow\">VideoAI</a>™ platform, these new applications deliver AI as practical, integrated solutions to real-world content production and management challenges.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075\" title=\"Comcast Technology Solutions\" alt=\"Comcast Technology Solutions\"></img>\n                </p>\n    </div>\n<p>In a market increasingly crowded with standalone AI vendors and start-ups, CTS aims to serve as a single, trusted partner for end-to-end AI-enhanced content processing, video management, and monetization — backed by the proven reliability and scale of Comcast Technology Solutions and 24/7 managed services. CTS provides end-to-end, production-ready workflow integration that embeds AI capabilities into complete, deployable applications — requiring no additional specialist AI knowledge or developer requirements. The new applications are designed to work across CTS' full product portfolio, including <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=3593064493&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5z&amp;a=Comcast+Media360\" target=\"_blank\" rel=\"nofollow\">Comcast Media360</a>™ for broadcasters and content owners, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=884793227&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng63&amp;a=Comcast+Sports360\" target=\"_blank\" rel=\"nofollow\">Comcast Sports360</a>™ for sports rights holders, and standalone deployments of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=46168004&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng66&amp;a=Cloud+Video+Platform\" target=\"_blank\" rel=\"nofollow\">Cloud Video Platform</a> (CVP) for operators.</p><p><b>\"</b>The video industry is ready to move past AI hypotheticals and onto production-ready applications that solve real problems, generate new business opportunities, and integrate seamlessly into the workflows they already rely upon,<b>\"</b> said Bart Spriester, Senior Vice President and General Manager of Streaming, Broadcast, and Advertising at Comcast Technology Solutions. <b>\"</b>Whether for creating vertical videos, localization, advanced advertising, metadata enrichment, quality control, or intelligent clip generation, CTS stands ready to help our customers benefit from AI to better manage and monetize their content catalogs. CTS VideoAI is based on implementations deployed by some of the world's largest media companies, and we're excited to roll out this package of new applications designed to help our customers of all sizes benefit from that experience in new ways.\"</p><p><b>Next-Gen AI Applications</b> </p><p>The next-gen AI applications from CTS include:</p><ul type=\"disc\"><li><b>Video Verticalization: </b>Using AI-driven smart cropping technology, CTS can automatically convert landscape video content into portrait format for social media syndication, intelligently identifying the \"action center\" of each scene and making intelligent cut or pan decisions without manual editor intervention. </li><li><b>Localization of Regional Languages: </b>Leveraging AI-generated voices, CTS can automate dubbing workflows that previously required costly and time-consuming human voice talent. The application can extract audio from soundtracks, preserve ambience and music, translate dialogue, select appropriate voice matching, relay the finished audio back into the content, and generate automated captions. </li><li><b>Smart Chapters: </b>For distribution-ready workflows combining content and ad insertion, CTS can create AI-driven detection of intros, credit rolls, and ad break candidates, enhanced with weighting algorithms to select the optimal set of ad break points and automatically trigger stream conditioning, transcoding, and packaging. </li><li><b>Metadata Enrichment: </b>CTS will automatically generate scene and asset-level metadata and pass it into Cloud Video Platform metadata files, enabling semantic and natural language search capabilities. Rather than traditional keyword searches, content owners will be able to unlock intent-based discovery, allowing customers to find content based on themes, moods, and contextual queries. </li><li><b>Automated Quality Control: </b>CTS will also offer AI-powered \"virtual eyes-on-glass\" QC checks — including black screen detection, missing audio identification, and other content integrity verifications. This capability can enable cost-effective QC across a significantly larger portion of the content catalog compared to traditional human monitoring approaches. </li><li><b>Intelligent Clipping: </b>CTS will also offer natural language query-driven clip identification and selection, allowing editors to find key moments within long-form content. This could include sports highlights, social media clips, or trailer generation, and then trigger automated processing and publishing workflows.</li></ul><p>CTS' new applications are integrated into CTS' Cloud Media Processing (CMP) engine, a flexible, programmable workflow orchestration layer. Processors can be inserted as pre-processors, content manipulation steps, or post-processors, enabling customers to activate individual AI capabilities within their existing workflows without rebuilding their technology stack. For broadcasters and content owners using Comcast Media360, the AI-enhanced workflow processors integrate with existing channel origination and content supply chain services. For sports organizations leveraging Comcast Sports360, capabilities such as intelligent clipping and metadata enrichment are directly applicable to live and on-demand sports content workflows. For MVPDs and operators, these applications will be made available through CTS' Cloud Video Platform. Each of these applications is expected to be made commercially available throughout 2026-2027 to support customer deployments.</p><p><b>Comcast Technology Solutions at IBC 2026</b></p><p>At the 2026 IBC Show, CTS will showcase its next-gen video AI capabilities and full suite of solutions for streaming, broadcast, entertainment, and sports at RAI Amsterdam, September 11–14 in Hall 5, Stand 5.C80. Experts will be on hand to demonstrate the new AI applications and discuss how they integrate across the Comcast Media360, Comcast Sports360, and Cloud Video Platform portfolios. Customers, prospects, and partners of CTS seeking to schedule on-site business meetings can visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=3291731819&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng69&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com%2Fevents\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com/events</a>.</p><p>To learn more about Comcast Technology Solutions' entire product portfolio, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=679395412&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com</a>.</p><p><b><u>About Comcast Technology Solutions<br></br></u></b>Comcast Technology Solutions, a division of one of the world's leading media and technology companies, brings Comcast Corporation's proven technologies to an evolving list of industries worldwide. Comcast Technology Solutions offers a broad portfolio of solutions that deliver flexibility at scale for global video, media, communications, data applications, and cybersecurity &amp; compliance. Customers include leading content and streaming video providers, pay TV operators and MVPDs, advertisers, communications providers, financial service providers, retailers, and more. For more information, visit Comcast Technology Solutions.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076\" title=\"Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators\" alt=\"Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF37329&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/comcast-technology-solutions-unveils-next-gen-video-ai-applications-for-broadcasters-content-and-streaming-providers-and-operators-302866174.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/comcast-technology-solutions-unveils-next-gen-video-ai-applications-for-broadcasters-content-and-streaming-providers-and-operators-302866174.html</a></p><p>SOURCE Comcast Technology Solutions</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF37329&amp;Transmission_Id=202609020000PR_NEWS_USPR_____SF37329&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Comcast Technology Solutions",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital",
+        "engineering",
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital",
+          "engineering",
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 7,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "engineering": [
+            "video ai",
+            "industry:BRD"
+          ],
+          "radio": [
+            "broadcaster"
+          ],
+          "television": [
+            "industry:TVN"
+          ],
+          "tradeshow": [
+            "summary:ibc show"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:03.605Z"
     },
     {
       "company": [
@@ -252,72 +523,82 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:25:10.985Z"
+      "imported_at": "2026-09-04T18:33:04.731Z"
     },
     {
       "company": [
-        "Fountain 0"
+        "Parks Associates"
       ],
-      "date": "20260831T143500+0000",
-      "dateline": "NEW YORK, Aug. 31, 2026",
+      "date": "20260901T123500+0000",
+      "dateline": "PLANO, Texas, Sept. 1, 2026",
       "feed": [
-        "PRNUS",
-        "PRNUS_ONLY",
-        "PRNUS_NO_ELD",
         "prncom_prnj",
-        "APPLE_NEWS"
+        "APPLE_NEWS",
+        "PRNUS"
       ],
       "geography": [
-        "NYK",
-        "UNE",
+        "TXS",
+        "UWS",
         "USA",
         "NAM"
       ],
       "industry": [
-        "FLM",
         "TVN",
-        "SMD",
+        "MLM",
+        "CPR",
         "ENT",
-        "PUB"
+        "MEN",
+        "TLS",
+        "GAM"
       ],
       "language": "en-US",
       "multimedia": [
         {
-          "caption": "Sunny Hostin",
+          "caption": "PARKS ASSOCIATES CHART: Ideal Video Service Packages",
           "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563&p=thumbnail",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978545/Parks-Associates-Graph.jpg?id=OA2920865&p=thumbnail",
           "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563&p=publish"
+          "url": "https://mmx.prnewswire.com/media/MS1978545/Parks-Associates-Graph.jpg?id=OA2920865&p=publish"
+        },
+        {
+          "caption": "Parks Associates | www.parksassociates.com",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978546/Parks-Associates-Logo.jpg?id=OA2920867&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1978546/Parks-Associates-Logo.jpg?id=OA2920867&p=publish"
         }
       ],
-      "release_id": "20260831NY37043",
+      "release_id": "20260901PH37250",
       "status": "PUBLISHED",
-      "subject": [],
-      "summary": "<p><i>Fountain 0 Calls for Influencers with Major Social Media Followings to Join the Fountain 0 Talent Directory to be Eligible to Earn from Licensing Their Images</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Fountain 0 announced that Sunny Hostin, co-anchor of the acclaimed daily talk show <i>The View, </i>would become the first major personality to agree to develop and produce one or more films, and license her image and likeness for purposes of those films to the leading AI film and tv studio.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563\" title=\"Sunny Hostin\" alt=\"Sunny Hostin\"></img>\n                </p>\n    </div>\n",
+      "subject": [
+        "SVY",
+        "FVT"
+      ],
+      "summary": "<p><i>Continued demand for aggregation across traditional and streaming video drives new bundles and channel combinations</i></p><p><span class=\"legendSpanClass\">PLANO, Texas</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Parks Associates' latest consumer research <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=2044572587&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fconsumer-electronics-and-entertainment%2Fthe-new-live-tv-model-skinny-bundles-sports-news&amp;a=The+New+Live+TV+Model%3A+Skinny+Bundles%2C+Sports%2C+News\" target=\"_blank\" rel=\"nofollow\"><i>The New Live TV Model: Skinny Bundles, Sports, News</i></a> finds 27% of US internet households prefer a live-TV bundle combined with their favorite streaming on-demand services, while 24% prefer a skinny bundle combined with their favorite streaming services. In total, 51% prefer a package that combines live TV with their favorite streaming services.</p>\n",
       "ticker": [],
-      "title": "Sunny Hostin Signs with Fountain 0 to License Her Image for Appearances in Upcoming Films Which She Looks to Produce Based on Her Best-Selling Books",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831NY37043",
-      "body": "\n<p><i>Fountain 0 Calls for Influencers with Major Social Media Followings to Join the Fountain 0 Talent Directory to be Eligible to Earn from Licensing Their Images</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Fountain 0 announced that Sunny Hostin, co-anchor of the acclaimed daily talk show <i>The View, </i>would become the first major personality to agree to develop and produce one or more films, and license her image and likeness for purposes of those films to the leading AI film and tv studio.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978434/Sunny-Hostin.jpg?id=OA2920563\" title=\"Sunny Hostin\" alt=\"Sunny Hostin\"></img>\n                </p>\n    </div>\n<p>Fountain 0, which produced the first full length, live action film to be accepted at a major film festival, when it premiered at The Tribeca Film Festival last month, has also announced the release of its newest film, <i>Odysseus: The Fall</i>, in the very near future. The studio has gotten very significant national press for having produced content at a quality level comparable to traditional productions.</p><p><i>Odysseus: The Fall</i> is using images of real people in the film, including Ash Koosha, the film's creator and CEO of Fountain 0 as Odysseus; Pooya Koosha, co-producer and co-founder of Fountain 0, as Eurylochus; and Tom Rogers, Executive Chairman of Fountain 0 and executive producer of the film, as Mentor.</p><p>Having demonstrated that the proprietary software and virtual production studio that Fountain 0 has built on top of AI video models is capable of reducing production costs to nominal levels while achieving the highest of quality productions, it has set its sights on ways to reduce marketing and promotion costs of its films. Along these lines, a key innovation that Fountain 0 intends to pursue is licensing the images of well-known personalities and influencers to represent characters in upcoming productions as a way to efficiently market releases to their followers. It has been proven for decades that recognizable personalities in films drive audience appeal, and to combine that with the power of social media relevance creates a formula to better enable audiences to know about films that incorporate the image of those they follow.</p><p>Sunny Hostin could not be a more perfect example of a very well-known figure to pioneer this new approach to incorporating the likenesses of key personalities into new films. Sunny not only has heavily devoted fans who enjoy her political, social, legal and cultural television commentary, while also having a major social media presence, but she is also a New York Times bestselling author, having written several books of fiction. In that regard, Sunny intends to bring her novels to the big screen through the industry leading AI film production capability of Fountain 0, while incorporating her own image in the film.</p><p>Ash Koosha stated, \"This is obviously new territory for major talent personalities. We are incredibly gratified that Sunny is willing to be the talent pioneer willing to step out and take advantage of this new form of creative expression. Sunny, of course, will be able to decide which of her works she develops into a film, and what roles her image can be incorporated into under a licensing agreement which gives her strict control over how her image can be used.\"</p><p>Sunny Hostin stated, \"I am thrilled to be a part of how top-quality AI productions cannot only enable writers and directors to have their imaginations unleashed and no longer be tethered to budgetary constraints, but I am excited to be able to help pioneer a new art form which can open up new dimensions for how public personalities can engage with audiences.\"</p><p>Sunny Hostin, continued, \"To be able to bring my novels to life in movie and TV form, and actually have my image inserted in the productions, so that audiences can relate to me through my stories beyond my role as an author, is incredibly exciting to me. This entire generational innovation in filmmaking from Fountain 0 gives me confidence that AI can give me a way to both more fully develop, and more fully immerse myself in, IP I have developed. I feel particularly strongly that there is a need to bring stories to the big screen that are more in tune with the lives of diverse audiences that Hollywood focuses too little on, and I believe Fountain 0's AI productions can have a major impact on responding to the interests of these underserved audiences.\"</p><p>Pooya Koosha, also post- producer of the films, stated, \"Our ability to refine image generation to not only present the physical likeness of a personality, but to match their voice and other characteristics will give fans a real sense that their favorite talents are actually present in the productions despite the fact that they will be synthetic images.\"</p><p>Tom Rogers stated, \"Our approach is to make sure all persons whose images are used in any Fountain 0 production are compensated by receiving a revenue participation in the film. Even small parts which might not involve incorporating major personalities will participate in the revenue generated by any film for which their image is used.</p><p>Rogers continued, \"With Sunny not only being a personality in front of the camera, but an author as well, we look forward to the potential to develop films based on her books. Writers and directors will have quite significant revenue participation in the productions they create. In that sense Sunny will participate as both a producer/writer in the revenue generated from any film but also participate in the film's upside from her image appearing in the film as well.\"</p><p>Emma Sarah Wilson, Counsel to Fountain 0, said the company has developed a comprehensive licensing framework governing the use of an individual's image. Wilson explained, \"We have developed a robust long-form licensing agreement for every individual whose image, likeness and voice may be used in a Fountain 0 production. The agreement provides clear consent and usage rights, while establishing safeguards for how reference images and voice recordings are stored and used within the studio and its projects. Our goal is to protect each individual's privacy and control over their identity while preserving the creative flexibility and technical quality required to produce the highest quality image and voice generation.\"</p><p>Ash Koosha called for all influencers and those with major social media followings to join the Fountain 0 talent directory from which their likeness can be licensed. He stated, \"If one's image or likeness is licensed with approval, a person becomes eligible to earn from what will be a fountain of film and tv episodes.\" Sign up here <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763760-1&amp;h=2152322377&amp;u=https%3A%2F%2Fjoin%2Ffountain0.com&amp;a=https%3A%2F%2Fjoin.fountain0.com.\" target=\"_blank\" rel=\"nofollow\">https://join.fountain0.com.</a> </p><p><i>Dreams of Violets</i> is now streaming at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763760-1&amp;h=69694639&amp;u=https%3A%2F%2Fwatch.fountain0.com%2F&amp;a=Watch.Fountain0.com\" target=\"_blank\" rel=\"nofollow\">Watch.Fountain0.com</a>, and the trailer for <i>Odysseus: The Fall</i> is also available on the site as well. Interested viewers can sign up now to be on the list for advanced viewing of <i>Odysseus: The Fall</i>, scheduled for release next month.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY37043&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/sunny-hostin-signs-with-fountain-0-to-license-her-image-for-appearances-in-upcoming-films-which-she-looks-to-produce-based-on-her-best-selling-books-302865041.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/sunny-hostin-signs-with-fountain-0-to-license-her-image-for-appearances-in-upcoming-films-which-she-looks-to-produce-based-on-her-best-selling-books-302865041.html</a></p><p>SOURCE Fountain 0</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY37043&amp;Transmission_Id=202608311035PR_NEWS_USPR_____NY37043&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Fountain 0",
+      "title": "Parks Associates: 51% Of Consumers Prefer A Video Subscription Package That Combines Live TV With Their Favorite Streaming Services",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901PH37250",
+      "body": "\n<p><i>Continued demand for aggregation across traditional and streaming video drives new bundles and channel combinations</i></p><p><span class=\"legendSpanClass\">PLANO, Texas</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Parks Associates' latest consumer research <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=2044572587&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fconsumer-electronics-and-entertainment%2Fthe-new-live-tv-model-skinny-bundles-sports-news&amp;a=The+New+Live+TV+Model%3A+Skinny+Bundles%2C+Sports%2C+News\" target=\"_blank\" rel=\"nofollow\"><i>The New Live TV Model: Skinny Bundles, Sports, News</i></a> finds 27% of US internet households prefer a live-TV bundle combined with their favorite streaming on-demand services, while 24% prefer a skinny bundle combined with their favorite streaming services. In total, 51% prefer a package that combines live TV with their favorite streaming services.</p>\n<p>\"Consumers are not necessarily choosing between live TV and streaming. Many want access to both in one package,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=183239872&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fteam-detail%2Fmichael&amp;a=Michael+Goodman\" target=\"_blank\" rel=\"nofollow\">Michael Goodman</a>, Director, Entertainment Research, Parks Associates. \"Providers have the opportunity to offer greater flexibility to their consumers while making it easier to access the content they value.\"</p><p>Parks Associates also finds 68% of streaming pay-TV subscribers (vMVPD subscribers), including consumers using services such as YouTube TV, Hulu + Live TV, Fubo, and DIRECTV Stream, find the idea of a skinny bundle appealing. A skinny bundle is a pay-TV or streaming channel package that includes a limited number of core channels, typically focused on specific content types (e.g., entertainment, sports, or news). It is priced below traditional all-inclusive TV packages.</p><p>The findings show consumers continue to value live television, but their expectations for how it is packaged are changing. Smaller channel packages combined with streaming services can provide a middle ground between traditional pay TV and streaming-only options.</p><p>\"Skinny bundles offer providers an opportunity to address consumers who want to maintain access to live television but are increasingly sensitive to the cost and size of traditional channel packages,\" Goodman said. \"The strongest opportunity is retention. These packages can give existing subscribers another option before they decide to cancel service entirely.\"</p><p>Parks Associates will host the webinar <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=496114107&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fwebinars%2Fstreaming-video-churn-loyalty-and-competition&amp;a=Streaming+Video%3A+Churn%2C+Loyalty%2C+and+Competition\" target=\"_blank\" rel=\"nofollow\"><i>Streaming Video: Churn, Loyalty, and Competition</i></a> on September 24, featuring research from <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=400771848&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fconsumer-electronics-and-entertainment%2Fthe-new-live-tv-model-skinny-bundles-sports-news&amp;a=this+study\" target=\"_blank\" rel=\"nofollow\">this study</a> and the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=384200128&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fstreaming-video-market-tracker&amp;a=Streaming+Video+Tracker\" target=\"_blank\" rel=\"nofollow\"><b>Streaming Video Tracker</b></a>, an ongoing service tracking 400+ streaming video services in North America. The firm is also hosting its ninth annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=2177716952&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fevent%2Ffuture-of-video&amp;a=Future+of+Video%3A+Business+of+Streaming\" target=\"_blank\" rel=\"nofollow\">Future of Video: Business of Streaming</a> on November 17-18 in Marina del Rey, California.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=2892457757&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fevent%2Ffuture-of-video%2Fagenda&amp;a=Topics%3A\" target=\"_blank\" rel=\"nofollow\">Topics:</a></p><ul type=\"disc\"><li>Hybrid Models &amp; Evolving Monetization: AVOD, SVOD, FAST</li><li>Platform Expansion: OS Ecosystems, Gaming, and the Smart Home</li><li>Pricing and Retention: Balancing Value and Experience</li><li>Monetizing Sports: Rights, Reach &amp; Platform Exclusivity</li><li>The Power of Live: Events, News &amp; Experiential Video</li><li>Voices from the Room: State of the Streaming Market</li><li>Discoverability, Metadata &amp; the Content Navigation Crisis</li><li>Micro-Drama, Vertical Video &amp; the Mobile Video Opportunity</li><li>AI in Practice: What Is Actually Working?</li><li>Next-Gen Advertising: Measurement, Commerce &amp; Interactive CTV</li></ul><p>For more information, contact <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=3248951951&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fteam-detail%2Fmindi-sue-sternblitz-rubenstein&amp;a=Mindi+Sue+Sternlitz-Rubenstein\" target=\"_blank\" rel=\"nofollow\">Mindi Sue Sternlitz-Rubenstein</a> or visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=826395809&amp;u=http%3A%2F%2Fwww.parksassociates.com%2F&amp;a=www.parksassociates.com\" target=\"_blank\" rel=\"nofollow\">www.parksassociates.com</a>.</p><p><b>About Parks Associates</b></p><p>Parks Associates helps companies identify new opportunities, refine strategy, and accelerate growth in connected technology markets through data-driven insights and industry expertise. With more than 40 years of experience, the firm delivers proprietary consumer and industry research, market forecasts, and strategic analysis that guide business decisions across personal, connected home, small business, and commercial technology ecosystems. Parks Associates supports clients in navigating evolving markets including AI, security, smart home, broadband, entertainment, energy, multifamily, smart buildings, and connected health.</p><p>The firm also fosters industry growth and collaboration by convening thousands of leaders each year through its flagship executive conferences, including CONNECTIONS™, Connected Health Summit, Smart Energy Summit, Smart Spaces, and Future of Video.  Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=688501759&amp;u=https%3A%2F%2Fwww.parksassociates.com%2F&amp;a=https%3A%2F%2Fwww.parksassociates.com\" target=\"_blank\" rel=\"nofollow\">https://www.parksassociates.com</a>.</p><p>Follow Parks Associates on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=2616245058&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fparksassociates%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=3257632173&amp;u=https%3A%2F%2Fwww.facebook.com%2FParksAssociates&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763971-1&amp;h=2076866262&amp;u=https%3A%2F%2Fwww.instagram.com%2Fparksassociates%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>.</p><p><b>Media Contact:<br></br></b>Mindi Sue Sternblitz-Rubenstein<br></br>Parks Associates<br></br>972.490.1113<br></br><a href=\"mailto:421723@email4pr.com\" target=\"_blank\" rel=\"nofollow\">421723@email4pr.com</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH37250&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/parks-associates-51-of-consumers-prefer-a-video-subscription-package-that-combines-live-tv-with-their-favorite-streaming-services-302866004.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/parks-associates-51-of-consumers-prefer-a-video-subscription-package-that-combines-live-tv-with-their-favorite-streaming-services-302866004.html</a></p><p>SOURCE Parks Associates</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH37250&amp;Transmission_Id=202609010835PR_NEWS_USPR_____PH37250&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Parks Associates",
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
         "digital",
-        "entertainment"
+        "television"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
           "digital",
-          "entertainment"
+          "television"
         ],
         "review": false,
         "scores": {
           "advertising": 0,
-          "digital": 5,
+          "digital": 2,
           "engineering": 0,
-          "entertainment": 6,
+          "entertainment": 3,
           "management": 0,
           "radio": 0,
           "television": 2,
@@ -326,14 +607,102 @@
         },
         "reasons": {
           "digital": [
-            "summary:social media",
-            "industry:PUB",
-            "industry:SMD"
+            "industry:MLM"
           ],
           "entertainment": [
-            "film",
-            "industry:ENT",
-            "industry:FLM"
+            "summary:entertainment",
+            "industry:ENT"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:05.184Z"
+    },
+    {
+      "company": [
+        "Eluvio, Inc."
+      ],
+      "date": "20260831T040200+0000",
+      "dateline": "BERKELEY, Calif., Aug. 31, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "SSE",
+        "SPT",
+        "MLM",
+        "AFI",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Eluvio Tapped for Cricket TV",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977849/CricketTV-PR.jpg?id=OA2918793&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1977849/CricketTV-PR.jpg?id=OA2918793&p=publish"
+        }
+      ],
+      "release_id": "20260831SF36445",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT",
+        "FVT",
+        "TDS"
+      ],
+      "summary": "<ul type=\"disc\"><li><b><i>New Direct-to-Consumer Streaming Service: </i><i>New streaming service from Cricket Australia (tv.cricket.com.au), built upon Eluvio's Content Fabric and AI Video Intelligence, is now available for early access with full commercial launch later this year<br></br><br></br></i></b></li><li><b><i>Unified Platform for Live and VOD Streaming: </i><i>Fans can watch ultra-quality live and VOD matches, recent highlights and replays, original documentaries, and archival content enabled by new hyper-efficient Fabric platform<br></br><br></br></i></b></li><li><b><i>Extends use of Eluvio AI in Archive: </i><i>Cricket TV builds on Cricket Australia's use of Eluvio's frame-accurate AI services to ingest, process, and compose from its deep match archive</i>   </b></li></ul>",
+      "ticker": [],
+      "title": "Eluvio Tapped for Cricket TV: New Direct-to-Consumer Streaming Service for Live and Archive Coverage to Fans Across the Globe",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831SF36445",
+      "body": "\n<ul type=\"disc\"><li><b><i>New Direct-to-Consumer Streaming Service: </i><i>New streaming service from Cricket Australia (tv.cricket.com.au), built upon Eluvio's Content Fabric and AI Video Intelligence, is now available for early access with full commercial launch later this year<br></br><br></br></i></b></li><li><b><i>Unified Platform for Live and VOD Streaming: </i><i>Fans can watch ultra-quality live and VOD matches, recent highlights and replays, original documentaries, and archival content enabled by new hyper-efficient Fabric platform<br></br><br></br></i></b></li><li><b><i>Extends use of Eluvio AI in Archive: </i><i>Cricket TV builds on Cricket Australia's use of Eluvio's frame-accurate AI services to ingest, process, and compose from its deep match archive</i>   </b></li></ul><p><span class=\"legendSpanClass\">BERKELEY, Calif.</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- Ahead of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=3995519603&amp;u=https%3A%2F%2Fshow.ibc.org%2F&amp;a=IBC+Show+2026\" target=\"_blank\" rel=\"nofollow\">IBC Show 2026</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=2338208119&amp;u=https%3A%2F%2Feluv.io%2F&amp;a=Eluvio\" target=\"_blank\" rel=\"nofollow\">Eluvio</a> today announced that Cricket Australia has launched <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=3272879362&amp;u=https%3A%2F%2Ftv.cricket.com.au%2F&amp;a=Cricket+TV\" target=\"_blank\" rel=\"nofollow\">Cricket TV</a>, a new direct-to-consumer streaming service built upon Eluvio's Content Fabric and AI Video Intelligence, extending Cricket Australia's live and archival programming to fans beyond its existing broadcast markets across the globe. Cricket TV is now available for early access with full commercial launch of the service expected later this year at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=606223690&amp;u=https%3A%2F%2Ftv.cricket.com.au%2Fcricket-tv&amp;a=https%3A%2F%2Ftv.cricket.com.au\" target=\"_blank\" rel=\"nofollow\">https://tv.cricket.com.au</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1977849/CricketTV-PR.jpg?id=OA2918793\" title=\"Eluvio Tapped for Cricket TV\" alt=\"Eluvio Tapped for Cricket TV\"></img>\n                </p>\n    </div>\n<p>\"We're excited to extend our partnership with Eluvio as we continue to grow Cricket TV and make Australian cricket more accessible to fans around the world,\" said Dan Allan, Senior Content Manager, Broadcast at Cricket Australia. \"Cricket TV brings live matches and some of the best moments from our archive together in one place for fans around the world. Eluvio has been a fantastic partner throughout the process, helping us deliver a high-quality viewing experience while giving us the flexibility to keep evolving the platform. During the early access period, Cricket TV has already reached viewers in more than 40 countries, highlighting the strong global interest in Australian cricket.\"</p><p>\"We're honored to have extended our relationship with Cricket Australia, not only to serve their fans with live matches, but also to serve as a model for other sports organizations looking for the most efficient and cost-effective way to deliver protected sports content with the quality today's global viewers deserve,\" said Michelle Munson, CEO and Co-founder, Eluvio. \"With one Fabric, sports rights holders can unlock dark markets and monetize live and VOD and leverage frame-accurate inline AI, without file copies— all at a fraction of legacy costs while retaining full control of their customers' experience and viewer analytics.\"</p><p><b>A Unified Platform for Streaming and AI Video Intelligence</b></p><p>Cricket TV provides a white-label browser, mobile, and connected TV application to its viewers built using the Eluvio Media <span>Wallet</span> platform (full turnkey OTT Suite). Cricket TV relies on Eluvio's Content Fabric to receive live matches or archival source feeds and dynamically ingests, transcodes, publishes and generates just-in-time streaming output directly to viewers. Streaming is provided at full source resolution, including HD and 4K, with dynamic automatic adaptation to the user's available bandwidth with low latency HLS/DASH delivery, unlimited multi-view, \"zero-copy\" live-to-VoD and fast DVR playback. The platform also provides subscriptions, pay-per-view, and/or ad-supported monetization, while providing end-to-end content security and anti-piracy protection including strong encryption, DRM, forensic watermarking, and dynamic authorization per-offering including geo blocking and rights control. All features are built-in allowing for a hyper-efficient, tamper-proof distribution, fast and easy purchasing, and on-screen authenticity proofs for the viewer.</p><p>In addition, the Eluvio Video Intelligence Editor (EVIE) and AI-assisted tools provide frame-accurate, in-line analysis, indexing, and search, composition, and transformation such as<b> live vertical video</b>, all without file copies or re-transcoding. Finally, Eluvio Content Analytics provides complete transparency of source-to-viewer audience, QoS, and sales analytics. Full details about Eluvio's technical capabilities and benefits can be found at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=920463058&amp;u=https%3A%2F%2Feluv.io%2F&amp;a=https%3A%2F%2Feluv.io\" target=\"_blank\" rel=\"nofollow\">https://eluv.io</a></p><p><b>Eluvio at IBC Show 2026</b></p><p>During IBC Show 2026 at the RAI Amsterdam, Eluvio will highlight its work with Cricket Australia and showcase the full capabilities of the Content Fabric and Eluvio AI in Hall 8, Stand 8.MS5, and in the Future Tech Zone, Hall 14, Stand 14.A58, September 11–14, 2026. Eluvio's CEO and co-founder, Michelle Munson, will also speak on the Future Tech Zone stage on Sunday, September 13 from 2:00–2:15 p.m. Registration for one-on-one meetings and information about Eluvio's on-site keynote demonstrations at IBC is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=1890414456&amp;u=https%3A%2F%2Fibc.eluv.io%2F&amp;a=https%3A%2F%2Fibc.eluv.io\" target=\"_blank\" rel=\"nofollow\">https://ibc.eluv.io</a>.</p><p><b><u>About Eluvio</u></b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=2338208119&amp;u=https%3A%2F%2Feluv.io%2F&amp;a=Eluvio\" target=\"_blank\" rel=\"nofollow\">Eluvio</a> (<a href=\"https://eluv.io\" rel=\"nofollow\">https://eluv.io</a>) is solving the generational problems of video over the Internet with its Content Fabric Protocol — transforming the distribution and monetization of premium video and digital media in contrast to legacy cloud workflows and CDNs. Eluvio serves Amazon Studios/MGM, Cricket Australia, European Professional Club Rugby, FOX, SONY, Telstra Broadcast Services, UEFA, United Rugby Championship, Warner Bros., WPALiveTV, WWE, and others. Led by Michelle Munson and Serban Simu, founders and inventors of Aspera, and based in Berkeley, California. Eluvio holds  more than 15 issued US patents and has won multiple NAB Streaming Product of the Year awards, the Seicon Grand Prize, the Hollywood Professional Association Engineering Excellence Award, and other industry honors. On X: @EluvioInc | LinkedIn: linkedin.com/company/eluv-io</p><p><b><u>About Cricket Australia</u></b></p><p>Cricket Australia is the national governing body for the sport of cricket in Australia, responsible for the game at the international, domestic, and grassroots levels, including the Australian Men's and Women's national teams and domestic competitions such as the Sheffield Shield, the WNCL, and the KFC BBL and WBBL. More information is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4762150-1&amp;h=2217862110&amp;u=https%3A%2F%2Fwww.cricket.com.au%2F&amp;a=cricket.com.au\" target=\"_blank\" rel=\"nofollow\">cricket.com.au</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF36445&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/eluvio-tapped-for-cricket-tv-new-direct-to-consumer-streaming-service-for-live-and-archive-coverage-to-fans-across-the-globe-302863246.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/eluvio-tapped-for-cricket-tv-new-direct-to-consumer-streaming-service-for-live-and-archive-coverage-to-fans-across-the-globe-302863246.html</a></p><p>SOURCE Eluvio, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF36445&amp;Transmission_Id=202608310002PR_NEWS_USPR_____SF36445&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Eluvio, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital",
+        "television"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital",
+          "television"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
           ],
           "television": [
             "industry:TVN"
@@ -342,7 +711,360 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-04T18:25:15.143Z"
+      "imported_at": "2026-09-04T18:33:06.806Z"
+    },
+    {
+      "company": [
+        "UP, Inc."
+      ],
+      "date": "20260827T215500+0000",
+      "dateline": "WICHITA, Kan., Aug. 27, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "KNS",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SMD",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "UP - Scroll Happy App",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977195/UP-Scroll-Happy-App.jpg?id=OA2917099&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1977195/UP-Scroll-Happy-App.jpg?id=OA2917099&p=publish"
+        }
+      ],
+      "release_id": "20260827PH35680",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA",
+        "CHI",
+        "CSR"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">WICHITA, Kan.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Meta's agreement to pay up to $18 billion in aggregate settlements and make significant changes to Facebook and Instagram marks more than a legal turning point. According to UP, Inc., it marks the arrival of a new market category: Safe Social.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1977195/UP-Scroll-Happy-App.jpg?id=OA2917099\" title=\"UP - Scroll Happy App\" alt=\"UP - Scroll Happy App\"></img>\n                </p>\n    </div>\n<p>The settlement requires Meta to limit users under 18 to two hours per day across Facebook and Instagram, restrict overnight access, reduce notifications during school hours, strengthen age assurance and parental controls, limit visible \"likes\" and certain filters, and offer young users a non-algorithmic feed option. Several protections can become stricter if other major platforms adopt comparable terms.</p>",
+      "ticker": [],
+      "title": "UP Argues the Social Media Industry Is Moving From Optional Safeguards Toward Safety by Design",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827PH35680",
+      "body": "\n<p><span class=\"legendSpanClass\">WICHITA, Kan.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Meta's agreement to pay up to $18 billion in aggregate settlements and make significant changes to Facebook and Instagram marks more than a legal turning point. According to UP, Inc., it marks the arrival of a new market category: Safe Social.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1977195/UP-Scroll-Happy-App.jpg?id=OA2917099\" title=\"UP - Scroll Happy App\" alt=\"UP - Scroll Happy App\"></img>\n                </p>\n    </div>\n<p>The settlement requires Meta to limit users under 18 to two hours per day across Facebook and Instagram, restrict overnight access, reduce notifications during school hours, strengthen age assurance and parental controls, limit visible \"likes\" and certain filters, and offer young users a non-algorithmic feed option. Several protections can become stricter if other major platforms adopt comparable terms.</p><p>The agreement came during Instagram President Adam Mosseri's testimony and before Meta CEO Mark Zuckerberg was expected to testify. Meta denied wrongdoing.</p><p>\"This settlement validates what families have said for years: social media should not be designed to keep people scrolling at any cost,\" said Nick Rotola, founder and CEO of UP, Inc. \"UP began with a more fundamental question: what if safety was not a setting, but the structure of the product?\"</p><p>Meta has called on TikTok and YouTube to adopt the same framework. UP believes that pressure confirms that safer defaults are becoming an industry expectation, not a discretionary feature.</p><p>But UP argues that guardrails added to an engagement-centered platform are not the same as building a platform around safety from the beginning.</p><p>UP screens creators and brands before they can publish. Its standards exclude explicit, violent, hateful, substance-promoting, predatory, and manipulative material. UP does not allow unsolicited direct messages or open comments. Its Scroll Happy® system ranks video around how it may leave a viewer feeling, while mood-based feeds provide greater control.</p><p>\"Meta is being required to add guardrails around an open, engagement-driven network,\" Rotola said. \"UP vets who can publish, curates what enters the feed, removes unsolicited direct messages, and ranks content for how it leaves a person feeling. That is the difference between safety controls and safety by design.\"</p><p>The risk extends beyond screen time. A 2025 Thorn study found that one in five teens surveyed had experienced sextortion. TIME has also reported allegations concerning Meta's former enforcement thresholds and recommendations connecting potentially inappropriate adults with teens. Meta disputed those allegations.</p><p>\"The press is calling this social media's tobacco moment. I see it as a millstone moment: a reckoning with what happens when products built to capture attention are allowed to shape children before they are ready to defend themselves,\" Rotola said. \"The settlement matters. But a safer version of the same incentive system is not enough. Families deserve a real alternative.\"</p><p>UP calls that alternative Social with Standards.</p><p>UP is available as a free download for iPhone and Android. To learn more, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761421-1&amp;h=4258082842&amp;u=https%3A%2F%2Fwww.scrollhappy.com%2Fwhitepaper&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761421-1&amp;h=473541267&amp;u=https%3A%2F%2Fwww.scrollhappy.com%2Fwhitepaper&amp;a=www.ScrollHappy.com\" target=\"_blank\" rel=\"nofollow\">www.ScrollHappy.com</a> or download UP through the<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761421-1&amp;h=3207573682&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fup-scroll-happy%2Fid6744403231&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761421-1&amp;h=3683860453&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fup-scroll-happy%2Fid6744403231&amp;a=Apple+App+Store\" target=\"_blank\" rel=\"nofollow\">Apple App Store</a> and<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761421-1&amp;h=1659510161&amp;u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dup.app%26hl%3Den_US&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761421-1&amp;h=328467841&amp;u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dup.app%26hl%3Den_US&amp;a=Google+Play\" target=\"_blank\" rel=\"nofollow\">Google Play</a>.</p><p class=\"prntal\"><b>About UP, Inc.</b></p><p>UP, Inc. is the company behind UP - Scroll Happy®, a social video platform built around vetted creators, curated content, safer interaction, and user well-being. UP gives people an alternative to doomscrolling through Social with Standards.</p><p class=\"prntal\"><b>Media Contact</b><br></br>UP, Inc.<br></br>Nick Rotola<br></br><a href=\"mailto:421609@email4pr.com\" target=\"_blank\" rel=\"nofollow\">421609@email4pr.com</a><br></br>615-715-7267</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH35680&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/up-argues-the-social-media-industry-is-moving-from-optional-safeguards-toward-safety-by-design-302862305.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/up-argues-the-social-media-industry-is-moving-from-optional-safeguards-toward-safety-by-design-302862305.html</a></p><p>SOURCE UP, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH35680&amp;Transmission_Id=202608271755PR_NEWS_USPR_____PH35680&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "UP, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 2,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "social media",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:07.349Z"
+    },
+    {
+      "company": [
+        "Rival Technologies"
+      ],
+      "date": "20260827T123700+0000",
+      "dateline": "VANCOUVER, BC, Aug. 27, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "BCO",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "PUB",
+        "CPR",
+        "SMD",
+        "AFI"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Rival Technologies study finds 73% of Gen Z distrust AI companies.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1976907/Rival-Technologies-study-finds-73-percent-of-Gen-Z-distrust-AI-companies.jpg?id=OA2916144&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1976907/Rival-Technologies-study-finds-73-percent-of-Gen-Z-distrust-AI-companies.jpg?id=OA2916144&p=publish"
+        }
+      ],
+      "release_id": "20260827PH35189",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><i>Social media is Gen Z's top source for news, yet just 33% trust social media platforms, while trust in influencers stands at 31% and AI companies at 24% </i></p><p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- AI companies, influencers and social media platforms ranked lowest for trust among 14 types of organizations tested in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=2411348875&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox&amp;a=a+new+Rival+Technologies+study\" target=\"_blank\" rel=\"nofollow\">a new Rival Technologies study</a> of 903 Gen Z consumers across the United States and Canada.</p>\n<p>AI companies ranked lowest, with just 24% of respondents expressing trust and 73% expressing distrust, followed by influencers at 31% trust and social media platforms at 33%. The findings are particularly notable given how much Gen Z relies on these platforms and technologies in daily life. Social media, for example, is this generation's top news source, used by 62% of respondents.</p>",
+      "ticker": [],
+      "title": "Gen Z Trusts AI Companies, Influencers and Social Media Least Among 14 Types of Organizations Tested, New Rival Technologies Study Shows",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827PH35189",
+      "body": "\n<p><i>Social media is Gen Z's top source for news, yet just 33% trust social media platforms, while trust in influencers stands at 31% and AI companies at 24% </i></p><p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- AI companies, influencers and social media platforms ranked lowest for trust among 14 types of organizations tested in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=2411348875&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox&amp;a=a+new+Rival+Technologies+study\" target=\"_blank\" rel=\"nofollow\">a new Rival Technologies study</a> of 903 Gen Z consumers across the United States and Canada.</p>\n<p>AI companies ranked lowest, with just 24% of respondents expressing trust and 73% expressing distrust, followed by influencers at 31% trust and social media platforms at 33%. The findings are particularly notable given how much Gen Z relies on these platforms and technologies in daily life. Social media, for example, is this generation's top news source, used by 62% of respondents.</p><p>Healthcare institutions stood apart, with 79% of Gen Z expressing trust and 31% saying they trust them completely. Trust in most of the other types of organizations tested, including banks, government, traditional news media, food brands and streaming services, fell between the high levels reported for healthcare institutions and the low levels reported for AI companies, influencers and social media platforms.</p><p><b>Top three organizations trusted by Gen Z:</b></p><ul type=\"disc\"><li>Healthcare institutions and hospitals — 79%</li><li>Hospitality companies (hotels, Airbnb) — 65%</li><li>Government institutions — 64%</li></ul><p><b>Organizations least trusted by Gen Z: </b></p><ul type=\"disc\"><li>Social media platforms — 33%</li><li>Influencers — 31%</li><li>AI tech companies — 24%</li></ul><p>Other findings from the study include:</p><ul type=\"disc\"><li><b>Canada is a tougher trust market than the United States.</b> Canadian Gen Zers trust AI companies at less than half the American rate (14% versus 33%), and are far more skeptical of influencers (20% versus 40%) and social platforms (23% versus 43%).</li><li><b>Legacy news still holds up.</b> Despite getting most of their news from social feeds, 61% of Gen Z trust established news organizations like The New York Times or The Boston Globe (in the U.S.) or The Globe &amp; Mail (in Canada), nearly double the trust they place in the social platforms carrying that news (33%).</li><li><b>Low trust in these categories was consistent across age groups and countries.</b> AI companies, influencers and social media platforms ranked at the bottom across every age group tested and in both the United States and Canada.</li></ul><p>\"Our research shows that Gen Z trust is fragile, nuanced, and rarely given by default,\" said Paula Catoira, chief marketing officer at Rival Group.\"You don't win it with reach, you earn it through relationship. That means meeting these young consumers where they are, and in research, a mobile-first, conversational approach lets them share what they really think in a way that feels natural to them.\"</p><p>The study was conducted with 903 Gen Z participants (ages 18 to 29) across the United States and Canada using <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=2755164653&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fplatform&amp;a=Rival%27s+AI-accelerated%2C+mobile-first%2C+conversational+research+platform\" target=\"_blank\" rel=\"nofollow\">Rival's AI-accelerated, mobile-first, conversational research platform</a>, with participants sourced from the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=3208201014&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fplatform&amp;a=company%27s+proprietary+panel\" target=\"_blank\" rel=\"nofollow\">company's proprietary panel</a>. It was fielded from late July to early August 2026.</p><p>Several solutions from Rival help brands track Gen Z sentiment and attitudes over time.  <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=321692619&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Femerging-consumer-index-request&amp;a=Emerging+Consumer+Index\" target=\"_blank\" rel=\"nofollow\">Emerging Consumer Index</a> tracks Gen Z and millennial consumers across the U.S. and Canada through a continuous research stream, with new data collected every two weeks. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=3438456350&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Frival-insight-communities&amp;a=Rival+Insight+Communities\" target=\"_blank\" rel=\"nofollow\">Rival Insight Communities</a> give brands access to real-time insights from their most important audiences, including Gen Z.</p><p>Download the full report: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=162117619&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox&amp;a=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox\" target=\"_blank\" rel=\"nofollow\">https://www.rivaltech.com/gen-z-trust-paradox</a> </p><p><b>About Rival Technologies</b><br></br>Rival Technologies is a research technology company redefining how brands understand people. As a pioneer in conversational research, Rival's AI-driven, mobile-first platform transforms traditional surveys into engaging, chat-like experiences that reflect how people communicate today. By blending quant, qual and video in a single conversational flow, Rival helps global brands like Cash App, ŌURA, Carnival Corporation and Warner Bros. Discovery capture richer insights, increase response rates and move from data to confident decisions faster. Part of Rival Group, Rival Technologies was named to the Top 10 Most Innovative Technology Suppliers in Greenbook's 2025 GRIT report. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=3242875193&amp;u=http%3A%2F%2Frivaltech.com%2F&amp;a=rivaltech.com\" target=\"_blank\" rel=\"nofollow\">rivaltech.com</a>.</p><p>Media contact: Marie Melsheimer, <a href=\"mailto:421574@email4pr.com\" target=\"_blank\" rel=\"nofollow\">421574@email4pr.com</a>, +1-541-815-3951</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH35189&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/gen-z-trusts-ai-companies-influencers-and-social-media-least-among-14-types-of-organizations-tested-new-rival-technologies-study-shows-302861822.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/gen-z-trusts-ai-companies-influencers-and-social-media-least-among-14-types-of-organizations-tested-new-rival-technologies-study-shows-302861822.html</a></p><p>SOURCE Rival Technologies</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH35189&amp;Transmission_Id=202608270836PR_NEWS_USPR_____PH35189&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Rival Technologies",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 8,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "summary:social media platform",
+            "social media",
+            "industry:PUB",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:08.674Z"
+    },
+    {
+      "company": [
+        "ViewLift",
+        "Nashville Predators"
+      ],
+      "date": "20260826T120000+0000",
+      "dateline": "NASHVILLE, Tenn. and NEW YORK, Aug. 26, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "TNS",
+        "USE",
+        "USA",
+        "NAM",
+        "NYK",
+        "UNE"
+      ],
+      "industry": [
+        "SPT",
+        "SSE",
+        "ENT",
+        "CPR",
+        "MLM",
+        "STW",
+        "TVN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Photo Credit: John Russell/Nashville Predators",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1975934/ViewLift-Nashville-Predators.jpg?id=OA2912576&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1975934/ViewLift-Nashville-Predators.jpg?id=OA2912576&p=publish"
+        },
+        {
+          "caption": "ViewLift Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1975933/ViewLift-DAZN-Company-Logo.jpg?id=OA2912575&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1975933/ViewLift-DAZN-Company-Logo.jpg?id=OA2912575&p=publish"
+        }
+      ],
+      "release_id": "20260826DC34064",
+      "status": "PUBLISHED",
+      "subject": [
+        "CON",
+        "LIC"
+      ],
+      "summary": "<p><b><i>Multi-Year Agreement Will Bring Fans a Team-Owned Streaming Platform Alongside New Broadcast Deal with Scripps Sports</i></b></p><p><span class=\"legendSpanClass\">NASHVILLE, Tenn. and NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- The Nashville Predators and ViewLift today announced a multi-year agreement to launch a new direct-to-consumer streaming service for the team, giving fans across Tennessee and beyond access to every locally-carried Predators game starting with the 2026-27 NHL season. The agreement comes after global sports entertainment platform DAZN completed its acquisition of ViewLift last week, and added the Predators to a growing roster of teams and networks, bringing ViewLift's total footprint to 18 U.S. professional sports teams and six Regional Sports Networks nationwide.</p>\n    ",
+      "ticker": [],
+      "title": "Nashville Predators and ViewLift to Launch New Direct-To-Consumer Streaming Service Ahead of the NHL Season",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826DC34064",
+      "body": "\n<p><b><i>Multi-Year Agreement Will Bring Fans a Team-Owned Streaming Platform Alongside New Broadcast Deal with Scripps Sports</i></b></p><p><span class=\"legendSpanClass\">NASHVILLE, Tenn. and NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- The Nashville Predators and ViewLift today announced a multi-year agreement to launch a new direct-to-consumer streaming service for the team, giving fans across Tennessee and beyond access to every locally-carried Predators game starting with the 2026-27 NHL season. The agreement comes after global sports entertainment platform DAZN completed its acquisition of ViewLift last week, and added the Predators to a growing roster of teams and networks, bringing ViewLift's total footprint to 18 U.S. professional sports teams and six Regional Sports Networks nationwide.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975934/ViewLift-Nashville-Predators.jpg?id=OA2912576\" title=\"Photo Credit: John Russell/Nashville Predators\" alt=\"Photo Credit: John Russell/Nashville Predators\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight7f2e\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\"><span>The new streaming service will be available across Web, iOS, Android, Apple TV, Roku TV, Fire TV, and Android TV.</span></div><p>The new streaming app will give fans direct access to live games, on-demand replays and highlights, and original programming, all in one place. It will be available on Web, iOS, Android, Apple TV, Roku TV, Fire TV, and Android TV, with additional platforms to be announced. Pricing and trial details will be shared closer to launch.</p><p><i>\"This new streaming service will give our fans a direct connection to the team, on their terms,\" said Bill Wickett, EVP and CMO of the Nashville Predators. \"Smashville is one of the most passionate fan bases in the league, and they deserve the flexibility to watch anytime, anywhere, on whatever device they use most. This is just one more way we're investing in how we connect with our fans.\"</i></p><p><i>\"Nashville is a hockey town with one of the most engaged fan bases in the league, and this alliance reflects that,\"</i> said Rick Allen, CEO of ViewLift. <i>\"We're proud to become the Predators' streaming partner, giving fans in this market full coverage of the team, no matter how they choose to watch. And we're delighted to be working with Scripps Sports on this, our fourth NHL team joint distribution.\"</i> </p><p>The new streaming service will complement the Predators' broadcast partnership with Scripps Sports, which will air Preds games on \"The Spot – Nashville 28\" this season. Once launched, the new streaming service will be available across Web, iOS, Android, Apple TV, Roku TV, Fire TV, and Android TV.</p><p><b>About the Nashville Predators</b></p><p>The Nashville Predators were officially welcomed as the NHL's 27th franchise on May 4, 1998, and in the years since have evolved into an integral part of the Middle Tennessee community. Playing in the heart of Broadway and iconic SMASHVILLE at Bridgestone Arena, one of the busiest and most energetic venues in the country, the Predators boast one of the most unique atmospheres in the NHL. The team, which is approaching its 30th anniversary, has qualified for the postseason 16 times, reaching the Stanley Cup Final in 2017, winning the Presidents' Trophy in 2017-18 and capturing two Central Division titles. For more information on the Nashville Predators, including the game schedule and ticket availability, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759936-1&amp;h=2736818668&amp;u=http%3A%2F%2Fnashvillepredators.com%2F&amp;a=NashvillePredators.com\" target=\"_blank\" rel=\"nofollow\">NashvillePredators.com</a>.</p><p><b>About ViewLift</b></p><p>ViewLift, a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759936-1&amp;h=81780443&amp;u=https%3A%2F%2Fdazngroup.com%2F&amp;a=DAZN\" target=\"_blank\" rel=\"nofollow\">DAZN</a> company, provides digital solutions for content owners, with particular expertise in live and on-demand video distribution. With proprietary cloud-based technology, ViewLift powers digital platforms for sports, media, and entertainment brands worldwide. Its services include content management, multi-platform distribution, real-time analytics, viewer engagement tools, and flexible monetization models (AVOD, SVOD, TVOD, and hybrid models). ViewLift enables content owners to maximize audience engagement and revenue through a seamless, scalable streaming experience. In addition to the Predators, ViewLift's sports clients include the National Hockey League; a total of 18 U.S. professional sports teams; six Regional Sports Networks; the Professional Fighters League; the World Racing Group; and others. The company's media clients include Versant and Kroenke Sports &amp; Entertainment's MOTV.</p><p>For more information about ViewLift, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759936-1&amp;h=686338639&amp;u=http%3A%2F%2Fwww.viewlift.com%2F&amp;a=www.viewlift.com\" target=\"_blank\" rel=\"nofollow\">www.viewlift.com</a>.</p><p><b>Media Contact:</b><br></br>Mahesh Kumar<br></br><a href=\"mailto:marketing@viewlift.com\" target=\"_blank\" rel=\"nofollow\">marketing@viewlift.com</a></p><p> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975933/ViewLift-DAZN-Company-Logo.jpg?id=OA2912575\" title=\"ViewLift Logo\" alt=\"ViewLift Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC34064&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/nashville-predators-and-viewlift-to-launch-new-direct-to-consumer-streaming-service-ahead-of-the-nhl-season-302860426.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/nashville-predators-and-viewlift-to-launch-new-direct-to-consumer-streaming-service-ahead-of-the-nhl-season-302860426.html</a></p><p>SOURCE ViewLift</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC34064&amp;Transmission_Id=202608260800PR_NEWS_USPR_____DC34064&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "ViewLift",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 3,
+          "management": 0,
+          "radio": 0,
+          "television": 4,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "summary:entertainment",
+            "industry:ENT"
+          ],
+          "television": [
+            "summary:scripps",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:11.569Z"
+    },
+    {
+      "company": [
+        "TELUS Communications Inc."
+      ],
+      "date": "20260821T195000+0000",
+      "dateline": "VANCOUVER, B.C., Aug. 18, 2026",
+      "feed": [
+        "CNW_FOR_US_WEB",
+        "CNW",
+        "CNWCOMP",
+        "prnj_cnw",
+        "prnj",
+        "cnw_only"
+      ],
+      "geography": [
+        "QUE",
+        "CAN",
+        "NAM",
+        "ONT"
+      ],
+      "industry": [
+        "TVN",
+        "MLM"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "TELUS Wise Digital Content Safety Seal",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1971646/TELUS-Communications-Inc-TELUS-unveils-new-TELUS-Wise-Digital-C.jpg?id=OA2891382&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1971646/TELUS-Communications-Inc-TELUS-unveils-new-TELUS-Wise-Digital-C.jpg?id=OA2891382&p=publish"
+        },
+        {
+          "caption": "TELUS Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1521651/TELUS-Communications-Inc-TELUS-unveils-new-TELUS-Wise-Digital-C.jpg?id=OA2891368&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1521651/TELUS-Communications-Inc-TELUS-unveils-new-TELUS-Wise-Digital-C.jpg?id=OA2891368&p=publish"
+        }
+      ],
+      "release_id": "20260818C9322",
+      "status": "PUBLISHED",
+      "subject": [
+        "CHI"
+      ],
+      "summary": "<p class=\"prntac\"><i>The new standard combines the expertise of TELUS Wise, TELUS STORYHIVE and TELUS Digital to recognize programming that meets rigorous safety standards with the TELUS Wise Digital Content Safety Seal</i></p><p><span class=\"legendSpanClass\">VANCOUVER, B.C.</span>, <span class=\"legendSpanClass\">Aug. 18, 2026</span> /CNW/ -- Today, TELUS introduced the TELUS Wise Digital Content Safety Seal, a new designation provided to Canadian children's programming funded through TELUS STORYHIVE that has successfully completed TELUS' comprehensive digital content safety review. As children spend more time consuming digital content than ever before, the Seal helps families confidently discover Canadian children's programming that meets TELUS' rigorous digital content safety standards. The Seal will debut on eligible children's programming on TELUS STORYHIVE Kids TV, available on TELUS Optik TV Video on Demand channel 611, Stream+ and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=762202388&amp;u=https%3A%2F%2Fwww.youtube.com%2F%40STORYHIVEKidsTV&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>.</p>\n    ",
+      "ticker": [
+        "Toronto:T",
+        "NYSE:TU"
+      ],
+      "title": "TELUS unveils new TELUS Wise Digital Content Safety Seal to help parents identify trusted children's programming",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260818C9322",
+      "body": "\n<p class=\"prntac\"><i>The new standard combines the expertise of TELUS Wise, TELUS STORYHIVE and TELUS Digital to recognize programming that meets rigorous safety standards with the TELUS Wise Digital Content Safety Seal</i></p><p><span class=\"legendSpanClass\">VANCOUVER, B.C.</span>, <span class=\"legendSpanClass\">Aug. 18, 2026</span> /CNW/ -- Today, TELUS introduced the TELUS Wise Digital Content Safety Seal, a new designation provided to Canadian children's programming funded through TELUS STORYHIVE that has successfully completed TELUS' comprehensive digital content safety review. As children spend more time consuming digital content than ever before, the Seal helps families confidently discover Canadian children's programming that meets TELUS' rigorous digital content safety standards. The Seal will debut on eligible children's programming on TELUS STORYHIVE Kids TV, available on TELUS Optik TV Video on Demand channel 611, Stream+ and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=762202388&amp;u=https%3A%2F%2Fwww.youtube.com%2F%40STORYHIVEKidsTV&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1971646/TELUS-Communications-Inc-TELUS-unveils-new-TELUS-Wise-Digital-C.jpg?id=OA2891382\" title=\"TELUS Wise Digital Content Safety Seal\" alt=\"TELUS Wise Digital Content Safety Seal\"></img>\n                </p>\n    </div>\n<p>\"Putting families first is at the heart of everything we do at TELUS,\" says Juggy Sihota, Senior Vice President, Social Impact at TELUS. \"By uniting the complementary expertise of TELUS Wise in digital literacy, STORYHIVE in local content creation and TELUS Digital in robust platform moderation, we have built a rigorous framework that protects young media consumers. Programming that meets this elite bar will carry our Safety Seal, giving parents immediate, total confidence in their kids' media choices.\"</p><p><b>How children's programming earns the TELUS Wise Digital Content Safety Seal</b></p><p>The Seal reflects TELUS' commitment to creating safe experiences for children, both as viewers and as participants in STORYHIVE productions. Developed through a collaboration between TELUS Wise, STORYHIVE and TELUS Digital, the Seal draws on more than a decade of expertise in digital literacy, online safety, Canadian content creation and professional content moderation.</p><p>From the earliest stages of development, creators producing children's programming must meet strict requirements, including a mandatory vulnerable sector check for creators working with children, adherence to the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=3262096515&amp;u=https%3A%2F%2Fwww.storyhive.com%2Fen%2Fcode-of-conduct&amp;a=STORYHIVE+Code+of+Conduct\" target=\"_blank\" rel=\"nofollow\">STORYHIVE Code of Conduct</a>, child safety protocols and ongoing editorial oversight.</p><p>Once completed, programs undergo professional content moderation by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=4113404381&amp;u=https%3A%2F%2Fwww.telusdigital.com%2F&amp;a=TELUS+Digital\" target=\"_blank\" rel=\"nofollow\"><b>TELUS Digital</b></a>, where they are independently reviewed, classified and assessed against established safety standards. Only programs meeting every requirement earn the right to display the Seal.</p><p><b>What the TELUS Wise Digital Content Safety Seal evaluates</b><br></br><br></br>Unlike traditional content ratings that focus primarily on age appropriateness, the Seal recognizes programming that meets rigorous standards for content safety, responsible production practices and educational value. Programming recognized with the Seal reflects a commitment to:</p><ul type=\"disc\"><li>Safe, age-appropriate viewing supported by rigorous editorial, production and moderation standards</li><li>Educational and enriching storytelling that encourages curiosity, creativity and lifelong learning</li><li>Canadian stories that reflect diverse cultures, perspectives and experiences across British Columbia, Alberta and other Canadian communities</li><li>Responsible production practices that prioritize child safety throughout content creation</li></ul><p>Visit our website to learn more about the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=3243761005&amp;u=https%3A%2F%2Fwww.telus.com%2Fen%2Fwise%2Fresources%2Fcontent%2Farticle%2Fcontent-made-with-kids-in-mind&amp;a=TELUS+Wise+Digital+Content+Safety+Seal\" target=\"_blank\" rel=\"nofollow\">TELUS Wise Digital Content Safety Seal</a> and explore TELUS Wise's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=1515205613&amp;u=https%3A%2F%2Fwww.telus.com%2Fen%2Fwise%2Fresources&amp;a=digital+literacy+resources\" target=\"_blank\" rel=\"nofollow\">digital literacy resources</a>.</p><p><b>About TELUS</b></p><p>TELUS (TSX: T, NYSE: TU) is a leading Canadian communications technology company operating in more than 45 countries and generating over $20 billion in annual revenue with more than 17 million customer connections through our advanced suite of broadband services for consumers, businesses and the public sector. TELUS is passionate about putting our customers and communities first, leading the way globally in client service excellence and social capitalism. The TELUS PureFibre and 5G networks connect Canadians at home, at work and in the communities where they live.<br></br><br></br>TELUS Health is enhancing approximately 159 million lives across 200 countries and territories through innovative preventive medicine and well-being technologies. TELUS Agriculture &amp; Consumer Goods utilizes digital technologies and data insights to optimize the connection between producers and consumers. TELUS Digital specializes in digital customer experiences and future-focused digital transformations that deliver value for their global clients.</p><p>Since 2000, TELUS and our team members have contributed more than $1.85 billion in cash, in-kind contributions, time and programs to communities across Canada and around the world.</p><p>For more information, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=2722070520&amp;u=http%3A%2F%2Ftelus.com%2Fen&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=2455707430&amp;u=http%3A%2F%2Ftelus.com%2F&amp;a=telus.com\" target=\"_blank\" rel=\"nofollow\">telus.com</a>.</p><p><b>About TELUS Wise</b></p><p>TELUS Wise is a free digital literacy education program which offers workshops and resources covering topics such as protecting your online security, privacy and reputation, rising above cyberbullying and using technology responsibly. Since 2013, TELUS Wise has reached more than <b>980,000 participants </b>through its educational and informative workshops. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=90046762&amp;u=http%3A%2F%2Ftelus.com%2FWise&amp;a=telus.com%2FWise\" target=\"_blank\" rel=\"nofollow\">telus.com/Wise</a>. </p><p><b>About TELUS STORYHIVE</b></p><p>TELUS STORYHIVE supports emerging content creators across British Columbia and Alberta through production funding, mentorship, training and national distribution. Since 2013, STORYHIVE has invested more than <b>$74.8 million</b> in Canadian storytelling, empowering creators to share authentic local stories that reflect the communities they call home. Through STORYHIVE Kids TV, the program continues to invest in safe, educational and inspiring Canadian children's programming. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754089-1&amp;h=750068919&amp;u=http%3A%2F%2Fstoryhive.com%2F&amp;a=storyhive.com\" target=\"_blank\" rel=\"nofollow\">storyhive.com</a>.</p><p><b>For more information, please contact:<br></br><br></br></b><b>Martin Nguyen<br></br></b>TELUS Public Relations<br></br><a href=\"mailto:martin.nguyen@telus.com\" target=\"_blank\" rel=\"nofollow\">martin.nguyen@telus.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1521651/TELUS-Communications-Inc-TELUS-unveils-new-TELUS-Wise-Digital-C.jpg?id=OA2891368\" title=\"TELUS Logo\" alt=\"TELUS Logo\"></img>\n                </p>\n</div>\n\n\n\n<p>SOURCE TELUS Communications Inc.</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C9322&amp;Transmission_Id=202608180900CANADANWCANADAPR_C9322&amp;DateId=20260821\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "TELUS Communications Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 7,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "digital content",
+            "industry:MLM"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-04T18:33:24.593Z"
     }
   ]
 }
