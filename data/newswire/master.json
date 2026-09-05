@@ -1,9 +1,100 @@
 {
-  "generated_at": "2026-09-05T10:54:12.840Z",
+  "generated_at": "2026-09-05T11:12:48.176Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 134,
+  "count": 135,
   "releases": [
+    {
+      "company": [
+        "Shenzhen Media Group"
+      ],
+      "date": "20260905T105400+0000",
+      "dateline": "SHENZHEN, China, Sept. 5, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "CHN",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "PUB",
+        "BRD",
+        "SMD",
+        "MLM",
+        "RAD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Video produced by Shenzhen Media Group ",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/oJmxc-nYo10/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=oJmxc-nYo10"
+        }
+      ],
+      "release_id": "20260905CN41555",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA",
+        "ASI",
+        "TDS"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Sept. 5, 2026</span> /PRNewswire/ -- Shenzhen is a city born from China's reform and opening-up. In just over four decades, it has grown from a small fishing village into a modern international metropolis. It is a remarkable story of development created by the Chinese people, and a window through which the world can better understand China.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder5438\"><p title=\"Video produced by Shenzhen Media Group \"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oJmxc-nYo10\" frameborder=\"0\"></iframe></p></div><p>As part of the overall outcomes of Asia-Pacific Media Forum, Shenzhen is launching three long-term initiatives under a media cooperation program titled \"Gather in Shenzhen, Create a Better Asia-Pacific.\"</p>",
+      "ticker": [],
+      "title": "Asia-Pacific Media Forum Launches \"Gather in Shenzhen, Create a Better Asia-Pacific\" Media Cooperation Initiative",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260905CN41555",
+      "body": "\n<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Sept. 5, 2026</span> /PRNewswire/ -- Shenzhen is a city born from China's reform and opening-up. In just over four decades, it has grown from a small fishing village into a modern international metropolis. It is a remarkable story of development created by the Chinese people, and a window through which the world can better understand China.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder5438\"><p title=\"Video produced by Shenzhen Media Group \"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oJmxc-nYo10\" frameborder=\"0\"></iframe></p></div><p>As part of the overall outcomes of Asia-Pacific Media Forum, Shenzhen is launching three long-term initiatives under a media cooperation program titled \"Gather in Shenzhen, Create a Better Asia-Pacific.\"</p><p>The three initiatives are: Technology sharing ; Content co-creation; and Talent development.</p><p>On the occasion of the opening of the Asia-Pacific Media Forum, Shenzhen is officially launching this media cooperation initiative and inviting media partners from across the Asia-Pacific to take part. Together, we hope to contribute the strength of the media to building an Asia-Pacific community and promoting shared prosperity.</p><p><span id=\"spanHghlta901\">Video link: <a href=\"https://youtu.be/oJmxc-nYo10\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/oJmxc-nYo10</a><br></br>Video produced by Shenzhen Media Group</span></p><p> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN41555&amp;sd=2026-09-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/asia-pacific-media-forum-launches-gather-in-shenzhen-create-a-better-asia-pacific-media-cooperation-initiative-302870640.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/asia-pacific-media-forum-launches-gather-in-shenzhen-create-a-better-asia-pacific-media-cooperation-initiative-302870640.html</a></p><p>SOURCE Shenzhen Media Group</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN41555&amp;Transmission_Id=202609050654PR_NEWS_USPR_____CN41555&amp;DateId=20260905\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Shenzhen Media Group",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 6,
+          "engineering": 2,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM",
+            "industry:PUB",
+            "industry:SMD"
+          ],
+          "engineering": [
+            "industry:BRD"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-05T11:12:49.080Z"
+    },
     {
       "company": [
         "Vobile, Inc."
