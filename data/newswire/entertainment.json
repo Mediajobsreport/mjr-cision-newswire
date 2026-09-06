@@ -1,11 +1,85 @@
 {
-  "generated_at": "2026-09-06T15:53:00.633Z",
+  "generated_at": "2026-09-06T16:15:18.464Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 48,
+  "count": 49,
   "releases": [
+    {
+      "company": [
+        "Roc Nation"
+      ],
+      "date": "20260906T160800+0000",
+      "dateline": "NEW YORK, Sept. 6, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "MUS"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260906NY41662",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 6, 2026</span> /PRNewswire/ -- Today, the Apple Music Super Bowl LX Halftime Show Starring Bad Bunny won 7 Emmys as part of the 78<sup>th</sup> Emmy Awards, becoming the most-awarded Super Bowl Halftime Show in Emmy history.</p>\n<p>The record-breaking show – which was executive produced by Roc Nation and JAŸ-Z – secured victories in the following categories:</p><ul type=\"disc\"><li>Outstanding Variety Special (Live)</li><li>Outstanding Music Direction</li><li>Outstanding Directing For A Variety Special</li><li>Outstanding Choreography For Variety or Reality Programming</li><li>Outstanding Sound Mixing For A Variety Series Or Special</li><li>Outstanding Lighting Design/Lighting Direction For A Special</li><li>Outstanding Technical Direction and Camerawork For A Special</li></ul>",
+      "ticker": [],
+      "title": "The Apple Music Super Bowl LX Halftime Starring Bad Bunny &amp; Executive Produced By Roc Nation &amp; JAŸ-Z Wins Seven Emmys",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260906NY41662",
+      "body": "\n<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 6, 2026</span> /PRNewswire/ -- Today, the Apple Music Super Bowl LX Halftime Show Starring Bad Bunny won 7 Emmys as part of the 78<sup>th</sup> Emmy Awards, becoming the most-awarded Super Bowl Halftime Show in Emmy history.</p>\n<p>The record-breaking show – which was executive produced by Roc Nation and JAŸ-Z – secured victories in the following categories:</p><ul type=\"disc\"><li>Outstanding Variety Special (Live)</li><li>Outstanding Music Direction</li><li>Outstanding Directing For A Variety Special</li><li>Outstanding Choreography For Variety or Reality Programming</li><li>Outstanding Sound Mixing For A Variety Series Or Special</li><li>Outstanding Lighting Design/Lighting Direction For A Special</li><li>Outstanding Technical Direction and Camerawork For A Special</li></ul><p>Bad Bunny's Super Bowl LX Halftime Show set the global viewership record for most-watched Super Bowl Halftime Show of all-time, drawing 4.157 billion views in 24 hours across global broadcast, YouTube and social platforms.</p><p>The show also featured special guest performers, such as Lady Gaga and Ricky Martin, as well as appearances from Karol G, Cardi B, Jessica Alba, Pedro Pascal, Young Miko and more.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY41662&amp;sd=2026-09-06\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-apple-music-super-bowl-lx-halftime-starring-bad-bunny--executive-produced-by-roc-nation--jay-z-wins-seven-emmys-302870842.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-apple-music-super-bowl-lx-halftime-starring-bad-bunny--executive-produced-by-roc-nation--jay-z-wins-seven-emmys-302870842.html</a></p><p>SOURCE Roc Nation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY41662&amp;Transmission_Id=202609061208PR_NEWS_USPR_____NY41662&amp;DateId=20260906\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Roc Nation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "management": [
+            "executive"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-06T16:15:19.811Z"
+    },
     {
       "company": [
         "Parkwood Entertainment"
