@@ -1,11 +1,117 @@
 {
-  "generated_at": "2026-09-08T14:45:12.735Z",
+  "generated_at": "2026-09-08T15:16:42.579Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "management",
   "page_url": "https://www.mediajobsreport.com/management_news",
-  "count": 2,
+  "count": 3,
   "releases": [
+    {
+      "company": [
+        "Sirius XM Holdings Inc."
+      ],
+      "date": "20260908T150000+0000",
+      "dateline": "NEW YORK, Sept. 8, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "ENT",
+        "MUS",
+        "RAD",
+        "TLS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "SiriusXM",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1960335/SiriusXM-Logo.jpg?id=OA2934161&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1960335/SiriusXM-Logo.jpg?id=OA2934161&p=publish"
+        }
+      ],
+      "release_id": "20260908NY42062",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>Longtime SiriusXM leader will advance the Company's product experiences and technology strategy </i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 8, 2026</span> /PRNewswire/ -- SiriusXM (NASDAQ: <b>SIRI</b>) today announced that Sean Gibbons has been promoted to Senior Vice President, Chief Product and Technology Officer, reporting to Chief Executive Officer Jennifer Witz and joining the Company's Executive Leadership Team. In this role, Gibbons will lead product and technology across SiriusXM and Pandora, with responsibility for product strategy and development, technology platforms and engineering, automotive and streaming distribution partnerships, and advertising technology.</p>\n    ",
+      "ticker": [
+        "NASDAQ:SIRI"
+      ],
+      "title": "SiriusXM Names Sean Gibbons Chief Product and Technology Officer",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260908NY42062",
+      "body": "\n<p class=\"prntac\"><b><i>Longtime SiriusXM leader will advance the Company's product experiences and technology strategy </i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 8, 2026</span> /PRNewswire/ -- SiriusXM (NASDAQ: <b>SIRI</b>) today announced that Sean Gibbons has been promoted to Senior Vice President, Chief Product and Technology Officer, reporting to Chief Executive Officer Jennifer Witz and joining the Company's Executive Leadership Team. In this role, Gibbons will lead product and technology across SiriusXM and Pandora, with responsibility for product strategy and development, technology platforms and engineering, automotive and streaming distribution partnerships, and advertising technology.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1960335/SiriusXM-Logo.jpg?id=OA2934161\" title=\"SiriusXM\" alt=\"SiriusXM\"></img>\n                </p>\n    </div>\n<p>\"Sean has helped shape SiriusXM through some of our most important product and technology transformations, including the development and successful rollout of SiriusXM with 360L,\" said Jennifer Witz, Chief Executive Officer, SiriusXM. \"He brings more than two decades of experience, deep knowledge of our business and a strong track record of bringing together teams, technology and partnerships to deliver for consumers. Sean is a highly respected leader and the right person to help us accelerate innovation, improve the customer experience and advance the products, platforms and partnerships that will support our growth.\"</p><p>Gibbons' key priorities will include advancing SiriusXM with 360L and the Company's next generation of in-car experiences; shaping the long-term technology roadmap supporting SiriusXM's satellite, broadcast and streaming platforms; applying AI to improve personalization, discovery and customer service; and creating more dynamic, connected and participatory experiences across SiriusXM's in-vehicle and streaming platforms.</p><p>\"SiriusXM has a unique set of assets and a tremendous opportunity to make them work together even more powerfully for listeners,\" said Gibbons. \"We can pair the reach and reliability of satellite with the flexibility of streaming and the intelligence of AI to make it easier for people to discover what they love, stay connected wherever they listen and participate more deeply in the content and moments that matter to them. I'm excited to take on this role and help shape the next generation of the SiriusXM experience.\"</p><p>Gibbons joined Sirius in 2000, before the company's first satellite launch, and has held leadership roles spanning product management, engineering, automotive, streaming, content technology and strategic partnerships. During his tenure, he established SiriusXM's first formal Product Management organization and later founded and led its first Streaming organization, expanding the SiriusXM experience across mobile, web and connected-home platforms.</p><p>Most recently, Gibbons led SiriusXM's Automotive organization, bringing together product, user experience, engineering and automotive partnerships to advance the company's in-vehicle experiences and relationships with leading automakers. Across more than two decades at SiriusXM, he has played a central role in many of the Company's most significant product and technology transformations, including its evolution toward connected, software-defined vehicle experiences and hybrid satellite-and-IP services.</p><p><b><u>About Sirius XM Holdings Inc.<br></br></u></b>SiriusXM is the leading audio entertainment company in North America, with a portfolio of audio businesses including its flagship subscription entertainment service SiriusXM; the ad-supported and premium music streaming services of Pandora; an expansive podcast network; and a complete ecosystem of advertising solutions through SiriusXM Media and AdsWizz. SiriusXM offers live, on-demand, and human-curated programming across music, talk, news, sports, and podcasts, and the company reaches approximately 255 million monthly listeners across its platforms. With deep automotive manufacturer relationships and unique spectrum assets, SiriusXM is built to reach listeners wherever they are. The company connects fans to the voices, creators, and moments they love - creating communities where listeners engage, participate, and belong. For more about SiriusXM, please go to: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4768624-1&amp;h=2058034762&amp;u=http%3A%2F%2Fwww.siriusxm.com%2F&amp;a=https%3A%2F%2Fwww.siriusxm.com%2F\" target=\"_blank\" rel=\"nofollow\">https://www.siriusxm.com/</a></p><p><b>Source: SiriusXM</b></p><p><b>Investor Contact:<br></br></b><a href=\"mailto:Investor.Relations@siriusxm.com\" target=\"_blank\" rel=\"nofollow\"><b>Investor.Relations@siriusxm.com</b></a></p><p><b>Media Contact: <br></br></b><b>Zak Paget<br></br></b><a href=\"mailto:zak.paget@siriusxm.com\" target=\"_blank\" rel=\"nofollow\"><b>zak.paget@siriusxm.com</b></a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY42062&amp;sd=2026-09-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/siriusxm-names-sean-gibbons-chief-product-and-technology-officer-302872401.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/siriusxm-names-sean-gibbons-chief-product-and-technology-officer-302872401.html</a></p><p>SOURCE Sirius XM Holdings Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY42062&amp;Transmission_Id=202609081100PR_NEWS_USPR_____NY42062&amp;DateId=20260908\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Sirius XM Holdings Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "radio",
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "radio",
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 3,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 13,
+          "radio": 7,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising technology",
+            "summary:advertising"
+          ],
+          "entertainment": [
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "management": [
+            "summary:chief executive officer",
+            "summary:vice president",
+            "summary:executive leadership",
+            "summary:leadership team",
+            "summary:promoted",
+            "names",
+            "summary:executive",
+            "summary:president"
+          ],
+          "radio": [
+            "siriusxm",
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-08T15:16:43.670Z"
+    },
     {
       "company": [
         "Vobile, Inc."
