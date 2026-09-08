@@ -1,11 +1,112 @@
 {
-  "generated_at": "2026-09-08T03:57:12.688Z",
+  "generated_at": "2026-09-08T04:18:50.813Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "tradeshow",
   "page_url": "https://www.mediajobsreport.com/tradeshow_news",
-  "count": 7,
+  "count": 8,
   "releases": [
+    {
+      "company": [
+        "Comcast Technology Solutions"
+      ],
+      "date": "20260908T040100+0000",
+      "dateline": "DENVER, Sept. 8, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "COL",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "MLM",
+        "ADV",
+        "FLM",
+        "ENT",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Comcast Technology Solutions Selected by A+E Global Media™ for Premium Content Distributiotg",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1982198/A-E-PR-1080x1080.jpg?id=OA2931420&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1982198/A-E-PR-1080x1080.jpg?id=OA2931420&p=publish"
+        },
+        {
+          "caption": "Comcast Technology Solutions",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2931417&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2931417&p=publish"
+        }
+      ],
+      "release_id": "20260908SF41233",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "CON"
+      ],
+      "summary": "<ul type=\"disc\"><li><i>Multi-year agreement to streamline content distribution across A+E Global Media™ brands using Comcast MediaExpress™, part of Comcast Media360™ <br></br><br></br></i></li><li><i>Comcast MediaExpress will provide a single point of ingest and managed distribution of premium content across Amazon, Apple® Channels, Xfinity, Cox®, Mediacom®, DIRECTV® and DISH®</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 8, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=3250005847&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjws&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today announced a new multi-year agreement with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=1797938564&amp;u=https%3A%2F%2Fwww.aegm.com%2F&amp;a=A%2BE+Global+Media\" target=\"_blank\" rel=\"nofollow\">A+E Global Media</a> to provide premium content distribution services using <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=492355300&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjww&amp;a=Comcast+MediaExpress\" target=\"_blank\" rel=\"nofollow\">Comcast MediaExpress</a>™, part of the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=3939308463&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjwz&amp;a=Comcast+Media360\" target=\"_blank\" rel=\"nofollow\">Comcast Media360</a>™ portfolio.</p>\n    ",
+      "ticker": [],
+      "title": "Comcast Technology Solutions Selected by A+E Global Media™ for Premium Content Distribution",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260908SF41233",
+      "body": "\n<ul type=\"disc\"><li><i>Multi-year agreement to streamline content distribution across A+E Global Media™ brands using Comcast MediaExpress™, part of Comcast Media360™ <br></br><br></br></i></li><li><i>Comcast MediaExpress will provide a single point of ingest and managed distribution of premium content across Amazon, Apple® Channels, Xfinity, Cox®, Mediacom®, DIRECTV® and DISH®</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 8, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=3250005847&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjws&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today announced a new multi-year agreement with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=1797938564&amp;u=https%3A%2F%2Fwww.aegm.com%2F&amp;a=A%2BE+Global+Media\" target=\"_blank\" rel=\"nofollow\">A+E Global Media</a> to provide premium content distribution services using <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=492355300&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjww&amp;a=Comcast+MediaExpress\" target=\"_blank\" rel=\"nofollow\">Comcast MediaExpress</a>™, part of the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=3939308463&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjwz&amp;a=Comcast+Media360\" target=\"_blank\" rel=\"nofollow\">Comcast Media360</a>™ portfolio.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1982198/A-E-PR-1080x1080.jpg?id=OA2931420\" title=\"Comcast Technology Solutions Selected by A+E Global Media™ for Premium Content Distributiotg\" alt=\"Comcast Technology Solutions Selected by A+E Global Media™ for Premium Content Distributiotg\"></img>\n                </p>\n    </div>\n<p>Under the agreement, Comcast Technology Solutions will provide centralized video-on-demand (VOD) management and distribution for content from A+E Global Media brands (A&amp;E®, HISTORY®, Lifetime®, and others). Using Comcast MediaExpress, A+E Global Media will leverage a single point of ingest for premium video titles and associated metadata to streamline content preparation, packaging, and delivery. The 24/7 managed service is designed to simplify VOD distribution for improved operational efficiency.</p><p>\"A+E Global Media is committed to delivering exceptional storytelling to audiences wherever they are, while embracing technology to help accomplish that core objective,\" said Prakash Patel, Senior Vice President of Technology Strategy and Transformation at A+E Global Media. \"Comcast MediaExpress gives us an efficient and scalable approach to managing content distribution, helping simplify workflows to ensure our programming reaches distribution partners quickly and reliably.\"</p><p>\"A+E Global Media has an incredible portfolio of iconic brands with A&amp;E, HISTORY, Lifetime and more, and premium content that resonates with audiences everywhere,\" said Bart Spriester, Senior Vice President and General Manager of Streaming, Broadcast, and Advertising at Comcast Technology Solutions. \"We're honored to be a part of their distribution fulfillment strategy with Comcast MediaExpress, part of the Comcast Media360 portfolio, providing a streamlined managed workflow to reduce operational complexity across streaming and digital platforms.\"</p><p>Comcast Media360 is a premium managed service for the media and entertainment industry, offering an integrated suite of technologies for comprehensive global video delivery, distribution, and monetization across linear and on-demand platforms. Designed to consolidate workflows and reduce operational complexity, Comcast Media360 enables broadcasters and content owners to centralize video management while reaching audiences across traditional television, streaming, and digital platforms through a 24/7 managed service backed by the scale and reliability of Comcast Technology Solutions. As part of the Comcast Media360 portfolio, Comcast MediaExpress is a centralized VOD management and distribution service that provides content owners with a single point of ingest for premium video titles and associated metadata. The managed service streamlines content preparation, packaging, and delivery while enabling efficient distribution to leading OTT services, MVPDs, vMVPDs, FAST platforms, and other digital distribution partners. Organizations can leverage Comcast MediaExpress as a standalone service or alongside other Comcast Media360 capabilities to simplify global video operations.</p><p><b>Comcast Technology Solutions at IBC 2026</b></p><p>At the 2026 IBC Show, CTS will showcase its suite of solutions for streaming, broadcast, entertainment, and sports at RAI Amsterdam, September 11-14 in Hall #5, in stand 5.C80. Experts will be available to discuss how Comcast Media360, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=402173269&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjx3&amp;a=Comcast+Sports360\" target=\"_blank\" rel=\"nofollow\">Comcast Sports360</a>, and CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=2975123689&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjx6&amp;a=Cloud+Video+Platform\" target=\"_blank\" rel=\"nofollow\">Cloud Video Platform</a> help content owners and broadcasters simplify video operations, streamline content distribution, and reach audiences across linear and on-demand platforms. Customers, prospects, and partners of CTS seeking to schedule on-site business meetings at IBC can visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=88651123&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjx9&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com%2Fevents\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com/events</a>.</p><p>To learn more about Comcast Technology Solutions' entire product portfolio, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=964440244&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-27%2Ffgnjws&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com</a>. For more information about A+E Global Media and its brands, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4767810-1&amp;h=2482058848&amp;u=https%3A%2F%2Fwww.aegm.com%2F&amp;a=https%3A%2F%2Fwww.aegm.com%2F\" target=\"_blank\" rel=\"nofollow\">https://www.aegm.com/</a>.</p><p><b><u>About Comcast Technology Solutions<br></br></u></b>Comcast Technology Solutions, a division of one of the world's leading media and technology companies, brings Comcast Corporation's proven technologies to an evolving list of industries worldwide. Comcast Technology Solutions offers a broad portfolio of solutions that deliver flexibility at scale for global video, media, communications, data applications, and cybersecurity &amp; compliance. Customers include leading content and streaming video providers, pay TV operators and MVPDs, advertisers, communications providers, financial service providers, retailers, and more. For more information, visit Comcast Technology Solutions.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2931417\" title=\"Comcast Technology Solutions\" alt=\"Comcast Technology Solutions\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF41233&amp;sd=2026-09-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/comcast-technology-solutions-selected-by-ae-global-media-for-premium-content-distribution-302870566.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/comcast-technology-solutions-selected-by-ae-global-media-for-premium-content-distribution-302870566.html</a></p><p>SOURCE Comcast Technology Solutions</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF41233&amp;Transmission_Id=202609080001PR_NEWS_USPR_____SF41233&amp;DateId=20260908\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Comcast Technology Solutions",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 2,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "television": [
+            "industry:TVN"
+          ],
+          "tradeshow": [
+            "summary:ibc show"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-08T04:18:51.653Z"
+    },
     {
       "company": [
         "Vobile, Inc."
