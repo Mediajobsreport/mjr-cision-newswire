@@ -1,11 +1,91 @@
 {
-  "generated_at": "2026-09-08T15:59:13.551Z",
+  "generated_at": "2026-09-08T16:22:18.369Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 13,
+  "count": 14,
   "releases": [
+    {
+      "company": [
+        "GeeLark"
+      ],
+      "date": "20260908T160000+0000",
+      "dateline": "SINGAPORE, Sept. 8, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "SGP",
+        "ASA"
+      ],
+      "industry": [
+        "MEN",
+        "TLS",
+        "NET",
+        "IOT",
+        "TEQ"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "GeeLark Advances Cloud Phone Infrastructure for Scalable Social Media Operations",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1983255/20260908030247EDT_image_1.jpg?id=OA2934699&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1983255/20260908030247EDT_image_1.jpg?id=OA2934699&p=publish"
+        }
+      ],
+      "release_id": "20260908CN42265",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">SINGAPORE</span>, <span class=\"legendSpanClass\">Sept. 8, 2026</span> /PRNewswire/ -- Social media work is increasingly mobile-first. From publishing short-form video to managing content across TikTok, Instagram, YouTube, and other platforms, many everyday workflows still depend on native mobile apps.</p><p>For agencies, brands, and content teams managing multiple clients, campaigns, or regional operations, that creates a practical challenge: as mobile workloads grow, so does the number of Android environments a team needs to manage.</p><p>Traditionally, adding more mobile capacity meant adding more physical devices. Cloud phone technology offers a different approach by turning Android environments into remotely accessible, software-managed infrastructure.</p>",
+      "ticker": [],
+      "title": "GeeLark Advances Cloud Phone Infrastructure for Scalable Social Media Operations",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260908CN42265",
+      "body": "\n<p><span class=\"legendSpanClass\">SINGAPORE</span>, <span class=\"legendSpanClass\">Sept. 8, 2026</span> /PRNewswire/ -- Social media work is increasingly mobile-first. From publishing short-form video to managing content across TikTok, Instagram, YouTube, and other platforms, many everyday workflows still depend on native mobile apps.</p><p>For agencies, brands, and content teams managing multiple clients, campaigns, or regional operations, that creates a practical challenge: as mobile workloads grow, so does the number of Android environments a team needs to manage.</p><p>Traditionally, adding more mobile capacity meant adding more physical devices. Cloud phone technology offers a different approach by turning Android environments into remotely accessible, software-managed infrastructure.</p><p><b>The Hidden Cost of Managing More Physical Phones</b></p><p>Physical smartphones work well when a team only needs a few devices. At a larger scale, however, the work around those devices can become a burden of its own.</p><p>Teams need to purchase and replace hardware, keep devices charged, manage operating system and app updates, maintain network settings, provide remote access, and keep track of which device belongs to which client or project.</p><p>Large collections of physical smartphones are sometimes loosely described as a \"phone farm,\" but for legitimate social media teams, the more practical issue is often much simpler: every additional device adds another piece of hardware that needs to be stored, maintained, accessed, and organized.</p><p>The challenge is not the smartphone itself. It is the operational complexity that comes with managing physical hardware as mobile workloads grow.</p><p><b>Turning Android Devices Into Cloud-Managed Infrastructure</b></p><p>A cloud phone changes that model.</p><p>Instead of tying an Android environment to a physical phone sitting on a desk, a cloud phone runs remotely and can be accessed through a computer. Teams can create mobile environments when they need them, organize them by project, and manage them from a central workspace.</p><p>In this model, the Android environment becomes a software-managed resource rather than a piece of hardware that must always be physically available.</p><p>That distinction matters for distributed teams. A device no longer has to be passed from one employee to another or remain plugged in at a particular office. Team members can access the mobile environment remotely while keeping project resources organized in one place.</p><p>The shift is less about replacing smartphones entirely and more about giving businesses another way to manage mobile capacity.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder4160\"><p><img src=\"https://mmx.prnewswire.com/media/MS1983255/20260908030247EDT_image_1.jpg?id=OA2934699\" title=\"GeeLark Advances Cloud Phone Infrastructure for Scalable Social Media Operations\" alt=\"GeeLark Advances Cloud Phone Infrastructure for Scalable Social Media Operations\"></img></p></div><p><b>How GeeLark Makes Cloud Phones Easier to Manage</b></p><p><a href=\"https://www.geelark.com/?utm_source=prnewswire&amp;utm_campaign=sep_2026\" target=\"_blank\" rel=\"nofollow\">GeeLark</a> brings cloud phones into a centralized workspace designed for mobile-first social media operations.</p><p>Each GeeLark cloud phone operates as a separate Android environment with its own storage, app data, login sessions, and network configuration. This allows teams to keep different projects and mobile workflows organized without relying on a growing collection of physical devices.</p><p>Teams can also configure cloud phone environments based on project requirements, including Android versions, device models, language, location, and network or proxy settings.</p><p>For an agency managing different brands or regional campaigns, for example, cloud phone profiles can be grouped and organized by client or project. Access can be managed across team members, while the environments themselves remain available remotely through the same workspace.</p><p>This centralized approach makes it easier to answer basic operational questions that become harder as a team grows: Which environment belongs to which project? Who needs access to it? What configuration does it use? And how can the team manage more mobile workflows without adding the same amount of physical hardware?</p><p><b>From Remote Access to Automated Mobile Workflows</b></p><p>Moving Android environments to the cloud reduces hardware-management work. The next efficiency gain comes from reducing repetitive actions inside those environments.</p><p>GeeLark combines cloud phones with automation tools for mobile workflows. Teams can use ready-made automation templates for common tasks, build custom in-app workflows with RPA, or use APIs to connect cloud phones and automation tasks with their own internal systems.</p><p>For content teams, this can mean preparing content in advance, assigning workflows to different cloud phone environments, scheduling repetitive publishing tasks, and reviewing execution results without manually operating every device one by one.</p><p>For teams with more specialized processes, RPA provides a way to turn repeated Android app actions into reusable workflows. Technical teams can go further by using APIs to connect cloud phone operations with existing content systems, scheduling tools, scripts, or internal dashboards.</p><p>The result is a more flexible approach to mobile operations: instead of scaling workloads by continually adding physical devices and manual steps, teams can manage Android environments and repeatable workflows through software.</p><p>For agencies, brands, and other teams whose social media work depends heavily on mobile apps, cloud phones provide a practical way to reduce device-management overhead while keeping mobile workflows accessible, organized, and easier to scale.</p><p><b>About GeeLark</b></p><p>GeeLark provides cloud phone and automation tools for teams managing mobile-first social media workflows. Its platform combines cloud-based Android environments, team management, automation templates, RPA, and API capabilities in a single workspace.</p><p>Learn more about GeeLark and its cloud phone platform at <a href=\"https://www.geelark.com/?utm_source=prnewswire&amp;utm_campaign=sep_2026\" target=\"_blank\" rel=\"nofollow\">GeeLark.com</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN42265&amp;sd=2026-09-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/geelark-advances-cloud-phone-infrastructure-for-scalable-social-media-operations-302872008.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/geelark-advances-cloud-phone-infrastructure-for-scalable-social-media-operations-302872008.html</a></p><p>SOURCE GeeLark</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN42265&amp;Transmission_Id=202609081200PR_NEWS_USPR_____CN42265&amp;DateId=20260908\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "GeeLark",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "social media"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-08T16:22:19.753Z"
+    },
     {
       "company": [
         "Cartwheel"
