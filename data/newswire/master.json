@@ -1,9 +1,102 @@
 {
-  "generated_at": "2026-09-09T13:16:32.512Z",
+  "generated_at": "2026-09-09T13:45:08.509Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 165,
+  "count": 166,
   "releases": [
+    {
+      "company": [
+        "Dashverse"
+      ],
+      "date": "20260909T133000+0000",
+      "dateline": "SAN FRANCISCO and BENGALURU, India, Sept. 9, 2026",
+      "feed": [
+        "CNW",
+        "prnj_cnw",
+        "CNWCOMP"
+      ],
+      "geography": [
+        "USA",
+        "NAM",
+        "IND",
+        "ASA",
+        "CLF",
+        "UWS"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "MLM",
+        "CPR",
+        "AFI"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Overall score of leading video agents in the Physion-Arc 1.0 Movie Track benchmark on a scale of 0 to 100",
+          "seq": "1",
+          "thumbnailurl": "https://mma.prnewswire.com/media/3008966/Overall_score.jpg?p=thumbnail",
+          "type": "photo",
+          "url": "https://mma.prnewswire.com/media/3008966/Overall_score.jpg?p=publish"
+        },
+        {
+          "caption": "Frameo.AI Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mma.prnewswire.com/media/3008965/Frameo_Logo.jpg?p=thumbnail",
+          "type": "photo",
+          "url": "https://mma.prnewswire.com/media/3008965/Frameo_Logo.jpg?p=publish"
+        }
+      ],
+      "release_id": "20260909C8312",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><b>Dashverse's AI storytelling agent Frameo outperformed 8 leading AI filmmaking agents, scoring 88.7, nearly 20 points ahead of the runner-up and ranking first across Narrative Coherence, Cinematic Language and Production Quality.</b></p><ul type=\"disc\"><li><i>Frameo ranked #1 on 13 of 16 metrics, including all 8 human-preference metrics, in a 100-prompt, 800-video human evaluation.</i></li></ul><p><span class=\"legendSpanClass\">SAN FRANCISCO and BENGALURU, India</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /CNW/ -- Dashverse today announced that Frameo, its AI filmmaking and video generation agent, ranked #1 in Arc v1.0 Movie, an independent benchmark published by Physion Labs. In a human evaluation of 8 AI video agents, including Runway Agent 2.0, Luma Creative Agents, Kling Canvas Agent, and Invideo Agent One, Frameo scored 88.7 out of 100 on quality, nearly twenty points clear of the second-placed agent.</p>\n",
+      "ticker": [],
+      "title": "Frameo Ranked Number 1 AI Filmmaking Agent in Independent Physion Labs Benchmark",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260909C8312",
+      "body": "\n<p><b>Dashverse's AI storytelling agent Frameo outperformed 8 leading AI filmmaking agents, scoring 88.7, nearly 20 points ahead of the runner-up and ranking first across Narrative Coherence, Cinematic Language and Production Quality.</b></p><ul type=\"disc\"><li><i>Frameo ranked #1 on 13 of 16 metrics, including all 8 human-preference metrics, in a 100-prompt, 800-video human evaluation.</i></li></ul><p><span class=\"legendSpanClass\">SAN FRANCISCO and BENGALURU, India</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /CNW/ -- Dashverse today announced that Frameo, its AI filmmaking and video generation agent, ranked #1 in Arc v1.0 Movie, an independent benchmark published by Physion Labs. In a human evaluation of 8 AI video agents, including Runway Agent 2.0, Luma Creative Agents, Kling Canvas Agent, and Invideo Agent One, Frameo scored 88.7 out of 100 on quality, nearly twenty points clear of the second-placed agent.</p>\n<div id=\"prni_dvprnejpg25b8left\" dir=\"ltr\" style=\"width: 100%; text-align: left;\"><img id=\"prnejpg25b8left\" style=\"width: 400px; height: 310px;\" title=\"Overall score of leading video agents in the Physion-Arc 1.0 Movie Track benchmark on a scale of 0 to 100\" src=\"https://mma.prnewswire.com/media/3008966/Overall_score.jpg\" alt=\"Overall score of leading video agents in the Physion-Arc 1.0 Movie Track benchmark on a scale of 0 to 100\" align=\"middle\"></img></div><p>\"The margin was large enough that it caught us by surprise. We ran a round of validation and brought in a fourth expert reviewer. The conclusion held: the results are valid, and Frameo is meaningfully ahead of every other agent that we evaluated,\" said Qin Zhang, Founder and CEO of Physion Labs.</p><p class=\"prntal\"><b>Frameo was not built to win filmmaking benchmarks</b></p><p>Dashverse Co-Founder and CTO Soumyadeep Mukherjee built Frameo as the production system behind the company's AI short dramas that consumers pay to watch.</p><p>\"We never optimized Frameo for movies. We built it for short dramas that audiences pay for, so the #1 result surprised us too,\" said Soumyadeep Mukherjee, CTO of Dashverse. \"The benchmark has opened up a whole new world of possibilities, from ads to films. We're already seeing studios, brands, and creators reach out to explore what they can create with Frameo.\"</p><p class=\"prntal\"><b>From short dramas to film, television, and marketing</b></p><p>Following these results, Dashverse is expanding Frameo beyond short dramas into film, television, and marketing. The company will work with studios, OTTs and brands, combining Frameo with trained Dashverse artists via its Forward Deployed Artist (FDA) model.</p><p>\"The benchmark showed us that the system we built to run our own shows is now one of the strongest AI filmmaking systems in the world,\" said Sanidhya Narain, CEO of Dashverse.</p><p class=\"prntal\"><b>About Dashverse</b></p><p>Dashverse is an AI-native entertainment company operating from San Francisco and Bengaluru. Its AI short dramas are watched by paying audiences worldwide and produced by 500+ trained AI artists using Frameo, its AI filmmaking agent.</p><p>Photo: <a href=\"https://mma.prnewswire.com/media/3008966/Overall_score.jpg\" target=\"_blank\" rel=\"nofollow\">https://mma.prnewswire.com/media/3008966/Overall_score.jpg</a><br></br>Logo: <a href=\"https://mma.prnewswire.com/media/3008965/Frameo_Logo.jpg\" target=\"_blank\" rel=\"nofollow\">https://mma.prnewswire.com/media/3008965/Frameo_Logo.jpg</a></p><p> </p><div id=\"prni_dvprnejpg3be3left\" dir=\"ltr\" style=\"width: 100%; text-align: left;\"><img id=\"prnejpg3be3left\" style=\"width: 400px; height: 113px;\" title=\"Frameo.AI Logo\" src=\"https://mma.prnewswire.com/media/3008965/Frameo_Logo.jpg\" alt=\"Frameo.AI Logo\" align=\"middle\"></img></div><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=IO43522&amp;sd=2026-09-09\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/frameo-ranked-number-1-ai-filmmaking-agent-in-independent-physion-labs-benchmark-302873447.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/frameo-ranked-number-1-ai-filmmaking-agent-in-independent-physion-labs-benchmark-302873447.html</a></p><p>SOURCE Dashverse</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C8312&amp;Transmission_Id=202609090930CANADANWCANADAPR_C8312&amp;DateId=20260909\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": null,
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "film",
+            "summary:movie",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-09T13:45:10.037Z"
+    },
     {
       "company": [
         "Toyota"
