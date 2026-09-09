@@ -1,9 +1,85 @@
 {
-  "generated_at": "2026-09-09T11:56:28.632Z",
+  "generated_at": "2026-09-09T12:23:18.614Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 157,
+  "count": 158,
   "releases": [
+    {
+      "company": [
+        "Audi Canada"
+      ],
+      "date": "20260909T120000+0000",
+      "dateline": "TORONTO, Sept. 9, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "TRN",
+        "FLM",
+        "AUT",
+        "ENT"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Audi Canada Returns to Host Filmmakers and Casts at Canada's Leading Film Festival ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1854082/Audi-Canada-Audi-Canada-Returns-To-Host-Filmmakers-and-Casts-at.jpg?id=OA2937511&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1854082/Audi-Canada-Audi-Canada-Returns-To-Host-Filmmakers-and-Casts-at.jpg?id=OA2937511&p=publish"
+        }
+      ],
+      "release_id": "20260909C9056",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /CNW/ -- Audi Canada will return again to one of North America's most celebrated international film festivals, continuing its longstanding relationship with the artists, filmmakers and storytellers who come together in Toronto annually.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1854082/Audi-Canada-Audi-Canada-Returns-To-Host-Filmmakers-and-Casts-at.jpg?id=OA2937511\" title=\"Audi Canada Returns to Host Filmmakers and Casts at Canada's Leading Film Festival \" alt=\"Audi Canada Returns to Host Filmmakers and Casts at Canada's Leading Film Festival \"></img>\n                </p>\n    </div>\n<p>As part of this year's lineup, Audi Canada will host private events for A24's <b><i>Misty Green</i></b>, directed by Chris Rock and starring Rosalind Eleazar, Daniel Kaluuya, Adam Driver and Anna Kendrick, and Anton Corbijn's <b><i>A Talent for Murder</i></b>, starring Helen Mirren, Alden Ehrenreich and Olivia Cooke. The evenings will celebrate film and culture, bringing together cast and filmmakers with invited guests.</p>",
+      "ticker": [],
+      "title": "Audi Canada Returns To Host Filmmakers and Casts at Canada's Leading Film Festival",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260909C9056",
+      "body": "\n<p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /CNW/ -- Audi Canada will return again to one of North America's most celebrated international film festivals, continuing its longstanding relationship with the artists, filmmakers and storytellers who come together in Toronto annually.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1854082/Audi-Canada-Audi-Canada-Returns-To-Host-Filmmakers-and-Casts-at.jpg?id=OA2937511\" title=\"Audi Canada Returns to Host Filmmakers and Casts at Canada's Leading Film Festival \" alt=\"Audi Canada Returns to Host Filmmakers and Casts at Canada's Leading Film Festival \"></img>\n                </p>\n    </div>\n<p>As part of this year's lineup, Audi Canada will host private events for A24's <b><i>Misty Green</i></b>, directed by Chris Rock and starring Rosalind Eleazar, Daniel Kaluuya, Adam Driver and Anna Kendrick, and Anton Corbijn's <b><i>A Talent for Murder</i></b>, starring Helen Mirren, Alden Ehrenreich and Olivia Cooke. The evenings will celebrate film and culture, bringing together cast and filmmakers with invited guests.</p><p>Audi Canada is also proud to continue its support of the Artists for Peace and Justice Festival Gala on September 13, recognizing the organization's ongoing work to expand access to opportunity through film and the arts.</p><p><b>For More Information On These Events &amp; To Opt Into Audi Canada's Photo Distributon List:<br></br></b>Noor Almutaa, YBIMC<br></br>E-mail: <a href=\"mailto:noor@ybimc.com\" target=\"_blank\" rel=\"nofollow\">noor@ybimc.com</a><br></br>Number: 437-243-3255</p><p><b>About Audi</b></p><p>Audi drives transformation and shapes the mobility of tomorrow – with intelligent, electric products.</p><p>The premium automotive brand is available in more than 100 markets. Its global production network spans 21 sites in 12 countries. Vorsprung durch Technik unites more than 88,000 employees. With courage, passion, responsibility, and trust, they are reinterpreting more than 100 years of automaking tradition for the future. In 2026, Audi is entering Formula 1 with a factory team in a bold expression of its motorsports DNA.</p><p>The Audi Group also includes the supercar manufacturer Lamborghini, the luxury brand Bentley Motors, and the motorcycle maker Ducati. Learn more about the Audi Group <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4769936-1&amp;h=1272548057&amp;u=https%3A%2F%2Fwww.audi-mediacenter.com%2Fen%2Faudi-at-a-glance-15904&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>.</p>\n\n\n\n<p>SOURCE Audi Canada</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C9056&amp;Transmission_Id=202609090800CANADANWCANADAPR_C9056&amp;DateId=20260909\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Audi Canada",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 11,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "film festival",
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-09T12:23:19.534Z"
+    },
     {
       "company": [
         "The Sales Factory"
