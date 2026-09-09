@@ -1,9 +1,91 @@
 {
-  "generated_at": "2026-09-09T17:17:14.401Z",
+  "generated_at": "2026-09-09T17:41:34.550Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 172,
+  "count": 173,
   "releases": [
+    {
+      "company": [
+        "Mann Robinson"
+      ],
+      "date": "20260909T172200+0000",
+      "dateline": "ATLANTA, Sept. 9, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_WEBMAX",
+        "PRNUS"
+      ],
+      "geography": [
+        "GGA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "MEN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Urban Operas logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1984758/Urban-Operas-logo.jpg?id=OA2938493&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1984758/Urban-Operas-logo.jpg?id=OA2938493&p=publish"
+        }
+      ],
+      "release_id": "20260909CL43802",
+      "status": "PUBLISHED",
+      "subject": [
+        "BLK",
+        "DEI",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Urban Operas will launch with 15 original micro dramas produced by Robinson and his production team, while creating a new streaming destination for independent vertical filmmakers</i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /PRNewswire/ -- Filmmaker, director, producer, studio owner, distributor, and streaming entrepreneur <b>Mann Robinson</b> is expanding his growing entertainment ecosystem with the launch of <b>Urban Operas</b>, a new vertical streaming platform created to bring culturally connected, mobile first storytelling directly to audiences.</p>\n    ",
+      "ticker": [],
+      "title": "MANN ROBINSON EXPANDS ENTERTAINMENT ECOSYSTEM WITH 'URBAN OPERAS', A NEW VERTICAL STREAMING PLATFORM BUILT FOR STORIES THAT KNOW US",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260909CL43802",
+      "body": "\n<p class=\"prntac\"><i>Urban Operas will launch with 15 original micro dramas produced by Robinson and his production team, while creating a new streaming destination for independent vertical filmmakers</i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /PRNewswire/ -- Filmmaker, director, producer, studio owner, distributor, and streaming entrepreneur <b>Mann Robinson</b> is expanding his growing entertainment ecosystem with the launch of <b>Urban Operas</b>, a new vertical streaming platform created to bring culturally connected, mobile first storytelling directly to audiences.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1984758/Urban-Operas-logo.jpg?id=OA2938493\" title=\"Urban Operas logo\" alt=\"Urban Operas logo\"></img>\n                </p>\n    </div>\n<p>Built around the tagline, \"Stories That Know Us\", Urban Operas will feature serialized dramas created specifically for mobile viewing, with short, fast moving episodes built around compelling characters, emotional storytelling, cliffhangers, relationships, romance, <span>crime</span>, family, betrayal, ambition, money, power, and the experiences of audiences that Robinson believes remain underserved within the rapidly expanding vertical entertainment marketplace.</p><p>Urban Operas is not being created in opposition to the major companies already operating in the vertical entertainment space. Instead, he sees this as an opportunity to expand the marketplace by creating a platform with a specific cultural identity and programming philosophy. When speaking of what makes Urban Operas unique, Robinson says, \"The major platforms have their audiences and the types of programming that make sense for their businesses. I respect that. I saw an opportunity to build something from our perspective. There should be a destination where our stories aren't simply another category somewhere inside the platform. They are the foundation of the platform. That's what Urban Operas is being built to become. Original content will remain at the center of Urban Operas.\"</p><p>Independent filmmakers can find submission details through the official Urban Operas website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4770326-1&amp;h=1485242536&amp;u=http%3A%2F%2Fwww.urbanoperas.com%2F&amp;a=www.urbanoperas.com\" target=\"_blank\" rel=\"nofollow\">www.urbanoperas.com</a>. Selected outside productions will have the opportunity to be distributed through Urban Operas under a creator focused revenue share model, allowing qualified filmmakers and content owners to participate financially in the performance of their programming on the platform.</p><p>Urban Operas will begin appearing on the Apple App Store and Google Play Store in November 2026, with its official launch scheduled for Winter 2026.</p><p><b>ABOUT MANN ROBINSON</b></p><p>Mann Robinson has produced and directed more than 30 film and television projects and has built an independent entertainment operation spanning film and television production, content distribution, production equipment, marketing, props and production resources, and direct to consumer streaming.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL43802&amp;sd=2026-09-09\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mann-robinson-expands-entertainment-ecosystem-with-urban-operas-a-new-vertical-streaming-platform-built-for-stories-that-know-us-302874123.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mann-robinson-expands-entertainment-ecosystem-with-urban-operas-a-new-vertical-streaming-platform-built-for-stories-that-know-us-302874123.html</a></p><p>SOURCE Mann Robinson</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL43802&amp;Transmission_Id=202609091322PR_NEWS_USPR_____CL43802&amp;DateId=20260909\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Mann Robinson",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "summary:film",
+            "summary:producer",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-09T17:41:35.299Z"
+    },
     {
       "company": [
         "FlexFactor"
