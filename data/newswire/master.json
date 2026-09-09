@@ -1,9 +1,92 @@
 {
-  "generated_at": "2026-09-09T10:43:47.722Z",
+  "generated_at": "2026-09-09T10:57:25.754Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 154,
+  "count": 155,
   "releases": [
+    {
+      "company": [
+        "Centrus Energy Corp."
+      ],
+      "date": "20260909T104900+0000",
+      "dateline": "BETHESDA, Md., Sept. 8, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prnj",
+        "prncom_us"
+      ],
+      "geography": [
+        "MLD",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "UTI",
+        "GRE",
+        "ENV",
+        "EUT",
+        "OIL",
+        "ALT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Centrus Energy Corp., Bethesda, MD",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1165170/Centrus-Energy-Logo.jpg?id=OA2937158&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1165170/Centrus-Energy-Logo.jpg?id=OA2937158&p=publish"
+        }
+      ],
+      "release_id": "20260909PH43378",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>Agreement adds another domestic, U.S.-origin source of HALEU to support commercial and national security deployments of Radiant's Kaleidos microreactors </i></p><p class=\"prntac\"><i>Adds another HALEU customer to Centrus' backlog and includes prepayments to Centrus that advance its build-out of domestic enrichment capacity</i></p><p><span class=\"legendSpanClass\">BETHESDA, Md.</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /PRNewswire/ -- Centrus Energy Corp. [NYSE: LEU] (\"Centrus\"), a trusted supplier of nuclear fuel and services, and Radiant, a leading developer of transportable plug-in ready nuclear microreactors, today announced a definitive multi-year contract to supply high-assay, low-enriched uranium (HALEU) fuel needed to deploy multiple Kaleidos microreactors. Under the agreement, Centrus will begin delivering HALEU before the end of the decade, adding another domestic source of fuel to support commercial scale-up of Radiant's Kaleidos fleet.</p>\r\n    ",
+      "ticker": [
+        "Amex:LEU",
+        "AMEX:LEU",
+        "NYSE:LEU",
+        "NYSE-MKT:LEU"
+      ],
+      "title": "Centrus and Radiant Announce Long-Term Partnership for Domestic HALEU to Supply Kaleidos Microreactors",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260909PH43378",
+      "body": "<p class=\"prntac\"><i>Agreement adds another domestic, U.S.-origin source of HALEU to support commercial and national security deployments of Radiant's Kaleidos microreactors </i></p>\r\n<p class=\"prntac\"><i>Adds another HALEU customer to Centrus' backlog and includes prepayments to Centrus that advance its build-out of domestic enrichment capacity</i></p>\r\n<p><span class=\"legendSpanClass\">BETHESDA, Md.</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /PRNewswire/ -- Centrus Energy Corp. [NYSE: LEU] (&quot;Centrus&quot;), a trusted supplier of nuclear fuel and services, and Radiant, a leading developer of transportable plug-in ready nuclear microreactors, today announced a definitive multi-year contract to supply high-assay, low-enriched uranium (HALEU) fuel needed to deploy multiple Kaleidos microreactors. Under the agreement, Centrus will begin delivering HALEU before the end of the decade, adding another domestic source of fuel to support commercial scale-up of Radiant's Kaleidos fleet.</p>\r\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1165170/Centrus-Energy-Logo.jpg?id=OA2937158\" title=\"Centrus Energy Corp., Bethesda, MD\" alt=\"Centrus Energy Corp., Bethesda, MD\"></p>\r\n</div>\r\n<p>The contract further strengthens Centrus' position as a leading fuel supplier for next generation nuclear technologies while expanding its role in the emerging microreactor market. The agreement includes Radiant prepayments to Centrus to support its domestic commercial enrichment capacity program. For Radiant, the contract adds another domestic source of HALEU as the company moves from its first Kaleidos test toward commercial and national security deployments, reinforcing the fuel supply it continues to build in parallel with the reactor itself.&nbsp;</p>\r\n<p>&quot;The contract with Radiant marks another important step in building the domestic fuel supply chain needed to support the next generation of nuclear energy,&quot; said Amir Vexler, President and Chief Executive Officer of Centrus. &quot;By expanding our work to include innovative microreactor developers like Radiant, we are strengthening the U.S.-based fuel supply network. This will help ensure that emerging nuclear technologies have access to the reliable fuel they need to reach commercialization and meet growing demand for clean, secure, and dependable energy.&quot;</p>\r\n<p><i>&quot;</i>You can't deploy nuclear reactors without fuel, so we have approached our fuel supply the same way we have approached the reactor: build it in parallel, and don't depend on any single path,&quot; said Dr. Rita Baranwal, Chief Nuclear Officer of Radiant. &quot;This agreement gives Kaleidos a continued source of HALEU for commercial and national security applications and removes one of the biggest constraints facing advanced nuclear deployment. We're securing the fuel supply chain alongside the reactor so that when Kaleidos is ready to deploy at scale, the infrastructure behind it is ready too.&quot;</p>\r\n<p>Because Centrus' technology is U.S.-origin and relies upon a U.S. manufacturing supply chain, the enrichment that Centrus provides to Radiant will be &quot;unobligated&quot; – meaning that it can be used for national security applications. Centrus' AC100 centrifuge design is the only deployment-ready U.S.-origin technology available for unobligated enrichment today. Radiant is developing transportable microreactors designed to provide reliable power for remote locations, data centers, defense applications, and/or other commercial and industrial uses, representing a broad potential market for Centrus' domestic HALEU supply.</p>\r\n<p><b>About Centrus </b></p>\r\n<p>Centrus Energy is a trusted American supplier of nuclear fuel and services for the nuclear power industry, helping meet the growing need for clean, affordable, carbon-free energy. Since 1998, the Company has provided its utility customers with more than 1,850 reactor years of fuel, which is equivalent to more than 7 billion tons of coal. With world-class technical and engineering capabilities, Centrus is pioneering production of High-Assay, Low-Enriched Uranium and is leading the effort to restore America's uranium enrichment capabilities at scale so that we can meet our clean energy, energy security, and national security needs. Find out more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4769899-1&amp;h=1252958223&amp;u=http%3A%2F%2Fwww.centrusenergy.com%2F&amp;a=www.centrusenergy.com\" target=\"_blank\" rel=\"nofollow\">www.centrusenergy.com</a>&nbsp;or follow us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4769899-1&amp;h=3423370220&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fcentrusenergy&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>&nbsp;and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4769899-1&amp;h=377324231&amp;u=https%3A%2F%2Fx.com%2Fcentrus_energy&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a>.</p>\r\n<p><b>About Radiant</b></p>\r\n<p>Radiant is a leading developer of advanced nuclear technologies focused on delivering reliable, resilient, and scalable energy solutions that are transportable by land, sea and air. Radiant is committed to enabling a new generation of nuclear applications for commercial, industrial, and defense customers.</p>\r\n<p><b>Forward-Looking Statements</b></p>\r\n<p>This news release contains &quot;forward-looking statements&quot; within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. In this context, forward-looking statements mean statements related to future events, which may impact our expected future business and financial performance, and often contain words such as &quot;expects&quot;, &quot;anticipates&quot;, &quot;intends&quot;, &quot;plans&quot;, &quot;believes&quot;, &quot;will&quot;, &quot;should&quot;, &quot;could&quot;, &quot;would&quot; or &quot;may&quot; and other words of similar meaning. These forward-looking statements are based on information available to us as of the date of this news release and represent management's current views and assumptions with respect to future events and operational, economic and financial performance.</p>\r\n<p>For Centrus Energy Corp., particular factors that involve uncertainty and could cause our actual future results to differ materially from those expressed in our forward-looking statements and which are, and may be, exacerbated by any worsening of the global business and economic environment include but are not limited to the following: the war in Ukraine and other geopolitical conflicts; our government contracts, including related to changes to the U.S. government's appropriated funding levels for HALEU and the government's inability to satisfy its obligations, and our lease to our facility in Piketon, Ohio; whether or when government demand for HALEU or LEU for government or commercial uses will materialize and at what level; the impact and potential extended duration of a supply/demand imbalance in the market for LEU; significant competition from major LEU producers, including foreign competitors, who may be less cost sensitive than we are; limitations on our ability to compete in foreign markets; pricing trends and demand in the uranium and enrichment markets, especially in light of the potential of limited supply and our dependence on others for deliveries of LEU; and our ability to successfully implement our planned expansion projects in Piketon, Ohio and Oak Ridge, Tennessee.</p>\r\n<p>Readers are cautioned not to place undue reliance on these forward-looking statements, which apply only as of the date of this news release. These factors may not constitute all factors that could cause actual results to differ from those discussed in any forward-looking statement. Accordingly, forward-looking statements should not be relied upon as a predictor of actual results. Readers are urged to carefully review and consider the various disclosures made in this news release and in our filings with the SEC, including our Annual Report on Form 10-K for the year ended December 31, 2025, under Part II, Item 1A - &quot;Risk Factors&quot; in our Quarterly report on Form 10-Q for the quarter ended March 31, 2026, under Part II, Item 1A - &quot;Risk Factors&quot; in our Quarterly report on Form 10-Q for the quarter ended June 30, 2026, and our filings with the SEC that attempt to advise interested parties of the risks and factors that may affect our business. We do not undertake to update our forward-looking statements to reflect events or circumstances that may arise after the date of this news release, except as required by law.</p>\r\n<p><b>Contacts:</b></p>\r\n<p>Centrus (Media) -- Dan Leistikow <a href=\"mailto:LeistikowD@centrusenergy.com\" target=\"_blank\" rel=\"nofollow\">LeistikowD@centrusenergy.com</a><br>\r\nCentrus (Investors) -- Neal Nagarajan <a href=\"mailto:NagarajanNK@centrusenergy.com\" target=\"_blank\" rel=\"nofollow\">NagarajanNK@centrusenergy.com</a><br>\r\nRadiant -- <a href=\"mailto:Radiant@weareinvariant.com\" target=\"_blank\" rel=\"nofollow\">Radiant@weareinvariant.com</a></p>\r\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH43378&amp;sd=2026-09-09\">View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/centrus-and-radiant-announce-long-term-partnership-for-domestic-haleu-to-supply-kaleidos-microreactors-302873669.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/centrus-and-radiant-announce-long-term-partnership-for-domestic-haleu-to-supply-kaleidos-microreactors-302873669.html</a></p>\r\n<p>SOURCE Centrus Energy Corp.</p>\r\n<p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH43378&amp;Transmission_Id=202609090649PR_NEWS_USPR_____PH43378&amp;DateId=20260909\" style=\"border: 0.0px;\" width=\"1\" height=\"1\"></p>\r\n",
+      "source_company": "Centrus Energy Corp.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-09T10:57:26.823Z"
+    },
     {
       "company": [
         "Planet Classroom Network"
