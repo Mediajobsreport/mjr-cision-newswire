@@ -1,11 +1,91 @@
 {
-  "generated_at": "2026-09-09T12:48:01.580Z",
+  "generated_at": "2026-09-09T13:16:32.512Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 41,
+  "count": 42,
   "releases": [
+    {
+      "company": [
+        "FACTOR CYBERSECURITY INC"
+      ],
+      "date": "20260909T130000+0000",
+      "dateline": "WILMINGTON, Del., Sept. 9, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "DEL",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HTS",
+        "DTA",
+        "STW",
+        "SCL",
+        "ITE",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Factor Cybersecurity",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1983760/factor-logo-lockup.jpg?id=OA2936264&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1983760/factor-logo-lockup.jpg?id=OA2936264&p=publish"
+        }
+      ],
+      "release_id": "20260909NY42853",
+      "status": "PUBLISHED",
+      "subject": [
+        "LEG"
+      ],
+      "summary": "<p><b><span>Lawsuit follows Factor's efforts to expose an alleged competitor hacking operation and alleges a campaign of retaliation intended to silence those who brought the conduct forward</span></b></p><p><span class=\"legendSpanClass\">WILMINGTON, Del.</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /PRNewswire/ -- Factor Cybersecurity, Inc. and founder and CEO Jason Thompson have filed a federal lawsuit against SecurityScorecard, Inc. and CEO Aleksandr Yampolskiy in the U.S. District Court for the District of Delaware.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1983760/factor-logo-lockup.jpg?id=OA2936264\" title=\"Factor Cybersecurity\" alt=\"Factor Cybersecurity\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Factor Cybersecurity Files Federal Lawsuit Against SecurityScorecard and CEO Aleksandr Yampolskiy",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260909NY42853",
+      "body": "\n<p><b><span>Lawsuit follows Factor's efforts to expose an alleged competitor hacking operation and alleges a campaign of retaliation intended to silence those who brought the conduct forward</span></b></p><p><span class=\"legendSpanClass\">WILMINGTON, Del.</span>, <span class=\"legendSpanClass\">Sept. 9, 2026</span> /PRNewswire/ -- Factor Cybersecurity, Inc. and founder and CEO Jason Thompson have filed a federal lawsuit against SecurityScorecard, Inc. and CEO Aleksandr Yampolskiy in the U.S. District Court for the District of Delaware.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1983760/factor-logo-lockup.jpg?id=OA2936264\" title=\"Factor Cybersecurity\" alt=\"Factor Cybersecurity\"></img>\n                </p>\n    </div>\n<p>Read the complaint and follow the case here: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4769417-1&amp;h=2355972193&amp;u=https%3A%2F%2Ffactorcyber.com%2Ffactor-vs-securityscorecard&amp;a=https%3A%2F%2Ffactorcyber.com%2Ffactor-vs-securityscorecard\" target=\"_blank\" rel=\"nofollow\">https://factorcyber.com/factor-vs-securityscorecard</a></p><p>The complaint <span>alleges</span> that while Thompson was an executive at SecurityScorecard, he witnessed Yampolskiy and others engage in efforts to improperly obtain competitor technology and information. Thompson reported his concerns internally, including to SecurityScorecard's board, and <span>alleges</span> that Yampolskiy subsequently threatened and retaliated against him.</p><p>The complaint <span>alleges</span> that Yampolskiy told Thompson he had relationships with Russian hackers and paid individuals thousands of dollars to obtain nonpublic information about competitors including BitSight, Black Kite and Panorays. It further <span>alleges</span> that Yampolskiy repeatedly accessed competitor systems through a VPN from SecurityScorecard's offices, activity witnessed by multiple employees, and that information obtained from competitors influenced SecurityScorecard's product development and commercial strategy.</p><p>\"Sunlight is the best disinfectant,\" said Thompson. \"Factor is proud of the work we have done to expose and disrupt what we <span>allege</span> was a sophisticated operation targeting companies in the cybersecurity community. We did what cybersecurity professionals are supposed to do. We investigated, preserved evidence, identified witnesses, reported what we found and stood up for the companies and people being targeted.\"</p><p>Factor maintains that dozens of current and former SecurityScorecard employees witnessed relevant conduct and that substantial documentary and electronic evidence exists.</p><p>\"The irony of Yampolskiy accusing Factor of <span>stealing</span> data and misappropriating trade secrets while Factor's complaint <span>alleges</span> that SecurityScorecard engaged in efforts to improperly obtain competitor information is impossible to ignore,\" said Thompson.</p><p><b>The Need for Supply Chain Cybersecurity Solutions is Real</b></p><p>The need for a new approach is increasingly clear. Verizon's DBIR found that breaches involving third parties grew from 15% in 2024 to 48% in 2026, underscoring how quickly supply chain cyber risk is accelerating. Meanwhile, legacy market players are collapsing under high churn, customer dissatisfaction, and notably poor security outcomes. Factor was built to address a need traditional ratings and assessment platforms were never designed to meet, bringing together internal telemetry, outside-in intelligence, assessments, attestations, and secure communications so enterprises can continuously detect and respond to supply chain threats much like they do inside their own SOC.</p><p>\"While this case is an extreme example, business relationships can create real threats to enterprises and their intellectual property,\" said Thompson. \"Factor is designed to identify and snuff out these risks, moving organizations beyond a compliance-focused approach to lightning-fast detection and response across their supply chain.\"</p><p><b>About Factor</b></p><p>Factor is the AI-powered operational platform for supply chain cyber risk management. Designed to help enterprises operationalize risk intelligence from best-in-class technology providers, Factor enables organizations to automate workflows, improve supplier engagement, reduce operational costs, and strengthen cyber resilience across their extended enterprise ecosystem. Through its growing Factorverse partner ecosystem, Factor provides customers with the flexibility to integrate the data, intelligence, and services that best meet their needs. Website: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4769417-1&amp;h=1391743229&amp;u=https%3A%2F%2Ffactorcyber.com%2F&amp;a=https%3A%2F%2Ffactorcyber.com%2F\" target=\"_blank\" rel=\"nofollow\">https://factorcyber.com/</a></p><p>Media Relations: <a href=\"mailto:info@factorcyber.com\" target=\"_blank\" rel=\"nofollow\">info@factorcyber.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY42853&amp;sd=2026-09-09\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/factor-cybersecurity-files-federal-lawsuit-against-securityscorecard-and-ceo-aleksandr-yampolskiy-302873348.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/factor-cybersecurity-files-federal-lawsuit-against-securityscorecard-and-ceo-aleksandr-yampolskiy-302873348.html</a></p><p>SOURCE FACTOR CYBERSECURITY INC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY42853&amp;Transmission_Id=202609090900PR_NEWS_USPR_____NY42853&amp;DateId=20260909\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "FACTOR CYBERSECURITY INC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 1
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ],
+          "tradeshow": [
+            "summary:expo"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-09T13:16:34.193Z"
+    },
     {
       "company": [
         "The Sales Factory"
