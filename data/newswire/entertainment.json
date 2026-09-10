@@ -1,11 +1,213 @@
 {
-  "generated_at": "2026-09-10T12:48:02.393Z",
+  "generated_at": "2026-09-10T13:15:08.922Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 62,
+  "count": 64,
   "releases": [
+    {
+      "company": [
+        "Candy Crush Saga"
+      ],
+      "date": "20260910T130100+0000",
+      "dateline": "NEW YORK, Sept. 10, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "GAM",
+        "MEN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Shania Twain and Zedd Reimagine “You’re Still the One” as a Dance Record",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985717/Candy-Crush-Saga-Shania-Twain-and-Zedd.jpg?id=OA2941229&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985717/Candy-Crush-Saga-Shania-Twain-and-Zedd.jpg?id=OA2941229&p=publish"
+        },
+        {
+          "caption": "Welcome to Candy Country, a new world of music, candy and country-inspired fun.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985395/Candy-Crush-Saga-Candy-Roadouse.jpg?id=OA2941231&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985395/Candy-Crush-Saga-Candy-Roadouse.jpg?id=OA2941231&p=publish"
+        },
+        {
+          "caption": "Candy Crush Launches Music Season 2026 with Hidden Clues in New Music Video",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985387/Candy-Crush-Saga-Music-Video.jpg?id=OA2941232&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985387/Candy-Crush-Saga-Music-Video.jpg?id=OA2941232&p=publish"
+        },
+        {
+          "caption": "Candy Crush Music Season 2026",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985715/Untitled-document.jpg?id=OA2941228&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985715/Untitled-document.jpg?id=OA2941228&p=publish"
+        }
+      ],
+      "release_id": "20260910NY44980",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "FVT"
+      ],
+      "summary": "<p class=\"prntac\"><i>An interactive Candy Country music experience invites fans to explore the track and unlock rewards, including VIP trips to meet the artists on tour</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771400-1&amp;h=3261139772&amp;u=https%3A%2F%2Fcandycrush.com%2F&amp;a=Candy+Crush\" target=\"_blank\" rel=\"nofollow\">Candy Crush</a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771400-1&amp;h=2561702007&amp;u=https%3A%2F%2Fcandycrush.com%2F&amp;a=%C2%AE\" target=\"_blank\" rel=\"nofollow\">®</a> is bringing together globally celebrated songwriter, artist and performer Shania Twain and Grammy Award-winning DJ and producer Zedd to give nearly 30 years of nostalgia a whole new sound. Today, the casual mobile game kicks off its annual Music Season in-game event with a candy-coated, dancefloor-ready reimagining of the song, \"You're Still the One.\"</p>\n    ",
+      "ticker": [
+        "NASDAQ:MSFT"
+      ],
+      "title": "Shania Twain And Zedd Give \"You're Still The One\" A Sweet Reimagining For Candy Crush's Music Season 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910NY44980",
+      "body": "\n<p class=\"prntac\"><i>An interactive Candy Country music experience invites fans to explore the track and unlock rewards, including VIP trips to meet the artists on tour</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771400-1&amp;h=3261139772&amp;u=https%3A%2F%2Fcandycrush.com%2F&amp;a=Candy+Crush\" target=\"_blank\" rel=\"nofollow\">Candy Crush</a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771400-1&amp;h=2561702007&amp;u=https%3A%2F%2Fcandycrush.com%2F&amp;a=%C2%AE\" target=\"_blank\" rel=\"nofollow\">®</a> is bringing together globally celebrated songwriter, artist and performer Shania Twain and Grammy Award-winning DJ and producer Zedd to give nearly 30 years of nostalgia a whole new sound. Today, the casual mobile game kicks off its annual Music Season in-game event with a candy-coated, dancefloor-ready reimagining of the song, \"You're Still the One.\"</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985717/Candy-Crush-Saga-Shania-Twain-and-Zedd.jpg?id=OA2941229\" title=\"Shania Twain and Zedd Reimagine “You’re Still the One” as a Dance Record\" alt=\"Shania Twain and Zedd Reimagine “You’re Still the One” as a Dance Record\"></img>\n                </p>\n    </div>\n<p>The track sets the pace to an interactive music video that transports fans to <b>Candy Country</b> — a glittering, candy-coated Western fantasy world where it rains rhinestones, roadhouse saloons shimmer like gumdrops and rainbow rapids rush in technicolor. Directed by acclaimed filmmaker Jonas Åkerlund, the video brings his distinctive visual storytelling to the Candy Crush Saga universe, transforming the game's playful spirit into a world filled with surreal moments. Look a little closer and fans will find hidden clues throughout the video that could unlock a range of prizes.</p><p>Fans can head to <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771400-1&amp;h=2093250584&amp;u=http%3A%2F%2Fcandyroadhouse.com%2F&amp;a=candyroadhouse.com\" target=\"_blank\" rel=\"nofollow\">candyroadhouse.com</a> to enter, seek out the blue sugar stars, and hunt for rewards.* The stakes are high with six lucky winners scoring a VIP trip to meet Shania Twain or Zedd on tour. Fans can also get their hands on signed bandanas and one-of-a-kind pieces straight out of the music video itself, including Shania's baby pink hero outfit with fringe detail as well as Zedd's rhinestone-encrusted helmet.</p><p>At the center of it all is a gift to the fans who've loved this song for thirty years: Shania Twain's timeless vocals, with Zedd's genre-blending production, riding straight through Candy Country's glittering desert world.</p><p><i>\"Bringing 'You're Still The One' back with Zedd, and building this special world with Candy Crush for fans to play in, felt like the perfect way to give the song new life. It feels exactly right,\"</i> said <b>Shania Twain</b>.</p><p><i>\"I was super happy Candy Crush brought me and Shania Twain together. She's a legendary artist, and I grew up listening to her music, so being able to collaborate with her on a new version of such an iconic song has been really special,</i>\" said <b>Zedd</b>.</p><p>Last year, Candy Crush teamed up with Thundercat to reimagine a renowned Diana Ross track as a playable, swipe-driven music video. This year evolves that experience even further, turning a music video into an interactive hunt for hidden codes, surprises, and rewards. It's a natural evolution for a brand built around play, turning passive viewing into active discovery and creating new ways for fans to engage.</p><p><i>\"Candy Crush has always been about making everyday moments more fun. Music Season takes that spirit into music culture, turning a song people know and love into something they can explore, play with and share. Working with Shania and Zedd gives fans a fresh experience and another way to experience Candy Crush beyond the game,\" </i>said <b>Luken Aragon</b>, Chief Marketing Officer, King.</p><p>Music Season 2026 tournament is now live in-game through October 5, 2026, with the Music Season Expedition available from level 11 onward. Fans can also watch the video and start uncovering hidden rewards at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771400-1&amp;h=2093250584&amp;u=http%3A%2F%2Fcandyroadhouse.com%2F&amp;a=candyroadhouse.com\" target=\"_blank\" rel=\"nofollow\">candyroadhouse.com</a>. Follow @candycrushsaga on Instagram and TikTok for live updates and Easter egg clues.</p><p>Candy Crush Saga® is free to download on iOS and Android. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771400-1&amp;h=435770521&amp;u=http%3A%2F%2Fcandycrushsaga.com%2F&amp;a=candycrushsaga.com\" target=\"_blank\" rel=\"nofollow\">candycrushsaga.com</a>.</p><p><i>*candyroadhouse.com rewards are available to U.S. residents only.</i></p><p><b>About Candy Crush Saga<br></br></b>Candy Crush Saga® is one of the world's most popular mobile games. Millions of players around the globe match colorful candies in combinations of three or more to win points, defeat obstacles, and progress through more than 20,000 levels. In November 2022, Candy Crush Saga celebrated its 10-year anniversary. Candy Crush Saga is available to download for free from the Apple App Store, Google Play, Amazon App Store, Windows App Store and Facebook.</p><p><b>About King<br></br></b>With a mission of Making the World Playful, King is a leading interactive entertainment company for the mobile world with more than 20 years of history of delivering some of the world's most iconic games in the mobile gaming industry, including the world-famous Candy Crush franchise, as well as other mobile titles such as Farm Heroes Saga. Around 200 million people play a King game every month. King, part of Microsoft (NASDAQ: MSFT), has Kingsters in Stockholm, Malmö, London, Barcelona, Berlin, Dublin, San Francisco, New York, Los Angeles and Malta. More information can be found at King.com or by following us on LinkedIn and @lifeatking on Instagram.</p><p><b>About Shania Twain<br></br></b>Shania Twain is a five-time GRAMMY Award-winning artist, songwriter, and performer who helped redefine country music for a global audience with her genre-blending, boundary-pushing sound. With seven studio albums and more than 100 million records sold worldwide, she remains the top-selling female country-pop artist of all time, behind era-defining hits like \"You're Still The One,\" \"Man! I Feel Like A Woman!,\" and \"That Don't Impress Me Much.\" Her latest album, <i>Little Miss Twain</i>, blends country, pop, rock, soul, and Motown influences with collaborators including Tanya Tucker, Ronnie Wood, and Josh Homme. Beyond music, Twain is a fashion icon and philanthropist, supporting food insecurity, youth empowerment, and children's mental health through the <b>Shania Twain Foundation</b>. Learn more at shaniatwainfoundation.com.</p><p><b>About Zedd<br></br></b><b>Zedd</b> is a multi-platinum, GRAMMY®-winning artist who's amassed 45 billion streams worldwide since his 2012 debut single<b> \"Clarity\"</b>. His catalog includes RIAA platinum hits like <b>\"Stay\"</b> with Alessia Cara and <b>\"The Middle\"</b> with Maren Morris and<b> Grey</b>, alongside collaborators spanning John Mayer, Selena Gomez, and Ariana Grande. His most recent album, <i>Telos</i>, is GRAMMY-nominated and features Muse, Remi Wolf, and the late Jeff Buckley. Zedd's impressive discography has made an impact across all areas of entertainment. He has headlined festivals including Coachella and Lollapalooza, runs his own festival, <b>Zedd in the Park</b>, and has performed at the Super Bowl, the Emmys, and multiple NBA and NHL events. With over 5 million headlining tickets sold globally, he remains one of the most genre-defying artists of his generation.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985395/Candy-Crush-Saga-Candy-Roadouse.jpg?id=OA2941231\" title=\"Welcome to Candy Country, a new world of music, candy and country-inspired fun.\" alt=\"Welcome to Candy Country, a new world of music, candy and country-inspired fun.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985387/Candy-Crush-Saga-Music-Video.jpg?id=OA2941232\" title=\"Candy Crush Launches Music Season 2026 with Hidden Clues in New Music Video\" alt=\"Candy Crush Launches Music Season 2026 with Hidden Clues in New Music Video\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985715/Untitled-document.jpg?id=OA2941228\" title=\"Candy Crush Music Season 2026\" alt=\"Candy Crush Music Season 2026\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY44980&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/shania-twain-and-zedd-give-youre-still-the-one-a-sweet-reimagining-for-candy-crushs-music-season-2026-302875275.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/shania-twain-and-zedd-give-youre-still-the-one-a-sweet-reimagining-for-candy-crushs-music-season-2026-302875275.html</a></p><p>SOURCE Candy Crush Saga</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY44980&amp;Transmission_Id=202609100901PR_NEWS_USPR_____NY44980&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Candy Crush Saga",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:producer",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-10T13:15:11.318Z"
+    },
+    {
+      "company": [
+        "Cinematic, LLC."
+      ],
+      "date": "20260910T130000+0000",
+      "dateline": "PEORIA, Ill., Sept. 10, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "ILL",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "GAM",
+        "ENT",
+        "SPT",
+        "SSE"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Video for Future Play Festival",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985510/Video-for-Future-Play-Festival.mp4?id=OA2940722&p=thumbnail",
+          "type": "video",
+          "url": "https://mmx.prnewswire.com/media/MS1985510/Video-for-Future-Play-Festival.mp4?id=OA2940722"
+        },
+        {
+          "caption": "Flyer for Future Play Festival",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985481/Flyer-for-Future-Play-Festival-Cinematic.jpg?id=OA2940628&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985481/Flyer-for-Future-Play-Festival-Cinematic.jpg?id=OA2940628&p=publish"
+        },
+        {
+          "caption": "Future Play Festival Logo",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985482/Future-Play-Festival-Logo.jpg?id=OA2940664&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985482/Future-Play-Festival-Logo.jpg?id=OA2940664&p=publish"
+        }
+      ],
+      "release_id": "20260910NY44784",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA",
+        "FVT"
+      ],
+      "summary": "<p><b><i>New two-day interactive festival at Peoria Civic Center features a $50,000 Collegiate Esports Showdown, hands-on gaming and entertainment experiences, plus Future Play After Dark with Lil Jon and James Hype</i></b></p><p><span class=\"legendSpanClass\">PEORIA, Ill.</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- This October, the future of entertainment is coming to Peoria — and audiences won't just watch it. <b>They'll play it.</b></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"Video for Future Play Festival\"><iframe id=\"PlayMedia_1\" src=\"https://mmx.prnewswire.com/media/MS1985510/Video-for-Future-Play-Festival.mp4?id=OA2940722\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\n    </div>\n<p><b>Future Play Festival</b>, an all-new interactive gaming, esports, entertainment and technology experience, takes over the <b>Peoria Civic Center October 3–4, 2026</b>, bringing together competitive gaming, immersive attractions, creators, music and hands-on experiences for one action-packed weekend.</p>",
+      "ticker": [],
+      "title": "FUTURE PLAY TAKES OVER PEORIA OCTOBER 3-4 WITH GAMING, ESPORTS, IMMERSIVE EXPERIENCES AND LIVE MUSIC",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910NY44784",
+      "body": "\n<p><b><i>New two-day interactive festival at Peoria Civic Center features a $50,000 Collegiate Esports Showdown, hands-on gaming and entertainment experiences, plus Future Play After Dark with Lil Jon and James Hype</i></b></p><p><span class=\"legendSpanClass\">PEORIA, Ill.</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- This October, the future of entertainment is coming to Peoria — and audiences won't just watch it. <b>They'll play it.</b></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"Video for Future Play Festival\"><iframe id=\"PlayMedia_1\" src=\"https://mmx.prnewswire.com/media/MS1985510/Video-for-Future-Play-Festival.mp4?id=OA2940722\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\n    </div>\n<p><b>Future Play Festival</b>, an all-new interactive gaming, esports, entertainment and technology experience, takes over the <b>Peoria Civic Center October 3–4, 2026</b>, bringing together competitive gaming, immersive attractions, creators, music and hands-on experiences for one action-packed weekend.</p><p>Unlike a traditional convention where attendees spend the day walking past exhibits, <b>Future Play is built to be experienced.</b></p><p>Fans can step inside interactive attractions, compete and play, experience new technology, watch some of the country's top collegiate esports competitors battle live, meet creators, race RC cars, rediscover classic arcade games, experience live entertainment — and Saturday night, turn up with <b>Lil Jon and James Hype at Future Play After Dark.</b></p><p><b>Tickets are on sale now, with festival admission starting at just $19.99.</b></p><p>\"Future Play was created around a simple idea: <b>don't just come and watch — come and play, compete and experience it for yourself</b>,\" said <b>Dylan Marer, Executive Producer at Cinematic, LLC., the producer of Future Play Festival. </b>\"We're bringing gaming, esports, immersive entertainment, technology and live music together under one roof to create a completely different kind of weekend experience. We want people to walk through the doors and continually discover something new.\"</p><p><b>$50,000 COLLEGIATE ESPORTS SHOWDOWN</b></p><p>At the center of Future Play will be the <b>Future Play Collegiate Esports Showdown</b>, where collegiate competitors will battle live for a <b>$50,000 Rocket League prize pool</b>.</p><p>The tournament brings the excitement of competitive collegiate esports out from behind the screen and onto the live stage, giving fans the opportunity to experience the speed, strategy and intensity of high-level Rocket League competition in person.</p><p>But the competition is only part of the experience.</p><p><b>THIS ISN'T JUST A SHOW. IT'S A PLAYGROUND.</b></p><p>Across the Peoria Civic Center, Future Play will give attendees an entire weekend of things to <b>play, try, explore and experience</b>, including:</p><ul type=\"disc\"><li><b>Airsoft Tactical Shoot House Experience</b></li><li><b>EVIKE.com Airsoft Shooting Range</b></li><li><b>ARRMA RC Racing Experiences</b></li><li><b>Retro Arcade Gaming Lounge</b></li><li><b>Creator Studio</b></li><li><b>Immersive and emerging technology experiences</b></li><li><b>Live DJs and entertainment</b></li><li><b>Cosplay</b></li><li><b>Celebrity gaming appearances</b></li><li><b>Interactive gaming and brand activations</b></li><li><b>Future Play Collegiate Esports Showdown</b></li><li><b>And more experiences throughout the weekend</b></li></ul><p>Whether you're a serious gamer, college student, esports fan, creator, tech enthusiast, music fan, parent introducing your kids to the games you grew up playing — or simply looking for something completely different to do — <b>Future Play is designed to offer an experience for you.</b></p><p>\"Most events stay in one lane,\" Marer said. \"There are gaming conventions. There are esports tournaments. There are technology shows. And there are concerts. <b>Future Play brings all of those worlds together and makes the audience part of the experience.</b>\"</p><p><b>WHEN THE SUN GOES DOWN, FUTURE PLAY GOES AFTER DARK</b></p><p>The experience gets even bigger Saturday night.</p><p>On <b>Saturday, October 3</b>, Future Play transforms for <b>Future Play After Dark</b>, an explosive live music experience featuring <b>hip-hop icon Lil Jon</b> and <b>global electronic music star James Hype</b>.</p><p>From <b>8:00–11:30 p.m.</b>, the energy moves from the gaming floor to the concert experience as two internationally recognized artists bring Future Play's opening day to a high-energy finale.</p><p>Festival guests can choose from <b>festival-only, concert-only and combination ticket options</b>, making it possible to build their own Future Play weekend.</p><p>For fans looking for the complete experience, <b>two-day festival + Future Play After Dark packages offer the best way to experience the entire weekend.</b></p><p><b>PEORIA BECOMES THE PLACE TO PLAY</b></p><p>Future Play is also part of a larger effort to establish Peoria as a Midwest destination for esports, emerging entertainment and next-generation live experiences.</p><p>\"Peoria has been intentional in recruiting and investing in cutting-edge entertainment and event segments that bring world-class talent, new audiences and increased visitation to our region,\" said <b>JD Dalfonso, CEO of Discover Peoria</b>.</p><p>\"One way we are doing this is by bolstering our efforts in esports and the entertainment opportunities that come with this rapidly growing industry. Future Play represents an exciting next step in that work. It will bring visitors from across the country to experience Peoria, while showcasing our community as a destination willing to embrace new ideas, new audiences and new forms of entertainment.\"</p><p>Dalfonso added, \"We see this inaugural event as the beginning of something much bigger for esports, tourism and the region, and we are proud to be part of what comes next.\"</p><p><b>EXPERIENCE WHAT'S NEXT — TICKETS ON SALE NOW</b></p><p><b>Future Play Festival takes place October 3–4, 2026 at the Peoria Civic Center in downtown Peoria, Illinois.</b></p><p><b>Festival tickets start at just $19.99</b>, with single-day, two-day, Future Play After Dark concert and festival + concert combination options available.</p><p>Capacity for individual experiences and ticket categories may be limited.</p><p><b>Get your tickets, bring your friends and get ready to play.</b></p><p><b>Future Play Festival</b><br></br><b>October 3–4, 2026</b><br></br><b>Peoria Civic Center | Peoria, Illinois</b></p><p>Tickets and festival information:<br></br><b>FuturePlayFestival.com</b></p><p><b>PLAY. COMPETE. EXPERIENCE WHAT'S NEXT.</b></p><p><b>ABOUT FUTURE PLAY FESTIVAL</b></p><p><b>Future Play Festival</b> is a next-generation interactive entertainment experience bringing together gaming, collegiate esports, immersive technology, music, creators and hands-on activations under one roof.</p><p>Taking place <b>October 3–4, 2026 at the Peoria Civic Center in Peoria, Illinois</b>, Future Play is designed to turn audiences into participants — giving fans the opportunity to <b>play, compete, discover, connect and Experience What's Next.</b></p><p><b>Future Play Festival</b><br></br>October 3–4, 2026<br></br>Peoria Civic Center<br></br>Peoria, Illinois<br></br><b>FuturePlayFestival.com</b></p><p><b>#FuturePlay | #ExperienceWhatsNext</b></p><p><b>IG: @futureplayfestival</b> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985481/Flyer-for-Future-Play-Festival-Cinematic.jpg?id=OA2940628\" title=\"Flyer for Future Play Festival\" alt=\"Flyer for Future Play Festival\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985482/Future-Play-Festival-Logo.jpg?id=OA2940664\" title=\"Future Play Festival Logo\" alt=\"Future Play Festival Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY44784&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/future-play-takes-over-peoria-october-34-with-gaming-esports-immersive-experiences-and-live-music-302874766.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/future-play-takes-over-peoria-october-34-with-gaming-esports-immersive-experiences-and-live-music-302874766.html</a></p><p>SOURCE Cinematic, LLC.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY44784&amp;Transmission_Id=202609100900PR_NEWS_USPR_____NY44784&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Cinematic, LLC.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 5,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:entertainment",
+            "music",
+            "industry:ENT"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-10T13:15:11.869Z"
+    },
     {
       "company": [
         "Tamar AI"
