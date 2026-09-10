@@ -1,11 +1,99 @@
 {
-  "generated_at": "2026-09-10T13:57:02.784Z",
+  "generated_at": "2026-09-10T14:17:20.468Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 50,
+  "count": 51,
   "releases": [
+    {
+      "company": [
+        "Fortune Media (USA) Corporation"
+      ],
+      "date": "20260910T140000+0000",
+      "dateline": "NEW YORK and SANTA CLARA, Calif., Sept. 10, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CLF",
+        "UWS"
+      ],
+      "industry": [
+        "ADV",
+        "AFI",
+        "DTA",
+        "IOT",
+        "STW",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985355/Fortune-Media-Corporation-AIQ-Summit-image.jpg?id=OA2940171&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985355/Fortune-Media-Corporation-AIQ-Summit-image.jpg?id=OA2940171&p=publish"
+        }
+      ],
+      "release_id": "20260910NY44618",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "TDS"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>Fortune will convene leaders driving measurable AI impact on Oct. 1 at the New York Stock Exchange</i></b></p><p class=\"prntac\"><b><i>First-ever summit, themed \"Putting AI to Work\", will draw companies from the Fortune AIQ 75 prestige list, and beyond</i></b></p><p><span class=\"legendSpanClass\">NEW YORK and SANTA CLARA, Calif.</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- Fortune today announced its first-ever <b>Fortune AIQ Summit,</b> scheduled to take place on Oct. 1 in New York City in partnership with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=3084953686&amp;u=https%3A%2F%2Fwww.servicenow.com%2F&amp;a=ServiceNow\" target=\"_blank\" rel=\"nofollow\">ServiceNow</a> (NYSE: NOW), the AI control tower for business reinvention. The one-day event will convene top executives and industry innovators advancing AI across industries to explore how organizations can deploy it profitably while preparing their people to thrive alongside it.</p>\n    ",
+      "ticker": [
+        "NYSE:NOW"
+      ],
+      "title": "Fortune to Hold Inaugural Fortune AIQ Summit in Partnership with ServiceNow",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910NY44618",
+      "body": "\n<p class=\"prntac\"><b><i>Fortune will convene leaders driving measurable AI impact on Oct. 1 at the New York Stock Exchange</i></b></p><p class=\"prntac\"><b><i>First-ever summit, themed \"Putting AI to Work\", will draw companies from the Fortune AIQ 75 prestige list, and beyond</i></b></p><p><span class=\"legendSpanClass\">NEW YORK and SANTA CLARA, Calif.</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- Fortune today announced its first-ever <b>Fortune AIQ Summit,</b> scheduled to take place on Oct. 1 in New York City in partnership with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=3084953686&amp;u=https%3A%2F%2Fwww.servicenow.com%2F&amp;a=ServiceNow\" target=\"_blank\" rel=\"nofollow\">ServiceNow</a> (NYSE: NOW), the AI control tower for business reinvention. The one-day event will convene top executives and industry innovators advancing AI across industries to explore how organizations can deploy it profitably while preparing their people to thrive alongside it.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985355/Fortune-Media-Corporation-AIQ-Summit-image.jpg?id=OA2940171\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>The invite-only AIQ Summit, hosted at the New York Stock Exchange, will also draw attendees and speakers from the <b>Fortune AIQ 75</b> list (debuting Sept. 29). The prestigious Fortune AIQ 75 list ranks Fortune 500 companies generating significant, measurable impact from AI adoption.</p><p>The event will feature cross-industry conversations offering actionable insights on what separates successful AI implementations from stalled pilots. Participants will explore how to identify the right use cases, redesign workflows, and scale AI across an enterprise to deliver quantifiable business outcomes.</p><p>The Fortune AIQ Summit program will span sectors such as finance, technology, energy, healthcare, and industrial manufacturing. The list of early confirmed speakers include:</p><ul type=\"disc\"><li><b>Holly Briedis,</b> Senior Vice President, Global Operations and Transformation, ServiceNow</li><li><b>Ashok Chennuru, </b>Chief Data and Digital Transformation Officer, Elevance Health</li><li><b>Stacy Dillow</b>, Executive Vice President and Chief People Officer, Hewlett Packard Enterprise</li><li><b>Paul Fipps, </b>President, Global Customer Operations, ServiceNow</li><li><b>Hari Gopalkrishnan,</b> Chief Technology and Information Officer, Bank of America</li><li><b>Sally Moore</b><b>, </b>Chief Client Officer and Co-Head of Market Intelligence, S&amp;P Global</li><li><b>Anand Selvakesari, </b>Chief Operating Officer, <span>Citi</span></li><li><b>Ewout Steenbergen,</b> Executive Vice President and CFO, Booking Holdings</li><li><b>Amy Webb,</b> Chief Executive Officer, Future Today Strategy Group</li><li><b>AJ Wijesinghe,</b> Chief AI Officer, Ecolab</li></ul><p>\"The Fortune AIQ Summit will bring together companies leading their respective industries in the best use of AI,\" said <b>Jeremy Kahn, Fortune's AI Editor.</b> \"At the Summit, those leaders will share how they are turning AI ambition into measurable results—boosting top and bottom lines -- and what others can learn from their approach.\"</p><p>\"AI only matters when it drives real business impact,\" said ServiceNow's Paul Fipps. \"Fortune AIQ 75 leaders put governance and visibility at the center of their strategy. They know exactly what their agents are doing and why it matters. Context and control are the difference between an AI promise and a scalable operation that positions organizations for competitive advantage.\"</p><p>Fortune and ServiceNow created the AIQ initiative to help business leaders navigate AI-driven transformation, grounded in ServiceNow's Enterprise AI Maturity Index, which assesses AI readiness and usage across companies worldwide. The AIQ initiative offers business leaders resources to implement and maximize AI's value and insights into where AI is reshaping industries and driving future innovation. Explore the Fortune AIQ hub presented by ServiceNow <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=943408057&amp;u=https%3A%2F%2Ffortune.com%2Ftopic%2Faiq%2F&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>.</p><p>Fortune also partnered with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=3664417319&amp;u=https%3A%2F%2Fetr.ai%2F&amp;a=ETR\" target=\"_blank\" rel=\"nofollow\">ETR</a> to develop a methodology for evaluating Fortune 500 companies on their AI implementation. This methodology is supported by an ETR-designed survey of technology leaders assessing both the value of their organizations' AI investments and their impressions of AI adoption among peer companies in their sector.</p><p>The Fortune AIQ Summit expands Fortune's portfolio of premier conferences and convenings, including the Fortune Global Forum, Brainstorm Tech, Brainstorm AI, and the Most Powerful Women Summit, further strengthening its role as a platform for the world's most influential business leaders.</p><p>For more information and to request an invitation for the Fortune AIQ Summit, visit the registration <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=269536231&amp;u=https%3A%2F%2Fconferences.fortune.com%2Fevent%2FAIQ_Summit_2026%2FHOME%3Futm_campaign%3DAnnouncement%26utm_medium%3DDigital%26utm_source%3DPR&amp;a=LINK\" target=\"_blank\" rel=\"nofollow\">LINK</a>.</p><p><b>About Fortune:</b></p><p>Fortune is the premier global media company for global business leaders, built on a 96-year-old legacy of trusted, award-winning journalism. Independently owned, Fortune tells the story of business, spanning legacy companies to the world's new generation of innovators. Fortune measures corporate performance through rigorous benchmarks, and holds companies accountable, in regions around the world. Its iconic rankings include<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=1829088561&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D2061335306%26u%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4599938-1%2526h%253D1892566348%2526u%253Dhttps%25253A%25252F%25252Fc212.net%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4350114-1%252526h%25253D2938277106%252526u%25253Dhttps%2525253A%2525252F%2525252Ffortune.com%2525252Franking%2525252Ffortune500%2525252F%252526a%25253DFortune%25252B500%2525252C%2526a%253DFortune%252B500%25252C%26a%3DFortune%2B500%252C&amp;a=%C2%A0Fortune+500%2C\" target=\"_blank\" rel=\"nofollow\"> <b>Fortune 500,</b></a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=589865610&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D2374980461%26u%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4599938-1%2526h%253D352743745%2526u%253Dhttps%25253A%25252F%25252Fc212.net%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4350114-1%252526h%25253D812053336%252526u%25253Dhttps%2525253A%2525252F%2525252Ffortune.com%2525252Franking%2525252Fglobal500%2525252F%252526a%25253DFortune%25252BGlobal%25252B500%2526a%253DFortune%252BGlobal%252B500%26a%3DFortune%2BGlobal%2B500&amp;a=%C2%A0Fortune+Global+500\" target=\"_blank\" rel=\"nofollow\"> <b>Fortune Global 500</b></a>,<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=2538696824&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D4275015494%26u%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4599938-1%2526h%253D2260489172%2526u%253Dhttps%25253A%25252F%25252Fc212.net%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4350114-1%252526h%25253D3097979979%252526u%25253Dhttps%2525253A%2525252F%2525252Ffortune.com%2525252Franking%2525252Fmost-powerful-women%2525252F%252526a%25253DMost%25252BPowerful%25252BWomen%2526a%253DMost%252BPowerful%252BWomen%26a%3DMost%2BPowerful%2BWomen&amp;a=%C2%A0Most+Powerful+Women\" target=\"_blank\" rel=\"nofollow\"> <b>Most Powerful Women</b></a>, and<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=4181714004&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D2858646869%26u%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4599938-1%2526h%253D3682345287%2526u%253Dhttps%25253A%25252F%25252Fc212.net%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4350114-1%252526h%25253D3765785605%252526u%25253Dhttps%2525253A%2525252F%2525252Ffortune.com%2525252Franking%2525252Fworlds-most-admired-companies%2525252F%252526a%25253DWorld%25252527s%25252BMost%25252BAdmired%25252BCompanies%2526a%253DWorld%252527s%252BMost%252BAdmired%252BCompanies%26a%3DWorld%2527s%2BMost%2BAdmired%2BCompanies&amp;a=%C2%A0World%27s+Most+Admired+Companies\" target=\"_blank\" rel=\"nofollow\"> <b>World's Most Admired Companies</b></a>. Fortune builds world-class communities by convening industry thought leaders for exclusive summits and conferences, including the<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=633817458&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D592289950%26u%3Dhttps%253A%252F%252Fconferences.fortune.com%252Fevent%252Ffortune-500-innovation-forum-2026%252FHOME%26a%3DFortune%2BGlobal%2BForum&amp;a=%C2%A0Fortune+Global+Forum\" target=\"_blank\" rel=\"nofollow\"> <b>Fortune Global Forum</b></a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=1297737378&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D1612477623%26u%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4599938-1%2526h%253D1299422925%2526u%253Dhttps%25253A%25252F%25252Fc212.net%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4350114-1%252526h%25253D2936059218%252526u%25253Dhttps%2525253A%2525252F%2525252Ffortune.com%2525252Fconferences%2525252Ffortune-global-forum-2024%2525252F%252526a%25253DFortune%25252BGlobal%25252BForum%2525252C%2526a%253DFortune%252BGlobal%252BForum%25252C%26a%3D%252C&amp;a=%2C\" target=\"_blank\" rel=\"nofollow\"><b>,</b></a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=2212808351&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D3579157630%26u%3Dhttps%253A%252F%252Fconferences.fortune.com%252Fevent%252Fbrainstorm-tech-2026%252Fhome%26a%3DFortune%2BBrainstorm%2BTech&amp;a=%C2%A0Fortune+Brainstorm+Tech\" target=\"_blank\" rel=\"nofollow\"> <b>Fortune Brainstorm Tech</b></a>, and<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=1710549229&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D2119790240%26u%3Dhttps%253A%252F%252Fconferences.fortune.com%252Fevent%252Ffortune-mpw-2026%252FHOME%26a%3DFortune%2BMost%2BPowerful%2BWomen&amp;a=%C2%A0Fortune+Most+Powerful+Women\" target=\"_blank\" rel=\"nofollow\"> <b>Fortune Most Powerful Women</b></a>. For more information, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=832943894&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4638343-1%26h%3D3331544458%26u%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4599938-1%2526h%253D323961635%2526u%253Dhttps%25253A%25252F%25252Ffortune.com%25252F%2526a%253Dfortune.com%26a%3Dfortune.com&amp;a=%C2%A0fortune.com\" target=\"_blank\" rel=\"nofollow\"> fortune.com</a>.</p><p><b>About ServiceNow</b></p><p>ServiceNow (NYSE: NOW) is the AI control tower for business reinvention. The ServiceNow AI Platform integrates with any cloud, any model, and any data source to orchestrate how work flows across the enterprise. By unifying legacy systems, departmental tools, cloud applications, and AI agents, ServiceNow provides a single pane of glass that connects intelligence to execution across every corner of business. With more than 100 billion workflows running on the platform each year, ServiceNow helps organizations turn fragmented operations into coordinated, autonomous workflows that deliver measurable results. Learn how ServiceNow puts AI to work for people at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771043-1&amp;h=4053962947&amp;u=https%3A%2F%2Fwww.servicenow.com%2F&amp;a=www.servicenow.com\" target=\"_blank\" rel=\"nofollow\">www.servicenow.com</a>.</p><p><b>Media Contacts:</b></p><p>Patrick Reilly<br></br>Fortune<br></br><a href=\"mailto:Patrick.Reilly@fortune.com\" target=\"_blank\" rel=\"nofollow\"><b>Patrick.Reilly@fortune.com</b></a></p><p>Caroline Parkinson<br></br>ServiceNow<br></br><a href=\"mailto:press@servicenow.com\" target=\"_blank\" rel=\"nofollow\"><b>press@servicenow.com</b></a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY44618&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fortune-to-hold-inaugural-fortune-aiq-summit-in-partnership-with-servicenow-302875229.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fortune-to-hold-inaugural-fortune-aiq-summit-in-partnership-with-servicenow-302875229.html</a></p><p>SOURCE Fortune Media (USA) Corporation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY44618&amp;Transmission_Id=202609101000PR_NEWS_USPR_____NY44618&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Fortune Media (USA) Corporation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 2,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "management": [
+            "summary:executive"
+          ],
+          "tradeshow": [
+            "summit"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-10T14:17:21.960Z"
+    },
     {
       "company": [
         "Blast Media Print"

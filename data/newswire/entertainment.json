@@ -1,11 +1,103 @@
 {
-  "generated_at": "2026-09-10T13:57:02.784Z",
+  "generated_at": "2026-09-10T14:17:20.468Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 64,
+  "count": 65,
   "releases": [
+    {
+      "company": [
+        "Universal Music Group"
+      ],
+      "date": "20260910T140000+0000",
+      "dateline": "SANTA MONICA, Calif. and NEW YORK, Sept. 10, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM",
+        "NYK",
+        "UNE"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "ElevenLabs x UMG",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985738/Updated-UMG-logo-lock-up.jpg?id=OA2941269&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985738/Updated-UMG-logo-lock-up.jpg?id=OA2941269&p=publish"
+        },
+        {
+          "caption": "(PRNewsfoto/Universal Music Group)",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS769879/UMG-Logo.jpg?id=OA2941257&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS769879/UMG-Logo.jpg?id=OA2941257&p=publish"
+        }
+      ],
+      "release_id": "20260910LA44996",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>First-of-its-kind collaboration spans licensing and product development </i></b> </p><p class=\"prntac\"><b><i>New platform, to be launched by ElevenLabs, will enable fans to create remixes, mashups and new interpretations of tracks from participating artists</i></b> </p><p><span class=\"legendSpanClass\">SANTA MONICA, Calif. and NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- Universal Music Group (UMG), the world leader in music-based entertainment, and ElevenLabs, the leading AI audio research and product company, today announced a multi-year licensing agreement and wider strategic collaboration to launch a new AI-powered music platform for fans as well as to jointly develop AI audio products for artists and songwriters.  </p>\n    ",
+      "ticker": [],
+      "title": "UNIVERSAL MUSIC GROUP AND ELEVENLABS ANNOUNCE MULTI-YEAR STRATEGIC AGREEMENT, BEGINNING WITH A NEW LICENSED AI MUSIC CREATION PLATFORM",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910LA44996",
+      "body": "\n<p class=\"prntac\"><b><i>First-of-its-kind collaboration spans licensing and product development </i></b> </p><p class=\"prntac\"><b><i>New platform, to be launched by ElevenLabs, will enable fans to create remixes, mashups and new interpretations of tracks from participating artists</i></b> </p><p><span class=\"legendSpanClass\">SANTA MONICA, Calif. and NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- Universal Music Group (UMG), the world leader in music-based entertainment, and ElevenLabs, the leading AI audio research and product company, today announced a multi-year licensing agreement and wider strategic collaboration to launch a new AI-powered music platform for fans as well as to jointly develop AI audio products for artists and songwriters.  </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985738/Updated-UMG-logo-lock-up.jpg?id=OA2941269\" title=\"ElevenLabs x UMG\" alt=\"ElevenLabs x UMG\"></img>\n                </p>\n    </div>\n<p>The groundbreaking agreement – ElevenLabs' first with a major label – encompasses licensing and product development. It reflects the companies' shared commitment to the principles that AI-enabled music innovation should be built responsibly, respect human artistry, and enable artists and songwriters to share in the value created.  </p><p>The ElevenLabs-UMG relationship will begin with a new AI-powered music creation platform built on licensed music and artist participation. Now in development, the platform will give fans new ways to co-create with music from participating artists and songwriters, including through remixes and mashups, new track interpretations, and personalized vocal experiences. The agreement also includes the development of additional products and fan experiences in the months and years to come. </p><p>\"The most exciting possibilities for AI and music are those that put artists, songwriters, and fans at the center,\" said Sir Lucian Grainge, Chairman &amp; CEO, Universal Music Group. \"UMG and ElevenLabs are aligned that responsible AI can inspire discovery, deepen engagement between artists and fans, and unlock new revenue opportunities for the creative community. ElevenLabs' leadership in AI audio brings a new dimension to our growing ecosystem of partners committed to expanding what's creatively and commercially possible for human artistry.\" </p><p>\"AI opens up incredible possibilities for interacting with our favorite music and artists,\" said ElevenLabs cofounder and CEO Mati Staniszewski. \"By combining UMG's global community and rights management expertise, with our AI models and products, we'll enable artists and songwriters to create powerful new experiences for their fans, and ensure they are fairly compensated.\"   </p><p>The new platform will be distinct and offered separately from ElevenLabs' existing music products, which include: </p><ul type=\"disc\"><li><b>Music API </b>– ElevenLabs' studio-grade music models available via API, used by music technology, media &amp; entertainment, social media, and other leading businesses and developers globally. </li></ul><ul type=\"disc\"><li><b>ElevenMusic</b> – ElevenLabs' music creation app for generating and editing original songs, with granular control over vocals, instrumentation, style, arrangement and other elements of a track. </li></ul><p><b>About Universal Music Group</b> <br></br>At Universal Music Group, we exist to shape culture through the power of artistry. UMG is the world leader in music-based entertainment, with a broad array of businesses engaged in recorded music, music publishing, merchandising and audiovisual content. Featuring the most comprehensive catalogue of recordings and songs across every musical genre, UMG identifies and develops artists and produces and distributes the most critically acclaimed and commercially successful music in the world. Committed to artistry, innovation and entrepreneurship, UMG fosters the development of services, platforms and business models in order to broaden artistic and commercial opportunities for our artists and create new experiences for fans. For more information on Universal Music Group N.V. visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771416-1&amp;h=2518970746&amp;u=https%3A%2F%2Fwww.universalmusic.com%2F&amp;a=www.universalmusic.com\" target=\"_blank\" rel=\"nofollow\">www.universalmusic.com</a>. </p><p><b>About ElevenLabs</b> <br></br>ElevenLabs is an AI research and product company. It builds AI voice and audio models, creative tools, and conversational agents across 70+ languages. Millions of consumers, developers, governments, and businesses use ElevenLabs – including employees at two-thirds of Fortune 500 companies. With its models and platform, the company aims to transform how people and businesses communicate with the world. </p><p> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS769879/UMG-Logo.jpg?id=OA2941257\" title=\"(PRNewsfoto/Universal Music Group)\" alt=\"(PRNewsfoto/Universal Music Group)\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA44996&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform-302875284.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform-302875284.html</a></p><p>SOURCE Universal Music Group</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA44996&amp;Transmission_Id=202609101000PR_NEWS_USPR_____LA44996&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Universal Music Group",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:entertainment",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-10T14:17:22.132Z"
+    },
     {
       "company": [
         "Candy Crush Saga"
