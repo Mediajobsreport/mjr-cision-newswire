@@ -1,9 +1,90 @@
 {
-  "generated_at": "2026-09-10T11:42:37.050Z",
+  "generated_at": "2026-09-10T11:55:28.985Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 177,
+  "count": 178,
   "releases": [
+    {
+      "company": [
+        "iodyne"
+      ],
+      "date": "20260910T115200+0000",
+      "dateline": "LOS ANGELES, Sept. 10, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MLM",
+        "CPR",
+        "STW"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "iodyne",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985279/iodyne-Logo.jpg?id=OA2939988&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985279/iodyne-Logo.jpg?id=OA2939988&p=publish"
+        }
+      ],
+      "release_id": "20260910PH44633",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS",
+        "FVT"
+      ],
+      "summary": "<p><i>Edge storage integration deepens across the IBC show floor as attendees get their first live look at the Pro Mini Smart Drive moving through active production workflows</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=3287515951&amp;u=https%3A%2F%2Fwww.iodyne.com%2F&amp;a=iodyne\" target=\"_blank\" rel=\"nofollow\">iodyne</a>, leader in high-performance and smart data storage solutions, today announced its presence at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=2864244832&amp;u=https%3A%2F%2Fshow.ibc.org%2F&amp;a=IBC2026\" target=\"_blank\" rel=\"nofollow\">IBC2026</a>, running Sept. 11-16 in Amsterdam. The storage solutions provider will demonstrate how deeply its drives have become embedded in the daily workflows of its partners. During the show this year, iodyne will be co-exhibiting with professional video software provider, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=4187978603&amp;u=https%3A%2F%2Fhedge.co%2F&amp;a=Hedge\" target=\"_blank\" rel=\"nofollow\">Hedge</a>, at booth 7.A36. Additionally, iodyne's solutions will make a special appearance powering workflows across the Adobe, RED Digital Cinema, and Cintegral Technologies booths. IBC2026 will also mark the first time European audiences see the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=1302815411&amp;u=https%3A%2F%2Fiodyne.com%2Fpromini%2F&amp;a=Pro+Mini+Smart+Drive\" target=\"_blank\" rel=\"nofollow\">Pro Mini Smart Drive</a>, winner of Best of Show at NAB 2026, working live across multiple stops on a single show floor.</p>\n",
+      "ticker": [],
+      "title": "iodyne Powers Hedge, Adobe and RED Digital Cinema Booths at IBC2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910PH44633",
+      "body": "\n<p><i>Edge storage integration deepens across the IBC show floor as attendees get their first live look at the Pro Mini Smart Drive moving through active production workflows</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=3287515951&amp;u=https%3A%2F%2Fwww.iodyne.com%2F&amp;a=iodyne\" target=\"_blank\" rel=\"nofollow\">iodyne</a>, leader in high-performance and smart data storage solutions, today announced its presence at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=2864244832&amp;u=https%3A%2F%2Fshow.ibc.org%2F&amp;a=IBC2026\" target=\"_blank\" rel=\"nofollow\">IBC2026</a>, running Sept. 11-16 in Amsterdam. The storage solutions provider will demonstrate how deeply its drives have become embedded in the daily workflows of its partners. During the show this year, iodyne will be co-exhibiting with professional video software provider, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=4187978603&amp;u=https%3A%2F%2Fhedge.co%2F&amp;a=Hedge\" target=\"_blank\" rel=\"nofollow\">Hedge</a>, at booth 7.A36. Additionally, iodyne's solutions will make a special appearance powering workflows across the Adobe, RED Digital Cinema, and Cintegral Technologies booths. IBC2026 will also mark the first time European audiences see the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=1302815411&amp;u=https%3A%2F%2Fiodyne.com%2Fpromini%2F&amp;a=Pro+Mini+Smart+Drive\" target=\"_blank\" rel=\"nofollow\">Pro Mini Smart Drive</a>, winner of Best of Show at NAB 2026, working live across multiple stops on a single show floor.</p>\n<p>\"Pro Mini is finally out of the display case and moving through real jobs at this show, starting at the Hedge booth for capture and archive, over to Adobe for AI creative and search workflows, and onto RED for raw ingest, a single Pro Mini can handle all of these different workflows and keep your data safe,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=1052923582&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgitig%2F&amp;a=Michael+Gitig\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">Michael Gitig</a>, Senior Director of Strategic Initiatives of iodyne.</p><p>Across every booth, iodyne will showcase how their storage solutions move high-resolution footage through workflows without slowing down, staying encrypted and RAID-protected the entire way.</p><p><b>Powering the Show Floor</b></p><p>iodyne's presence at IBC2026 spans four partner booths, each showcasing encrypted, RAID-protected data moving from capture through color, ingest, and archive without a hitch. Here's where to find it on the show floor:</p><ul type=\"disc\"><li><b>Hedge (Booth 7.A36)</b>: Hedge is running iodyne storage across a full capture-to-archive pipeline on its booth, pairing Hedge's OffShoot, Canister, EditReady, Canopy, Mimiq with iodyne Pro Data and Pro Mini to show attendees a verified, encrypted transfer at every step, from the initial offload off camera media through to long-term archive.<br></br><br></br></li><li><b>Adobe (Booths 13.D501, 7.B35)</b>: iodyne is showing up across multiple Adobe workflows this year, from Premiere to After Effects, including native-resolution RAW grading inside the new Color Mode in Premiere, an integration first detailed in iodyne's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=325642356&amp;u=https%3A%2F%2Fiodyne.com%2Fnews%2Fpremiere-color-mode-iodyne-pro-data%2F&amp;a=Premiere+Color+Mode+workflow+story\" target=\"_blank\" rel=\"nofollow\">Premiere Color Mode workflow story</a>. iodyne will also publish a new episode of its Workflow Kitchen series featuring Dave Helmly from Adobe, covering the AI-driven features Adobe has released over the past year and how they fit into faster color and post pipelines.<br></br><br></br></li><li><b>RED Digital Cinema (Booth 11.C35)</b>: At the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=3748099408&amp;u=https%3A%2F%2Fwww.red.com%2F&amp;a=RED+Digital+Cinema\" target=\"_blank\" rel=\"nofollow\">RED Digital Cinema</a> booth, iodyne Pro Data will support live, fast, and secure R3D RAW workflows, building on the streamlined card-free ingest setup that the two companies showed earlier this year at NAB Show and Cinegear Expo.<br></br><br></br></li><li><b>Cintegral Technologies (Booth 1.D25)</b>: iodyne rental partner, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=1760876605&amp;u=https%3A%2F%2Fwww.cintegral.tech%2F&amp;a=Cintegral+Technologies\" target=\"_blank\" rel=\"nofollow\">Cintegral Technologies</a><u>,</u> is making its IBC debut focused on connectivity services for the European market, including private 5G and free-space optical (FSO) transmission for productions that need to move data without a fixed line. As it expands into connectivity, Cintegral says the Pro Mini remains central to its business.</li></ul><p>\"For me, what makes the Pro Mini so invaluable to us as a business is the intersectionality it provides across all our verticals,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=3387902363&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdanebrehm%2F&amp;a=Dane+Brehm\" target=\"_blank\" rel=\"nofollow\">Dane Brehm</a>, Production Technologist of Cintegral Technologies.</p><p>\"Having the Pro Mini as a premium product when people know us for our storage-as-a-service gives us the opportunity to interest them in our other offerings, like the connectivity we're showcasing for IBC. Utilizing a premium product in an excellent partnership builds trust and creates Cintegral's secret sauce for success.\"</p><p>Getting studio-grade data workflows into the field is a business imperative across sports, cinema and TV. iodyne points to its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=719859725&amp;u=https%3A%2F%2Fiodyne.com%2Fcase-studies%2Fdallas-cowboys-offsite-content-production%2F&amp;a=case+study+with+the+Dallas+Cowboys\" target=\"_blank\" rel=\"nofollow\">case study with the Dallas Cowboys</a> on off-site content production, alongside a new case study with CineLab, as examples of that shift. iodyne invites IBC attendees to stop by any of its partner booths to talk through how the same edge workflows could apply to their own productions.</p><p>iodyne's drives remain the fastest in the storage category while staying fully encrypted and RAID-protected—a standard the company calls <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=3513200055&amp;u=https%3A%2F%2Fiodyne.com%2Ftrueput%2F&amp;a=TruePut\" target=\"_blank\" rel=\"nofollow\">TruePut</a>. At IBC2026, iodyne puts its drives to work, demoing how faster encrypted transfer speeds cut down both the time spent offloading footage in the field and the cost of shipping physical drives back to a home base.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=1812148115&amp;u=https%3A%2F%2Fwww.iodyne.com%2F&amp;a=iodyne.com\" target=\"_blank\" rel=\"nofollow\">iodyne.com</a>.</p><p><b>About iodyne</b></p><p>Founded by veteran enterprise storage engineers, iodyne builds encrypted, RAID-protected storage for professionals who work at the edge, in the field, on set, or anywhere else a slow or fragile drive isn't an option. Its Pro Data and Pro Mini product lines pair hardware RAID-6 and XTS-AES-256 encryption with the sustained, verified performance the company calls TruePut, giving media and entertainment, government, and enterprise IT teams a way to move and protect large datasets without giving up speed. iodyne is based in Los Angeles. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771059-1&amp;h=1812148115&amp;u=https%3A%2F%2Fwww.iodyne.com%2F&amp;a=iodyne.com\" target=\"_blank\" rel=\"nofollow\">iodyne.com</a>.</p><p><b>Media Contact:</b><br></br>Asli Sonceley<br></br>Director of Marketing<br></br>219-256-0502<br></br><a href=\"mailto:422354@email4pr.com\" target=\"_blank\" rel=\"nofollow\">422354@email4pr.com</a> <br></br>iodyne HQ – Mill Valley, California</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH44633&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/iodyne-powers-hedge-adobe-and-red-digital-cinema-booths-at-ibc2026-302875244.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/iodyne-powers-hedge-adobe-and-red-digital-cinema-booths-at-ibc2026-302875244.html</a></p><p>SOURCE iodyne</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH44633&amp;Transmission_Id=202609100752PR_NEWS_USPR_____PH44633&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "iodyne",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 3
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "tradeshow": [
+            "summary:ibc show",
+            "summary:show floor"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-10T11:55:30.100Z"
+    },
     {
       "company": [
         "Sabio Inc."
