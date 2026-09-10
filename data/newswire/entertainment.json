@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-09-10T21:28:47.019Z",
+  "generated_at": "2026-09-10T21:43:53.428Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 69,
+  "count": 70,
   "releases": [
+    {
+      "company": [
+        "The Sonic Intelligence Academy (SIQA)"
+      ],
+      "date": "20260910T212700+0000",
+      "dateline": "LOS ANGELES, Sept. 10, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "SIQA Verified Registry",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1986044/SIQA-Verified-Registry.jpg?id=OA2942130&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1986044/SIQA-Verified-Registry.jpg?id=OA2942130&p=publish"
+        },
+        {
+          "caption": "SIQA logo, black background.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985740/SIQA-LOGO.jpg?id=OA2941275&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985740/SIQA-LOGO.jpg?id=OA2941275&p=publish"
+        }
+      ],
+      "release_id": "20260910LA45448",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "AWD"
+      ],
+      "summary": "<p><i>The Sonic Intelligence Academy unveils the SIQA Verified Registry and the SIQA Verified app, giving artists, industry, and fans a single source of truth for identifying AI music. The company will also host the inaugural AI Music Awards on November 13, a red-carpet night featuring top AI artists, celebrity performances and appearances.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- SIQA (The Sonic Intelligence Academy Inc.), the independent data and verification platform for the AI music era backed by 1517 Fund, today announced the launch of the SIQA Verified Registry and the SIQA Verified app for iOS, unveiled through the company's Mid-Year AI Music Intelligence Report. The registry allows artists to register their work and gives the industry and the public a way to discover a track's origin and AI involvement.</p>",
+      "ticker": [],
+      "title": "Inaugural AI Music Awards Coming to Los Angeles This November as SIQA Launches Verified Registry for AI Music Provenance",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910LA45448",
+      "body": "<p><i>The Sonic Intelligence Academy unveils the SIQA Verified Registry and the SIQA Verified app, giving artists, industry, and fans a single source of truth for identifying AI music. The company will also host the inaugural AI Music Awards on November 13, a red-carpet night featuring top AI artists, celebrity performances and appearances.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- SIQA (The Sonic Intelligence Academy Inc.), the independent data and verification platform for the AI music era backed by 1517 Fund, today announced the launch of the SIQA Verified Registry and the SIQA Verified app for iOS, unveiled through the company's Mid-Year AI Music Intelligence Report. The registry allows artists to register their work and gives the industry and the public a way to discover a track's origin and AI involvement.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1986044/SIQA-Verified-Registry.jpg?id=OA2942130\" title=\"SIQA Verified Registry\" alt=\"SIQA Verified Registry\"></img></p></div><p>SIQA operates the industry's first AI music charts, and this new registry extends that work, from ranking what's rising to verifying what's real. The company's guiding principle is simple: <b>Verified, Not Flagged</b>. Rather than policing or labeling tracks as suspect after the fact, SIQA equips artists to establish provenance up front, turning verification into a credential artists carry, not an accusation they have to defend against.</p><p>That distinction matters more than ever as AI-generated music floods streaming platforms like Spotify and Deezer faster than the industry can account for it, a shift now tracked by outlets from Billboard to Music Business Worldwide. The prevailing industry response has been reactive: identify AI tracks after release, then flag, dispute, or remove them. SIQA flips that model by verifying at the source, not flagging after the fact. The SIQA Verified Registry lets artists register and verify their work, while giving labels, distributors, DSPs, and everyday listeners a trusted way to check a track's provenance, going beyond the generic 'AI-Generated' label to classify each under the SIQA Classification Framework as <b>Fully AI-Generated</b>,<b> AI-Assisted</b>, or a <b>Human + AI Hybrid</b> (e.g., vocal cloning).</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771860-1&amp;h=1813214199&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fsiqa-verified%2Fid6799915395&amp;a=The+SIQA+Verified+app+identifies+a+song+much+like+Shazam%2C+and+reveals+its+AI+classification+in+seconds.\" target=\"_blank\" rel=\"nofollow\"><b><i>The SIQA Verified app identifies a song much like Shazam, and reveals its AI classification in seconds.</i></b></a></p><p>The companion SIQA Verified app puts that trust in your pocket. Much like Shazam identifies a song, SIQA Verified uses audio fingerprinting so anyone can discover a track's AI classification instantly, drawing on the SIQA Verified Registry to show whether a work is Fully AI-Generated, AI-Assisted, or a Human + AI Hybrid.</p><p>SIQA will also host the inaugural <b>AI Music Awards (AIMAs)</b> in Los Angeles on <b>November 13, 2026</b> — a red-carpet celebration featuring celebrity appearances, the presentation of the first-ever SIQA Visionary Award, and live performances directed by the creators behind Xania Monet, Olivia B Moore, Chaisen Hale, EJ Rogers, and more.</p><p>The AI Music Awards are sponsored by a collective of music and tech companies including <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771860-1&amp;h=2397085411&amp;u=https%3A%2F%2Fdeepgram.com%2F&amp;a=Deepgram\" target=\"_blank\" rel=\"nofollow\">Deepgram</a>, the real time voice infrastructure platform that powers conversational AI experiences for more than 1,300 companies, including Granola, Twilio, and Sierra.</p><p><i>\"AI is rapidly expanding what's possible with sound and voice, which makes trust and transparency increasingly important,\"</i> said <b>Scott Stephenson, CEO of Deepgram</b>. <i>\"We're excited to support SIQA in bringing creators, technologists, and the industry together to explore what responsible innovation can look like as this space evolves.\"</i></p><p>On <b>November 12</b>, the day before the awards, SIQA will host a summit (SIQA Summit) featuring panel discussions from bold, notable industry leaders of AI music, including Romel Murphy (CEO of dai+drm).</p><p>The SIQA Verified Registry is now live at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771860-1&amp;h=3099338585&amp;u=http%3A%2F%2Fregistry.thesiqa.com%2F&amp;a=registry.thesiqa.com\" target=\"_blank\" rel=\"nofollow\">registry.thesiqa.com</a>, the Mid-Year AI Music Intelligence Report is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771860-1&amp;h=855190412&amp;u=http%3A%2F%2Fthesiqa.com%2F&amp;a=thesiqa.com\" target=\"_blank\" rel=\"nofollow\">thesiqa.com</a>; the SIQA Verified app is available on the App Store.</p><p><b>About SIQA</b><br></br>SIQA (The Sonic Intelligence Academy Inc.) is an independent AI music intelligence and infrastructure company building the data, standards, and verification layer for the AI music era. Home to the industry's first AI music charts, SIQA operates on a simple principle: Verified, Not Flagged. The company is backed by 1517 Fund. Learn more at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771860-1&amp;h=3610381041&amp;u=https%3A%2F%2Fthesiqa.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771860-1&amp;h=3356897386&amp;u=https%3A%2F%2Fthesiqa.com%2F&amp;a=https%3A%2F%2Fthesiqa.com\" target=\"_blank\" rel=\"nofollow\">https://thesiqa.com</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1985740/SIQA-LOGO.jpg?id=OA2941275\" title=\"SIQA logo, black background.\" alt=\"SIQA logo, black background.\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA45448&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/inaugural-ai-music-awards-coming-to-los-angeles-this-november-as-siqa-launches-verified-registry-for-ai-music-provenance-302875791.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/inaugural-ai-music-awards-coming-to-los-angeles-this-november-as-siqa-launches-verified-registry-for-ai-music-provenance-302875791.html</a></p><p>SOURCE The Sonic Intelligence Academy (SIQA)</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA45448&amp;Transmission_Id=202609101727PR_NEWS_USPR_____LA45448&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "The Sonic Intelligence Academy (SIQA)",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-10T21:43:54.714Z"
+    },
     {
       "company": [
         "Pocket Entertainment"
