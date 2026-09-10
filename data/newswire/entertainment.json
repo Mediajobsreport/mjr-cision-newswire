@@ -1,11 +1,104 @@
 {
-  "generated_at": "2026-09-10T14:59:11.901Z",
+  "generated_at": "2026-09-10T15:20:33.734Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 65,
+  "count": 66,
   "releases": [
+    {
+      "company": [
+        "Great American Media"
+      ],
+      "date": "20260910T150000+0000",
+      "dateline": "NEW YORK, Sept. 10, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "TVN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Merritt Patterson and Ryan Paevey star in The Ornament Library, a World Premiere Original film streaming on Great American Pure Flix, December 3, and airing on Great American Family, December 5 (8p).",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985306/Ryan-and-Merritt.jpg?id=OA2940073&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985306/Ryan-and-Merritt.jpg?id=OA2940073&p=publish"
+        },
+        {
+          "caption": "Great American Media",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1528323/Great-American-Media-Logo-600-pixels-Logo-Logo.jpg?id=OA2939866&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1528323/Great-American-Media-Logo-600-pixels-Logo-Logo.jpg?id=OA2939866&p=publish"
+        }
+      ],
+      "release_id": "20260910DA44616",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "PDT"
+      ],
+      "summary": "<ul type=\"disc\"><li><b>Film streams first on Great American Pure Flix on December 3</b></li><li><b>Premieres on Great American Family and GFAM+, December 5</b></li></ul><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=3258325002&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow\"><b>Great American Media</b></a> proudly announces the World Premiere of <b><i>The Ornament Library</i></b>, starring beloved fan favorites <b>Merritt Patterson </b>and <b>Ryan Paevey</b>, streaming on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=737860909&amp;u=https%3A%2F%2Fwww.greatamericanpureflix.com%2F&amp;a=Great+American+Pure+Flix\" target=\"_blank\" rel=\"nofollow\"><b>Great American Pure Flix</b></a>, <b>Thursday, December 3</b>, before premiering on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=3188227667&amp;u=https%3A%2F%2Fwww.greatamericanfamily.com%2F&amp;a=Great+American+Family\" target=\"_blank\" rel=\"nofollow\"><b>Great American Family</b></a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=688748793&amp;u=https%3A%2F%2Fwww.gfamplus.com%2F&amp;a=GFAM%2B\" target=\"_blank\" rel=\"nofollow\"><b>GFAM+</b></a> , Saturday, December 5 (8p). Great American Christmas, one of the most anticipated holiday events on television, continues its sixth season with an extraordinary collection of Original movies pairing the genre's most beloved stars with stories made to become Christmas traditions.</p>\n    ",
+      "ticker": [],
+      "title": "Merritt Patterson and Ryan Paevey Star in The Ornament Library, A Heartfelt World Premiere Original Movie for Great American Christmas 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910DA44616",
+      "body": "\n<ul type=\"disc\"><li><b>Film streams first on Great American Pure Flix on December 3</b></li><li><b>Premieres on Great American Family and GFAM+, December 5</b></li></ul><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=3258325002&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow\"><b>Great American Media</b></a> proudly announces the World Premiere of <b><i>The Ornament Library</i></b>, starring beloved fan favorites <b>Merritt Patterson </b>and <b>Ryan Paevey</b>, streaming on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=737860909&amp;u=https%3A%2F%2Fwww.greatamericanpureflix.com%2F&amp;a=Great+American+Pure+Flix\" target=\"_blank\" rel=\"nofollow\"><b>Great American Pure Flix</b></a>, <b>Thursday, December 3</b>, before premiering on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=3188227667&amp;u=https%3A%2F%2Fwww.greatamericanfamily.com%2F&amp;a=Great+American+Family\" target=\"_blank\" rel=\"nofollow\"><b>Great American Family</b></a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=688748793&amp;u=https%3A%2F%2Fwww.gfamplus.com%2F&amp;a=GFAM%2B\" target=\"_blank\" rel=\"nofollow\"><b>GFAM+</b></a> , Saturday, December 5 (8p). Great American Christmas, one of the most anticipated holiday events on television, continues its sixth season with an extraordinary collection of Original movies pairing the genre's most beloved stars with stories made to become Christmas traditions.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985306/Ryan-and-Merritt.jpg?id=OA2940073\" title=\"Merritt Patterson and Ryan Paevey star in The Ornament Library, a World Premiere Original film streaming on Great American Pure Flix, December 3, and airing on Great American Family, December 5 (8p).\" alt=\"Merritt Patterson and Ryan Paevey star in The Ornament Library, a World Premiere Original film streaming on Great American Pure Flix, December 3, and airing on Great American Family, December 5 (8p).\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight849c\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Merritt Patterson and Ryan Paevey Star in The Ornament Library, a Great American Christmas Original 2026 movie.</div><p>In <i>The Ornament Library</i>, meticulous librarian Alice Montgomery (Patterson) and newspaper reporter Noah Conrad (Paevey) discover a forgotten room hidden beneath their town's historic library, filled with hundreds of Christmas ornaments containing handwritten memories from generations past. As they set out to reunite each treasured keepsake with its rightful family, the pair rekindles a cherished Christmas tradition, strengthen an entire community, and discover that the greatest gifts of the season are the stories – and people – we carry in our hearts.</p><p>\"<i>The Ornament Library</i> is a great story with tremendous talent as Merritt Patterson and Ryan Paevey create the kind of emotional connection that brings audiences back year after year,\" said <b>Kaitlyn Haubrich</b>, Chief Brand Officer and Chief of Staff, Great American Media. This is the standard we are setting for Great American Christmas,\" Haubrich concluded.</p><p><i>The Ornament Library</i> is written by Ainsley Gordon.</p><p><b><u>ABOUT GREAT AMERICAN MEDIA</u></b></p><p>Great American Media is the leader in faith and family entertainment, and one of the fastest-growing entertainment networks on television. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=3792803441&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.gacmedia.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DSZ-5FQsiG3mnsQxOAPdTMIKALp4TFGc0EPcsfvP6e2q8g-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702445575-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3DBJR-252B1dOk7Vngm2fT5Ozs1TFSQq-252BO1VGwbDfoMi-252BWkHg-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3DcUgVJ6YBfh4j791hbaSNNzvKPVPlJbBVVc5SzC1gfsw%26e%3D&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow\"><b>Great American Media</b></a> is home to a portfolio of entertainment brands that celebrate faith, family, and country, including <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=4239259765&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.greatamericanfamily.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DFA-5FOazh-5FAAusVTc1gQ4SVSIZ0iQqsESZpc7cxN-2Dke-5Fg-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702473057-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3DsO0IVQ6GBResr0IGZmLzVm4o7AZ77WJgV-252F8vwJ8MFgc-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3D204BKdePG7ybIkpySvloUl-8DYIrJFFl0BGsr1bEweY%26e%3D&amp;a=Great+American+Family\" target=\"_blank\" rel=\"nofollow\"><b>Great American Family</b></a>, the flagship linear network featuring original Christmas movies, rom-coms, and beloved series; <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=1813431198&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.pureflix.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DLFlfllFXB7ImHnRxUG4pDu2cgDKsu1xK3M3knXpxEVs-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702487880-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3Dx1YtdB2PgdB2QT2vAtg5X9Y8DcekqlO-252BzVjJaw-252BFWxA-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3Df6MqltUowcin9zfmrZDg7fQDd1Aob21gQqctvCp02Vw%26e%3D&amp;a=Great+American+Pure+Flix\" target=\"_blank\" rel=\"nofollow\"><b>Great American Pure Flix</b></a>, the leading faith and family streaming service; <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=1234757524&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.greatamericanliving.tv-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DS7mHRrzqwgRhv2Sl3-2D-5FUPen2Llyc35-2DqdvHjPuOb48Q-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702501892-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3D0cNeF-252FQxJ4-252BY9iXPH8WDBbu6lQ-252BbaHWfEpnt9C28JmM-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3Dh7RxbikpiY4e9Xy2evNHJHngtoZ9_d-6H_2zOBIl9Dw%26e%3D&amp;a=Great+American+Faith+%26+Living\" target=\"_blank\" rel=\"nofollow\"><b>Great American Faith &amp; Living</b></a>, the unscripted companion network; and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771041-1&amp;h=4238449304&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.gfamplus.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253D3POVEX3ljsskLiOjdJLXzzGwxpT75B5ByUaInohRngU-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702515923-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3DhuWRNMtHpXi86CPyBk8RXbVeaffHX3pZR30gECZV8dQ-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3Dt0xExcOO-2rHV1eUlbaZK_R6iTGNtwi_2qeRdibC7qc%26e%3D&amp;a=GFam%2B\" target=\"_blank\" rel=\"nofollow\"><b>GFam+</b></a>, an app that lets viewers watch anytime, anywhere. Great America Media, established in June 2021 by Bill Abbott and a group of US-based family offices, is available via cable, streaming on Pure Flix and YouTube TV, and on the GFam+ app.</p><p><b><u>MEDIA CONTACTS:</u></b></p><p>Pam Slay<br></br>Head of Network Program Publicity &amp; Talent Relations<br></br><a href=\"mailto:pamslay@gacmedia.com\" target=\"_blank\" rel=\"nofollow\">pamslay@gacmedia.com</a><br></br>818.415.3784<br></br><a href=\"mailto:media@crosswindpr.com\" target=\"_blank\" rel=\"nofollow\">media@crosswindpr.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1528323/Great-American-Media-Logo-600-pixels-Logo-Logo.jpg?id=OA2939866\" title=\"Great American Media\" alt=\"Great American Media\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA44616&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/merritt-patterson-and-ryan-paevey-star-in-the-ornament-library-a-heartfelt-world-premiere-original-movie-for-great-american-christmas-2026-302875447.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/merritt-patterson-and-ryan-paevey-star-in-the-ornament-library-a-heartfelt-world-premiere-original-movie-for-great-american-christmas-2026-302875447.html</a></p><p>SOURCE Great American Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA44616&amp;Transmission_Id=202609101100PR_NEWS_USPR_____DA44616&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Great American Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 3,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:film",
+            "movie",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "television": [
+            "summary:television",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-10T15:20:35.342Z"
+    },
     {
       "company": [
         "Universal Music Group"
