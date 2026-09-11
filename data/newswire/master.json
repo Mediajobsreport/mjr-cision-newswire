@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-09-10T23:53:55.620Z",
+  "generated_at": "2026-09-11T00:21:45.450Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 196,
+  "count": 197,
   "releases": [
+    {
+      "company": [
+        "Greenberg Traurig, LLP"
+      ],
+      "date": "20260911T000600+0000",
+      "dateline": "ATLANTA, Sept. 10, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "GGA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "LGL",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Greenberg Traurig, LLP",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1777985/Greenberg-Traurig-LLP-Logo.jpg?id=OA2942393&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1777985/Greenberg-Traurig-LLP-Logo.jpg?id=OA2942393&p=publish"
+        }
+      ],
+      "release_id": "20260910NY45498",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "FVT"
+      ],
+      "summary": "<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=1733372000&amp;u=http%3A%2F%2Fwww.gtlaw.com%2F&amp;a=Greenberg+Traurig%2C+LLP\" target=\"_blank\" rel=\"nofollow\">Greenberg Traurig, LLP</a><u>'s</u> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=673024542&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Fcapabilities%2Fentertainment-media-sports&amp;a=Entertainment+%26+Media+Practice\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Media Practice</a> congratulates its clients on their nominations for the 60th annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=3001491660&amp;u=https%3A%2F%2Fcmaawards.com%2F&amp;a=Country+Music+Association+(CMA)+Awards\" target=\"_blank\" rel=\"nofollow\">Country Music Association (CMA) Awards</a>, taking place Nov. 18.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1777985/Greenberg-Traurig-LLP-Logo.jpg?id=OA2942393\" title=\"Greenberg Traurig, LLP\" alt=\"Greenberg Traurig, LLP\"></img>\n                </p>\n    </div>\n<p class=\"prnml4\">\"These nominations recognize excellence across every facet of the music industry, from artistry and songwriting to production and leadership, and we are especially proud to see so many of our clients honored among this year's nominees,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=3724433129&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Flocations%2Fatlanta&amp;a=Atlanta\" target=\"_blank\" rel=\"nofollow\">Atlanta</a> Entertainment &amp; Media Practice Co-Chair <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=2285646502&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Fprofessionals%2Fr%2Frosen-jess-l&amp;a=Jess+Rosen\" target=\"_blank\" rel=\"nofollow\">Jess Rosen</a>, whose clients include the majority of the Greenberg Traurig-represented nominees. \"Each nomination is a testament not only to exceptional talent, but also to the hard work, vision, and dedication that drive meaningful and lasting contributions to country music. We congratulate all of this year's nominees and are proud to support our clients as they achieve this well-deserved recognition.\"</p>",
+      "ticker": [],
+      "title": "Greenberg Traurig's Entertainment &amp; Media Practice Congratulates Clients Recognized with CMA Awards Nominations",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260910NY45498",
+      "body": "\n<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Sept. 10, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=1733372000&amp;u=http%3A%2F%2Fwww.gtlaw.com%2F&amp;a=Greenberg+Traurig%2C+LLP\" target=\"_blank\" rel=\"nofollow\">Greenberg Traurig, LLP</a><u>'s</u> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=673024542&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Fcapabilities%2Fentertainment-media-sports&amp;a=Entertainment+%26+Media+Practice\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Media Practice</a> congratulates its clients on their nominations for the 60th annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=3001491660&amp;u=https%3A%2F%2Fcmaawards.com%2F&amp;a=Country+Music+Association+(CMA)+Awards\" target=\"_blank\" rel=\"nofollow\">Country Music Association (CMA) Awards</a>, taking place Nov. 18.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1777985/Greenberg-Traurig-LLP-Logo.jpg?id=OA2942393\" title=\"Greenberg Traurig, LLP\" alt=\"Greenberg Traurig, LLP\"></img>\n                </p>\n    </div>\n<p class=\"prnml4\">\"These nominations recognize excellence across every facet of the music industry, from artistry and songwriting to production and leadership, and we are especially proud to see so many of our clients honored among this year's nominees,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=3724433129&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Flocations%2Fatlanta&amp;a=Atlanta\" target=\"_blank\" rel=\"nofollow\">Atlanta</a> Entertainment &amp; Media Practice Co-Chair <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=2285646502&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Fprofessionals%2Fr%2Frosen-jess-l&amp;a=Jess+Rosen\" target=\"_blank\" rel=\"nofollow\">Jess Rosen</a>, whose clients include the majority of the Greenberg Traurig-represented nominees. \"Each nomination is a testament not only to exceptional talent, but also to the hard work, vision, and dedication that drive meaningful and lasting contributions to country music. We congratulate all of this year's nominees and are proud to support our clients as they achieve this well-deserved recognition.\"</p><p class=\"prnml4\">Fourteen Greenberg Traurig clients received a combined 27 nominations across multiple categories.</p><p class=\"prnml4\"><u>Entertainer of the Year</u>:<br></br>Cody Johnson</p><p class=\"prnml4\"><u>Single of the Year</u>:<br></br>Miranda Lambert, producer <i>(Be Her)<br></br></i>Miranda Lambert, producer <i>(Choosin' Texas)<br></br></i>Cody Johnson<i> (The Fall)</i></p><p class=\"prnml4\"><u>Album of the Year</u>:<br></br>Miranda Lambert, producer <i>(Dandelion)<br></br></i>Kacey Musgraves <i>(Middle of Nowhere)<br></br></i>Parker McCollum<i> (Parker McCollum)</i></p><p class=\"prnml4\"><u>Song of the Year:<br></br></u>Jessie Jo Dillon, songwriter <i>(Beautiful Things)<br></br></i>Miranda Lambert, songwriter <i>(Choosin' Texas)<br></br></i>Kacey Musgraves, songwriter <i>(Dry Spell)<br></br></i>Josh Osborne, songwriter <i>(Dry Spell)</i></p><p class=\"prnml4\"><u>Female Vocalist of the Year</u>:<br></br>Miranda Lambert<br></br>Kacey Musgraves</p><p class=\"prnml4\"><u>Male Vocalist of the Year</u>:<br></br>Cody Johnson</p><p class=\"prnml4\"><u>Vocal Group of the Year</u>:<br></br>Lady A<br></br>Little Big Town<br></br>Midland<br></br>Old Dominion</p><p class=\"prnml4\"><u>Vocal Duo of the Year</u>:<br></br>Brooks &amp; Dunn<br></br>Dan + Shay</p><p class=\"prnml4\"><u>Musical Event of the Year</u>:<br></br>Miranda Lambert <i>(A Song to Sing)<br></br></i>Kacey Musgraves, featuring Miranda Lambert <i>(Horses and Divorces)<br></br></i>Riley Green <i>(If I Don't Leave I'm Gonna Stay)</i></p><p class=\"prnml4\"><u>Music Video of the Year</u>:<br></br>Kacey Musgraves <i>(Dry Spell)<br></br></i>Cody Johnson <i>(The Fall)</i></p><p class=\"prnml4\"><u>New Artist of the Year</u>:<br></br>Carter Faith</p><p class=\"prnml4\">For more than four decades, Rosen, alongside <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=3878365950&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Fprofessionals%2Fk%2Fkoby-jonathan-b&amp;a=Jonathan+B.+Koby\" target=\"_blank\" rel=\"nofollow\">Jonathan B. Koby</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=3099436799&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Fprofessionals%2Fr%2Frosenbloum-bobby&amp;a=Bobby+Rosenbloum\" target=\"_blank\" rel=\"nofollow\">Bobby Rosenbloum</a>, has advised many of the country music industry's leading artists, songwriters, producers, executives, and other entertainment professionals, helping guide them through significant business and career opportunities.</p><p class=\"prnml4\">Presented annually, the CMA Awards celebrate excellence in country music, honoring both established artists and emerging talent. Recognized as the longest-running annual music awards program on network television, the CMA Awards continue to showcase the achievements and innovation that define the genre.</p><p class=\"prnml4\"><b>About Greenberg Traurig's Entertainment &amp; Media Practice:</b> With offices situated in the centers of the entertainment industry, Greenberg Traurig has established an experienced, international multidisciplinary entertainment and media practice. The Greenberg Traurig <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=790877561&amp;u=https%3A%2F%2Fwww.gtlaw.com%2Fen%2Fcapabilities%2Fentertainment-and-media&amp;a=Entertainment+%26+Media+Practice\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Media Practice</a> focuses on the music, motion picture, television, live stage, internet, digital media, publishing, sports, theatre, and cable industries. The team has access to key players in the entertainment and media sectors and provides clients with timely, business-oriented, and dedicated legal counsel essential for thriving in today's dynamic, multimedia entertainment marketplace. Our entertainment and media attorneys have been consistently recognized as <i>Billboard</i> \"Top Music Lawyers\" and \"Country Power Players,\" <i>The Hollywood Reporter</i> \"Power Lawyers: Top 100 Most Influential Entertainment Lawyers in America,\" and a <i>Law360</i> \"Practice Group of the Year\"; in the <i>Variety</i> \"Dealmakers Impact Report,\" \"Legal Impact Report,\" and \"Variety 500,\" <i>Chambers USA Guide</i>, <i>The Legal 500</i>, <i>Super Lawyers</i>, and <i>The Best Lawyers in America</i>.</p><p class=\"prnml4\"><b>About Greenberg Traurig:</b> Greenberg Traurig, LLP has approximately 3,200 lawyers across 51 locations in the United States, Europe, the Middle East, Latin America, and Asia. The firm's broad geographic and practice range enables the delivery of innovative and strategic legal services across borders and industries. Recognized as a 2025 BTI \"Best of the Best Recommended Law Firm\" by general counsel for trust and relationship management, Greenberg Traurig is consistently ranked among the top firms on the <i>Am Law</i> Global 100, <i>NLJ</i> 500, and <i>Law360</i> 400. Greenberg Traurig is also known for its philanthropic giving, culture, innovation, and pro bono work. Web: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771908-1&amp;h=2839693966&amp;u=http%3A%2F%2Fwww.gtlaw.com%2F&amp;a=www.gtlaw.com\" target=\"_blank\" rel=\"nofollow\">www.gtlaw.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY45498&amp;sd=2026-09-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/greenberg-traurigs-entertainment--media-practice-congratulates-clients-recognized-with-cma-awards-nominations-302875853.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/greenberg-traurigs-entertainment--media-practice-congratulates-clients-recognized-with-cma-awards-nominations-302875853.html</a></p><p>SOURCE Greenberg Traurig, LLP</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY45498&amp;Transmission_Id=202609102006PR_NEWS_USPR_____NY45498&amp;DateId=20260910\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Greenberg Traurig, LLP",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml4{\nMARGIN-LEFT:0.33em !IMPORTANT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 9,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:music industry",
+            "entertainment",
+            "summary:music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-11T00:21:46.216Z"
+    },
     {
       "company": [
         "The Sonic Intelligence Academy (SIQA)"
