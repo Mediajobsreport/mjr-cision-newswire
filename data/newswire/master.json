@@ -1,9 +1,101 @@
 {
-  "generated_at": "2026-09-11T07:56:45.681Z",
+  "generated_at": "2026-09-11T08:19:02.743Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 197,
+  "count": 198,
   "releases": [
+    {
+      "company": [
+        "Google Cloud"
+      ],
+      "date": "20260911T080000+0000",
+      "dateline": "BURLINGTON, Mass. and SUNNYVALE, Calif., Sept. 11, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM",
+        "MIN",
+        "UMW"
+      ],
+      "industry": [
+        "MLM",
+        "IOT",
+        "STW",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Avid and Google Cloud ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1986093/Avid_Google_PR-V4-1-1.jpg?id=OA2942260&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1986093/Avid_Google_PR-V4-1-1.jpg?id=OA2942260&p=publish"
+        },
+        {
+          "caption": "Avid and Google Cloud logo lockup ",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1986094/image_1788465255244372-1.jpg?id=OA2942261&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1986094/image_1788465255244372-1.jpg?id=OA2942261&p=publish"
+        }
+      ],
+      "release_id": "20260911SF45438",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<ul type=\"disc\"><li><i>New Chrome-based Avid Media Composer video editing and conversational media search built with Google Cloud's Gemini Enterprise help creative teams collaborate securely from anywhere</i></li><li><i>Avid research shows editors embracing AI for practical tasks while overwhelmingly calling for technology that empowers creative control and efficiency</i></li><li><i>New advances to be showcased for the first time at global media and entertainment event IBC2026 in Amsterdam (Sept. 11-14)</i></li></ul><p><span class=\"legendSpanClass\">BURLINGTON, Mass. and SUNNYVALE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 11, 2026</span> /PRNewswire/ -- Avid and Google Cloud today announced the expansion of their strategic partnership, introducing browser-based Avid Media Composer, the company's flagship video editing platform, and an upgraded Avid Content Core, Avid's content data platform. By embedding Google Cloud's Gemini Enterprise and Google BigQuery directly into Avid's post-production environment alongside media-specific AI agents and Avid tools, creators can remove the constraints of physical hardware and administrative friction. As a result, editors and directors can collaborate seamlessly from anywhere, automate repetitive tasks, and focus on storytelling.</p>\n    ",
+      "ticker": [],
+      "title": "Avid and Google Cloud Expand Strategic Partnership to Deliver Browser-Based Media Composer and Agentic Creative Workflows",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260911SF45438",
+      "body": "\n<ul type=\"disc\"><li><i>New Chrome-based Avid Media Composer video editing and conversational media search built with Google Cloud's Gemini Enterprise help creative teams collaborate securely from anywhere</i></li><li><i>Avid research shows editors embracing AI for practical tasks while overwhelmingly calling for technology that empowers creative control and efficiency</i></li><li><i>New advances to be showcased for the first time at global media and entertainment event IBC2026 in Amsterdam (Sept. 11-14)</i></li></ul><p><span class=\"legendSpanClass\">BURLINGTON, Mass. and SUNNYVALE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 11, 2026</span> /PRNewswire/ -- Avid and Google Cloud today announced the expansion of their strategic partnership, introducing browser-based Avid Media Composer, the company's flagship video editing platform, and an upgraded Avid Content Core, Avid's content data platform. By embedding Google Cloud's Gemini Enterprise and Google BigQuery directly into Avid's post-production environment alongside media-specific AI agents and Avid tools, creators can remove the constraints of physical hardware and administrative friction. As a result, editors and directors can collaborate seamlessly from anywhere, automate repetitive tasks, and focus on storytelling.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1986093/Avid_Google_PR-V4-1-1.jpg?id=OA2942260\" title=\"Avid and Google Cloud \" alt=\"Avid and Google Cloud \"></img>\n                </p>\n    </div>\n<p>Today's media production houses face two competing pressures: content demand is soaring, yet creative teams remain bogged down by administrative overhead. Editors often spend substantial portions of their day tagging footage, organizing timelines, and searching through fragmented archives. Furthermore, because professional editing historically required heavy, on-premises workstations, remote global collaboration has remained slow and cost-prohibitive.</p><p>New Avid research illustrates how editors are using AI to solve practical post-production challenges, helping tackle time-consuming tasks while preserving creative control. In a survey of professional editors, 79% reported using AI in their workflows, with speech-to-text and transcription cited as the most common use cases (60%). Editors are equally clear on AI's optimal role: 87% agree that AI is most valuable when empowering them to achieve their creative intentions more efficiently, while 76% say its best use is unlocking more time for storytelling. The findings also highlight the importance of integrating AI more seamlessly into established professional environments, with 63% emphasizing that AI tools require tighter workflow integration to be truly useful.</p><p>Building on milestones announced at the NAB Show in April 2026, the next phase of the Avid and Google Cloud partnership addresses these industry challenges directly. The expanded collaboration embeds Gemini Enterprise directly into Media Composer and Content Core to accelerate the creative process. By connecting an intelligent, searchable media archive directly to a browser-based timeline, the integrated solutions help streamline the industry's two most time-consuming bottlenecks: media discovery and timeline organization.</p><p>The joint announcement highlights four core pillars of technology integration:</p><ul type=\"disc\"><li><b>Browser-based Media Composer and agentic editing: </b>Avid's industry-standard editing platform, now available within the Google Chrome browser, enables creators to edit professional timelines in Avid Content Core. Within Media Composer, agentic AI capabilities in Avid's Ready to Edit allow editors to use natural language prompts to sync media, transcribe and align dialogue, and organize project bins, putting the focus back on editorial storytelling. In addition, an embedded Media Composer Gemini panel allows editors to generate B-roll, find stock footage, and automatically enrich media with tagging, logging, or translation using their existing Gemini accounts.</li><li><b>Semantic search in Content Core to speed up media discovery:</b> Utilizing Google Cloud technologies to analyze and enrich media as it is imported, Avid Content Core and Gemini Enterprise automatically generate transcripts and semantic descriptions. This eliminates hours of manual logging and enables production teams to locate the exact media they need through natural language search.</li><li><b>Connected workflows from newsroom to timeline: </b>Through Content Core Insights—built with Gemini Enterprise and BigQuery—organizations can bridge the data gap between how content is produced and how it performs. Newsrooms can plan stories and assign teams in Content Core Planning and Rundown—which coordinate assignments, resources, and program rundowns—while editors can pull matching footage into their timelines via natural language search. Final cuts then sync back to broadcast programming, with each step reflected as live production data. Broadcast and studio executives can then query plain-language insights on staffing, resource utilization, production costs, and content performance, providing complete visibility to produce and monetize content.</li><li><b>Flexible, secure hybrid cloud deployment: </b>The Avid Content Core Site Engine links customer Google Cloud environments directly to Content Core, ensuring media processing, production intelligence, and agentic workflows are managed centrally, while compute and high-resolution assets remain securely in the customer's own cloud environment.</li></ul><p>\"Customers are asking for intelligent tools that plug seamlessly into existing workflows and scale with their creativity,\" said Wellford Dillard, chief executive officer of Avid. \"Our expanded partnership with Google Cloud strengthens our ability to deliver secure, AI-driven innovation while keeping Avid open, interoperable, and adaptable. By bringing Media Composer to the browser and integrating Gemini Enterprise into Content Core, we are helping creative teams bypass administrative friction and focus on storytelling.\"</p><p>\"Avid has always been a media technology pioneer, and this partnership solidifies its leadership in adopting advanced AI for film and television,\" said Anil Jain, global managing director of Strategic Industries at Google Cloud. \"By integrating Gemini Enterprise with Avid's flagship tools, we are giving editors powerful agentic workflows and intelligent search to handle tedious production logistics. This collaboration ensures creators can stay in their creative flow and work securely from anywhere.\"</p><p>Avid and Google Cloud will demonstrate these end-to-end agentic workflows at IBC2026 in Amsterdam from Sept. 11-14, across the Google Cloud and Avid exhibition spaces.</p><p><b>About the Avid research:</b> Avid surveyed 120 professional editors – users of Avid's post production and editing software, including Media Composer® – among its customer community in Q2 2026.</p><p><b>About Avid Technology, Inc.<br></br></b>Avid is the power behind the content that touches virtually every person on the planet. Every word, every note, every frame – every day. Powering great creators and trusted newsmakers, Avid enables everyone with a story to tell – from Emmy®, Grammy®, and Oscar® winners to rising talent. Avid pushes boundaries with end-to-end solutions that transform how content is created, managed, and monetized.</p><p><b>About Google Cloud<br></br></b>Google Cloud offers a powerful, optimized AI stack—including AI infrastructure, leading models like Gemini, data management capabilities, multicloud security solutions, developer tools and platform, as well as agents and applications—that enables organizations to transform their business for the Agentic Era. Customers in more than 200 countries and territories turn to Google Cloud as their trusted technology partner.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1986094/image_1788465255244372-1.jpg?id=OA2942261\" title=\"Avid and Google Cloud logo lockup \" alt=\"Avid and Google Cloud logo lockup \"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF45438&amp;sd=2026-09-11\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/avid-and-google-cloud-expand-strategic-partnership-to-deliver-browser-based-media-composer-and-agentic-creative-workflows-302875886.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/avid-and-google-cloud-expand-strategic-partnership-to-deliver-browser-based-media-composer-and-agentic-creative-workflows-302875886.html</a></p><p>SOURCE Google Cloud</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF45438&amp;Transmission_Id=202609110400PR_NEWS_USPR_____SF45438&amp;DateId=20260911\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Google Cloud",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 1,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "summary:entertainment"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-11T08:19:03.880Z"
+    },
     {
       "company": [
         "Greenberg Traurig, LLP"
