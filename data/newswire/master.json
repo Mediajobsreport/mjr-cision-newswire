@@ -1,9 +1,94 @@
 {
-  "generated_at": "2026-09-11T19:14:58.223Z",
+  "generated_at": "2026-09-11T19:30:04.541Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 202,
+  "count": 203,
   "releases": [
+    {
+      "company": [
+        "Evergreen Digital Media"
+      ],
+      "date": "20260911T192700+0000",
+      "dateline": "DENVER, Sept. 11, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "COL",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "MLM",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Evergreen Digital Media Corp.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1702248/Evergreen-Digital-Media-Logo.jpg?id=OA2943957&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1702248/Evergreen-Digital-Media-Logo.jpg?id=OA2943957&p=publish"
+        }
+      ],
+      "release_id": "20260911LA46156",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 11, 2026</span> /PRNewswire/ -- Evergreen Digital Media Corp. (EDM), a premier operator of digital signage and retail media networks, and Adwave Digital Inc. (Adwave), a technology company that operates an AI-powered advertising platform, have finalized a strategic partnership in which EDM will provide capital to facilitate the continued development of Adwave's AI platform. EDM will also receive a preferred licensing agreement to the platform as part of the agreement.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1702248/Evergreen-Digital-Media-Logo.jpg?id=OA2943957\" title=\"Evergreen Digital Media Corp.\" alt=\"Evergreen Digital Media Corp.\"></img></p></div><p>Adwave's WaveRunner platform buys and runs ad campaigns across streaming TV, Google, Meta, Reddit, and the web from a single daily budget, optimizing placement using a business's own site data, without requiring an agency or separate accounts for each channel.</p>",
+      "ticker": [],
+      "title": "Evergreen Digital Media Corp. Partners With Adwave Digital Inc. in a Strategic Capital and Licensing Partnership",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260911LA46156",
+      "body": "<p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 11, 2026</span> /PRNewswire/ -- Evergreen Digital Media Corp. (EDM), a premier operator of digital signage and retail media networks, and Adwave Digital Inc. (Adwave), a technology company that operates an AI-powered advertising platform, have finalized a strategic partnership in which EDM will provide capital to facilitate the continued development of Adwave's AI platform. EDM will also receive a preferred licensing agreement to the platform as part of the agreement.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1702248/Evergreen-Digital-Media-Logo.jpg?id=OA2943957\" title=\"Evergreen Digital Media Corp.\" alt=\"Evergreen Digital Media Corp.\"></img></p></div><p>Adwave's WaveRunner platform buys and runs ad campaigns across streaming TV, Google, Meta, Reddit, and the web from a single daily budget, optimizing placement using a business's own site data, without requiring an agency or separate accounts for each channel.</p><p>This is EDM's third strategic investment in the past year, but a different type of deal. The earlier investments brought new screen networks into EDM's fold. In this partnership, EDM obtains rights to run Adwave's AI ad-buying technology directly, without taking on another network to operate.</p><p>\"Adwave brings a level of talent and technical knowledge in the advertising AI space that's rare to find,\" said Don Winfrey, CEO of Evergreen Digital Media Corp. \"We're excited to learn from this team as we bring that expertise into our networks.\"</p><p>\"EDM has built something real in the DOOH space, and we're glad to be working alongside a team with that kind of reach,\" said David Naffis, CEO of Adwave. \"We're looking forward to what this partnership produces.\"</p><p><b>About Evergreen Digital Media Corp.</b> Evergreen Digital Media Corp. (EDM) is the parent company of NTV360, N-Compass TV and OnPremise Networks. Collectively, these entities operate uniquely through a network of exclusive local dealers calling on local advertisers in the Digital Out-of-Home (DOOH) sector, delivering digital signage, content and local marketing opportunities to communities throughout the United States and Canada. </p><p><b>About Adwave Digital Inc.</b> Adwave is an AI-powered advertising platform. Its WaveRunner product buys and runs cross-channel ad campaigns, spanning streaming TV, social, video, and display, from a single daily budget. More information is available at waverunner.adwave.com.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA46156&amp;sd=2026-09-11\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/evergreen-digital-media-corp-partners-with-adwave-digital-inc-in-a-strategic-capital-and-licensing-partnership-302876646.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/evergreen-digital-media-corp-partners-with-adwave-digital-inc-in-a-strategic-capital-and-licensing-partnership-302876646.html</a></p><p>SOURCE Evergreen Digital Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA46156&amp;Transmission_Id=202609111527PR_NEWS_USPR_____LA46156&amp;DateId=20260911\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Evergreen Digital Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 7,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising platform",
+            "summary:advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "digital media",
+            "industry:MLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-11T19:30:05.358Z"
+    },
     {
       "company": [
         "Frank J. Russo for Governor"
