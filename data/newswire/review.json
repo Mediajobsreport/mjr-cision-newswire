@@ -1,11 +1,78 @@
 {
-  "generated_at": "2026-09-15T13:16:42.786Z",
+  "generated_at": "2026-09-15T13:44:26.165Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 58,
+  "count": 59,
   "releases": [
+    {
+      "company": [
+        "All The Way Up Media"
+      ],
+      "date": "20260915T131700+0000",
+      "dateline": "TORONTO, Sept. 15, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "AFI",
+        "STW",
+        "CPR",
+        "ADV"
+      ],
+      "language": "en",
+      "multimedia": [],
+      "release_id": "20260915C7249",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "SBS"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Sept. 15, 2026</span> /CNW/ -- All The Way Up Media, a Toronto-based digital marketing agency specializing in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4770496-1&amp;h=3207107081&amp;u=https%3A%2F%2Fallthewayupmedia.com%2Fseo-agency%2F&amp;a=search+engine+optimization\" target=\"_blank\" rel=\"nofollow\">search engine optimization</a>, paid advertising, web design and web development, is expanding its SEO services to help businesses across the Greater Toronto Area adapt to the growing role of artificial intelligence in online search.</p>\n<p>As consumers increasingly use AI-powered search tools and conversational platforms to research businesses, compare services and find local providers, companies need to think beyond traditional Google rankings alone.</p>",
+      "ticker": [],
+      "title": "All The Way Up Media Expands SEO Services to Help GTA Businesses Compete in AI-Powered Search",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260915C7249",
+      "body": "\n<p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Sept. 15, 2026</span> /CNW/ -- All The Way Up Media, a Toronto-based digital marketing agency specializing in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4770496-1&amp;h=3207107081&amp;u=https%3A%2F%2Fallthewayupmedia.com%2Fseo-agency%2F&amp;a=search+engine+optimization\" target=\"_blank\" rel=\"nofollow\">search engine optimization</a>, paid advertising, web design and web development, is expanding its SEO services to help businesses across the Greater Toronto Area adapt to the growing role of artificial intelligence in online search.</p>\n<p>As consumers increasingly use AI-powered search tools and conversational platforms to research businesses, compare services and find local providers, companies need to think beyond traditional Google rankings alone.</p><p>All The Way Up Media is integrating AI search visibility into its existing SEO strategies, helping GTA businesses strengthen how their brands, services and expertise are understood across both traditional search engines and emerging AI-powered search experiences.</p><p>\"SEO is not disappearing. It is evolving,\" said All The Way Up Media. \"Businesses still need strong Google rankings, local search visibility and well-optimized websites, but they also need to prepare for the way people are beginning to search and make decisions using AI.\"</p><p>The agency's expanded approach includes technical SEO, content optimization, local SEO, Google Business Profile optimization, structured data, website authority development and strategies designed to strengthen brand visibility across emerging search platforms.</p><p>For businesses in competitive GTA markets, including legal services, healthcare, home improvement, professional services and technology, the changing search landscape creates both new challenges and new opportunities.</p><p>All The Way Up Media says its goal is to help local businesses build long-term digital visibility rather than rely on a single marketing channel.</p><p>Based in Toronto, All The Way Up Media works with businesses throughout the Greater Toronto Area and across Canada and the US, providing SEO, Google Ads, paid social advertising, website design and digital marketing strategy.</p><p>Businesses interested in improving their visibility across Google, local search and emerging AI search platforms can visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4770496-1&amp;h=594128574&amp;u=https%3A%2F%2Fallthewayupmedia.com%2F&amp;a=AllTheWayUpMedia.com\" target=\"_blank\" rel=\"nofollow\">AllTheWayUpMedia.com</a> or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4770496-1&amp;h=4156647166&amp;u=https%3A%2F%2Fallthewayupmedia.com%2Fcontact%2F&amp;a=contact+the+All+The+Way+Up+Media+team\" target=\"_blank\" rel=\"nofollow\">contact the All The Way Up Media team</a> to discuss their digital marketing goals.</p><p><b>About All The Way Up Media</b></p><p>All The Way Up Media is a Toronto digital marketing agency providing SEO, paid advertising, web design and web development services. The agency helps businesses improve online visibility, generate qualified leads and build sustainable digital growth.</p>\n\n\n\n<p>SOURCE All The Way Up Media</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C7249&amp;Transmission_Id=202609150917CANADANWCANADAPR_C7249&amp;DateId=20260915\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "All The Way Up Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 6,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing agency",
+            "summary:advertising",
+            "summary:marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-15T13:44:27.516Z"
+    },
     {
       "company": [
         "Amuze"
