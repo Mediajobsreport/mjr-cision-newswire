@@ -1,11 +1,86 @@
 {
-  "generated_at": "2026-09-15T11:54:35.043Z",
+  "generated_at": "2026-09-15T12:19:20.492Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 57,
+  "count": 58,
   "releases": [
+    {
+      "company": [
+        "Amuze"
+      ],
+      "date": "20260915T120000+0000",
+      "dateline": "AUSTIN, Texas, Sept. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "HRT",
+        "TRA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Amuze logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1613545/Amuze-Logo.jpg?id=OA2948333&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1613545/Amuze-Logo.jpg?id=OA2948333&p=publish"
+        }
+      ],
+      "release_id": "20260915DA47723",
+      "status": "PUBLISHED",
+      "subject": [
+        "TNM"
+      ],
+      "summary": "<p><i>Acquisition brings together local customer relationships, regional service expertise and national equipment and merchandise resources</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 15, 2026</span> /PRNewswire/ -- Amuze, a national amusement equipment and route-services platform, today announced the acquisition of the operations of Sweet Attractions, a California-based amusement operator serving family entertainment centers, restaurants, bars and other entertainment venues. The transaction also brings affiliated Paramount Amusement Group operations into Amuze. Financial terms were not disclosed.</p>\n    ",
+      "ticker": [],
+      "title": "Amuze Acquires Sweet Attractions, Strengthening California Operations and Family Entertainment Capabilities",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260915DA47723",
+      "body": "\n<p><i>Acquisition brings together local customer relationships, regional service expertise and national equipment and merchandise resources</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 15, 2026</span> /PRNewswire/ -- Amuze, a national amusement equipment and route-services platform, today announced the acquisition of the operations of Sweet Attractions, a California-based amusement operator serving family entertainment centers, restaurants, bars and other entertainment venues. The transaction also brings affiliated Paramount Amusement Group operations into Amuze. Financial terms were not disclosed.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1613545/Amuze-Logo.jpg?id=OA2948333\" title=\"Amuze logo\" alt=\"Amuze logo\"></img>\n                </p>\n    </div>\n<p>Sweet Attractions provides equipment installation, operation and ongoing service across arcade games, cranes, redemption attractions and photo booths. The business is growing throughout California and expanding into markets outside the state.</p><p>Amuze plans to build its coordinated California operations around a Fresno-based hub while maintaining local field-service coverage. Integration will prioritize customer and employee continuity, shared resources and support for Sweet Attractions' expansion.</p><p>Amuze's vertically integrated platform includes Pipeline Games, which designs and manufactures redemption, crane and merchandiser games, and Quality Plush, a supplier of licensed and generic plush merchandise. These businesses will provide Sweet Attractions with equipment, plush and merchandising support, helping venues deliver engaging entertainment experiences.</p><p>\"Sweet Attractions has always been about taking care of our customers and finding the right entertainment mix for each location,\" said Mark Knepper, President of Sweet Attractions. \"Joining Amuze gives us more equipment choices and deeper service support while preserving the relationships and personal attention our customers value.\"</p><p>\"Sweet Attractions is a strong fit with our broader California growth plans,\" said Stephen Lahti, co-CEO, Finance + M&amp;A. \"Mark and his team bring valuable customer relationships, hands-on operating knowledge and a commitment to service. Bringing those strengths together with Amuze's equipment, sourcing and regional support capabilities will help us serve customers more effectively and grow with them.\"</p><p>Knepper will continue working with the business, supporting customer relationships, the team's transition and continued growth.</p><p><b>About Amuze</b></p><p>Amuze combines venue-based entertainment operations with equipment development, sourcing and distribution.</p><p><b>About Sweet Attractions</b></p><p>Sweet Attractions installs, operates and services amusement equipment for family entertainment centers, restaurants, bars and other venues.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA47723&amp;sd=2026-09-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/amuze-acquires-sweet-attractions-strengthening-california-operations-and-family-entertainment-capabilities-302878500.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/amuze-acquires-sweet-attractions-strengthening-california-operations-and-family-entertainment-capabilities-302878500.html</a></p><p>SOURCE Amuze</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA47723&amp;Transmission_Id=202609150800PR_NEWS_USPR_____DA47723&amp;DateId=20260915\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Amuze",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-15T12:19:21.812Z"
+    },
     {
       "company": [
         "Orange Lion Sports"
