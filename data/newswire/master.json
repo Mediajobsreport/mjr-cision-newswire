@@ -1,9 +1,89 @@
 {
-  "generated_at": "2026-09-15T15:56:42.463Z",
+  "generated_at": "2026-09-15T16:18:06.340Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 233,
+  "count": 234,
   "releases": [
+    {
+      "company": [
+        "Sonilo"
+      ],
+      "date": "20260915T160000+0000",
+      "dateline": "SILICON VALLEY, Calif., Sept. 15, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "MUS",
+        "ENT",
+        "AFI",
+        "ART"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260915CN48013",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS"
+      ],
+      "summary": "<p><b>The Silicon Valley company showcases its music and sound-effects models in a completed cinematic soundtrack, marking a milestone in its expansion into professional filmmaking.</b></p><p><span class=\"legendSpanClass\">SILICON VALLEY, Calif.</span>, <span class=\"legendSpanClass\">Sept. 15, 2026</span> /PRNewswire/ -- Sonilo, a U.S. company developing multimodal audio AI, brought its AI music and sound effects to the 2026 Venice International Film Festival. The company's technology contributed to the soundtrack of the <i>PRIMORDIA</i> trailer, which premiered during the opening program of an industry forum organized by TapNow at Venice Production Bridge. The presentation placed Sonilo's audio technology in front of an international film-industry audience through a finished cinematic work.</p>\n    ",
+      "ticker": [],
+      "title": "Sonilo Takes AI Music to the World Stage at the Venice Film Festival",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260915CN48013",
+      "body": "\n<p><b>The Silicon Valley company showcases its music and sound-effects models in a completed cinematic soundtrack, marking a milestone in its expansion into professional filmmaking.</b></p><p><span class=\"legendSpanClass\">SILICON VALLEY, Calif.</span>, <span class=\"legendSpanClass\">Sept. 15, 2026</span> /PRNewswire/ -- Sonilo, a U.S. company developing multimodal audio AI, brought its AI music and sound effects to the 2026 Venice International Film Festival. The company's technology contributed to the soundtrack of the <i>PRIMORDIA</i> trailer, which premiered during the opening program of an industry forum organized by TapNow at Venice Production Bridge. The presentation placed Sonilo's audio technology in front of an international film-industry audience through a finished cinematic work.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1988475/20260915012840EDT_image_2.jpg?id=OA2948977\" title=\"Shawn Song, CEO of Sonilo, speaks during an industry forum at the 83rd Venice International Film Festival, where Sonilo presented its AI-powered music and sound-effects technology through a completed cinematic soundtrack.\" alt=\"Shawn Song, CEO of Sonilo, speaks during an industry forum at the 83rd Venice International Film Festival, where Sonilo presented its AI-powered music and sound-effects technology through a completed cinematic soundtrack.\"></img>\n                </p>\n    </div>\n<p>For Sonilo, the showcase represents a significant step into professional cinema. Its technology contributed to the musical identities, emotional progression and physical world of a production presented at Venice, demonstrating how AI-powered music and sound effects can move beyond standalone generation into the demands of cinematic storytelling.</p><p>The significance extends beyond visibility. A completed soundtrack gives filmmakers and production partners a tangible basis for evaluating the technology: how it works with the picture, supports the narrative and contributes to the experience audiences ultimately see and hear.</p><p>\"Bringing Sonilo's AI-powered music to Venice is a milestone in our push into professional filmmaking,\" said <b>Trista Hong, Chief Marketing Officer of Sonilo</b>. \"Cinema demands more than an impressive track or a realistic sound. It demands emotion, timing and a world the audience can believe in. We are building audio technology powerful enough to support ambitious productions and intelligent enough to serve the story.\"</p><p><b>Technology That Understands What the Story Needs</b></p><p>Sonilo is developing its <b>Sound World Model</b>, a multimodal AI system designed to connect video understanding, audio generation and temporal alignment. Rather than treating music and sound effects as isolated assets, the company is building technology that understands visual stories and generates audio in relation to the action, environment and narrative.</p><p>The production presented at Venice illustrated that approach across both music and sound effects.</p><p>For the score, Sonilo helped the production team explore contrasting instrumental textures within a character-driven musical framework. The finished soundtrack progressed from restrained elements beneath dialogue to deeper bass and additional layers as conflict approached. Rhythm and intensity increased with the action, culminating in a combination of synthesizers, orchestral elements and percussion. The result demonstrated how generated material can be developed into music with narrative structure, rather than simply placed beneath a sequence of images.</p><p>For sound effects, Sonilo analyzed scene content, movement, materials and narrative context before generating audio. Sound creators then reviewed and refined the results, corrected mismatches and added further creative direction. This scene-aware approach connects generation to a central requirement of filmmaking: sounds must belong to the world on screen, not merely sound convincing on their own.</p><p>\"Film music is not everywhere in the film,\" said <b>Shawn Song, CEO of Sonilo</b>. \"The model has to know when to start, when to stop, and when to leave room for the dialogue.\"</p><p>That is the technical ambition behind Sonilo's approach: audio generation that responds to what a scene means, not only what it contains.</p><p><b>Turning Generation Speed Into Creative Capability</b></p><p>The production also demonstrated how Sonilo's performance can expand creative exploration. According to the workflow presented at Venice, Sonilo reduced <b>one initial music-exploration stage from approximately 10 hours to around 20 seconds</b>. The comparison applies to that specific exploration stage, not to completion of the entire soundtrack.</p><p>The team used Sonilo to generate multiple musical and sound-effect directions, evaluate their emotional and narrative fit, and develop the strongest material through selection, combination, editing and professional post-production. This gave the project's composer and creative team a broader range of material to work with while preserving the decisions that shaped the final soundtrack.</p><p>For Sonilo, the opportunity is larger than making an existing task faster. The company aims to put more creative possibilities within reach: more musical directions to test, more sound palettes to explore and more opportunities to discover an approach that strengthens the film. Generation speed becomes valuable when it expands what a production can attempt and accomplish.</p><p><b>Building a Lasting Place for AI-Powered Music in Cinema</b></p><p>Sonilo's approach pairs technical ambition with respect for intellectual property and creative labor. \"We respect knowledge, we respect IP, we respect effort. It should be common sense,\" Song said during the forum.</p><p>The company sees responsible development and professional collaboration as essential to building a lasting place in the film industry. Its goal is to advance audio technology that fits the realities of production, supports demanding creative work and develops alongside the filmmakers, composers and sound professionals who use it.</p><p>The Venice presentation offers a concrete example of that direction: Sonilo's generation capabilities working within a production process that combined composition, sound design and post-production to deliver a finished soundtrack.</p><p>For Sonilo, this is a foundation for a broader ambition: to make AI music and sound effects a meaningful part of professional filmmaking, with the capability to support increasingly ambitious stories. Its presence at Venice marks a step toward that future, demonstrated through the work itself.</p><p><b>About Sonilo</b></p><p>Sonilo is a Silicon Valley-based U.S. company developing multimodal audio AI for visual storytelling. The company is building the Sound World Model, designed to connect video understanding, music and sound-effects generation, and temporal alignment. Its technology supports filmmakers, creators and creative platforms across film, video, gaming and generative media.</p><p><b>About 10000 Parallel Universes</b></p><p>10000 Parallel Universes is TapNow's long-term international AI-native IP incubation initiative, designed to connect emerging creators with creative development, production support, international collaboration and distribution opportunities.</p><p>The initiative aims to explore how technology can amplify culturally diverse voices, expand access to filmmaking and help meaningful stories reach international audiences.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1988476/20260915012840EDT_image_1.jpg?id=OA2948978\" title=\"Sonilo at the 83rd Venice International Film Festival in Venice, Italy. The company showcased its AI-powered music and sound-effects technology as part of its expansion into professional filmmaking.\" alt=\"Sonilo at the 83rd Venice International Film Festival in Venice, Italy. The company showcased its AI-powered music and sound-effects technology as part of its expansion into professional filmmaking.\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN48013&amp;sd=2026-09-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/sonilo-takes-ai-music-to-the-world-stage-at-the-venice-film-festival-302878586.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/sonilo-takes-ai-music-to-the-world-stage-at-the-venice-film-festival-302878586.html</a></p><p>SOURCE Sonilo</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN48013&amp;Transmission_Id=202609151200PR_NEWS_USPR_____CN48013&amp;DateId=20260915\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Sonilo",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 1,
+          "entertainment": 15,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "engineering": [
+            "summary:audio technology"
+          ],
+          "entertainment": [
+            "film festival",
+            "film",
+            "music",
+            "industry:ENT",
+            "industry:FLM",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-15T16:18:07.325Z"
+    },
     {
       "company": [
         "RM11.com"
