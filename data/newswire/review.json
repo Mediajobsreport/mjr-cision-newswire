@@ -1,11 +1,91 @@
 {
-  "generated_at": "2026-09-15T02:22:00.892Z",
+  "generated_at": "2026-09-15T02:44:53.516Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 56,
+  "count": 57,
   "releases": [
+    {
+      "company": [
+        "Orange Lion Sports"
+      ],
+      "date": "20260915T022800+0000",
+      "dateline": "BEIJING, Sept. 14, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CHN",
+        "ASA"
+      ],
+      "industry": [
+        "AFI",
+        "BRD",
+        "SPE",
+        "SPT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1988358/20260914210239EDT_image_1.jpg?id=OA2948603&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1988358/20260914210239EDT_image_1.jpg?id=OA2948603&p=publish"
+        }
+      ],
+      "release_id": "20260914CN47848",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Sept. 14, 2026</span> /PRNewswire/ -- Orange Lion Sports, founded by Alibaba Group, has unveiled Smartshot 2.0, the upgraded version of its AI sports solution, at the Sports Services exhibition during the 2026 China International Fair for Trade in Services (CIFTIS), held September 9-13 in Beijing.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1988358/20260914210239EDT_image_1.jpg?id=OA2948603\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>From six-camera Hawk-Eye electronic line calling and AI-powered auto-directing to the debut of a voice-interactive smart ball machine, the company is advancing a cost-effective approach to inclusive sports technology, bridging the gap between professional competition and mass participation to \"make sports simple.\"</p>",
+      "ticker": [],
+      "title": "Electronic Line Calling and AI Broadcasting Make CIFTIS Debut: Orange Lion Sports' Smartshot 2.0 Presents an Inclusive \"Sports + AI\" Solution",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260914CN47848",
+      "body": "\n<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Sept. 14, 2026</span> /PRNewswire/ -- Orange Lion Sports, founded by Alibaba Group, has unveiled Smartshot 2.0, the upgraded version of its AI sports solution, at the Sports Services exhibition during the 2026 China International Fair for Trade in Services (CIFTIS), held September 9-13 in Beijing.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1988358/20260914210239EDT_image_1.jpg?id=OA2948603\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>From six-camera Hawk-Eye electronic line calling and AI-powered auto-directing to the debut of a voice-interactive smart ball machine, the company is advancing a cost-effective approach to inclusive sports technology, bridging the gap between professional competition and mass participation to \"make sports simple.\"</p><p>At CIFTIS 2026, Orange Lion Sports' replica tennis court became a focal point. Smartshot 2.0 introduced an upgraded electronic line calling system designed to address long-standing disputes over line calls at amateur tennis events. As soon as the ball lands, a large screen provides instant in/out calls and can announce \"IN/OUT\" at adjustable volumes. The system supports smoother, fairer amateur competitions at a low marginal cost without requiring additional labor.</p><p>AI commentary and auto-directing cut broadcasting costs of up to hundreds of thousands of yuan, making high-quality broadcasts more accessible. AI-powered robots are becoming a valuable complement to traditional sports coaching.</p><p>In Orange Lion Sports' roadmap, Smartshot will work with the smart ball machine to interact with trainees through natural language, instantly adjusting ball settings, placement and speed to create personalized training programs and help beginners improve more efficiently.</p><p>Leveraging Alibaba's technology capabilities, Smartshot has integrated the Tongyi Qwen large language model to launch what it describes as the industry's first \"AI Tournament Assistant\" in the first half of 2026. The assistant understands natural-language instructions and parses PDF regulations, enabling scheduling and registration to be completed in minutes. Smartshot now offers pricing at one-tenth that of comparable offerings.</p><p>\"Our goal is to find the optimal balance between precision and cost control, consistent with our long-standing technical philosophy. We reject expensive professional premiums and pursue cost-effective, inclusive technology,\" said Peng Wei, CTO of Orange Lion Sports.</p><p>Since its launch, Smartshot has been deployed across more than 500 courts and expanded into overseas markets, with installations in Europe, Australia, <span id=\"spanHghlt1685\">Hong Kong SAR, and Taiwan region</span>. Looking ahead, as AI advances in sports, Orange Lion Sports' approach to balancing commercial value with accessibility aims to make professional-grade smart equipment more affordable and accessible worldwide.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN47848&amp;sd=2026-09-14\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/electronic-line-calling-and-ai-broadcasting-make-ciftis-debut-orange-lion-sports-smartshot-2-0-presents-an-inclusive-sports--ai-solution-302878301.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/electronic-line-calling-and-ai-broadcasting-make-ciftis-debut-orange-lion-sports-smartshot-2-0-presents-an-inclusive-sports--ai-solution-302878301.html</a></p><p>SOURCE Orange Lion Sports</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN47848&amp;Transmission_Id=202609142228PR_NEWS_USPR_____CN47848&amp;DateId=20260914\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Orange Lion Sports",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 2,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "engineering": [
+            "industry:BRD"
+          ],
+          "radio": [
+            "broadcasting"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-15T02:44:54.533Z"
+    },
     {
       "company": [
         "Green Builder Media, LLC"
