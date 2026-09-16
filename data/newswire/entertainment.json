@@ -1,11 +1,87 @@
 {
-  "generated_at": "2026-09-16T09:57:10.037Z",
+  "generated_at": "2026-09-16T10:19:12.724Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 87,
+  "count": 88,
   "releases": [
+    {
+      "company": [
+        "Cook County Treasurer's Office"
+      ],
+      "date": "20260916T100000+0000",
+      "dateline": "CHICAGO, Sept. 16, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "MEX",
+        "NAM",
+        "ILL",
+        "UMW",
+        "USA"
+      ],
+      "industry": [
+        "MUS",
+        "ART",
+        "ENT",
+        "HOU",
+        "USN"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260916DC48560",
+      "status": "PUBLISHED",
+      "subject": [
+        "HSP",
+        "DEI"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- The Cook County Treasurer will commemorate Mexico's Independence on Wednesday with a <b>noontime</b> reception honoring the cultural contributions of Mexican Americans to Cook County.</p>\n<p>The reception will take place in the Treasurer's Office at 118 N. Clark Street, Room 112, on the first floor of the County Building. The public is invited. The event will feature<b> Morton High School's Mariachi Band </b>and will celebrate the vibrant culture and enduring traditions of Cook County's Mexican diaspora through music and song<b>.</b></p>",
+      "ticker": [],
+      "title": "Cook County Treasurer to Host Mexican Independence Day Reception featuring live Mariachi Music and Dancing",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260916DC48560",
+      "body": "\n<p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- The Cook County Treasurer will commemorate Mexico's Independence on Wednesday with a <b>noontime</b> reception honoring the cultural contributions of Mexican Americans to Cook County.</p>\n<p>The reception will take place in the Treasurer's Office at 118 N. Clark Street, Room 112, on the first floor of the County Building. The public is invited. The event will feature<b> Morton High School's Mariachi Band </b>and will celebrate the vibrant culture and enduring traditions of Cook County's Mexican diaspora through music and song<b>.</b></p><p>\"Mexican Independence Day is an opportunity to celebrate the history, culture and achievements of Mexican Americans who've enriched Cook County through their hard work, entrepreneurship, civic engagement and commitment to family and community,\" said the Treasurer. \"Our county is strengthened by the diversity of its residents, and we're proud to recognize the more than <b>one million people of Mexican heritage </b>who call Chicagoland home by celebrating their contributions to the social, cultural and economic life of Cook County.\"</p><p>Observed annually on September 16, Mexico's Independence Day commemorates the beginning of country's struggle to free itself from Spanish colonial rule in 1810. The event known as the <b>Grito de Dolores or the Cry of Dolores</b> is named for the town where that first revolutionary spark ignited 116 years ago. That first \"Cry\" resulted in 11 more years of struggle before the Spanish were ultimately defeated in September of 1821. The observance honors Mexico's enduring commitment to freedom, democracy and national pride while celebrating the traditions and accomplishments of Mexicans both at home and abroad.</p><p>The reception will provide an opportunity to honor local community leaders by presenting them with <b>Certificates of Excellence.</b> </p><p><b>Honorees: </b>Andres Cervantes, Morton High School music director; Kevin Vesper, Morton High School fine arts and social director; Nazario Perez, La Cremeria la Ordena president; Mario Contreras, Medieval Times horse director and trainer; Adriana Rodriguez, vice president Necalli Cultural Movement; Gabriela Flores, co-founder, Necalli Cultural Movement; Amelia Gradilla, co-founder, Necalli Cultural Movement; Adriana Rangel, co-founder, Necalli Cultural Movement; Jacqueline Villanueva, co-founder, Necalli Cultural Movement</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC48560&amp;sd=2026-09-16\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/cook-county-treasurer-to-host-mexican-independence-day-reception-featuring-live-mariachi-music-and-dancing-302879671.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/cook-county-treasurer-to-host-mexican-independence-day-reception-featuring-live-mariachi-music-and-dancing-302879671.html</a></p><p>SOURCE Cook County Treasurer's Office</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC48560&amp;Transmission_Id=202609160600PR_NEWS_USPR_____DC48560&amp;DateId=20260916\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Cook County Treasurer's Office",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-16T10:19:13.951Z"
+    },
     {
       "company": [
         "BagelUp"
