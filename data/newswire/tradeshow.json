@@ -1,11 +1,96 @@
 {
-  "generated_at": "2026-09-16T14:00:05.340Z",
+  "generated_at": "2026-09-16T14:21:20.644Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "tradeshow",
   "page_url": "https://www.mediajobsreport.com/tradeshow_news",
-  "count": 12,
+  "count": 13,
   "releases": [
+    {
+      "company": [
+        "SDMC"
+      ],
+      "date": "20260916T140900+0000",
+      "dateline": "AMSTERDAM, Sept. 16, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NEH",
+        "WEU",
+        "EUR",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HRD",
+        "IOT",
+        "AFI",
+        "CSE",
+        "NET",
+        "HMI",
+        "HOU",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "SDMC showcases AI Home innovations at IBC 2026, spanning Physical AI, Cloud-Edge intelligence, and AI-powered operator services.  ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1989688/20260916061258EDT_image_1.jpg?id=OA2952390&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1989688/20260916061258EDT_image_1.jpg?id=OA2952390&p=publish"
+        }
+      ],
+      "release_id": "20260916CN49427",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS",
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">AMSTERDAM</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- At IBC 2026, SDMC (00901.HK), a <b>Global Leading Provider of AI Home Solutions</b>, showcased a deployable AI Home architecture powered by cloud-edge intelligence, Edge AI, and emerging Physical AI capabilities. The showcase followed SDMC's selection for <b>Google Cloud's Proactive Physical AI Acceleration Program</b>, highlighting continued collaboration to advance AI Home innovation and real-world service deployment.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder3538\"><p><img src=\"https://mmx.prnewswire.com/media/MS1989688/20260916061258EDT_image_1.jpg?id=OA2952390\" title=\"SDMC showcases AI Home innovations at IBC 2026, spanning Physical AI, Cloud-Edge intelligence, and AI-powered operator services.  \" alt=\"SDMC showcases AI Home innovations at IBC 2026, spanning Physical AI, Cloud-Edge intelligence, and AI-powered operator services.  \"></img></p></div><p><b>Advancing Physical AI with Google Cloud</b></p><p>Through the program, SDMC is working with Google Cloud across <b>technology co-creation, scenario validation, and service pilots</b>, combining Google Cloud's AI capabilities with SDMC's experience in home devices, edge computing, and operator delivery.</p>",
+      "ticker": [
+        "HongKong:0901"
+      ],
+      "title": "SDMC Showcases Deployable AI Home Services at IBC 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260916CN49427",
+      "body": "\n<p><span class=\"legendSpanClass\">AMSTERDAM</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- At IBC 2026, SDMC (00901.HK), a <b>Global Leading Provider of AI Home Solutions</b>, showcased a deployable AI Home architecture powered by cloud-edge intelligence, Edge AI, and emerging Physical AI capabilities. The showcase followed SDMC's selection for <b>Google Cloud's Proactive Physical AI Acceleration Program</b>, highlighting continued collaboration to advance AI Home innovation and real-world service deployment.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder3538\"><p><img src=\"https://mmx.prnewswire.com/media/MS1989688/20260916061258EDT_image_1.jpg?id=OA2952390\" title=\"SDMC showcases AI Home innovations at IBC 2026, spanning Physical AI, Cloud-Edge intelligence, and AI-powered operator services.  \" alt=\"SDMC showcases AI Home innovations at IBC 2026, spanning Physical AI, Cloud-Edge intelligence, and AI-powered operator services.  \"></img></p></div><p><b>Advancing Physical AI with Google Cloud</b></p><p>Through the program, SDMC is working with Google Cloud across <b>technology co-creation, scenario validation, and service pilots</b>, combining Google Cloud's AI capabilities with SDMC's experience in home devices, edge computing, and operator delivery.</p><p>The collaboration supports the development of more proactive AI Home services across entertainment, security, and other emerging home scenarios.</p><p><b>Cloud-Edge Intelligence: From Understanding to Action</b></p><p>At the core of SDMC's AI Home architecture are Cedar and AI Station, combining multimodal intelligence with shared edge compute to enable more responsive, private, and scalable AI Home services.</p><p>SDMC demonstrated Cedar through an interactive AI Home experience combinin<span id=\"spanHghltcfce\">g </span><b><span id=\"spanHghlt70be\">C</span>edar multimodal AI model</b> and <b>Cedar Agent</b>. Built on <b>Google's Gemma</b> open model, Cedar supports multimodal context understanding and reasoning at the edge, while Cedar Agent coordinates actions across devices and services. <b>Gemini</b> complements edge intelligence in the cloud when broader reasoning is needed.</p><p><b>AI Station</b> provides shared edge compute for Cedar and broader AI Home workloads, serving operators, small businesses, and premium households. Powered by <b>NVIDIA Jetson T5000</b>, it allows multiple AI applications to share computing resources, reducing the need for dedicated high-performance hardware in every endpoint while keeping latency- and privacy-sensitive workloads within the home.</p><p><b>Extending AI Across Home Experiences and Operations</b></p><p>SDMC demonstrated how AI can extend across interaction, entertainment, connectivity, and operations. Together with <b>Amlogic</b>, SDMC brought Edge AI to <b>AI Home Display</b> and <b>AI Streaming Box</b>, while the <b>Google TV 4K Projector</b> extended entertainment to immersive large-screen viewing.</p><p>For home networks and devices, <b>AI Operation</b> supports faster diagnosis, proactive optimization, and more autonomous O&amp;M, while <b>AI Fiber Gateway</b> combines advanced connectivity with AI capabilities to improve network performance and operational efficiency.</p><p><b>Turning AI Home Innovation into Deployable Services</b></p><p>Beyond the demonstrations, discussions at IBC also addressed how operators can introduce AI services across existing home devices and platforms while balancing deployment complexity, responsiveness, and privacy. These discussions will help inform the next stage of customer validation, product configuration, and service pilots.</p><p>By combining cloud intelligence, shared edge compute, and existing home ecosystems, SDMC helps operators <b>scale AI Home services without requiring dedicated AI hardware at every endpoint</b>, supporting differentiated home experiences, more efficient operations, and continuous service innovation.</p><p><b>Bringing Physical AI into the Home</b></p><p>Beyond current AI Home deployments, SDMC continues to explore how Physical AI can extend intelligence from digital understanding to real-world action—from connected home control and autonomous cleaning to emerging scenarios involving robotic manipulations.</p><p><b>Looking ahead</b>, SDMC <span id=\"spanHghlt69c7\">continues</span> advancing AI Home innovation and ecosystem collaboration to create practical value for operators and households.</p><p><span id=\"spanHghlt5e0b\">Read full</span> IBC 2026 recap<span id=\"spanHghlt08ab\"> on SDMC </span>official website: <a href=\"https://en.sdmctech.com/news/exhibition-news_2061.html\" target=\"_blank\" rel=\"nofollow\">https://en.sdmctech.com/news/exhibition-news_2061.html</a></p><p><span id=\"spanHghlt0721\">SDMC Technology</span><br></br>Communications<br></br>Email: <a href=\"mailto:info@sdmctech.com\" target=\"_blank\" rel=\"nofollow\">info@sdmctech.com</a> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN49427&amp;sd=2026-09-16\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/sdmc-showcases-deployable-ai-home-services-at-ibc-2026-302880739.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/sdmc-showcases-deployable-ai-home-services-at-ibc-2026-302880739.html</a></p><p>SOURCE SDMC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN49427&amp;Transmission_Id=202609161009PR_NEWS_USPR_____CN49427&amp;DateId=20260916\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "SDMC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-16T14:21:22.117Z"
+    },
     {
       "company": [
         "SIRUI"
