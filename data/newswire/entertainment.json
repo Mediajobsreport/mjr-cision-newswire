@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-09-16T11:56:55.726Z",
+  "generated_at": "2026-09-16T12:23:12.227Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 89,
+  "count": 90,
   "releases": [
+    {
+      "company": [
+        "Real America's Music"
+      ],
+      "date": "20260916T120300+0000",
+      "dateline": "WEST PALM BEACH, Fla., Sept. 16, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "FLM",
+        "RAD"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260916PH49100",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">WEST PALM BEACH, Fla.</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- Award-winning singer-songwriter Natasha Owens' tribute single \"We Miss You, Charlie,\" featuring Benjy Gaither, is projected to appear on Billboard's charts for a second consecutive week, capping a remarkable run for an independent release that climbed to <b>#3 on the iTunes Pop Songs Chart</b> and <b>#13 on the iTunes All Genres Songs Chart</b>, with the official music video surpassing 250,000 views.</p>\n<p>Released September 4, 2026, through Real America's Music — a sister company of Real America's Voice — the single arrived just days before the one-year anniversary of Charlie Kirk's passing on September 10. Rather than dwell solely on loss, the song looks ahead to those Charlie inspired and to the generation now challenged to carry his legacy forward.</p>",
+      "ticker": [],
+      "title": "Natasha Owens' \"We Miss You, Charlie\" Set to Chart on Billboard for Second Consecutive Week",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260916PH49100",
+      "body": "\n<p><span class=\"legendSpanClass\">WEST PALM BEACH, Fla.</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- Award-winning singer-songwriter Natasha Owens' tribute single \"We Miss You, Charlie,\" featuring Benjy Gaither, is projected to appear on Billboard's charts for a second consecutive week, capping a remarkable run for an independent release that climbed to <b>#3 on the iTunes Pop Songs Chart</b> and <b>#13 on the iTunes All Genres Songs Chart</b>, with the official music video surpassing 250,000 views.</p>\n<p>Released September 4, 2026, through Real America's Music — a sister company of Real America's Voice — the single arrived just days before the one-year anniversary of Charlie Kirk's passing on September 10. Rather than dwell solely on loss, the song looks ahead to those Charlie inspired and to the generation now challenged to carry his legacy forward.</p><p>\"This isn't just about looking back and mourning someone we lost. It's about asking what we do with what Charlie left us,\" said Owens. \"His voice inspired an entire generation to stand up for what they believe. Now that generation has a responsibility to carry that torch forward.\"</p><p><b>One hundred percent of net profits</b> from the project will be donated to TPUSA and TP Action, supporting the next generation of student leaders and grassroots organizing. Vinyl editions are available now through the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775391-1&amp;h=1439784904&amp;u=https%3A%2F%2Frealamericasvoice.myshopify.com%2F&amp;a=Real+America%27s+Voice+Shop\" target=\"_blank\" rel=\"nofollow\">Real America's Voice Shop</a>.</p><p>\"We Miss You, Charlie\" also reflects the continued growth of Real America's Music, which earlier this year saw Steve Gruber and the Freedom Project's \"One Nation\" debut at #6 on Billboard's digital song sales chart.</p><p>\"Charlie built a movement that continues to inspire people to stand boldly for their beliefs, and that legacy is exactly what Real America's Music was created to amplify,\" said LJ Fino, President at Real America's Music. \"As Real America's Music continues to grow, our mission is to give a platform to artists and songs that carry that same courage, conviction, and love of country forward.\"</p><p>The single is available now on iTunes/Apple Music, Spotify, YouTube Music, and all major platforms.</p><p>Real America's Music, a sister company of Real America's Voice, is the home for bold, independent artists who refuse to follow the rules of today's mainstream entertainment industry.</p><p><i>Real America's Music artists can be heard on iTunes/Apple Music, YouTube Music, Spotify, and other music-listening applications and platforms.</i></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH49100&amp;sd=2026-09-16\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/natasha-owens-we-miss-you-charlie-set-to-chart-on-billboard-for-second-consecutive-week-302879915.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/natasha-owens-we-miss-you-charlie-set-to-chart-on-billboard-for-second-consecutive-week-302879915.html</a></p><p>SOURCE Real America's Music</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH49100&amp;Transmission_Id=202609160803PR_NEWS_USPR_____PH49100&amp;DateId=20260916\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Real America's Music",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:FLM",
+            "industry:MUS"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-16T12:23:13.429Z"
+    },
     {
       "company": [
         "BACARDÍ® Rum"
