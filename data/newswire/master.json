@@ -1,9 +1,85 @@
 {
-  "generated_at": "2026-09-17T09:56:58.130Z",
+  "generated_at": "2026-09-17T10:18:12.170Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 263,
+  "count": 264,
   "releases": [
+    {
+      "company": [
+        "Kapwork"
+      ],
+      "date": "20260917T100400+0000",
+      "dateline": "LOS ALTOS, Calif., Sept. 17, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "NET",
+        "TLS",
+        "DTA",
+        "STW",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Kapwork logo. ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1988412/kapwork-logo.jpg?id=OA2953230&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1988412/kapwork-logo.jpg?id=OA2953230&p=publish"
+        }
+      ],
+      "release_id": "20260917SF49659",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "SBS"
+      ],
+      "summary": "<p><i><b>Free data from 80 plus federal agencies shows where the work is; free invoice certification helps the businesses doing it get funded faster. Data center fit-out and federal contract award trackers come next.</b></i></p><p><span class=\"legendSpanClass\">LOS ALTOS, Calif.</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=3544620731&amp;u=https%3A%2F%2Fkapwork.com%2Ftelecom%3Futm_source%3Dinside-towers%26utm_medium%3Demail%26utm_campaign%3D2026q3-telecom-rollout%26utm_content%3Deblast-footer&amp;a=Kapwork\" target=\"_blank\" rel=\"nofollow\">Kapwork</a> today introduced Kapwork Growth Suite, a free platform that helps small businesses find relevant infrastructure work and access capital to grow. The suite brings together data from 80 plus federal departments and agencies. It sits alongside Kapwork's free invoice certification, which verifies money a business is owed so it can be matched with credit providers and funded faster. Any US business can join today at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=3339230875&amp;u=https%3A%2F%2Fkapwork.com%2Fgrow%3Futm_source%3Dprnewswire%26utm_medium%3Dpress%2520release%26utm_campaign%3D2026q3-telecom-rollout%26utm_term%3Dtower&amp;a=kapwork.com%2Fgrow\" target=\"_blank\" rel=\"nofollow\">kapwork.com/grow</a>.</p>\n    ",
+      "ticker": [],
+      "title": "Kapwork Launches Free $42.45 Billion BEAD Tracker and Invoice Certification for Contractors",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260917SF49659",
+      "body": "\n<p><i><b>Free data from 80 plus federal agencies shows where the work is; free invoice certification helps the businesses doing it get funded faster. Data center fit-out and federal contract award trackers come next.</b></i></p><p><span class=\"legendSpanClass\">LOS ALTOS, Calif.</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=3544620731&amp;u=https%3A%2F%2Fkapwork.com%2Ftelecom%3Futm_source%3Dinside-towers%26utm_medium%3Demail%26utm_campaign%3D2026q3-telecom-rollout%26utm_content%3Deblast-footer&amp;a=Kapwork\" target=\"_blank\" rel=\"nofollow\">Kapwork</a> today introduced Kapwork Growth Suite, a free platform that helps small businesses find relevant infrastructure work and access capital to grow. The suite brings together data from 80 plus federal departments and agencies. It sits alongside Kapwork's free invoice certification, which verifies money a business is owed so it can be matched with credit providers and funded faster. Any US business can join today at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=3339230875&amp;u=https%3A%2F%2Fkapwork.com%2Fgrow%3Futm_source%3Dprnewswire%26utm_medium%3Dpress%2520release%26utm_campaign%3D2026q3-telecom-rollout%26utm_term%3Dtower&amp;a=kapwork.com%2Fgrow\" target=\"_blank\" rel=\"nofollow\">kapwork.com/grow</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1988412/kapwork-logo.jpg?id=OA2953230\" title=\"Kapwork logo. \" alt=\"Kapwork logo. \"></img>\n                </p>\n    </div>\n<p>The AI buildout needs more than GPUs, it needs the businesses that build America's network: fiber connections, electrical systems, cooling and the contractors who install them. Alongside private investment in AI infrastructure, federal funding is expanding broadband networks. For telecom providers, fiber crews and specialist contractors, the challenge is knowing which projects to pursue, and how to pay for growth.</p><p><b><u>See where infrastructure money is going</u></b></p><p>The suite is built around the questions a business owner needs answered. It launches with the BEAD tracker; two more trackers follow:</p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=1880918136&amp;u=https%3A%2F%2Fkapwork.com%2Fgrow%23tracker%3Futm_source%3Dprnewswire%26utm_medium%3Dpress-release%26utm_campaign%3D2026q3-telecom-rollout%26utm_content%3Dbody-cta%26utm_term%3Dtower&amp;a=BEAD+Awards\" target=\"_blank\" rel=\"nofollow\">BEAD Awards</a> — Who received funding to build broadband? The Broadband Equity, Access, and Deployment program is a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=2170423032&amp;u=https%3A%2F%2Fwww.ntia.gov%2Ffunding-programs%2Fhigh-speed-internet-programs%2Fbroadband-equity-access-and-deployment-bead-program&amp;a=%2442.45+billion+federal+initiative\" target=\"_blank\" rel=\"nofollow\">$42.45 billion federal initiative</a> to expand high-speed internet access. Kapwork's live tracker helps businesses research award recipients. A fiber contractor can use that information to decide which operators to approach before committing a crew.</li><li>Data Center Fit-Outs — Which projects are moving beyond an announcement? Coming next: a tracker that organizes fit-outs by location, operator, and reported stage: proposed, under construction, operating, cancelled, or suspended.</li><li>Federal Contract Awards — Which prime contractors are winning work? Also coming: a tool that will organize more than 50 million federal award actions to help small businesses find federal work.</li></ul><p>Kapwork's BEAD tracker covers $11.46 billion in announced awards as of September 16 and adds new awards as states announce them.</p><p><i>\"The businesses that build America's network have a cashflow problem. Unless we solve it, we can't build at the speed the country needs to stay competitive,\"</i> said Mauricio Vergara, co-founder and CEO at Kapwork. <i>\"Our goal is to help small businesses grow by providing free tools to understand where the market is going, see who's getting the work, and access working capital.\"</i></p><p><b><u>Turn unpaid invoices into growth capital</u></b></p><p>A new job can create costs before it generates cash. Contractors need to pay crews and buy materials while invoices for earlier work remain unpaid. Kapwork certifies those receivables and helps the business get funded faster, at better rates.</p><p>Once a business sends out an invoice, by email or through a vendor portal, Kapwork proves the invoice exists with the customer who owes it. Kapwork's AI agents verify invoice amounts, approval status and payment terms at the debtor's source turning self pledged paper into certified receivables that a credit provider can evaluate.</p><p><i>\"\"Fabricating invoices is the <span>fraud</span> risk everyone in this space is watching for right now. Pulling from the debtor's own portal cuts that off at the source. Kapwork's certified data gives us the confidence to deploy capital faster and price deals without carrying that doubt in the rate.\" </i>said Saul Gewer, Chief Strategy Officer, TowerCap. </p><p>Kapwork then matches the business with participating capital providers, including banks, factoring companies and private credit funds that prefer issuing credit against certified invoices. The business reviews available offers and decides whether to accept. The Growth Suite, Invoice Certification and credit matching are free for businesses.</p><p><i>\"In Brazil we processed more than US$1 trillion in receivables. As a result, credit supply to SME's more than tripled, with an average cost of credit 75 percent lower than the cost observed before we began operations. Once an invoice is verified, it can't be pledged twice, so funders trust what they're financing, and credit reaches companies that never had it before,\"</i> said Marcelo Maziero, co-founder of CERC, the Brazilian financial market infrastructure and an investor in Kapwork.</p><p>Businesses can join and explore Kapwork Growth Suite today at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=3339230875&amp;u=https%3A%2F%2Fkapwork.com%2Fgrow%3Futm_source%3Dprnewswire%26utm_medium%3Dpress%2520release%26utm_campaign%3D2026q3-telecom-rollout%26utm_term%3Dtower&amp;a=kapwork.com%2Fgrow\" target=\"_blank\" rel=\"nofollow\">kapwork.com/grow</a>.</p><p><b><u>About Kapwork</u></b></p><p>Kapwork is an AI-native platform helping small businesses find growth opportunities, certify receivables and get matched with capital providers. The company has certified over half a billion dollars in receivables, most of that coming from telecom and datacenter providers. Backed by SaaSholic, Kapwork is also a member of NVIDIA's Inception, a program supporting innovative AI startups.</p><p>Kapwork was founded by Pete Thomas and Mauricio Vergara. Thomas helped build C2FO, the working capital platform with half a trillion dollars in receivables flowing through it. Vergara, CEO, saw how \"third party\" developers at Google struggled with cashflow. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775948-1&amp;h=1091334493&amp;u=https%3A%2F%2Fkapwork.com%2F&amp;a=kapwork.com\" target=\"_blank\" rel=\"nofollow\">kapwork.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF49659&amp;sd=2026-09-17\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/kapwork-launches-free-42-45-billion-bead-tracker-and-invoice-certification-for-contractors-302881205.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/kapwork-launches-free-42-45-billion-bead-tracker-and-invoice-certification-for-contractors-302881205.html</a></p><p>SOURCE Kapwork</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF49659&amp;Transmission_Id=202609170604PR_NEWS_USPR_____SF49659&amp;DateId=20260917\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Kapwork",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-17T10:18:13.172Z"
+    },
     {
       "company": [
         "Home Trends & Design"
