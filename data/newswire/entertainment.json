@@ -1,11 +1,92 @@
 {
-  "generated_at": "2026-09-17T21:30:34.618Z",
+  "generated_at": "2026-09-17T21:52:46.265Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 107,
+  "count": 108,
   "releases": [
+    {
+      "company": [
+        "ABOSS"
+      ],
+      "date": "20260917T213400+0000",
+      "dateline": "AMSTERDAM, Sept. 17, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "SGP",
+        "ASA",
+        "WGN",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "STW",
+        "MEN",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "ABOSS",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1991171/image1.jpg?id=OA2956625&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1991171/image1.jpg?id=OA2956625&p=publish"
+        }
+      ],
+      "release_id": "20260917LN51166",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">AMSTERDAM</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- Let's be honest. The live music industry still runs its operations across email threads and spreadsheets at large. Booking agencies, artists, managers and crews coordinate deals, contracts, logistics, and money through systems that were never designed to connect.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1991171/image1.jpg?id=OA2956625\" title=\"ABOSS\" alt=\"ABOSS\"></img>\n                </p>\n    </div>\n<p>ABOSS spent the past decade building an operating system for live music, to solve this problem from a place of deep industry experience. Booking agencies, artists, and crews can manage their shows in one structured environment; from the back-office to center-stage. However, while the hustle is real and the front-end often catches the spotlight, the adoption of new technology in the back-end can move like a slow jam on a Sunday afternoon.</p>",
+      "ticker": [],
+      "title": "The live music industry still largely runs on spreadsheets and email threads. ABOSS is the operating system.",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260917LN51166",
+      "body": "\n<p><span class=\"legendSpanClass\">AMSTERDAM</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- Let's be honest. The live music industry still runs its operations across email threads and spreadsheets at large. Booking agencies, artists, managers and crews coordinate deals, contracts, logistics, and money through systems that were never designed to connect.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1991171/image1.jpg?id=OA2956625\" title=\"ABOSS\" alt=\"ABOSS\"></img>\n                </p>\n    </div>\n<p>ABOSS spent the past decade building an operating system for live music, to solve this problem from a place of deep industry experience. Booking agencies, artists, and crews can manage their shows in one structured environment; from the back-office to center-stage. However, while the hustle is real and the front-end often catches the spotlight, the adoption of new technology in the back-end can move like a slow jam on a Sunday afternoon.</p><p>\"After all those years, deals are still made on relationships, and they're still being executed in chaos,\" said Arvid Silos, founder of ABOSS. \"If your data lives in inboxes and spreadsheets, you're leaving margins on the table.\"</p><p>ABOSS is built with structured collaboration, dealmaking and business logistics in mind across two environments on the same record. The Agency Platform is where booking agencies run deals, contracts, financial tracking, planning, and pre-production. Artist Pro is where artists and their teams access, review, and work on the same data. A true single source of truth solution.</p><p>That split is also the platform's position on who owns the data. Operational information in live music has long sat with the agency, or been scattered across inboxes and spreadsheets. Agencies running on ABOSS are already offering artists a record they can own, access and control, while the agency continues to run the operation. The infrastructure has been there for a decade. However, hardly any artist or manager claims it: of the roughly $1 billion in deal value moving through ABOSS this year, artist-owned records cover about 4%.</p><p>A mobile application extends that record onto the road: schedules, travel, and ops, available offline, with summaries. Records are exposed through an open API to empower a new layer of specialized workflows and integrations to improve the live music stack.</p><p>SAPPS AI, offering platform-agnostic AI-native micro-apps for live music, is one of those layers that recognizes the power of ABOSS as a system of data supply. AI Models need data that is substantial, owned, structured, secure, and current, contextualized to specific business cases. AI does not replace architecture. That's where ABOSS turns admin into a commercial opportunity in the age of AI.</p><p>It's one thing to jump on the AI hypetrain, it's another thing to diligently navigate it, nurturing trust and strongholding this promise ABOSS built the operating system for live music on; to elevate the way we all work in music.</p><p><b>About ABOSS:</b> ABOSS is the operating system for live music. Booking agencies, artists, managers and crews use it to collaboratively manage deals, contracts, finances, logistics and more in a shared environment. <a href=\"https://abossmusic.com/?utm_source=yahoo&amp;utm_campaign=PRQ3\" target=\"_blank\" rel=\"nofollow\">https://abossmusic.com</a></p><p><b>About SAPPS:</b> SAPPS is a platform-agnostic AI-native intelligence layer for the live music industry: specialized applications that connect across systems music businesses already run. <a href=\"https://sapps.ai/\" target=\"_blank\" rel=\"nofollow\">https://sapps.ai</a></p><p><u>Representative: Arvid Silos<br></br></u><u>Contact: </u><u><a href=\"mailto:press@a-boss.net\" target=\"_blank\" rel=\"nofollow\">press@a-boss.net</a><br></br></u><u>Address: Amsterdam, NH, The Netherlands</u></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LN51166&amp;sd=2026-09-17\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-live-music-industry-still-largely-runs-on-spreadsheets-and-email-threads-aboss-is-the-operating-system-302882667.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-live-music-industry-still-largely-runs-on-spreadsheets-and-email-threads-aboss-is-the-operating-system-302882667.html</a></p><p>SOURCE ABOSS</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LN51166&amp;Transmission_Id=202609171734PR_NEWS_USPR_____LN51166&amp;DateId=20260917\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "ABOSS",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 9,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music industry",
+            "music",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-17T21:52:47.436Z"
+    },
     {
       "company": [
         "UnboundEd"
