@@ -1,9 +1,75 @@
 {
-  "generated_at": "2026-09-17T17:54:04.683Z",
+  "generated_at": "2026-09-17T18:18:01.719Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 278,
+  "count": 279,
   "releases": [
+    {
+      "company": [
+        "2factor"
+      ],
+      "date": "20260917T175500+0000",
+      "dateline": "SAN FRANCISCO, Sept. 17, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "BLN",
+        "FNT",
+        "FIN",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260917NY50956",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>Leveraged ETFs are notoriously inefficient and cannot be held for long. Banks that supply leverage are constrained by hedging costs, and these charges are passed on to holders — compounding against performance year after year. Which is why leverage has been limited to short-term use. 2factor structurally eliminates this cost onchain, making leverage viable for the dominant capital base in finance: the $112 trillion population of buy-and-hold investors.</i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777141-1&amp;h=4016910740&amp;u=https%3A%2F%2F2factor.finance%2F&amp;a=2factor.finance\" target=\"_blank\" rel=\"nofollow\">2factor.finance</a> announced today its launch on Base for <span>Coinbase</span>'s tokenized stocks, giving long-term investors moderate leverage they can hold indefinitely, at a fraction of what a leveraged ETF costs to carry. It is a rare case of an onchain product beating its traditional counterpart on performance rather than on access.</p>\n",
+      "ticker": [],
+      "title": "2factor launches high performance competitor to leveraged ETFs, for Coinbase's Tokenized Stocks on Base",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260917NY50956",
+      "body": "\n<p><i>Leveraged ETFs are notoriously inefficient and cannot be held for long. Banks that supply leverage are constrained by hedging costs, and these charges are passed on to holders — compounding against performance year after year. Which is why leverage has been limited to short-term use. 2factor structurally eliminates this cost onchain, making leverage viable for the dominant capital base in finance: the $112 trillion population of buy-and-hold investors.</i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777141-1&amp;h=4016910740&amp;u=https%3A%2F%2F2factor.finance%2F&amp;a=2factor.finance\" target=\"_blank\" rel=\"nofollow\">2factor.finance</a> announced today its launch on Base for <span>Coinbase</span>'s tokenized stocks, giving long-term investors moderate leverage they can hold indefinitely, at a fraction of what a leveraged ETF costs to carry. It is a rare case of an onchain product beating its traditional counterpart on performance rather than on access.</p>\n<p>Tokenized equities may turn out to be an even larger development than people think. When <span>Coinbase</span> listed real equities onchain, the assets were the smaller half of the announcement. The larger half was opening them: any developer can now compose a listed stock with any other asset or protocol built onchain. What that unlocks is still mostly unknown. 2factor is an early answer, and not one anybody was forecasting. If structured products can be built better onchain than off, the question is how much else can be.</p><p><b>LEVERAGED ETFS CANNOT BE HELD, LIMITING THEM TO SHORT-TERM USE</b></p><p>Beta slippage, or beta decay, is the gap between the multiple on the label and what a holder actually earns. Hold a 3x fund for a year and you do not get 3x. Hold it for several and you often do worse than the stock itself.</p><p>This decay decomposes into two costs that compound against holders. Volatility drag is mathematical — the gap between arithmetic and compound returns — and cannot be engineered away. Financing drag is a charge: leveraged ETFs buy their exposure from banks that must hedge it, and the price of that hedging is passed through to the holder. Across the roughly $250 billion held in leveraged ETFs, investors pay an estimated $10 billion annually in financing above the risk-free rate.</p><p>Only about a third of single-stock leveraged ETFs have beaten simply holding the stock. No <span>crypto</span> leveraged ETF has ever beaten spot over its own lifetime.</p><p><b>2FACTOR CUTS THE COST OF LEVERAGE BY 75 PERCENT</b></p><p>The obstacle has always been structural. Leverage has to come from somewhere. Traditionally it comes from an intermediary who takes the other side and hedges it, and whose price reflects what short exposure costs to carry. Shorts are expensive. So the cost of being long has always been set by the cost of being short.</p><p>How expensive depends on how deep the hedging market is, not on how risky the asset is. In the big equity indices, where dealers hedge cheaply, leverage runs 4 to 5 percent a year. On a single stock it runs 8 to 86 percent. Competition does not compress it, because the price is set by the dealer's hedging cost rather than the issuer's margin.</p><p>2factor breaks that link. It sources leverage from investors seeking stable yield rather than from investors willing to be short. Stable yield is far cheaper than short exposure, and the savings are passed to holders — roughly a 75 percent reduction in the all-in cost of holding a leveraged single-stock position.</p><p><b>AND GROWS ITS ADDRESSABLE MARKET BY 750 PERCENT</b></p><p>A 3x position destroys capital over long horizons regardless of what it costs, because volatility drag scales with the square of leverage. So 2factor sets leverage targets that compound in favor of long-term holders — Kelly-optimal multiples that account for drag, roughly 1.33x for cbBTC, rather than the 2x and 3x the industry applies to every asset alike.</p><p>The difference shows up on the hardest asset there is. Over the past decade, one dollar in 3x <span>Bitcoin</span> went to zero. One dollar at 1.33x grew to approximately $506, against $281 for spot. Equities are far less volatile, which makes the range where leverage helps wider for a listed stock, not narrower.</p><p>The idea is not new. More than half a century of portfolio theory holds that moderate leverage maximizes growth for long-duration capital — at current equity volatilities, somewhere between 1.5x and 2x. Traditional finance has never disagreed. It has never been able to build the instrument.</p><p>Cheap financing and correct sizing together produce leverage that can be held like a spot position. Approximately 88 percent of investable capital — roughly $112 trillion — buys and holds; only about $15 trillion trades on shorter horizons. Leverage priced and sized for traders serves the smaller number. Leverage built to be held serves both — a 750 percent increase in the capital that can use it.</p><p>\"I want to own moderately leveraged Google for exactly the same reason I want to own moderately leveraged <span>Bitcoin</span>. I don't know what path it will take, but I think the position will simply be worth more in five years,\" said Evan Kuo, co-founder of 2factor. \"That is not an exotic wish. It is the most ordinary thing an investor can want, and until now there was no way to act on it that survived a bad quarter.\"</p><p><b>ON-CHAIN SOLUTIONS NOW OUTPERFORM THEIR TRADITIONAL ALTERNATIVES</b></p><p>This is not a workaround for investors who cannot reach traditional markets. Onchain products have generally won where access was the binding constraint; this one does not need that. It is a better instrument than the traditional alternative, for an investor with full access to both — and against a single-stock leveraged ETF held for years, the margin is not close.</p><p>Every structure traditional finance cannot assemble — programmable collateral, counterparties who never meet, terms that adjust without an administrator — is now buildable on a listed stock. And now there is proof they can be built better.</p><p>\"Listing the assets was the first step, but opening them was the more important one,\" said Brian Armstrong, co-founder and CEO of <span>Coinbase</span>. \"Putting a stock onchain is only interesting if it lets people do something they could not do before — otherwise we have rebuilt the same brokerage with extra steps. 2factor clears that bar, and it is exactly the kind of thing we opened these assets up for.\"</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY50956&amp;sd=2026-09-17\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/2factor-launches-high-performance-competitor-to-leveraged-etfs-for-coinbases-tokenized-stocks-on-base-302882501.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/2factor-launches-high-performance-competitor-to-leveraged-etfs-for-coinbases-tokenized-stocks-on-base-302882501.html</a></p><p>SOURCE 2factor</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY50956&amp;Transmission_Id=202609171355PR_NEWS_USPR_____NY50956&amp;DateId=20260917\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "2factor",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-17T18:18:02.873Z"
+    },
     {
       "company": [
         "United Airlines",
