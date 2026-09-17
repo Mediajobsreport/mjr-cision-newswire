@@ -1,11 +1,93 @@
 {
-  "generated_at": "2026-09-17T12:47:03.960Z",
+  "generated_at": "2026-09-17T13:16:39.819Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "tradeshow",
   "page_url": "https://www.mediajobsreport.com/tradeshow_news",
-  "count": 13,
+  "count": 14,
   "releases": [
+    {
+      "company": [
+        "Semperis"
+      ],
+      "date": "20260917T130000+0000",
+      "dateline": "HOBOKEN, N.J. and SINGAPORE, Sept. 17, 2026",
+      "feed": [
+        "PRNUS_WEBMAX",
+        "PRNUS"
+      ],
+      "geography": [
+        "SGP",
+        "ASA",
+        "NJY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HTS",
+        "IOT",
+        "AFI",
+        "STW",
+        "NET"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Semperis celebrates being named to the CRN Security 100",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1122565/Semperis-Logo-Logo-Logo.jpg?id=OA2952310&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1122565/Semperis-Logo-Logo-Logo.jpg?id=OA2952310&p=publish"
+        }
+      ],
+      "release_id": "20260917NY49390",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS"
+      ],
+      "summary": "<p class=\"prntac\"><i>As Semperis achieves triple-digit APAC growth, it is expanding its senior leadership team to accelerate regional momentum.</i></p><p><span class=\"legendSpanClass\">HOBOKEN, N.J. and SINGAPORE</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=1384559167&amp;u=https%3A%2F%2Fwww.semperis.com%2F&amp;a=Semperis\" target=\"_blank\" rel=\"nofollow\"><b>Semperis</b></a>, the identity-driven cyber resilience and crisis response company, today announced accreditation from Singapore's Infocomm Media Development Authority (IMDA), which recognizes Semperis for its innovative Identity Resilience Platform. This is a strong validation of the company's product capabilities, operational maturity and readiness to serve enterprise and public sector customers. The recognition comes on the back of the company's triple-digit revenue growth across the Asia-Pacific region, including Southeast Asia, Australia and New Zealand, and Japan.</p>\n    ",
+      "ticker": [],
+      "title": "Semperis Secures IMDA Accreditation to Strengthen Identity Resilience in the AI Era",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260917NY49390",
+      "body": "\n<p class=\"prntac\"><i>As Semperis achieves triple-digit APAC growth, it is expanding its senior leadership team to accelerate regional momentum.</i></p><p><span class=\"legendSpanClass\">HOBOKEN, N.J. and SINGAPORE</span>, <span class=\"legendSpanClass\">Sept. 17, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=1384559167&amp;u=https%3A%2F%2Fwww.semperis.com%2F&amp;a=Semperis\" target=\"_blank\" rel=\"nofollow\"><b>Semperis</b></a>, the identity-driven cyber resilience and crisis response company, today announced accreditation from Singapore's Infocomm Media Development Authority (IMDA), which recognizes Semperis for its innovative Identity Resilience Platform. This is a strong validation of the company's product capabilities, operational maturity and readiness to serve enterprise and public sector customers. The recognition comes on the back of the company's triple-digit revenue growth across the Asia-Pacific region, including Southeast Asia, Australia and New Zealand, and Japan.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1122565/Semperis-Logo-Logo-Logo.jpg?id=OA2952310\" title=\"Semperis celebrates being named to the CRN Security 100\" alt=\"Semperis celebrates being named to the CRN Security 100\"></img>\n                </p>\n    </div>\n<p>The company also announced several new hires amid this growth phase, with Shekhar Thakurdesai joining Semperis as AVP of India and SAARC business and Ridwan Basri as Channel Director in Asia. Nick Lowther and Daniel O'Mara have joined Semperis in key sales roles to bolster growth across the region.</p><p>Organizations across Asia-Pacific look to bolster cyber resilience amid the rapid adoption of AI agents, with threat actors increasingly targeting identity systems such as Active Directory, Entra ID, Okta and Ping Identity. According to Semperis' newest study, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=756703369&amp;u=https%3A%2F%2Fwww.semperis.com%2Fthe-state-of-identity-security-in-the-ai-era%2F&amp;a=State+of+Identity+Security+in+the+AI+Era\" target=\"_blank\" rel=\"nofollow\">State of Identity Security in the AI Era</a>, only 21% of the organizations in Singapore and Australia are confident they could fully regain control of their identity infrastructure if an AI agent exposes admin credentials to an attacker. At the same time, 93% already use or plan to use AI agents for sensitive security tasks such as password resets and VPN access.</p><p>\"Asia-Pacific is one of the fastest-growing global digital economies, and organizations in the region are embracing AI agents and integrating them into their identity systems. However, Semperis' study highlights that to date, many haven't adopted safeguards to manage them,\" said Gerry Sillars, Vice President, Asia-Pacific and Japan, Semperis.</p><p>\"Unfortunately, cybercriminals are moving just as quickly. Businesses are recognizing that cyber resilience starts with protecting the identity systems that every user, application and AI agent depends upon. Our exceptional growth across APJ reflects this shift in mindset. We're investing aggressively in local talent, expanding our regional presence and strengthening our partner ecosystem so we can help more organizations prevent, respond to, and recover from identity-based cyberattacks with confidence.\"</p><p>\"Identity systems are a key target for cyberattacks, with AI adding new complexity to an evolving threat landscape,\" said Edwin Low, Director, Enterprise &amp; Ecosystem Development, IMDA. \"With IMDA's accreditation, we look forward to Semperis bringing its resilience and recovery capabilities to help organizations better safeguard their critical identity infrastructure.\"</p><p>With continued investment in regional talent, strategic partnerships and innovation, Semperis is well positioned to support organizations across Asia-Pacific and Japan as they strengthen identity resilience against increasingly sophisticated cyber threats in the AI era.</p><p><b>About Semperis</b></p><p>Semperis is the identity-driven cyber resilience and crisis management company trusted by the world's largest enterprises and government agencies to protect critical identity systems. Purpose-built for multi-cloud and hybrid identity environments — including Active Directory, Entra ID, Okta, and Ping Identity — Semperis helps organizations prevent, detect, respond to, and recover from identity-based cyberattacks.</p><p>Modern cyberattacks are won or lost at the identity layer, where failures now escalate into full-scale business crises. Semperis' AI-powered platform unifies identity lifecycle defense and crisis management — hardening identity infrastructure, detecting and containing active threats, enabling rapid, trusted recovery, and supporting secure, out-of-band coordination when core systems are disrupted — all reinforced by a world-class identity forensics and incident response team.</p><p>As part of its mission to help organizations achieve true cyber resilience, Semperis supports the broader cyber community through the award-winning <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=1330965316&amp;u=https%3A%2F%2Fwww.hipconf.com%2F&amp;a=Hybrid+Identity+Protection+(HIP)\" target=\"_blank\" rel=\"nofollow\">Hybrid Identity Protection (HIP)</a> Conference and Podcast and free identity security tools including <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=4152855014&amp;u=http%3A%2F%2Fpurple-knight.com%2F&amp;a=Purple+Knight\" target=\"_blank\" rel=\"nofollow\">Purple Knight</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=1189632237&amp;u=https%3A%2F%2Fwww.semperis.com%2Fforest-druid%2F&amp;a=Forest+Druid\" target=\"_blank\" rel=\"nofollow\">Forest Druid</a>. More than 1,200 organizations — including over 25% of the 100 largest U.S. companies — rely on Semperis. The company is privately held, headquartered in Hoboken, New Jersey, and serves customers in more than 40 countries.</p><p><b>Learn more:</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=1710659396&amp;u=https%3A%2F%2Fwww.semperis.com%2F&amp;a=semperis.com\" target=\"_blank\" rel=\"nofollow\"><b>semperis.com</b></a><br></br><b>Follow us:</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=773091851&amp;u=https%3A%2F%2Fwww.semperis.com%2Fblog%2F&amp;a=Blog\" target=\"_blank\" rel=\"nofollow\"><b>Blog</b></a> <b>/</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=2194463276&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fsemperis&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\"><b>LinkedIn</b></a> <b>/</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=1475617633&amp;u=https%3A%2F%2Ftwitter.com%2FSemperisTech&amp;a=X\" target=\"_blank\" rel=\"nofollow\"><b>X</b></a> <b>/</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=900550629&amp;u=https%3A%2F%2Fwww.facebook.com%2FSemperisTech&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\"><b>Facebook</b></a> <b>/</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4775682-1&amp;h=1563811569&amp;u=https%3A%2F%2Fwww.youtube.com%2F%40semperistech&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\"><b>YouTube</b></a></p><p><b>Media Contacts:</b></p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Bill Keeler</b></span></p><p class=\"prnml4\"><span class=\"prnews_span\">Semperis</span></p><p class=\"prnml4\"><span class=\"prnews_span\">Senior Director, PR &amp; Comms </span></p><p class=\"prnml4\"><span class=\"prnews_span\"><a href=\"mailto:billk@semperis.com\" target=\"_blank\" class=\"prnews_a\" rel=\"nofollow\">billk@semperis.com</a></span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><br></br></td></tr></table></div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY49390&amp;sd=2026-09-17\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/semperis-secures-imda-accreditation-to-strengthen-identity-resilience-in-the-ai-era-302880398.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/semperis-secures-imda-accreditation-to-strengthen-identity-resilience-in-the-ai-era-302880398.html</a></p><p>SOURCE Semperis</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY49390&amp;Transmission_Id=202609170900PR_NEWS_USPR_____NY49390&amp;DateId=20260917\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Semperis",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prngen2{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 1pt; BORDER-BOTTOM:black 1pt; BORDER-LEFT:black 1pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "management": [
+            "summary:leadership team"
+          ],
+          "tradeshow": [
+            "summary:infocomm"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-17T13:16:41.949Z"
+    },
     {
       "company": [
         "SDMC"
