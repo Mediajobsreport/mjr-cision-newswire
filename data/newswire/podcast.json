@@ -1,11 +1,101 @@
 {
-  "generated_at": "2026-09-18T12:46:12.855Z",
+  "generated_at": "2026-09-18T13:14:00.299Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "podcast",
   "page_url": "https://www.mediajobsreport.com/podcast_news",
-  "count": 15,
+  "count": 16,
   "releases": [
+    {
+      "company": [
+        "Z Squared Inc."
+      ],
+      "date": "20260918T130000+0000",
+      "dateline": "FORT LAUDERDALE, Fla., Sept. 18, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "DTA",
+        "CRL",
+        "AFI",
+        "CPR",
+        "ICO",
+        "RAD",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260918FL51212",
+      "status": "PUBLISHED",
+      "subject": [
+        "RLE"
+      ],
+      "summary": "<p class=\"prntac\"><i>Both Interviews Are Live Now and Available Through the Company's Website and Major Podcast Platforms</i></p><p><span class=\"legendSpanClass\">FORT LAUDERDALE, Fla.</span>, <span class=\"legendSpanClass\">Sept. 18, 2026</span> /PRNewswire/ -- Z Squared Inc. (Nasdaq: ZSQR) (\"Z Squared\" or the \"Company\"), a computing infrastructure company expanding into AI infrastructure, today announced that David Halabu, Chief Executive Officer, was recently featured on two investor podcasts: The Wall Street Resource, hosted by Jeff Kone, and The Nano Cap Podcast, hosted by Will Tjernlund. Both interviews are live now.</p>\n",
+      "ticker": [
+        "Nasdaq:ZSQR",
+        "NASDAQ:ZSQR"
+      ],
+      "title": "Z Squared Inc. CEO David Halabu Discusses AI Data Center Strategy on Two Investor Podcasts",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260918FL51212",
+      "body": "\n<p class=\"prntac\"><i>Both Interviews Are Live Now and Available Through the Company's Website and Major Podcast Platforms</i></p><p><span class=\"legendSpanClass\">FORT LAUDERDALE, Fla.</span>, <span class=\"legendSpanClass\">Sept. 18, 2026</span> /PRNewswire/ -- Z Squared Inc. (Nasdaq: ZSQR) (\"Z Squared\" or the \"Company\"), a computing infrastructure company expanding into AI infrastructure, today announced that David Halabu, Chief Executive Officer, was recently featured on two investor podcasts: The Wall Street Resource, hosted by Jeff Kone, and The Nano Cap Podcast, hosted by Will Tjernlund. Both interviews are live now.</p>\n<p>Speaking with Jeff Kone on The Wall Street Resource, Mr. Halabu outlined how Z Squared acquires existing powered sites - former <span>crypto</span> mining and manufacturing facilities - and retrofits them for AI and high-performance computing use. He described the Company's role as a triple-net landlord, positioned the Union County Campus in Arkansas as its flagship asset, and reiterated the two measures he has asked shareholders to hold the Company to over the next 12 to 18 months: megawatts under management and signed leases.</p><p>Speaking with Will Tjernlund on The Nano Cap Podcast, Mr. Halabu traced his background in trading and real estate and the Company's path to the public markets, and detailed the criteria Z Squared applies to a prospective site - price, power and time to power, redundant fiber, water, and county and municipal support. He also addressed the expanding role of behind-the-meter generation as utility interconnection timelines lengthen, and why he expects land and power to remain scarce as AI compute demand grows.</p><p>\"These conversations were a chance to be direct about what we are building and how it generates revenue,\" said David Halabu, Chief Executive Officer of Z Squared. \"We find power, deliver a shell an AI tenant can use, and grow the site behind it. Over the next 12 to 18 months, measure us on megawatts and leases.\"</p><p>The full interviews can be found via the following links:</p><p>The Wall Street Resource (Jeff Kone): <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777405-1&amp;h=1497164191&amp;u=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F3asCtHDVETAf5e6A8cFWl4&amp;a=Here\" target=\"_blank\" rel=\"nofollow\">Here</a></p><p>The Nano Cap Podcast (Will Tjernlund): <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777405-1&amp;h=2606248416&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DX0cYCfCdf08&amp;a=Here\" target=\"_blank\" rel=\"nofollow\">Here</a></p><p>Both interviews touched on the Company's previously announced acquisition of Paradox Data, LLC and the Union County Campus it brought with it. Set out below are the questions investors have most frequently raised about that transaction.</p><p><b>What did Z Squared acquire?</b></p><p>Z Squared acquired 100% of the membership interests of Paradox Data, LLC, whose flagship asset is the Union County Campus in El Dorado, Arkansas. The transaction closed on an all-stock basis - no cash at closing and no debt financing.</p><p><b>How much power does the Union County Campus have today, and how does it scale?</b></p><p>The campus has an existing arrangement with Entergy Arkansas for energy service of up to 8.0 MW, plus an executed contract for adjacent land. On The Wall Street Resource, Mr. Halabu described roughly eight megawatts of total capacity and six megawatts of critical capacity available today. The development pathway targets up to 150 MW over time through a combination of utility power and on-site generation, added in phases as utility timelines and customer demand allow.</p><p><b>How does Z Squared expect to generate revenue from the campus?</b></p><p>Z Squared intends to operate as a triple-net landlord, not a compute provider: it expects to lease the land, the building and access to power to tenants - primarily \"neocloud\" and enterprise AI users - with power treated as a pass-through, and does not intend to buy or lease GPUs. Mr. Halabu said he is hopeful the first six to eight megawatts can be monetized in the early-to-mid 2027 timeframe, subject to the factors described under \"Forward-Looking Statements\" below.</p><p><b>About Z Squared Inc.</b></p><p>Z Squared Inc. is a computing infrastructure company operating advanced computing equipment and expanding into AI infrastructure. The Company's strategy is built on three principles: lead with power by acquiring operating sites where power is already flowing; build for AI workloads by converting that capacity into AI-ready colocation where the customer brings the compute and runs what they need; and scale with discipline by deploying conversion capital site by site, against signed contracts and operational readiness. Z Squared's common stock began trading on the Nasdaq Global Market under the symbol \"ZSQR\" in April 2026.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777405-1&amp;h=1087187594&amp;u=https%3A%2F%2Fwww.zsquaredinc.com&amp;a=www.zsquaredinc.com\" target=\"_blank\" rel=\"nofollow\">www.zsquaredinc.com</a>. </p><p><b>Investor Relations Contact:</b> <a href=\"mailto:ZSQR@mzgroup.us\" target=\"_blank\" rel=\"nofollow\">ZSQR@mzgroup.us</a> </p><p><b>Forward-Looking Statements</b></p><p>This press release contains \"forward-looking statements\" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, that are intended to be covered by the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words such as \"may,\" \"will,\" \"should,\" \"expects,\" \"plans,\" \"anticipates,\" \"intends,\" \"targets,\" \"projects,\" \"believes,\" \"estimates,\" \"potential\" or \"continue,\" or the negatives of these terms or other comparable terminology. Forward-looking statements in this press release include, among others, statements made by management in the podcast interviews described above and statements regarding: the achievement of the development milestones at the Union County Campus and the issuance of the related preferred stock; the development of the Union County Campus, including the targeted capacity of up to 150 MW; the availability and expansion of utility power and on-site generation; the acquisition of adjacent land; the timing of tenant leasing and the monetization of initial capacity at the Union County Campus; and the Company's strategy and planned expansion into AI infrastructure, data center development and power generation.</p><p>Forward-looking statements are based on management's current expectations and assumptions and are subject to risks and uncertainties that could cause actual results to differ materially from those expressed or implied, including, among others: the Company's ability to continue as a going concern; the risk that the development milestones are not achieved in whole or in part; risks related to the availability, cost and interruptible nature of electric power at the Union County Campus and the Company's ability to secure additional utility power and on-site generation; risks related to the pending transfer of the utility account for the Union County Campus and the completion of related post-closing arrangements contemplated by the transaction agreements; risks related to permitting, construction, equipment procurement and the development of data center capacity; customer demand for AI-ready capacity; dilution resulting from the issuance and conversion of the preferred stock issued in the transaction; volatility in <span>digital asset</span> prices and the economics of the Company's mining operations; and the other risks and uncertainties described under \"Risk Factors\" in the Company's filings with the Securities and Exchange Commission, available at <a href=\"http://www.sec.gov\" rel=\"nofollow\">www.sec.gov</a>.</p><p>Forward-looking statements speak only as of the date of this press release. Except as may be required by applicable law, the Company undertakes no obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise. You should not place undue reliance on any forward-looking statement.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL51212&amp;sd=2026-09-18\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/z-squared-inc-ceo-david-halabu-discusses-ai-data-center-strategy-on-two-investor-podcasts-302882806.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/z-squared-inc-ceo-david-halabu-discusses-ai-data-center-strategy-on-two-investor-podcasts-302882806.html</a></p><p>SOURCE Z Squared Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL51212&amp;Transmission_Id=202609180900PR_NEWS_USPR_____FL51212&amp;DateId=20260918\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Z Squared Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 3,
+          "radio": 2,
+          "television": 0,
+          "podcast": 8,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "management": [
+            "summary:chief executive officer",
+            "summary:executive"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "summary:podcast platform",
+            "podcast",
+            "podcasts",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-18T13:14:01.260Z"
+    },
     {
       "company": [
         "National Institute on Retirement Security"
