@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-09-21T12:58:26.694Z",
+  "generated_at": "2026-09-21T13:19:00.099Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 75,
+  "count": 76,
   "releases": [
+    {
+      "company": [
+        "Arc XP"
+      ],
+      "date": "20260921T125900+0000",
+      "dateline": "WASHINGTON, Sept. 21, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "DOC",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "SMD",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Arc XP WaPo logo horizontal",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1791423/ArcXP-WaPo-Logo-No-Shadow-2x.jpg?id=OA2956134&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1791423/ArcXP-WaPo-Logo-No-Shadow-2x.jpg?id=OA2956134&p=publish"
+        }
+      ],
+      "release_id": "20260921DC50933",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>Arc XP Compass recognizes a returning reader, remembers what they read last, and shows them what they missed. Editors still decide what leads.</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Arc XP, the media technology platform built inside The Washington Post, launched <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777119-1&amp;h=3189375803&amp;u=https%3A%2F%2Fwww.arcxp.com%2Fproducts%2Fcompass%2F&amp;a=Arc+XP+Compass\" target=\"_blank\" rel=\"nofollow\">Arc XP Compass</a>, a personalization engine for news home pages and section fronts. Arc XP Compass tells a returning reader from a first-time one, remembers what each read last, and rebuilds the page around it. It is the experience Instagram and TikTok trained a generation to expect, applied to news. The difference is who sets the priorities: editors still decide what leads.</p>\n    ",
+      "ticker": [],
+      "title": "Arc XP Launches Compass: A Home Page That Knows Who's Reading It, and a Newsroom That Still Decides What Leads",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260921DC50933",
+      "body": "\n<p><i>Arc XP Compass recognizes a returning reader, remembers what they read last, and shows them what they missed. Editors still decide what leads.</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Arc XP, the media technology platform built inside The Washington Post, launched <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777119-1&amp;h=3189375803&amp;u=https%3A%2F%2Fwww.arcxp.com%2Fproducts%2Fcompass%2F&amp;a=Arc+XP+Compass\" target=\"_blank\" rel=\"nofollow\">Arc XP Compass</a>, a personalization engine for news home pages and section fronts. Arc XP Compass tells a returning reader from a first-time one, remembers what each read last, and rebuilds the page around it. It is the experience Instagram and TikTok trained a generation to expect, applied to news. The difference is who sets the priorities: editors still decide what leads.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1791423/ArcXP-WaPo-Logo-No-Shadow-2x.jpg?id=OA2956134\" title=\"Arc XP WaPo logo horizontal\" alt=\"Arc XP WaPo logo horizontal\"></img>\n                </p>\n    </div>\n<p>Publishers just crossed a threshold. Social media and video networks have, for the first time, overtaken publishers' own websites and apps as the most common way people get news, used by 54% of respondents across 48 markets against 51% for news organizations' own sites and apps, according to the Reuters Institute for the Study of Journalism's Digital News Report 2026.</p><p>Catch Me Up is the clearest example. A wildfire breaks out Monday, and a reader follows the first evacuation orders that night. She is off the news for three days. By Thursday, the story has moved four times: containment lines held, two neighborhoods cleared to return, the county opened an investigation into the local utility, the casualty count revised. Arc XP Compass knows she was here and where she stopped, and opens with a recap of what changed while she was gone, in order, built from the newsroom's own reporting rather than a generated summary. A first-time visitor sees none of it.</p><p>Behind that summary, every update on the fire sits in a single storyline called Dynamic Timelines, instead of scattering across a dozen separate links. Editors keep their hands on the wheel: Editorial Priority Controls lets them pin, boost, or bury any story directly, so the personalization never drifts from the newsroom's own judgment.</p><p>The pressure is concentrated among younger readers. Among 18-to-24-year-olds, 52% now name social media, video networks or AI chatbots as their main way of getting news, 32 points ahead of the next source. Publishers' own sites and apps are no longer the main source of news for any age group globally. Ten percent worldwide used a standalone AI chatbot for news last week, up from 7% a year earlier, and 16% among under-35s. Referral traffic is fragile too: Google Discover traffic to Reach, the UK's largest commercial news publisher, fell 46% in the second half of 2025, per the company's investor disclosure.</p><p>A general-purpose chatbot cannot replicate what a newsroom builds over years: an editorial voice, a reader's trust, and an archive of its own reporting. Global trust in answers from AI chatbots sits at 20%, against 37% for news overall. Arc XP calls the approach adaptive discovery.</p><p>Arc XP Compass is platform-agnostic. It works with any content management system or delivery stack, whether or not a newsroom runs the rest of its site on the Arc XP hybrid CMS platform.</p><p><i>\"Publishers don't want to hand their relationship with readers over to somebody else's algorithm. They want a better version of their own front page,\" said Ryan Gladstone, Director of Product Engineering, Arc XP. \"Arc XP Compass lets a newsroom's priorities guide the experience while still meeting each reader where they left off. A chatbot can't do that, and a generic recommendation engine won't respect the newsroom.\"</i></p><p><b>Availability<br></br></b>Arc XP Compass is generally available beginning September 2026. To view a short video of Arc XP Compass, please visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777119-1&amp;h=1224827193&amp;u=https%3A%2F%2Fhubs.la%2FQ04xNZX50&amp;a=https%3A%2F%2Fhubs.la%2FQ04xNZX50\" target=\"_blank\" rel=\"nofollow\">https://hubs.la/Q04xNZX50</a>   </p><p><b>About Arc XP<br></br></b>Arc XP is the platform for modern media, built inside The Washington Post, which still runs on it today. Newsrooms, digital publishers, and broadcasters use Arc XP to publish faster, own their audience relationships, and diversify revenue, including The Irish Times, Libération, L'Express, Madsack, Graham Media Group, and Sky News. Arc Intelligence grounds AI in each organization's own content and governance rules, so editors stay in control of what is published. Arc XP supports more than 3,000 sites worldwide, with a migration path proven by publishers who've already made the move. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777119-1&amp;h=2260658569&amp;u=http%3A%2F%2Fwww.arcxp.com%2F&amp;a=www.arcxp.com\" target=\"_blank\" rel=\"nofollow\">www.arcxp.com</a>.</p><p><i>Sources for cited statistics: Reuters Institute for the Study of Journalism, Digital News Report 2026 (reutersinstitute.politics.ox.ac.uk/digital-news-report/2026). Reach figure as reported by Press Gazette, 3 March 2026, and cited in the same report.</i></p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC50933&amp;sd=2026-09-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/arc-xp-launches-compass-a-home-page-that-knows-whos-reading-it-and-a-newsroom-that-still-decides-what-leads-302883409.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/arc-xp-launches-compass-a-home-page-that-knows-whos-reading-it-and-a-newsroom-that-still-decides-what-leads-302883409.html</a></p><p>SOURCE Arc XP</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC50933&amp;Transmission_Id=202609210859PR_NEWS_USPR_____DC50933&amp;DateId=20260921\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Arc XP",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 4,
+          "engineering": 2,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ],
+          "engineering": [
+            "summary:media technology"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-21T13:19:01.646Z"
+    },
     {
       "company": [
         "Issa PR",

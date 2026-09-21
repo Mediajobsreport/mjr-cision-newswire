@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-09-21T12:58:26.694Z",
+  "generated_at": "2026-09-21T13:19:00.099Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 33,
+  "count": 34,
   "releases": [
+    {
+      "company": [
+        "Status Labs"
+      ],
+      "date": "20260921T130400+0000",
+      "dateline": "AUSTIN, Texas, Sept. 21, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "www.statuslabs.com",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100&p=publish"
+        }
+      ],
+      "release_id": "20260921DA50913",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD"
+      ],
+      "summary": "<p class=\"prntac\"><i>The Austin-founded global reputation-management firm strengthens its position at the intersection of AI, search, and public trust with fast-growing GEO division</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Status Labs, the premier digital reputation management firm in The Millbrook Companies agency collective, is pleased to announce its No. 10 ranking on the 2026 Advertising &amp; Marketing Agencies list by the Austin Business Journal.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100\" title=\"www.statuslabs.com\" alt=\"www.statuslabs.com\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Austin Business Journal Ranks Status Labs Among Top 10 Advertising &amp; Marketing Agencies",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260921DA50913",
+      "body": "\n<p class=\"prntac\"><i>The Austin-founded global reputation-management firm strengthens its position at the intersection of AI, search, and public trust with fast-growing GEO division</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Status Labs, the premier digital reputation management firm in The Millbrook Companies agency collective, is pleased to announce its No. 10 ranking on the 2026 Advertising &amp; Marketing Agencies list by the Austin Business Journal.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100\" title=\"www.statuslabs.com\" alt=\"www.statuslabs.com\"></img>\n                </p>\n    </div>\n<p>Status Labs was founded in Austin in 2012, at a time when online reputation management had yet to become an established industry. Fourteen years later, the firm remains headquartered in Austin while serving enterprise organizations, growth-stage businesses, family offices, and high-profile public figures in over a dozen countries through satellite offices in New York, Los Angeles, Miami, and London.</p><p>Its gradual expansion to new markets – and continued growth in the Austin market where the company and the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1094102591&amp;u=https%3A%2F%2Fwww.millbrookcompanies.com%2F&amp;a=Millbrook\" target=\"_blank\" rel=\"nofollow\">Millbrook</a> holdco originated –  can be attributed to a commitment to cutting-edge innovation, which most recently has been exemplified by Status Labs early entry and expertise in the burgeoning generative engine optimization vertical. </p><p>The firm has built its business around a question that has become central to modern corporate reputation: What do people find – and now, what are they told – when they seek information about an organization or individual?</p><p>That question has taken on new urgency with generative AI. AI platforms such as ChatGPT, Gemini, and Perplexity increasingly provide direct answers rather than a page of links, shaping how customers, investors, partners, journalists, and the public encounter a company for the first time.</p><p>Status Labs formally launched its Generative Engine Optimization, or GEO, offering in October 2025. The work itself began earlier, as the firm studied how emerging generative AI systems were interpreting, synthesizing, and recommending information about companies and public figures in 2023, before GEO was widely recognized as a service category.</p><p>Today, GEO is Status Labs' fastest-growing workstream, accounting for almost a quarter of new client engagements in the first half of 2026.</p><p>\"Status Labs was built on the understanding that reputations are increasingly formed online, often before a client has the opportunity to tell its own story,\" said Darius Fisher, CEO of Millbrook Companies and co-founder of Status Labs. \"As AI becomes a primary interface for information, that work has become more consequential. The question is no longer only where a company ranks in search. It is whether the answer someone receives accurately reflects who that company is.\"</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1144431956&amp;u=https%3A%2F%2Fstatuslabs.com%2Fwhitepapers%2Fai-and-the-future-of-reputation-management-2026&amp;a=Status+Labs%27+2026+AI+Reputation+Report\" target=\"_blank\" rel=\"nofollow\">Status Labs' 2026 AI Reputation Report</a> found that roughly 60% of searches now end without a click to a website. When AI systems assemble an answer, the report found, they draw heavily on earned media and other third-party sources—not simply the material a company publishes about itself. Visitors who arrive through an AI-generated answer convert at 4.4 times the rate of visitors from organic search.</p><p>For clients operating across markets, sectors, and public audiences, the consequence is practical: a company can have a strong website and a well-defined brand, yet still be inaccurately represented—or absent entirely—when an AI platform is asked who leads its category.</p><p>Status Labs' GEO practice combines AI-driven language-model diagnostics, semantic content mapping, and credibility-signal engineering. The firm audits how large language models interpret and summarize a client's business; structures priority messages so they remain intact through AI summarization; and strengthens the high-quality, corroborating sources that influence whether a model cites a company, represents it accurately, or overlooks it altogether.</p><p>\"A decade ago, a reputation challenge often appeared as a page of search results,\" Fisher said. \"Today, it may appear as a paragraph response assembled from sources a company did not create. We began preparing for that shift before there was a standard name for the work because the direction of the internet was already clear.\"</p><p>Status Labs is part of Millbrook Companies, which brings together earned media, owned content, search, and reputation strategy through Status Labs, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1964143351&amp;u=https%3A%2F%2Fwww.senseiadvisory.com%2F&amp;a=Sensei+Advisory\" target=\"_blank\" rel=\"nofollow\">Sensei Advisory</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1880731015&amp;u=https%3A%2F%2Fwww.blp.co%2F&amp;a=BLP\" target=\"_blank\" rel=\"nofollow\">BLP</a>.</p><p>The 2026 Advertising Agencies list is available via <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1377934431&amp;u=https%3A%2F%2Fwww.bizjournals.com%2Faustin%2Fsubscriber-only%2F2026%2F08%2F07%2Fsee-39-advertising-and-marketing-firms-creating-in-the.html&amp;a=ABJ\" target=\"_blank\" rel=\"nofollow\">ABJ</a>. To request a GEO consultation, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1805928409&amp;u=https%3A%2F%2Fstatuslabs.com%2Fcontact&amp;a=StatusLabs.com%2FContact\" target=\"_blank\" rel=\"nofollow\">StatusLabs.com/Contact</a>.</p><p><b>About Status Labs <br></br></b>Status Labs is the world's leading digital reputation management, SEO, and generative engine optimization (GEO) firm for Fortune 500 companies, growth-stage businesses, family offices, and public figures. Founded in 2012 and headquartered in Austin, Texas, Status Labs is now part of Millbrook Companies alongside agencies Sensei Advisory and BLP. To learn more about Status Labs, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=3712819987&amp;u=http%3A%2F%2Fstatuslabs.com%2F&amp;a=StatusLabs.com\" target=\"_blank\" rel=\"nofollow\">StatusLabs.com</a>.</p><p><b>Media Contact:</b><br></br>Juliette Haas<br></br><a href=\"mailto:juliette@senseiadvisory.com\" target=\"_blank\" rel=\"nofollow\">juliette@senseiadvisory.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA50913&amp;sd=2026-09-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/austin-business-journal-ranks-status-labs-among-top-10-advertising--marketing-agencies-302883162.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/austin-business-journal-ranks-status-labs-among-top-10-advertising--marketing-agencies-302883162.html</a></p><p>SOURCE Status Labs</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA50913&amp;Transmission_Id=202609210904PR_NEWS_USPR_____DA50913&amp;DateId=20260921\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Status Labs",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 6,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-21T13:19:01.432Z"
+    },
     {
       "company": [
         "Quartile"
