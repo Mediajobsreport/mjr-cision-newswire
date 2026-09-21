@@ -1,9 +1,77 @@
 {
-  "generated_at": "2026-09-21T17:29:47.854Z",
+  "generated_at": "2026-09-21T17:44:50.381Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 296,
+  "count": 297,
   "releases": [
+    {
+      "company": [
+        "Salathiel Records"
+      ],
+      "date": "20260921T173300+0000",
+      "dateline": "SOUTHFIELD, Mich., Sept. 21, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS"
+      ],
+      "geography": [
+        "MCH",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "MUS"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260921DE51668",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><i>BMJ Productions and Empowerment Church present a two-night tribute, 50-member choir, legendary Detroit artists and musicians led by Bill Moss Jr. in a celebration of Smallwood's five-decade legacy.</i></p><p><span class=\"legendSpanClass\">SOUTHFIELD, Mich.</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Hundreds of metro Detroiters will pay tribute to one of gospel music's most influential composers this fall, as BMJ Productions LLC and Empowerment Church present <i>Detroit Remembers: Richard Smallwood</i>, a two-night musical tribute concert Friday, October 9 and Saturday, October 10, 2026, at Empowerment Church in Southfield, Michigan sponsored by Salathiel Records. Tickets are available for $30 in advance, $40 at the door and $75 VIP through bmjproductionsll.com or empowermentmi.org.</p>\n",
+      "ticker": [],
+      "title": "\"Detroit Remembers Richard Smallwood\" A Concert Tribute to Honor the Gospel Music Icon This October",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260921DE51668",
+      "body": "\n<p><i>BMJ Productions and Empowerment Church present a two-night tribute, 50-member choir, legendary Detroit artists and musicians led by Bill Moss Jr. in a celebration of Smallwood's five-decade legacy.</i></p><p><span class=\"legendSpanClass\">SOUTHFIELD, Mich.</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Hundreds of metro Detroiters will pay tribute to one of gospel music's most influential composers this fall, as BMJ Productions LLC and Empowerment Church present <i>Detroit Remembers: Richard Smallwood</i>, a two-night musical tribute concert Friday, October 9 and Saturday, October 10, 2026, at Empowerment Church in Southfield, Michigan sponsored by Salathiel Records. Tickets are available for $30 in advance, $40 at the door and $75 VIP through bmjproductionsll.com or empowermentmi.org.</p>\n<p>The event honors Richard Smallwood, the Grammy-nominated composer, pianist and choir director who died in December 2025 at age 77. Over four decades, Smallwood blended classical training earned at Howard University with the fervor of traditional Black gospel, creating songs including \"Total Praise,\" \"Center of My Joy\" and \"I Love the Lord\" that reached mainstream audiences through artists such as Whitney Houston and Destiny's Child.</p><p>The tribute will bring 15 of his most iconic songs to life through a 50-member choir and celebrated Detroit talent, led by:</p><ul type=\"disc\"><li>Bill Moss Jr., Visionary Music Director</li><li>Pam English, Vocal Director and Master Clinician</li><li>Alvin Waddles, Principal and Featured Artist</li><li>Rev. Kimberly Whitsett, Artistic Director</li><li>Ernest Tolbert, Band Director</li></ul><p>Moss, son of gospel great Bill Moss Sr. of Bill Moss and the Celestials and part of the extended Clark Sisters family, brings his own deep Detroit gospel roots to the production, making the concert both a tribute to Smallwood's national legacy and a homecoming for the city's gospel community.</p><p>\"Richard Smallwood didn't just write songs, he gave the church a new language for worship,\" said Bill Moss Jr., renowned gospel artist and Art and Music Director for Empowerment Church. \"This isn't just a concert, it's a love letter to a man who changed how the world worships. Detroit is going to feel every note.\"</p><p>Sponsorship opportunities are available for organizations that want to connect with a highly engaged audience of faith leaders, music lovers and community members across Southeast Michigan, including logo placement, event visibility and complimentary VIP tickets. Ticket and sponsorship inquiries can be directed to <a href=\"mailto:shantl.olovson@gmail.com\" target=\"_blank\" rel=\"nofollow\">shantl.olovson@gmail.com</a>.</p><p><b>Media Contact:</b> Bill Moss, Jr.<br></br><a href=\"mailto:sir-organ@sbcglobal.net\" target=\"_blank\" rel=\"nofollow\">sir-organ@sbcglobal.net</a><br></br>248-346-5001</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE51668&amp;sd=2026-09-21\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/detroit-remembers-richard-smallwood-a-concert-tribute-to-honor-the-gospel-music-icon-this-october-302885026.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/detroit-remembers-richard-smallwood-a-concert-tribute-to-honor-the-gospel-music-icon-this-october-302885026.html</a></p><p>SOURCE Salathiel Records</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE51668&amp;Transmission_Id=202609211021PR_NEWS_USPR_____DE51668&amp;DateId=20260921\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Salathiel Records",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-21T17:44:51.626Z"
+    },
     {
       "company": [
         "Media One Digital Imaging Solutions, LLC"
