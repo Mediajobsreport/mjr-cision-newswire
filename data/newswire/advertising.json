@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-09-21T09:56:16.290Z",
+  "generated_at": "2026-09-21T10:17:35.867Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 32,
+  "count": 33,
   "releases": [
+    {
+      "company": [
+        "Quartile"
+      ],
+      "date": "20260921T100000+0000",
+      "dateline": "NEW YORK, Sept. 21, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "SMD",
+        "MLM",
+        "ECM",
+        "AFI"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260921CG51911",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\">New technology partnership expands Quartile's AI-powered advertising capabilities into conversational discovery, combining advanced technology with the expertise of its customer strategy teams</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Quartile, the world's largest retail media optimization platform, today announced that it has become a technology partner supporting advertising in ChatGPT, expanding its capabilities into a new environment where consumers are increasingly using conversational AI (ChatGPT has more than 1B weekly active users) to discover products, evaluate options and make purchasing decisions.</p>\n",
+      "ticker": [],
+      "title": "Quartile Becomes a Technology Partner Supporting Advertising in ChatGPT",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260921CG51911",
+      "body": "\n<p class=\"prntac\">New technology partnership expands Quartile's AI-powered advertising capabilities into conversational discovery, combining advanced technology with the expertise of its customer strategy teams</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Quartile, the world's largest retail media optimization platform, today announced that it has become a technology partner supporting advertising in ChatGPT, expanding its capabilities into a new environment where consumers are increasingly using conversational AI (ChatGPT has more than 1B weekly active users) to discover products, evaluate options and make purchasing decisions.</p>\n<p>The partnership enables participating advertisers to access advertising in ChatGPT through Quartile's existing tools and workflows, providing brands with another opportunity to reach consumers during moments of product discovery.  ChatGPT Ads features clearly labeled ads that are visually distinct from ChatGPT responses, which are not influenced by ads.</p><p>This expansion also reflects the evolution of Quartile's experts + AI approach, combining advanced technology, automation, and data with the strategic expertise of experienced advertising professionals.</p><p>\"AI is creating entirely new ways for consumers to discover products, but technology alone does not create a successful advertising strategy,\" said Daniel Knijnik, CEO and Co-Founder of Quartile. \"Our experts + AI approach brings together the scale and speed of AI with the experience and judgment needed to turn those capabilities into meaningful business outcomes. Supporting advertising in ChatGPT is another step in that evolution.\"</p><p>As conversational AI changes how consumers research and make purchasing decisions, advertisers will need new ways to understand and engage with these emerging customer journeys. ChatGPT Ads are designed to provide relevant advertising during these moments of active discovery while maintaining a high-quality user experience built around transparency and trust.</p><p>Quartile's technology partner capabilities give brands a way to incorporate advertising in ChatGPT into their broader media strategies while leveraging the same technology and expertise they rely on across other advertising channels.</p><p>Quartile supports thousands of brands and manages billions of dollars in annual advertising spend across major commerce and digital advertising channels. Its technology and expertise have earned recognition from industry partners, including Amazon Ads and Walmart Connect, as well as customer-feedback platforms such as G2 and Trustpilot.</p><p>These recognitions reflect the core philosophy behind Quartile's approach: AI can provide the scale, speed and automation needed to navigate an increasingly complex advertising landscape, while experienced professionals provide the context and strategic judgment to turn those capabilities into action.</p><p>\"As advertising continues to evolve, our goal is to help brands understand not just what technology can do, but how to use it intelligently,\" said Knijnik. \"By bringing together data, AI, and a comprehensive view of their advertising strategy across channels, we can help our customers make smarter investment decisions and drive greater value from every dollar they spend.\"</p><p><b>About Quartile</b></p><p>Quartile, the world's largest retail media optimization platform, is a trusted partner for multichannel e-commerce success. Through patented AI technology and unmatched expertise, we fuel growth for 5,300+ brands and sellers worldwide and manage an annual ad spend exceeding $2 billion. The award-winning platform covers major marketplaces and ad channels for optimal reach. The result is unprecedented granularity, smarter budgeting, and bespoke solutions for retailers.  </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG51911&amp;sd=2026-09-21\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/quartile-becomes-a-technology-partner-supporting-advertising-in-chatgpt-302883747.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/quartile-becomes-a-technology-partner-supporting-advertising-in-chatgpt-302883747.html</a></p><p>SOURCE Quartile</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG51911&amp;Transmission_Id=202609210600PR_NEWS_USPR_____CG51911&amp;DateId=20260921\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Quartile",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-21T10:17:37.311Z"
+    },
     {
       "company": [
         "Advertising Specialty Institute"
