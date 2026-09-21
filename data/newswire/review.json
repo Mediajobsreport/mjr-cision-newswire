@@ -1,11 +1,96 @@
 {
-  "generated_at": "2026-09-20T23:52:38.532Z",
+  "generated_at": "2026-09-21T00:21:32.746Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 72,
+  "count": 73,
   "releases": [
+    {
+      "company": [
+        "Velocys"
+      ],
+      "date": "20260921T000500+0000",
+      "dateline": "HOUSTON and OXFORD, England, Sept. 20, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "ENG",
+        "UNK",
+        "WEU",
+        "EUR",
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "UTI",
+        "CHM",
+        "OIL"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "The Velocys AlphaCore™ Fischer-Tropsch reactor family, from AlphaCore 50 through AlphaCore 800. The new AlphaCore 800 is designed to provide more FT capacity per reactor for larger sustainable aviation fuel and e-fuels projects, including SAF plants of 100 kt/a and above.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1991849/The-Velocys-AlphaCore.jpg?id=OA2958480&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1991849/The-Velocys-AlphaCore.jpg?id=OA2958480&p=publish"
+        },
+        {
+          "caption": "Velocys",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1646338/Velocys-Logo.jpg?id=OA2958474&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1646338/Velocys-Logo.jpg?id=OA2958474&p=publish"
+        }
+      ],
+      "release_id": "20260920DA51959",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Larger-capacity microchannel reactor is designed to reduce reactor count, simplify FT configuration and lower FT unit cost</i></p><p><span class=\"legendSpanClass\">HOUSTON and OXFORD, England</span>, <span class=\"legendSpanClass\">Sept. 20, 2026</span> /PRNewswire/ -- Velocys, a Fischer-Tropsch technology licensor for sustainable fuels, today announced the release of the new AlphaCore™ 800 reactor, its highest-capacity microchannel Fischer-Tropsch (FT) reactor to date. It is designed to produce up to 800 barrels per day, or 30,000 tonnes per year (30 kt/a) of FT fluids from a single reactor.</p>",
+      "ticker": [],
+      "title": "Velocys expands Fischer-Tropsch reactor roadmap with AlphaCore 800 for larger-scale SAF and e-fuels projects",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260920DA51959",
+      "body": "<p class=\"prntac\"><i>Larger-capacity microchannel reactor is designed to reduce reactor count, simplify FT configuration and lower FT unit cost</i></p><p><span class=\"legendSpanClass\">HOUSTON and OXFORD, England</span>, <span class=\"legendSpanClass\">Sept. 20, 2026</span> /PRNewswire/ -- Velocys, a Fischer-Tropsch technology licensor for sustainable fuels, today announced the release of the new AlphaCore™ 800 reactor, its highest-capacity microchannel Fischer-Tropsch (FT) reactor to date. It is designed to produce up to 800 barrels per day, or 30,000 tonnes per year (30 kt/a) of FT fluids from a single reactor.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1991849/The-Velocys-AlphaCore.jpg?id=OA2958480\" title=\"The Velocys AlphaCore™ Fischer-Tropsch reactor family, from AlphaCore 50 through AlphaCore 800. The new AlphaCore 800 is designed to provide more FT capacity per reactor for larger sustainable aviation fuel and e-fuels projects, including SAF plants of 100 kt/a and above.\" alt=\"The Velocys AlphaCore™ Fischer-Tropsch reactor family, from AlphaCore 50 through AlphaCore 800. The new AlphaCore 800 is designed to provide more FT capacity per reactor for larger sustainable aviation fuel and e-fuels projects, including SAF plants of 100 kt/a and above.\"></img></p></div><p>AlphaCore 800 doubles the capacity of AlphaCore 400 and extends Velocys' throughput-based AlphaCore reactor family from approximately 50 to 800 barrels per day per reactor (from 2 to 30 kt/a per reactor). AlphaCore 800 is designed particularly for larger sustainable aviation fuel (SAF) and e-fuels projects, including SAF plants targeting approximately 100,000 tonnes per year and above.</p><p>Benefits from expanding reactor size while preserving the underlying chemistry and design are clear: more FT capacity per reactor, enabling fewer reactors as project scale increases without sacrificing performance or reliability. Reducing reactor count can simplify the FT island, reduce associated equipment requirements and lower FT unit cost.</p><p>For example, an FT plant requiring approximately 1,600 barrels per day (60 kt/a) of FT liquids could be configured with two AlphaCore 800 reactors. This reduces total reactor count by 75% compared to an FT unit utilizing eight AlphaCore 200 reactors while maintaining the same FT liquids capacity.</p><p>\"Customers are asking us to bring our microchannel FT technology into larger projects with simpler configurations,\" said Matthew Viergutz, CEO of Velocys. \"AlphaCore 800 is a direct response. As SAF projects move toward 100,000 tonnes per year and beyond, we are increasing capacity per reactor so developers can configure larger FT plants with fewer units while building on the technology platform and operating experience of Velocys.\"</p><p>AlphaCore 800 joins AlphaCore 50, 200 and 400 in the Velocys reactor portfolio, giving project developers a throughput-based product range built with the same core technology that can be applied across multiple project scales and syngas pathways.</p><p>The Velocys roadmap reflects growing market demand for scalable SAF and e-fuels production, where developers look to reduce plant complexity, improve repeatability and strengthen the commercial case for larger FT-based projects.</p><p><b>About Velocys</b></p><p>Velocys is a Fischer-Tropsch technology licensor for sustainable fuels. Its microFTL™ platform combines AlphaCore™ microchannel reactors, SQRCAT™ catalyst and process know-how to convert synthesis gas into liquid hydrocarbons for SAF, renewable diesel and other synthetic fuels.</p><p>Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4778159-1&amp;h=2959278944&amp;u=https%3A%2F%2Fvelocys.com%2F%3Futm_source%3Dpressrelease%26utm_medium%3DCision%26utm_campaign%3DChinae-SAF&amp;a=Velocys.com\" target=\"_blank\" rel=\"nofollow\">Velocys.com</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1646338/Velocys-Logo.jpg?id=OA2958474\" title=\"Velocys\" alt=\"Velocys\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA51959&amp;sd=2026-09-20\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/velocys-expands-fischer-tropsch-reactor-roadmap-with-alphacore-800-for-larger-scale-saf-and-e-fuels-projects-302883883.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/velocys-expands-fischer-tropsch-reactor-roadmap-with-alphacore-800-for-larger-scale-saf-and-e-fuels-projects-302883883.html</a></p><p>SOURCE Velocys</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA51959&amp;Transmission_Id=202609202005PR_NEWS_USPR_____DA51959&amp;DateId=20260920\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Velocys",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-21T00:21:34.459Z"
+    },
     {
       "company": [
         "PBS Western Reserve and Ideastream Public Media"
