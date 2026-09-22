@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-09-22T15:54:24.268Z",
+  "generated_at": "2026-09-22T16:15:18.855Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 81,
+  "count": 82,
   "releases": [
+    {
+      "company": [
+        "Ande"
+      ],
+      "date": "20260922T160000+0000",
+      "dateline": "NEW YORK, Sept. 22, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIN",
+        "IOT",
+        "STW",
+        "CPR",
+        "AFI"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "&e",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1992563/Ande.jpg?id=OA2961600&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1992563/Ande.jpg?id=OA2961600&p=publish"
+        }
+      ],
+      "release_id": "20260922NY52540",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "VEN",
+        "FNC"
+      ],
+      "summary": "<p>Ande brings corporate entertainment into a single platform and gives venues a direct channel to enterprise bookings.</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4778743-1&amp;h=4011571872&amp;u=http%3A%2F%2Fwww.ande.ai%2F&amp;a=Ande\" target=\"_blank\" rel=\"nofollow\">Ande</a>, the AI-native network for corporate entertainment, emerges from stealth with more than $52 million in seed and Series A funding from Lightspeed Venture Partners, Redpoint Ventures, Duration Ventures, and Sierra Ventures, with participation from Bain Capital Ventures.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1992563/Ande.jpg?id=OA2961600\" title=\"&amp;e\" alt=\"&amp;e\"></img>\n                </p>\n    </div>\n<p>Enterprises spend an estimated $325 billion a year on entertainment from client dinners and team outings to catering, sporting events, and gifting. Yet the booking and expense management behind it is fragmented across credit cards, AP systems, and consumer apps creating an extremely manual reconciliation process for finance teams.</p>",
+      "ticker": [],
+      "title": "Ande Raises $52M Seed and Series A to Launch The First Entertainment Operating System For Enterprises",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260922NY52540",
+      "body": "\n<p>Ande brings corporate entertainment into a single platform and gives venues a direct channel to enterprise bookings.</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4778743-1&amp;h=4011571872&amp;u=http%3A%2F%2Fwww.ande.ai%2F&amp;a=Ande\" target=\"_blank\" rel=\"nofollow\">Ande</a>, the AI-native network for corporate entertainment, emerges from stealth with more than $52 million in seed and Series A funding from Lightspeed Venture Partners, Redpoint Ventures, Duration Ventures, and Sierra Ventures, with participation from Bain Capital Ventures.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1992563/Ande.jpg?id=OA2961600\" title=\"&amp;e\" alt=\"&amp;e\"></img>\n                </p>\n    </div>\n<p>Enterprises spend an estimated $325 billion a year on entertainment from client dinners and team outings to catering, sporting events, and gifting. Yet the booking and expense management behind it is fragmented across credit cards, AP systems, and consumer apps creating an extremely manual reconciliation process for finance teams.</p><p>Ande brings structure to one of the last unmanaged categories of enterprise spend by giving teams a single platform to book entertainment effortlessly, while finance and legal teams keep full visibility and control over every dollar spent.</p><p>Ande's agentic workflows surface venue availability, book experiences, route approvals, execute contracts, and reconcile expenses automatically. Executive assistants, office managers, field marketers, GTM teams, and their managers all work together in a single, multiplayer workspace in order to book team offsites and deal-closing dinners, while the agents move each request through approval, signing, and payment.</p><p>More than 60 enterprises already run their entertainment on Ande, reporting savings of 12 to 15 percent. Customers like Cloudflare, Salesforce, McGraw Hill, Netskope, Navan, Sigma Computing, Monday.com, Workato, Semgrep, Checkout, Rillet, and many more contribute to over $400 million in entertainment spend flowing through the platform annually.</p><p>\"Entertainment is one of the most important things a company does. It builds culture, closes deals and deepens the relationships that matter most. Yet the infrastructure to manage it is broken on both sides of every transaction,\" said Lohit Sarma, CEO and co-founder of Ande.</p><p>\"Ande is the first enterprise channel between corporate buyers and the world's best entertainment vendors. Part of the reason this is such a hard problem to solve is that venues and entertainment providers don't have a centralized distribution system to plug into. We had to build it. We've spent two and half years working with venues to digitize their data, and train models and agents for these workflows that are unique to enterprises,\" continued Sarma.</p><p>For venues on the other side of the transaction, Ande is the corporate sales and marketing channel that never existed. Venues have historically had no pipeline into the corporate market. Ande gives them a platform to market to, engage with, and transact with corporate buyers at scale. Among the current partners are 1,600 hospitality venues including some of the largest and most decorated hospitality groups like Altamarea Group, Che Fico, Gracious Hospitality, JKS, The Mina Group, MML, Nobu, Riviera Dining Group, Tao Group Hospitality, Unapologetic Foods, Bacchus Management Group, Wish You Were Here, and Wolfgang Puck. Over 93,000 entertainment venues are on Ande's network today.</p><p>\"Our programs are high stakes and high visibility, with our executive leadership team and key customers at the core of each event we host,\" said Vicky Chung, Director of Corporate Events at Netskope. \"My team and I trust Ande's platform, and especially the team behind it. I have real-time visibility into what's happening across every event, and when I need something done right, I know it will be. My team is now focused on reaching the executives that matter and scaling the program vs. worrying about the logistics.\"</p><p>\"Entertainment is every enterprise's biggest expense line that is not yet well managed. For that reason, there are financial inefficiencies and a poor experience,\" notes Arif Janmohamed, Venture Partner at Lightspeed Venture Partners and Co-Founder of Duration Ventures. \"Ande is the connective tissue, the perfect handshake between corporations and venues. Lohit is an exceptional founder, and the size of the market opportunity is largely unbounded.\"</p><p>Redpoint Ventures Managing Director Alex Bard notes, \"Particularly when we invest in an early-stage company, our confidence has everything to do with the founder and their ambition. Lohit has both startup DNA and the enterprise experience to solve this problem. His vision for Ande is bold and ambitious.\"</p><p>About Ande</p><p>Ande is the AI-native network for corporate entertainment. Over 60 enterprises, including Cloudflare, Salesforce, and McGraw Hill already book, manage, and measure every experience through Ande, moving more than $400 million a year through a network of 93,000 entertainment providers across 90+ cities. For the vendors on the other side of the transaction, Ande is the dedicated corporate channel that's never existed. Learn more at ande.ai.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY52540&amp;sd=2026-09-22\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ande-raises-52m-seed-and-series-a-to-launch-the-first-entertainment-operating-system-for-enterprises-302885220.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ande-raises-52m-seed-and-series-a-to-launch-the-first-entertainment-operating-system-for-enterprises-302885220.html</a></p><p>SOURCE Ande</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY52540&amp;Transmission_Id=202609221200PR_NEWS_USPR_____NY52540&amp;DateId=20260922\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Ande",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-22T16:15:20.105Z"
+    },
     {
       "company": [
         "Office of the Secretary to the Governor General"
