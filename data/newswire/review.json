@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-09-22T11:54:14.212Z",
+  "generated_at": "2026-09-22T12:19:00.577Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 78,
+  "count": 79,
   "releases": [
+    {
+      "company": [
+        "Sales Rabbit"
+      ],
+      "date": "20260922T120000+0000",
+      "dateline": "LEHI, Utah, Sept. 22, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "UTH",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HMI",
+        "CST",
+        "HVA",
+        "STW",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Sales Rabbit Launches Roof Rabbit",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985971/RR_launch_press_release_v2.jpg?id=OA2941906&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985971/RR_launch_press_release_v2.jpg?id=OA2941906&p=publish"
+        },
+        {
+          "caption": "Roof Rabbit Built By Sales Rabbit",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1985970/sr_26_brand_logo_roof_rabbit__logotype_distressed_tagline_signal_rgb_2000px_w_72ppi.jpg?id=OA2941904&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1985970/sr_26_brand_logo_roof_rabbit__logotype_distressed_tagline_signal_rgb_2000px_w_72ppi.jpg?id=OA2941904&p=publish"
+        }
+      ],
+      "release_id": "20260922LA45333",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT"
+      ],
+      "summary": "<p><i>One machine runs canvassing, instant quoting, production, and payments, so the roofer who gets there first also gets paid first.</i></p><p><span class=\"legendSpanClass\">LEHI, Utah</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- In roofing, the contractor who reaches the homeowner first and quotes fastest wins the job. Sales Rabbit, the field-sales platform used by more than 225,000 sales representatives, today announced Roof Rabbit, the only connected machine that takes a roofing job from first lead to final payment. Roof Rabbit opens today in limited release, and roofing contractors can apply for early access at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771742-1&amp;h=3023149965&amp;u=https%3A%2F%2Froofrabbit.ai%2F&amp;a=roofrabbit.ai\" target=\"_blank\" rel=\"nofollow\">roofrabbit.ai</a>.</p>\n    ",
+      "ticker": [],
+      "title": "Sales Rabbit Launches Roof Rabbit to Take Roofing Contractors from First Lead to Final Payment",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260922LA45333",
+      "body": "\n<p><i>One machine runs canvassing, instant quoting, production, and payments, so the roofer who gets there first also gets paid first.</i></p><p><span class=\"legendSpanClass\">LEHI, Utah</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- In roofing, the contractor who reaches the homeowner first and quotes fastest wins the job. Sales Rabbit, the field-sales platform used by more than 225,000 sales representatives, today announced Roof Rabbit, the only connected machine that takes a roofing job from first lead to final payment. Roof Rabbit opens today in limited release, and roofing contractors can apply for early access at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771742-1&amp;h=3023149965&amp;u=https%3A%2F%2Froofrabbit.ai%2F&amp;a=roofrabbit.ai\" target=\"_blank\" rel=\"nofollow\">roofrabbit.ai</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985971/RR_launch_press_release_v2.jpg?id=OA2941906\" title=\"Sales Rabbit Launches Roof Rabbit\" alt=\"Sales Rabbit Launches Roof Rabbit\"></img>\n                </p>\n    </div>\n<p>Own the lead, own the quote, own the payment. Roof Rabbit runs the whole roofing job in one machine, one place, one login. It covers canvassing and lead generation at the door, instant roof quoting on the contractor's own website, and production, CRM, and payment. Most roofing companies run that same job across a stack of tools that don't talk to each other, and every handoff leaks revenue: the lead nobody called back, the quote that took days, the signed job re-typed into the office system, the check that shows up late. Roof Rabbit closes those leaks.</p><p>A homeowner who used to wait days for a callback can now get a full estimate from the contractor's website at any hour. A rep who used to leave the door with a maybe can now build the quote in under 30 seconds and close on the spot. Once the proposal is signed, the job goes straight to production. Nobody types it in twice. The same system handles materials, crew scheduling, and getting paid.</p><p>\"In roofing, the contractor who gets to the homeowner first and closes fastest wins,\" said Ben Alves, CEO of Sales Rabbit. \"That's the reality every operator in this business knows. The time between the knock and the collected check is where deals are made or lost, and every hour of delay is an opportunity for a competitor to get there first. We built Roof Rabbit to compress that cycle at every step.\"</p><p>Roof Rabbit is new. What it is built from is proven. Sales Rabbit acquired RoofLink in November 2024 for its roofing CRM and production software, and Roofle in January 2026 for its instant quoting engine, which has delivered more than 2.4 million estimates from aerial measurement data. The company took the strongest parts of all three, canvassing from Sales Rabbit, quoting from Roofle, production and payments from RoofLink, and engineered them into a single solution for the whole roofing job.</p><p>\"Roofle was built to solve one specific problem: getting a real, accurate quote in front of a homeowner before anyone else could,\" said Travis Harvego, VP of Strategic Partnerships and Growth and Co-founder of Roofle. \"More than 3,000 contractor sites are quoting online today because of it. That front-of-funnel capability is now part of a system that follows the job all the way through to payment: Roof Rabbit.\"</p><p>Jesse Mahan, VP, Business Owner, and a Founding Collaborator on RoofLink, points to the back-office problem in roofing companies where most margin gets lost. \"After the contract is signed, you still have to manage materials, coordinate crews, track the job, and collect the money. That's where a lot of revenue disappears. RoofLink was built to make that process run without the office chasing every step, and that's what Roof Rabbit carries forward.\"</p><p>Roof Rabbit is live today for a limited group of roofing contractors, with access expanding in the weeks ahead. Early access includes the full product, done-for-you setup, and a direct line to the team building it. Contractors can apply at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4771742-1&amp;h=3023149965&amp;u=https%3A%2F%2Froofrabbit.ai%2F&amp;a=roofrabbit.ai\" target=\"_blank\" rel=\"nofollow\">roofrabbit.ai</a>.</p><p><b>About Sales Rabbit</b></p><p>Founded in 2013 and headquartered in Lehi, Utah, Sales Rabbit is the field-sales platform used by more than 225,000 sales representatives across roofing, solar, pest control, alarms, telecommunications, and home services. The company's software powers field teams through canvassing, lead management, and revenue operations. Roof Rabbit is Sales Rabbit's AI-native roofing machine, taking a job from first lead to final payment: canvassing, online quoting, proposals, production, and payments in one place.</p><p><b>Media Contact</b><br></br>Matthew McDaniel<br></br>Vice President of Marketing and Growth<br></br>Sales Rabbit<br></br><a href=\"mailto:matthew.mcdaniel@salesrabbit.com\" target=\"_blank\" rel=\"nofollow\">matthew.mcdaniel@salesrabbit.com</a><br></br>+1 (317) 698-1442</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1985970/sr_26_brand_logo_roof_rabbit__logotype_distressed_tagline_signal_rgb_2000px_w_72ppi.jpg?id=OA2941904\" title=\"Roof Rabbit Built By Sales Rabbit\" alt=\"Roof Rabbit Built By Sales Rabbit\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA45333&amp;sd=2026-09-22\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/sales-rabbit-launches-roof-rabbit-to-take-roofing-contractors-from-first-lead-to-final-payment-302882488.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/sales-rabbit-launches-roof-rabbit-to-take-roofing-contractors-from-first-lead-to-final-payment-302882488.html</a></p><p>SOURCE Sales Rabbit</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA45333&amp;Transmission_Id=202609220800PR_NEWS_USPR_____LA45333&amp;DateId=20260922\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Sales Rabbit",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-22T12:19:02.560Z"
+    },
     {
       "company": [
         "Great American Media"
