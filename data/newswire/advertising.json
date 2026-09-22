@@ -1,11 +1,98 @@
 {
-  "generated_at": "2026-09-22T06:19:34.675Z",
+  "generated_at": "2026-09-22T06:47:07.681Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 34,
+  "count": 35,
   "releases": [
+    {
+      "company": [
+        "IAB Tech Lab"
+      ],
+      "date": "20260922T063000+0000",
+      "dateline": "NEW YORK, Sept. 22, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "MLM",
+        "DTA",
+        "ADV",
+        "STW"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "IAB Tech Lab",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1775761/IAB-Tech-Lab-Logo.jpg?id=OA2962102&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1775761/IAB-Tech-Lab-Logo.jpg?id=OA2962102&p=publish"
+        }
+      ],
+      "release_id": "20260922NY53347",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>OpenProposal Brings a Common Standard to a Historically Manual Stage of Media Buying, Connecting RFPs to Buy Commitments and will be in Public Comment until October 22, 2026</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- Today, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779562-1&amp;h=2380481656&amp;u=https%3A%2F%2Fiabtechlab.com%2F&amp;a=IAB+Tech+Lab\" target=\"_blank\" rel=\"nofollow\">IAB Tech Lab</a>, the global digital advertising technical standards-setting body, announced AAMP 3.0, the next major release of its Agentic Advertising Management Protocols framework, introducing a standardized way for buyers and sellers to move from an RFP through proposal evaluation and toward a buy commitment in agentic advertising.</p>\n    ",
+      "ticker": [],
+      "title": "IAB Tech Lab Introduces AAMP 3.0 to Standardize the RFP-to-Buy Process for Agentic Advertising",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260922NY53347",
+      "body": "\n<p class=\"prntac\"><i>OpenProposal Brings a Common Standard to a Historically Manual Stage of Media Buying, Connecting RFPs to Buy Commitments and will be in Public Comment until October 22, 2026</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- Today, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779562-1&amp;h=2380481656&amp;u=https%3A%2F%2Fiabtechlab.com%2F&amp;a=IAB+Tech+Lab\" target=\"_blank\" rel=\"nofollow\">IAB Tech Lab</a>, the global digital advertising technical standards-setting body, announced AAMP 3.0, the next major release of its Agentic Advertising Management Protocols framework, introducing a standardized way for buyers and sellers to move from an RFP through proposal evaluation and toward a buy commitment in agentic advertising.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1775761/IAB-Tech-Lab-Logo.jpg?id=OA2962102\" title=\"IAB Tech Lab\" alt=\"IAB Tech Lab\"></img>\n                </p>\n    </div>\n<p>While standards exist for many stages of digital media buying and execution, the process between an RFP and a buy commitment has historically been handled largely through human and manual workflows. As AI agents take on more responsibility for discovering, evaluating and planning media, that gap creates the need for a common way for buyer and seller agents to exchange and evaluate proposals before a transaction moves toward execution.</p><p>AAMP 3.0 addresses that gap through OpenProposal, a new specification that defines how sellers can represent advertising products and respond to buyer briefs in a standardized, agent-readable format. OpenProposal enables buying agents to discover and compare opportunities against a brief while giving sellers control over how their inventory and ad products are represented. The new specification will be in Public Comment until October 22, 2026, during which time it will be built into the Buyer and Seller Agent SDK reference implementations.</p><p>OpenProposal extends AAMP into the RFP and proposal stage while connecting to the IAB Tech Lab standards already used across media execution, including AdCOM, OpenDirect, and the Deals API. Together, these standards provide a common foundation for agentic workflows to move from discovery and planning through negotiation, buying, execution and reporting.</p><p>\"As agents take on more of the work in media planning and buying,the industry needs a common framework for the RFP and proposal process,\" said Anthony Katsur, CEO, IAB Tech Lab. \"OpenProposal fills a major gap between a buyer's brief and a buy commitment, giving buyer and seller agents a standardized way to exchange and evaluate opportunities. By connecting that process to the standards the industry already uses for execution, AAMP 3.0 creates a foundation for agentic workflows across the media buying lifecycle.\"</p><p><b>From Discovery to Execution</b></p><p>OpenProposal creates a standard way for publishers to define advertising products and packages and to represent them in RFP responses. Buying agents can evaluate those proposals against a buyer's brief, compare opportunities and assess suitability before moving toward a buy commitment. Once an opportunity moves forward, AAMP connects that proposal to the standards and infrastructure used for all types of transaction and execution.</p><p>AAMP 3.0 supports a media lifecycle that includes:</p><ul type=\"disc\"><li><b>Publish: </b>Sellers publish a catalog of public packages that can be browsed, while retaining some products for custom proposals.</li><li><b>Discover:</b> Buyer agents retrieve available public packages, enabling inventory discovery before a negotiation begins, or submit a full brief to get a custom proposal.</li><li><b>Compare:</b> Buyer agents evaluate and rank opportunities against a declared brief, creating the ability to process information from a broader set of publishers than would be practical through manual evaluation alone.</li><li><b>Qualify:</b> Agents evaluate availability and fit for the specific audience, flight and requirements of a media plan.</li><li><b>Negotiate:</b> When needed, buyer and seller agents can negotiate custom terms while maintaining a reference to the original published offer.</li><li><b>Bind &amp; Execute:</b> Transactions can be executed using the existing standards and infrastructure of the digital advertising ecosystem.</li><li><b>Report:</b> Performance can flow back through existing reporting standards, allowing results to be evaluated against the original objectives and commitments of the plan.</li></ul><p>AdCOM provides a common vocabulary throughout these stages, allowing the information represented at discovery to remain consistent as an opportunity moves through planning, negotiation, execution and reporting.</p><p><b>OpenProposal Makes Publisher Ad Products Agent-Readable</b></p><p>OpenProposal gives publishers a standardized way to make a broader range of ad products understandable to buying agents and to create proposals in response to buyer briefs. In the proposal, sellers can include information necessary for buyers to understand how the products can be bought, executed, measured and evaluated.</p><p>For buyers, this creates the ability to evaluate a much broader universe of potential media opportunities. Agentic technology can process and compare more information across more publishers than a human planner could reasonably evaluate alone, helping buying organizations build plans informed by a larger and more diverse consideration set.</p><p>OpenProposal maintains continuity with the digital advertising infrastructure already in the market. It complements OpenDirect, AdCOM, and the Deals API, using those established standards as opportunities move from planning into transaction and execution. Existing programmatic implementations of those standards can continue operating as they do today, without requiring DSPs, SSPs or other technologies to change their existing use cases.</p><p>In addition, the AAMP agent software development kits (SDKs) continue to further harden deterministic guardrails governing pricing, ad packages, orders and media buy details, increase trust in agent identities, and strengthen idempotency across transactions to help ensure consistent responses and data integrity as agents operate at greater speed and scale. In practical terms, idempotency means an instruction can be sent twice without happening twice; so when an agent retries a request it didn't get an answer to, the result is confirmation of the original order rather than a duplicate.</p><p><b>Industry Support for an Agentic Media Ecosystem</b></p><p>As agencies, brands and publishers begin building agents into their planning and transaction workflows, industry participants are rallying around the need for common standards that allow those agents to communicate across companies and platforms. AAMP agents with OpenProposal are designed to create that shared foundation while allowing every participant to maintain control over its own technology, inventory, business rules and data.</p><p>\"By providing full agentic coverage for all existing IAB Tech Lab standards, while at the same time standardizing agent authentication and authorization protocols, AAMP 3.0 delivers a transaction-ready framework that will aid our industry's movement from proof-of-concept tests towards the wide-spread use of AI Agents in media transactions.\" added <b>Michael Palmer, </b><b>Global Vice President, Emerging Technologies</b><b> at WPP Media.</b></p><p>\"Agentic planning gives us the opportunity to evaluate a much broader range of media opportunities and information when we build a plan,\" added <b>Mike Treon, Head of CTV Strategy at PMG.</b> \"What's new in AAMP 3.0 is that the reasoning travels with the proposal. A seller can tell us not just what a package costs, but why they believe it fits the brief — the audience rationale, the formats, the terms behind the price. That context is what our planning models need, and now it arrives in a form they can actually read.\"</p><p>The global IAB Network is also getting involved. \"IAB Australia has opened expressions of interest for a seller-side pilot using the AAMP reference implementations available today,\" said <b>Jonas Jaanimagi, Technology Lead, IAB Australia</b>. \"We've been running those implementations in a lab for months and contributing feedback upstream. Our role now is to help Australian publishers test discovery, proposal and approval workflows in a sandbox before any live spend is involved, and to turn that practical experience into useful evidence for the industry.\"</p><p>AAMP 3.0 represents the next stage in IAB Tech Lab's work to apply agentic capabilities to the proven standards that underpin digital advertising. By standardizing the RFP-to-buy commitment process and connecting it with established standards for transaction, execution and reporting, AAMP 3.0 helps create a common foundation for agentic media buying without requiring the industry to rebuild the infrastructure it relies on today.</p><p>To review the OpenProposal specification, supporting technical resources, and to provide feedback, via Public Comment until October 22, 2026. please visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779562-1&amp;h=3847549772&amp;u=http%3A%2F%2Fiabtechlab.com%2FAAMPv3&amp;a=iabtechlab.com%2FAAMPv3\" target=\"_blank\" rel=\"nofollow\"><b>iabtechlab.com/</b><b>AA</b><b>MPv3</b></a>.</p><p><b>About IAB Technology Laboratory<br></br></b>Established in 2014, the IAB Technology Laboratory (Tech Lab) is a non-profit consortium that engages a member community globally to develop foundational technology and standards that enable growth and trust in the digital media ecosystem. Comprised of digital publishers, ad technology firms, agencies, brands, and other member companies, IAB Tech Lab focuses on solutions for brand safety and ad <span>fraud</span>; identity, data, and consumer privacy; cross-channel programmatic effectiveness and ad measurement; and the impact of LLMs and AI agents on advertising. Its work includes the OpenRTB real-time bidding protocol, ads.txt anti-<span>fraud</span> specification, Open Measurement SDK for viewability and verification, VAST video specification, Trusted Server, and the Agentic Roadmap initiative for agentic advertising. Board members and companies are listed at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779562-1&amp;h=2860580614&amp;u=https%3A%2F%2Fiabtechlab.com%2Fabout-the-iab-tech-lab%2Ftech-lab-leadership%2F&amp;a=https%3A%2F%2Fiabtechlab.com%2Fabout-the-iab-tech-lab%2Ftech-lab-leadership%2F\" target=\"_blank\" rel=\"nofollow\">https://iabtechlab.com/about-the-iab-tech-lab/tech-lab-leadership/</a>. For more information, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779562-1&amp;h=1266061283&amp;u=https%3A%2F%2Fiabtechlab.com%2F&amp;a=https%3A%2F%2Fiabtechlab.com\" target=\"_blank\" rel=\"nofollow\">https://iabtechlab.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY53347&amp;sd=2026-09-22\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/iab-tech-lab-introduces-aamp-3-0-to-standardize-the-rfp-to-buy-process-for-agentic-advertising-302885337.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/iab-tech-lab-introduces-aamp-3-0-to-standardize-the-rfp-to-buy-process-for-agentic-advertising-302885337.html</a></p><p>SOURCE IAB Tech Lab</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY53347&amp;Transmission_Id=202609220230PR_NEWS_USPR_____NY53347&amp;DateId=20260922\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "IAB Tech Lab",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 8,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:media buying",
+            "summary:digital advertising",
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-22T06:47:08.665Z"
+    },
     {
       "company": [
         "Status Labs"
