@@ -1,9 +1,177 @@
 {
-  "generated_at": "2026-09-22T12:19:00.577Z",
+  "generated_at": "2026-09-22T12:46:45.632Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 301,
+  "count": 303,
   "releases": [
+    {
+      "company": [
+        "Interactive Advertising Bureau (IAB)"
+      ],
+      "date": "20260922T123000+0000",
+      "dateline": "NEW YORK, Sept. 22, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "DOC",
+        "UNE",
+        "USA",
+        "NAM",
+        "ILL",
+        "UMW"
+      ],
+      "industry": [
+        "ADV",
+        "DTA",
+        "CPR",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS906902/IAB-Logov1.jpg?id=OA2961824&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS906902/IAB-Logov1.jpg?id=OA2961824&p=publish"
+        }
+      ],
+      "release_id": "20260922NY53225",
+      "status": "PUBLISHED",
+      "subject": [
+        "LAW",
+        "LIC",
+        "CON"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>New Draft Framework Introduces Standardized Contractual Terms for Advertising Measurement, Verification, Attribution, and Analytics Services</i></b></p><p class=\"prntac\"><b><i>Public Comment Open Until October 22, 2026</i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779438-1&amp;h=2744818607&amp;u=https%3A%2F%2Fwww.iab.com%2F&amp;a=Interactive+Advertising+Bureau\" target=\"_blank\" rel=\"nofollow\">Interactive Advertising Bureau</a> (IAB), the leading trade association for the digital advertising industry, today released the Measurement Services Addendum v1.0 for public comment, introducing a standardized contractual framework for companies that provide, purchase, or use advertising measurement, verification, attribution, and analytics services. Developed through IAB's Terms &amp; Conditions Task Force, the addendum expands IAB's modular legal framework to support more consistent, efficient, and interoperable agreements across the digital advertising ecosystem. The public comment period will be open for 30 days until October 22, 2026.</p>\n    ",
+      "ticker": [],
+      "title": "IAB Releases Measurement Services Addendum v1.0 for Public Comment",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260922NY53225",
+      "body": "\n<p class=\"prntac\"><b><i>New Draft Framework Introduces Standardized Contractual Terms for Advertising Measurement, Verification, Attribution, and Analytics Services</i></b></p><p class=\"prntac\"><b><i>Public Comment Open Until October 22, 2026</i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779438-1&amp;h=2744818607&amp;u=https%3A%2F%2Fwww.iab.com%2F&amp;a=Interactive+Advertising+Bureau\" target=\"_blank\" rel=\"nofollow\">Interactive Advertising Bureau</a> (IAB), the leading trade association for the digital advertising industry, today released the Measurement Services Addendum v1.0 for public comment, introducing a standardized contractual framework for companies that provide, purchase, or use advertising measurement, verification, attribution, and analytics services. Developed through IAB's Terms &amp; Conditions Task Force, the addendum expands IAB's modular legal framework to support more consistent, efficient, and interoperable agreements across the digital advertising ecosystem. The public comment period will be open for 30 days until October 22, 2026.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS906902/IAB-Logov1.jpg?id=OA2961824\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>\"Reliable measurement is fundamental to a healthy digital advertising marketplace, but the legal frameworks supporting those relationships have often been shaped one agreement at a time,\" said David Cohen, CEO, IAB. \"By developing a common contractual foundation for measurement services, we're giving the industry a practical starting point that can reduce friction, improve efficiency, and help organizations spend less time negotiating custom agreements and more time delivering value for all.\"</p><p>The Measurement Services Addendum is the latest component of IAB's modular legal framework, building on the General Terms v1.1 and Direct Buy Addendum v1.0 <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779438-1&amp;h=4153111005&amp;u=https%3A%2F%2Fwww.iab.com%2Fguidelines%2Fdirect-buy-addendum-v1-0-final&amp;a=released+earlier+this+year\" target=\"_blank\" rel=\"nofollow\">released earlier this year</a>. Designed for use by advertisers, agencies, publishers, media owners, platforms, and measurement providers, the framework establishes standardized terms for advertising measurement relationships, helping reduce contractual fragmentation, streamline negotiations, improve operational efficiency, and create greater consistency across the digital advertising ecosystem while remaining flexible enough to accommodate different technologies, methodologies, and business models.</p><p>\"Measurement has become increasingly sophisticated, but the contracts governing those services haven't kept pace,\" said Cintia Gabilan, SVP, Centers of Excellence &amp; Industry Initiatives, IAB. \"The Measurement Services Addendum gives organizations a practical legal framework they can adopt as written or incorporate into existing agreements, making it easier to create greater consistency across measurement relationships while accommodating different business models and technologies.\"</p><p>The public comment package includes the Measurement Services Addendum v1.0, General Terms v1.1 and Appendix 1 – Definitions v1.1, which together establish a shared legal baseline for advertising measurement relationships. The General Terms are incorporated by reference into the addendum and are intended for use with an applicable addendum rather than as a standalone agreement.</p><p>IAB invites advertisers, agencies, publishers, platforms, measurement providers, ad technology companies, and legal, procurement, finance, privacy and ad operations professionals to review the draft and provide feedback. Comments received during the public comment period will be considered in the finalization process.</p><p>Public comments will be accepted through October 22, 2026. Feedback, including suggested edits, implementation questions, and general usability comments, may be submitted to <a href=\"mailto:terms-comments@iab.com\" target=\"_blank\" rel=\"nofollow\">terms-comments@iab.com</a>. Draft documents are available <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779438-1&amp;h=840998633&amp;u=https%3A%2F%2Fwww.iab.com%2Fguidelines%2Fiab-releases-measurement-services-addendum-for-public-comment%2F&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>.</p><p><b>About IAB</b></p><p>The Interactive Advertising Bureau (IAB) empowers the media and marketing industries to thrive in the digital economy. Its membership comprises more than 700 leading media companies, brands, agencies, and the technology firms responsible for selling, delivering, and optimizing digital ad marketing campaigns. The trade group fields critical research on interactive advertising, while also educating brands, agencies, and the wider business community on the importance of digital marketing. In affiliation with the IAB Tech Lab, IAB develops technical standards and solutions. IAB is committed to professional development and elevating the knowledge, skills, expertise, and collaboration of the workforce across the industry. Through the work of its public policy office in Washington, D.C., the trade association advocates for its members and promotes the value of the interactive advertising industry to legislators and policymakers. Founded in 1996, IAB is headquartered in New York City.</p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY53225&amp;sd=2026-09-22\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/iab-releases-measurement-services-addendum-v1-0-for-public-comment-302885799.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/iab-releases-measurement-services-addendum-v1-0-for-public-comment-302885799.html</a></p><p>SOURCE Interactive Advertising Bureau (IAB)</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY53225&amp;Transmission_Id=202609220830PR_NEWS_USPR_____NY53225&amp;DateId=20260922\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Interactive Advertising Bureau (IAB)",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 8,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising industry",
+            "summary:digital advertising",
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-22T12:46:46.686Z"
+    },
+    {
+      "company": [
+        "Swyzel"
+      ],
+      "date": "20260922T122000+0000",
+      "dateline": "TAMPA, Fla., Sept. 22, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SMD",
+        "CPR",
+        "TLS",
+        "ITE",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Swyzel.com - Social Learning Platform",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1993795/Logo-swyzel-outlined-square.jpg?id=OA2963284&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1993795/Logo-swyzel-outlined-square.jpg?id=OA2963284&p=publish"
+        }
+      ],
+      "release_id": "20260922PH53805",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>New social learning platform aims to combat mindless scrolling with short-form learning, while giving everyday people and creators a simple way to share knowledge through free and paid content.</i></p><p><span class=\"legendSpanClass\">TAMPA, Fla.</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- Swyzel is a growing social learning platform that allows users to learn from others, create their own learning content, and earn money from paid content.</p>\n<p><b>Why Swyzel is different:</b></p><ul type=\"disc\"><li>While courses of all sizes can be created, Swyzel is focused on mini courses for short form learning that can take the place of some doom scrolling.</li><li>Focused on building a community that supports the creators who dedicate their time creating content so they can earn extra income.</li><li>Anyone can become a creator and begin earning right away.</li></ul>",
+      "ticker": [],
+      "title": "Swyzel Wants to Make Learning as Addictive as Social Media",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260922PH53805",
+      "body": "\n<p><i>New social learning platform aims to combat mindless scrolling with short-form learning, while giving everyday people and creators a simple way to share knowledge through free and paid content.</i></p><p><span class=\"legendSpanClass\">TAMPA, Fla.</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- Swyzel is a growing social learning platform that allows users to learn from others, create their own learning content, and earn money from paid content.</p>\n<p><b>Why Swyzel is different:</b></p><ul type=\"disc\"><li>While courses of all sizes can be created, Swyzel is focused on mini courses for short form learning that can take the place of some doom scrolling.</li><li>Focused on building a community that supports the creators who dedicate their time creating content so they can earn extra income.</li><li>Anyone can become a creator and begin earning right away.</li></ul><p>Research has linked heavy short-form video use with weaker attention spans, reduced cognitive abilities, and addictive usage patterns. Swyzel is designed to redirect some of that scrolling time toward quick learning sessions.</p><p>Unlike traditional online course platforms that often focus on lengthy courses, Swyzel is designed around shorter, more accessible learning experiences. It combats mindless scrolling by making learning feel more like the content people already enjoy consuming online, and providing content that can be explored in shorter periods of time.</p><p>Swyzel's approach is based on a simple idea: useful knowledge does not have to be boring. People can gain valuable knowledge from others in small doses while still being entertained.</p><p><b>How to Learn<br></br></b>For learners, Swyzel offers a growing library of practical information from people with expertise across a wide range of subjects. They can choose between free courses or paid courses starting as low as $0.99.</p><p><b>How to Create and Earn<br></br></b>Anyone can create a course on Swyzel, as long as the topic meets content guidelines. There is no waiting period or minimum follower thresholds like other platforms. Creators can start small and make a free course, or scale up to larger courses and charge $0.99 to $299. They can add text, images, and videos. It is a great option for beginners and content creators of all sizes. For established content creators, it is another way for them to monetize their following.</p><p><b>Visit </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4780020-1&amp;h=4189765508&amp;u=https%3A%2F%2Fswyzel.com%2F&amp;a=https%3A%2F%2FSwyzel.com\" target=\"_blank\" rel=\"nofollow\"><b>https://Swyzel.com</b></a><b> to try it out!</b></p><p><b>Media Contact<br></br></b>Ryan Sanchez<br></br>Owner, Lead Developer<br></br>Swyzel. LLC<br></br>302-262-5132<br></br><a href=\"mailto:423228@email4pr.com\" target=\"_blank\" rel=\"nofollow\">423228@email4pr.com</a><br></br><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4780020-1&amp;h=4189765508&amp;u=https%3A%2F%2Fswyzel.com%2F&amp;a=https%3A%2F%2FSwyzel.com\" target=\"_blank\" rel=\"nofollow\">https://Swyzel.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH53805&amp;sd=2026-09-22\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/swyzel-wants-to-make-learning-as-addictive-as-social-media-302886136.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/swyzel-wants-to-make-learning-as-addictive-as-social-media-302886136.html</a></p><p>SOURCE Swyzel</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH53805&amp;Transmission_Id=202609220820PR_NEWS_USPR_____PH53805&amp;DateId=20260922\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Swyzel",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 6,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "social media",
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-22T12:46:46.806Z"
+    },
     {
       "company": [
         "Simpli.fi"
