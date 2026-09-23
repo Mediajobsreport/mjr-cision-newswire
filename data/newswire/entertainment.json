@@ -1,11 +1,94 @@
 {
-  "generated_at": "2026-09-23T13:56:57.218Z",
+  "generated_at": "2026-09-23T14:18:42.275Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 119,
+  "count": 120,
   "releases": [
+    {
+      "company": [
+        "Espace pour la vie Montreal"
+      ],
+      "date": "20260923T140000+0000",
+      "dateline": "MONTREAL, Sept. 23, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "QUE",
+        "CAN",
+        "NAM",
+        "GRC",
+        "WEU",
+        "EUR"
+      ],
+      "industry": [
+        "ATL",
+        "ENT",
+        "TRA",
+        "FLM",
+        "STM"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Espace pour la vie logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1757720/Espace-pour-la-vie-Montreal-ENCOUNTERS-IN-THE-MILKY-WAY-A-NEW-FI.jpg?id=OA2961482&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1757720/Espace-pour-la-vie-Montreal-ENCOUNTERS-IN-THE-MILKY-WAY-A-NEW-FI.jpg?id=OA2961482&p=publish"
+        }
+      ],
+      "release_id": "20260923C1329",
+      "status": "PUBLISHED",
+      "subject": [
+        "CHI",
+        "HSP"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">MONTREAL</span>, <span class=\"legendSpanClass\">Sept. 23, 2026</span> /CNW/ -- Just as the planets orbit the Sun, our solar system continues its own journey through our galaxy. Explore the Milky Way, discover its history, its future, and the dynamic transformations constantly taking place within it in the new film presented by the Planétarium | Espace pour la vie, <b><i>Encounters in the Milky Way</i></b>, opening October 6 and narrated by Chilean-American actor Pedro Pascal. The film is produced by the American Museum of Natural History in New York, with major support from and in partnership with NASA.</p>\n    ",
+      "ticker": [],
+      "title": "ENCOUNTERS IN THE MILKY WAY A NEW FILM COMING TO THE PLANÉTARIUM ON OCTOBER 6",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260923C1329",
+      "body": "\n<p><span class=\"legendSpanClass\">MONTREAL</span>, <span class=\"legendSpanClass\">Sept. 23, 2026</span> /CNW/ -- Just as the planets orbit the Sun, our solar system continues its own journey through our galaxy. Explore the Milky Way, discover its history, its future, and the dynamic transformations constantly taking place within it in the new film presented by the Planétarium | Espace pour la vie, <b><i>Encounters in the Milky Way</i></b>, opening October 6 and narrated by Chilean-American actor Pedro Pascal. The film is produced by the American Museum of Natural History in New York, with major support from and in partnership with NASA.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1757720/Espace-pour-la-vie-Montreal-ENCOUNTERS-IN-THE-MILKY-WAY-A-NEW-FI.jpg?id=OA2961482\" title=\"Espace pour la vie logo\" alt=\"Espace pour la vie logo\"></img>\n                </p>\n    </div>\n<p><b>Synopsis </b></p><p>Discover the chance encounters that have shaped our place in the universe. Reaching billions of years into the past and peering millions of years into the future, <b><i>Encounters in the Milky Way</i></b> is a time-traveling journey about the cosmic movements that shape our galactic neighbourhood.</p><p>Witness spectacular moments in our solar system's past and future, including the paths of stars, comets, interstellar debris, and visually stunning gas and dust clouds--and, visualized for the first time, a dramatic, ongoing merger of our galaxy with a smaller satellite galaxy.</p><p>Developed by a team that includes astronomers, science visualization experts, and artists, <b><i>Encounters in the Milky Way</i></b> is made possible by data from one of the most transformative projects of the past century: the European Space Agency's Gaia mission, dubbed the \"billion-star survey\" for mapping the precise positions, distances, and motions of nearly 2 billion stars in our galaxy.</p><p><b>Contribution from an expert at the Planétarium de Montréal</b></p><p>As part of ongoing collaborations related to the publication of scientific articles, Jackie Faherty, a senior research scientist at the American Museum of Natural History in New York and curator of the film project, called on Jonathan Gagné, a scientific advisor at the Planétarium, to visualize the distribution of young stars in a region near the Sun. The information compiled and provided by Jonathan--namely, the position and velocity of these stars--comes primarily from a database he developed himself as part of his own research, a reference source for which his expertise is sought on a regular basis.</p><p><b><i>Encounters in the Milky Way</i></b> is the first production to shed light on the history of our galaxy's cosmic motion and its influence on our solar system.</p><p>______________________________________________________</p><p><b>Encounters in the Milky Way</b><b> | </b><b>Ages 12 and up<br></br></b>Duration: 24 minutes<br></br>English narration: Pedro Pascal<br></br>French narration: Schelby Jean-Baptiste <br></br><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779263-1&amp;h=3512125297&amp;u=https%3A%2F%2Fyoutu.be%2FFr8rVNhq4wQ&amp;a=Trailer\" target=\"_blank\" rel=\"nofollow\">Trailer</a><br></br>Check the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779263-1&amp;h=2937539552&amp;u=https%3A%2F%2Fcomm-espacepourlavie.ca%2Fhoraire-planetarium%2Findex.php%3FCodelang%3DEn%26_gl%3D1*7c9oxu*_gcl_au*NDIwMDgyOTY3LjE3ODgyODY0OTI.*_ga*MzQ3MTE3MzE2LjE3ODgyODY0ODQ.*_ga_ZHNY1S3W9R*czE3ODk0NzgyNjQkbzE4JGcxJHQxNzg5NDc4NzU2JGo1OSRsMCRoMjg5NzU1MzQ1&amp;a=viewing+schedule\" target=\"_blank\" rel=\"nofollow\">viewing schedule</a>.</p><p><i>Please note that this film is also part of the Planétarium's Sensory-friendly Moments program, which offers a visitor experience that accounts for sensory sensitivities, available all day on the last Tuesday of the month.</i></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779263-1&amp;h=1243537393&amp;u=https%3A%2F%2Fcalendrier.espacepourlavie.ca%2Fsensory-friendly-moments-at-the-planetarium-994122&amp;a=See+our+website+for+details\" target=\"_blank\" rel=\"nofollow\"><i>See our website for details</i></a><i>.</i></p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prnpr2 prnpl2 prnvam prntac prncbts prnbrbrs prnbbbs prnbsbls\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Take advantage of the </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779263-1&amp;h=1685599261&amp;u=https%3A%2F%2Fespacepourlavie.ca%2Fen%2Fticketing&amp;a=Espace+pour+la+vie+Passport\" target=\"_blank\" class=\"prnews_a\" rel=\"nofollow\">Espace pour la vie Passport</a><b> for a visit to the Planétarium</b></span></p><p class=\"prnml4\"><span class=\"prnews_span\"><b>along with any of the other four Espace pour la vie museums</b></span></p><p class=\"prnml4\"><span class=\"prnews_span\"><b>as many times as you like for 12 months!</b></span></p></td></tr></table></div><p><b>About the Service de l'Espace pour la vie, des grands parcs et du Mont-Royal </b></p><p>The Espace pour la vie museums and the network of major parks are at the heart of this service. Its activities contribute significantly to the quality of life of Montrealers. It plays a key role in the city's appeal and influence. With its five science museums, natural habitats, urban forest, and public spaces, the Service de l'Espace pour la vie, des grands parcs et du Mont-Royal is dedicated to protecting nature and promoting biodiversity. Through its efforts in conservation, restoration, development, research, and education, it contributes to Montreal's socio-ecological transition.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779263-1&amp;h=2269490033&amp;u=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffo%2Fovq02mop1vjaehfpqb77w%2FACQcBIDDWkRX4FskmFiH9Xc%3Frlkey%3Dpql2fyc7ihazf4q3sn9646rht%26st%3Dejx1ewyv%26dl%3D0&amp;a=Images+for+the+media\" target=\"_blank\" rel=\"nofollow\"><b>Images for the media</b></a></p>\n\n\n\n<p>SOURCE Espace pour la vie Montreal</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C1329&amp;Transmission_Id=202609231000CANADANWCANADAPR_C1329&amp;DateId=20260923\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Espace pour la vie Montreal",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnbsbls{\nBORDER-LEFT:black 0.5pt solid\n}\n.prncbts{\nBORDER-TOP:black 0.5pt solid\n}\n.prnbbbs{\nBORDER-BOTTOM:black 0.5pt solid\n}\n.prnvam{\nVERTICAL-ALIGN: MIDDLE\n}\n.prnpr2{\nPADDING-RIGHT:0.17em\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prnpl2{\nPADDING-LEFT:0.17em\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prnbrbrs{\nBORDER-RIGHT:black 0.5pt solid\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "film",
+            "summary:actor",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-23T14:18:43.829Z"
+    },
     {
       "company": [
         "Itibari-Waynne & Partners (IWP)"
