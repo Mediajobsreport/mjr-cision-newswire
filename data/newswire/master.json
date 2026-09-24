@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-24T17:17:27.963Z",
+  "generated_at": "2026-09-24T17:37:28.729Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 342,
+  "count": 344,
   "releases": [
     {
       "company": [
@@ -84,7 +84,172 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-09-24T15:56:53.191Z"
+      "imported_at": "2026-09-24T17:37:32.532Z"
+    },
+    {
+      "company": [
+        "BBB National Programs"
+      ],
+      "date": "20260924T130000+0000",
+      "dateline": "MCLEAN, Va., Sept. 24, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "VIR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SMD",
+        "ADV",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "BBB NP Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1837429/BBB-National-Programs-Inc-V1-Logo.jpg?id=OA2968332&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1837429/BBB-National-Programs-Inc-V1-Logo.jpg?id=OA2968332&p=publish"
+        }
+      ],
+      "release_id": "20260924DC55768",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">MCLEAN, Va.</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- BBB National Programs, the non-profit home of U.S. independent industry self-regulation, today announced a collaboration between its National Advertising Division and TikTok that will strengthen accountability for advertising on the platform by creating a direct channel for the National Advertising Division to refer potential violations of TikTok's advertising policies for review.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1837429/BBB-National-Programs-Inc-V1-Logo.jpg?id=OA2968332\" title=\"BBB NP Logo\" alt=\"BBB NP Logo\"></img>\n                </p>\n    </div>\n<p>The collaboration represents a proactive step by TikTok, one of the world's leading platforms for digital discovery, creator content, and brand advertising, to connect its advertising standards with independent industry self-regulation. When the National Advertising Division hears a case involving advertising on TikTok, it will be able to share relevant case outcomes directly with TikTok's Ad Experience team for review against the platform's advertising policies.</p>",
+      "ticker": [],
+      "title": "TikTok Partners with BBB National Programs to Strengthen Trust in Digital Advertising",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260924DC55768",
+      "body": "\n<p><span class=\"legendSpanClass\">MCLEAN, Va.</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- BBB National Programs, the non-profit home of U.S. independent industry self-regulation, today announced a collaboration between its National Advertising Division and TikTok that will strengthen accountability for advertising on the platform by creating a direct channel for the National Advertising Division to refer potential violations of TikTok's advertising policies for review.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1837429/BBB-National-Programs-Inc-V1-Logo.jpg?id=OA2968332\" title=\"BBB NP Logo\" alt=\"BBB NP Logo\"></img>\n                </p>\n    </div>\n<p>The collaboration represents a proactive step by TikTok, one of the world's leading platforms for digital discovery, creator content, and brand advertising, to connect its advertising standards with independent industry self-regulation. When the National Advertising Division hears a case involving advertising on TikTok, it will be able to share relevant case outcomes directly with TikTok's Ad Experience team for review against the platform's advertising policies.</p><p>\"Advertising is evolving and accountability needs to keep pace,\" said Eric D. Reicin, President and CEO, BBB National Programs. \"By working with TikTok, one of the world's leading platforms for brand engagement, we are connecting independent advertising review more directly with the platforms where consumers encounter advertising every day. That is good for consumers, good for businesses, and good for trust in digital advertising.\"</p><p>\"When people see advertising on our platform, they expect the brands behind it to be accountable,\" said Francis Stones, Head of Global Brand Safety &amp; Industry Relations, Global Business Solutions, TikTok. \"That means making sure the standards we set for advertising are reflected in the content people encounter. Our collaboration with the National Advertising Division is an important step toward bringing independent review and platform accountability closer together and helping create a digital environment people can trust.\"</p><p>BBB National Programs' National Advertising Division has monitored and reviewed national advertising for truthfulness and accuracy since 1971, providing an independent forum for resolving advertising disputes, monitoring the marketplace, supporting fair competition, and strengthening consumer trust. With multiple case choice options, the National Advertising Division can handle certain case types from receipt to resolution in 20 business days or less.</p><p>This collaboration demonstrates how platforms can work with established self-regulatory systems to address emerging advertising challenges as quickly as the marketplace evolves.</p><p>Learn more about the National Advertising Division <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781910-1&amp;h=2528697989&amp;u=https%3A%2F%2Fbbbprograms.org%2Fprograms%2Fadvertising%2Fnad&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>. </p><p><b>About BBB National Programs: </b>BBB National Programs, a non-profit organization, is the home of U.S. independent industry self-regulation, currently operating more than 20 globally recognized programs that have been helping enhance consumer trust in business for more than 50 years. These programs provide third-party accountability and dispute resolution services that address existing and emerging industry issues, create fair competition for businesses, and a better experience for consumers. BBB National Programs continues to evolve its work and grow its impact by providing business guidance and fostering best practices in advertising, child-and-teen-directed marketing, data privacy, dispute resolution, automobile warranty, technology, and emerging areas. To learn more, visit bbbprograms.org.</p><p><b>About the National Advertising Division: </b>The National Advertising Division (NAD) of BBB National Programs provides independent self-regulation and dispute resolution services, guiding the truthfulness of advertising across the U.S. NAD reviews national advertising in all media and its decisions set consistent standards for advertising truth and accuracy, delivering meaningful protection to consumers and creating fair competition for business.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC55768&amp;sd=2026-09-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/tiktok-partners-with-bbb-national-programs-to-strengthen-trust-in-digital-advertising-302888644.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/tiktok-partners-with-bbb-national-programs-to-strengthen-trust-in-digital-advertising-302888644.html</a></p><p>SOURCE BBB National Programs</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC55768&amp;Transmission_Id=202609240900PR_NEWS_USPR_____DC55768&amp;DateId=20260924\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "BBB National Programs",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 9,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "digital advertising",
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-24T17:37:32.716Z"
+    },
+    {
+      "company": [
+        "Work With Your Handz"
+      ],
+      "date": "20260924T130000+0000",
+      "dateline": "HAYMARKET, Va., Sept. 24, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "VIR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CST",
+        "WRK",
+        "HMI"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Work With Your Handz\nSkilled Recruitment for Skilled Trades",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1683153/2022-10-27-Wwyh-Logo-Logo-Logo.jpg?id=OA2967011&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1683153/2022-10-27-Wwyh-Logo-Logo-Logo.jpg?id=OA2967011&p=publish"
+        }
+      ],
+      "release_id": "20260924PH55138",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS"
+      ],
+      "summary": "<p><i>Partnership gives CertainPath members a specialized recruiting resource spanning field technicians through executive leadership</i></p><p><span class=\"legendSpanClass\">HAYMARKET, Va.</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781319-1&amp;h=4007656685&amp;u=https%3A%2F%2Fwww.workwithyourhandz.com%2F&amp;a=Work+With+Your+Handz\" target=\"_blank\" rel=\"nofollow\">Work With Your Handz</a>, a national workforce solutions firm serving skilled trades and service-driven organizations, today announced it has joined the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781319-1&amp;h=2884786276&amp;u=https%3A%2F%2Fmycertainpath.com%2F&amp;a=CertainPath\" target=\"_blank\" rel=\"nofollow\">CertainPath</a> Partner Network as a recruiting partner for home-service contractors.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1683153/2022-10-27-Wwyh-Logo-Logo-Logo.jpg?id=OA2967011\" title=\"Work With Your Handz\r\nSkilled Recruitment for Skilled Trades\" alt=\"Work With Your Handz\r\nSkilled Recruitment for Skilled Trades\"></img>\n                </p>\n    </div>\n<p>Contractors in the CertainPath network have built strong market positions and see real demand for their services, but growth stalls when they can't find or hire enough skilled people. CertainPath coaches work closely with member businesses and are often the first to recognize when recruiting, not demand, has become the limiting factor in a contractor's growth. Through this partnership, coaches can introduce Work With Your Handz as a specialized recruiting resource once that gap is identified.</p>",
+      "ticker": [],
+      "title": "Work With Your Handz Joins CertainPath Partner Network as Recruiting Partner for Home-Service Contractors",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260924PH55138",
+      "body": "\n<p><i>Partnership gives CertainPath members a specialized recruiting resource spanning field technicians through executive leadership</i></p><p><span class=\"legendSpanClass\">HAYMARKET, Va.</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781319-1&amp;h=4007656685&amp;u=https%3A%2F%2Fwww.workwithyourhandz.com%2F&amp;a=Work+With+Your+Handz\" target=\"_blank\" rel=\"nofollow\">Work With Your Handz</a>, a national workforce solutions firm serving skilled trades and service-driven organizations, today announced it has joined the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781319-1&amp;h=2884786276&amp;u=https%3A%2F%2Fmycertainpath.com%2F&amp;a=CertainPath\" target=\"_blank\" rel=\"nofollow\">CertainPath</a> Partner Network as a recruiting partner for home-service contractors.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1683153/2022-10-27-Wwyh-Logo-Logo-Logo.jpg?id=OA2967011\" title=\"Work With Your Handz\r\nSkilled Recruitment for Skilled Trades\" alt=\"Work With Your Handz\r\nSkilled Recruitment for Skilled Trades\"></img>\n                </p>\n    </div>\n<p>Contractors in the CertainPath network have built strong market positions and see real demand for their services, but growth stalls when they can't find or hire enough skilled people. CertainPath coaches work closely with member businesses and are often the first to recognize when recruiting, not demand, has become the limiting factor in a contractor's growth. Through this partnership, coaches can introduce Work With Your Handz as a specialized recruiting resource once that gap is identified.</p><p>\"Many contractors have the demand and opportunity to grow, but they can't grow without the right people,\" said Kelly Rowlett Presgrave, Founder, President and CEO of Work With Your Handz. \"We understand the skilled trades from the technician level through leadership, and this partnership gives CertainPath members another resource when hiring becomes a barrier to growth.\"</p><p>Work With Your Handz brings established experience in the industries CertainPath members serve, including HVAC, plumbing, electrical and related skilled trades. That familiarity allows the firm to support hiring across an entire organization, from field technicians and skilled-trades roles to managers, senior leadership and executive search.</p><p>A key differentiator for Work With Your Handz is its ability to communicate credibly across both ends of the home-services business. Because its recruiters have direct industry experience, they can ask the technical questions needed to determine whether a candidate genuinely has the skilled-trades background a client requires. That same team is equally comfortable working with owners, senior executives and private-equity-backed home-service organizations navigating growth and leadership transitions.</p><p>\"Finding and keeping great people continues to be one of the biggest challenges facing home service contractors,\" said Tim Cummings, Director of Strategic Partnerships &amp; Member Incentives at CertainPath. \"Work With Your Handz understands this industry and the realities our members face when it comes to building the teams they need to grow. This partnership gives CertainPath members access to a recruiting resource with deep experience in the skilled trades, from the field to leadership, and we're excited to bring that expertise to our network.\"</p><p>Work With Your Handz joins CertainPath's Partner Network as part of the company's continued expansion into new referral channels and industry partnerships across the skilled trades.</p><p><b>About Work With Your Handz</b><br></br>Work With Your Handz is a national workforce solutions firm founded in 2018 to solve a challenge shared across every skilled trade and service-driven industry: finding reliable, qualified people in competitive, labor-constrained markets. Rooted in residential services, the company has built a recruiting blueprint that now supports skilled trades and service organizations across residential, commercial, facilities and industrial-adjacent environments, with direct hire, contract and temp-to-perm solutions covering roles from frontline and apprentice positions through supervisors, managers and executive leadership. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781319-1&amp;h=2528439037&amp;u=http%3A%2F%2Fwww.workwithyourhandz.com%2F&amp;a=www.workwithyourhandz.com\" target=\"_blank\" rel=\"nofollow\">www.workwithyourhandz.com</a>.</p><p><b>About CertainPath<br></br></b>CertainPath is a proven growth system for home–service contractors, combining business coaching, training, events, and software to help HVAC, plumbing, electrical, and roofing companies grow revenue and profitability. Through its Partner Network, CertainPath connects member contractors with vetted solutions that support world–class operations, customer experience, and long–term success. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781319-1&amp;h=3223661531&amp;u=https%3A%2F%2Fmycertainpath.com%2F&amp;a=https%3A%2F%2Fmycertainpath.com\" target=\"_blank\" rel=\"nofollow\">https://mycertainpath.com</a>.</p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH55138&amp;sd=2026-09-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/work-with-your-handz-joins-certainpath-partner-network-as-recruiting-partner-for-home-service-contractors-302889195.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/work-with-your-handz-joins-certainpath-partner-network-as-recruiting-partner-for-home-service-contractors-302889195.html</a></p><p>SOURCE Work With Your Handz</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH55138&amp;Transmission_Id=202609240900PR_NEWS_USPR_____PH55138&amp;DateId=20260924\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Work With Your Handz",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 5,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ],
+          "management": [
+            "summary:executive leadership",
+            "joins",
+            "summary:executive"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-09-24T17:37:33.417Z"
     },
     {
       "company": [
@@ -182,7 +347,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T13:16:34.118Z"
+      "imported_at": "2026-09-24T17:37:33.526Z"
     },
     {
       "company": [
@@ -269,7 +434,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T13:16:34.188Z"
+      "imported_at": "2026-09-24T17:37:33.655Z"
     },
     {
       "company": [
@@ -364,7 +529,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-24T13:16:34.310Z"
+      "imported_at": "2026-09-24T17:37:34.167Z"
     },
     {
       "company": [
@@ -454,7 +619,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T13:16:34.471Z"
+      "imported_at": "2026-09-24T17:37:34.290Z"
     },
     {
       "company": [
@@ -548,7 +713,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T13:16:34.642Z"
+      "imported_at": "2026-09-24T17:37:34.454Z"
     },
     {
       "company": [
@@ -644,7 +809,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T12:47:48.742Z"
+      "imported_at": "2026-09-24T17:37:34.666Z"
     },
     {
       "company": [
@@ -736,7 +901,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T12:47:48.853Z"
+      "imported_at": "2026-09-24T17:37:35.154Z"
     },
     {
       "company": [
@@ -832,7 +997,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T12:47:48.947Z"
+      "imported_at": "2026-09-24T17:37:35.852Z"
     },
     {
       "company": [
@@ -919,7 +1084,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T12:47:49.142Z"
+      "imported_at": "2026-09-24T17:37:35.997Z"
     },
     {
       "company": [
@@ -1008,7 +1173,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-24T12:20:36.902Z"
+      "imported_at": "2026-09-24T17:37:36.116Z"
     },
     {
       "company": [
@@ -1089,7 +1254,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-24T11:17:00.074Z"
+      "imported_at": "2026-09-24T17:37:36.279Z"
     },
     {
       "company": [
@@ -1174,7 +1339,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-24T11:17:00.173Z"
+      "imported_at": "2026-09-24T17:37:36.451Z"
     },
     {
       "company": [
@@ -1274,7 +1439,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-24T11:17:00.301Z"
+      "imported_at": "2026-09-24T17:37:37.532Z"
     },
     {
       "company": [
@@ -1356,7 +1521,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-24T10:17:56.397Z"
+      "imported_at": "2026-09-24T17:37:37.702Z"
     },
     {
       "company": [
@@ -1436,7 +1601,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-23T21:14:54.396Z"
+      "imported_at": "2026-09-24T17:37:38.643Z"
     },
     {
       "company": [
@@ -1517,7 +1682,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-09-23T19:17:16.955Z"
+      "imported_at": "2026-09-24T17:37:39.290Z"
     },
     {
       "company": [
@@ -1804,7 +1969,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-09-23T17:53:15.780Z"
+      "imported_at": "2026-09-24T17:37:40.460Z"
     },
     {
       "company": [
