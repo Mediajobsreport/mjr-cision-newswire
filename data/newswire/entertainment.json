@@ -1,11 +1,96 @@
 {
-  "generated_at": "2026-09-24T10:56:27.300Z",
+  "generated_at": "2026-09-24T11:16:58.991Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 124,
+  "count": 125,
   "releases": [
+    {
+      "company": [
+        "Shaanxi International Communication Center"
+      ],
+      "date": "20260924T110400+0000",
+      "dateline": "XI'AN, China, Sept. 24, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CHN",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "ART",
+        "PUB"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "The 13th Silk Road International Film Festival was held in Xi'an",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1995715/20260924033149EDT_image_1.jpg?id=OA2969010&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1995715/20260924033149EDT_image_1.jpg?id=OA2969010&p=publish"
+        }
+      ],
+      "release_id": "20260924CN56038",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">XI'AN, China</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- A News Report from Shaanxi International Communication Center:</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1995715/20260924033149EDT_image_1.jpg?id=OA2969010\" title=\"The 13th Silk Road International Film Festival was held in Xi'an\" alt=\"The 13th Silk Road International Film Festival was held in Xi'an\"></img>\n                </p>\n    </div>\n<p>On September 19, the 13th Silk Road International Film Festival opened in Xi'an under the theme \"Silk Road Connects the World, Light and Shadow Shine over Chang'an\". Co‑hosted by China Media Group, the People's Government of Shaanxi Province and the People's Government of Fujian Province, and undertaken by the Shaanxi Provincial Film Bureau and the Xi'an Municipal People's Government, the festival ran for five days.</p>",
+      "ticker": [],
+      "title": "13th Silk Road International Film Festival Opens in Xi'an, Bridging Global Cultures Through Cinema",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260924CN56038",
+      "body": "\n<p><span class=\"legendSpanClass\">XI'AN, China</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- A News Report from Shaanxi International Communication Center:</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1995715/20260924033149EDT_image_1.jpg?id=OA2969010\" title=\"The 13th Silk Road International Film Festival was held in Xi'an\" alt=\"The 13th Silk Road International Film Festival was held in Xi'an\"></img>\n                </p>\n    </div>\n<p>On September 19, the 13th Silk Road International Film Festival opened in Xi'an under the theme \"Silk Road Connects the World, Light and Shadow Shine over Chang'an\". Co‑hosted by China Media Group, the People's Government of Shaanxi Province and the People's Government of Fujian Province, and undertaken by the Shaanxi Provincial Film Bureau and the Xi'an Municipal People's Government, the festival ran for five days.</p><p>It received 2,130 entries from 139 countries and regions, with 23 works shortlisted for the final evaluation of the Golden Silk Road Awards. The international jury was chaired by Peter Pau, winner of the Academy Award for Best Cinematography. Egypt served as the Guest‑of‑Honour Country, advancing Sino‑Egyptian cinematic and cultural exchanges through events including the China‑Egypt Roundtable Dialogue and Egyptian Film Week.</p><p>Key sessions during the festival featured the Belt and Road Film Industry Development Dialogue, the Dialogue on Inheritance and Innovative Development of Film, and the \"Silk Road Journey for Children• Children's Film Season\". The Blue Book on Chinese Children's Films was released, and the Silk Road Research and Exchange Centre for Children's Films was inaugurated. Other highlights included the Xi'an International VR Film Exchange, the \"Starry Brilliance\" High‑Quality Micro‑Drama Programme, the Silk Road Film Market, Silk Road Film Exchanges, screenings and promotions for low‑and‑medium‑budget Shaanxi films, and the SRIFF Young Talent Venture Initiative, fostering international collaboration, industrial integration and youth talent development.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN56038&amp;sd=2026-09-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/13th-silk-road-international-film-festival-opens-in-xian-bridging-global-cultures-through-cinema-302889143.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/13th-silk-road-international-film-festival-opens-in-xian-bridging-global-cultures-through-cinema-302889143.html</a></p><p>SOURCE Shaanxi International Communication Center</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN56038&amp;Transmission_Id=202609240704PR_NEWS_USPR_____CN56038&amp;DateId=20260924\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Shaanxi International Communication Center",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 11,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "film festival",
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-24T11:17:00.173Z"
+    },
     {
       "company": [
         "Country Music Hall of Fame and Museum"
