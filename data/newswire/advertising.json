@@ -1,11 +1,188 @@
 {
-  "generated_at": "2026-09-24T12:20:35.386Z",
+  "generated_at": "2026-09-24T12:47:47.767Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 41,
+  "count": 43,
   "releases": [
+    {
+      "company": [
+        "Omneky"
+      ],
+      "date": "20260924T124400+0000",
+      "dateline": "SAN FRANCISCO, Sept. 24, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "CPR",
+        "AFI",
+        "STW",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "ChatGPT x Omneky",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1995242/chatgpt_omneky.jpg?id=OA2967762&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1995242/chatgpt_omneky.jpg?id=OA2967762&p=publish"
+        },
+        {
+          "caption": "Omneky on ChatGPT Plugin Marketplace",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1995243/Omneky-on-ChatGPT-Plugin-Marketplace-IMAGE.jpg?id=OA2967764&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1995243/Omneky-on-ChatGPT-Plugin-Marketplace-IMAGE.jpg?id=OA2967764&p=publish"
+        }
+      ],
+      "release_id": "20260924PH55568",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "LIC"
+      ],
+      "summary": "<p><i>One conversation can now run a brand's growth program across every major ad channel, grounded in its own customer data</i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- Omneky, the premier agentic harness for advertising and go-to-market, today announced that its plugin is live on the ChatGPT plugin marketplace. ChatGPT users can connect their Omneky account and put its AI Growth Agent to work in chat.</p>\n<p>A harness turns a general-purpose model into a working growth team. Omneky builds one for each brand from its products, audiences, and performance history, then gives the agent the tools to act. It launches and reports on campaigns across Meta, Google Ads (Search, Demand Gen, and Performance Max), YouTube, LinkedIn, TikTok, Reddit, Pinterest, X, and ChatGPT. It queries live GTM data, pulling brand files from Google Drive, product analytics from PostHog, SEO and search-intent data from Ahrefs and Semrush, and contacts, companies, and deals from HubSpot. For each task, it routes to the best available model, including Seedance, GPT, Claude, Gemini, Grok and Wan.</p>",
+      "ticker": [],
+      "title": "Omneky Brings the Premier Agentic Harness for Advertising and GTM to ChatGPT",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260924PH55568",
+      "body": "\n<p><i>One conversation can now run a brand's growth program across every major ad channel, grounded in its own customer data</i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- Omneky, the premier agentic harness for advertising and go-to-market, today announced that its plugin is live on the ChatGPT plugin marketplace. ChatGPT users can connect their Omneky account and put its AI Growth Agent to work in chat.</p>\n<p>A harness turns a general-purpose model into a working growth team. Omneky builds one for each brand from its products, audiences, and performance history, then gives the agent the tools to act. It launches and reports on campaigns across Meta, Google Ads (Search, Demand Gen, and Performance Max), YouTube, LinkedIn, TikTok, Reddit, Pinterest, X, and ChatGPT. It queries live GTM data, pulling brand files from Google Drive, product analytics from PostHog, SEO and search-intent data from Ahrefs and Semrush, and contacts, companies, and deals from HubSpot. For each task, it routes to the best available model, including Seedance, GPT, Claude, Gemini, Grok and Wan.</p><p>A marketer can ask for a campaign for a new running shoe on Meta, TikTok, and ChatGPT at $500 a day, approve the creatives, and later ask which ads drove the most purchases. The same harness also runs in Slack, Claude, and Grok.</p><p>\"Models improve every week. What turns them into growth is the harness around them: your brand context, your channels, your customer data, and the judgment about which model to use for which job,\" said Hikari Senju, founder and CEO of Omneky. \"We've trained that judgment on over $1 billion in closed-loop ad spend, and customers typically see a 2x lift in ROAS. Now it's one message away in ChatGPT.\"</p><p>The Omneky plugin is available now at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781705-1&amp;h=4226683571&amp;u=https%3A%2F%2Fchatgpt.com%2Fplugins%2Fplugin_asdk_app_6aa944d20a3081919d9f65692616ff4d&amp;a=https%3A%2F%2Fchatgpt.com%2Fplugins%2Fplugin_asdk_app_6aa944d20a3081919d9f65692616ff4d\" target=\"_blank\" rel=\"nofollow\">https://chatgpt.com/plugins/plugin_asdk_app_6aa944d20a3081919d9f65692616ff4d</a>. New users can start a 7-day free trial at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781705-1&amp;h=1028676187&amp;u=http%3A%2F%2Fomneky.com%2F&amp;a=omneky.com\" target=\"_blank\" rel=\"nofollow\">omneky.com</a>.</p><p><b>About Omneky</b></p><p>Omneky is the premier agentic harness for advertising and GTM. Its AI Growth Agent researches strategy, generates creatives and landing pages, launches campaigns, and buys media across every major ad channel. Omneky serves more than 6,000 customers, including Coca-Cola, Tata, and MUFG, and has strategic alliances with NVIDIA, SoftBank, Meta, Google, AWS, and SpaceXAI. Founded in 2018, Omneky is SOC 2 Type II certified and headquartered in San Francisco.</p><p><b>Media Contact:<br></br></b>Hikari Senju<br></br><a href=\"mailto:423362@email4pr.com\" target=\"_blank\" rel=\"nofollow\">423362@email4pr.com</a> <br></br>(415) 236-2333</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH55568&amp;sd=2026-09-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/omneky-brings-the-premier-agentic-harness-for-advertising-and-gtm-to-chatgpt-302889022.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/omneky-brings-the-premier-agentic-harness-for-advertising-and-gtm-to-chatgpt-302889022.html</a></p><p>SOURCE Omneky</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH55568&amp;Transmission_Id=202609240844PR_NEWS_USPR_____PH55568&amp;DateId=20260924\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Omneky",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-24T12:47:48.571Z"
+    },
+    {
+      "company": [
+        "Context Networks"
+      ],
+      "date": "20260924T122500+0000",
+      "dateline": "LAS VEGAS, Sept. 24, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NEV",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "GAM",
+        "ADV",
+        "MLM",
+        "TVN",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Every Screen.  Every Moment.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1992214/Context-Networks-Logo.jpg?id=OA2967430&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1992214/Context-Networks-Logo.jpg?id=OA2967430&p=publish"
+        }
+      ],
+      "release_id": "20260924CG55343",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "CON"
+      ],
+      "summary": "<p class=\"prntac\"><i>Broadsign Platform to unlock programmatic demand and scalable OOH operations across Context Networks inventory, with gaming environments a launch focus ahead of G2E</i></p><p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- Context Networks, a contextual advertising and monetization platform for gaming and network digital display environments, today announced a collaboration with Broadsign, the leading global platform for managing and monetizing out-of-home (OOH) media, to support the next phase of growth of Context Networks' Contextual Promotions Media Network™ (CPMN™). As a result, Context Networks now has a unified foundation for managing, delivering and monetizing screen-based media as the company expands across gaming and other controlled display environments.</p>\n    ",
+      "ticker": [],
+      "title": "Context Networks Selects Broadsign to Scale Contextual Advertising Across Display Networks",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260924CG55343",
+      "body": "\n<p class=\"prntac\"><i>Broadsign Platform to unlock programmatic demand and scalable OOH operations across Context Networks inventory, with gaming environments a launch focus ahead of G2E</i></p><p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- Context Networks, a contextual advertising and monetization platform for gaming and network digital display environments, today announced a collaboration with Broadsign, the leading global platform for managing and monetizing out-of-home (OOH) media, to support the next phase of growth of Context Networks' Contextual Promotions Media Network™ (CPMN™). As a result, Context Networks now has a unified foundation for managing, delivering and monetizing screen-based media as the company expands across gaming and other controlled display environments.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1992214/Context-Networks-Logo.jpg?id=OA2967430\" title=\"Every Screen.  Every Moment.\" alt=\"Every Screen.  Every Moment.\"></img>\n                </p>\n    </div>\n<p>Through the collaboration, Context Networks is connecting eligible CPMN™ inventory to the Broadsign Platform, the company's complete, reliable Ad Server and Content Management System (CMS). This will enable Context Networks to manage business-critical content and advertising across its network of displays as well as the Place Exchange supply-side platform (SSP), Broadsign's programmatic digital out-of-home (DOOH) SSP.</p><p>Context Networks brings contextual intelligence, a monetization model designed for controlled screen environments, specialized integrations, and operator and reseller relationships that can help extend Broadsign technology into non-traditional screen environments as the network grows. It introduces a differentiated source of digital inventory and vertical expertise for Broadsign in environments where customer attention, dwell time and operator-controlled screens create a distinctive media opportunity. Broadsign delivers enterprise network management, campaign automation, reporting and established programmatic demand connectivity.</p><p>While gaming is Context Networks' immediate launch focus ahead of Global Gaming Expo (G2E), taking place September 28 through October 1 at The Venetian Expo in Las Vegas, the collaboration is designed to support its broader display network strategy. Context Networks' business model extends beyond <span>casino</span> floors to operator-controlled environments that include distributed gaming, ATMs, kiosks, gift-card kiosk networks, digital faucets, hotel concierge apps and other connected screens.</p><p>The company's current footprint spans 14 states and 23 designated market areas, with advertising and operator-owned content already running in distributed gaming environments. Broadsign provides Context Networks with a more scalable way to onboard additional screen networks and reseller partners while maintaining consistent campaign logic, delivery and reporting.</p><p>\"Broadsign gives us a proven infrastructure to scale our model without losing what makes it valuable: contextual relevance, operator control and measurable monetization,\" said Matthew Olden, Founder, COO &amp; Executive Chair of Context Networks. \"Gaming is an important launch market for this work, but the underlying opportunity is broader. Across network digital display environments, operators already control valuable screens and audience relationships. Our job is to help turn those assets into new commercial value while giving advertisers a better way to reach qualified audiences in the moments and environments that matter.\"</p><p>For operators and media owners, the combined model creates a path to turn existing digital displays into measurable new revenue without requiring them to build a separate advertising technology business. Operators retain governance over eligible inventory, campaign rules, house content and the customer experience, while CPMN™ creates a new commercial layer around screens and systems they already own or manage.</p><p>Brands and agencies can now access differentiated inventory in high-attention environments that traditional media plans might miss. Contextual signals can help align advertising with place, activity, timing and audience value, while the Broadsign Platform makes eligible inventory easier to access through familiar OOH and programmatic workflows. As a result, advertisers get a stronger contextual fit, more relevant delivery and clearer performance feedback.</p><p>\"Context Networks is opening a compelling category of inventory that fits naturally with the continued evolution of out-of-home,\" said Robert Loftus, VP of Platform Sales at Broadsign. \"By connecting Context Networks' operator relationships and specialized integrations with the Broadsign Platform and Place Exchange SSP, we can help make these screens easier for buyers to access while giving operators the control, transparency and flexibility they need to participate with confidence.\"</p><p>Operator control is particularly important in gaming environments, where security, regulatory oversight, and operational continuity are central considerations. Rather than asking operators to introduce an isolated advertising stack, the Context Networks model uses established digital signage and programmatic infrastructure while preserving operator control over what appears on each participating screen. Existing promotions and operational content can continue to run alongside paid advertising based on rules set by the operator.</p><p>During G2E, Context Networks will demonstrate how the combined technology stack can connect gaming and other operator-controlled digital screens to the broader advertising ecosystem, while meeting with operators, integrators, resellers, advertisers and agencies about opportunities to activate new screen inventory.</p><p><b>About Broadsign</b><br></br>Broadsign develops the leading global platform for managing and monetizing out-of-home (OOH) media. The company, which also operates Place Exchange by Broadsign, the largest independent SSP for Digital OOH, empowers media owners, media buyers, and retailers to harness the power and reach of out-of-home to connect with audiences in ways unlike any other advertising channel. More than 3 million static and digital signs along roadways and in airports, shopping malls, grocery and convenience stores, health clinics, transit systems, and more run on Broadsign. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781507-1&amp;h=2492939127&amp;u=https%3A%2F%2Fbroadsign.com&amp;a=https%3A%2F%2Fbroadsign.com\" target=\"_blank\" rel=\"nofollow\">https://broadsign.com</a>. </p><p><b>About Context Networks</b><br></br>Context Networks is a contextual advertising and monetization platform for gaming and network digital display environments, helping brands deliver more relevant, personalized messages in high-attention moments enabling operators to turn existing screens into measurable new revenue. By combining contextual intelligence, secure marketplace infrastructure, real-time buying, and operator-controlled delivery, Context makes emerging screen inventory easier to access, buy, measure, monetize, and scale. The result is a marketplace that helps advertisers improve campaign relevance and performance while helping operators create new commercial value without compromising the player or customer experience. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781507-1&amp;h=934086740&amp;u=https%3A%2F%2Fwww.contextnetworks.net&amp;a=https%3A%2F%2Fwww.contextnetworks.net\" target=\"_blank\" rel=\"nofollow\">https://www.contextnetworks.net</a>. </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG55343&amp;sd=2026-09-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/context-networks-selects-broadsign-to-scale-contextual-advertising-across-display-networks-302888514.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/context-networks-selects-broadsign-to-scale-contextual-advertising-across-display-networks-302888514.html</a></p><p>SOURCE Context Networks</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG55343&amp;Transmission_Id=202609240825PR_NEWS_USPR_____CG55343&amp;DateId=20260924\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Context Networks",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-24T12:47:49.142Z"
+    },
     {
       "company": [
         "Reshift Media"
