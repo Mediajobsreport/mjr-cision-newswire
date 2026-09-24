@@ -1,11 +1,93 @@
 {
-  "generated_at": "2026-09-24T09:56:55.917Z",
+  "generated_at": "2026-09-24T10:17:55.361Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 85,
+  "count": 86,
   "releases": [
+    {
+      "company": [
+        "Outpost Technologies Corp"
+      ],
+      "date": "20260924T100000+0000",
+      "dateline": "LOS ANGELES and PLAYA VISTA, Calif., Sept. 24, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ARO",
+        "HRD",
+        "CPR",
+        "STM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Outpost Space Factories",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1995434/WEB_2938_OUTPOST_WEB_IMAGERY_SH04_FIBRE-OPTICS-copy.jpg?id=OA2968405&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1995434/WEB_2938_OUTPOST_WEB_IMAGERY_SH04_FIBRE-OPTICS-copy.jpg?id=OA2968405&p=publish"
+        },
+        {
+          "caption": "Outpost Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1995433/Full-Logo_black.jpg?id=OA2968404&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1995433/Full-Logo_black.jpg?id=OA2968404&p=publish"
+        }
+      ],
+      "release_id": "20260924LA55804",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>With \"Space Factories,\" Outpost offers standardized, modular manufacturing infrastructure as a service; and will manufacture its own StarFiber optical fiber as the first product off the line</i></p><p><span class=\"legendSpanClass\">LOS ANGELES and PLAYA VISTA, Calif. </span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- Outpost Technologies Corporation today introduced <b>Space Factories</b>, a program that lets companies manufacture products in orbit and return them to Earth without building a space program of their own. Instead of developing a bespoke spacecraft, reentry system, and recovery operation for a single mission, companies bring their manufacturing process to Outpost's standardized, reusable platform; turning space manufacturing into standardized infrastructure they can specify rather than design and build.</p>\n    ",
+      "ticker": [],
+      "title": "Introducing Outpost Space Factories: Orbital Manufacturing as a Service Unlocking Commercial Scale Production",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260924LA55804",
+      "body": "\n<p><i>With \"Space Factories,\" Outpost offers standardized, modular manufacturing infrastructure as a service; and will manufacture its own StarFiber optical fiber as the first product off the line</i></p><p><span class=\"legendSpanClass\">LOS ANGELES and PLAYA VISTA, Calif. </span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- Outpost Technologies Corporation today introduced <b>Space Factories</b>, a program that lets companies manufacture products in orbit and return them to Earth without building a space program of their own. Instead of developing a bespoke spacecraft, reentry system, and recovery operation for a single mission, companies bring their manufacturing process to Outpost's standardized, reusable platform; turning space manufacturing into standardized infrastructure they can specify rather than design and build.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1995434/WEB_2938_OUTPOST_WEB_IMAGERY_SH04_FIBRE-OPTICS-copy.jpg?id=OA2968405\" title=\"Outpost Space Factories\" alt=\"Outpost Space Factories\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlightb6a6\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">With \"Space Factories,\" Outpost offers standardized, modular manufacturing infrastructure as a service</div><p>A growing list of high-value products from specialty optical fibers to pharmaceuticals, semiconductors, and advanced crystals can be made better, or only, in microgravity. To date, every attempt to produce them in orbit has been a one-of-a-kind effort, with each company re-solving the same problems of power, thermal control, containment, safety, and return from scratch. Space Factories lets customers focus on what they do best, developing high-value products, while Outpost provides a common industrial platform: standardized modules that reduce bespoke engineering, shorten development timelines, and allow far more rapid deployment.</p><p>Just as important is what happens after production. Making a product in orbit is only valuable if it can be brought home frequently, reliably and at scale. Bringing things back from orbit is Outpost's core capability, which makes the company uniquely positioned to close the loop from orbital manufacturing to recovered product on the ground.</p><p>\"No company should have to become a spacecraft company just to find out whether their product is better when it's made in space,\" said <b>Amir Blachman, President and co-founder of Outpost</b>. \"We're designing and building the hard, expensive infrastructure: the vehicle, the power and thermal systems, standardized manufacturing modules, the reentry and recovery; and we operate it as a service.\"</p><p><b>Proving it with StarFiber</b></p><p>Outpost is putting the platform to work, manufacturing its own high-value products in orbit. <b>StarFiber</b>, the company's next-generation metal fluoride optical fiber, will be produced in a Space Factory module. Metal fluoride fibers can achieve dramatically lower signal loss than the silica fibers that carry today's data and telecommunications traffic, but they are extremely difficult to manufacture at quality on Earth, where gravity introduces defects during production. Microgravity offers a path to producing them at the quality their performance promises. StarFiber's formulation is also radiation-hardened, making it well suited to satellite, defense, and other demanding environments (and it will demonstrate the full Space Factory model end to end, from orbital production to recovered product on the ground).</p><p>\"StarFiber is how we prove the platform on ourselves before we ask anyone else to fly on it,\" said <b>Ryan Reel, VP of Commercial Partnerships and Product Strategy at Outpost</b>. \"It's the same infrastructure, the same modules, and the same return path we're offering to every customer. Any company developing a product that benefits from microgravity can plug into a platform we've already flown and get to orbit far faster and for less cost than they could on their own.\"</p><p><b>One platform, not a bespoke factory for every customer</b></p><p>Space Factories is built on a modular architecture that keeps the expensive, complex systems common and reusable, while confining customization to the smallest possible layer. Outpost's reusable free-flying spacecraft, <b>CarryAll</b>, provides the standardized foundation: orbital transport, power, communications, and the systems for Earth return and recovery. A separable <b>CarryAll Space Factory </b>container houses the customer's payload, manages production, pressurization, thermal, data, and safety interfaces. Only the innermost <b>manufacturing module</b> is tailored to a customer's specific process.</p><p>By using a common spacecraft, recovery infrastructure, software, and much of the manufacturing components across every mission, customers avoid the cost, risk, and delay of engineering a full system for a single flight. Proven modules can be replicated across missions or scaled in capacity as demand grows. Recovered equipment can be inspected, refurbished, and reflown: forming the foundation of commercial-scale production.</p><p><b>An open invitation</b></p><p>Space Factories is designed as a shared platform, and Outpost is opening it to industry. Companies developing products that benefit from manufacturing in space in optical materials, pharmaceuticals and biotech, semiconductors, crystal growth, and beyond can build and fly with Outpost. To learn more or discuss a manufacturing module, contact <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781947-1&amp;h=2755737687&amp;u=https%3A%2F%2Fwww.outpost.space%2Fconfigure-your-mission&amp;a=sales%40outpost.space\" target=\"_blank\" rel=\"nofollow\">sales@outpost.space</a>.</p><p><b>About Outpost Technologies Corporation</b></p><p>Outpost is building reusable Earth-return vehicles that close one of the most important gaps in the space economy: the ability to move meaningful quantities of cargo back from orbit with precision, speed, and repeatability.</p><p>Launch capacity has advanced rapidly, but Earth-return capacity remains limited. Outpost is building the southbound logistics layer required to support national security, in-space manufacturing, orbital warehousing, scientific research, and critical logistics. The CarryAll vehicle family is intended to scale from early payload-return missions to large-mass cargo operations, with precision delivery and large-mass capacity serving as the company's defining differentiation. For more information visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4781947-1&amp;h=1578411928&amp;u=http%3A%2F%2Fwww.outpost.space%2F&amp;a=www.outpost.space\" target=\"_blank\" rel=\"nofollow\">www.outpost.space</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1995433/Full-Logo_black.jpg?id=OA2968404\" title=\"Outpost Logo\" alt=\"Outpost Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA55804&amp;sd=2026-09-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/introducing-outpost-space-factories-orbital-manufacturing-as-a-service-unlocking-commercial-scale-production-302888393.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/introducing-outpost-space-factories-orbital-manufacturing-as-a-service-unlocking-commercial-scale-production-302888393.html</a></p><p>SOURCE Outpost Technologies Corp</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA55804&amp;Transmission_Id=202609240600PR_NEWS_USPR_____LA55804&amp;DateId=20260924\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Outpost Technologies Corp",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-24T10:17:56.397Z"
+    },
     {
       "company": [
         "Real America's Voice"
