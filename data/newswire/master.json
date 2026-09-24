@@ -1,9 +1,104 @@
 {
-  "generated_at": "2026-09-24T19:18:17.291Z",
+  "generated_at": "2026-09-24T19:41:13.046Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 345,
+  "count": 346,
   "releases": [
+    {
+      "company": [
+        "Paralyzed Veterans of America"
+      ],
+      "date": "20260924T192100+0000",
+      "dateline": "WASHINGTON, Sept. 24, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "DOC",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "RAD",
+        "SPT",
+        "MTC",
+        "HEA",
+        "PUB"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Paralyzed Veterans of America Debuts “Voices of PVA” Podcast. ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1996230/Voices-of-PVA_Square.jpg?id=OA2970492&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1996230/Voices-of-PVA_Square.jpg?id=OA2970492&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS611103/PVA-Logo.jpg?id=OA2970488&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS611103/PVA-Logo.jpg?id=OA2970488&p=publish"
+        }
+      ],
+      "release_id": "20260924PH56665",
+      "status": "PUBLISHED",
+      "subject": [
+        "DIS",
+        "VET"
+      ],
+      "summary": "<p class=\"prntac\"><i>Audio program to appeal to veterans and broader disability community alike, with new episodes dropping every other week starting Oct. 6</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=165735447&amp;u=http%3A%2F%2Fwww.pva.org%2F&amp;a=Paralyzed+Veterans+of+America\" target=\"_blank\" rel=\"nofollow\"><b>Paralyzed Veterans of America</b></a> launches <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=2482824020&amp;u=http%3A%2F%2Fwww.pva.org%2FVoicesOfPVA&amp;a=%22Voices+of+PVA%22\" target=\"_blank\" rel=\"nofollow\">\"Voices of PVA\"</a> – an audio-only podcast designed to inform, empower, and connect veterans and people living with spinal cord injuries or diseases (SCI/D), like MS and ALS, and those who support them. Having debuted on September 22 and on the heels of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=3631336442&amp;u=https%3A%2F%2Fpva.org%2Fone-of-one%2F&amp;a=PVA%27s+One+of+One+campaign\" target=\"_blank\" rel=\"nofollow\">PVA's One of One campaign</a>, the podcast serves as the definitive voice of PVA and life with SCI/D. Every episode brings listeners inside the healthcare battles, legislative wins, adaptive sports journeys, and more shaping the lives of those with disabilities. Hosted by U.S. Navy SEAL veteran/Paralympian and editor-in-chief of <i>Paraplegic News</i> and <i>Sports 'N Spokes</i> magazines <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=3312849502&amp;u=https%3A%2F%2Fpva.org%2Fmember%2Fmeet-the-voices-behind-pvas-first-ever-podcast%2F&amp;a=Al+Kovach%2C+as+well+as+PVA+reporter+Chad+Stewart\" target=\"_blank\" rel=\"nofollow\">Al Kovach, as well as PVA reporter Chad Stewart</a>, each installment features guests with personal ties to paralysis — from veteran athletes and policy leaders to caregivers, renowned researchers, and more.</p>\n    ",
+      "ticker": [],
+      "title": "Paralyzed Veterans of America Debuts \"Voices of PVA\" Podcast - the Definitive Voice on Life with Spinal Cord Injuries and Diseases, like MS and ALS",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260924PH56665",
+      "body": "\n<p class=\"prntac\"><i>Audio program to appeal to veterans and broader disability community alike, with new episodes dropping every other week starting Oct. 6</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=165735447&amp;u=http%3A%2F%2Fwww.pva.org%2F&amp;a=Paralyzed+Veterans+of+America\" target=\"_blank\" rel=\"nofollow\"><b>Paralyzed Veterans of America</b></a> launches <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=2482824020&amp;u=http%3A%2F%2Fwww.pva.org%2FVoicesOfPVA&amp;a=%22Voices+of+PVA%22\" target=\"_blank\" rel=\"nofollow\">\"Voices of PVA\"</a> – an audio-only podcast designed to inform, empower, and connect veterans and people living with spinal cord injuries or diseases (SCI/D), like MS and ALS, and those who support them. Having debuted on September 22 and on the heels of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=3631336442&amp;u=https%3A%2F%2Fpva.org%2Fone-of-one%2F&amp;a=PVA%27s+One+of+One+campaign\" target=\"_blank\" rel=\"nofollow\">PVA's One of One campaign</a>, the podcast serves as the definitive voice of PVA and life with SCI/D. Every episode brings listeners inside the healthcare battles, legislative wins, adaptive sports journeys, and more shaping the lives of those with disabilities. Hosted by U.S. Navy SEAL veteran/Paralympian and editor-in-chief of <i>Paraplegic News</i> and <i>Sports 'N Spokes</i> magazines <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=3312849502&amp;u=https%3A%2F%2Fpva.org%2Fmember%2Fmeet-the-voices-behind-pvas-first-ever-podcast%2F&amp;a=Al+Kovach%2C+as+well+as+PVA+reporter+Chad+Stewart\" target=\"_blank\" rel=\"nofollow\">Al Kovach, as well as PVA reporter Chad Stewart</a>, each installment features guests with personal ties to paralysis — from veteran athletes and policy leaders to caregivers, renowned researchers, and more.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1996230/Voices-of-PVA_Square.jpg?id=OA2970492\" title=\"Paralyzed Veterans of America Debuts “Voices of PVA” Podcast. \" alt=\"Paralyzed Veterans of America Debuts “Voices of PVA” Podcast. \"></img>\n                </p>\n    </div>\n<p>\"The 'Voices of PVA' podcast is an extension of PVA's commitment to ensuring veterans with spinal cord injuries and diseases, like MS and ALS, not only have access to trusted information and meaningful stories, but also feel seen and heard,\" said Carl Blake, CEO of Paralyzed Veterans of America. \"We're creating a space where lived experiences, expert insights, and advocacy intersect in a way that is deeply human, highly impactful, and one of a kind. While most outlets cover veteran or disability issues, our podcast, like PVA's important work, covers them both.\"</p><p>The first season of \"Voices of PVA\" will feature 24 episodes – complete with powerful, actionable content. Whether you're new to the SCI/D community, a longtime advocate, or know someone living with a disability, \"Voices of PVA\" offers practical insights and a deeper connection to the issues that matter, with new episodes dropping every other week.</p><p>\"This podcast is something PVA has wanted for a long time, and now we finally have it,\" said Robert Thomas, a U.S. Army veteran and national president of PVA. \"Some of the most important conversations in our community happen when people come together, and 'Voices of PVA' creates a space for these conversations to reach further.\"</p><p>Listeners can expect a dynamic mix of personal stories, expert interviews, policy discussions, and practical guidance delivered in a format that is accessible, engaging, and rooted in real-world experience. The podcast represents a significant step forward in PVA's ongoing efforts to innovate how it connects with its community and elevates issues impacting veterans and people with disabilities.</p><p>\"Conversations have power. A magazine article can inform you, but a conversation lets you hear someone's heart,\" Kovach said. \"We hope every listener walks away from our podcast having learned something useful, felt inspired, and more connected to the community. If someone hears an episode and thinks, 'I'm not alone,' or 'I didn't know that resource existed' — that's success in our eyes.\"</p><p>Just two days following its launch, listeners flooded PVA with reactions, such as:</p><p>\"The 'Voices of PVA' podcast creates a safe, engaging space for diverse perspectives to ask questions, sharpen our knowledge, and pass that knowledge along to our own communities,\" said Chadwick W., U.S. Air Force veteran and PVA Buckeye Chapter member. \"[These] honest conversation[s], help to problem-solve better approaches to care and advocate to the broader community.\"</p><p>To learn more about the \"Voices of PVA\" podcast and its hosts visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=1967309671&amp;u=http%3A%2F%2Fwww.pva.org%2FVoicesOfPVA&amp;a=PVA.org%2FVoicesOfPVA\" target=\"_blank\" rel=\"nofollow\"><b>PVA.org/VoicesOfPVA</b></a>. To subscribe, leave a review, or share an episode with someone you know, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=912741762&amp;u=https%3A%2F%2Fsubstack.com%2F%40PVA1946&amp;a=Substack.com%2F%40PVA1946\" target=\"_blank\" rel=\"nofollow\">Substack.com/@PVA1946</a>.</p><p><b>About Paralyzed Veterans of America</b><br></br>Paralyzed Veterans of America is a 501(c)(3) non-profit and the only congressionally chartered veterans service organization dedicated solely for the benefit and representation of veterans with spinal cord injury or diseases. The organization ensures veterans receive the benefits earned through service to our nation; monitors their care in VA spinal cord injury units; and funds research and education in the search for a cure and improved care for individuals with paralysis.</p><p>As a life-long partner and advocate for veterans and all people with disabilities, PVA also develops training and career services, works to ensure accessibility in public buildings and spaces, and provides health and rehabilitation opportunities through sports and recreation. With more than 70 offices and 33 chapters, Paralyzed Veterans of America serves veterans, their families, and their caregivers in all 50 states, the District of Columbia, and Puerto Rico. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4782724-1&amp;h=1334401970&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3929589-1%26h%3D2659874552%26u%3Dhttps%253A%252F%252Fwww.pva.org%252F%26a%3DPVA.org&amp;a=PVA.org\" target=\"_blank\" rel=\"nofollow\"><b>PVA.org</b></a>.</p><p><b>Contact:</b> Oname Thompson<br></br><a href=\"mailto:OnameT@PVA.org\" target=\"_blank\" rel=\"nofollow\">OnameT@PVA.org</a><br></br>(703) 864-5980 cell</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS611103/PVA-Logo.jpg?id=OA2970488\" title=\"\" alt=\"\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH56665&amp;sd=2026-09-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/paralyzed-veterans-of-america-debuts-voices-of-pva-podcast--the-definitive-voice-on-life-with-spinal-cord-injuries-and-diseases-like-ms-and-als-302889693.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/paralyzed-veterans-of-america-debuts-voices-of-pva-podcast--the-definitive-voice-on-life-with-spinal-cord-injuries-and-diseases-like-ms-and-als-302889693.html</a></p><p>SOURCE Paralyzed Veterans of America</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH56665&amp;Transmission_Id=202609241521PR_NEWS_USPR_____PH56665&amp;DateId=20260924\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Paralyzed Veterans of America",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 4,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-09-24T19:41:14.186Z"
+    },
     {
       "company": [
         "Digital Place Based Advertising Association (DPAA)"
