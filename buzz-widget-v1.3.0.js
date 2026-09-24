@@ -332,7 +332,7 @@
 
     var jsonLd = {
       "@context": "https://schema.org",
-      "@type": "Article",
+      "@type": "NewsArticle",
       "headline": title,
       "description": description,
       "url": canonical,
