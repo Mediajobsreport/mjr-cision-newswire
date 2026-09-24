@@ -1,8 +1,8 @@
-const fs = require("fs");
-const path = require("path");
+import fs from "node:fs";
+import path from "node:path";
 
-const NEWSWIRE_DIR = path.join(__dirname, "..", "data", "newswire");
-const OUTPUT = path.join(__dirname, "..", "data", "buzz-sitemap.xml");
+const NEWSWIRE_DIR = new URL("../data/newswire/", import.meta.url);
+const OUTPUT = new URL("../data/buzz-sitemap.xml", import.meta.url);
 const SKIP = new Set(["master.json", "review.json"]);
 
 function xmlEscape(value) {
@@ -25,7 +25,7 @@ const seen = new Set();
 for (const file of fs.readdirSync(NEWSWIRE_DIR).sort()) {
   if (!file.endsWith(".json") || SKIP.has(file)) continue;
 
-  const data = JSON.parse(fs.readFileSync(path.join(NEWSWIRE_DIR, file), "utf8"));
+  const data = JSON.parse(fs.readFileSync(new URL(file, NEWSWIRE_DIR), "utf8"));
   const pageUrl = String(data.page_url || "").trim();
   if (!/^https:\/\/www\.mediajobsreport\.com\//i.test(pageUrl)) continue;
 
