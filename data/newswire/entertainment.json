@@ -1,11 +1,105 @@
 {
-  "generated_at": "2026-09-25T20:13:56.464Z",
+  "generated_at": "2026-09-25T20:31:39.725Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 134,
+  "count": 135,
   "releases": [
+    {
+      "company": [
+        "King of Trash"
+      ],
+      "date": "20260925T201300+0000",
+      "dateline": "SAN JOSE, Calif., Sept. 25, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "TVN",
+        "ENT",
+        "ENV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "David Duong at The King of Trash Screening in Dublin, California — 12 Events Across the Country and More Than 5,000 Tickets Sold",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1996752/King-of-Trash-1.jpg?id=OA2971908&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1996752/King-of-Trash-1.jpg?id=OA2971908&p=publish"
+        },
+        {
+          "caption": "The official poster for The King of Trash, a documentary tracing David Duong’s journey from refugee displacement after the fall of Saigon to rebuilding a life, family, and business in America.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1991246/King-of-Trash-2.jpg?id=OA2971915&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1991246/King-of-Trash-2.jpg?id=OA2971915&p=publish"
+        }
+      ],
+      "release_id": "20260925SF57336",
+      "status": "PUBLISHED",
+      "subject": [
+        "RCY"
+      ],
+      "summary": "<p><i>The King of Trash, a hit documentary about the Duong family and their recycling company California Waste Solutions, has captivated communities all over California. This weekend, the last VIP screening of the movie in California in the latest tour takes place in San Jose. </i></p><p><span class=\"legendSpanClass\">SAN JOSE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 25, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=2688565952&amp;u=https%3A%2F%2Fwww.thekingoftrash.us%2F&amp;a=The+King+of+Trash\" target=\"_blank\" rel=\"nofollow\">The King of Trash</a>, the feature documentary about Vietnamese-American entrepreneur David Duong and the family that built <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=378601239&amp;u=http%3A%2F%2Fcalwaste.com%2F&amp;a=California+Waste+Solutions%2C+Inc.\" target=\"_blank\" rel=\"nofollow\">California Waste Solutions, Inc.</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=3077822706&amp;u=http%3A%2F%2Fvnwaste.com%2F&amp;a=Vietnam+Waste+Solutions\" target=\"_blank\" rel=\"nofollow\">Vietnam Waste Solutions</a>, returns to San Jose on Saturday for its final VIP pre-screening, with Duong, members of the cast, and director Errol Webber expected to meet the audience.</p>\n    ",
+      "ticker": [],
+      "title": "Final Curtain of Latest Screenings of The King of Trash, The Sold-Out Movie About California Waste Solutions &amp; David Duong, In San Jose &amp; Emeryville",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260925SF57336",
+      "body": "\n<p><i>The King of Trash, a hit documentary about the Duong family and their recycling company California Waste Solutions, has captivated communities all over California. This weekend, the last VIP screening of the movie in California in the latest tour takes place in San Jose. </i></p><p><span class=\"legendSpanClass\">SAN JOSE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 25, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=2688565952&amp;u=https%3A%2F%2Fwww.thekingoftrash.us%2F&amp;a=The+King+of+Trash\" target=\"_blank\" rel=\"nofollow\">The King of Trash</a>, the feature documentary about Vietnamese-American entrepreneur David Duong and the family that built <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=378601239&amp;u=http%3A%2F%2Fcalwaste.com%2F&amp;a=California+Waste+Solutions%2C+Inc.\" target=\"_blank\" rel=\"nofollow\">California Waste Solutions, Inc.</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=3077822706&amp;u=http%3A%2F%2Fvnwaste.com%2F&amp;a=Vietnam+Waste+Solutions\" target=\"_blank\" rel=\"nofollow\">Vietnam Waste Solutions</a>, returns to San Jose on Saturday for its final VIP pre-screening, with Duong, members of the cast, and director Errol Webber expected to meet the audience.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1996752/King-of-Trash-1.jpg?id=OA2971908\" title=\"David Duong at The King of Trash Screening in Dublin, California — 12 Events Across the Country and More Than 5,000 Tickets Sold\" alt=\"David Duong at The King of Trash Screening in Dublin, California — 12 Events Across the Country and More Than 5,000 Tickets Sold\"></img>\n                </p>\n    </div>\n<p>The Saturday, September 26 program screens from 4:00 p.m. to 8:00 p.m. at AMC Eastridge, 2190 Eastridge Loop. It closes a new round of Bay Area public screenings that has drawn nearly 1,000 registrations and wait-list requests after an eight-city U.S. pre-screening tour that brought more than 5,000 people into theaters in San Jose, Oakland, Sacramento, Orange County, Dallas, Houston, Washington, D.C., and Orlando.</p><p>The film also screens Friday, September 25, at the 20th <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=3354634186&amp;u=https%3A%2F%2Fredrockfilmfestival.eventive.org%2Ffilm_%26_events_guides%2Fking-of-trash-6a7eb6564c785b59b3ddd0b7&amp;a=Red+Rock+Film+Festival\" target=\"_blank\" rel=\"nofollow\">Red Rock Film Festival</a> in St. George, Utah, where it was selected for the 2026 program. A further Bay Area date follows on Saturday, October 3, from 5:00 p.m. to 7:00 p.m. at AMC Bay Street Emeryville.</p><p>\"We are absolutely amazed and thrilled at the reception for the movie,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=1617575796&amp;u=https%3A%2F%2Fwww.calwaste.com%2Fdavid-duong&amp;a=David+Duong\" target=\"_blank\" rel=\"nofollow\">David Duong</a>, Founder &amp; CEO of The King of Trash. \"We honestly never expected anything like this. It's been very moving to see so many people touched by my family's story of arriving here on the shores of America, picking up trash by hand, and building CWS out into the wonderful company that it is today.\"</p><p><b>A Community Company<br></br></b>The work that goes on behind the scenes at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=2289873011&amp;u=https%3A%2F%2Fwww.calwaste.com%2F&amp;a=California+Waste+Solutions\" target=\"_blank\" rel=\"nofollow\">California Waste Solutions</a> to make the cities it operates in clean, green and pretty are laid out in painstaking detail in The King of Trash, as well as the enormous sacrifices that went into making it all happen.</p><p>Crews are on the yard before most neighborhoods are awake; drivers and operations staff inspect trucks, check equipment, and walk the day's routes; once the fleet leaves the gate, collection moves through traffic that changes block by block. At the facilities, incoming material is received, flow is managed, and processing is kept in step with the street. Mechanics keep both the trucks and the sorting lines in service. When weather, volume, or street conditions change at a moment's notice, crews adjust. The work never stops.</p><p>\"For most people, recycling is part of a routine they rarely think about,\" said Michael Duong, President of California Waste Solutions. \"In our business, that usually means a win. At the same time, educating people about recycling and the importance of this vital service is also something we've tried really hard to do over the past few years, and hopefully The King of <i>Trash</i> succeeds with this a little. We like to think so.\"</p><p>The company measures reliability less by tonnage than by whether residents can depend on the service without having to think about it. Pre-dawn preparation, coordination between people and machines, and the refusal to treat any honest job as small are the same disciplines that took the Duong family from a single truck to a municipal recycling franchise serving two major California cities. <i>The King of Trash</i> records that continuity in documentary footage and in several dramatized sequences drawn from the company's own history.</p><p><b>Closing Out In San Jose<br></br></b>San Jose is being treated as the natural close for the VIP series. It is a California Waste Solutions service city and home to one of the largest Vietnamese-American communities in the country. For many families in the room, the history on screen is not distant. Meanwhile, the last showing of the current screening run will come to an end in Emeryville, close to the Duong family's Oakland home roots.</p><p>\"We came to this country with nothing but hope. Everything we built came from hard work and faith,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=1617575796&amp;u=https%3A%2F%2Fwww.calwaste.com%2Fdavid-duong&amp;a=David+Duong\" target=\"_blank\" rel=\"nofollow\">David Duong</a>. \"The movie is as much an homage to the places we were able to build the company into what it is today, and the wonderful, conscientious people in it who are our customers and employees.\"</p><p>Directed by Oscar-winning cinematographer Errol Webber, the 72-minute documentary traces the Duong family's escape from Saigon in April 1975, the open-sea crossing, a refugee camp in the Philippines, and the years of street-level recycling in San Francisco that grew into one of Northern California's major family-owned environmental services companies and a large-scale waste-management operation in Vietnam.</p><p>The new Bay Area run has drawn packed houses and unusually strong word of mouth from immigrant families who say the film is their story, not a corporate profile. Earlier dates in the current cycle included a sold-through showing in Hayward and a special screening in Dublin on September 19.</p><p>The production is preparing for official release and global distribution and has also been selected for the 2026 San Francisco International New Concept Film Festival.</p><p><b><i>The King of Trash</i></b><b> California Screening schedule<br></br></b>San Jose: Saturday, Sept. 26, 4-8 p.m., AMC Eastridge 15, 2190 Eastridge Loop. Final VIP red-carpet prescreening.</p><p>Emeryville: Saturday, Oct. 3, 5-7 p.m., AMC Bay Street 16, 5614 Bay St., Suite 220. Free and open to the public.</p><p>Registration: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=1044713118&amp;u=https%3A%2F%2Fwww.thekingoftrash.us%2F&amp;a=TheKingofTrash.us\" target=\"_blank\" rel=\"nofollow\">TheKingofTrash.us</a>. Seating is limited.</p><p><b>About The King of Trash<br></br></b><i>The King of Trash</i> is a feature documentary directed by Errol Webber. It tells the true story of David Duong and the Duong family, Vietnamese refugees who survived the fall of Saigon, rebuilt their lives in America, and founded California Waste Solutions and Vietnam Waste Solutions. Official site: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=1218683130&amp;u=https%3A%2F%2Fwww.thekingoftrash.us&amp;a=www.thekingoftrash.us\" target=\"_blank\" rel=\"nofollow\">www.thekingoftrash.us</a>. Media: <a href=\"mailto:info@thekingoftrash.us\" target=\"_blank\" rel=\"nofollow\">info@thekingoftrash.us</a>.</p><p><b>About California Waste Solutions<br></br></b>Founded in 1992 by David Duong, California Waste Solutions provides recycling collection, processing, customer service, and material recovery for residential, commercial, and municipal customers in Northern California, including Oakland and San José. Through its subsidiary Vietnam Waste Solutions, the company also operates large-scale environmental infrastructure in Ho Chi Minh City. Headquarters: 1211 Embarcadero, Suite 300, Oakland, CA 94606. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4783391-1&amp;h=2504414658&amp;u=http%3A%2F%2Fwww.calwaste.com%2F&amp;a=www.calwaste.com\" target=\"_blank\" rel=\"nofollow\">www.calwaste.com</a>.</p><p><b>Media Contact <br></br></b>Wendy Nguyen<br></br>PR &amp; Marketing Manager<br></br><a href=\"mailto:info@thekingoftrash.us\" target=\"_blank\" rel=\"nofollow\">info@thekingoftrash.us</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1991246/King-of-Trash-2.jpg?id=OA2971915\" title=\"The official poster for The King of Trash, a documentary tracing David Duong’s journey from refugee displacement after the fall of Saigon to rebuilding a life, family, and business in America.\" alt=\"The official poster for The King of Trash, a documentary tracing David Duong’s journey from refugee displacement after the fall of Saigon to rebuilding a life, family, and business in America.\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF57336&amp;sd=2026-09-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/final-curtain-of-latest-screenings-of-the-king-of-trash-the-sold-out-movie-about-california-waste-solutions--david-duong-in-san-jose--emeryville-302890596.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/final-curtain-of-latest-screenings-of-the-king-of-trash-the-sold-out-movie-about-california-waste-solutions--david-duong-in-san-jose--emeryville-302890596.html</a></p><p>SOURCE King of Trash</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF57336&amp;Transmission_Id=202609251613PR_NEWS_USPR_____SF57336&amp;DateId=20260925\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "King of Trash",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 1,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "movie",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "management": [
+            "summary:names"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-25T20:31:40.799Z"
+    },
     {
       "company": [
         "Exchange Traded Concepts, LLC"
