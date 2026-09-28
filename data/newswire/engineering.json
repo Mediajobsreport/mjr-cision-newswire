@@ -1,11 +1,92 @@
 {
-  "generated_at": "2026-09-28T07:31:33.324Z",
+  "generated_at": "2026-09-28T16:00:46.979Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "engineering",
   "page_url": "https://www.mediajobsreport.com/engineering_news",
-  "count": 4,
+  "count": 5,
   "releases": [
+    {
+      "company": [
+        "United Imaging Intelligence"
+      ],
+      "date": "20260928T131900+0000",
+      "dateline": "SHANGHAI, Sept. 28, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CHN",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "AFI",
+        "MTC",
+        "MEQ",
+        "HEA",
+        "FLM",
+        "STM",
+        "CPR",
+        "DTA",
+        "BIO"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260928CN57900",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SHANGHAI</span>, <span class=\"legendSpanClass\">Sept. 28, 2026</span> /PRNewswire/ -- Through an open-source model, a public dataset and benchmark, and the MedVidU Challenge, a global research competition, researchers worldwide now share a common foundation for advancing medical video AI. The Challenge drew 75 teams from 18 countries and regions across five continents, bringing diverse ideas and approaches into an ecosystem shaped by the wider research community.</p>\n<p class=\"prntal\">Participants represented leading universities, medical institutions, and technology companies, including Harvard Medical School, the University of Oxford, LMU University Hospital, Nanyang Technological University, King Abdullah University of Science and Technology, The University of Hong Kong, and NVIDIA.</p>",
+      "ticker": [],
+      "title": "Open-Source Model Accelerates Global Progress in Medical Video AI",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260928CN57900",
+      "body": "\n<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SHANGHAI</span>, <span class=\"legendSpanClass\">Sept. 28, 2026</span> /PRNewswire/ -- Through an open-source model, a public dataset and benchmark, and the MedVidU Challenge, a global research competition, researchers worldwide now share a common foundation for advancing medical video AI. The Challenge drew 75 teams from 18 countries and regions across five continents, bringing diverse ideas and approaches into an ecosystem shaped by the wider research community.</p>\n<p class=\"prntal\">Participants represented leading universities, medical institutions, and technology companies, including Harvard Medical School, the University of Oxford, LMU University Hospital, Nanyang Technological University, King Abdullah University of Science and Technology, The University of Hong Kong, and NVIDIA.</p><p class=\"prntal\">Supporting this community-driven momentum is a broader effort by United Imaging Intelligence (UII) to create the shared resources and platforms needed for medical video AI research to advance at scale.</p><p class=\"prntal\"><b>Building an Open Foundation for Global Collaboration</b></p><p class=\"prntal\">Medical video understanding remains one of AI's most demanding frontiers, requiring precise spatial awareness, complex temporal reasoning, and rigorous clinical accuracy. Progress has often been constrained by limited clinical data and the high cost of expert annotation.</p><p class=\"prntal\">UII is addressing these barriers through an open framework designed to make research progress measurable and global collaboration more accessible. In April, following the acceptance of its MedGRPO research at CVPR 2026, UII released uAI NEXUS MedVLM and open-sourced 6,245 MedVidBench test samples. These samples are part of a broader research collection of 531,850 video-instruction pairs that UII annotated using eight existing, publicly available medical video datasets. Access to each component is subject to its release terms and the applicable source-data licenses.</p><p class=\"prntal\">Alongside the model and dataset, UII launched the MedVidBench public leaderboard, which evaluates models across ten metrics, including next-action prediction, skill assessment, and spatiotemporal grounding. Together, these resources gave researchers a common starting point and a consistent way to compare and refine their models.</p><p class=\"prntal\">To turn this shared foundation into collective progress, UII co-launched the MedVidU Challenge with the University of Strasbourg and the Technical University of Munich in summer 2026. UII also released a second MedVidBench batch of 6,270 test samples.</p><p class=\"prntal\">Within approximately three months of its latest release, MedVidBench surpassed 30,000 downloads and received citations from researchers around the world, reflecting growing interest from the global research community.</p><p class=\"prntal\"><b>Uniting Global Expertise to Explore New Frontiers</b></p><p class=\"prntal\">According to the latest leaderboard, four teams advanced to the final stage of the Challenge. Two teams were invited to present their findings at the ECCV 2026 MedVidU Workshop, held in Malmö, Sweden in September.</p><p class=\"prntal\">The Workshop also featured oral presentations of two accepted papers exploring new ways to expand training resources for surgical AI and advance surgical skill assessment. Broader discussions brought together perspectives from biomedical engineering and robotics, highlighting emerging directions in medical video AI.</p><p class=\"prntal\">Surgical and clinical procedures are routinely recorded, yet much of this video remains underused. Medical video AI could unlock new clinical value, supporting surgical training through structured feedback, assisting with intraoperative safety checks, and streamlining postoperative review and documentation, with potential applications in nursing care and remote mentoring.</p><p class=\"prntal\">UII is building an open ecosystem of shared resources, transparent evaluation, global competition, and research exchange to help translate advances in medical video AI into clinical practice.</p><p class=\"prntal\"><b>Public Leaderboard:</b> <a href=\"https://huggingface.co/spaces/UII-AI/MedVidBench-Leaderboard\" target=\"_blank\" rel=\"nofollow\">https://huggingface.co/spaces/UII-AI/MedVidBench-Leaderboard</a> </p><p class=\"prntal\"><b>Data Sources:</b> <a href=\"https://huggingface.co/datasets/UII-AI/MedVidBench\" target=\"_blank\" rel=\"nofollow\">https://huggingface.co/datasets/UII-AI/MedVidBench</a> </p><p class=\"prntal\"><b>Declaration:</b> The referenced datasets are public, anonymized, appropriately authorized, and fully attributed. Both batches are intended for noncommercial research and evaluation under applicable terms. Batch 2 training data is available only to Challenge participants.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN57900&amp;sd=2026-09-28\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/open-source-model-accelerates-global-progress-in-medical-video-ai-302891437.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/open-source-model-accelerates-global-progress-in-medical-video-ai-302891437.html</a></p><p>SOURCE United Imaging Intelligence</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN57900&amp;Transmission_Id=202609280919PR_NEWS_USPR_____CN57900&amp;DateId=20260928\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "United Imaging Intelligence",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "engineering"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "engineering"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 5,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "engineering": [
+            "video ai"
+          ],
+          "entertainment": [
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-28T16:00:50.753Z"
+    },
     {
       "company": [
         "Eluvio, Inc."
