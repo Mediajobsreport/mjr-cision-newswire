@@ -1,11 +1,87 @@
 {
-  "generated_at": "2026-09-29T08:21:10.226Z",
+  "generated_at": "2026-09-29T20:00:13.146Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 48,
+  "count": 49,
   "releases": [
+    {
+      "company": [
+        "Good Traffic"
+      ],
+      "date": "20260929T123300+0000",
+      "dateline": "NEW YORK, Sept. 29, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "TRN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "GOOD TRAFFIC",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1997576/GOOD-TRAFFIC-LOGO.jpg?id=OA2974044&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1997576/GOOD-TRAFFIC-LOGO.jpg?id=OA2974044&p=publish"
+        }
+      ],
+      "release_id": "20260929PH58222",
+      "status": "PUBLISHED",
+      "subject": [
+        "CXP"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 29, 2026</span> /PRNewswire/ -- After a record-breaking year in revenue, GOOD TRAFFIC (formerly known as mobilads) continues its growth by expanding transit Out-of-Home (OOH) operations into Australia.</p>\n<p>Australia presents a unique opportunity for GOOD TRAFFIC to showcase the strengths of its rideshare advertising format. According to the Outdoor Media Association (OMA) and MOVE, Australian OOH advertising reaches 97% of Australians every week and generated $744.1 million in half-year net media revenue in 2026, up 6.51% year-over-year, making it an ideal market for expansion.</p>",
+      "ticker": [],
+      "title": "GOOD TRAFFIC Kicks Off Australian Operations, Bringing Rideshare Advertising Down Under",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260929PH58222",
+      "body": "\n<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 29, 2026</span> /PRNewswire/ -- After a record-breaking year in revenue, GOOD TRAFFIC (formerly known as mobilads) continues its growth by expanding transit Out-of-Home (OOH) operations into Australia.</p>\n<p>Australia presents a unique opportunity for GOOD TRAFFIC to showcase the strengths of its rideshare advertising format. According to the Outdoor Media Association (OMA) and MOVE, Australian OOH advertising reaches 97% of Australians every week and generated $744.1 million in half-year net media revenue in 2026, up 6.51% year-over-year, making it an ideal market for expansion.</p><p>\"Entering the Australian market is an exciting move for GOOD TRAFFIC. Our format is uniquely positioned for success in what is one of the more robust OOH markets. Because our campaigns are lean, agile, and measurable, they're a perfect fit for the geography, logistics, and measurement standards that come with the Australian OOH market,\" said Craig Cook, CEO and co-founder at GOOD TRAFFIC.</p><p>With over 600 rideshare advertising campaigns on its roster, and an established presence in the LATAM market through Mexico and Brazil, GOOD TRAFFIC continues to expand not only its global footprint but also its creative offerings. Recent campaigns leverage digital tops, 3D tops, and other experiential elements that prove the creativity of the format is unmatched. Pairing that creativity with the inherent flexibility of the format showcases how rideshare advertising is establishing itself as an integral part of the Out-of-Home landscape.</p><p><b>About GOOD TRAFFIC</b></p><p>GOOD TRAFFIC is the transit Out-of-Home (OOH) agency transforming rideshare vehicles into moving billboards. Trusted by over one hundred Fortune 1000 brands, GOOD TRAFFIC puts advertisers in the right place, at the right moment, in front of the right audience — saturating specific locations with bespoke campaigns that meet consumers at street level. Founded by entrepreneurs Craig Cook and Niels Sommerfeld in 2017, GOOD TRAFFIC launches campaigns designed to turn heads, command attention, and drive seriously good traffic.<br></br>Operating in the U.S., U.K., Mexico, Brazil, and Australia.<br></br>Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4784270-1&amp;h=3818768303&amp;u=http%3A%2F%2Fwww.goodtraffic.com%2F&amp;a=www.goodtraffic.com\" target=\"_blank\" rel=\"nofollow\">www.goodtraffic.com</a>.</p><p><b>Contact<br></br></b>Niels Sommerfeld<br></br>COO and Co-Founder at GOOD TRAFFIC<br></br><a href=\"mailto:423615@email4pr.com\" target=\"_blank\" rel=\"nofollow\">423615@email4pr.com</a> <br></br>347-370-7760</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH58222&amp;sd=2026-09-29\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/good-traffic-kicks-off-australian-operations-bringing-rideshare-advertising-down-under-302891792.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/good-traffic-kicks-off-australian-operations-bringing-rideshare-advertising-down-under-302891792.html</a></p><p>SOURCE GOOD TRAFFIC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH58222&amp;Transmission_Id=202609290833PR_NEWS_USPR_____PH58222&amp;DateId=20260929\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "GOOD TRAFFIC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-09-29T20:00:18.792Z"
+    },
     {
       "company": [
         "Omnicom Group Inc."
