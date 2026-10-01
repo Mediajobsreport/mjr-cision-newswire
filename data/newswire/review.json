@@ -1,11 +1,88 @@
 {
-  "generated_at": "2026-10-01T18:59:04.701Z",
+  "generated_at": "2026-10-01T23:05:15.657Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 105,
+  "count": 106,
   "releases": [
+    {
+      "company": [
+        "Horizon Media"
+      ],
+      "date": "20261001T191100+0000",
+      "dateline": "NEW YORK, Oct. 1, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "AFI",
+        "STW",
+        "DTA",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1860302/Horizon-Media-Logo.jpg?id=OA2983394&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1860302/Horizon-Media-Logo.jpg?id=OA2983394&p=publish"
+        }
+      ],
+      "release_id": "20261001NY62096",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p><i>Cohort 3 Reflects Market Acceleration and Client Priorities as Marketing Technology Shifts From Insight to Action</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 1, 2026</span> /PRNewswire/ -- Horizon Media today unveiled 11 companies named to the third cohort of HorizonOS Labs, the agency's structured innovation accelerator. With more than 50 partners having gone through the program, Horizon serves as a curator of emerging technology, simplifying the often time-consuming process of identifying, testing and scaling solutions so clients can build bespoke operating platforms around their unique business challenges. The program is designed to distinguish viable innovation from vendor promises through a transparent, client-centric process focused on real-world application.</p>",
+      "ticker": [],
+      "title": "Horizon Media Expands HorizonOS Labs with Third Cohort, Bringing New Partners into its Open Ecosystem to Tackle Marketers' Growth Challenges",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261001NY62096",
+      "body": "<p><i>Cohort 3 Reflects Market Acceleration and Client Priorities as Marketing Technology Shifts From Insight to Action</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 1, 2026</span> /PRNewswire/ -- Horizon Media today unveiled 11 companies named to the third cohort of HorizonOS Labs, the agency's structured innovation accelerator. With more than 50 partners having gone through the program, Horizon serves as a curator of emerging technology, simplifying the often time-consuming process of identifying, testing and scaling solutions so clients can build bespoke operating platforms around their unique business challenges. The program is designed to distinguish viable innovation from vendor promises through a transparent, client-centric process focused on real-world application.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1860302/Horizon-Media-Logo.jpg?id=OA2983394\" title=\"\" alt=\"\"></img></p></div><p>\"The market is moving faster than annual technology reviews can accommodate,\" said John Koenigsberg, EVP and Head of Platform Partnerships at Horizon Media Holdings. \"One clear shift emerged from Cohort 3: the vast majority of partners are focused on growth, closing the loop between surfacing, modeling and finding – and actually driving action. What makes these capabilities valuable isn't any one of them alone, but what happens when they connect with each other and with what a brand already knows.\"</p><p>Cohort 3 is organized around three Growth Frontiers. They include: </p><ul type=\"disc\"><li><b>Unlocking Growth from the Customers You Already Know. </b>Brands can now understand the people already connected to them far more deeply than before, and act on that understanding in the same motion, across the channels they own and the media they buy. <br></br><br></br></li><li><b>Creative Supply at the Speed of Everything Else.</b> Precision in targeting and measurement has raised what creative can be asked to do, and production has caught up—generating, versioning and governing at the volume a channel actually requires. <br></br><br></br></li><li><b>Winning Customers When Machines Shape Discovery. </b>More of the journey now runs through machines: search that answers rather than lists, assistants that shop, screens that decide what comes next. Presence in those spaces is earned differently, and it can now be measured, shaped and acted on. </li></ul><p>Each frontier unifies what was once fragmented: paid, owned and consumer insight; media and creative; and human strategy and intelligent workflows. The 11 Cohort 3 partners, chosen from more than 600 RFI submissions, reflect Horizon's commitment to an open ecosystem where clients can access best fit technologies without vendor lock-in or proprietary constraints.</p><p>The 11 were selected on what they can do: how readily they connect to the systems a client already operates, their willingness to work alongside other companies in the cohort, and concrete evidence that the work drives business outcomes.</p><p>\"AI is changing the rules for how brands grow,\" said Bob Lord, President of Horizon Media Holdings. \"The brands that will drive growth aren't looking for a better way to buy media. They're solving for customer value by building an operating platform that brings their data, customers, technology and people together around the problems that matter most to their business. There's no off-the-shelf answer to that. Horizon is committed to bringing the open ecosystem together to build the right capabilities for each customer.\"</p><p><b>The Cohort 3 Partners — Grouped by Growth Frontier — Include:</b></p><p><i>Unlocking Growth from the Customers You Already Know</i></p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=64690103&amp;u=https%3A%2F%2Fwww.sqreem.com%2F&amp;a=SQREEM\" target=\"_blank\" rel=\"nofollow\"><b>SQREEM</b></a><b>: </b>SQREEM is a behavioral intelligence platform that builds real‑time, predictive audience and intent models from massive volumes of unstructured digital data (web, app, social, video) rather than relying on predefined segments or static taxonomies. <br></br><br></br></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=2132269009&amp;u=https%3A%2F%2Faaru.com%2F&amp;a=Aaru\" target=\"_blank\" rel=\"nofollow\"><b>Aaru</b></a><b>: </b>Aaru is a statistical simulation engine for predicting human behavior. Our platform enables organizations to test products, messaging, and strategies with simulated respondents to understand how people will react before making real-world decisions<br></br>.</li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=3286744426&amp;u=https%3A%2F%2Fwww.zenapse.com%2F&amp;a=Zenapse\" target=\"_blank\" rel=\"nofollow\"><b>Zenapse</b></a><b>: </b>Zenapse is an emotionally intelligent, agentic marketing platform, purpose-built to quickly drive business outcomes through goal-based conversion optimization, personalization and data — all within existing media and workflows.<br></br><br></br></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=745179921&amp;u=https%3A%2F%2Fhightouch.com%2F&amp;a=Hightouch\" target=\"_blank\" rel=\"nofollow\"><b>Hightouch</b></a><b>:</b> Hightouch is an agentic marketing platform where AI agents and marketing teams work together to brief, create, review, and launch campaigns across 300+ channels, guided by a shared \"marketing brain\" that learns from your brand, customer data, and every campaign's results.</li></ul><p><i>Creative Supply at the Speed of Everything Else</i></p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=249222953&amp;u=https%3A%2F%2Fwww.adgreetz.com%2F&amp;a=AdGreetz\" target=\"_blank\" rel=\"nofollow\"><b>AdGreetz</b></a><b>: </b>AdGreetz offers DCO+®, which personalizes any ad into unlimited, relevant, data-driven versions served to each viewer and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=2431467747&amp;u=http%3A%2F%2Fadchef.io%2F&amp;a=AdChef\" target=\"_blank\" rel=\"nofollow\">AdChef</a>®, which orchestrates 50+ AI models with Proprietary Creative Agents to generate original, broadcast-quality video, display, UGC/influencer, rich media, carousel and product ads from a brief, URL or prompt in minutes.<br></br><br></br></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=3881021612&amp;u=https%3A%2F%2Fstoryteq.com%2F&amp;a=Storyteq\" target=\"_blank\" rel=\"nofollow\"><b>Storyteq</b></a>: ITG is an AI-enabled content company that helps global brands deliver personalized content at scale. Powered by our Storyteq platform, ITG combines technology, data and production expertise to lower costs and lift ROAS by up to 300%. <br></br><br></br></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=3834727989&amp;u=https%3A%2F%2Fanoki.ai%2F&amp;a=Anoki\" target=\"_blank\" rel=\"nofollow\"><b>Anoki</b></a><b>:</b> Anoki AI is the contextual video intelligence company advancing CTV with ContextIQ and its award-winning AI Marketing Co-Pilot, helping every ad find its perfect home, scene by scene.</li></ul><p><i>Winning Customers When Machines Shape Discovery</i></p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=687779897&amp;u=https%3A%2F%2Fwww.bluefishai.com%2F&amp;a=Bluefish\" target=\"_blank\" rel=\"nofollow\"><b>Bluefish</b></a>: Bluefish is the Agentic Marketing Platform (AMP) for the Fortune 500.<br></br><br></br></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=245106325&amp;u=https%3A%2F%2Fwww.emberos.ai%2F&amp;a=EmberOS\" target=\"_blank\" rel=\"nofollow\"><b>EmberOS</b></a>: emberos, the Operating System for AI brand management, shows brands what AI is about to say about them, helps them change it at the source, and proves the change worked.<br></br><br></br></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=4181619405&amp;u=https%3A%2F%2Fwww.olyzon.tv%2F&amp;a=Olyzon\" target=\"_blank\" rel=\"nofollow\"><b>Olyzon</b></a>: Olyzon is an agentic orchestration layer for advertising: its agents connect to any buying interface through open protocols to plan, activate and optimize across platforms, starting with CTV and extending to YouTube, Social, DOOH and Audio, live today across managed accounts.<br></br><br></br></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4787994-1&amp;h=4058671623&amp;u=https%3A%2F%2Fwww.fuse.is%2F&amp;a=Fuse\" target=\"_blank\" rel=\"nofollow\"><b>Fuse</b></a>: FUSE+Emet is the truth infrastructure layer for AI data systems. AI doesn't know when it's wrong. Emet does.</li></ul><p>The Cohort 3 partners will be showcased at an in-person event in New York on October 1, where they will present to Horizon clients and engage in discussions around potential pilot deployments. Following the showcase, partners will be matched with interested client brands to scope and advance specific pilots, with client participation helping determine which opportunities move forward. </p><p>Looking ahead, HorizonOS Labs will open its next RFI process in early 2027.</p><p><b>About Horizon Media Holdings</b></p><p>Horizon Media Holdings is the privately-held parent company of Horizon Media, the largest U.S. media agency and the largest independent globally, with additional portfolio companies including – Horizon Next (full-service marketing); Horizon Commerce (commerce and digital experiences); Horizon Business (consulting, media and creative); One Horizon (full-service advertising); HS&amp;E (sports and experiential); and Blue Hour Studios (influencer agency). Horizon Media Holdings has a 50/50 partnership with Havas Media Network in the performance-driven agency network, Horizon Global. Horizon Holdings drives enterprise-level innovation, fosters collaboration across its portfolio, and explores new growth opportunities and technology solutions to help its clients navigate the shifting marketing challenges of today and tomorrow.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY62096&amp;sd=2026-10-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/horizon-media-expands-horizonos-labs-with-third-cohort-bringing-new-partners-into-its-open-ecosystem-to-tackle-marketers-growth-challenges-302896469.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/horizon-media-expands-horizonos-labs-with-third-cohort-bringing-new-partners-into-its-open-ecosystem-to-tackle-marketers-growth-challenges-302896469.html</a></p><p>SOURCE Horizon Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY62096&amp;Transmission_Id=202610011511PR_NEWS_USPR_____NY62096&amp;DateId=20261001\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Horizon Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 3,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-01T23:05:17.860Z"
+    },
     {
       "company": [
         "Hearst Media Production Group, LLC"
