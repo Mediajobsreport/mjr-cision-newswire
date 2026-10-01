@@ -1,11 +1,81 @@
 {
-  "generated_at": "2026-09-30T20:40:23.996Z",
+  "generated_at": "2026-10-01T00:11:17.941Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 100,
+  "count": 101,
   "releases": [
+    {
+      "company": [
+        "Corgi"
+      ],
+      "date": "20260930T210000+0000",
+      "dateline": "SAN FRANCISCO, Sept. 30, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SPT",
+        "HIN",
+        "INS",
+        "FIN",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260930SF61128",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 30, 2026</span> /PRNewswire/ -- Corgi Insurance today announced the launch of Golden by Corgi, a dedicated sports and entertainment insurance platform providing coverage for the organizations, events, facilities, and businesses that power the sports industry.</p><p>Golden provides insurance solutions for teams, leagues, federations, National Governing Bodies, tournaments, athletic facilities, sporting events, and other organizations operating across the sports ecosystem. The platform offers more than 20 lines of coverage designed around the specialized risks these organizations face.</p>",
+      "ticker": [],
+      "title": "Corgi Insurance Launches Sports and Entertainment Coverage Through Its Surplus Lines Carrier",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260930SF61128",
+      "body": "<p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 30, 2026</span> /PRNewswire/ -- Corgi Insurance today announced the launch of Golden by Corgi, a dedicated sports and entertainment insurance platform providing coverage for the organizations, events, facilities, and businesses that power the sports industry.</p><p>Golden provides insurance solutions for teams, leagues, federations, National Governing Bodies, tournaments, athletic facilities, sporting events, and other organizations operating across the sports ecosystem. The platform offers more than 20 lines of coverage designed around the specialized risks these organizations face.</p><p>Golden is led by Peter Akman and Mike T. Brown, former founders and professional athletes who bring experience building businesses and competing professionally. Their backgrounds have shaped Golden's approach to insurance, with a focus on the operational realities of sports organizations.</p><p>Through Corgi's surplus lines carrier, Golden can build customized insurance programs for organizations with specialized or complex coverage needs. The platform combines underwriting, claims, and risk management capabilities under one system, with certificates of insurance available in minutes and in-house claims handling.</p><p>\"Sports is an incredibly diverse industry, and the insurance needs of a national governing body can look very different from those of a tournament, facility, or professional organization,\" said Peter Akman, Co-Founder of Golden. \"We built Golden to give each organization the flexibility to build coverage around how it actually operates.\"</p><p>Golden is already working with National Governing Bodies and Olympic programs, including USA Fencing, as well as organizations across the broader sports ecosystem.</p><p>The platform is designed to support organizations throughout the lifecycle of their operations, from day-to-day activities and facilities to tournaments, events, athletes, and other specialized exposures.</p><p>\"Insurance should not be another operational hurdle for sports organizations,\" said Mike T. Brown, Co-Founder of Golden. \"Golden brings sports expertise together with Corgi's insurance infrastructure to make the process faster, simpler, and more tailored to the organizations we serve.\"</p><p>About Golden</p><p>Golden is Corgi's dedicated sports and entertainment insurance platform, providing commercial insurance solutions for sports organizations across the United States. The platform offers more than 20 lines of coverage designed for the unique risks faced by teams, leagues, tournaments, facilities, events, and sports organizations of all sizes.</p><p>Learn more at getgolden.insure.</p><p><b>About Corgi</b></p><p>Corgi is an AI-native insurance carrier built for high-growth companies. The company combines proprietary underwriting technology, in-house claims handling, and modern insurance infrastructure to deliver coverage built for the way businesses operate today.</p><p>Media Contact:</p><p>Erika Lee<br></br><a href=\"mailto:erika@corgi.com\" target=\"_blank\" rel=\"nofollow\">erika@corgi.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF61128&amp;sd=2026-09-30\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/corgi-insurance-launches-sports-and-entertainment-coverage-through-its-surplus-lines-carrier-302895027.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/corgi-insurance-launches-sports-and-entertainment-coverage-through-its-surplus-lines-carrier-302895027.html</a></p><p>SOURCE Corgi</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF61128&amp;Transmission_Id=202609301700PR_NEWS_USPR_____SF61128&amp;DateId=20260930\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Corgi",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-01T00:11:19.325Z"
+    },
     {
       "company": [
         "Telit Cinterion"
