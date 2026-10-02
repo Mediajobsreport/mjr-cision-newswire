@@ -31,23 +31,36 @@ export class CisionClient {
     return payload;
   }
 
-  async request(path, { retryAuth = true } = {}) {
+  async request(path, { retryAuth = true, retries = 3 } = {}) {
     if (!this.token || Date.now() > this.expiresAt - 5 * 60_000) {
       await this.authenticate();
     }
-    const response = await this.fetch(`${API_BASE}${path}`, {
-      headers: {
-        Accept: "application/json",
-        Authorization: `Bearer ${this.token}`,
-        "X-Client": this.login
+    let response;
+    try {
+      response = await this.fetch(`${API_BASE}${path}`, {
+        headers: {
+          Accept: "application/json",
+          Authorization: `Bearer ${this.token}`,
+          "X-Client": this.login
+        }
+      });
+    } catch (error) {
+      if (retries > 0) {
+        await sleep(retryDelay(3 - retries));
+        return this.request(path, { retryAuth, retries: retries - 1 });
       }
-    });
+      throw error;
+    }
     if (response.status === 401 && retryAuth) {
       this.token = null;
       await this.authenticate();
-      return this.request(path, { retryAuth: false });
+      return this.request(path, { retryAuth: false, retries });
     }
     const payload = await readJson(response);
+    if (!response.ok && isTransientStatus(response.status) && retries > 0) {
+      await sleep(retryDelay(3 - retries, response.headers.get("retry-after")));
+      return this.request(path, { retryAuth, retries: retries - 1 });
+    }
     if (!response.ok) throw apiError(`Cision request failed: ${path}`, response, payload);
     return payload;
   }
@@ -77,6 +90,20 @@ export class CisionClient {
     if (!allowed.has(type)) throw new Error(`Unsupported Cision code type: ${type}`);
     return this.request(`/api/v1.0/codes/${type}`);
   }
+}
+
+function isTransientStatus(status) {
+  return status === 408 || status === 429 || status >= 500;
+}
+
+function retryDelay(attempt, retryAfter) {
+  const seconds = Number(retryAfter);
+  if (Number.isFinite(seconds) && seconds >= 0) return Math.min(30_000, seconds * 1000);
+  return Math.min(10_000, 1000 * (2 ** attempt));
+}
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 async function readJson(response) {
