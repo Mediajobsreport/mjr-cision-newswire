@@ -1,11 +1,84 @@
 {
-  "generated_at": "2026-10-02T08:52:09.370Z",
+  "generated_at": "2026-10-02T18:35:25.753Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 106,
+  "count": 107,
   "releases": [
+    {
+      "company": [
+        "Élections Québec"
+      ],
+      "date": "20261002T103000+0000",
+      "dateline": "QUÉBEC CITY, Oct. 2, 2026",
+      "feed": [
+        "CNW",
+        "prnj_cnw"
+      ],
+      "geography": [
+        "QUE",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "USN",
+        "PUB",
+        "MLM",
+        "EDU"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Élections Québec Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS980333/Élections-Québec-MEDIA-ADVISORY-2026-provincial-election-prac.jpg?id=OA2983331&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS980333/Élections-Québec-MEDIA-ADVISORY-2026-provincial-election-prac.jpg?id=OA2983331&p=publish"
+        }
+      ],
+      "release_id": "20261002C4898",
+      "status": "PUBLISHED",
+      "subject": [
+        "CPN",
+        "CPG"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">QUÉBEC CITY</span>, <span class=\"legendSpanClass\">Oct. 2, 2026</span> /CNW/ -- On October 5, Élections Québec will release several statistics eagerly awaited by the media.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS980333/Élections-Québec-MEDIA-ADVISORY-2026-provincial-election-prac.jpg?id=OA2983331\" title=\"Élections Québec Logo\" alt=\"Élections Québec Logo\"></img></p></div><p><b>Recording images at polling places</b></p><p>Media representatives may visit polling places to take photos and videos, but they must comply with the <a href=\"https://www.electionsquebec.qc.ca/en/understand/understanding-voting/rules-to-follow-in-provincial-polling-places/#anchor4\" target=\"_blank\" rel=\"nofollow\">established rules</a>. Election officers are not authorized to grant interviews.</p><p><b>Preliminary voter turnout</b></p><p>We will update the <a href=\"https://www.electionsquebec.qc.ca/en/results-and-statistics/history-of-voter-turnout/\" target=\"_blank\" rel=\"nofollow\">preliminary voter turnout</a> twice. We will do so first around noon and a second time around 5 p.m.</p><p>In 2022, the preliminary turnout reported at noon was 29.20%. The turnout reported at 5 p.m. was 44.63%.</p>",
+      "ticker": [],
+      "title": "MEDIA ADVISORY - 2026 provincial election: practical information on voter turnout, counting of the votes and publication of results",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261002C4898",
+      "body": "<p><span class=\"legendSpanClass\">QUÉBEC CITY</span>, <span class=\"legendSpanClass\">Oct. 2, 2026</span> /CNW/ -- On October 5, Élections Québec will release several statistics eagerly awaited by the media.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS980333/Élections-Québec-MEDIA-ADVISORY-2026-provincial-election-prac.jpg?id=OA2983331\" title=\"Élections Québec Logo\" alt=\"Élections Québec Logo\"></img></p></div><p><b>Recording images at polling places</b></p><p>Media representatives may visit polling places to take photos and videos, but they must comply with the <a href=\"https://www.electionsquebec.qc.ca/en/understand/understanding-voting/rules-to-follow-in-provincial-polling-places/#anchor4\" target=\"_blank\" rel=\"nofollow\">established rules</a>. Election officers are not authorized to grant interviews.</p><p><b>Preliminary voter turnout</b></p><p>We will update the <a href=\"https://www.electionsquebec.qc.ca/en/results-and-statistics/history-of-voter-turnout/\" target=\"_blank\" rel=\"nofollow\">preliminary voter turnout</a> twice. We will do so first around noon and a second time around 5 p.m.</p><p>In 2022, the preliminary turnout reported at noon was 29.20%. The turnout reported at 5 p.m. was 44.63%.</p><p>The final voter turnout was 66.15%.</p><p><b>Preliminary results on election night</b></p><p>Preliminary results will be released as the counting of the votes progresses on our <a href=\"https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.electionsquebec.qc.ca%2Fen%2Fresults-and-statistics%2Fprovincial-general-elections-live-results%2F&amp;data=05%7C02%7Cusesmtl%40prnewswire.com%7C4ebe7a473e3747b9005808df1ff067ab%7C887bf9ee3c824b88bcb280d5e169b99b%7C1%7C0%7C639264790971339798%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&amp;sdata=jC1bxSoPh3mhJVW4oy4ckjrhkBSUt05ZZOBk%2BoqWcsU%3D&amp;reserved=0\" target=\"_blank\" rel=\"nofollow\">website</a> and in our <a href=\"https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.dgeq.org%2Fen%2Findex.html&amp;data=05%7C02%7Cusesmtl%40prnewswire.com%7C4ebe7a473e3747b9005808df1ff067ab%7C887bf9ee3c824b88bcb280d5e169b99b%7C1%7C0%7C639264790971373566%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C40000%7C%7C%7C&amp;sdata=rbM8TC%2FI37NpDDrO0%2B2%2F%2F14mb9u%2BKMazCtjvOieTy8c%3D&amp;reserved=0\" target=\"_blank\" rel=\"nofollow\">open data</a>. Data will be updated every two to five minutes.</p><p>The counting of the votes begins when all electors present in a polling place at closing time (8 p.m.) have voted and left the premises. Election officers count the votes cast manually at the polling station for which they are responsible. The pace of reporting depends on several factors, including the volume of ballots to count; we therefore cannot determine at what time the counting of the votes will end.</p><p><b>Advance poll</b></p><p>The counting of the votes cast at advance polls may begin as early as 6 p.m. That is why we can release the first results within an hour of the polling stations closing. But even if the votes in some ballot boxes have already been counted, between 6 p.m. and 8 p.m., <b>no results can be released until the polling stations close at 8</b> <b>p.m. </b>because the election is not ended yet.</p><p>Thus, the results for most votes cast before election day will be released early in the evening. However, because some ballot boxes will be counted later, we cannot guarantee that all advance poll results will be disclosed early in the evening.</p><p>Given the high popularity of advance polling in certain electoral divisions, their first results might be released later than those of electoral divisions where advance polling is less popular.</p><p><b>Îles-de-la-Madeleine</b></p><p>Results for the Îles-de-la-Madeleine electoral division will be released <b>at the same time as results for the rest of Québec</b>, starting at 8 p.m., Eastern Time.</p><p>In Îles-de-la-Madeleine, polling stations are open from 9:30 a.m. to 8 p.m., Atlantic Time. They therefore close at 7 p.m., Eastern Time. However, because voting is not over elsewhere in Québec, the returning officer for this electoral division will wait until 9 p.m., Atlantic Time, before transmitting any results.</p><p><b>Voting by mail</b></p><p>During Québec elections, voting by mail is reserved for electors who are located in certain remote regions, in correctional institutions or outside Québec, temporarily. These ballot papers are all counted at the head office of Élections Québec.</p><p>Generally speaking, the number of votes by mail is low. In 2022, it represented 0.11% of the total number of votes cast in the general election.</p><p><b>Addition of the votes</b></p><p>On election night, the results are preliminary. They will be confirmed during the addition of the votes, which usually takes place the following morning, around 9 a.m., or when all ballot boxes have been returned to the office of the returning officer for each electoral division.</p><p>During the addition of the votes, the returning officer examines the statements of votes for each ballot box. They make sure that the results entered on the statements correspond to the results released on election night. If the returning officer notes a discrepancy between the information released on election night and the copies of the statement, they correct the results. The contents of the ballot boxes are not counted again.</p><p>At the end of the addition, the results are official. The ballot boxes are then closed and sealed.</p><p><b>Judicial recount</b></p><p>Generally, the results make it very clear who has been elected. But in certain contexts, ballot papers must be recounted during a judicial recount. </p><p>Élections Québec cannot, on its own initiative, open a ballot box to validate the outcome of an election.</p><p>The <i>Election Act</i> provides for a four-day period following the addition of the votes during which a person may file a request for a judicial recount with the Court of Québec. The four-day period is calculated excluding any Saturday, Sunday or holiday. A judge must then grant or deny the request based on the grounds presented.</p><p>In electoral divisions where the addition of the votes takes place on October 6, the deadline to request a judicial recount will be October 13.</p><p>Three scenarios can lead to a judicial recount following a provincial election:</p><ul type=\"disc\"><li>It takes place automatically if the first-place candidates have the same number of votes at the end of the addition of the votes.</li><li>The second-place candidate may request one if the difference in votes separating them from first place is less than 1/1000 of the votes cast.</li><li>Any person may file a request if they have reasonable grounds to believe that a deputy returning officer or the returning officer has unlawfully counted or rejected ballot papers or drawn up an incorrect statement of votes.</li></ul><p>When a request for a judicial recount is filed and granted by the court, a judge oversees the recount of the votes. The counting of the votes must begin within four days of the judgment granting the request.</p><p><b>Declaration of election and final results</b></p><p>Following the four-day period, or once the court confirms the result of the votes, the returning officer declares that the candidate who received the most votes has been elected.</p><p>In most electoral divisions, the declaration of election will take place on Wednesday, October 14, due to the Thanksgiving holiday on Monday, October 12.</p><p>We retain all ballot papers, statements of votes and poll books for one year. They remain under seal; no one can access them, except the courts, if necessary.</p><p><b>Other statistics</b></p><ul type=\"disc\"><li><a href=\"https://www.electionsquebec.qc.ca/en/results-and-statistics/history-of-voter-turnout/\" target=\"_blank\" rel=\"nofollow\">Voter turnout history</a></li><li><a href=\"https://www.electionsquebec.qc.ca/en/results-and-statistics/statistics-on-candidates/\" target=\"_blank\" rel=\"nofollow\">Statistics on candidates – October 5, 2026</a></li></ul><p><b>About Élections Québec</b></p><p>Élections Québec is a non-partisan and independent institution striving to ensure the integrity, transparency, and reliability of elections and to contribute to the vitality of the Québec democracy.</p><p>In practical terms, the institution organizes provincial elections in cooperation with the returning officers of Québec's 127 electoral divisions. In addition, it designs and offers several democracy education programs; it ensures compliance with the rules on political financing; and it acts as a public prosecutor to ensure compliance with Québec's electoral laws.</p><p>Our website includes a <a href=\"https://www.electionsquebec.qc.ca/en/press-room/\" target=\"_blank\" rel=\"nofollow\">section for the media</a>.</p><p>To receive our press releases by email, subscribe to our <a href=\"https://www.electionsquebec.qc.ca/en/newsletters-and-social-media/\" target=\"_blank\" rel=\"nofollow\">newsletter</a>.</p><p>SOURCE Élections Québec</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C4898&amp;Transmission_Id=202610020630CANADANWCANADAPR_C4898&amp;DateId=20261002\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Élections Québec",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM",
+            "industry:PUB"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-02T18:35:30.004Z"
+    },
     {
       "company": [
         "Horizon Media"
@@ -81,7 +154,7 @@
         "news_score": 2,
         "excluded": false
       },
-      "imported_at": "2026-10-01T23:05:17.860Z"
+      "imported_at": "2026-10-02T18:35:30.705Z"
     },
     {
       "company": [

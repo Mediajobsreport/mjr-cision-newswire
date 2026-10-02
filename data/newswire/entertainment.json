@@ -1,11 +1,187 @@
 {
-  "generated_at": "2026-10-02T08:52:09.370Z",
+  "generated_at": "2026-10-02T18:35:25.753Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 161,
+  "count": 163,
   "releases": [
+    {
+      "company": [
+        "Canadian Union of Public Employees (FTQ)"
+      ],
+      "date": "20261002T162100+0000",
+      "dateline": "MONTREAL, Oct. 2, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "QUE",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "TVN",
+        "WRK"
+      ],
+      "language": "en",
+      "multimedia": [],
+      "release_id": "20261002C9869",
+      "status": "PUBLISHED",
+      "subject": [
+        "LEG",
+        "AVO"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">MONTREAL</span>, <span class=\"legendSpanClass\">Oct. 2, 2026</span> /CNW/ -- The Syndicat général du cinéma et de la télévision (General Union of Film and Television Workers – SGCT–CUPE 4835) is concerned that discussions about the future of our audiovisual cultural institutions are being held behind closed doors. The Honourable Marc Miller, Minister of Canadian Identity and Culture and Minister responsible for Official Languages, has announced the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788648-1&amp;h=948108705&amp;u=https%3A%2F%2Fwww.canada.ca%2Fen%2Fcanadian-heritage%2Fnews%2F2026%2F04%2Fminister-miller-announces-advisory-panel-on-support-for-the-audiovisual-sector-in-canada.html&amp;a=composition\" target=\"_blank\" rel=\"nofollow\">composition</a> of an advisory panel on support for Canada's audiovisual sector. The panel is tasked with providing recommendations this fall regarding the potential merger of the National Film Board of Canada, Telefilm Canada and the Canada Media Fund.</p>",
+      "ticker": [],
+      "title": "Concerns about Protecting the National Film Board's Mandate",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261002C9869",
+      "body": "<p><span class=\"legendSpanClass\">MONTREAL</span>, <span class=\"legendSpanClass\">Oct. 2, 2026</span> /CNW/ -- The Syndicat général du cinéma et de la télévision (General Union of Film and Television Workers – SGCT–CUPE 4835) is concerned that discussions about the future of our audiovisual cultural institutions are being held behind closed doors. The Honourable Marc Miller, Minister of Canadian Identity and Culture and Minister responsible for Official Languages, has announced the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788648-1&amp;h=948108705&amp;u=https%3A%2F%2Fwww.canada.ca%2Fen%2Fcanadian-heritage%2Fnews%2F2026%2F04%2Fminister-miller-announces-advisory-panel-on-support-for-the-audiovisual-sector-in-canada.html&amp;a=composition\" target=\"_blank\" rel=\"nofollow\">composition</a> of an advisory panel on support for Canada's audiovisual sector. The panel is tasked with providing recommendations this fall regarding the potential merger of the National Film Board of Canada, Telefilm Canada and the Canada Media Fund.</p><p>\"The NFB's mandate is sacrosanct. Period. Not only does the Board produce, distribute and preserve its works, but it also serves as a laboratory for creativity and innovation within the audiovisual ecosystem. The force that binds these three pillars of Canadian audiovisual culture together is, in large part, the invaluable contribution of unionized staff working alongside industry stakeholders, <b>--</b>foremost among them, the creators themselves. Amidst existential threats to Canadian sovereignty, the union will not hesitate to mobilize all its allies to protect the integrity of the NFB's mandate, ensuring that Canadian culture continues to flourish and the NFB pursues its unique mission,\" added Olivier Lamothe, president of SGCT–CUPE 4835.</p><p>CUPE deplores the fact that that advisory panel members were required to sign a non-disclosure agreement, shutting out directly affected stakeholders. It should be noted that for several years, SGCT-CUPE 4835 has been actively campaigning for increased and sustainable funding for the NFB, whose budget has not been indexed to inflation since 2002, with an estimated minimum loss of $16.6 million. Without a sufficient and recurring increase in its budget, the NFB risks compromising its in-house expertise, which is inseparable from its ability to support creation, foster innovation and engage with the audiovisual industry.</p><p>CUPE is the largest union in Canada, with over 800,000 members working in health care, education, universities, municipalities, libraries, social services, public services, ground and air transportation, emergency services and communications.</p><p>SOURCE Canadian Union of Public Employees (FTQ)</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C9869&amp;Transmission_Id=202610021221CANADANWCANADAPR_C9869&amp;DateId=20261002\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Canadian Union of Public Employees (FTQ)",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 3,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "television": [
+            "summary:television",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-02T18:35:29.238Z"
+    },
+    {
+      "company": [
+        "Royal Caribbean International",
+        "Paramount Products & Experiences"
+      ],
+      "date": "20261002T140700+0000",
+      "dateline": "MIAMI, Oct. 2, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "MAR",
+        "TRA",
+        "LEI",
+        "HRT",
+        "TRN",
+        "ATL"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Royal Caribbean has revealed “The SpongeBob Musical” as the headlining theater production on its fourth Icon Class ship, Hero of the Seas. Adventurers of all ages sailing on the newest family vacation can experience the vibrant world of Bikini Bottom when the Tony award-winning musical debuts on Hero from Miami in August 2027. ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2001483/Royal-Caribbean-The-SpongeBob-Musical.jpg?id=OA2984587&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2001483/Royal-Caribbean-The-SpongeBob-Musical.jpg?id=OA2984587&p=publish"
+        },
+        {
+          "caption": "RCI  Brand Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2001492/RCI-Brand-Logo.jpg?id=OA2984610&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2001492/RCI-Brand-Logo.jpg?id=OA2984610&p=publish"
+        }
+      ],
+      "release_id": "20261002FL62626",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "PDT",
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>Inspired by the hit Broadway musical and Nickelodeon animated series, the all-new production will bring the world of Bikini Bottom to life on the new Icon Class family vacation debuting August 2027</i></p><p><span class=\"legendSpanClass\">MIAMI</span>, <span class=\"legendSpanClass\">Oct. 2, 2026</span> /PRNewswire/ -- Royal Caribbean is introducing \"<b>The SpongeBob Musical,*\"</b> the first-ever at-sea production inspired by the Tony award-winning Broadway show on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=3708330577&amp;u=https%3A%2F%2Fwww.royalcaribbean.com%2Fcruise-ships%2Fhero-of-the-seas%3Fecid%3Dpr_int_pblc_r_wb_3338&amp;a=Hero+of+the+Seas\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\"><b><i>Hero of the Seas</i></b></a> when the fourth Icon Class vacation sets sail from <b>Miami</b> in <b>August 2027</b>. As part of the bold entertainment lineup on the newest family vacation, the adventure-packed show will <b>bring</b> <b>the vibrant world of Bikini Bottom to life in the Royal Theater</b>. \"The SpongeBob Musical\" joins Royal Caribbean's award-winning entertainment portfolio, which continues to push the boundaries for experiences across stage, air, water and ice for vacationers of all ages.</p>",
+      "ticker": [
+        "NYSE:RCL",
+        "NASDAQ:PSKY"
+      ],
+      "title": "\"THE SPONGEBOB MUSICAL\" HEADS TO SEA FOR THE FIRST TIME ON ROYAL CARIBBEAN'S HERO OF THE SEAS",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261002FL62626",
+      "body": "<p class=\"prntac\"><i>Inspired by the hit Broadway musical and Nickelodeon animated series, the all-new production will bring the world of Bikini Bottom to life on the new Icon Class family vacation debuting August 2027</i></p><p><span class=\"legendSpanClass\">MIAMI</span>, <span class=\"legendSpanClass\">Oct. 2, 2026</span> /PRNewswire/ -- Royal Caribbean is introducing \"<b>The SpongeBob Musical,*\"</b> the first-ever at-sea production inspired by the Tony award-winning Broadway show on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=3708330577&amp;u=https%3A%2F%2Fwww.royalcaribbean.com%2Fcruise-ships%2Fhero-of-the-seas%3Fecid%3Dpr_int_pblc_r_wb_3338&amp;a=Hero+of+the+Seas\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\"><b><i>Hero of the Seas</i></b></a> when the fourth Icon Class vacation sets sail from <b>Miami</b> in <b>August 2027</b>. As part of the bold entertainment lineup on the newest family vacation, the adventure-packed show will <b>bring</b> <b>the vibrant world of Bikini Bottom to life in the Royal Theater</b>. \"The SpongeBob Musical\" joins Royal Caribbean's award-winning entertainment portfolio, which continues to push the boundaries for experiences across stage, air, water and ice for vacationers of all ages.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2001483/Royal-Caribbean-The-SpongeBob-Musical.jpg?id=OA2984587\" title=\"Royal Caribbean has revealed “The SpongeBob Musical” as the headlining theater production on its fourth Icon Class ship, Hero of the Seas. Adventurers of all ages sailing on the newest family vacation can experience the vibrant world of Bikini Bottom when the Tony award-winning musical debuts on Hero from Miami in August 2027. \" alt=\"Royal Caribbean has revealed “The SpongeBob Musical” as the headlining theater production on its fourth Icon Class ship, Hero of the Seas. Adventurers of all ages sailing on the newest family vacation can experience the vibrant world of Bikini Bottom when the Tony award-winning musical debuts on Hero from Miami in August 2027. \"></img></p></div><p>\"At Royal Caribbean, we're focused on creating incredible experiences that bring families of all ages together in meaningful, memorable ways,\" said Christi Coachman, vice president, entertainment, Royal Caribbean. \"Our entertainment lineup on <i>Hero of the </i>Seas is designed with something for everyone. 'The SpongeBob Musical' delivers on that by bringing generations together through a story families know and love, while showcasing the creativity, cutting-edge technology and world-class production that can only be experienced on a Royal Caribbean vacation.\"</p><p>From under the sea to at sea, \"The SpongeBob Musical\" on <i>Hero </i>will transform the beloved Nickelodeon animated series and 12-time Tony Award-nominated Broadway show into a reimagined production for the whole family that can be experienced only on Royal Caribbean. Filled with unexpected twists, larger-than-life characters, hit songs and above all – friendship, the adventure will show audiences that heroes can come from even the most unlikely places as SpongeBob and his Bikini Bottom friends race against time to save their town from total destruction.</p><p>Beyond groundbreaking entertainment for all ages, vacationers can go all in on adventure across <b>eight neighborhoods </b>with experiences including:</p><ul type=\"disc\"><li><b>Crown's Edge</b>, part skywalk, part zip line experience suspended 154 feet above the ocean</li><li><b>Category 6</b>, the largest waterpark at sea</li><li><b>N</b><b>ine pools</b>, including the new <b>Coconut Cove pool</b> and the adults-only <b>The Hideaway,</b> featuring two pools and the largest swim-up bar at sea</li><li><b>28 dining venues</b>, including the multi-course <b>Orleans Parrish Supper Club; </b>an immersive train car dining experience at <b>Royal Railway – Hero Station</b>;<b> hands-on cooking classes</b> in a new venue to be revealed and more</li><li><b>Brand-</b><b>new family accommodations</b>, including the three-deck <b>Ultimate Family Treehouse </b>featuring a rooftop terrace, whirlpool and two-deck teen space</li></ul><p><i>Hero</i> will take vacationers on <b>7-night</b> <b>Eastern and Western</b> <b>Caribbean</b> <b>adventures</b> from Miami, with every adventure visiting Royal Caribbean's top-rated <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=147401265&amp;u=https%3A%2F%2Fwww.royalcaribbean.com%2Fcococay-cruises%3Fecid%3Dpr_int_pblc_r_wb_3338&amp;a=Perfect+Day+CocoCay\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\"><b>Perfect Day CocoCay</b></a> <b>in The Bahamas.</b> Adventurers can choose to explore Western Caribbean spots like <b>Cozumel,</b> <b>Mexico</b>, and <b>Roatan, Honduras</b>, or head to tropical Eastern Caribbean destinations such as <b>Charlotte Amalie, St. Thomas</b>, and <b>Philipsburg, St. Maarten</b>.</p><p>For more information on <i>Hero</i>, vacationers can visit Royal Caribbean's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=3768537996&amp;u=https%3A%2F%2Fwww.royalcaribbean.com%2Fcruise-ships%2Fhero-of-the-seas%3Fecid%3Dpr_int_pblc_r_wb_3338&amp;a=website\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">website</a>.</p><p><b>About Royal Caribbean<br></br></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=3433182108&amp;u=https%3A%2F%2Fwww.royalcaribbean.com%2F%3Fecid%3Dpr_int_pblc_r_wb_3338&amp;a=Royal+Caribbean\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">Royal Caribbean</a>, part of Royal Caribbean Group (NYSE: RCL), has delivered memorable vacations for more than 50 years. The cruise line's game-changing ships and signature destinations revolutionize vacations with industry-leading innovations and an all-encompassing combination of experiences, from thrills and ways to chill, to dining and entertainment, for every type of family and vacationer. Voted \"Best Cruise Line Overall\" for 23 consecutive years in the Travel Weekly Readers Choice Awards, Royal Caribbean makes memories with adventurers across more than 300 destinations in 80 countries on all seven continents, including Perfect Day CocoCay in The Bahamas and Royal Beach Clubs in Paradise Island and Santorini, plus Royal Beach Club Lelepa coming soon. </p><p>Media can stay up to date by following <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=2420940967&amp;u=https%3A%2F%2Fx.com%2Froyalcaribpr&amp;a=%40RoyalCaribPR\" target=\"_blank\" rel=\"nofollow\">@RoyalCaribPR</a> on X and visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=1004480993&amp;u=https%3A%2F%2Froyalcaribbeanpresscenter.com%2F&amp;a=www.RoyalCaribbeanPressCenter.com\" target=\"_blank\" rel=\"nofollow\">www.RoyalCaribbeanPressCenter.com</a>. For additional information or to book, vacationers can visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=1369628405&amp;u=https%3A%2F%2Fwww.royalcaribbean.com%2F&amp;a=www.RoyalCaribbean.com\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">www.RoyalCaribbean.com</a>, call (800) ROYAL-CARIBBEAN or contact their travel advisor.</p><p><b>About The SpongeBob Musical<br></br></b><i>The SpongeBob Musical </i>is based on the beloved animated series created by Stephen Hillenburg and tells the story of the optimistic SpongeBob and his irresistible friends coming together to save their undersea world from volcanic destruction. The musical features a book by Tony Award-nominated, Obie Award-winning writer and musician Kyle Jarrow, with original songs by Yolanda Adams, Steven Tyler and Joe Perry of Aerosmith, Sara Bareilles, Jonathan Coulton, Alexander Ebert of Edward Sharpe &amp; The Magnetic Zeros, The Flaming Lips, Lady A, Cyndi Lauper, John Legend, Panic! At the Disco, Plain White T's, They Might Be Giants and T.I., and songs by David Bowie, Tom Kenny and Andy Paley. Additional lyrics are by Jonathan Coulton, with additional music by Tom Kitt. The musical production was conceived by renowned writer, director and Drama Desk Award-winning Tina Landau.</p><p><b>About Paramount Products &amp; Experiences <br></br></b>Paramount Products &amp; Experiences oversees all licensing, merchandising, and location-based experiences for Paramount, a Skydance Corporation (Nasdaq: PSKY), a leading next generation global media and entertainment company. The division brings to life iconic franchises and beloved characters through innovative products and immersive experiences across categories including toys, apparel, publishing, food and beverage, theme parks, hotels, cruises, attractions, and live entertainment. Its global portfolio is powered by content from brands such as Nickelodeon, Paramount Pictures, CBS, MTV, Comedy Central, and Paramount+, and fan-favorite franchises like <i>PAW Patro</i>l, <i>SpongeBob SquarePant</i>s, <i>Teenage Mutant Ninja Turtles</i>, <i>Star Trek </i>and <i>Yellowstone</i>. To explore our range of consumer products and Paramount-branded merchandise, visit ParamountShop.com.</p><p>* Nickelodeon's THE SPONGEBOB MUSICAL based on the series by Stephen Hillenburg with a book by Kyle Jarrow, is presented in arrangement with Concord Theatricals. ©2026 Viacom International Inc. All Rights Reserved. Nickelodeon, SpongeBob SquarePants and all related titles, logos, and characters are trademarks of Viacom International Inc. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788528-1&amp;h=1139596450&amp;u=http%3A%2F%2Fwww.concordtheatricals.com%2F&amp;a=www.concordtheatricals.com\" target=\"_blank\" rel=\"nofollow\">www.concordtheatricals.com</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2001492/RCI-Brand-Logo.jpg?id=OA2984610\" title=\"RCI  Brand Logo\" alt=\"RCI  Brand Logo\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL62626&amp;sd=2026-10-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-spongebob-musical-heads-to-sea-for-the-first-time-on-royal-caribbeans-hero-of-the-seas-302897226.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-spongebob-musical-heads-to-sea-for-the-first-time-on-royal-caribbeans-hero-of-the-seas-302897226.html</a></p><p>SOURCE Royal Caribbean International</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL62626&amp;Transmission_Id=202610021007PR_NEWS_USPR_____FL62626&amp;DateId=20261002\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Royal Caribbean International",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:entertainment",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "management": [
+            "summary:joins"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-02T18:35:29.457Z"
+    },
     {
       "company": [
         "Mally Mall"
@@ -86,7 +262,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-10-02T08:52:10.477Z"
+      "imported_at": "2026-10-02T18:35:30.177Z"
     },
     {
       "company": [
@@ -195,7 +371,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-10-01T23:05:17.535Z"
+      "imported_at": "2026-10-02T18:35:30.365Z"
     },
     {
       "company": [
