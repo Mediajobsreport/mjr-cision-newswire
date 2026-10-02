@@ -35,6 +35,7 @@ const summaries = await client.getAllReleases({
 let fetched = 0;
 let deleted = 0;
 let rejected = 0;
+let failed = 0;
 for (const summary of summaries) {
   if (!summary.release_id) continue;
   if (summary.status === "DELETED" || summary.url === null) {
@@ -48,7 +49,14 @@ for (const summary of summaries) {
     continue;
   }
 
-  const full = await client.getRelease(summary.release_id);
+  let full;
+  try {
+    full = await client.getRelease(summary.release_id);
+  } catch (error) {
+    failed += 1;
+    console.error(`Skipping Cision release ${summary.release_id} after retries: ${error.message}`);
+    continue;
+  }
   fetched += 1;
   const classification = classifyRelease({ ...summary, ...full }, codeMaps);
   if (!classification.categories.length && !classification.review) {
@@ -99,6 +107,7 @@ await writeJsonAtomic(STATE_FILE, {
   full_releases_fetched: fetched,
   releases_deleted: deleted,
   releases_rejected: rejected,
+  releases_failed: failed,
   releases_retained: releases.length
 });
 
@@ -109,6 +118,7 @@ console.log(JSON.stringify({
   fetched,
   deleted,
   rejected,
+  failed,
   retained: releases.length
 }));
 
