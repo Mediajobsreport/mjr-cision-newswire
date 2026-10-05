@@ -1,11 +1,326 @@
 {
-  "generated_at": "2026-10-05T09:07:46.448Z",
+  "generated_at": "2026-10-05T18:30:05.439Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 107,
+  "count": 111,
   "releases": [
+    {
+      "company": [
+        "WZC Networking"
+      ],
+      "date": "20261005T161500+0000",
+      "dateline": "NOVI, Mich., Oct. 5, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "MCH",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "CST",
+        "RAD",
+        "WIC",
+        "TLS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "WZC Networking Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2000064/WZC-Networking-Logo.jpg?id=OA2980644&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2000064/WZC-Networking-Logo.jpg?id=OA2980644&p=publish"
+        }
+      ],
+      "release_id": "20261005DE60909",
+      "status": "PUBLISHED",
+      "subject": [
+        "PSF"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NOVI, Mich.</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4786904-1&amp;h=1290275193&amp;u=https%3A%2F%2Fwww.wzcnetworking.com%2F&amp;a=WZC+Networking\" target=\"_blank\" rel=\"nofollow\">WZC Networking</a> marks its 20th anniversary this year, reflecting two decades of designing, installing, and testing the in-building radio systems that keep firefighters and EMS crews connected when they move inside a structure. When a radio goes silent inside a building, a crew loses contact with command at the moment communication matters most. That's the gap WZC was built to close.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2000064/WZC-Networking-Logo.jpg?id=OA2980644\" title=\"WZC Networking Logo\" alt=\"WZC Networking Logo\"></img></p></div><p>In 2006, RF engineer John Wierzgac founded WZC around an uncomplicated truth: concrete and steel might block a fire, but they shouldn't choke out a distress call. Twenty years later, WZC has become Michigan's benchmark for Emergency Responder Communication Enhancement Systems (ERCES) and Public Safety DAS. We don't sit back and wait for signal drops to expose a blind spot. Instead, we pull up a chair with developers, fire chiefs, and inspectors long before the first antenna hits the roof, wiring absolute reliability directly into the blueprint.</p>",
+      "ticker": [],
+      "title": "WZC Networking Marks 20 Years of Engineering Emergency Responder Radio Coverage",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261005DE60909",
+      "body": "<p><span class=\"legendSpanClass\">NOVI, Mich.</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4786904-1&amp;h=1290275193&amp;u=https%3A%2F%2Fwww.wzcnetworking.com%2F&amp;a=WZC+Networking\" target=\"_blank\" rel=\"nofollow\">WZC Networking</a> marks its 20th anniversary this year, reflecting two decades of designing, installing, and testing the in-building radio systems that keep firefighters and EMS crews connected when they move inside a structure. When a radio goes silent inside a building, a crew loses contact with command at the moment communication matters most. That's the gap WZC was built to close.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2000064/WZC-Networking-Logo.jpg?id=OA2980644\" title=\"WZC Networking Logo\" alt=\"WZC Networking Logo\"></img></p></div><p>In 2006, RF engineer John Wierzgac founded WZC around an uncomplicated truth: concrete and steel might block a fire, but they shouldn't choke out a distress call. Twenty years later, WZC has become Michigan's benchmark for Emergency Responder Communication Enhancement Systems (ERCES) and Public Safety DAS. We don't sit back and wait for signal drops to expose a blind spot. Instead, we pull up a chair with developers, fire chiefs, and inspectors long before the first antenna hits the roof, wiring absolute reliability directly into the blueprint.</p><p>Buildings have radically evolved since 2006. Thick concrete and low-E glass save energy, but they block radio signals, creating dead zones in stairwells, basements, and interior corridors where portable radios lose contact with the outside. Where a building cannot meet the coverage thresholds required under NFPA 1225 and IFC Section 510, as adopted locally, an ERCES is required. WZC treats that coverage as a life-safety system rather than a permit item, and looks for blind spots in design rather than at the certificate-of-occupancy inspection.</p><p><b>A Building Days from Opening, and a Signal That Wasn't There</b></p><p>Days before the Corewell Health Endoscopy Center was set to open, acceptance testing identified insufficient in-building radio coverage, putting the fire marshal's sign-off and the facility's certificate of occupancy at risk with a fixed opening date approaching.</p><p>The Christman Group brought in WZC Networking. The team designed a compliant solution, expedited equipment procurement, and produced documented test results that satisfied the fire marshal and supported the issuance of a temporary certificate of occupancy, allowing the facility to open on schedule while the permanent system was completed.</p><p>It's the kind of save that never makes headlines because it isn't supposed to happen at all. A healthcare facility opened on time. A general contractor learned who to call before groundbreaking on the next project, not after a failed test threatens the finish line. That's why Christman looks to WZC first now: not because of a sales pitch, but because the work held up when the schedule had no room left.</p><p><b>Fifty-One Percent, Not Even Close to Enough</b></p><p>At Clawson Manor Co-op, a 15-story senior living complex, energy-efficient glazing and heavy exterior cladding were severely attenuating public safety radio frequencies. A WZC Networking survey found that only 51 percent of the property met required signal thresholds. In the egress corridors, where reliable communication is critical during an emergency, that figure dropped to just 34 percent. For hundreds of elderly residents who cannot evacuate rapidly during a crisis, those gaps could have left arriving crews without reliable communications.</p><p>WZC engineered and installed a signal booster and distributed antenna system sized for the building's envelope. On re-test, the property passed in 100 percent of tested grid areas, exceeding the thresholds required under NFPA 1225 and IFC Section 510 as adopted locally. Clawson Fire Department Battalion Chief and Fire Marshal John Ruthenbeck noted, \"The City of Clawson was more than satisfied with the design and installation of the system by WZC Networking and the professional service provided to both the residents of the Clawson Manor and the Clawson Fire/Police and EMS Agencies.\"</p><p><b>Nobody on the Other End of That Radio Is Replaceable</b></p><p>Behind each of these projects are people who aren't statistics. At Clawson Manor, there are several hundred residents who cannot evacuate quickly on their own. At Corewell Health, there are patients under sedation and the staff responsible for getting them out.</p><p>When fire marshals deny an occupancy permit, the code is not the end goal. Protecting the people inside the building is. WZC operates on one inviolable principle: no contractor's deadline and no construction budget is worth a human life. A wall should only ever shelter people, never cut them off from the communication that could save them.</p><p><b>Passing Once Is Not Compliance</b></p><p>WZC makes one point clear to owners and facility managers: an ERCES is not finished at commissioning. NFPA 1225 requires ongoing inspection and testing of these systems, covering donor signal, amplifier gain, alarm reporting, and battery backup performance, along with periodic verification of in-building coverage. Buildings and the RF environment around them change over time, and a system that passed when it was commissioned may not perform the same way years later. Responsibility for maintaining that compliance sits with the building owner.</p><p>In practice, a system that passed at turnover and has not been touched in four years is a system nobody can vouch for. WZC provides ongoing ERCES inspection, testing, and documentation programs so owners maintain current, AHJ-ready records rather than discovering a lapse during an inspection or, worse, during an incident.</p><p><b>Twenty Years, One Principle</b></p><p>Earlier this year, WZC hosted fire chiefs and fire marshals for an open workshop on ERCES field conditions, focused on education rather than a product pitch. \"Twenty years in, it still comes down to the same thing,\" says founder John Wierzgac. \"A radio has to work on every floor and in every stairwell, not just in the lobby. If it doesn't, the system isn't finished, whether or not anyone is inspecting it that day.\"</p><p>That principle drives every project WZC takes on, from healthcare clinics to senior living centers. First responders don't view emergency communication as code compliance; they see equipment they have to be able to depend on. That focus has not changed as WZC has expanded. \"Most of the buildings we walk into were never designed with radio coverage in mind,\" says <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4786904-1&amp;h=3663651653&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnate-wierzgac-51938370%2F&amp;a=Nate+Wierzgac\" target=\"_blank\" rel=\"nofollow\">Nate Wierzgac</a>, Chief Operating Officer. \"Nobody asks the question early, so it surfaces at the end, when it is expensive to fix. We would rather be in that conversation during design, and we would rather owners know the testing obligation doesn't stop at turnover.\"</p><p>From a Novi startup to a multi-state partner, WZC Networking has built its practice one building, one grid test, and one clear channel at a time, so that when the call comes, it carries.</p><p>WZC Networking is an RF engineering and technology integration firm founded in 2006 in Novi, Michigan. WZC designs, installs, tests, and maintains Emergency Responder Communication Enhancement Systems (ERCES), public safety and cellular DAS, structured cabling, Wi-Fi, security and CCTV, and audiovisual systems. The company also delivers ongoing managed and compliance services for multi-site clients across the United States.</p><p><i>Learn more at </i><b><i><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4786904-1&amp;h=1514238616&amp;u=https%3A%2F%2Fwww.wzcnetworking.com%2F&amp;a=https%3A%2F%2Fwww.wzcnetworking.com\" target=\"_blank\" rel=\"nofollow\">https://www.wzcnetworking.com</a></i></b></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE60909&amp;sd=2026-10-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/wzc-networking-marks-20-years-of-engineering-emergency-responder-radio-coverage-302898620.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/wzc-networking-marks-20-years-of-engineering-emergency-responder-radio-coverage-302898620.html</a></p><p>SOURCE WZC Networking</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE60909&amp;Transmission_Id=202610051215PR_NEWS_USPR_____DE60909&amp;DateId=20261005\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "WZC Networking",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 4,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 1
+        },
+        "reasons": {
+          "radio": [
+            "radio",
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ],
+          "tradeshow": [
+            "summary:expo"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-05T18:30:08.705Z"
+    },
+    {
+      "company": [
+        "F-FACTOR. LLC"
+      ],
+      "date": "20261005T154200+0000",
+      "dateline": "NEW YORK, Oct. 5, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIT",
+        "SMD",
+        "BKS",
+        "HEA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Tanya Zuckerbrot",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2001471/Tanya-Zuckerbrot-Founder-F-FACTOR.jpg?id=OA2984553&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2001471/Tanya-Zuckerbrot-Founder-F-FACTOR.jpg?id=OA2984553&p=publish"
+        }
+      ],
+      "release_id": "20261005NY62685",
+      "status": "PUBLISHED",
+      "subject": [
+        "ATY",
+        "WOM"
+      ],
+      "summary": "<p class=\"prntac\"><i>Settlement Includes $240,000 Payment and Public Video Apology to Remain Pinned on Gellis' Social Media Profile for Three and a Half Years</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788583-1&amp;h=1752995239&amp;u=https%3A%2F%2Fwww.instagram.com%2Ftanyazuckerbrot%2F%3Fhl%3Den&amp;a=Tanya%C2%A0Zuckerbrot\" target=\"_blank\" rel=\"nofollow\">Tanya Zuckerbrot</a>, MS, RD, founder of F-Factor, has resolved her defamation and cyberstalking lawsuit against fashion influencer Emily Gellis after six years of litigation. As part of the settlement, Gellis is publishing a public video apology on her Instagram account, acknowledging that the allegations she promoted were not supported by verified evidence.</p>",
+      "ticker": [],
+      "title": "Tanya Zuckerbrot, Founder of F-Factor, Resolves Lawsuit Against Emily Gellis After Six Years of Litigation",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261005NY62685",
+      "body": "<p class=\"prntac\"><i>Settlement Includes $240,000 Payment and Public Video Apology to Remain Pinned on Gellis' Social Media Profile for Three and a Half Years</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788583-1&amp;h=1752995239&amp;u=https%3A%2F%2Fwww.instagram.com%2Ftanyazuckerbrot%2F%3Fhl%3Den&amp;a=Tanya%C2%A0Zuckerbrot\" target=\"_blank\" rel=\"nofollow\">Tanya Zuckerbrot</a>, MS, RD, founder of F-Factor, has resolved her defamation and cyberstalking lawsuit against fashion influencer Emily Gellis after six years of litigation. As part of the settlement, Gellis is publishing a public video apology on her Instagram account, acknowledging that the allegations she promoted were not supported by verified evidence.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2001471/Tanya-Zuckerbrot-Founder-F-FACTOR.jpg?id=OA2984553\" title=\"Tanya Zuckerbrot\" alt=\"Tanya Zuckerbrot\"></img></p></div><p>\"I spent 25 years building my career and F-Factor, only to watch a smear campaign built on lies destroy my company within months,\" said Zuckerbrot. \"While I was fighting to save everything I had worked for, I was also enduring relentless cyberstalking and harassment that reached into my home and my family's life. An apology cannot undo that damage or give us back those years, but this settlement represents accountability. Now, I'm focused on rebuilding F-Factor, returning to the work I love and reclaiming the future I worked so hard to create.\"</p><p>Under the settlement, Gellis agreed to pay Zuckerbrot $240,000 in monthly installments of $500 over 40 years. The payment represents reimbursement for the costs of trauma treatment Zuckerbrot underwent as a result of the campaign. The settlement also requires Gellis to publish a video apology on her social media and keep it pinned to the top of her profile for three and a half years, ensuring it remains prominently visible to visitors.</p><p class=\"prntaj\"><span>The lawsuit arose from Gellis's social media campaign against Zuckerbrot and F-Factor. </span><span>The lawsuit alleged </span><span>Gellis used her platforms to amplify anonymous allegations to a large online audience, including claims of arsenic contamination, serious health harms and personal misconduct. In her public apology, Gellis acknowledged that the allegations she shared were based on anonymous submissions rather than verified medical, scientific or expert analysis.</span></p><p>According to court records, Gellis posted more than 4,500 Instagram stories about F-Factor in just 75 days. The total number of videos and posts about her over the following years exceeded 50,000. As the posts escalated, Gellis shifted from product allegations to deeply personal attacks involving false accusations of drug use, tax evasion and <span>criminal</span> activity.</p><p>As the case stated, F-Factor products were co-manufactured in a pharmaceutical–grade facility and tested for microbiological safety, heavy metals and label accuracy. Certificates of analysis and a toxicology report supported their safety. Despite receiving this documentation, Gellis continued to promote allegations of contamination and claimed \"tens of thousands\" of victims, figures she now publicly acknowledges were inaccurate and false. Her campaign didn't stop with social media, she also contacted retailers, brand partners, celebrity clients and ambassadors to coerce them to cut ties with Zuckerbrot and F-Factor.</p><p>Zuckerbrot is preparing to relaunch F-Factor in 2027, returning to the nutrition education and fiber-focused approach she has championed for more than two decades.</p><p><u>Media Contact<br></br></u>Sabrina Levine<br></br><a href=\"mailto:sabrina@sabrinalevinepr.com\" target=\"_blank\" rel=\"nofollow\">sabrina@sabrinalevinepr.com</a><br></br>(917) 769-4434</p><p><u>About Tanya Zuckerbrot<br></br></u>Tanya Zuckerbrot, MS, RD, is a registered dietitian, bestselling author and founder of F-Factor. Over more than 25 years, she built a nutrition practice, authored The F-Factor Diet and The Miracle Carb Diet, and developed F-Factor's 20/20 fiber and protein powders and bars. A graduate of the University of Michigan with a master's degree in nutrition from New York University, Zuckerbrot has dedicated her career to helping men and women improve their health through evidence-based nutrition.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY62685&amp;sd=2026-10-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/tanya-zuckerbrot-founder-of-f-factor-resolves-lawsuit-against-emily-gellis-after-six-years-of-litigation-302898578.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/tanya-zuckerbrot-founder-of-f-factor-resolves-lawsuit-against-emily-gellis-after-six-years-of-litigation-302898578.html</a></p><p>SOURCE F-FACTOR. LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY62685&amp;Transmission_Id=202610051142PR_NEWS_USPR_____NY62685&amp;DateId=20261005\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "F-FACTOR. LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prntaj{\nTEXT-ALIGN: JUSTIFY\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 3,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "summary:social media",
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "actor"
+          ],
+          "management": [
+            "summary:promoted"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-05T18:30:08.877Z"
+    },
+    {
+      "company": [
+        "ThreatHunter.ai"
+      ],
+      "date": "20261005T124700+0000",
+      "dateline": "BREA, Calif., Oct. 5, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HTS",
+        "ARO",
+        "CPR",
+        "AFI"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Threathunter.ai",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2002265/ThreatHunter-ai-logo.jpg?id=OA2987064&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2002265/ThreatHunter-ai-logo.jpg?id=OA2987064&p=publish"
+        }
+      ],
+      "release_id": "20261005PH63591",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT",
+        "VET",
+        "DEI"
+      ],
+      "summary": "<p><b>Argillite, MILBERT, and TACT-IO cover 27+ NIST SP 800-171 practices and keep the live SPRS score current</b></p><p><span class=\"legendSpanClass\">BREA, Calif.</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- ThreatHunter.ai, a Service Disabled Veteran Owned Small Business with 19+ years protecting networks, today highlighted how JAXBERT SECURE helps defense contractors stand behind SPRS scores they now attest to on their own. It pairs the JAXBERT CMMC Level 2 platform with three managed security tools that feed it evidence continuously.</p><p>With Phase II certification dropped in July and DARS class deviation 2026-O0025 Revision 3 making Level 2 (Self) the default, CMMC is now full self attestation across all 110 NIST SP 800-171 practices. An SPRS score is a False Claims Act representation nobody checks before the contractor signs.</p>",
+      "ticker": [],
+      "title": "ThreatHunter.ai's JAXBERT SECURE Feeds Continuous Evidence Into Defense Contractors' SPRS Scores Under Full CMMC Self Attestation",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261005PH63591",
+      "body": "<p><b>Argillite, MILBERT, and TACT-IO cover 27+ NIST SP 800-171 practices and keep the live SPRS score current</b></p><p><span class=\"legendSpanClass\">BREA, Calif.</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- ThreatHunter.ai, a Service Disabled Veteran Owned Small Business with 19+ years protecting networks, today highlighted how JAXBERT SECURE helps defense contractors stand behind SPRS scores they now attest to on their own. It pairs the JAXBERT CMMC Level 2 platform with three managed security tools that feed it evidence continuously.</p><p>With Phase II certification dropped in July and DARS class deviation 2026-O0025 Revision 3 making Level 2 (Self) the default, CMMC is now full self attestation across all 110 NIST SP 800-171 practices. An SPRS score is a False Claims Act representation nobody checks before the contractor signs.</p><p>DoW CIO Kirsten Davies said at the Billington Cybersecurity Summit on September 9 that cybersecurity \"needs to be contiguous and continuous, and it needs to be at the pace of the threat.\"</p><p>JAXBERT SECURE does not just document security. It runs part of it:</p><ul type=\"disc\"><li><b>MILBERT</b>, identity threat detection: compromised credentials, privilege escalation, unauthorized access. 9 practices.</li><li><b>TACT-IO</b>, vulnerability management: continuous scanning, prioritized remediation, patch tracking. 8 practices.</li><li><b>Argillite</b>, managed detection and response: 24/7 monitoring by ThreatHunter.ai hunt teams with containment and evidence generation built in. 10 practices.</li></ul><p>Because the modules feed evidence as they work, the live SPRS score reflects current security status, and manual assessment work drops roughly in half.</p><p>The platform walks contractors through all 110 practices in plain English, calculates a real time SPRS score, and generates an 80+ page System Security Plan, a POA&amp;M with AI remediation plans, a SHA-256 evidence vault, and a mock assessment mode.</p><p>\"Your SPRS score is a statement you sign, and right now nobody checks it before you do. We built JAXBERT SECURE so the evidence behind that score comes from security work happening every day, not a spreadsheet someone finished last spring,\" said James McMurry, CEO of ThreatHunter.ai.</p><p>One product, everything included, for teams of 1 to 100, at $30,000 a year fixed.</p><p>Schedule a free 20 minute demo at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789424-1&amp;h=2535773540&amp;u=https%3A%2F%2Fwww.threathunter.ai%2Fjaxbert%2Fdemo%2F&amp;a=https%3A%2F%2Fwww.threathunter.ai%2Fjaxbert%2Fdemo%2F\" target=\"_blank\" rel=\"nofollow\">https://www.threathunter.ai/jaxbert/demo/</a>.</p><p><b>About ThreatHunter.ai</b></p><p>ThreatHunter.ai is a Service Disabled Veteran Owned Small Business providing threat hunting, managed detection and response, and compliance solutions to defense contractors, government agencies, and commercial organizations.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789424-1&amp;h=3356680169&amp;u=https%3A%2F%2Fwww.threathunter.ai&amp;a=https%3A%2F%2Fwww.threathunter.ai\" target=\"_blank\" rel=\"nofollow\">https://www.threathunter.ai</a>. </p><p><b>Media contact</b> ThreatHunter.ai, 1.888.674.9001, <a href=\"mailto:424115@email4pr.com\" target=\"_blank\" rel=\"nofollow\">424115@email4pr.com</a> </p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH63591&amp;sd=2026-10-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/threathunterais-jaxbert-secure-feeds-continuous-evidence-into-defense-contractors-sprs-scores-under-full-cmmc-self-attestation-302898402.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/threathunterais-jaxbert-secure-feeds-continuous-evidence-into-defense-contractors-sprs-scores-under-full-cmmc-self-attestation-302898402.html</a></p><p>SOURCE ThreatHunter.ai</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH63591&amp;Transmission_Id=202610050847PR_NEWS_USPR_____PH63591&amp;DateId=20261005\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "ThreatHunter.ai",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-05T18:30:09.533Z"
+    },
+    {
+      "company": [
+        "oasisVRX"
+      ],
+      "date": "20261005T124300+0000",
+      "dateline": "PRINCETON, N.J., Oct. 5, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NJY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "GAM",
+        "CMP",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "oasisVRX",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2001465/oasisVRX.jpg?id=OA2984531&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2001465/oasisVRX.jpg?id=OA2984531&p=publish"
+        }
+      ],
+      "release_id": "20261005PH62603",
+      "status": "PUBLISHED",
+      "subject": [
+        "CXP",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>New Princeton-area location marks the company's second New Jersey destination, bringing over 30 immersive VR and motion experiences to families, friends, corporate groups, and gamers</i></b></p><p><span class=\"legendSpanClass\">PRINCETON, N.J.</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- oasisVRX is expanding with the opening of its second location at Princeton North Shopping Center, 1225 Route 206 in Princeton, New Jersey.</p><p>Building on over eight years of experience operating its original location in Holmdel, oasisVRX brings a larger, next-generation entertainment experience to the Princeton and greater Central New Jersey market.</p>",
+      "ticker": [],
+      "title": "oasisVRX Expands to the Princeton Area With New Active Entertainment Virtual Reality Destination",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261005PH62603",
+      "body": "<p class=\"prntac\"><b><i>New Princeton-area location marks the company's second New Jersey destination, bringing over 30 immersive VR and motion experiences to families, friends, corporate groups, and gamers</i></b></p><p><span class=\"legendSpanClass\">PRINCETON, N.J.</span>, <span class=\"legendSpanClass\">Oct. 5, 2026</span> /PRNewswire/ -- oasisVRX is expanding with the opening of its second location at Princeton North Shopping Center, 1225 Route 206 in Princeton, New Jersey.</p><p>Building on over eight years of experience operating its original location in Holmdel, oasisVRX brings a larger, next-generation entertainment experience to the Princeton and greater Central New Jersey market.</p><p>The new location features over 30 immersive VR and motion experiences, including multiplayer free-roam VR arenas, motion and racing simulators, personal VR stations, and interactive experiences for guests of different ages and experience levels.</p><p>Unlike a traditional arcade, oasisVRX is centered around Active Entertainment, with experiences that get guests moving, interacting, and participating instead of just watching a screen. Guests can step into a variety of multiplayer virtual worlds with friends and family, race each other in motion simulators, or explore individual VR experiences.</p><p>\"oasisVRX is about much more than putting on a VR headset,\" said Todd Schobel, founder of oasisVRX. \"We've spent over eight years learning what makes location-based immersive entertainment really work. People want to laugh, compete, move around, and experience something they can't recreate at home. The Princeton and Montgomery Township area gives us the opportunity to take what we've learned in Holmdel and build an even bigger experience around that idea.\"</p><p>The Princeton location also accommodates birthday parties, family outings, school and youth groups, corporate events, client entertainment, and larger group celebrations.</p><p>\"We believe there is a significant opportunity in Active Entertainment. Technology continues to improve, but what really matters is what happens when people experience it together. Our goal is to create destinations where families, friends, coworkers, and groups can walk in and have an experience they'll be talking about afterward,\" said COO, Andrew Litt.</p><p>The Princeton opening represents the next stage in oasisVRX's growth strategy.</p><p>For information, hours, or reservations, visit oasisVRX.com or call 833-444-4214.</p><p><b>About oasisVRX</b></p><p>oasisVRX is a New Jersey-based Active Entertainment company combining virtual reality, motion simulation, multiplayer gaming, and group entertainment. The company operates locations in Holmdel and Princeton, New Jersey.</p><p><b>Website: </b>oasisVRX.com<br></br><b>Holmdel, NJ: </b>833-627-4787<br></br><b>Princeton, NJ: </b>833-444-4214</p><p><b>Media Contact<br></br></b><b>Todd Schobel</b><br></br>Founder, oasisVRX<br></br>833-444-4214<br></br><a href=\"mailto:423912@email4pr.com\" target=\"_blank\" rel=\"nofollow\">423912@email4pr.com</a><br></br><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4788503-1&amp;h=3377428978&amp;u=http%3A%2F%2Foasisvrx.com%2F&amp;a=oasisVRX.com\" target=\"_blank\" rel=\"nofollow\">oasisVRX.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH62603&amp;sd=2026-10-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/oasisvrx-expands-to-the-princeton-area-with-new-active-entertainment-virtual-reality-destination-302897216.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/oasisvrx-expands-to-the-princeton-area-with-new-active-entertainment-virtual-reality-destination-302897216.html</a></p><p>SOURCE oasisVRX</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH62603&amp;Transmission_Id=202610050843PR_NEWS_USPR_____PH62603&amp;DateId=20261005\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "oasisVRX",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-05T18:30:09.701Z"
+    },
     {
       "company": [
         "Élections Québec"
