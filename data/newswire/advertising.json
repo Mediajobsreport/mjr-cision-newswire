@@ -1,11 +1,103 @@
 {
-  "generated_at": "2026-10-06T06:44:58.371Z",
+  "generated_at": "2026-10-06T13:40:41.446Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 59,
+  "count": 60,
   "releases": [
+    {
+      "company": [
+        "pubX"
+      ],
+      "date": "20261006T105900+0000",
+      "dateline": "NEW YORK and LONDON, Oct. 6, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "UNK",
+        "WEU",
+        "EUR",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "CPR",
+        "BRD",
+        "ECM",
+        "DTA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2002709/pubX-logo.jpg?id=OA2988291&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2002709/pubX-logo.jpg?id=OA2988291&p=publish"
+        }
+      ],
+      "release_id": "20261006NY64121",
+      "status": "PUBLISHED",
+      "subject": [
+        "VEN",
+        "TNM"
+      ],
+      "summary": "<p class=\"prntac\"><i>Buyer and seller agents transact directly on infrastructure built for agents, governed on both sides of every buy, with Compliant's media quality and governance signals in every decision</i></p><p><span class=\"legendSpanClass\">NEW YORK and LONDON </span>, <span class=\"legendSpanClass\">Oct. 6, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789964-1&amp;h=4193991122&amp;u=http%3A%2F%2Fwww.pubx.ai%2F&amp;a=pubX\" target=\"_blank\" rel=\"nofollow\">pubX</a>, which builds agent-to-agent infrastructure for advertising, today announced a $5 million Series A led by Chicago Ventures and the acquisition of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789964-1&amp;h=91993062&amp;u=https%3A%2F%2Fwww.compliant.global%2F&amp;a=Compliant\" target=\"_blank\" rel=\"nofollow\">Compliant</a>, the media quality and governance company. Terms of the acquisition were not disclosed. Compliant will retain its name and operate as a pubX company, led by CEO Jamie Barnard. Within pubX, Jamie will take the role of President, Global Demand Growth, leading the company's global growth strategy across agencies, advertisers and the wider buy-side.</p>",
+      "ticker": [],
+      "title": "pubX Raises $5M Series A Led by Chicago Ventures and Acquires Compliant to Build Agent-to-Agent Advertising Infrastructure from the Ground Up",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261006NY64121",
+      "body": "<p class=\"prntac\"><i>Buyer and seller agents transact directly on infrastructure built for agents, governed on both sides of every buy, with Compliant's media quality and governance signals in every decision</i></p><p><span class=\"legendSpanClass\">NEW YORK and LONDON </span>, <span class=\"legendSpanClass\">Oct. 6, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789964-1&amp;h=4193991122&amp;u=http%3A%2F%2Fwww.pubx.ai%2F&amp;a=pubX\" target=\"_blank\" rel=\"nofollow\">pubX</a>, which builds agent-to-agent infrastructure for advertising, today announced a $5 million Series A led by Chicago Ventures and the acquisition of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789964-1&amp;h=91993062&amp;u=https%3A%2F%2Fwww.compliant.global%2F&amp;a=Compliant\" target=\"_blank\" rel=\"nofollow\">Compliant</a>, the media quality and governance company. Terms of the acquisition were not disclosed. Compliant will retain its name and operate as a pubX company, led by CEO Jamie Barnard. Within pubX, Jamie will take the role of President, Global Demand Growth, leading the company's global growth strategy across agencies, advertisers and the wider buy-side.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2002709/pubX-logo.jpg?id=OA2988291\" title=\"\" alt=\"\"></img></p></div><p>pubX builds the agents that plan, buy, sell and optimize advertising — and the infrastructure they transact on. Its buyer agents and seller agents work directly with one another, from brief to reporting, across every channel, so that more of every dollar reaches the media and the publisher behind it. pubX began on the publisher side, spending years helping publishers price and sell their inventory. Compliant, founded by former Unilever and P&amp;G executives, has focused principally on the demand side, delivering measurable value to global brands and their agencies. The acquisition unites brand and publisher in one company, and that experience, on both sides of the market is what shaped the company's vision for something new: infrastructure designed from the ground up for agents to buy and sell directly. Built on the open Ad Context Protocol (AdCP), it works for buyer and seller alike.</p><p><b>Trust as the founding product principle</b></p><p>pubX was built on the premise that no one hands their media budget to a system they don't trust, so trust, transparency, and accountability are built into the infrastructure itself, on both sides of every transaction. Its agents are educated by pubX: governance checks on every buy, decisions that are reasoned, traced and auditable, with Compliant's quality signals shaping what they consider. The agents are guided by the client, on the brand's own brief, plan, publishers and commercial rules. People stay in control: the client sets the level of autonomy and approves the plan at key stages, and the agents execute inside those rules. As trust is earned, autonomy grows.</p><p>\"Programmatic took this industry from fax machines and spreadsheets into more automated and real-time platforms in two short decades, and everything we've done since builds on that premise,\" said <b>Andrew Mole, CEO and co-founder of pubX</b>. \"Agents let us finish what was started. You tell them how you buy, you sign off where it matters, and every page of the brief gets read every single time. For the first time, the infrastructure has caught up with what brands want to achieve with their advertising and how publishers want to sell.\"</p><p>\"For years, brands have searched for high-quality, high-performing inventory with real, relevant and engaged audiences. Compliant built the Data Integrity and CTV Quality Indexes so that they could do that with certainty rather than speculation,\" said <b>Jamie Barnard, CEO of Compliant</b>. \"Inside pubX, those media quality and governance signals sit in the decision itself, so an agent weighs them before it buys. This is what gives each CMO the confidence to trust pubX's agents.\"</p><p>\"Every part of the advertising industry is asking how agents will improve buying and selling, and most answers so far are an agentic layer built on existing infrastructure. Co-founders Andrew Mole and Alex Rosen, pubX's CTO, have built advertising infrastructure before, and this time they built it for agents from the start, on both sides of the transaction, with a publisher base that already trusts them and a design that keeps the client in control. That is a rare starting position, and the Compliant acquisition makes it stronger,\" said <b>Stuart Larkins, Co-founder &amp; General Partner at Chicago Ventures</b>.</p><p>The funding will support pubX's expansion in the United States, the build-out of its demand-side business serving brands and agencies, continued development of its buyer and seller agents on AdCP, and the integration of Compliant's signals across the platform.</p><p>\"For a publisher, agentic buying is about discoverability. Buyer agents see the audiences and environments we actually have, backed by our first-party data, and that puts us in front of spend that never reached us before, in an environment we can win. It amplifies what our sales team already does well,\" said <b>Stephanie Mazzamaro, Head of Revenue and Data, Paradium.AI, formerly The Arena Group.</b></p><p>\"As advertising increasingly moves toward agentic buying, discoverability becomes critical,\" said <b>Jason Taylor, Chief Revenue Officer, USA TODAY Co</b>. \"Publishers that invest in trusted content, engaged audiences, and brand-safe environments should be more visible to AI-powered buying platforms. The opportunity is to create a more transparent marketplace where quality is recognized and rewarded.\"</p><p><b>pubX at Advertising Week New York</b></p><p>On Wednesday, October 7, pubX will run a live agent-to-agent media buy at a private executive lunch during Advertising Week New York. A campaign for Reckitt's Mucinex brand will go from brief to live placement, with Reckitt's trading team approving the plan at key stages and publishers including Paradium.AI and USA TODAY Co. reviewing and accepting the campaign as it happens. Attendance is by invitation.</p><p><b>About pubX<br></br></b>pubX builds agent-to-agent infrastructure for advertising. Its buyer and seller agents, educated by pubX, trained by the client, and governed on both sides of every transaction, let brands, agencies and publishers plan, buy, sell and optimize media directly, with trust earned one campaign at a time. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789964-1&amp;h=213448487&amp;u=http%3A%2F%2Fwww.pubx.ai%2F&amp;a=www.pubx.ai\" target=\"_blank\" rel=\"nofollow\">www.pubx.ai</a></p><p><b>About Compliant<br></br></b>Compliant, a pubX company, is the media quality and governance company behind the Data Integrity and CTV Quality Indexes, used by leading global advertisers and industry bodies to measure data integrity and media quality across the supply chain. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789964-1&amp;h=957451035&amp;u=http%3A%2F%2Fwww.compliant.global%2F&amp;a=www.compliant.global\" target=\"_blank\" rel=\"nofollow\">www.compliant.global</a></p><p><b>About Chicago Ventures<br></br></b>Chicago Ventures is a seed-stage venture capital fund founded to fill a market gap in early-stage capital for tech companies outside traditional hubs like Silicon Valley, focusing on undercapitalized tech ecosystems in the Central U.S. and beyond. They lead seed rounds \"before it's obvious\" and operate a formal platform function that serves as a direct extension of portfolio companies' teams, with their network explicitly architected to provide customer introductions, expert help, and talent access at scale rather than just for sourcing deals. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4789964-1&amp;h=3208152842&amp;u=http%3A%2F%2Fwww.chicagoventures.com%2F&amp;a=www.chicagoventures.com\" target=\"_blank\" rel=\"nofollow\">www.chicagoventures.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY64121&amp;sd=2026-10-06\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/pubx-raises-5m-series-a-led-by-chicago-ventures-and-acquires-compliant-to-build-agent-to-agent-advertising-infrastructure-from-the-ground-up-302899056.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/pubx-raises-5m-series-a-led-by-chicago-ventures-and-acquires-compliant-to-build-agent-to-agent-advertising-infrastructure-from-the-ground-up-302899056.html</a></p><p>SOURCE pubX</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY64121&amp;Transmission_Id=202610060659PR_NEWS_USPR_____NY64121&amp;DateId=20261006\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "pubX",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 0,
+          "engineering": 2,
+          "entertainment": 0,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "summary:advertiser",
+            "industry:ADV"
+          ],
+          "engineering": [
+            "industry:BRD"
+          ],
+          "management": [
+            "summary:president"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-06T13:40:45.480Z"
+    },
     {
       "company": [
         "Eightpoint"
