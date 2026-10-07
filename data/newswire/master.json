@@ -1,9 +1,749 @@
 {
-  "generated_at": "2026-10-07T09:08:09.920Z",
+  "generated_at": "2026-10-07T16:32:19.057Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 450,
+  "count": 458,
   "releases": [
+    {
+      "company": [
+        "SOCAN"
+      ],
+      "date": "20261007T151000+0000",
+      "dateline": "TORONTO, Oct. 7, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "RAD"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Jenna Andrews",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004213/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992330&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004213/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992330&p=publish"
+        },
+        {
+          "caption": "Jessie Reyez",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004215/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992333&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004215/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992333&p=publish"
+        },
+        {
+          "caption": "Maestro Fresh Wes",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004216/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992335&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004216/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992335&p=publish"
+        },
+        {
+          "caption": "Nathan Micay",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004217/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992342&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004217/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992342&p=publish"
+        },
+        {
+          "caption": "Drake",
+          "seq": "5",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004211/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992344&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004211/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992344&p=publish"
+        },
+        {
+          "caption": "Andrew Lockington",
+          "seq": "6",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004210/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992348&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004210/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992348&p=publish"
+        },
+        {
+          "caption": "Jade LeMac",
+          "seq": "7",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004212/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992351&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004212/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992351&p=publish"
+        },
+        {
+          "caption": "Peter Peter",
+          "seq": "8",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004218/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992354&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004218/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992354&p=publish"
+        },
+        {
+          "caption": "Logo de la SOCAN",
+          "seq": "9",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1822686/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992281&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1822686/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992281&p=publish"
+        }
+      ],
+      "release_id": "20261007C0683",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "DEI"
+      ],
+      "summary": "<p class=\"prntac\"> <i>From chart-topping songwriters to the acclaimed screen composers behind Lioness: Special Ops, Landman and Heated Rivalry, this year's achievement winners exemplify the impact of Canadian music.</i></p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /CNW/ -- SOCAN today revealed the exceptional songwriters, composers and music publishers who will be celebrated with <b>Special Achievement Awards</b> at the 2026 SOCAN Awards, taking place October 26, 2026, at Toronto's REBEL nightclub. The annual event, hosted by <b>Arisa Cox</b> and <b>Andrew Phung,</b> will honour over 100 music creators and publishers shaping Canadian music at home and around the world.</p>",
+      "ticker": [],
+      "title": "SOCAN Awards to Celebrate the Best in Canadian Music including Drake, Andrew Lockington, Jessie Reyez, Jenna Andrews, Maestro Fresh Wes, Peter Peter and more!",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007C0683",
+      "body": "<p class=\"prntac\"> <i>From chart-topping songwriters to the acclaimed screen composers behind Lioness: Special Ops, Landman and Heated Rivalry, this year's achievement winners exemplify the impact of Canadian music.</i></p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /CNW/ -- SOCAN today revealed the exceptional songwriters, composers and music publishers who will be celebrated with <b>Special Achievement Awards</b> at the 2026 SOCAN Awards, taking place October 26, 2026, at Toronto's REBEL nightclub. The annual event, hosted by <b>Arisa Cox</b> and <b>Andrew Phung,</b> will honour over 100 music creators and publishers shaping Canadian music at home and around the world.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004213/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992330\" title=\"Jenna Andrews\" alt=\"Jenna Andrews\"></img></p></div><p>The 2026 honourees reflect the diversity and global reach of Canadian musical creativity and will be celebrated with an evening of standout performances and special guests including Shawn Desman, Jamie Fine, Hailey Benedict and the 2025 Breakout Composers the Chan brothers. Also awarded will be 2025 Songwriter of the Year, Evan Blair, Lowell and the composer team behind Daniel Tiger's Neighborhood and PAW Patrol.</p><p><b>2026 SOCAN Special Achievement Award Winners</b></p><ul type=\"disc\"><li><b>International Achievement Award – Jessie Reyez</b><br></br>With over 4 billion streams globally, the GRAMMY nominated, and multiple JUNO winner, Jessie Reyez is representing Canada on the global stage, influencing music and culture with her talent, and collaborations with artists like Dua Lipa, Beyoncé and Eminem.</li><li><b>Cultural Impact Award – \"Let Your Backbone Slide\" </b>by <b>Maestro Fresh Wes, Anthony Davis, Peter Davis; </b>published by <b>BMG Rights Management Canada o/b/o BMG Rights Management (US), Warner Chappell Music Canada Ltd.</b><br></br>A global success story, this is one of the most groundbreaking and culturally significant recordings in hip hop and Canadian music history.</li><li><b>Global Impact Award – Peter Peter <br></br></b>Celebrated for elevating Canadian talent on the world stage through his work on the international hit series \"Heated Rivalry.\"</li><li><b>Screen Composer of the Year – Andrew Lockington</b><br></br>A standout year that includes multiple major wins across film and serialized drama for \"Atlas,\" \"Landman,\" \"Mayor of Kingstown\" and \"Special Ops: Lioness\".</li><li><b>Songwriter of the Year – Non</b>‑<b>Performer – Jenna Andrews</b><br></br>Recognized for an exceptional year, including \"Free\" and \"What It Sounds Like\" from the global hit soundtrack KPop Demon Hunters, Andrews is one of Canada's most sought-after songwriters.</li><li><b>Songwriter of the Year – Performer – Drake</b><br></br>Honoured once again for his unmatched influence on music worldwide.</li><li><b>Breakout Songwriter Award – Jade LeMac</b><br></br>With a fresh, authentic perspective and growing fanbase, Jade is one of the most exciting new voices in Canadian music.</li><li><b>Breakout Composer Award – Nathan Micay</b><br></br>The electronic music producer made waves with his foray into screen composing on the hit HBO series \"Industry.\"</li></ul><p>\"Every year, the SOCAN Awards shine a light on the songwriters, composers and music publishers who define and elevate Canadian music,\" said Jennifer Brown, SOCAN CEO.  \"The 2026 honourees show the extraordinary range of talent shaping our culture, from global hitmakers to groundbreaking composers and exciting new voices. We can't wait to celebrate them on October 26.\"</p><p>SOCAN Achievement Award winners receive \"<b>The SOCAN</b>\" – the world's first and only music industry trophy that is also a musical instrument, incorporating five custom bronze crotales, tuned this year with notes from <b>\"Let Your Backbone Slide\"</b> by <b>Maestro Fresh Wes.</b> </p><p>The full list of this year's SOCAN Award winners will be released on the evening of October 26. </p><p>SOCAN proudly acknowledges its legal counsel of 75+ years, <b>Gowling WLG</b> as the official sponsor of the 2026 SOCAN Awards, with the <b>SOCAN Foundation</b> and the <b>Unison Benevolent Fund</b> serving as official charity partners.</p><p><b>About SOCAN</b>   </p><p>SOCAN is Canada's largest member-owned music rights organization, championing the fundamental value of music and the people who create it. SOCAN collects license fees for the public performance and reproduction of music, matches them to rights holders, and distributes them as royalties to songwriters, composers and music creators and publishers in Canada and around the world. With more than a century of expertise and innovation, SOCAN stands for respect and fair compensation for creative work – protecting, recognizing, and celebrating its over 200,000 songwriter, composer, and music publisher members. For more information: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791779-1&amp;h=2044953253&amp;u=https%3A%2F%2Fwww.socan.com%2F&amp;a=www.socan.com.\" target=\"_blank\" rel=\"nofollow\">www.socan.com.</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004215/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992333\" title=\"Jessie Reyez\" alt=\"Jessie Reyez\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS2004216/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992335\" title=\"Maestro Fresh Wes\" alt=\"Maestro Fresh Wes\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS2004217/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992342\" title=\"Nathan Micay\" alt=\"Nathan Micay\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS2004211/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992344\" title=\"Drake\" alt=\"Drake\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS2004210/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992348\" title=\"Andrew Lockington\" alt=\"Andrew Lockington\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS2004212/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992351\" title=\"Jade LeMac\" alt=\"Jade LeMac\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS2004218/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992354\" title=\"Peter Peter\" alt=\"Peter Peter\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS1822686/SOCAN-SOCAN-Awards-to-Celebrate-the-Best-in-Canadian-Music-inclu.jpg?id=OA2992281\" title=\"Logo de la SOCAN\" alt=\"Logo de la SOCAN\"></img></p></div><p>SOURCE SOCAN</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C0683&amp;Transmission_Id=202610071105CANADANWCANADAPR_C0683&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "SOCAN",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:music publisher",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:21.577Z"
+    },
+    {
+      "company": [
+        "Broadcast Music, Inc. (BMI)"
+      ],
+      "date": "20261007T150000+0000",
+      "dateline": "NASHVILLE, Tenn., Oct. 7, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "TNS",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "BMI Logo.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS778214/BMI-Logo.jpg?id=OA2990847&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS778214/BMI-Logo.jpg?id=OA2990847&p=publish"
+        }
+      ],
+      "release_id": "20261007CG65309",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "AWD"
+      ],
+      "summary": "<p class=\"prntac\"><b><u>Country Songwriter of the Year, Country Song of the Year and </u></b><b><u>Country Publisher of the Year to be Revealed During Celebration of  </u></b><b><u>the Year's 50 Most-Performed Country Songs</u></b></p><p><span class=\"legendSpanClass\">NASHVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- <b>BMI</b> will celebrate one of the ultimate architects of modern Country music, <b>Jeffrey Steele,</b> by naming him a BMI Icon during the 74<sup>th </sup>annual BMI Country Awards. The two-time BMI Country Songwriter of the Year will be recognized for his significant songwriting and contributions to Country music. The invitation-only event will be held at BMI's Nashville office on Nov. 17<sup>th</sup> and will be hosted by BMI's CEO, <b>Mike O'Neill</b>, Executive Vice President, Chief Revenue &amp; Creative Officer, <b>Mike Steinberg</b> and BMI's Nashville VP of Creative, <b>Clay Bradley</b>.</p>",
+      "ticker": [],
+      "title": "JEFFREY STEELE TO BE HONORED WITH BMI ICON AWARD AT THE 74TH ANNUAL BMI COUNTRY AWARDS ON NOV. 17TH",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007CG65309",
+      "body": "<p class=\"prntac\"><b><u>Country Songwriter of the Year, Country Song of the Year and </u></b><b><u>Country Publisher of the Year to be Revealed During Celebration of  </u></b><b><u>the Year's 50 Most-Performed Country Songs</u></b></p><p><span class=\"legendSpanClass\">NASHVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- <b>BMI</b> will celebrate one of the ultimate architects of modern Country music, <b>Jeffrey Steele,</b> by naming him a BMI Icon during the 74<sup>th </sup>annual BMI Country Awards. The two-time BMI Country Songwriter of the Year will be recognized for his significant songwriting and contributions to Country music. The invitation-only event will be held at BMI's Nashville office on Nov. 17<sup>th</sup> and will be hosted by BMI's CEO, <b>Mike O'Neill</b>, Executive Vice President, Chief Revenue &amp; Creative Officer, <b>Mike Steinberg</b> and BMI's Nashville VP of Creative, <b>Clay Bradley</b>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS778214/BMI-Logo.jpg?id=OA2990847\" title=\"BMI Logo.\" alt=\"BMI Logo.\"></img></p></div><p>Throughout the evening, BMI will also reveal the Country Songwriter of the Year, Country Song of the Year and Country Publisher of the Year, while celebrating the top songwriters and music publishers behind this past year's 50 most-performed songs in Country music.</p><p>\"Jeffrey Steele is a titan of modern storytelling whose catalog has shaped the sound of Country music over the last three decades,\" BMI's Nashville VP of Creative, Clay Bradley said. \"When you hear one of his anthems that has become the soundtrack to millions of lives, you can feel the emotion behind every lyric. As a two-time BMI Country Songwriter of the Year and an intentional mentor to the next generation of creators, Steele has earned a permanent place among the greats.\"</p><p>Since Steele's affiliation with BMI in 1981, the multi-Platinum songwriter, singer and producer has shaped the modern Country music landscape with over 60 chart-topping hits. The prolific songwriter has received more than 34 BMI Country and Pop Awards for his extensive catalog that includes iconic songs like <b>Tim McGraw</b>'s \"The Cowboy in Me\" along with <b>Rascal Flatts</b>' \"What Hurts the Most,\" \"My Wish,\" and \"These Days\" as well as <b>Keith Urban</b>'s \"Raise 'Em Up\" featuring <b>Eric Church</b>, <b>Zac Brown Band</b>'s \"Knee Deep,\" <b>Van Zant</b>'s \"Help Somebody,\" <b>Montgomery Gentry</b>'s \"Something to Be Proud Of\" and \"My Town.\" The seven-time GRAMMY® nominee has earned critical recognition for his creative impact with an induction into the Nashville Songwriters Hall of Fame, and Steele has been honored by the Country Music Hall of Fame as a \"Poet and Prophet.\"</p><p>The BMI Icon Award is given to exceptional songwriters in recognition of their unique and indelible influence on music makers over many generations. In receiving this award, Steele joins an impressive list of Country legends including Bill Anderson, Matraca Berg, Clint Black, Toby Keith, Loretta Lynn, Willie Nelson, Merle Haggard, Dolly Parton, Kris Kristofferson, Dean Dillon, Vince Gill and Hank Williams, Jr., as well as multi-genre creative/songwriting royalty Stevie Nicks, Little Richard, Carole King, Patti LaBelle, Brian Wilson, James Brown, Janet Jackson, Bo Diddley, Holland-Dozier-Holland, Peter Gabriel, Al Green, Van Morrison, Sting, Bryan Ferry, Carlos Santana, Los Lobos, and more.</p><p><b>ABOUT JEFFREY STEELE:<br></br></b>Jeffrey Steele continues to shape American music with songs that connect people across generations. With more than 65 million radio and television airplays, his songwriting has produced major hits for artists including Keith Urban, Eric Church, Zac Brown Band, Jimmy Buffett, Montgomery Gentry, Lynyrd Skynyrd, Cher, .38 Special, Faith Hill, Tim McGraw, Trace Adkins, LeAnn Rimes, Rascal Flatts, Van Zant, Joe Cocker, Little Feat ft. Bob Seger, Joe Bonamassa, Cascada, and many more. A member of the Nashville Songwriters Hall of Fame, Steele has been recognized by the Country Music Hall of Fame as a \"Poet and Prophet,\" named BMI Songwriter of the Year twice, and awarded NSAI Songwriter of the Year three times. He is also a two-time CMA Triple Play Award recipient for penning three No. 1 hits in a single year. His extensive list of chart-topping songs includes: \"Raise 'Em Up,\" \"Knee Deep,\" \"Here,\" \"My Wish,\" \"The Cowboy in Me,\" \"These Days,\" \"My Town,\" \"Something to Be Proud Of,\" \"Everyday,\" and the landmark \"What Hurts the Most,\" which earned a GRAMMY® nomination for Best Country Song. Steele has received a Golden Globe and Critics' Choice nominee for Best Original Song for \"I Thought I Lost You\" (from Disney/Pixar's Bolt). He has been named one of Billboard's Top 5 Writers for eight consecutive years and MusicRow Magazine's Songwriter of the Year. Continuing to use his voice to reflect the times, Steele released his new single \"A Voice\" in January - a song rooted in hope, unity and shared humanity. Written as a reminder of what connects us in a world often marked by division and uncertainty, the song underscores Steele's enduring belief in music as a force for healing and togetherness. The song debuted at #4 on the Billboard Digital Sales charts. A full-length American Storyteller album of new music will follow. Fore more information visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791131-1&amp;h=2823941630&amp;u=http%3A%2F%2Fwww.jeffreysteele.com%2F&amp;a=www.JeffreySteele.com\" target=\"_blank\" rel=\"nofollow\">www.JeffreySteele.com</a>.</p><p><b>ABOUT BMI:<br></br></b>Celebrating over 80 years of service to songwriters, composers, music publishers and businesses, BMI® is a global leader in music rights management, serving as an advocate for the value of music. BMI represents the public performance rights in over 25 million musical works created and owned by more than 1.5 million songwriters, composers, and music publishers. The Company negotiates music license agreements and distributes the fees it generates as royalties to its affiliated writers and publishers when their songs are performed in public. In 1939, BMI created a groundbreaking open-door policy becoming the only performing rights organization to welcome and represent the creators of blues, jazz, country, and American roots music. Today, the musical compositions in BMI's repertoire, from chart toppers to perennial favorites, span all genres of music and are consistently among the most-performed hits of the year. For additional information and the latest BMI news, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791131-1&amp;h=2527887240&amp;u=https%3A%2F%2Fnam02.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Furl.us.m.mimecastprotect.com%252Fs%252FduGmCER6KEtp0QkUkTGGi7BB__%253Fdomain%253Dt.e2ma.net%26data%3D05%257C02%257Cecuff%2540bmi.com%257C1e48f1a6123948edc61908df1a62854e%257C3bbeab8167a442cca0685dcb39061843%257C1%257C0%257C639258682596856290%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3DmlDN8nxXFLGfWya16KN9DnR4s6OQFH%252Bg8juKonqmYMM%253D%26reserved%3D0&amp;a=bmi.com\" target=\"_blank\" rel=\"nofollow\">bmi.com</a>, follow us on X, TikTok, and Instagram @BMI or stay connected through BMI's Facebook page. Sign up for BMI's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791131-1&amp;h=4040738872&amp;u=https%3A%2F%2Fnam02.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Furl.us.m.mimecastprotect.com%252Fs%252FU-hKCG6QwJUAOV2sPUmmiB4i9L%253Fdomain%253Dt.e2ma.net%26data%3D05%257C02%257Cecuff%2540bmi.com%257C1e48f1a6123948edc61908df1a62854e%257C3bbeab8167a442cca0685dcb39061843%257C1%257C0%257C639258682596868247%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3Df05G%252Bpen5k%252FnSOrUNl1TS1Sm5W3dtFlTvVmJtTKAqtI%253D%26reserved%3D0&amp;a=The+Weekly%E2%84%A2\" target=\"_blank\" rel=\"nofollow\">The Weekly™</a> and receive our e-newsletter every week to stay up to date on all things music.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG65309&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/jeffrey-steele-to-be-honored-with-bmi-icon-award-at-the-74th-annual-bmi-country-awards-on-nov-17th-302900337.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/jeffrey-steele-to-be-honored-with-bmi-icon-award-at-the-74th-annual-bmi-country-awards-on-nov-17th-302900337.html</a></p><p>SOURCE Broadcast Music, Inc. (BMI)</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG65309&amp;Transmission_Id=202610071100PR_NEWS_USPR_____CG65309&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Broadcast Music, Inc. (BMI)",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment",
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment",
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 4,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "management": [
+            "summary:vice president",
+            "summary:executive",
+            "summary:president"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:21.705Z"
+    },
+    {
+      "company": [
+        "Suntory Global Spirits"
+      ],
+      "date": "20261007T150000+0000",
+      "dateline": "NEW YORK, Oct. 7, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ALC",
+        "BEV",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Hidemichi Takaki, Blender, Suntory Spirits Limited, holding the Trophy, alongside Shinji Fukuyo, Chief Blender, The House of Suntory. Photo Credit: Casey Gutteridge",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004208/Suntory-Global-Spirits-Awarded.jpg?id=OA2992309&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004208/Suntory-Global-Spirits-Awarded.jpg?id=OA2992309&p=publish"
+        },
+        {
+          "caption": "The House of Suntory Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1986922/THE-HOUSE-OF-SUNTORY-LOGO.jpg?id=OA2992306&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1986922/THE-HOUSE-OF-SUNTORY-LOGO.jpg?id=OA2992306&p=publish"
+        }
+      ],
+      "release_id": "20261007NY65915",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD"
+      ],
+      "summary": "<p class=\"prntac\"><i>This marks the fourth consecutive year Yamazaki has earned a Trophy in the Japanese Whisky category</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Suntory Global Spirits, a world leader in premium spirits, today announced that The House of Suntory's Yamazaki Single Malt Whisky 25 Years Old has been awarded a Trophy at the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791741-1&amp;h=942091853&amp;u=https%3A%2F%2Finternationalspiritschallenge.com%2Finternationalspiritschallenge2026%2Fen%2Fpage%2Fhome&amp;a=International+Spirits+Challenge+(ISC)+2026\" target=\"_blank\" rel=\"nofollow\">International Spirits Challenge (ISC) 2026</a>, the competition's highest honor in the Japanese Whisky category. The award marks the fourth consecutive year a Yamazaki whisky has received this accolade.</p>",
+      "ticker": [],
+      "title": "The House of Suntory's Yamazaki 25 Years Old Awarded Trophy in the Japanese Whisky Category at International Spirits Challenge 2026 and Suntory Spirits Named Japanese Whisky Producer of the Year",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007NY65915",
+      "body": "<p class=\"prntac\"><i>This marks the fourth consecutive year Yamazaki has earned a Trophy in the Japanese Whisky category</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Suntory Global Spirits, a world leader in premium spirits, today announced that The House of Suntory's Yamazaki Single Malt Whisky 25 Years Old has been awarded a Trophy at the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791741-1&amp;h=942091853&amp;u=https%3A%2F%2Finternationalspiritschallenge.com%2Finternationalspiritschallenge2026%2Fen%2Fpage%2Fhome&amp;a=International+Spirits+Challenge+(ISC)+2026\" target=\"_blank\" rel=\"nofollow\">International Spirits Challenge (ISC) 2026</a>, the competition's highest honor in the Japanese Whisky category. The award marks the fourth consecutive year a Yamazaki whisky has received this accolade.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004208/Suntory-Global-Spirits-Awarded.jpg?id=OA2992309\" title=\"Hidemichi Takaki, Blender, Suntory Spirits Limited, holding the Trophy, alongside Shinji Fukuyo, Chief Blender, The House of Suntory. Photo Credit: Casey Gutteridge\" alt=\"Hidemichi Takaki, Blender, Suntory Spirits Limited, holding the Trophy, alongside Shinji Fukuyo, Chief Blender, The House of Suntory. Photo Credit: Casey Gutteridge\"></img></p></div><p><b>Why is Yamazaki 25 Years Old's International Spirits Challenge 2026 win significant?</b></p><ul type=\"disc\"><li>This latest achievement marks the fourth consecutive year that Yamazaki has earned the competition's honor in the Japanese Whisky category: Yamazaki 25 Years Old in 2023, Yamazaki 12 Years Old in 2024, and Yamazaki 18 Years Old in 2025.</li><li>This achievement reinforces Yamazaki's position among the world's premier spirits and underscores Suntory Global Spirits' leadership in exceptional whisky.</li><li>The recognition also reinforces the importance of upholding the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791741-1&amp;h=2857874990&amp;u=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20250326387650%2Fen%2FJapan-Spirits-Liqueurs-Makers-Association-JSLMA-Reinforces-Standards-for-Labeling-Japanese-Whisky-With-New-Logo&amp;a=Japanese+Whisky+standards+set+by+the+Japan+Spirits+%26+Liqueurs+Makers+Association\" target=\"_blank\" rel=\"nofollow\">Japanese Whisky standards set by the Japan Spirits &amp; Liqueurs Makers Association</a>, standards that help protect the authenticity, heritage and craftsmanship behind the category. As the association's logo begins to roll out across The House of Suntory's authentic Japanese Whisky products, consumers will have an easier way to identify whiskies that meet these standards.</li></ul><p>\"Yamazaki 25 Years Old was first introduced in 1999, and in 2021 we evolved the whisky to more intentionally express Tsukuriwake — the diversity of our whisky‑making — and Tsukurikomi — the refinement and mastery behind our craft.\" said Suntory Chief Blender, Shinji Fukuyo. \"Seeing Yamazaki 25 Years Old receive this prestigious recognition today is profoundly meaningful for our entire team. It affirms the continuity of our craftsmanship across generations and our unwavering commitment to creating whiskies that honor Yamazaki's legacy while continuing to evolve.\"</p><p><b>What is the International Spirits Challenge and how are its awards judged?</b></p><p>The International Spirits Challenge is one of the industry's most prestigious competitions, judged by a panel of world-renowned experts who assess spirits for quality, balance, and character.</p><p>International Spirits Challenge judges noted: \"There's a reason Yamazaki is so widely accepted as a global benchmark in quality whisky. The combination of texture and fruitiness, the multiple layers - it has everything happening within it to make me want just a little bit more.\"</p><p><b>What does Yamazaki 25 Years Old taste like?</b></p><ul type=\"disc\"><li><b>Color: </b>Amber</li><li><b>Nose: </b>Mizunara smoky notes of incense, followed by a complex bouquet of mature kaki persimmon and ume plum notes.</li><li><b>Palate: </b>A smoky first sip of Mizunara sandalwood notes that open and deepen into complex layers of kaki persimmon subtle sweetness, tart ume plum notes and gentle shoga ginger spicy notes.</li><li><b>Finish: </b>Profound long finish with Mizunara smokiness and lingering subtly sweet wood notes that remain.</li></ul><p><b>What other notable awards did The House of Suntory win?</b></p><ul type=\"disc\"><li>In addition to this top accolade, Hakushu 18 Years Old Peated Malt and Hakushu 25 Years Old each earned Double Gold medals, further underscoring the exceptional quality and strength of The House of Suntory portfolio.</li><li>Suntory Spirits also earned recognition as Producer of the Year in the Japanese Whisky category for the seventh consecutive year.</li><li>All other awards can be seen below:</li></ul><p><b>Trophy</b></p><ul type=\"disc\"><li>The Yamazaki Single Malt Whisky 25 Years Old</li></ul><p><b>Double Gold</b></p><ul type=\"disc\"><li>The Hakushu Single Malt Whisky Peated Malt 18 Years Old</li><li>The Hakushu Single Malt Whisky 25 Years Old</li></ul><p><b>Gold</b></p><ul type=\"disc\"><li>Suntory Whisky Ao Irish Edition</li><li>Suntory Whisky Hibiki Suntory Whisky 100 years Anniversary Blend</li><li>Suntory Whisky Toki</li><li>The Yamazaki Single Malt Whisky Japan Edition</li><li>The Yamazaki Single Malt Whisky Story Of The Distillery 2025</li><li>The Hakushu Single Malt Whisky 12 Years Old</li><li>The Yamazaki Single Malt Whisky 12 Years Old</li><li>The Yamazaki Single Malt Whisky 18 Years Old</li><li>The Hakushu Single Malt Whisky 18 Years Old</li><li>The Yamazaki Single Malt Japanese Whisky Mizunara Japanese Oak Cask 18 Years Old</li><li>Suntory Whisky Kakubin</li><li>Suntory Whisky Hibiki 12years Old</li><li>Suntory Whisky Hibiki 21years Old</li><li>Suntory Whisky Hibiki 30years Old</li><li>The Hakushu Single Malt Whisky Peated Malt Spanish Oak</li><li>The Yamazaki Single Malt Whisky Smoky Batch The Fourth</li><li>The Hakushu Single Malt Whisky Japanese Forest Bittersweet Edition</li><li>The Yamazaki Single Malt Whisky</li><li>The Yamazaki Single Malt Japanese Whisky Mizunara Japanese Oak Cask 25 Years Old</li></ul><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791741-1&amp;h=619152473&amp;u=https%3A%2F%2Fhouse.suntory.com%2F&amp;a=About+The+House+of+Suntory\" target=\"_blank\" rel=\"nofollow\"><b>About The House of Suntory</b></a> </p><p>Suntory is renowned as the founding house of Japanese Whisky, beginning with Shinjiro Torii's creation of Japan's first malt whisky distillery in Yamazaki in 1923 and carried forward by his son, Keizo Saji, founder of the Hakushu and Chita Distillery. As the generations of Suntory's master blenders carry on, Suntory Whisky remains committed to heritage and innovation.</p><p>Today, the House of Suntory continues to craft award-winning spirits, including Yamazaki®, Hakushu®, Chita®, Kakubin®, Hibiki®, and Suntory Whisky Toki™. All 100% distilled, matured, and bottled in Japan, in full compliance with the Japan Spirits &amp; Liqueurs Makers Association (JSLMA) standards. The House of Suntory also includes Roku™ Japanese Gin, Haku™ Japanese Vodka, and Kanáde Japanese Liqueur, reflecting the same dedication to craftsmanship, quality, and innovation that have defined Suntory for over a century.</p><p>In 2025, Yamazaki® made history at the International Spirits Challenge as the first brand to win Supreme Champion Spirit three years in a row, and in 2024, Chief Blender Shinji Fukuyo was named Master Blender of the Year. Furthering this legacy of excellence, the Osaka Spirits &amp; Liqueurs Craft Distillery, home to Roku Gin, Haku Vodka and Kanáde Japanese Liqueur was awarded the 2025 Liqueur Producer Trophy by the International Wine &amp; Spirit Competition (IWSC). The House of Suntory will open the Osaka Craft Distillery to the public for the first time in 2026.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791741-1&amp;h=3749040946&amp;u=https%3A%2F%2Fwww.suntoryglobalspirits.com%2F&amp;a=About+Suntory+Global+Spirits\" target=\"_blank\" rel=\"nofollow\"><b>About Suntory Global Spirits</b></a> </p><p>As a world leader in premium spirits, Suntory Global Spirits inspires the brilliance of life, by creating rich experiences for people, in harmony with nature. Known for its craftsmanship of premium American whiskeys, including Jim Beam® and Maker's Mark®; Japanese whiskies, including Yamazaki® and Hibiki®; and leading Scotch brands including Laphroaig®, Suntory Global Spirits also produces leading brands such as El Tesoro® and Hornitos® tequilas and Roku® gin, and is a world leader in Ready-To-Drink cocktails, with brands like -196™ (minus one-nine-six) and On The Rocks™ Bartender Created Cocktails.</p><p>A global company with approximately 6,000 employees in nearly 30 countries, Suntory Global Spirits is driven by its core values of Growing for Good, Yatte Minahare and Giving Back to Society, and aims to have a positive impact on the planet, consumers and communities. Headquartered in New York City, Suntory Global Spirits is a subsidiary of Suntory Holdings Limited of Japan. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791741-1&amp;h=471998052&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4772790-1%26h%3D3382927358%26u%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4668886-1%2526h%253D1924261470%2526u%253Dhttp%25253A%25252F%25252Fwww.suntoryglobalspirits.com%25252F%2526a%253Dwww.suntoryglobalspirits.com%26a%3Dwww.suntoryglobalspirits.com&amp;a=www.suntoryglobalspirits.com\" target=\"_blank\" rel=\"nofollow\">www.suntoryglobalspirits.com</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791741-1&amp;h=2379451602&amp;u=https%3A%2F%2Fwww.drinksmart.com&amp;a=www.drinksmart.com\" target=\"_blank\" rel=\"nofollow\">www.drinksmart.com</a>.</p><p><span>CONTACT: Rileigh Hallberg, Articulate<br></br><a href=\"mailto:suntory@toarticulate.com\" rel=\"nofollow\">suntory@toarticulate.com</a></span></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1986922/THE-HOUSE-OF-SUNTORY-LOGO.jpg?id=OA2992306\" title=\"The House of Suntory Logo\" alt=\"The House of Suntory Logo\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY65915&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-house-of-suntorys-yamazaki-25-years-old-awarded-trophy-in-the-japanese-whisky-category-at-international-spirits-challenge-2026-and-suntory-spirits-named-japanese-whisky-producer-of-the-year-302901296.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-house-of-suntorys-yamazaki-25-years-old-awarded-trophy-in-the-japanese-whisky-category-at-international-spirits-challenge-2026-and-suntory-spirits-named-japanese-whisky-producer-of-the-year-302901296.html</a></p><p>SOURCE Suntory Global Spirits</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY65915&amp;Transmission_Id=202610071100PR_NEWS_USPR_____NY65915&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Suntory Global Spirits",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "producer"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:21.833Z"
+    },
+    {
+      "company": [
+        "OptiSigns"
+      ],
+      "date": "20261007T150000+0000",
+      "dateline": "HOUSTON, Oct. 7, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MEN",
+        "IOT",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "OptiSigns logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1609138/msedge-UYVbuTWAgh-Logo-Logo.jpg?id=OA2992370&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1609138/msedge-UYVbuTWAgh-Logo-Logo.jpg?id=OA2992370&p=publish"
+        }
+      ],
+      "release_id": "20261007DA65939",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "SBS"
+      ],
+      "summary": "<p><i>Secure, centrally managed dashboard apps bring business data to the TVs teams already look at.</i></p><p><span class=\"legendSpanClass\">HOUSTON</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- OptiSigns, a digital signage company powering more than 200,000 screens worldwide, today announced expanded and enhanced dashboard apps, which now work with Microsoft Power BI, Salesforce, Tableau, Grafana, Databricks and more. Businesses can now show automatically updating  live dashboards on TV screens in offices, factories and operations centers.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1609138/msedge-UYVbuTWAgh-Logo-Logo.jpg?id=OA2992370\" title=\"OptiSigns logo\" alt=\"OptiSigns logo\"></img></p></div><p>Companies spend more than $70 billion a year on business intelligence software, according to HG Insights, yet research from BARC and Eckerson Group found only about a quarter of employees actively use BI tools. A 2016 meta-analysis of 138 studies published in Psychological Bulletin found that monitoring progress helps people achieve their goals, with greater benefits when progress is recorded or shared publicly. Getting dashboards onto shared screens can mean relying on manual screenshots, leaving account credentials on devices or publishing sensitive reports publicly.</p>",
+      "ticker": [],
+      "title": "OptiSigns Expands Secure TV Dashboard Apps for Power BI, Salesforce, Tableau, Grafana, Databricks and More",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007DA65939",
+      "body": "<p><i>Secure, centrally managed dashboard apps bring business data to the TVs teams already look at.</i></p><p><span class=\"legendSpanClass\">HOUSTON</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- OptiSigns, a digital signage company powering more than 200,000 screens worldwide, today announced expanded and enhanced dashboard apps, which now work with Microsoft Power BI, Salesforce, Tableau, Grafana, Databricks and more. Businesses can now show automatically updating  live dashboards on TV screens in offices, factories and operations centers.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1609138/msedge-UYVbuTWAgh-Logo-Logo.jpg?id=OA2992370\" title=\"OptiSigns logo\" alt=\"OptiSigns logo\"></img></p></div><p>Companies spend more than $70 billion a year on business intelligence software, according to HG Insights, yet research from BARC and Eckerson Group found only about a quarter of employees actively use BI tools. A 2016 meta-analysis of 138 studies published in Psychological Bulletin found that monitoring progress helps people achieve their goals, with greater benefits when progress is recorded or shared publicly. Getting dashboards onto shared screens can mean relying on manual screenshots, leaving account credentials on devices or publishing sensitive reports publicly.</p><p>With OptiSigns, companies connect their dashboard accounts once, pick a dashboard and assign it to one screen or many. The apps work with cloud and self-hosted platforms, personal or company accounts, and any number of teams. In Power BI, a single report can also show each location its own figures. For example, a retailer can use screen-specific filters to display each store's sales figures while managing one report centrally.</p><p>Dashboards rotate in playlists, run on schedules or share a split screen like any other OptiSigns content. Screens never hold the account's password or long-lived secrets, which stay encrypted on OptiSigns' servers.</p><p>\"When the numbers are on the wall, everyone sees the same picture at the same time,\" said Henry Le, chief executive officer at OptiSigns. \"Companies put real money into their dashboards, and then those dashboards sit on a few laptops. We made it simple to get that information in front of the whole team.\"</p><p>Dashboard apps are available today on the Pro Plus plan and higher. Plans start at $10 per screen per month. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791765-1&amp;h=1164480249&amp;u=https%3A%2F%2Fwww.optisigns.com%2F&amp;a=optisigns.com\" target=\"_blank\" rel=\"nofollow\">optisigns.com</a>.</p><p>About OptiSigns</p><p>OptiSigns is a Houston, Texas-based digital signage company that helps more than 36,000 businesses run content across over 200,000 screens worldwide. Its catalog of 160+ apps turns any TV into a live display for menus, schedules, social feeds and dashboards. Learn more at optisigns.com.</p><p>Media Contact: General Media, <a href=\"mailto:media@optisigns.com\" target=\"_blank\" rel=\"nofollow\">media@optisigns.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA65939&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/optisigns-expands-secure-tv-dashboard-apps-for-power-bi-salesforce-tableau-grafana-databricks-and-more-302901297.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/optisigns-expands-secure-tv-dashboard-apps-for-power-bi-salesforce-tableau-grafana-databricks-and-more-302901297.html</a></p><p>SOURCE OptiSigns</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA65939&amp;Transmission_Id=202610071100PR_NEWS_USPR_____DA65939&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "OptiSigns",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 1,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:22.178Z"
+    },
+    {
+      "company": [
+        "V2 Strategic Advisors"
+      ],
+      "date": "20261007T143000+0000",
+      "dateline": "MIAMI-FORT LAUDERDALE, Fla., Oct. 7, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "DTA",
+        "AFI",
+        "STW",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "V2 Strategic Advisors",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2003950/V2-Strategic-Advisors-Logo.jpg?id=OA2991533&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2003950/V2-Strategic-Advisors-Logo.jpg?id=OA2991533&p=publish"
+        }
+      ],
+      "release_id": "20261007FL65664",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>Media &amp; Ad Sales Expertise. Now Built on Databricks.</i></p><p><span class=\"legendSpanClass\">MIAMI-FORT LAUDERDALE, Fla.</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- V2 Strategic Advisors (\"V2\"), a boutique management and technology consulting firm specializing in data, analytics, and AI, today announced the formal launch of its Databricks practice. Leveraging the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=4240696856&amp;u=https%3A%2F%2Fwww.databricks.com%2Fproduct%2Fplatform&amp;a=Databricks+Data+%2B+AI+Platform\" target=\"_blank\" rel=\"nofollow\">Databricks Data + AI Platform</a>, this practice will bolster V2's ability to provide multi-platform management and technology consulting services to global and high-growth media and ad sales organizations. The announcement marks a natural evolution for V2, which has spent two decades in the trenches with some of the world's most sophisticated media and ad sales businesses. The firm now brings that hard-won expertise to a new frontier.</p>",
+      "ticker": [],
+      "title": "V2 Strategic Advisors Establishes Dedicated Databricks Practice to Transform Media &amp; Ad Sales Revenue Operations",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007FL65664",
+      "body": "<p><i>Media &amp; Ad Sales Expertise. Now Built on Databricks.</i></p><p><span class=\"legendSpanClass\">MIAMI-FORT LAUDERDALE, Fla.</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- V2 Strategic Advisors (\"V2\"), a boutique management and technology consulting firm specializing in data, analytics, and AI, today announced the formal launch of its Databricks practice. Leveraging the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=4240696856&amp;u=https%3A%2F%2Fwww.databricks.com%2Fproduct%2Fplatform&amp;a=Databricks+Data+%2B+AI+Platform\" target=\"_blank\" rel=\"nofollow\">Databricks Data + AI Platform</a>, this practice will bolster V2's ability to provide multi-platform management and technology consulting services to global and high-growth media and ad sales organizations. The announcement marks a natural evolution for V2, which has spent two decades in the trenches with some of the world's most sophisticated media and ad sales businesses. The firm now brings that hard-won expertise to a new frontier.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2003950/V2-Strategic-Advisors-Logo.jpg?id=OA2991533\" title=\"V2 Strategic Advisors\" alt=\"V2 Strategic Advisors\"></img></p></div><div id=\"divReleaseHighlight212b\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Media &amp; Ad Sales Expertise. Now Built on Databricks.</div><p><b>A Practice Born From Twenty Years in the Field</b></p><p>Media and ad sales organizations face a distinct and compounding set of challenges: fragmented data architectures, high-velocity transactional environments, evolving audience intelligence requirements, and mounting pressure to prove ROI across every dollar of ad spend. Generic technology solutions don't cut it. Institutional knowledge does.</p><p>As a boutique specialist, V2 has spent two decades leveraging best-in-class enterprise platforms to engineer data pipelines, optimize complex technology ecosystems, and guide Revenue Operations teams through multi-platform transformations. V2 is now channeling that depth into a new Databricks practice, enabling clients to unlock advanced analytics, real-time reporting, and AI-driven decisioning in an environment specifically designed for media and ad sales workflows.</p><p><b>Accelerating Revenue Operations: The V2 Databricks Approach</b></p><p>V2's Databricks practice answers a clear mandate: Accelerating Revenue Operations and Architecting Solutions for Media and Ad Sales, powered by Data, Analytics, and AI. In practice, this means helping clients consolidate fragmented data estates, build scalable analytics layers that surface actionable insights, and deploy AI features that augment the way revenue teams price, forecast, and activate.</p><p>V2's solutions built on the Databricks Data + AI Platform address the full spectrum of Revenue Operations complexity, from unifying siloed ad systems and CRM data into a coherent intelligence layer to building predictive models that inform financial and campaign performance. The result is a tighter feedback loop between data and revenue: faster decisions, fewer blind spots, and materially better outcomes for clients and their advertisers.</p><p>\"Twenty years ago, we founded V2 on the premise that velocity and voltage, speed and energy, define how great organizations move,\" says John Tanner, Founder and CEO of V2 Strategic Advisors. \"Our Databricks practice is the fullest expression of that premise yet. We're taking two decades of media and ad sales expertise and running it through one of the most powerful data and AI platforms on the market. For Revenue Operations teams ready to transform, the timing has never been better.\"</p><p><b>Why Databricks. Why V2. Why Now. </b></p><p>Databricks, the data and AI company, is the defining platform for enterprises looking to build and scale data and AI apps, analytics, and agents. For media and ad sales organizations, where data volume is high and decisioning cycles are short, that capability creates a competitive advantage.</p><p>V2's position at the intersection of deep media industry knowledge and advanced platform expertise makes the firm a natural partner for organizations navigating this transformation. As the consulting landscape shifts toward AI-native operations, V2's Databricks practice represents a deliberate choice: the firms that will define this next era are those that combine enterprise-grade technical capability with true subject-matter authority.</p><p>\"Solving complex challenges in media has always given us a competitive edge that transcends any single platform,\" says Joe Hooper, SVP of Architecture, Data &amp; Analytics at V2. \"Our Databricks practice doesn't just add a new tool to our kit; it gives our clients a new category of capability, grounded in our deep experience with media and ad sales organizations, and aimed squarely at what they need now.\" To read more about our Databricks story and practice, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=2328559269&amp;u=https%3A%2F%2Fwww.v2sa.com%2Fv2-databricks-what-weve-observed-a-year-into-our-databricks-journey-for-media-ad-sales%2F&amp;a=visit+us+here\" target=\"_blank\" rel=\"nofollow\">visit us here</a>. </p><p><b>About V2 Strategic Advisors</b></p><p>V2 Strategic Advisors (V2) is a boutique firm specializing in RevOps consulting that combines management consulting and technology consulting under one roof, built specifically for media and advertising sales organizations. We accelerate the prospect-to-cash flow for global and high-growth companies across publishing, broadcast &amp; streaming, sports, adtech, out-of-home, retail media, and beyond. Our work spans strategic roadmapping, process improvement, change management, and the hands-on implementation of the world's leading data, analytics, and AI platforms.</p><p>To learn more about V2's services, or to speak with a consultant about your Databricks challenges and opportunities, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=968190647&amp;u=http%3A%2F%2Fv2sa.com%2F&amp;a=v2sa.com\" target=\"_blank\" rel=\"nofollow\">v2sa.com</a> or email <a href=\"mailto:brett.carneiro@v2sa.com\" target=\"_blank\" rel=\"nofollow\">brett.carneiro@v2sa.com</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL65664&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/v2-strategic-advisors-establishes-dedicated-databricks-practice-to-transform-media--ad-sales-revenue-operations-302901223.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/v2-strategic-advisors-establishes-dedicated-databricks-practice-to-transform-media--ad-sales-revenue-operations-302901223.html</a></p><p>SOURCE V2 Strategic Advisors</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL65664&amp;Transmission_Id=202610071030PR_NEWS_USPR_____FL65664&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "V2 Strategic Advisors",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "ad sales"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:22.325Z"
+    },
+    {
+      "company": [
+        "Dolby Laboratories, Inc."
+      ],
+      "date": "20261007T130000+0000",
+      "dateline": "SAN FRANCISCO, Oct. 7, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "SSE",
+        "ENT",
+        "SPT",
+        "CSE",
+        "MEN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Today, Dolby and Apple announced that Dolby Atmos is coming to Formula 1® on Apple TV beginning with the 2026 U.S. Grand Prix™, joining Dolby Vision to deliver an even more immersive viewing experience. ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2003572/Dolby-and-Apple-announced-that-Dolby-Atmos-is-coming-to-Formula-1.jpg?id=OA2990526&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2003572/Dolby-and-Apple-announced-that-Dolby-Atmos-is-coming-to-Formula-1.jpg?id=OA2990526&p=publish"
+        },
+        {
+          "caption": "Dolby logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1090765/Dolby-Logo.jpg?id=OA2990522&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1090765/Dolby-Logo.jpg?id=OA2990522&p=publish"
+        }
+      ],
+      "release_id": "20261007SF65163",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>Experience every turn, overtake, and roar of the track with stunning picture and immersive sound, beginning with the Formula 1® MSC Cruises United States Grand Prix™ 2026 </i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Today, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=1890882520&amp;u=https%3A%2F%2Fwww.dolby.com%2F&amp;a=Dolby+Laboratories\" target=\"_blank\" rel=\"nofollow\">Dolby Laboratories</a> (NYSE: DLB) and Apple announced that Dolby Atmos is coming to Formula 1® on Apple TV<sup>1</sup> beginning with the 2026 U.S. Grand Prix™, joining Dolby Vision to deliver an even more immersive viewing experience. For the first time, fans in the U.S. with an Apple TV subscription will be able to experience every Formula 1 race weekend in both Dolby Vision and Dolby Atmos.</p>",
+      "ticker": [
+        "NYSE:DLB"
+      ],
+      "title": "Formula 1® on Apple TV to Debut in Dolby Atmos, Alongside Dolby Vision, Delivering a More Immersive Race Experience",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007SF65163",
+      "body": "<p class=\"prntac\"><i>Experience every turn, overtake, and roar of the track with stunning picture and immersive sound, beginning with the Formula 1® MSC Cruises United States Grand Prix™ 2026 </i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Today, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=1890882520&amp;u=https%3A%2F%2Fwww.dolby.com%2F&amp;a=Dolby+Laboratories\" target=\"_blank\" rel=\"nofollow\">Dolby Laboratories</a> (NYSE: DLB) and Apple announced that Dolby Atmos is coming to Formula 1® on Apple TV<sup>1</sup> beginning with the 2026 U.S. Grand Prix™, joining Dolby Vision to deliver an even more immersive viewing experience. For the first time, fans in the U.S. with an Apple TV subscription will be able to experience every Formula 1 race weekend in both Dolby Vision and Dolby Atmos.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2003572/Dolby-and-Apple-announced-that-Dolby-Atmos-is-coming-to-Formula-1.jpg?id=OA2990526\" title=\"Today, Dolby and Apple announced that Dolby Atmos is coming to Formula 1® on Apple TV beginning with the 2026 U.S. Grand Prix™, joining Dolby Vision to deliver an even more immersive viewing experience. \" alt=\"Today, Dolby and Apple announced that Dolby Atmos is coming to Formula 1® on Apple TV beginning with the 2026 U.S. Grand Prix™, joining Dolby Vision to deliver an even more immersive viewing experience. \"></img></p></div><p>Dolby Atmos puts fans at the heart of the action, surrounding them with the energy, drama, and emotion of Formula 1. From team radio communications and race commentary to the roar of the engines, on-track battles, and the intensity of the pit lane, Dolby Atmos brings the unmistakable sounds that define the sport to life.</p><p>Paired with Dolby Vision, fans can take in every detail of race weekend through richer colors, greater contrast, enhanced brightness, and lifelike clarity. From the vibrant liveries of each team to the atmosphere and character of Formula 1's most iconic circuits, Dolby Vision is the ultimate complement to the spectacular visuals that define Formula 1. Together, Dolby Vision and Dolby Atmos deliver a more immersive Formula 1 experience, bringing exceptional picture and sound together to capture the full intensity of the sport.</p><p>Formula 1 in Dolby Vision and Dolby Atmos is available through the Apple TV app on supported Apple devices and compatible Dolby-enabled TVs, soundbars, and home theater systems.</p><p>\"Formula 1 is one of the most captivating sports in the world, where every circuit, team, and race weekend has its own visual and sonic identity,\" said John Couling, Senior Vice President of Entertainment, Dolby Laboratories. \"Together, Dolby and Apple have redefined how audiences experience entertainment, from music to movies and TV. Now, with Dolby Atmos joining Dolby Vision for Formula 1 on Apple TV, we're setting a new bar for how fans experience the sights and sounds of the sport.\"</p><p>\"We're always looking for new ways to make Formula 1 on Apple TV even better for fans,\" said Oliver Schusser, Apple's vice president of Music, Sports, Apple TV, and Beats. \"The sound of Formula 1 is such an important part of what makes the sport so exciting, and with Dolby Atmos joining Dolby Vision, fans can experience the energy and intensity of every Grand Prix in a whole new way. It's another example of how we're continuing to innovate across the viewing experience to bring fans closer to the action.\"</p><p>For decades, Dolby has brought fans closer to the sports they love through innovations that make every moment more immersive and engaging. By capturing the emotion, excitement, and intensity of the action, Dolby helps recreate the feeling of being at a race. With Dolby Vision and Dolby Atmos, Formula 1 on Apple TV delivers an even more immersive race weekend, bringing the sights and sounds of the track to life in a whole new way.</p><p>Apple TV is the exclusive U.S. home of Formula 1, delivering every practice, qualifying, Sprint session, and race live and on demand. Subscribers get comprehensive coverage and analysis, expansive programming, exclusive original content, and every Grand Prix in stunning 4K with Dolby Vision, which launched at the start of the season. Viewers can also personalize how they follow the action with Multiview, including one-tap team layouts featuring the main broadcast and onboard feeds, as well as dedicated Podium and Data Multiviews with real-time race information. Fans can learn more about Formula 1 on Apple TV and subscribe <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=2106559885&amp;u=https%3A%2F%2Fapple.co%2Ff1onappletv&amp;a=HERE\" target=\"_blank\" rel=\"nofollow\">HERE</a>.</p><p>Experience Formula 1 in Dolby Atmos and Dolby Vision for the first time with the 2026 U.S. Grand Prix beginning Friday, October 23, exclusively on Apple TV.</p><p><b>About Dolby:</b> </p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=137854989&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4454828-1%26h%3D3850821718%26u%3Dhttps%253A%252F%252Fwww.dolby.com%252F%26a%3DDolby%2BLaboratories&amp;a=Dolby+Laboratories\" target=\"_blank\" rel=\"nofollow\">Dolby Laboratories</a> (NYSE: DLB) is a world leader in immersive entertainment. From movies and TV, to music, sports, gaming, and beyond, Dolby transforms the science of sight and sound into spectacular experiences for billions of people worldwide across all their favorite devices. We partner with artists, storytellers, and the brands you love to transform entertainment and digital experiences through groundbreaking innovations like <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=346531418&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4454828-1%26h%3D3751588494%26u%3Dhttps%253A%252F%252Fwww.dolby.com%252Ftechnologies%252Fdolby-atmos%252F%26a%3DDolby%2BAtmos&amp;a=Dolby+Atmos\" target=\"_blank\" rel=\"nofollow\">Dolby Atmos</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=2834671077&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4454828-1%26h%3D4020048669%26u%3Dhttps%253A%252F%252Fwww.dolby.com%252Ftechnologies%252Fdolby-vision%252F%26a%3DDolby%2BVision&amp;a=Dolby+Vision\" target=\"_blank\" rel=\"nofollow\">Dolby Vision</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=289151638&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4454828-1%26h%3D1569343605%26u%3Dhttps%253A%252F%252Fwww.dolby.com%252Fmovies-tv%252Fcinema%26a%3DDolby%2BCinema&amp;a=Dolby%C2%A0Cinema\" target=\"_blank\" rel=\"nofollow\">Dolby Cinema</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791005-1&amp;h=4199131773&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4454828-1%26h%3D2884406691%26u%3Dhttps%253A%252F%252Foptiview.dolby.com%252F%26a%3DDolby%2BOptiView&amp;a=Dolby+OptiView\" target=\"_blank\" rel=\"nofollow\">Dolby OptiView</a>.</p><p><i>Dolby, Dolby Vision, Dolby Atmos, Dolby Cinema, Dolby OptiView and the double-D symbol are trademarks or registered trademarks of Dolby Laboratories Licensing Corporation in the United States and/or other countries. Other trademarks are the property of their respective owners.</i></p><p>1. To watch F1 on Apple TV, viewers are required to have a U.S. Apple TV subscription. An Apple TV subscription does not include third-party branded subscription services, or content available for rental or purchase in the Apple TV app.</p><p><b>Media Contacts:</b></p><p><b>Dolby<br></br></b>Cairon \"Jamie\" Armstrong<br></br><a href=\"mailto:Cairon.Armstrong@dolby.com\" target=\"_blank\" rel=\"nofollow\">Cairon.Armstrong@dolby.com</a></p><p>Andrea Villarreal<br></br><a href=\"mailto:Andrea.Villarreal@dolby.com\" target=\"_blank\" rel=\"nofollow\">Andrea.Villarreal@dolby.com</a> </p><p><b>Apple<br></br></b>Sam Citron<br></br><a href=\"mailto:citron@apple.com\" target=\"_blank\" rel=\"nofollow\">citron@apple.com</a> </p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1090765/Dolby-Logo.jpg?id=OA2990522\" title=\"Dolby logo\" alt=\"Dolby logo\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF65163&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/formula-1-on-apple-tv-to-debut-in-dolby-atmos-alongside-dolby-vision-delivering-a-more-immersive-race-experience-302900851.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/formula-1-on-apple-tv-to-debut-in-dolby-atmos-alongside-dolby-vision-delivering-a-more-immersive-race-experience-302900851.html</a></p><p>SOURCE Dolby Laboratories, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF65163&amp;Transmission_Id=202610070900PR_NEWS_USPR_____SF65163&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Dolby Laboratories, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "industry:ENT"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:22.466Z"
+    },
+    {
+      "company": [
+        "American Foundation for Suicide Prevention"
+      ],
+      "date": "20261007T120000+0000",
+      "dateline": "NEW YORK, Oct. 7, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MNH",
+        "RAD",
+        "MTC",
+        "USN",
+        "HEA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "American Foundation for Suicide Prevention Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS435914/American-Foundation-for-Suicide-Prevention-Logo.jpg?id=OA2991278&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS435914/American-Foundation-for-Suicide-Prevention-Logo.jpg?id=OA2991278&p=publish"
+        }
+      ],
+      "release_id": "20261007PH65541",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT",
+        "LGB"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Conversations around suicide and mental health are often brushed off in our culture, leaving many with feelings of isolation and helplessness and fears around being judged. The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=2663107413&amp;u=https%3A%2F%2Fafsp.org%2F&amp;a=American+Foundation+for+Suicide+Prevention+(AFSP)\" target=\"_blank\" rel=\"nofollow\">American Foundation for Suicide Prevention (AFSP)</a> addresses this head-on, launching a new season of its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=386419608&amp;u=https%3A%2F%2Fstrongtalkpod.buzzsprout.com%2F2121038%2Fepisodes&amp;a=podcast+channel\" target=\"_blank\" rel=\"nofollow\">podcast channel</a> where mental health experts and those with their own personal experiences related to mental health and suicide have honest, authentic, and open conversations, sharing insights from real people and communities, as well as the field's latest scientific developments and research.</p>",
+      "ticker": [],
+      "title": "Raw, Real, and Research-Informed Podcasts Tackle the Science and Hard Conversations Around Suicide and Mental Health",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007PH65541",
+      "body": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Conversations around suicide and mental health are often brushed off in our culture, leaving many with feelings of isolation and helplessness and fears around being judged. The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=2663107413&amp;u=https%3A%2F%2Fafsp.org%2F&amp;a=American+Foundation+for+Suicide+Prevention+(AFSP)\" target=\"_blank\" rel=\"nofollow\">American Foundation for Suicide Prevention (AFSP)</a> addresses this head-on, launching a new season of its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=386419608&amp;u=https%3A%2F%2Fstrongtalkpod.buzzsprout.com%2F2121038%2Fepisodes&amp;a=podcast+channel\" target=\"_blank\" rel=\"nofollow\">podcast channel</a> where mental health experts and those with their own personal experiences related to mental health and suicide have honest, authentic, and open conversations, sharing insights from real people and communities, as well as the field's latest scientific developments and research.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS435914/American-Foundation-for-Suicide-Prevention-Logo.jpg?id=OA2991278\" title=\"American Foundation for Suicide Prevention Logo\" alt=\"American Foundation for Suicide Prevention Logo\"></img></p></div><p>Officially <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=154313135&amp;u=https%3A%2F%2Fafsp.org%2Fstory%2Fafsp-podcast-series-launches-with-new-conversations-on-research-health-equity&amp;a=launched\" target=\"_blank\" rel=\"nofollow\">launched</a> in December 2025, the AFSP Podcast Channel is entering its second season. In new episodes of <i>Ask Dr. Jill</i>, <i>Strong Talk</i>, and <i>Elevating Voices</i>, listeners can expect to learn about the latest research in the field, hear from changemakers who are reshaping mental healthcare, and have their real mental health and suicide-related questions answered by researchers, advocates, and licensed mental health professionals.</p><p><b>Season two's kickoff episodes in October:</b></p><ul type=\"disc\"><li><i>Ask Dr. Jill</i>, <u>\"</u><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=1750048244&amp;u=https%3A%2F%2Fyoutu.be%2FrJsG2gVSq4E%3Fsi%3DDi-81BDO3ZKZyLeL&amp;a=What+Can+We+Do+to+Prevent+Physician+Suicide%3F%22\" target=\"_blank\" rel=\"nofollow\">What Can We Do to Prevent Physician Suicide?\"</a>: Host Dr. Jill Harkavy-Friedman and Corey Feist, co-founder &amp; CEO of the Dr. Lorna Breen Foundation, discuss the problem of physician suicide: the causes, the impact, and what we can do to prevent it</li><li><i>Strong Talk, </i>next episode airing Oct. 21: Host Vic Armstrong has a candid conversation with Gemma Correll, bestselling author and graphic novelist (<i>Anxietyland</i>), known for integrating humor into their story of living with and navigating anxiety and depression</li></ul><p><b>What's in store this season:</b></p><ul type=\"disc\"><li>Dr. Lynnette A. Averill, a researcher specializing in psychedelics and their potential applications in mental health, on <b>what research says about mental health and the use of psychedelics</b></li><li>Megan McCoy, CFT™, LMFT, and PhD, on the connection between <b>personal finances and mental health</b> – and how people can manage their emotions related to financial stress</li><li>Faye Seidler, LGBTQ+ suicide prevention advocate, on <b>trans and LGBTQ+ suicide prevention</b> and access to care in local communities</li><li>Vikram Patel, co-director of Harvard's Mental Health for All Lab, on what must be done to provide <b>mental healthcare support care in low-resource settings</b></li><li>Dr. Ellie Foster, the co-director of Education for the Kevin Love Fund, on <b>the role public figures and athletes play in empowering youth to explore vulnerability</b> and have honest mental health conversations</li><li><b>Cultural considerations of mental health and suicide prevention</b> in diverse communities</li></ul><p>\"We will be having conversations that combine real world experiences and research findings and offer our audience actionable content,\" said Dr. Jill Harkavy-Friedman, the host of <i>Ask Dr. Jill </i>and AFSP senior vice president of Research. \"The new season invites listeners to meet and learn from interesting people who are changing the way we access mental health resources, making them more accessible to all,\" said Vic Armstrong, the host of <i>Strong Talk</i> and <i>Elevating Voices</i> and AFSP VP for Health Equity and Engagement.</p><p><b>The AFSP Podcast Channel houses the following shows:</b></p><p><b><i>Strong Talk</i></b> is hosted by Vic Armstrong, AFSP's vice president for Health Equity and Engagement. Each episode features conversations with experts, advocates, and changemakers about how they're reshaping mental healthcare to make it accessible to all. The show covers topical issues that affect the mental health of various communities.</p><p><b><i>Elevating Voices </i></b>is a roundtable discussion series where we bring together leaders from diverse communities to understand the unique mental health experiences they face and explore the ways we can all help to support and amplify progress.</p><p><b><i>Ask Dr. Jill</i></b> features Dr. Jill Harkavy-Friedman, AFSP's senior vice president of Research, answering urgent and real mental health questions with the latest scientific research and conversations with fellow experts in the field.</p><p>Visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=278866478&amp;u=https%3A%2F%2Fafsp.org%2Fpodcasts&amp;a=afsp.org%2Fpodcasts\" target=\"_blank\" rel=\"nofollow\">afsp.org/podcasts</a> to learn more.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=1673467543&amp;u=https%3A%2F%2Fafsp.org%2F&amp;a=The+American+Foundation+for+Suicide+Prevention\" target=\"_blank\" rel=\"nofollow\">The American Foundation for Suicide Prevention</a> is dedicated to saving lives and bringing hope to those affected by suicide, including those who have experienced a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=4010602766&amp;u=https%3A%2F%2Fafsp.org%2Five-lost-someone%2F&amp;a=loss\" target=\"_blank\" rel=\"nofollow\">loss</a>. AFSP creates a culture that's smart about mental health through public education and community programs, develops suicide prevention through research and advocacy, and provides support for those affected by suicide. Led by CEO Robert Gebbia and headquartered in New York, with its Policy and Advocacy Office in Washington, D.C., AFSP has local chapters in all 50 states, D.C., and Puerto Rico, with programs and events nationwide. Learn more about AFSP in its latest <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=277902947&amp;u=https%3A%2F%2Fannual2025.afsp.org%2F&amp;a=Annual+Report\" target=\"_blank\" rel=\"nofollow\">Annual Report</a> and join the conversation on suicide prevention by following AFSP on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=1887161593&amp;u=https%3A%2F%2Fwww.facebook.com%2FAFSPnational&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=2832293018&amp;u=https%3A%2F%2Fx.com%2Fafspnational&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=2971771626&amp;u=https%3A%2F%2Fwww.instagram.com%2Fafspnational&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=1460433419&amp;u=https%3A%2F%2Fwww.youtube.com%2Fafspnational&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=3557802322&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fafspnational%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=1270529458&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40afspnational&amp;a=TikTok\" target=\"_blank\" rel=\"nofollow\">TikTok</a>.</p><p>The American Foundation for Suicide Prevention and The Jed Foundation (JED) intend to merge as equals to form AFSP/JED, the nation's largest nonprofit dedicated to preventing suicide across the lifespan, and bringing hope to those affected by suicide loss or risk. The AFSP/JED mission would reflect a commitment to bring together AFSP's research, advocacy, chapter network, and loss-support expertise with JED's comprehensive approach to suicide prevention and evidence-informed youth mental health programs, creating greater scale, reach, and impact at a time of urgent national need. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=4149095410&amp;u=https%3A%2F%2Fafsp.org%2Fstory%2Famerican-foundation-for-suicide-prevention-and-the-jed-foundation-announce-intent&amp;a=Read+more+about+our+recent+announcement.\" target=\"_blank\" rel=\"nofollow\">Read more about our recent announcement.</a> </p><p>Media interested in speaking with AFSP on this news are encouraged to fill out this <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=4293308318&amp;u=https%3A%2F%2Fforms.monday.com%2Fforms%2F629e72bbf56c12f39f11ea182a156952%3Fr%3Duse1&amp;a=press+request+form\" target=\"_blank\" rel=\"nofollow\">press request form</a> and explore AFSP's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791363-1&amp;h=1954792642&amp;u=https%3A%2F%2Fstorytelling.afsp.org%2Ffor-journalists-and-newsroom&amp;a=Safe+Storytelling+Studio\" target=\"_blank\" rel=\"nofollow\">Safe Storytelling Studio</a> for ethical reporting guidance.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH65541&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/raw-real-and-research-informed-podcasts-tackle-the-science-and-hard-conversations-around-suicide-and-mental-health-302900586.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/raw-real-and-research-informed-podcasts-tackle-the-science-and-hard-conversations-around-suicide-and-mental-health-302900586.html</a></p><p>SOURCE American Foundation for Suicide Prevention</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH65541&amp;Transmission_Id=202610070800PR_NEWS_USPR_____PH65541&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "American Foundation for Suicide Prevention",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 6,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "podcasts",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:22.636Z"
+    },
+    {
+      "company": [
+        "Great American Media"
+      ],
+      "date": "20261007T110000+0000",
+      "dateline": "NEW YORK, Oct. 7, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "ENT",
+        "FLM",
+        "ADV",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Harry Lang joins Great American Media as Senior Vice President of Product, bringing more than 20 years of product leadership experience to advance the viewer experience and digital growth of Great American Pure Flix and GFAM+.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2003767/Great-American-Media-Harry-Lang_2026.jpg?id=OA2991096&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2003767/Great-American-Media-Harry-Lang_2026.jpg?id=OA2991096&p=publish"
+        },
+        {
+          "caption": "Great American Media",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1526612/Great-American-Media-Logo-600-pixels-Logo.jpg?id=OA2991083&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1526612/Great-American-Media-Logo-600-pixels-Logo.jpg?id=OA2991083&p=publish"
+        }
+      ],
+      "release_id": "20261007DA65447",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER",
+        "PDT"
+      ],
+      "summary": "<p><i>Veteran streaming executive to lead product vision and strategy for Great American Pure Flix and GFam+</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Great American Media announced that <b>Harry Lang </b>has joined the company as Senior Vice President of Product. Lang will lead product strategy and development for the company's subscription streaming services, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=697240659&amp;u=https%3A%2F%2Fwww.pureflix.com%2F&amp;a=Great+American+Pure+Flix\" target=\"_blank\" rel=\"nofollow\">Great American Pure Flix</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=3785519552&amp;u=https%3A%2F%2Fapp.gfamplus.com%2F&amp;a=GFam%2B\" target=\"_blank\" rel=\"nofollow\">GFam+</a>, with responsibility for enhancing the viewer experience and supporting the continued growth of both platforms.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2003767/Great-American-Media-Harry-Lang_2026.jpg?id=OA2991096\" title=\"Harry Lang joins Great American Media as Senior Vice President of Product, bringing more than 20 years of product leadership experience to advance the viewer experience and digital growth of Great American Pure Flix and GFAM+.\" alt=\"Harry Lang joins Great American Media as Senior Vice President of Product, bringing more than 20 years of product leadership experience to advance the viewer experience and digital growth of Great American Pure Flix and GFAM+.\"></img></p></div><div id=\"divReleaseHighlightc00f\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Great American Media welcomes Harry Lang as SVP of Product, leading strategy and growth for Pure Flix and GFAM+.</div>",
+      "ticker": [],
+      "title": "Great American Media Names Harry Lang Senior Vice President of Product",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007DA65447",
+      "body": "<p><i>Veteran streaming executive to lead product vision and strategy for Great American Pure Flix and GFam+</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- Great American Media announced that <b>Harry Lang </b>has joined the company as Senior Vice President of Product. Lang will lead product strategy and development for the company's subscription streaming services, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=697240659&amp;u=https%3A%2F%2Fwww.pureflix.com%2F&amp;a=Great+American+Pure+Flix\" target=\"_blank\" rel=\"nofollow\">Great American Pure Flix</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=3785519552&amp;u=https%3A%2F%2Fapp.gfamplus.com%2F&amp;a=GFam%2B\" target=\"_blank\" rel=\"nofollow\">GFam+</a>, with responsibility for enhancing the viewer experience and supporting the continued growth of both platforms.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2003767/Great-American-Media-Harry-Lang_2026.jpg?id=OA2991096\" title=\"Harry Lang joins Great American Media as Senior Vice President of Product, bringing more than 20 years of product leadership experience to advance the viewer experience and digital growth of Great American Pure Flix and GFAM+.\" alt=\"Harry Lang joins Great American Media as Senior Vice President of Product, bringing more than 20 years of product leadership experience to advance the viewer experience and digital growth of Great American Pure Flix and GFAM+.\"></img></p></div><div id=\"divReleaseHighlightc00f\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Great American Media welcomes Harry Lang as SVP of Product, leading strategy and growth for Pure Flix and GFAM+.</div><p>\"Harry understands how to build streaming products that serve audiences well and create lasting engagement,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=3085476544&amp;u=https%3A%2F%2Fwww.gacmedia.com%2Fkaitlyn-haubrich%2F&amp;a=Kaitlyn+Haubrich\" target=\"_blank\" rel=\"nofollow\">Kaitlyn Haubrich</a>, Chief of Staff and Chief Brand Officer for Great American Media. \"His experience, technical knowledge and strong understanding of the consumer will be valuable as we continue investing in Great American Pure Flix and GFam+. We are pleased to welcome Harry to the team and look forward to his leadership as we strengthen the experience we provide our viewers.\"</p><p>\"Great American Media has a clear purpose, a loyal audience and an exciting opportunity for continued growth,\" said Lang. \"I look forward to working with Bill, Kaitlyn and the entire leadership team to make it easier for viewers to discover the programming they love, deepen their engagement with our services and ensure the product experience reflects the trust audiences have placed in the Great American Media brand.\"</p><p>Lang is an experienced product executive who has led strategy, development and execution across major streaming and entertainment platforms. Throughout his career, he has worked closely with engineering, design, data and marketing teams to develop consumer products for audiences at scale. He also brings experience incorporating emerging technologies and AI-assisted development into the product development process.</p><p>Lang spent 14 years at Paramount Pictures in the company's interactive and global games division before joining Hallmark Media, where he served for six years as Vice President of Product and led product development for the company's direct-to-consumer streaming service. He later returned to Paramount, most recently overseeing product for Paramount-owned Pluto TV.</p><p>In his new role, Lang will work closely with Great American Media's leadership and technology teams to improve content discovery, strengthen audience engagement and advance the streaming experience across Great American Pure Flix and GFam+.</p><p>Great American Media is home to a portfolio of family and faith-based entertainment brands, including Great American Family, Great American Faith &amp; Living, Great American Pure Flix and GFam+. The company continues to expand its original programming, live events and subscription streaming offerings, providing audiences with entertainment that celebrates faith, family and country.</p><p><b><u>ABOUT GREAT AMERICAN MEDIA<br></br></u></b>Great American Media is the leader in faith and family entertainment, and one of the fastest-growing entertainment networks on television. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=3530917865&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow\">Great American Media</a> is home to a portfolio of entertainment brands that celebrate faith, family, and country, including <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=2924208560&amp;u=https%3A%2F%2Fwww.greatamericanfamily.com%2F&amp;a=Great+American+Family\" target=\"_blank\" rel=\"nofollow\">Great American Family</a>, the flagship linear network featuring original Christmas movies, rom-coms, and beloved series; <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=697240659&amp;u=https%3A%2F%2Fwww.pureflix.com%2F&amp;a=Great+American+Pure+Flix\" target=\"_blank\" rel=\"nofollow\">Great American Pure Flix</a>, the leading faith and family streaming service; <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=1367241048&amp;u=https%3A%2F%2Fwww.greatamericanliving.tv%2F&amp;a=Great+American+Faith+%26+Living\" target=\"_blank\" rel=\"nofollow\">Great American Faith &amp; Living</a>, the unscripted companion network; and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=3785519552&amp;u=https%3A%2F%2Fapp.gfamplus.com%2F&amp;a=GFam%2B\" target=\"_blank\" rel=\"nofollow\">GFam+</a>, an app that lets viewers watch anytime, anywhere. Great American Media, established in June 2021 by Bill Abbott and a group of US-based family offices, is available via cable, streaming on Pure Flix and YouTube TV, and on the GFam+ app.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791264-1&amp;h=3496193636&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F2026%2F04%2F08%2Fgreat-american-media-partners-with-minivela-to-develop-and-distribute-micro-drama-slate-for-u-s-hispanic-and-latin-american-audiences%2F&amp;a=Pure+Flix+Familia\" target=\"_blank\" rel=\"nofollow\">Pure Flix Familia</a> is a soon-to-launch Spanish-language streaming platform featuring faith- and family-centered films, series, and original programming created for Latino audiences. Through culturally relevant storytelling and collaborations with established and emerging Latino creators, Pure Flix Familia aims to become a trusted entertainment destination where families can discover uplifting stories that reflect their faith, values, and experiences.</p><p><b><u>MEDIA CONTACTS:<br></br></u></b>Debbie Davis<br></br>O: 512-537-1414<br></br>E: <a href=\"mailto:media@crosswindpr.com\" target=\"_blank\" rel=\"nofollow\">media@crosswindpr.com</a></p><p>Thomas Graham<br></br>C: <u>512.294.7111</u><br></br>E: <a href=\"mailto:media@crosswindpr.com\" target=\"_blank\" rel=\"nofollow\">media@crosswindpr.com</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1526612/Great-American-Media-Logo-600-pixels-Logo.jpg?id=OA2991083\" title=\"Great American Media\" alt=\"Great American Media\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA65447&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/great-american-media-names-harry-lang-senior-vice-president-of-product-302900599.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/great-american-media-names-harry-lang-senior-vice-president-of-product-302900599.html</a></p><p>SOURCE Great American Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA65447&amp;Transmission_Id=202610070700PR_NEWS_USPR_____DA65447&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Great American Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 2,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 11,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "management": [
+            "vice president",
+            "names",
+            "summary:joins",
+            "summary:executive",
+            "president"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 3,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:22.809Z"
+    },
     {
       "company": [
         "Get Engaged"

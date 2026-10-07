@@ -1,11 +1,90 @@
 {
-  "generated_at": "2026-10-07T09:08:09.920Z",
+  "generated_at": "2026-10-07T16:32:19.057Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 60,
+  "count": 61,
   "releases": [
+    {
+      "company": [
+        "V2 Strategic Advisors"
+      ],
+      "date": "20261007T143000+0000",
+      "dateline": "MIAMI-FORT LAUDERDALE, Fla., Oct. 7, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "DTA",
+        "AFI",
+        "STW",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "V2 Strategic Advisors",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2003950/V2-Strategic-Advisors-Logo.jpg?id=OA2991533&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2003950/V2-Strategic-Advisors-Logo.jpg?id=OA2991533&p=publish"
+        }
+      ],
+      "release_id": "20261007FL65664",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>Media &amp; Ad Sales Expertise. Now Built on Databricks.</i></p><p><span class=\"legendSpanClass\">MIAMI-FORT LAUDERDALE, Fla.</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- V2 Strategic Advisors (\"V2\"), a boutique management and technology consulting firm specializing in data, analytics, and AI, today announced the formal launch of its Databricks practice. Leveraging the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=4240696856&amp;u=https%3A%2F%2Fwww.databricks.com%2Fproduct%2Fplatform&amp;a=Databricks+Data+%2B+AI+Platform\" target=\"_blank\" rel=\"nofollow\">Databricks Data + AI Platform</a>, this practice will bolster V2's ability to provide multi-platform management and technology consulting services to global and high-growth media and ad sales organizations. The announcement marks a natural evolution for V2, which has spent two decades in the trenches with some of the world's most sophisticated media and ad sales businesses. The firm now brings that hard-won expertise to a new frontier.</p>",
+      "ticker": [],
+      "title": "V2 Strategic Advisors Establishes Dedicated Databricks Practice to Transform Media &amp; Ad Sales Revenue Operations",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007FL65664",
+      "body": "<p><i>Media &amp; Ad Sales Expertise. Now Built on Databricks.</i></p><p><span class=\"legendSpanClass\">MIAMI-FORT LAUDERDALE, Fla.</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- V2 Strategic Advisors (\"V2\"), a boutique management and technology consulting firm specializing in data, analytics, and AI, today announced the formal launch of its Databricks practice. Leveraging the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=4240696856&amp;u=https%3A%2F%2Fwww.databricks.com%2Fproduct%2Fplatform&amp;a=Databricks+Data+%2B+AI+Platform\" target=\"_blank\" rel=\"nofollow\">Databricks Data + AI Platform</a>, this practice will bolster V2's ability to provide multi-platform management and technology consulting services to global and high-growth media and ad sales organizations. The announcement marks a natural evolution for V2, which has spent two decades in the trenches with some of the world's most sophisticated media and ad sales businesses. The firm now brings that hard-won expertise to a new frontier.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2003950/V2-Strategic-Advisors-Logo.jpg?id=OA2991533\" title=\"V2 Strategic Advisors\" alt=\"V2 Strategic Advisors\"></img></p></div><div id=\"divReleaseHighlight212b\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Media &amp; Ad Sales Expertise. Now Built on Databricks.</div><p><b>A Practice Born From Twenty Years in the Field</b></p><p>Media and ad sales organizations face a distinct and compounding set of challenges: fragmented data architectures, high-velocity transactional environments, evolving audience intelligence requirements, and mounting pressure to prove ROI across every dollar of ad spend. Generic technology solutions don't cut it. Institutional knowledge does.</p><p>As a boutique specialist, V2 has spent two decades leveraging best-in-class enterprise platforms to engineer data pipelines, optimize complex technology ecosystems, and guide Revenue Operations teams through multi-platform transformations. V2 is now channeling that depth into a new Databricks practice, enabling clients to unlock advanced analytics, real-time reporting, and AI-driven decisioning in an environment specifically designed for media and ad sales workflows.</p><p><b>Accelerating Revenue Operations: The V2 Databricks Approach</b></p><p>V2's Databricks practice answers a clear mandate: Accelerating Revenue Operations and Architecting Solutions for Media and Ad Sales, powered by Data, Analytics, and AI. In practice, this means helping clients consolidate fragmented data estates, build scalable analytics layers that surface actionable insights, and deploy AI features that augment the way revenue teams price, forecast, and activate.</p><p>V2's solutions built on the Databricks Data + AI Platform address the full spectrum of Revenue Operations complexity, from unifying siloed ad systems and CRM data into a coherent intelligence layer to building predictive models that inform financial and campaign performance. The result is a tighter feedback loop between data and revenue: faster decisions, fewer blind spots, and materially better outcomes for clients and their advertisers.</p><p>\"Twenty years ago, we founded V2 on the premise that velocity and voltage, speed and energy, define how great organizations move,\" says John Tanner, Founder and CEO of V2 Strategic Advisors. \"Our Databricks practice is the fullest expression of that premise yet. We're taking two decades of media and ad sales expertise and running it through one of the most powerful data and AI platforms on the market. For Revenue Operations teams ready to transform, the timing has never been better.\"</p><p><b>Why Databricks. Why V2. Why Now. </b></p><p>Databricks, the data and AI company, is the defining platform for enterprises looking to build and scale data and AI apps, analytics, and agents. For media and ad sales organizations, where data volume is high and decisioning cycles are short, that capability creates a competitive advantage.</p><p>V2's position at the intersection of deep media industry knowledge and advanced platform expertise makes the firm a natural partner for organizations navigating this transformation. As the consulting landscape shifts toward AI-native operations, V2's Databricks practice represents a deliberate choice: the firms that will define this next era are those that combine enterprise-grade technical capability with true subject-matter authority.</p><p>\"Solving complex challenges in media has always given us a competitive edge that transcends any single platform,\" says Joe Hooper, SVP of Architecture, Data &amp; Analytics at V2. \"Our Databricks practice doesn't just add a new tool to our kit; it gives our clients a new category of capability, grounded in our deep experience with media and ad sales organizations, and aimed squarely at what they need now.\" To read more about our Databricks story and practice, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=2328559269&amp;u=https%3A%2F%2Fwww.v2sa.com%2Fv2-databricks-what-weve-observed-a-year-into-our-databricks-journey-for-media-ad-sales%2F&amp;a=visit+us+here\" target=\"_blank\" rel=\"nofollow\">visit us here</a>. </p><p><b>About V2 Strategic Advisors</b></p><p>V2 Strategic Advisors (V2) is a boutique firm specializing in RevOps consulting that combines management consulting and technology consulting under one roof, built specifically for media and advertising sales organizations. We accelerate the prospect-to-cash flow for global and high-growth companies across publishing, broadcast &amp; streaming, sports, adtech, out-of-home, retail media, and beyond. Our work spans strategic roadmapping, process improvement, change management, and the hands-on implementation of the world's leading data, analytics, and AI platforms.</p><p>To learn more about V2's services, or to speak with a consultant about your Databricks challenges and opportunities, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4791487-1&amp;h=968190647&amp;u=http%3A%2F%2Fv2sa.com%2F&amp;a=v2sa.com\" target=\"_blank\" rel=\"nofollow\">v2sa.com</a> or email <a href=\"mailto:brett.carneiro@v2sa.com\" target=\"_blank\" rel=\"nofollow\">brett.carneiro@v2sa.com</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL65664&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/v2-strategic-advisors-establishes-dedicated-databricks-practice-to-transform-media--ad-sales-revenue-operations-302901223.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/v2-strategic-advisors-establishes-dedicated-databricks-practice-to-transform-media--ad-sales-revenue-operations-302901223.html</a></p><p>SOURCE V2 Strategic Advisors</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL65664&amp;Transmission_Id=202610071030PR_NEWS_USPR_____FL65664&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "V2 Strategic Advisors",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 5,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "ad sales"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-07T16:32:22.325Z"
+    },
     {
       "company": [
         "pubX"
