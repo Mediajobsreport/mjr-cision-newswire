@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-10-07T21:36:54.199Z",
+  "generated_at": "2026-10-08T01:21:45.970Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 62,
+  "count": 63,
   "releases": [
+    {
+      "company": [
+        "FouAnalytics"
+      ],
+      "date": "20261007T215100+0000",
+      "dateline": "NEW YORK and MUNICH, Oct. 7, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "GMY",
+        "WEU",
+        "EUR"
+      ],
+      "industry": [
+        "ECM",
+        "CPR",
+        "DTA",
+        "ADV",
+        "AFI",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "FouAnalytics UNLIMITED ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1965671/FouAnalytics-Unlimited.jpg?id=OA2993203&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1965671/FouAnalytics-Unlimited.jpg?id=OA2993203&p=publish"
+        }
+      ],
+      "release_id": "20261007DE66292",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p><i>Longtime partners in independent ad-quality measurement add an AI agent that automatically recovers wasted Google Ads spend for brand advertisers, globally. </i></p><p><span class=\"legendSpanClass\">NEW YORK and MUNICH</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- FouAnalytics, the independent analytics platform for digital ads, websites and mobile apps, today announced a deeper partnership with fraud0 to bring their world-first AI agent for automated ad refunds to the world's largest advertisers.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1965671/FouAnalytics-Unlimited.jpg?id=OA2993203\" title=\"FouAnalytics UNLIMITED \" alt=\"FouAnalytics UNLIMITED \"></img></p></div><p>FouAnalytics and fraud0 have been providing independent traffic and ad quality analytics to advertisers for their websites and programmatic ads, respectively. But Google Ads remained a black box, because Google's policies prohibited all third party measurement instrumentation on their platforms – e.g. search ads, YouTube ads, PMax, etc. Other legacy verification vendors, that claimed to do measurement on these platforms, were just given data on invalid traffic, viewability, and brand safety by Google, without actually having javascript tags instrumented on the platforms to collect data themselves.</p>",
+      "ticker": [],
+      "title": "FouAnalytics and fraud0 Partner to Bring Automated Google Ads Refunds to the World's Largest Advertisers",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261007DE66292",
+      "body": "<p><i>Longtime partners in independent ad-quality measurement add an AI agent that automatically recovers wasted Google Ads spend for brand advertisers, globally. </i></p><p><span class=\"legendSpanClass\">NEW YORK and MUNICH</span>, <span class=\"legendSpanClass\">Oct. 7, 2026</span> /PRNewswire/ -- FouAnalytics, the independent analytics platform for digital ads, websites and mobile apps, today announced a deeper partnership with fraud0 to bring their world-first AI agent for automated ad refunds to the world's largest advertisers.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1965671/FouAnalytics-Unlimited.jpg?id=OA2993203\" title=\"FouAnalytics UNLIMITED \" alt=\"FouAnalytics UNLIMITED \"></img></p></div><p>FouAnalytics and fraud0 have been providing independent traffic and ad quality analytics to advertisers for their websites and programmatic ads, respectively. But Google Ads remained a black box, because Google's policies prohibited all third party measurement instrumentation on their platforms – e.g. search ads, YouTube ads, PMax, etc. Other legacy verification vendors, that claimed to do measurement on these platforms, were just given data on invalid traffic, viewability, and brand safety by Google, without actually having javascript tags instrumented on the platforms to collect data themselves.</p><p>\"This partnership marks a milestone in advancing greater transparency and accountability in Google Ads, enabling advertisers to recover losses from invalid traffic, false clicks, out-of-compliance ads, billing errors and platform overcharges,\" said Dr. Augustine Fou. \"fraud0's AI for Google Ads Refunds makes this easy for advertisers to activate, and is the first to recover advertisers' refunds at scale.\"</p><p class=\"prnml40\"><i>\"Pharmaceutical company Uriach used fraud0 AI for Google Ads Refunds to recover $28,000 in Google Ads spend in just three months.\"</i></p><p>Large advertisers spend billions of dollars every year on Google Ads. A portion of that investment is known to be lost to invalid clicks. Identifying these losses is one challenge. Recovering them is another. fraud0's AI for Google Ads Refunds has already audited more than $2 billion in digital advertising spend and is trusted by businesses across every industry, including leading advertisers such as HelloFresh, Condor, ABOUT YOU and the Otto Group. As a Google-certified Click Tracker, fraud0 works closely with Google's Click Quality team to investigate suspicious activity and resolve refund claims, while its AI agent builds the required evidence and manages the process from start to finish.</p><p>To activate, advertisers simply add a JavaScript tag to their website and connect their Google Ads account. The fraud0 AI for Google Ads Refunds runs continuously in the background, monitoring traffic and handling the refund workflow automatically. Beyond recovery, fraud0 helps advertisers prevent future waste through placement blocking, audience exclusions and the continuous identification of recurring invalid traffic sources.</p><p>\"Such a pleasure to be working with Dr. Augustine Fou, who has been on the frontlines of <span>fraud</span> detection for decades. We're excited to roll out this new capability to even more customers globally.\" said Tilman Pfeiffer, CEO of fraud0.</p><p>Advertisers interested in activating Google Ads refunds can contact FouAnalytics or fraud0 at the address below.</p><p><b>About FouAnalytics</b><br></br>Created by Dr. Augustine Fou, FouAnalytics is the most trusted, and the only truly independent analytics platform for digital ads, websites, and mobile apps. The platform provides detailed analytical data so practitioners can \"see Fou themselves\"™ why something is \"high humanness,\" and troubleshoot what is not good quality. Today FouAnalytics is used globally by advertisers like Microsoft, Inuvo, Viant, Beiersdorf and Georgia Pacific, independent agencies and every agency holding company on behalf of clients, as well as more than 10,000 SMBs and site owners. More details at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792085-1&amp;h=3872723009&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4755782-1%26h%3D2465692792%26u%3Dhttp%253A%252F%252Fwww.fouanalytics.com%252F%26a%3Dwww.fouanalytics.com&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792085-1&amp;h=3867634823&amp;u=http%3A%2F%2Fwww.fouanalytics.com%2F&amp;a=www.fouanalytics.com\" target=\"_blank\" rel=\"nofollow\">www.fouanalytics.com</a>.</p><p><b>About fraud0</b><br></br>fraud0 is a leading bot detection and invalid traffic (IVT) prevention platform, trusted by some of Europe's largest banks, insurance companies, e-commerce businesses, and leading brands. Its privacy-friendly technology helps companies eliminate <span>fraudulent</span> traffic, protect ad spend, and improve marketing performance. More details at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792085-1&amp;h=339284790&amp;u=https%3A%2F%2Fwww.fraud0.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792085-1&amp;h=418096825&amp;u=http%3A%2F%2Fwww.fraud0.com%2F&amp;a=www.fraud0.com\" target=\"_blank\" rel=\"nofollow\">www.fraud0.com</a>.</p><p><b>Media Contacts</b><br></br>Dr. Augustine Fou, CEO, FouAnalytics<br></br><a href=\"mailto:augustine.fou@fouanalytics.com\" target=\"_blank\" rel=\"nofollow\">augustine.fou@fouanalytics.com</a></p><p>Tilman Pfeiffer, CEO, fraud0<br></br><a href=\"mailto:tp@fraud0.com\" target=\"_blank\" rel=\"nofollow\">tp@fraud0.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE66292&amp;sd=2026-10-07\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fouanalytics-and-fraud0-partner-to-bring-automated-google-ads-refunds-to-the-worlds-largest-advertisers-302901699.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fouanalytics-and-fraud0-partner-to-bring-automated-google-ads-refunds-to-the-worlds-largest-advertisers-302901699.html</a></p><p>SOURCE FouAnalytics</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE66292&amp;Transmission_Id=202610071751PR_NEWS_USPR_____DE66292&amp;DateId=20261007\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "FouAnalytics",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertiser",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T01:21:47.133Z"
+    },
     {
       "company": [
         "EMCO Industries"
