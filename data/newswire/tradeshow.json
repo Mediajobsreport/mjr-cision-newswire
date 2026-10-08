@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-10-08T07:54:01.431Z",
+  "generated_at": "2026-10-08T15:25:33.285Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "tradeshow",
   "page_url": "https://www.mediajobsreport.com/tradeshow_news",
   "count": 15,
   "releases": [
+    {
+      "company": [
+        "Mersive Technologies"
+      ],
+      "date": "20261008T124000+0000",
+      "dateline": "DENVER, Oct. 8, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "COL",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TLS",
+        "STW",
+        "OFP",
+        "HRD",
+        "HOU",
+        "REA",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271&p=publish"
+        },
+        {
+          "caption": "Mersive",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1770899/Mersive-Logo.jpg?id=OA2994270&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1770899/Mersive-Logo.jpg?id=OA2994270&p=publish"
+        }
+      ],
+      "release_id": "20261008LA66803",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>New name retires the Gen 4 and MCS labels to better reflect where Mersive is steering collaboration next.</i></p><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Mersive Technologies today announced that its collaboration platform, previously known as Gen 4 and the Mersive Collaboration Suite (MCS), is now Mersive Polaris. Its website and visual identity have been updated to match.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271\" title=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\" alt=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\"></img></p></div><p>Mersive Solstice defined its category, showing that a room could share wirelessly, simply and reliably. But what rooms are asked to do has changed. Meetings now span more platforms, more networks and more devices than any one room was designed for.</p>",
+      "ticker": [],
+      "title": "Mersive Collaboration Suite Is Now Mersive Polaris",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008LA66803",
+      "body": "<p><i>New name retires the Gen 4 and MCS labels to better reflect where Mersive is steering collaboration next.</i></p><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Mersive Technologies today announced that its collaboration platform, previously known as Gen 4 and the Mersive Collaboration Suite (MCS), is now Mersive Polaris. Its website and visual identity have been updated to match.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271\" title=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\" alt=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\"></img></p></div><p>Mersive Solstice defined its category, showing that a room could share wirelessly, simply and reliably. But what rooms are asked to do has changed. Meetings now span more platforms, more networks and more devices than any one room was designed for.</p><p>Answering that took more than new hardware. Drawing on fourteen years of deployments and feedback from IT and AV teams, Mersive rebuilt the platform with software at its core, so rooms keep improving long after install day.</p><p>\"Gen 4\" made that sound like the next step in a hardware sequence. It isn't. It's built for the landscape rooms work in now, and it needed its own name.</p><p>Every generation of this line has looked up: Mersive Sol in 2012, then Solstice Gen 1 in 2013, Gen 2 in 2015, Gen 2i in 2017 and Gen 3 in 2019. While a solstice marks a turning point, Polaris is the fixed point the northern sky turns around, the star navigators steer by, and the role Mersive intends to play in customers' spaces for the next decade.</p><p>\"Solstice showed the market what wireless collaboration could be,\" said Damian Blazy, CEO of Mersive. \"Calling what came next a fourth generation undersold it.\"</p><p>\"Polaris isn't the next Solstice with a new label,\" said Ryan Lee, Vice President of Product at Mersive. \"It's a different way of building, and the name signals that.\"</p><p>Mersive Polaris includes Polaris Essentials, Polaris Pro and Polaris Host. Gen 4 and MCS customers are using the same products, now under the Polaris name.</p><p>Solstice Gen 3 is supported into 2029, with a mapped transition path and a trade-in program. It runs side by side with Polaris, so customers can upgrade room by room at their own pace.</p><p>To learn more, visit the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792528-1&amp;h=3555535750&amp;u=https%3A%2F%2Fmersive.com%2F&amp;a=Mersive+website\" target=\"_blank\" rel=\"nofollow\">Mersive website</a>.</p><p><b>Media Contact</b></p><p>Skyler Bowden, <a href=\"mailto:sbowden@mersive.com\" target=\"_blank\" rel=\"nofollow\">sbowden@mersive.com</a></p><p><b>About Mersive Technologies</b></p><p>Mersive Technologies helps people connect and collaborate in meeting rooms, huddle spaces and classrooms. Today's meetings span more platforms, networks and devices than any one room was designed for, with people joining from anywhere. Mersive Polaris, the successor to its Solstice line, was built for that hybrid reality. With software at its core, Polaris lets anyone in the room share content wirelessly from their own device and connect with remote participants on any conferencing platform. Rooms keep improving long after install day, and IT teams can centrally manage, monitor and update deployments of any size. Mersive is headquartered in Lakewood, Colorado. To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792528-1&amp;h=2920957546&amp;u=https%3A%2F%2Fwww.mersive.com%2F&amp;a=www.mersive.com\" target=\"_blank\" rel=\"nofollow\">www.mersive.com</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1770899/Mersive-Logo.jpg?id=OA2994270\" title=\"Mersive\" alt=\"Mersive\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA66803&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mersive-collaboration-suite-is-now-mersive-polaris-302902027.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mersive-collaboration-suite-is-now-mersive-polaris-302902027.html</a></p><p>SOURCE Mersive Technologies</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA66803&amp;Transmission_Id=202610080840PR_NEWS_USPR_____LA66803&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Mersive Technologies",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "tradeshow"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "tradeshow"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "tradeshow": [
+            "summary:infocomm"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T15:25:40.461Z"
+    },
     {
       "company": [
         "Digital Place Based Advertising Association (DPAA)"
@@ -1287,90 +1376,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:37.684Z"
-    },
-    {
-      "company": [
-        "Digital Place Based Advertising Association (DPAA) / The Lippin Group Inc"
-      ],
-      "date": "20260824T130000+0000",
-      "dateline": "NEW YORK, Aug. 24, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_WEBMAX"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ADV",
-        "PUB"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "DPAA ",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1973341/DPAA-Logo.jpg?id=OA2900959&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1973341/DPAA-Logo.jpg?id=OA2900959&p=publish"
-        }
-      ],
-      "release_id": "20260824NY30974",
-      "status": "PUBLISHED",
-      "subject": [
-        "FVT"
-      ],
-      "summary": "<p class=\"prntac\"><i>Former White House Communications Director and SkyBridge Founder Anthony Scaramucci to Take the Stage on October 13, 2026, in NYC</i></p><p class=\"prntac\"><i>CMOs from American Eagle Outfitters, Expedia, Hisense, Microsoft, and Major League Soccer to Speak, along with Top Leaders from Stagwell and Omnicom's Mediahub Worldwide</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3108819845&amp;u=https%3A%2F%2Fwww.dpaaglobal.com%2F&amp;a=DPAA\" target=\"_blank\" rel=\"nofollow\"><b>DPAA</b></a>, the global trade marketing association driving the growth and digitization of out-of-home (OOH) advertising, has announced the initial speaker lineup for the 14th annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3909970040&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal&amp;a=Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">Video Everywhere Summit</a>, set for<b> October 13, 2026</b>, at Pier 60 at Chelsea Piers in New York City. This includes <b>Anthony Scaramucci</b>, former White House Communications Director, Founder &amp; Managing Partner, <b>SkyBridge</b>, and author of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=362633088&amp;u=https%3A%2F%2Fus.macmillan.com%2Fbooks%2F9781250437563%2Fallthewrongmoves%2F&amp;a=All+the+Wrong+Moves\" target=\"_blank\" rel=\"nofollow\"><i>All the Wrong Moves</i></a> (Sept. 22, Macmillan); top agency leaders; and CMOs from across brand categories.</p>\n    ",
-      "ticker": [],
-      "title": "DPAA Announces Initial Speakers for 14th Annual Video Everywhere Summit, With the Theme of \"Real Connections\"",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824NY30974",
-      "body": "\n<p class=\"prntac\"><i>Former White House Communications Director and SkyBridge Founder Anthony Scaramucci to Take the Stage on October 13, 2026, in NYC</i></p><p class=\"prntac\"><i>CMOs from American Eagle Outfitters, Expedia, Hisense, Microsoft, and Major League Soccer to Speak, along with Top Leaders from Stagwell and Omnicom's Mediahub Worldwide</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3108819845&amp;u=https%3A%2F%2Fwww.dpaaglobal.com%2F&amp;a=DPAA\" target=\"_blank\" rel=\"nofollow\"><b>DPAA</b></a>, the global trade marketing association driving the growth and digitization of out-of-home (OOH) advertising, has announced the initial speaker lineup for the 14th annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=3909970040&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal&amp;a=Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">Video Everywhere Summit</a>, set for<b> October 13, 2026</b>, at Pier 60 at Chelsea Piers in New York City. This includes <b>Anthony Scaramucci</b>, former White House Communications Director, Founder &amp; Managing Partner, <b>SkyBridge</b>, and author of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=362633088&amp;u=https%3A%2F%2Fus.macmillan.com%2Fbooks%2F9781250437563%2Fallthewrongmoves%2F&amp;a=All+the+Wrong+Moves\" target=\"_blank\" rel=\"nofollow\"><i>All the Wrong Moves</i></a> (Sept. 22, Macmillan); top agency leaders; and CMOs from across brand categories.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1973341/DPAA-Logo.jpg?id=OA2900959\" title=\"DPAA \" alt=\"DPAA \"></img>\n                </p>\n    </div>\n<p>Also announced today was the theme for the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=299920025&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal&amp;a=2026+DPAA+Global+Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">2026 DPAA Global Video Everywhere Summit</a>: <b>Real Connections</b>. This comes following multiple forecasts of global DOOH revenue growth, most recently from <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=1672462305&amp;u=https%3A%2F%2Fwww.pqmedia.com%2F&amp;a=PQ+Media\" target=\"_blank\" rel=\"nofollow\">PQ Media</a>, which is predicting a 15.3% gain in 2026 (up from 12% growth in 2025), driven in part by major global events including the FIFA World Cup and Winter Olympics, as brands increasingly look to connect digital capabilities with real-world consumer experiences.</p><p>\"Creating authentic, real connections and conversations has never been more important,\" said <b>DPAA President &amp; CEO Barry Frey</b>. \"As we espouse the impact brands can make by connecting with consumers in the real world, we must also take advantage of every face-to-face connection we are able to make. This includes the marketers controlling ad spend; the agencies shaping their media plans; and the technology, data and research organizations coming up with new ways to innovate, execute and measure the outcomes that DOOH uniquely brings.\"</p><p>The Summit brings approximately 1,000 industry leaders direct access to the people who influence the future of omnichannel marketing. There, they network with others in this vibrant community, discuss marketing trends, challenges and opportunities, and hear from CMOs, newsmakers, and agency executives. This includes the top marketers from brands across the consumer electronics, retail, sports and travel sectors.</p><p>Taking the stage at DPAA's October 2026 events in addition to <b>Scaramucci</b> include:</p><ul type=\"disc\"><li><b>Craig Brommers</b>, CMO, <b>American Eagle Outfitters</b></li><li><b>David Sable</b>, Vice Chairman, <b>Stagwell</b></li><li><b>Jochen Koedijk</b>, CMO, <b>Expedia</b></li><li><b>Nicole Estebanell</b>, U.S. CEO, <b>Mediahub Worldwide</b> (Omnicom)</li><li><b>Radika Duggal</b>, CMO, <b>Major League Soccer</b></li><li><b>Sarah Larsen</b>, CMO, <b>Hisense</b></li><li><b>Sydne Mullings</b>, General Manager - Americas CMO, <b>Microsoft</b></li><li><i>Additional speakers to be announced.</i></li></ul><p>The Summit attendees each year connect and converse around key trends. This includes the growing DOOH medium, which has become a key driver of real business outcomes, real world experiences, real time buying and planning, and … <b>real connections</b>!</p><p>Also core to the discussions expected to take place at the Summit are how in-store retail media networks, programmatic offerings, AI-powered tools, IRL experiences around big sports and entertainment events, and improved measurement options are playing a major role in establishing and enhancing DOOH as both a launchpad of innovation and a growing part of brands and agencies' omnichannel strategies.</p><p>One day before the Summit is the <b>DPAA Newsmakers Dinner</b> - an annual invite-only event that takes place the evening before the Summit in NYC, and includes a broader discussion of key issues shaping the media and news landscape. In recent years, the Dinner has featured fireside chats with such notable Newsmakers as Chuck Todd (former host of <i>Meet the Press</i>), Jessica Tarlov (<i>The Five</i>), Alyssa Farah Griffin (<i>The View</i>, CNN), Katty Kay (BBC), Mark Bezos, and Frank Luntz. The Global Summit stage has previously hosted leaders from Colgate-Palmolive, General Motors, Mastercard, McDonald's, PepsiCo, Kroger, Danone, Warner Bros., Paramount+, H&amp;R Block, WPP, Dentsu, Omnicom and many others.</p><p>For more information, or to register to attend the Global Summit – part of Out of Home Week New York – please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=4176374987&amp;u=https%3A%2F%2Fwww.dpaasummit.com%2Fglobal%2F&amp;a=www.dpaasummit.com%2Fglobal\" target=\"_blank\" rel=\"nofollow\">www.dpaasummit.com/global</a>.</p><p><b>About</b> <b>DPAA<br></br></b>DPAA (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=276777529&amp;u=https%3A%2F%2Fwww.dpaaglobal.com%2F&amp;a=www.dpaaglobal.com\" target=\"_blank\" rel=\"nofollow\">www.dpaaglobal.com</a>) is the global trade marketing association, driving the growth and digitization of out-of-home (OOH) advertising and its growing role in the Omnichannel mix. Membership in the DPAA community includes many business acceleration benefits and access to a wide array of products. It offers members an extensive database of research, best practices and case studies; tools for planning, training and forecasting; social media amplification of news; insights on software and hardware solutions; and further integration into the advertising ecosystem by connecting DOOH networks, brands, agencies, ad tech and others – including through its podcast, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=1695610316&amp;u=https%3A%2F%2Flaunchpadofinnovation.com%2F&amp;a=Launchpad+of+Innovation\" target=\"_blank\" rel=\"nofollow\">Launchpad of Innovation</a>. DPAA's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4756910-1&amp;h=931151281&amp;u=https%3A%2F%2Fdpaasummit.com%2Fglobal%2F&amp;a=Video+Everywhere+Summit\" target=\"_blank\" rel=\"nofollow\">Video Everywhere Summit</a>, the largest one-day media/marketing event of its kind, is October 13, 2026, at Pier 60 in New York City. </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY30974&amp;sd=2026-08-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/dpaa-announces-initial-speakers-for-14th-annual-video-everywhere-summit-with-the-theme-of-real-connections-302857348.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/dpaa-announces-initial-speakers-for-14th-annual-video-everywhere-summit-with-the-theme-of-real-connections-302857348.html</a></p><p>SOURCE Digital Place Based Advertising Association (DPAA) / The Lippin Group Inc</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY30974&amp;Transmission_Id=202608240900PR_NEWS_USPR_____NY30974&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Digital Place Based Advertising Association (DPAA) / The Lippin Group Inc",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising",
-        "tradeshow"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising",
-          "tradeshow"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 5,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 2
-        },
-        "reasons": {
-          "advertising": [
-            "advertising",
-            "summary:marketing",
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:PUB"
-          ],
-          "tradeshow": [
-            "summit"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:38.996Z"
     }
   ]
 }
