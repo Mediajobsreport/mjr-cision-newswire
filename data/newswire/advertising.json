@@ -1,11 +1,194 @@
 {
-  "generated_at": "2026-10-08T15:25:33.285Z",
+  "generated_at": "2026-10-08T20:46:33.097Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 62,
+  "count": 64,
   "releases": [
+    {
+      "company": [
+        "Omnicom Media",
+        "Rembrand"
+      ],
+      "date": "20261008T203100+0000",
+      "dateline": "NEW YORK, Oct. 8, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "TVN",
+        "MLM",
+        "CPR",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1816881/Omnicom-Media-Logo-Horizontal-White-Logo-Logo.jpg?id=OA2995505&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1816881/Omnicom-Media-Logo-Horizontal-White-Logo-Logo.jpg?id=OA2995505&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2005369/Rembrand-Logo.jpg?id=OA2995508&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2005369/Rembrand-Logo.jpg?id=OA2995508&p=publish"
+        }
+      ],
+      "release_id": "20261008NY67358",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<div class=\"fr-subtext\"><p class=\"prntac\"><b>First-to-market capability brings together <span>Acxiom</span>, <span>Omni</span>, and <span>Rembrand's</span> VISTA platform, with access to premium inventory from major media partners</b></p></div><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /<span>PRNewswire</span>/ -- <span>Omnicom</span> Media, an <span>Omnicom</span> (NYSE: <span>OMC</span>) Connected Capability, and in-content advertising platform <span>Rembrand</span> are partnering to bring in-content advertising into the mainstream media mix with a first-to-market capability that enables brands to identify, plan, and activate in-content placements across first-look premium streaming inventory from multiple major media companies.</p>",
+      "ticker": [
+        "NYSE:OMC"
+      ],
+      "title": "OMNICOM MEDIA AND REMBRAND PARTNER TO SCALE IN-CONTENT ADVERTISING ACROSS PREMIUM STREAMING",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008NY67358",
+      "body": "<div class=\"fr-subtext\"><p class=\"prntac\"><b>First-to-market capability brings together <span>Acxiom</span>, <span>Omni</span>, and <span>Rembrand's</span> VISTA platform, with access to premium inventory from major media partners</b></p></div><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /<span>PRNewswire</span>/ -- <span>Omnicom</span> Media, an <span>Omnicom</span> (NYSE: <span>OMC</span>) Connected Capability, and in-content advertising platform <span>Rembrand</span> are partnering to bring in-content advertising into the mainstream media mix with a first-to-market capability that enables brands to identify, plan, and activate in-content placements across first-look premium streaming inventory from multiple major media companies.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1816881/Omnicom-Media-Logo-Horizontal-White-Logo-Logo.jpg?id=OA2995505\" title=\"\" alt=\"\"></img></p></div><p>The partnership provides <span>OM's</span> Content Collective – the group's branded content center of excellence - first-mover access to <span>Rembrand's</span> AI-powered VISTA platform, which scans publisher content to identify scenes that can be monetized by insertion of in-content advertising. Using <span>Acxiom</span><span>RealID</span>™ and direct <span>integrations</span> with major streamers, brands can identify the most relevant content for a given audience. Pairing this intelligence with <span>Rembrand's</span> VISTA platform, brands unlock a more systematic and <span>scalable</span> way to find relevant programming and activate against those opportunities across participating streaming partners.</p><p>Historically, in-content advertising has been managed through bespoke partnerships and individual content <span>integrations</span>. The new capability brings those opportunities into a common planning framework, giving media teams visibility across participating publishers and allowing in-content placements to be considered alongside broader media investments.</p><p>The collaboration is rooted in a fundamental shift in consumer behavior. <span>Omnicom</span> Media's recent research, <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=4032148749&amp;u=https%3A%2F%2Fbydesign.omnicommedia.com%2Fwhitepaper%2Ffrom-tuned-out-to-leaned-in-how-to-combat-ad-avoidance%2F&amp;a=From+Tuned+Out+to+Leaned+In%3A+How+to+Combat+Ad+Avoidance\" rel=\"nofollow\"><i>From Tuned Out to Leaned In: How to Combat Ad Avoidance</i></a>, found that 65% of U.S. consumers avoid advertising to some degree, whether by skipping, scrolling, muting, or ignoring ads. As consumers use subscriptions, apps, AI, and other tools to exert greater control over their media experiences, brands need new ways to reach people without creating another interruption.</p><p>Additionally, <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=891701505&amp;u=https%3A%2F%2Fland.rembrand.com%2Fbeyond-interruption&amp;a=commissioned+research\" rel=\"nofollow\">commissioned research</a> conducted by <span>Omnicom</span> Media's Partner Intelligence team in collaboration with <span>Rembrand</span> evaluated the effectiveness of in-content advertising, finding that, when paired with traditional video ads, perceptions of premium content amplify the performance of <span>ICAs</span>, driving a 5.5 times impact on message recall, and a 4x increase in both purchase intent and perceptions of the brand as premium.</p><p>\"Our research identified how quickly consumers actively or passively disengage when advertising feels intrusive or overly repetitive,\" said Megan <span>Pagliuca</span>, Chief Product Officer, <span>Omnicom</span> Media. \"To address this, we have launched new capabilities in streaming to address negative reach, improve relevance and <span>measurability</span> of traditional brand experiences, and now we are complementing these with a first of its kind data driven, <span>scalable</span> approach to in-content advertising.\"</p><p><b style=\"font-weight: 700;\">How It Works</b></p><p>The capability connects four stages:</p><ul type=\"disc\" style=\"list-style-type: disc;\"><li><b style=\"font-weight: 700;\">Audience matching:</b> <span>Acxiom</span> audience segments are matched with streaming viewership data to identify shows, movies, and genres that best index with a target audience.</li><li><b style=\"font-weight: 700;\">Inventory mapping:</b> Relevant programming is matched against in-content advertising opportunities available through VISTA.</li><li><b style=\"font-weight: 700;\">Inventory expansion:</b> Additional content can be <span>onboarded</span> through established processes with participating streaming partners when relevant opportunities are not yet available.</li><li><b style=\"font-weight: 700;\">Activation:</b> Brands deploy in-content placements against selected audiences and programming across participating publishers.</li></ul><p>The result is a way to put brands directly into content consumers have chosen to watch, while providing greater visibility into in-content supply across publishers.</p><p>\"In-content advertising has always offered brands the opportunity to show up within content people have actively chosen to watch,\" said John <span>Sedlak</span>, Chief Revenue Officer, <span>Rembrand</span>. \"Our collaboration with <span>Omnicom</span> Media makes those opportunities easier to identify, plan and activate across premium streaming, bringing a new level of scale and consistency to the category.\"</p><p>Applications range from an automaker placing a new model in relevant programming across a streamer, using <span>Acxiom</span> in-market auto segments to reach shoppers who routinely avoid traditional ads, to a beverage brand appearing in top-indexing summer programming during key seasonal purchase periods. Retail brands can similarly use in-content placements to directly connect exposure to the path to purchase.</p><p>Summing up the response to-date from clients who have been briefed on the new capability, Jillian Davis, Director of Marketing Technology for Auto Trader and Kelly Blue Book parent company Cox Automotive said, \"We're always eager to leverage new, <span>scalable</span> and organic ways to reach our customers within premium content.\"</p><p>CONTACT:  <a target=\"_blank\" href=\"mailto:isabelle.gauvry@omc.com\" rel=\"nofollow\"><span>isabelle</span>.<span>gauvry</span>@<span>omc</span>.com</a></p><p><b style=\"font-weight: 700;\">ABOUT <span>OMNICOM</span> MEDIA</b><br></br><span>Omnicom</span> Media, an <span>Omnicom</span> (NYSE: <span>OMC</span>) Connected Capability, is the world's largest global media management network. Powered by the <span>Omni</span> Intelligence Platform, <span>Omnicom</span> Media agencies leverage $75.6 billion in billings, 47,000+ specialists across 70+ markets, and the industry's most powerful portfolio identity, commerce, and intelligence assets to design dynamic Growth Ecosystems that enable the world's most ambitious businesses to grow faster and smarter. The <span>Omnicom</span> Media portfolio includes global media agency brands <span>OMD</span>, PHD, Initiative, Hearts United and UM; core <span>Omnicom</span> Integrated Media offerings <span>Acxiom</span>, the world's premier identity solution, and the Flywheel end-to-end commerce solution; and specialty services across the cloud consulting, creator, financial, healthcare, and sports &amp; entertainment categories.  For more information visit <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=996422683&amp;u=https%3A%2F%2Fbydesign.omnicommedia.com%2F&amp;a=omnicommedia.com\" rel=\"nofollow\"><span>omnicommedia</span>.com</a></p><p><b style=\"font-weight: 700;\">ABOUT <span>REMBRAND</span></b><br></br><span>Rembrand</span> is the leading In-Content Advertising platform, using AI to seamlessly integrate brands into video content. The company's technology provides a non-intrusive and engaging advertising experience for viewers while delivering increased brand awareness and improved engagement for advertisers. <span>Rembrand</span> works with a vast network of global content owners and media companies to deliver unparalleled reach and scale for its brand partners.  For more info, visit <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=790042408&amp;u=http%3A%2F%2Fwww.rembrand.com%2F&amp;a=www.rembrand.com\" rel=\"nofollow\"><span>www</span>.<span>rembrand</span>.com</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2005369/Rembrand-Logo.jpg?id=OA2995508\" title=\"\" alt=\"\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY67358&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/omnicom-media-and-rembrand-partner-to-scale-in-content-advertising-across-premium-streaming-302902897.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/omnicom-media-and-rembrand-partner-to-scale-in-content-advertising-across-premium-streaming-302902897.html</a></p><p>SOURCE Omnicom Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY67358&amp;Transmission_Id=202610081631PR_NEWS_USPR_____NY67358&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Omnicom Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 6,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising platform",
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:46:37.689Z"
+    },
+    {
+      "company": [
+        "ROKT Pte. Ltd."
+      ],
+      "date": "20261008T180000+0000",
+      "dateline": "NEW YORK, Oct. 8, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIN",
+        "CPR",
+        "STW",
+        "ECM",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Rokt",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1017551/Rokt-Logo.jpg?id=OA2995293&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1017551/Rokt-Logo.jpg?id=OA2995293&p=publish"
+        }
+      ],
+      "release_id": "20261008NY67206",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "LIC"
+      ],
+      "summary": "<p><i>Eight sessions across Advertising Week and The Female Quotient Lounge brought Rokt together with leaders from companies including Block, </i>e.l.f. Beauty<i>, American Airlines and FOX One.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Rokt, the leading ecommerce company using machine learning and AI to make the shopping experience more relevant to each customer, participated in eight panel discussions during Advertising Week New York 2026 (AWNY), held at The Penn District this week. Rokt leaders joined executives from leading retail, financial services, travel and media companies to discuss how businesses can grow revenue, earn customer trust and adapt to changes in how people discover brands. Four of those sessions took place on AWNY's main stages, while the other four were part of The Female Quotient Lounge programming on site.</p>",
+      "ticker": [],
+      "title": "Rokt Leaders Join Wayne Gretzky and executives from Fanatics, Lowe's, Southwest Airlines and Mastercard to Discuss Leadership, Commerce Media and AI at Advertising Week New York 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008NY67206",
+      "body": "<p><i>Eight sessions across Advertising Week and The Female Quotient Lounge brought Rokt together with leaders from companies including Block, </i>e.l.f. Beauty<i>, American Airlines and FOX One.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Rokt, the leading ecommerce company using machine learning and AI to make the shopping experience more relevant to each customer, participated in eight panel discussions during Advertising Week New York 2026 (AWNY), held at The Penn District this week. Rokt leaders joined executives from leading retail, financial services, travel and media companies to discuss how businesses can grow revenue, earn customer trust and adapt to changes in how people discover brands. Four of those sessions took place on AWNY's main stages, while the other four were part of The Female Quotient Lounge programming on site.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1017551/Rokt-Logo.jpg?id=OA2995293\" title=\"Rokt\" alt=\"Rokt\"></img></p></div><p>\"Businesses want to grow revenue from the customer relationships they've worked hard to build. That depends on making each interaction relevant to the customer,\" said Jon Humphrey, SVP &amp; GM of Rokt Ads. \"As AI changes how people discover brands and make decisions, relevance becomes even more important. The opportunity is to help customers find something they value and give them a reason to return.\"</p><p>One of the week's most anticipated moments came on Wednesday, when Humphrey joined NHL Hall of Famer Wayne Gretzky and Tucker Kain, Chief Strategy &amp; Growth Officer at Fanatics, Inc., on the Great Minds Stage for a conversation about leadership. The session followed Fanatics' recent <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792931-1&amp;h=2487187508&amp;u=https%3A%2F%2Fwww.go.rokt.com%2Fblog%2Ffanatics-selects-rokt-to-deliver-ai-powered-relevance-for-sports-fans-globally&amp;a=decision+to+select+Rokt\" target=\"_blank\" rel=\"nofollow\">decision to select Rokt</a> to deliver AI-powered relevance for sports fans around the world.</p><p>Elsewhere in the program, Rokt leaders sat alongside executives from Lowe's, <span>Citi</span>, Mastercard, e.l.f. Beauty and American Airlines, among others. Many of the discussions centered on how companies outside retail can build commerce media businesses, with other sessions taking up AI's growing influence on where and how people discover brands.</p><p><b>Rokt's sessions on Advertising Week New York Stages:</b></p><ul type=\"disc\"><li><b>Beyond the Brand: Building Partnerships Across an Entire Ecosystem</b> (Marketplace Stage, Monday, October 5). Laura Cosgrove, SVP of Retail Partnerships at Rokt, and Lauren Copland, Ecosystem Partnership Lead at Block, discussed the evolution of the Rokt and Afterpay partnership and what it would take to extend it across Block's wider portfolio, which includes Square, Cash App and TIDAL.. Arielle Feger, Senior Analyst, Media Content at <i>EMARKETER,</i> moderated.</li><li><b>The New Revenue Line: What Customer Attention Is Actually Worth</b> (Media Stage, Tuesday, October 6). Erica Few, Head of FinServ Partnerships at Rokt, joined Elyse Blouin, Vice President &amp; GM of Lowe's Media Network and Dylan Lonergan, Head of Sales at <span>Citi</span> Commerce Media, to look at what building a commerce media business requires once it moves beyond retail. Kerry Flynn, media reporter at <i>Axios</i>, moderated.</li><li><b>Building the Decision Engine for Agentic Marketing</b> (Innovation Stage, Wednesday, October 7). As AI takes on a larger role in media decisions, Rokt's Jon Humphrey sat down with Olivia Kory, Chief Marketing &amp; Strategy Officer at Haus, and Annie Leanse, Senior Director, Subscriber Acquisition &amp; Brand Media Marketing at FOX One, to discuss why attribution alone falls short and how incrementality and experimentation can inform those choices. <i>AdExchange</i>r reporter James Hercher moderated.</li><li><b>Skating to Where the Puck Is Going: The Great One on Leadership</b> (Great Minds Stage, Wednesday, October 7). Wayne Gretzky reflected on decades spent as a player, owner, coach and broadcaster in a conversation with Tucker Kain of Fanatics and Jon Humphrey of Rokt.</li></ul><p>Rokt executives also spoke on the following panels in Female Quotient Lounge at AWNY on Tuesday, October 6:</p><ul type=\"disc\"><li><b>The Trust Advantage: Why Confidence Wins.</b> Maggie Carney, Vice President of Customer Success at Rokt, spoke with Nili Klenoff, EVP of Mastercard Commerce Media; Christie Sclater, SVP of Global Marketing at Clinique; and Cass Zawadowski, Executive Creative Director of Global Brand at Lyft, about how companies earn credibility as AI changes the way people judge brands. <i>ADWEEK</i>'s Chief Brand and Community Officer Jenny Rooney moderated.</li><li><b>The Discovery Economy: Winning Before the Search.</b> Allison Repetto, Vice President of Customer Success, Retail at Rokt, joined Sabrina Callahan, SVP, Chief Digital &amp; Marketing Officer of Southwest Airlines and Diana Tomasetti, Senior Director, Brand &amp; Product Marketing of Carnival Cruise Line, to unpack how consumers now find brands through AI assistants, creators and communities long before they search. Debra Aho Williamson, Founder and Chief Analyst at Sonata Insights, moderated.</li><li><b>Cultural Gravity: Why Some Ideas Pull People In.</b> Laura Cosgrove returned for a second session alongside Laurie Lam, Chief Brand Officer at e.l.f. Beauty, and Haley Paas, SVP of Media, Marketing Effectiveness &amp; Agency Management at Verizon, examining why certain brands and ideas hold an audience long after launch. Luz Corona, Executive Director of Content at The Clios, moderated.</li><li><b>The Media Shift: Following Audiences Wherever They Go.</b> Nicolina Duhs, Head of Retail Partnerships at Rokt, discussed how brands reach audiences whose attention is spreading across more platforms with Lauren Gabriele, VP, Enterprise Business Development at TripleLift; Leslie Lee, VP of T-Mobile Advertising Solutions; and Jacs Wyatt, MD, Global Advertising at American Airlines. Brittany Thompson, VP, Head of Global Enterprise Innovation at Condé Nast moderated.</li></ul><p><b>About Rokt</b></p><p>Rokt is the global leader in ecommerce, unlocking real-time relevance in the moment that matters most—The Transaction Moment™. Rokt's AI Brain and Ecommerce Network powers billions of transactions connecting hundreds of millions of customers, and is trusted to do this by the world's leading companies including Live Nation, Fanatics, Macy's, AMC Theatres, PayPal, Uber, Hulu, Albertsons and HelloFresh. Headquartered in New York City, Rokt has offices across North America, Europe, and the Asia-Pacific region. To learn more, visit Rokt.com.</p><p><b>Media Contact</b></p><p>Tarana Mehta - SVP Marketing<br></br><a href=\"mailto:tarana.mehta@rokt.com\" target=\"_blank\" rel=\"nofollow\">tarana.mehta@rokt.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY67206&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/rokt-leaders-join-wayne-gretzky-and-executives-from-fanatics-lowes-southwest-airlines-and-mastercard-to-discuss-leadership-commerce-media-and-ai-at-advertising-week-new-york-2026-302902785.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/rokt-leaders-join-wayne-gretzky-and-executives-from-fanatics-lowes-southwest-airlines-and-mastercard-to-discuss-leadership-commerce-media-and-ai-at-advertising-week-new-york-2026-302902785.html</a></p><p>SOURCE ROKT Pte. Ltd.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY67206&amp;Transmission_Id=202610081400PR_NEWS_USPR_____NY67206&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "ROKT Pte. Ltd.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "management": [
+            "executive"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:47:12.039Z"
+    },
     {
       "company": [
         "FouAnalytics"

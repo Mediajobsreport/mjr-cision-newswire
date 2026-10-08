@@ -1,9 +1,635 @@
 {
-  "generated_at": "2026-10-08T15:25:33.285Z",
+  "generated_at": "2026-10-08T20:46:33.097Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 469,
+  "count": 470,
   "releases": [
+    {
+      "company": [
+        "Omnicom Media",
+        "Rembrand"
+      ],
+      "date": "20261008T203100+0000",
+      "dateline": "NEW YORK, Oct. 8, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "TVN",
+        "MLM",
+        "CPR",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1816881/Omnicom-Media-Logo-Horizontal-White-Logo-Logo.jpg?id=OA2995505&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1816881/Omnicom-Media-Logo-Horizontal-White-Logo-Logo.jpg?id=OA2995505&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2005369/Rembrand-Logo.jpg?id=OA2995508&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2005369/Rembrand-Logo.jpg?id=OA2995508&p=publish"
+        }
+      ],
+      "release_id": "20261008NY67358",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<div class=\"fr-subtext\"><p class=\"prntac\"><b>First-to-market capability brings together <span>Acxiom</span>, <span>Omni</span>, and <span>Rembrand's</span> VISTA platform, with access to premium inventory from major media partners</b></p></div><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /<span>PRNewswire</span>/ -- <span>Omnicom</span> Media, an <span>Omnicom</span> (NYSE: <span>OMC</span>) Connected Capability, and in-content advertising platform <span>Rembrand</span> are partnering to bring in-content advertising into the mainstream media mix with a first-to-market capability that enables brands to identify, plan, and activate in-content placements across first-look premium streaming inventory from multiple major media companies.</p>",
+      "ticker": [
+        "NYSE:OMC"
+      ],
+      "title": "OMNICOM MEDIA AND REMBRAND PARTNER TO SCALE IN-CONTENT ADVERTISING ACROSS PREMIUM STREAMING",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008NY67358",
+      "body": "<div class=\"fr-subtext\"><p class=\"prntac\"><b>First-to-market capability brings together <span>Acxiom</span>, <span>Omni</span>, and <span>Rembrand's</span> VISTA platform, with access to premium inventory from major media partners</b></p></div><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /<span>PRNewswire</span>/ -- <span>Omnicom</span> Media, an <span>Omnicom</span> (NYSE: <span>OMC</span>) Connected Capability, and in-content advertising platform <span>Rembrand</span> are partnering to bring in-content advertising into the mainstream media mix with a first-to-market capability that enables brands to identify, plan, and activate in-content placements across first-look premium streaming inventory from multiple major media companies.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1816881/Omnicom-Media-Logo-Horizontal-White-Logo-Logo.jpg?id=OA2995505\" title=\"\" alt=\"\"></img></p></div><p>The partnership provides <span>OM's</span> Content Collective – the group's branded content center of excellence - first-mover access to <span>Rembrand's</span> AI-powered VISTA platform, which scans publisher content to identify scenes that can be monetized by insertion of in-content advertising. Using <span>Acxiom</span><span>RealID</span>™ and direct <span>integrations</span> with major streamers, brands can identify the most relevant content for a given audience. Pairing this intelligence with <span>Rembrand's</span> VISTA platform, brands unlock a more systematic and <span>scalable</span> way to find relevant programming and activate against those opportunities across participating streaming partners.</p><p>Historically, in-content advertising has been managed through bespoke partnerships and individual content <span>integrations</span>. The new capability brings those opportunities into a common planning framework, giving media teams visibility across participating publishers and allowing in-content placements to be considered alongside broader media investments.</p><p>The collaboration is rooted in a fundamental shift in consumer behavior. <span>Omnicom</span> Media's recent research, <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=4032148749&amp;u=https%3A%2F%2Fbydesign.omnicommedia.com%2Fwhitepaper%2Ffrom-tuned-out-to-leaned-in-how-to-combat-ad-avoidance%2F&amp;a=From+Tuned+Out+to+Leaned+In%3A+How+to+Combat+Ad+Avoidance\" rel=\"nofollow\"><i>From Tuned Out to Leaned In: How to Combat Ad Avoidance</i></a>, found that 65% of U.S. consumers avoid advertising to some degree, whether by skipping, scrolling, muting, or ignoring ads. As consumers use subscriptions, apps, AI, and other tools to exert greater control over their media experiences, brands need new ways to reach people without creating another interruption.</p><p>Additionally, <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=891701505&amp;u=https%3A%2F%2Fland.rembrand.com%2Fbeyond-interruption&amp;a=commissioned+research\" rel=\"nofollow\">commissioned research</a> conducted by <span>Omnicom</span> Media's Partner Intelligence team in collaboration with <span>Rembrand</span> evaluated the effectiveness of in-content advertising, finding that, when paired with traditional video ads, perceptions of premium content amplify the performance of <span>ICAs</span>, driving a 5.5 times impact on message recall, and a 4x increase in both purchase intent and perceptions of the brand as premium.</p><p>\"Our research identified how quickly consumers actively or passively disengage when advertising feels intrusive or overly repetitive,\" said Megan <span>Pagliuca</span>, Chief Product Officer, <span>Omnicom</span> Media. \"To address this, we have launched new capabilities in streaming to address negative reach, improve relevance and <span>measurability</span> of traditional brand experiences, and now we are complementing these with a first of its kind data driven, <span>scalable</span> approach to in-content advertising.\"</p><p><b style=\"font-weight: 700;\">How It Works</b></p><p>The capability connects four stages:</p><ul type=\"disc\" style=\"list-style-type: disc;\"><li><b style=\"font-weight: 700;\">Audience matching:</b> <span>Acxiom</span> audience segments are matched with streaming viewership data to identify shows, movies, and genres that best index with a target audience.</li><li><b style=\"font-weight: 700;\">Inventory mapping:</b> Relevant programming is matched against in-content advertising opportunities available through VISTA.</li><li><b style=\"font-weight: 700;\">Inventory expansion:</b> Additional content can be <span>onboarded</span> through established processes with participating streaming partners when relevant opportunities are not yet available.</li><li><b style=\"font-weight: 700;\">Activation:</b> Brands deploy in-content placements against selected audiences and programming across participating publishers.</li></ul><p>The result is a way to put brands directly into content consumers have chosen to watch, while providing greater visibility into in-content supply across publishers.</p><p>\"In-content advertising has always offered brands the opportunity to show up within content people have actively chosen to watch,\" said John <span>Sedlak</span>, Chief Revenue Officer, <span>Rembrand</span>. \"Our collaboration with <span>Omnicom</span> Media makes those opportunities easier to identify, plan and activate across premium streaming, bringing a new level of scale and consistency to the category.\"</p><p>Applications range from an automaker placing a new model in relevant programming across a streamer, using <span>Acxiom</span> in-market auto segments to reach shoppers who routinely avoid traditional ads, to a beverage brand appearing in top-indexing summer programming during key seasonal purchase periods. Retail brands can similarly use in-content placements to directly connect exposure to the path to purchase.</p><p>Summing up the response to-date from clients who have been briefed on the new capability, Jillian Davis, Director of Marketing Technology for Auto Trader and Kelly Blue Book parent company Cox Automotive said, \"We're always eager to leverage new, <span>scalable</span> and organic ways to reach our customers within premium content.\"</p><p>CONTACT:  <a target=\"_blank\" href=\"mailto:isabelle.gauvry@omc.com\" rel=\"nofollow\"><span>isabelle</span>.<span>gauvry</span>@<span>omc</span>.com</a></p><p><b style=\"font-weight: 700;\">ABOUT <span>OMNICOM</span> MEDIA</b><br></br><span>Omnicom</span> Media, an <span>Omnicom</span> (NYSE: <span>OMC</span>) Connected Capability, is the world's largest global media management network. Powered by the <span>Omni</span> Intelligence Platform, <span>Omnicom</span> Media agencies leverage $75.6 billion in billings, 47,000+ specialists across 70+ markets, and the industry's most powerful portfolio identity, commerce, and intelligence assets to design dynamic Growth Ecosystems that enable the world's most ambitious businesses to grow faster and smarter. The <span>Omnicom</span> Media portfolio includes global media agency brands <span>OMD</span>, PHD, Initiative, Hearts United and UM; core <span>Omnicom</span> Integrated Media offerings <span>Acxiom</span>, the world's premier identity solution, and the Flywheel end-to-end commerce solution; and specialty services across the cloud consulting, creator, financial, healthcare, and sports &amp; entertainment categories.  For more information visit <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=996422683&amp;u=https%3A%2F%2Fbydesign.omnicommedia.com%2F&amp;a=omnicommedia.com\" rel=\"nofollow\"><span>omnicommedia</span>.com</a></p><p><b style=\"font-weight: 700;\">ABOUT <span>REMBRAND</span></b><br></br><span>Rembrand</span> is the leading In-Content Advertising platform, using AI to seamlessly integrate brands into video content. The company's technology provides a non-intrusive and engaging advertising experience for viewers while delivering increased brand awareness and improved engagement for advertisers. <span>Rembrand</span> works with a vast network of global content owners and media companies to deliver unparalleled reach and scale for its brand partners.  For more info, visit <a target=\"_blank\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793086-1&amp;h=790042408&amp;u=http%3A%2F%2Fwww.rembrand.com%2F&amp;a=www.rembrand.com\" rel=\"nofollow\"><span>www</span>.<span>rembrand</span>.com</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2005369/Rembrand-Logo.jpg?id=OA2995508\" title=\"\" alt=\"\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY67358&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/omnicom-media-and-rembrand-partner-to-scale-in-content-advertising-across-premium-streaming-302902897.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/omnicom-media-and-rembrand-partner-to-scale-in-content-advertising-across-premium-streaming-302902897.html</a></p><p>SOURCE Omnicom Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY67358&amp;Transmission_Id=202610081631PR_NEWS_USPR_____NY67358&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Omnicom Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 6,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising platform",
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:46:37.689Z"
+    },
+    {
+      "company": [
+        "Bandai Namco Filmworks Inc."
+      ],
+      "date": "20261008T200000+0000",
+      "dateline": "IRVINE, Calif., Oct. 8, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM",
+        "JPN",
+        "ASA"
+      ],
+      "industry": [
+        "FLM",
+        "GAM",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "© SUNRISE",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2005041/Teaser-visual_tate.jpg?id=OA2994537&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2005041/Teaser-visual_tate.jpg?id=OA2994537&p=publish"
+        }
+      ],
+      "release_id": "20261008LA66900",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">IRVINE, Calif.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Bandai Namco Filmworks Inc. today announced that MOBILE SUIT GUNDAM SEED FREEDOM ZERO, the newest film in the GUNDAM SEED series and a prequel to MOBILE SUIT GUNDAM SEED FREEDOM, is scheduled to open in North American theaters in February 2027. Matthew Erickson, Matt Hill and Sam Vincent will voice Shinn Asuka, Kira Yamato and Athrun Zala, respectively, in the English-language version.<br></br> </p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2005041/Teaser-visual_tate.jpg?id=OA2994537\" title=\"© SUNRISE\" alt=\"© SUNRISE\"></img></p></div><p>The North American theatrical release window and English voice cast were announced during the GUNDAM Showcase 2026 @ NYC panel at New York Comic Con 2026, held at the Jacob K. Javits Convention Center in New York. A recording of the panel is available on the Popverse YouTube channel.</p>",
+      "ticker": [],
+      "title": "MOBILE SUIT GUNDAM SEED FREEDOM ZERO Coming to North American Theaters in February 2027, Announced at New York Comic Con 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008LA66900",
+      "body": "<p><span class=\"legendSpanClass\">IRVINE, Calif.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Bandai Namco Filmworks Inc. today announced that MOBILE SUIT GUNDAM SEED FREEDOM ZERO, the newest film in the GUNDAM SEED series and a prequel to MOBILE SUIT GUNDAM SEED FREEDOM, is scheduled to open in North American theaters in February 2027. Matthew Erickson, Matt Hill and Sam Vincent will voice Shinn Asuka, Kira Yamato and Athrun Zala, respectively, in the English-language version.<br></br> </p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2005041/Teaser-visual_tate.jpg?id=OA2994537\" title=\"© SUNRISE\" alt=\"© SUNRISE\"></img></p></div><p>The North American theatrical release window and English voice cast were announced during the GUNDAM Showcase 2026 @ NYC panel at New York Comic Con 2026, held at the Jacob K. Javits Convention Center in New York. A recording of the panel is available on the Popverse YouTube channel.</p><p>The film is a prequel to MOBILE SUIT GUNDAM SEED FREEDOM, which earned more than 5 billion yen and drew 3 million admissions to become the highest-grossing theatrical release in Gundam history. The teaser visual centers on Shinn Asuka, one of the main characters of MOBILE SUIT GUNDAM SEED DESTINY. Its screenplay was written during the production of SEED FREEDOM by series composition writer Chiaki Morosawa, Shigeru Morita and director Mitsuo Fukuda.</p><ul type=\"disc\"><li>North American theatrical release scheduled for February 2027.</li><li>English voice cast announced: Matthew Erickson as Shinn Asuka, Matt Hill as Kira Yamato and Sam Vincent as Athrun Zala.</li><li>Teaser visual and new trailer released, together with comments from the Japanese cast and director Mitsuo Fukuda.</li><li>The MOBILE SUIT GUNDAM SEED Series Grand Prix 2026 fan vote opens Oct. 8, 2026 (PDT).</li></ul><p>Watch the teaser here: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=3422116230&amp;u=https%3A%2F%2Fyoutu.be%2FFEeahlHaGyk&amp;a=https%3A%2F%2Fyoutu.be%2FFEeahlHaGyk\" target=\"_blank\" rel=\"nofollow\">https://youtu.be/FEeahlHaGyk</a></p><p>Assets are available <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=762240709&amp;u=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1cJFXyP-PbLZX4qzxCbnlmaQUkEdn7s8b%3Fusp%3Dsharing&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>.</p><p>Story<br></br>After the collapse of the Destiny Plan proposed by Dullindal, which would have decided people's fates based on genetics, Cagalli, the chief representative of the Orb United Emirates, has been working to bring about a peaceful new order by establishing a global peace monitoring agency called COMPS (Pronounced Compass).</p><p>C.E.74. The great war is over, but Shinn has yet to decide what course he should follow. Then a mobile suit which has survived many past battlefields is transferred from ZAFT to COMPS's temporary base on Onogoro Island. That night, however, the Strike Freedom Gundam is <span>stolen</span> by persons unknown.</p><p>To stop the situation from escalating, to recover the <span>stolen</span> machine, and for the sake of everything they must protect, Shinn and his comrades once again throw themselves into battle...</p><p>Characters<br></br>Joining Shinn Asuka are Lunamaria Hawke, his academy classmate, and Agnes Giebenrath, who made her debut in GUNDAM SEED FREEDOM. Leonard Valway, who makes his first appearance in an animated work in this title, also joins the story.</p><p>Kira Yamato, Athrun Zala and Yzak Jule also return.</p><p>Shinn Asuka<br></br>Shinn joined ZAFT after losing his family during the invasion of Orb. He was used by Dullindal to oppose Kira and his comrades, but they were reconciled after the war. Shinn decided to join COMPS to seek a world without war, and is now training in Orb alongside the Archangel.</p><p>Lunamaria Hawke<br></br>A ZAFT pilot who was Shinn's academy classmate, and fought alongside him aboard the Minerva. Lunamaria is a reliable person with a strong personality. After the previous war, she decided to join COMPS along with Shinn. She still continues to watch over him closely as they train aboard the Archangel.</p><p>Agnes Giebenrath<br></br>A ZAFT pilot who was Shinn's classmate and Lunamaria's friend during their academy days. Known as the \"Moonlight Valkyrie,\" Agnes plays a public relations role for the military. She visits Orb on a mission to transport the Strike Freedom and Infinite Justice.</p><p>Leonard Valway<br></br>One of the \"Reds\" who ranked in the top ten at military academy, Leonard is known as the \"Raging Lion.\" He accompanies Agnes to Orb on a mission to transport the Strike Freedom and Infinite Justice.</p><p>Kira Yamato<br></br>Caught up in a war, Kira fought for the Earth Alliance Forces, but then became an independent force fighting alongside Lacus to end the conflict. He rejected the Destiny Plan and helped defeat Dullindal, but is now wondering what he should do to help a world which is still in chaos.</p><p>Athrun Zala<br></br>As a ZAFT soldier, Athrun found himself enemies with his childhood friend Kira, but came to realize the emptiness of hatred and chose to fight by Kira's side. After the war, he remained with the Orb forces. He also supports Cagalli with activities such as intelligence gathering as part of Terminal.</p><p>Yzak Jule<br></br>A ZAFT pilot who was Athrun's academy classmate, as well as his rival. Yzak is currently an intelligence officer at PLANT staff headquarters. He visits Orb on a mission to transport the Strike Freedom and Infinite Justice.</p><p>Mobile Suits<br></br>The Strike Freedom and Infinite Justice Gundam return from DESTINY, joined by a new mobile suit, the GOUF Ignited Custom. Further character and mecha details are available on the MOBILE SUIT GUNDAM SEED FREEDOM ZERO website: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=278710918&amp;u=https%3A%2F%2Fen.gundam-official.com%2Fseed%2Ffreedom%2F&amp;a=https%3A%2F%2Fen.gundam-official.com%2Fseed%2Ffreedom%2F\" target=\"_blank\" rel=\"nofollow\">https://en.gundam-official.com/seed/freedom/</a></p><p>Japanese Voice Cast and Staff Comments</p><p>Kenichi Suzumura (Japanese Voice of Shinn Asuka):<br></br>To everyone who's loved and supported the Gundam SEED series for so long, thank you so much!<br></br>I'm really happy that we get to bring you a new story again after \"SEED FREEDOM.\"</p><p>This time, it's the story of the time leading up to that one.<br></br>If you've seen \"FREEDOM,\" I think you'll enjoy the characters' words and relationships all over again, from a different angle.<br></br>Personally, I'd still really love for you to keep an eye on Shinn! I did my best to put his earnest feelings and inner conflict into his voice.</p><p>Watch \"ZERO\" and you'll want to watch \"FREEDOM\" again. I'd be happy if that kind of fun spreads. Please go take in their story in theaters!</p><p>Soichiro Hoshi (Japanese Voice of Kira Yamato):<br></br>We had the recording sessions around the time \"SEED FREEDOM\" was in theaters, so I'm excited that it's finally getting released.<br></br>I felt nervous in all sorts of ways during \"FREEDOM,\" but strangely, I'm feeling pretty relaxed this time.<br></br>I hope all the fans who've been waiting can enjoy it soon.</p><p>Akira Ishida (Japanese Voice of Athrun Zala):<br></br>Alright, everyone, now it's time for \"ZERO\"!<br></br>Thank you for the warm reception of \"FREEDOM.\"<br></br>I'm sure some of you were left wondering what on earth happened between \"DESTINY\" and \"FREEDOM.\" Well, \"SEED FREEDOM ZERO\" is here to answer all of that and put those nagging questions to rest. Don't miss it!</p><p>Daisuke Ono (Japanese Voice of Leonard Valway):<br></br>My connection to \"GUNDAM SEED\" goes back exactly 20 years, to \"STARGAZER.\" Back then, I voiced Sven, a Natural in the Earth Alliance. This time, I'm playing Leonard, a Coordinator in ZAFT. Having experienced both sides, there's a perspective I can see now that I couldn't before. I'm so happy to be part of \"GUNDAM SEED\" again after all this time!</p><p>Director Mitsuo Fukuda:<br></br>\"With 20 Years of Yearnings\"<br></br>This is the final work completed by my late wife Chiaki Morosawa, the series composition writer. Until not long ago, I was halfway resigned to the idea that the screenplay might forever remain on the shelf, but now it has been actually made into a film thanks to the ardent support of all the fans. This story shows the characters' yearnings that Chiaki was so eager to depict, and links together \"DESTINY\" and \"FREEDOM.\" I sincerely hope that everyone will enjoy it.</p><p>MOBILE SUIT GUNDAM SEED Series Grand Prix 2026<br></br>To mark the release of MOBILE SUIT GUNDAM SEED FREEDOM ZERO, the \"MOBILE SUIT GUNDAM SEED Series Grand Prix 2026\" opens Oct. 8, 2026 (PDT). This year's Grand Prix ranks memorable character moments. Fans can vote for scenes featuring 55 characters from the MOBILE SUIT GUNDAM SEED and MOBILE SUIT GUNDAM SEED DESTINY television series and the film MOBILE SUIT GUNDAM SEED FREEDOM.</p><p>Voting will be open from Oct. 8 through Nov. 30, 2026 (PDT). Results are scheduled to be announced in December 2026.</p><p>To vote, visit the special website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=2533791694&amp;u=https%3A%2F%2Fen.gundam-official.com%2Fseed%2Fspecial%2Fgp2026%2F&amp;a=https%3A%2F%2Fen.gundam-official.com%2Fseed%2Fspecial%2Fgp2026%2F\" target=\"_blank\" rel=\"nofollow\">https://en.gundam-official.com/seed/special/gp2026/</a>, select a character and choose the scene that means the most to you, then press the Vote button. A YouTube button on each entry plays footage of key scenes and lines. Fans may vote once per character per day.</p><p>English Voice Cast<br></br>Shinn Asuka: Matthew Erickson / Kira Yamato: Matt Hill / Athrun Zala: Sam Vincent</p><p>Japanese Voice Cast<br></br>Shinn Asuka: Kenichi Suzumura / Lunamaria Hawke: Maaya Sakamoto / Agnes Giebenrath: Houko Kuwashima / Leonard Valway: Daisuke Ono / Kira Yamato: Soichiro Hoshi / Lacus Clyne: Rie Tanaka / Athrun Zala: Akira Ishida / Cagalli Yula Athha: Nanako Mori / Yzak Jule: Tomokazu Seki / Dearka Elthman: Akira Sasanuma / Murrue Ramius: Kotono Mitsuishi / Mu La Flaga: Takehito Koyasu</p><p>Staff<br></br>Planning &amp; Production: SUNRISE / Original Concept: Hajime Yatate, Yoshiyuki Tomino / Director: Mitsuo Fukuda / Screenplay: Shigeru Morita, Chiaki Morosawa, Mitsuo Fukuda / Character Design &amp; Chief Animation Director: Hisashi Hirai / Chief Mechanical Animation Director: Satoshi Shigeta / Mechanical Design: Kunio Ohkawara, Kimitoshi Yamane, Manabu Shintani, Zenseava, Takuya Io / Color Design: Akemi Nagao / Art Directors: Shigemi Ikeda, Yukiko Maruyama / CG Directors: Mitsuhiro Sato, Kensuke Kushida / Monitor Graphics: Azusa Tamura, Jiro Kageyama / Directors of Photography: Takeshi Katsurayama, Ryo Iijima / Offline Editing: Yukiko Nojiri / Sound Director: Sadayoshi Fujino / Music: Toshihiko Sahashi / Produced by Bandai Namco Filmworks / Distributed by Bandai Namco Filmworks and Shochiku Co., Ltd.</p><p>About MOBILE SUIT GUNDAM SEED FREEDOM ZERO<br></br>MOBILE SUIT GUNDAM SEED FREEDOM ZERO is the newest addition to the GUNDAM SEED series and serves as the prequel to MOBILE SUIT GUNDAM SEED FREEDOM, the theatrical film that opened Jan. 26, 2024, and became the highest-grossing theatrical release in Gundam history in Japan. Set in the Cosmic Era—a future in which genetically enhanced 'Coordinators' and unaltered 'Naturals' are locked in war—the SEED series follows Kira Yamato, his childhood friend Athrun Zala, and Shinn Asuka, the protagonist of SEED DESTINY, as they navigate the escalating conflicts that culminate in SEED FREEDOM. SEED FREEDOM ZERO is the prequel to the film SEED FREEDOM. The story is based on a script written during the production of SEED FREEDOM by original creators Chiaki Morosawa and Shigeru Morita, together with director Mitsuo Fukuda.</p><p>Official Gundam Links<br></br>GUNDAM Official Website: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=2165315374&amp;u=https%3A%2F%2Fen.gundam-official.com%2F&amp;a=https%3A%2F%2Fen.gundam-official.com%2F\" target=\"_blank\" rel=\"nofollow\">https://en.gundam-official.com/</a><br></br>Gundam Official X: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=2951236994&amp;u=https%3A%2F%2Fx.com%2FGundamInfoNA&amp;a=https%3A%2F%2Fx.com%2FGundamInfoNA\" target=\"_blank\" rel=\"nofollow\">https://x.com/GundamInfoNA</a><br></br>GUNDAM SEED FREEDOM ZERO：<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=278710918&amp;u=https%3A%2F%2Fen.gundam-official.com%2Fseed%2Ffreedom%2F&amp;a=https%3A%2F%2Fen.gundam-official.com%2Fseed%2Ffreedom%2F\" target=\"_blank\" rel=\"nofollow\">https://en.gundam-official.com/seed/freedom/</a><br></br>GUNDAM SEED series Official Site (JP): <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=716009747&amp;u=https%3A%2F%2Fgundam-official.com%2Fseed%2F&amp;a=https%3A%2F%2Fgundam-official.com%2Fseed%2F\" target=\"_blank\" rel=\"nofollow\">https://gundam-official.com/seed/</a><br></br>GUNDAM SEED series Official X (JP): <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792626-1&amp;h=3226676568&amp;u=https%3A%2F%2Fx.com%2FSEED_HDRP&amp;a=https%3A%2F%2Fx.com%2FSEED_HDRP\" target=\"_blank\" rel=\"nofollow\">https://x.com/SEED_HDRP</a><br></br>© SUNRISE</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA66900&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mobile-suit-gundam-seed-freedom-zero-coming-to-north-american-theaters-in-february-2027-announced-at-new-york-comic-con-2026-302902878.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mobile-suit-gundam-seed-freedom-zero-coming-to-north-american-theaters-in-february-2027-announced-at-new-york-comic-con-2026-302902878.html</a></p><p>SOURCE Bandai Namco Filmworks Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA66900&amp;Transmission_Id=202610081600PR_NEWS_USPR_____LA66900&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Bandai Namco Filmworks Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 1
+        },
+        "reasons": {
+          "digital": [
+            "summary:youtube channel"
+          ],
+          "entertainment": [
+            "summary:theatrical release",
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "tradeshow": [
+            "summary:convention"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:47:10.601Z"
+    },
+    {
+      "company": [
+        "Full Sail University"
+      ],
+      "date": "20261008T195200+0000",
+      "dateline": "WINTER PARK, Fla., Oct. 8, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "MAG",
+        "EDU",
+        "MUS",
+        "ENT",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Full Sail University",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1065521/Full-Sail-University-Logo.jpg?id=OA2995715&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1065521/Full-Sail-University-Logo.jpg?id=OA2995715&p=publish"
+        }
+      ],
+      "release_id": "20261008FL67447",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "SVY"
+      ],
+      "summary": "<p class=\"prntac\"><i>Recognition highlights Full Sail's industry-focused approach to preparing the next generation of music business professionals</i></p><p><span class=\"legendSpanClass\">WINTER PARK, Fla.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793177-1&amp;h=3891580320&amp;u=http%3A%2F%2Fwww.fullsail.edu%2F&amp;a=Full+Sail+University\" target=\"_blank\" rel=\"nofollow\">Full Sail University</a> has been named to <i>Billboard Magazine's</i> 2026 Top Music Business Schools list, recognizing the university's Music Business program for its hands-on approach to preparing students for careers across the evolving global music industry.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1065521/Full-Sail-University-Logo.jpg?id=OA2995715\" title=\"Full Sail University\" alt=\"Full Sail University\"></img></p></div><div id=\"divReleaseHighlightda70\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Recognition highlights Full Sail's industry-focused approach preparing next generation of music business professionals</div>",
+      "ticker": [],
+      "title": "Full Sail University named to Billboard Magazine's 2026 Top Music Business Schools list",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008FL67447",
+      "body": "<p class=\"prntac\"><i>Recognition highlights Full Sail's industry-focused approach to preparing the next generation of music business professionals</i></p><p><span class=\"legendSpanClass\">WINTER PARK, Fla.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793177-1&amp;h=3891580320&amp;u=http%3A%2F%2Fwww.fullsail.edu%2F&amp;a=Full+Sail+University\" target=\"_blank\" rel=\"nofollow\">Full Sail University</a> has been named to <i>Billboard Magazine's</i> 2026 Top Music Business Schools list, recognizing the university's Music Business program for its hands-on approach to preparing students for careers across the evolving global music industry.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1065521/Full-Sail-University-Logo.jpg?id=OA2995715\" title=\"Full Sail University\" alt=\"Full Sail University\"></img></p></div><div id=\"divReleaseHighlightda70\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Recognition highlights Full Sail's industry-focused approach preparing next generation of music business professionals</div><p>For more than a decade, <i>Billboard </i>has highlighted institutions that are educating the next generation of music industry leaders, as well as artists and producers who recognize the importance of the business skills these schools teach. <i>Billboard's</i> 2026 list includes schools whose programs span areas such as music business, management, production, performance, publishing, and related fields.</p><p>\"Being recognized by <i>Billboard Magazine</i> among its 2026 Top Music Business Schools list is a tremendous honor and a reflection of the exceptional talent, innovation and dedication of our students, faculty and alumni,\" said Garry Jones, President, Full Sail University. \"Our university is committed to preparing the next generation of music industry leaders with the knowledge and skills they need to thrive in a rapidly evolving global entertainment industry. This recognition affirms the strength of our music business program and the extraordinary work happening across our university community.\"</p><p>Full Sail University's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793177-1&amp;h=3856880172&amp;u=https%3A%2F%2Fwww.fullsail.edu%2Fdegrees%2Fmusic-business-bachelor-degree-program&amp;a=Music+Business+Bachelor+of+Science\" target=\"_blank\" rel=\"nofollow\">Music Business Bachelor of Science</a> is designed around a project-based approach to learning and is available both on campus and online. The program prepares students to pursue opportunities throughout the music business, including artist development and management, music marketing, publishing, live events, streaming, and emerging music ventures. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793177-1&amp;h=387501453&amp;u=https%3A%2F%2Fwww.fullsail.edu%2Fwe-are-different%2Flearning-at-full-sail&amp;a=Students+develop+skills\" target=\"_blank\" rel=\"nofollow\">Students develop skills</a> in areas including music business management, copyright and publishing, rights and royalties, artist development, marketing, distribution, data analysis, fan engagement, finance, leadership, and entrepreneurship. Coursework and projects are designed to place these concepts in practical, industry-oriented contexts.</p><p>As the music business continues to evolve through changes in technology, distribution, audience engagement, data, and emerging tools such as artificial intelligence, Full Sail's Music Business program combines foundational business knowledge with specialized music industry education. The program's curriculum is intended to help students understand both the creative and commercial sides of the music ecosystem while developing practical skills that can be applied across artist development, management, marketing, publishing, live events, and other areas of the industry.</p><p><i>Billboard Magazine's</i> 2026 Top Music Business Schools list appears in the publication's October 2026 print issue and online. For more information about Full Sail University and its Music Business degree program, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793177-1&amp;h=283670848&amp;u=http%3A%2F%2Fwww.fullsail.edu%2F&amp;a=Full+Sail+University%27s+official+website\" target=\"_blank\" rel=\"nofollow\">Full Sail University's official website</a>.</p><p><b>About Full Sail University:<br></br></b>Full Sail University is an award-winning educational leader for those pursuing careers in entertainment media and emerging technologies. Founded in 1979, Full Sail has received numerous accolades throughout its over 45-year history, including most recently being named a 2026 \"Top Game Design School\" by <i>The Princeton Review</i> and one of \"The 30 Best Film Schools in the U.S. and Canada\" in 2026 by <i>MovieMaker</i> Magazine. Full Sail University is a graduate and undergraduate degree-granting institution offering on-campus and online degree programs in areas related to Art &amp; Design, Business, Film &amp; Television, Games, Media &amp; Communications, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793177-1&amp;h=1141055818&amp;u=https%3A%2F%2Fwww.fullsail.edu%2Farea-of-study%2Fmusic-recording&amp;a=Music+%26+Recording\" target=\"_blank\" rel=\"nofollow\">Music &amp; Recording</a>, Sports, and Technology. With over 100,000 graduates worldwide, Full Sail alumni have worked on countless award-winning projects with individual recognition including Oscar®, Emmy®, Grammy®, Addy® and The Game Award honors.</p><p><b>For press inquiries please contact</b>:<br></br>Casey Tanous<br></br>407.310.2497<br></br><a href=\"mailto:Ctanous@fullsail.edu\" target=\"_blank\" rel=\"nofollow\">Ctanous@fullsail.edu</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL67447&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/full-sail-university-named-to-billboard-magazines-2026-top-music-business-schools-list-302902956.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/full-sail-university-named-to-billboard-magazines-2026-top-music-business-schools-list-302902956.html</a></p><p>SOURCE Full Sail University</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL67447&amp;Transmission_Id=202610081552PR_NEWS_USPR_____FL67447&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Full Sail University",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:music industry",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:47:10.709Z"
+    },
+    {
+      "company": [
+        "Lear Capital"
+      ],
+      "date": "20261008T184700+0000",
+      "dateline": "LOS ANGELES, Oct. 8, 2026",
+      "feed": [
+        "PRNUS_WEBMAX",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "RAD",
+        "PUB",
+        "FIN",
+        "PRM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Lear Capital",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS645201/lear-capital-logo-1-Logo.jpg?id=OA2995337&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS645201/lear-capital-logo-1-Logo.jpg?id=OA2995337&p=publish"
+        }
+      ],
+      "release_id": "20261008DA67239",
+      "status": "PUBLISHED",
+      "subject": [
+        "MRR",
+        "SVY"
+      ],
+      "summary": "<p><i>The weekly precious-metals show has drawn about 40,000 downloads since its April debut and now averages roughly 10,000 per month.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Lear Capital's weekly podcast, <i>Outside the Dollar</i>, ended August ranked No. 15 on Apple Podcasts' Business Investing Top 200 chart, about four months after launching in April. The show has recorded roughly 40,000 downloads since its debut and now averages close to 10,000 downloads per month.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS645201/lear-capital-logo-1-Logo.jpg?id=OA2995337\" title=\"Lear Capital\" alt=\"Lear Capital\"></img></p></div><p><i>Outside the Dollar</i> publishes every Friday morning in roughly 15-minute episodes covering gold, silver, and the economic forces shaping the U.S. dollar and financial markets. Each episode is researched and written by Lear Capital's team and narrated by AI-generated voices. The show — tagged \"Tracking Gold, Silver, and Monetary Truth\" — has released 23 episodes to date and is available on Apple Podcasts, Spotify, and YouTube.</p>",
+      "ticker": [],
+      "title": "Lear Capital's New \"Outside the Dollar\" Podcast Reaches Top 15 on Apple Investing Chart",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008DA67239",
+      "body": "<p><i>The weekly precious-metals show has drawn about 40,000 downloads since its April debut and now averages roughly 10,000 per month.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Lear Capital's weekly podcast, <i>Outside the Dollar</i>, ended August ranked No. 15 on Apple Podcasts' Business Investing Top 200 chart, about four months after launching in April. The show has recorded roughly 40,000 downloads since its debut and now averages close to 10,000 downloads per month.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS645201/lear-capital-logo-1-Logo.jpg?id=OA2995337\" title=\"Lear Capital\" alt=\"Lear Capital\"></img></p></div><p><i>Outside the Dollar</i> publishes every Friday morning in roughly 15-minute episodes covering gold, silver, and the economic forces shaping the U.S. dollar and financial markets. Each episode is researched and written by Lear Capital's team and narrated by AI-generated voices. The show — tagged \"Tracking Gold, Silver, and Monetary Truth\" — has released 23 episodes to date and is available on Apple Podcasts, Spotify, and YouTube.</p><p>The podcast's climb reflects steady weekly output rather than a single viral moment, with downloads building across its first five months on the strength of a consistent Friday release schedule and a short, briefing-style format aimed at listeners who want market context without the noise.</p><p>Outside the Dollar is produced with Mato, an AI-powered podcast platform that helps businesses turn their expertise into professionally produced shows. Mato streamlines editing and distribution, allowing Lear Capital to focus on delivering timely and original market commentary while retaining editorial control of each episode.</p><p>\"We built <i>Outside the Dollar</i> to give listeners a clear, 15-minute read on what's moving gold, silver, and the dollar each week, without the noise that surrounds a lot of financial media,\" said John Ohanesian, Chief Executive Officer, Lear Capital. \"Climbing into the top 15 on Apple's investing chart this early tells us there's real appetite for that kind of straightforward, regular context, and we plan to keep delivering it every Friday.\"</p><p><i>Outside the Dollar</i> anchors Lear Capital's weekly Money &amp; Metals Brief at learcapital.com/news, where the company shares the latest headlines, market commentary, and new podcast episodes each week to help investors stay informed on the economy, precious metals, the U.S. dollar, and more. New and past episodes are available at learcapital.com/podcast/outside-the-dollar.</p><p>Information shared on <i>Outside the Dollar</i> and in Lear Capital's publications is for general educational purposes and should not be construed as investment, legal, or tax advice.</p><p><b>About Lear Capital<br></br></b>Since 1997, Lear Capital has been a trusted name in the precious metals industry, providing guidance and tailored solutions on gold and silver. The company has completed more than $5 billion in precious metals transactions and emphasizes transparency and customer education, helping clients make informed decisions about incorporating gold, silver, and other precious metals into their long-term financial strategies. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792964-1&amp;h=2194693242&amp;u=http%3A%2F%2Fwww.learcapital.com&amp;a=www.learcapital.com\" target=\"_blank\" rel=\"nofollow\">www.learcapital.com</a>.</p><p><b>About Mato</b></p><p>Mato helps businesses build and distribute podcasts. Mato's AI host can conduct live interviews with real people, and the platform handles editing, transcripts, show notes, and cover art. By bringing interviews and production into one platform, Mato makes it easier for teams to publish consistently across multiple channels while still giving business control over their published content. To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792964-1&amp;h=485271020&amp;u=http%3A%2F%2Fheymato.com&amp;a=heymato.com\" target=\"_blank\" rel=\"nofollow\">heymato.com</a>.</p><p><b>Media Contact:<br></br></b>Debora Lima<br></br><a href=\"mailto:press@learcapital.com\" target=\"_blank\" rel=\"nofollow\">press@learcapital.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA67239&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/lear-capitals-new-outside-the-dollar-podcast-reaches-top-15-on-apple-investing-chart-302902796.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/lear-capitals-new-outside-the-dollar-podcast-reaches-top-15-on-apple-investing-chart-302902796.html</a></p><p>SOURCE Lear Capital</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA67239&amp;Transmission_Id=202610081447PR_NEWS_USPR_____DA67239&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Lear Capital",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 5,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "summary:podcasts",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:47:10.860Z"
+    },
+    {
+      "company": [
+        "HelloNation"
+      ],
+      "date": "20261008T183200+0000",
+      "dateline": "ALBUQUERQUE, N.M., Oct. 8, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NMX",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "PUB",
+        "ART",
+        "CPR",
+        "ENT",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Dino Hall, President and CEO",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2005396/Dino-Hall-President-and-CEO.mp4?id=OA2995585&p=thumbnail",
+          "type": "video",
+          "url": "https://mmx.prnewswire.com/media/MS2005396/Dino-Hall-President-and-CEO.mp4?id=OA2995585"
+        },
+        {
+          "caption": "HelloNation",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1802497/HN-logo-Logo.jpg?id=OA2995576&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1802497/HN-logo-Logo.jpg?id=OA2995576&p=publish"
+        }
+      ],
+      "release_id": "20261008NY67392",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "BFA",
+        "PRC"
+      ],
+      "summary": "<p>The Article Outlines How Organizers Can Coordinate Performers, Venues, Production, Logistics, and Audience Needs When Planning a Concert.</p><p><span class=\"legendSpanClass\">ALBUQUERQUE, N.M.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- What should organizers consider when planning a concert? <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793120-1&amp;h=2573140313&amp;u=https%3A%2F%2Fhellonation.com%2Fmag%2FNM%2FAlbuquerque%2F6127%3Fpage_id%3D514240&amp;a=A%C2%A0HelloNation+article\" target=\"_blank\" rel=\"nofollow\">A HelloNation article</a> answers that question, featuring insights from Dino Hall of DSH ENTERTAINMENT, INC.®️in Albuquerque, New Mexico.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p title=\"Dino Hall, President and CEO\"><iframe id=\"PlayMedia_1\" src=\"https://mmx.prnewswire.com/media/MS2005396/Dino-Hall-President-and-CEO.mp4?id=OA2995585\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p></div><p>The article explains that live event planning begins well before performers arrive at a venue. Organizers first need to define the event's purpose, expected audience, available budget, and desired experience. These early decisions shape artist selection, production needs, scheduling, and other program elements.</p>",
+      "ticker": [],
+      "title": "Live Entertainment Expert Dino Hall Explains Live Event Planning in HelloNation",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008NY67392",
+      "body": "<p>The Article Outlines How Organizers Can Coordinate Performers, Venues, Production, Logistics, and Audience Needs When Planning a Concert.</p><p><span class=\"legendSpanClass\">ALBUQUERQUE, N.M.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- What should organizers consider when planning a concert? <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793120-1&amp;h=2573140313&amp;u=https%3A%2F%2Fhellonation.com%2Fmag%2FNM%2FAlbuquerque%2F6127%3Fpage_id%3D514240&amp;a=A%C2%A0HelloNation+article\" target=\"_blank\" rel=\"nofollow\">A HelloNation article</a> answers that question, featuring insights from Dino Hall of DSH ENTERTAINMENT, INC.®️in Albuquerque, New Mexico.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p title=\"Dino Hall, President and CEO\"><iframe id=\"PlayMedia_1\" src=\"https://mmx.prnewswire.com/media/MS2005396/Dino-Hall-President-and-CEO.mp4?id=OA2995585\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p></div><p>The article explains that live event planning begins well before performers arrive at a venue. Organizers first need to define the event's purpose, expected audience, available budget, and desired experience. These early decisions shape artist selection, production needs, scheduling, and other program elements.</p><p>According to the article, artist booking requires more than selecting performers who fit the event concept. Organizers should consider audience expectations, venue size, schedules, and technical needs. Contracts should also address performance times, payment terms, travel arrangements, production requirements, and responsibilities for everyone involved.</p><p>The HelloNation article notes that venue selection directly affects concert production and audience experience. Capacity should fit expected attendance while leaving appropriate space for staging, equipment, staff, and guests. During planning, also review accessibility, parking, transportation, security, sound restrictions, and venue requirements.</p><p>Technical coordination is another important part of live event planning. The article explains that performers may require specific sound systems, lighting, staging, electrical service, dressing rooms, or other equipment. Reviewing these requirements early helps production teams determine whether the venue and vendors can support each performance.</p><p>Scheduling brings the separate parts of concert production together. Load-in, sound checks, rehearsals, performances, vendor setup, security briefings, and cleanup all require defined time periods. The article recommends building enough flexibility into the schedule to address delays without disrupting the entire event.</p><p>Clear communication also supports effective event logistics. The article describes the importance of assigning responsibilities for artist needs, technical production, venue operations, security, guest services, and schedule changes. Centralized information can help artists, vendors, production teams, and organizers work from the same instructions.</p><p>The article also emphasizes audience experience throughout the planning process. Entry procedures, seating, signage, restrooms, food service, accessibility, and crowd movement can shape the guest experience. Careful planning in these areas can help prevent operational problems from distracting from the performances.</p><p>For cultural event planning, the article advises organizers to consider traditions, history, and community representation. Artists, speakers, food, activities, and visual elements should reflect the culture with appropriate care. Consultation with knowledgeable community members can help identify concerns before the event reaches the public.</p><p>Live Entertainment Expert Dino Hall's insights also inform the article's discussion of promotion and contingency planning. Event descriptions should accurately represent performers, cultural elements, schedules, and venue details. Organizers should also prepare procedures for weather problems, artist delays, equipment failures, medical situations, crowd concerns, and transportation disruptions.</p><p>The article concludes that successful event logistics depend on coordination across every part of the program. When purpose, programming, concert production, communication, and audience experience align, organizers can create a more cohesive event for performers and guests.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793120-1&amp;h=2034535624&amp;u=https%3A%2F%2Fhellonation.com%2Fmag%2FNM%2FAlbuquerque%2F6127%3Fpage_id%3D514240&amp;a=Live+Entertainment+And+Concert+Experiences\" target=\"_blank\" rel=\"nofollow\">Live Entertainment And Concert Experiences</a> features insights from Dino Hall, Live Entertainment Expert of DSH ENTERTAINMENT, INC.®️. Albuquerque, New Mexico, in HelloNation.</p><p>About HelloNation</p><p>HelloNation is America's Good News Network, a premier media platform built on the idea that good news travels faster when real people tell real stories. Through its community-focused publications and innovative \"edvertising\" approach, HelloNation delivers content that informs, inspires, and spotlights the leaders making a meaningful impact in their communities.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793120-1&amp;h=2008419516&amp;u=http%3A%2F%2Fwww.hellonation.com%2F&amp;a=www.hellonation.com\" target=\"_blank\" rel=\"nofollow\">www.hellonation.com</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1802497/HN-logo-Logo.jpg?id=OA2995576\" title=\"HelloNation\" alt=\"HelloNation\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY67392&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/live-entertainment-expert-dino-hall-explains-live-event-planning-in-hellonation-302902868.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/live-entertainment-expert-dino-hall-explains-live-event-planning-in-hellonation-302902868.html</a></p><p>SOURCE HelloNation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY67392&amp;Transmission_Id=202610081432PR_NEWS_USPR_____NY67392&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "HelloNation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 2,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 11,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "live entertainment",
+            "entertainment",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "management": [
+            "summary:president"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:47:11.001Z"
+    },
+    {
+      "company": [
+        "ROKT Pte. Ltd."
+      ],
+      "date": "20261008T180000+0000",
+      "dateline": "NEW YORK, Oct. 8, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIN",
+        "CPR",
+        "STW",
+        "ECM",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Rokt",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1017551/Rokt-Logo.jpg?id=OA2995293&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1017551/Rokt-Logo.jpg?id=OA2995293&p=publish"
+        }
+      ],
+      "release_id": "20261008NY67206",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "LIC"
+      ],
+      "summary": "<p><i>Eight sessions across Advertising Week and The Female Quotient Lounge brought Rokt together with leaders from companies including Block, </i>e.l.f. Beauty<i>, American Airlines and FOX One.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Rokt, the leading ecommerce company using machine learning and AI to make the shopping experience more relevant to each customer, participated in eight panel discussions during Advertising Week New York 2026 (AWNY), held at The Penn District this week. Rokt leaders joined executives from leading retail, financial services, travel and media companies to discuss how businesses can grow revenue, earn customer trust and adapt to changes in how people discover brands. Four of those sessions took place on AWNY's main stages, while the other four were part of The Female Quotient Lounge programming on site.</p>",
+      "ticker": [],
+      "title": "Rokt Leaders Join Wayne Gretzky and executives from Fanatics, Lowe's, Southwest Airlines and Mastercard to Discuss Leadership, Commerce Media and AI at Advertising Week New York 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008NY67206",
+      "body": "<p><i>Eight sessions across Advertising Week and The Female Quotient Lounge brought Rokt together with leaders from companies including Block, </i>e.l.f. Beauty<i>, American Airlines and FOX One.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Rokt, the leading ecommerce company using machine learning and AI to make the shopping experience more relevant to each customer, participated in eight panel discussions during Advertising Week New York 2026 (AWNY), held at The Penn District this week. Rokt leaders joined executives from leading retail, financial services, travel and media companies to discuss how businesses can grow revenue, earn customer trust and adapt to changes in how people discover brands. Four of those sessions took place on AWNY's main stages, while the other four were part of The Female Quotient Lounge programming on site.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1017551/Rokt-Logo.jpg?id=OA2995293\" title=\"Rokt\" alt=\"Rokt\"></img></p></div><p>\"Businesses want to grow revenue from the customer relationships they've worked hard to build. That depends on making each interaction relevant to the customer,\" said Jon Humphrey, SVP &amp; GM of Rokt Ads. \"As AI changes how people discover brands and make decisions, relevance becomes even more important. The opportunity is to help customers find something they value and give them a reason to return.\"</p><p>One of the week's most anticipated moments came on Wednesday, when Humphrey joined NHL Hall of Famer Wayne Gretzky and Tucker Kain, Chief Strategy &amp; Growth Officer at Fanatics, Inc., on the Great Minds Stage for a conversation about leadership. The session followed Fanatics' recent <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792931-1&amp;h=2487187508&amp;u=https%3A%2F%2Fwww.go.rokt.com%2Fblog%2Ffanatics-selects-rokt-to-deliver-ai-powered-relevance-for-sports-fans-globally&amp;a=decision+to+select+Rokt\" target=\"_blank\" rel=\"nofollow\">decision to select Rokt</a> to deliver AI-powered relevance for sports fans around the world.</p><p>Elsewhere in the program, Rokt leaders sat alongside executives from Lowe's, <span>Citi</span>, Mastercard, e.l.f. Beauty and American Airlines, among others. Many of the discussions centered on how companies outside retail can build commerce media businesses, with other sessions taking up AI's growing influence on where and how people discover brands.</p><p><b>Rokt's sessions on Advertising Week New York Stages:</b></p><ul type=\"disc\"><li><b>Beyond the Brand: Building Partnerships Across an Entire Ecosystem</b> (Marketplace Stage, Monday, October 5). Laura Cosgrove, SVP of Retail Partnerships at Rokt, and Lauren Copland, Ecosystem Partnership Lead at Block, discussed the evolution of the Rokt and Afterpay partnership and what it would take to extend it across Block's wider portfolio, which includes Square, Cash App and TIDAL.. Arielle Feger, Senior Analyst, Media Content at <i>EMARKETER,</i> moderated.</li><li><b>The New Revenue Line: What Customer Attention Is Actually Worth</b> (Media Stage, Tuesday, October 6). Erica Few, Head of FinServ Partnerships at Rokt, joined Elyse Blouin, Vice President &amp; GM of Lowe's Media Network and Dylan Lonergan, Head of Sales at <span>Citi</span> Commerce Media, to look at what building a commerce media business requires once it moves beyond retail. Kerry Flynn, media reporter at <i>Axios</i>, moderated.</li><li><b>Building the Decision Engine for Agentic Marketing</b> (Innovation Stage, Wednesday, October 7). As AI takes on a larger role in media decisions, Rokt's Jon Humphrey sat down with Olivia Kory, Chief Marketing &amp; Strategy Officer at Haus, and Annie Leanse, Senior Director, Subscriber Acquisition &amp; Brand Media Marketing at FOX One, to discuss why attribution alone falls short and how incrementality and experimentation can inform those choices. <i>AdExchange</i>r reporter James Hercher moderated.</li><li><b>Skating to Where the Puck Is Going: The Great One on Leadership</b> (Great Minds Stage, Wednesday, October 7). Wayne Gretzky reflected on decades spent as a player, owner, coach and broadcaster in a conversation with Tucker Kain of Fanatics and Jon Humphrey of Rokt.</li></ul><p>Rokt executives also spoke on the following panels in Female Quotient Lounge at AWNY on Tuesday, October 6:</p><ul type=\"disc\"><li><b>The Trust Advantage: Why Confidence Wins.</b> Maggie Carney, Vice President of Customer Success at Rokt, spoke with Nili Klenoff, EVP of Mastercard Commerce Media; Christie Sclater, SVP of Global Marketing at Clinique; and Cass Zawadowski, Executive Creative Director of Global Brand at Lyft, about how companies earn credibility as AI changes the way people judge brands. <i>ADWEEK</i>'s Chief Brand and Community Officer Jenny Rooney moderated.</li><li><b>The Discovery Economy: Winning Before the Search.</b> Allison Repetto, Vice President of Customer Success, Retail at Rokt, joined Sabrina Callahan, SVP, Chief Digital &amp; Marketing Officer of Southwest Airlines and Diana Tomasetti, Senior Director, Brand &amp; Product Marketing of Carnival Cruise Line, to unpack how consumers now find brands through AI assistants, creators and communities long before they search. Debra Aho Williamson, Founder and Chief Analyst at Sonata Insights, moderated.</li><li><b>Cultural Gravity: Why Some Ideas Pull People In.</b> Laura Cosgrove returned for a second session alongside Laurie Lam, Chief Brand Officer at e.l.f. Beauty, and Haley Paas, SVP of Media, Marketing Effectiveness &amp; Agency Management at Verizon, examining why certain brands and ideas hold an audience long after launch. Luz Corona, Executive Director of Content at The Clios, moderated.</li><li><b>The Media Shift: Following Audiences Wherever They Go.</b> Nicolina Duhs, Head of Retail Partnerships at Rokt, discussed how brands reach audiences whose attention is spreading across more platforms with Lauren Gabriele, VP, Enterprise Business Development at TripleLift; Leslie Lee, VP of T-Mobile Advertising Solutions; and Jacs Wyatt, MD, Global Advertising at American Airlines. Brittany Thompson, VP, Head of Global Enterprise Innovation at Condé Nast moderated.</li></ul><p><b>About Rokt</b></p><p>Rokt is the global leader in ecommerce, unlocking real-time relevance in the moment that matters most—The Transaction Moment™. Rokt's AI Brain and Ecommerce Network powers billions of transactions connecting hundreds of millions of customers, and is trusted to do this by the world's leading companies including Live Nation, Fanatics, Macy's, AMC Theatres, PayPal, Uber, Hulu, Albertsons and HelloFresh. Headquartered in New York City, Rokt has offices across North America, Europe, and the Asia-Pacific region. To learn more, visit Rokt.com.</p><p><b>Media Contact</b></p><p>Tarana Mehta - SVP Marketing<br></br><a href=\"mailto:tarana.mehta@rokt.com\" target=\"_blank\" rel=\"nofollow\">tarana.mehta@rokt.com</a></p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY67206&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/rokt-leaders-join-wayne-gretzky-and-executives-from-fanatics-lowes-southwest-airlines-and-mastercard-to-discuss-leadership-commerce-media-and-ai-at-advertising-week-new-york-2026-302902785.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/rokt-leaders-join-wayne-gretzky-and-executives-from-fanatics-lowes-southwest-airlines-and-mastercard-to-discuss-leadership-commerce-media-and-ai-at-advertising-week-new-york-2026-302902785.html</a></p><p>SOURCE ROKT Pte. Ltd.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY67206&amp;Transmission_Id=202610081400PR_NEWS_USPR_____NY67206&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "ROKT Pte. Ltd.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "management": [
+            "executive"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:47:12.039Z"
+    },
+    {
+      "company": [
+        "Palmetto Publishing"
+      ],
+      "date": "20261008T180000+0000",
+      "dateline": "CHARLESTON, S.C., Oct. 8, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "SCR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "BKS",
+        "PUB",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Be True To Yourself Book Cover",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2005244/Palmetto-Publishing-Be-True-To-Yourself-Book-Cover.jpg?id=OA2995160&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2005244/Palmetto-Publishing-Be-True-To-Yourself-Book-Cover.jpg?id=OA2995160&p=publish"
+        },
+        {
+          "caption": "Palmetto Publishing Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1960932/Palmetto-Publishing-Logo.jpg?id=OA2995155&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1960932/Palmetto-Publishing-Logo.jpg?id=OA2995155&p=publish"
+        }
+      ],
+      "release_id": "20261008CL67145",
+      "status": "PUBLISHED",
+      "subject": [
+        "WOM"
+      ],
+      "summary": "<p>The newly published novel from Palmetto Publishing follows eighteen-year-old Mo'Nikko Kohle through a first love complicated by family secrets, divided loyalties and a past that refuses to stay buried.</p><p><span class=\"legendSpanClass\">CHARLESTON, S.C.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Palmetto Publishing has released <i>Be True to Yourself</i>, a novel by Peaches McKnight. The book is a work of romance fiction centered on a young woman's first love and the family and friendships that surround it. It is available now in print and online. McKnight, a Kansas City, Missouri native who now lives in Shawnee Mission, Kansas, writes both fiction and poetry.</p>",
+      "ticker": [],
+      "title": "Palmetto Publishing Releases Peaches McKnight's Debut Romance Novel Be True to Yourself",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008CL67145",
+      "body": "<p>The newly published novel from Palmetto Publishing follows eighteen-year-old Mo'Nikko Kohle through a first love complicated by family secrets, divided loyalties and a past that refuses to stay buried.</p><p><span class=\"legendSpanClass\">CHARLESTON, S.C.</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Palmetto Publishing has released <i>Be True to Yourself</i>, a novel by Peaches McKnight. The book is a work of romance fiction centered on a young woman's first love and the family and friendships that surround it. It is available now in print and online. McKnight, a Kansas City, Missouri native who now lives in Shawnee Mission, Kansas, writes both fiction and poetry.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2005244/Palmetto-Publishing-Be-True-To-Yourself-Book-Cover.jpg?id=OA2995160\" title=\"Be True To Yourself Book Cover\" alt=\"Be True To Yourself Book Cover\"></img></p></div><p>The story opens on a Saturday morning. Mo'Nikko Fayon Heaven Kohle, eighteen and in her last month of high school, wants nothing more than her chaise and the paperback love story she is halfway through. Her best friend since kindergarten, Phalisha, has other plans, and they involve the six young men working on a canary yellow 1967 Camaro across the street. One of them catches Nikko by the waist mid fight, calls her Cupcakes, and holds her attention from that moment forward. His name is Ocean.</p><p>Nikko is church raised, a virgin by conviction and nobody's easy yes. Ocean is patient, maddening and certain of what he wants. What neither of them can outrun is the life Ocean walked away from, a life that has not finished with him. Closer to home, Nikko's mother Amethyst runs the house with a look that stops a lie in the throat, her sister Kyla sits one bad decision from disaster, and Phalisha keeps a plan tucked behind her smile.</p><p>Peaches McKnight stated, \"This is a story of love, mystery, murder and loyalty, and I wanted readers to sit with characters who feel like people they already know. Ocean is a loving son and a dedicated partner. Nikko is a loving and all too trusting friend. I hope readers walk away asking who they have been trusting, and whether they have been true to themselves.\"</p><p><i>Be True to Yourself</i> is written for adult readers of Black urban romance, particularly those drawn to protective heroes, first love heroines and stories where Sunday morning church and <span>criminal</span> history share the same block. Told through multiple points of view, the novel moves between romance, family drama and suspense. Its themes of sisterly rivalry, friendship betrayal and holding to personal conviction under pressure place it alongside contemporary African American romance titles that treat community and consequence as seriously as attraction.</p><p>McKnight credits three teachers with putting books in her hands early: Mrs. E. White, Mrs. Tuley and Mrs. Shepherd. She has said the novel exists because those three women got there first.</p><p><i>Be True to Yourself</i> is available for purchase online at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792866-1&amp;h=611594651&amp;u=https%3A%2F%2Fwww.amazon.com%2FBe-True-Yourself-Peaches-McKnight%2Fdp%2FB0HHWV8ZST%2Fref%3Dtmm_pap_swatch_0%3F_encoding%3DUTF8%26dib_tag%3Dse%26dib%3DeyJ2IjoiMSJ9.LQJU-ionqDPCNu1Bf1DU8g.L4yBmjsqYdF5rBiuMWA2dNLUsjVTVbaJrD5_E00qLFs%26qid%3D1791469722%26sr%3D1-1&amp;a=+Amazon.com\" target=\"_blank\" rel=\"nofollow\"> Amazon.com</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792866-1&amp;h=1464391223&amp;u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fbe-true-to-yourself-peaches-mcknight%2F1151238983%3Fean%3D9798318837135&amp;a=BarnesandNoble.com\" target=\"_blank\" rel=\"nofollow\">BarnesandNoble.com</a>. For more information about the author, please visit any of their social media platforms.</p><p>Instagram: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792866-1&amp;h=3984871148&amp;u=https%3A%2F%2Fwww.instagram.com%2Fmarilyn330335%3Fstkn%3DMXh2cHJubWdseWtkeg%253D%253D&amp;a=%40marilyn330335\" target=\"_blank\" rel=\"nofollow\">@marilyn330335</a><br></br>TikTok: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792866-1&amp;h=1007711382&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40marilynmcknight43&amp;a=%40marilynmcknight43\" target=\"_blank\" rel=\"nofollow\">@marilynmcknight43</a></p><p>About the Author: Three teachers get the credit, and Peaches McKnight names them without hesitation. Mrs. E. White, her English teacher, and Mrs. Tuley, who taught her British literature, put books in her hands at an age when that still changes a person. Mrs. Shepherd believed in her and treated her with kindness from their very first meeting. <i>Be True to Yourself</i> exists because those three women got there first.</p><p>Born in Kansas City, Missouri, and a graduate of Southwest High School there, McKnight now lives in Shawnee Mission, Kansas. She writes fiction and poetry, and she reads widely; the romance novels her heroine Nikko hides behind are treated in these pages with affection rather than apology. Travel appeals to her, but so does a gym full of noise on a weeknight, since a good portion of her calendar belongs to her three children and their college basketball games.</p><p>Her debut is a story of love, mystery, murder and loyalty, told in the rhythms of real speech, full of banter, eye rolling, and characters who say exactly what they mean the second they think it. Ocean is a loving son and a dedicated partner. Nikko is a loving and all too trusting friend. Denim is loyal and kind hearted. Phalisha is the life of the party, and she knows it. McKnight moves among them in short, quick chapters, and she is unembarrassed by tenderness or by heat.</p><p>The book closes with a tribute to mothers, which is where its title finally lands. Be true to yourself is advice Ocean's father gave him as a small child, and McKnight hands it to her readers the same way, plainly, as something worth keeping.</p><p><b>About the Book:</b></p><p>Title: <i>Be True to Yourself<br></br></i>Author: Peaches McKnight</p><p>Publisher: Palmetto Publishing<br></br>Publication date: September 15, 2026<br></br>ISBN-13: 9798318837135, 9798318837128, 9798318837142</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1960932/Palmetto-Publishing-Logo.jpg?id=OA2995155\" title=\"Palmetto Publishing Logo\" alt=\"Palmetto Publishing Logo\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL67145&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/palmetto-publishing-releases-peaches-mcknights-debut-romance-novel-be-true-to-yourself-302902760.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/palmetto-publishing-releases-peaches-mcknights-debut-romance-novel-be-true-to-yourself-302902760.html</a></p><p>SOURCE Palmetto Publishing</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL67145&amp;Transmission_Id=202610081400PR_NEWS_USPR_____CL67145&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Palmetto Publishing",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "advertising": 2,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:PUB"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-08T20:47:12.171Z"
+    },
     {
       "company": [
         "Supercharged Entertainment New Jersey"
@@ -40525,515 +41151,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:37.684Z"
-    },
-    {
-      "company": [
-        "Full Sail University"
-      ],
-      "date": "20260824T192000+0000",
-      "dateline": "WINTER PARK, Fla., Aug. 24, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_ONLY",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "FRD",
-        "USE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "HED",
-        "EDU",
-        "FLM",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Full Sail University",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1065521/Full-Sail-University-Logo.jpg?id=OA2907625&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1065521/Full-Sail-University-Logo.jpg?id=OA2907625&p=publish"
-        }
-      ],
-      "release_id": "20260824FL32541",
-      "status": "PUBLISHED",
-      "subject": [
-        "AWD",
-        "SVY"
-      ],
-      "summary": "<p>This latest recognition adds to Full Sail's growing reputation as a destination for students seeking a comprehensive education in film and media production. </p><p><span class=\"legendSpanClass\">WINTER PARK, Fla.</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758469-1&amp;h=969247699&amp;u=http%3A%2F%2Fwww.fullsail.edu%2F&amp;a=Full+Sail+University\" target=\"_blank\" rel=\"nofollow\">Full Sail University</a> has been named to <i>MovieMaker Magazine's</i> prestigious 2026 list of \"The 30 Best Film Schools in the U.S. and Canada,\" showcasing the university's commitment to preparing the next generation of filmmakers through hands-on education, creative collaboration and industry-focused training.</p>\n    ",
-      "ticker": [],
-      "title": "Full Sail University named one of MovieMaker Magazine's 30 best film schools in the U.S. and Canada for 2026",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824FL32541",
-      "body": "\n<p>This latest recognition adds to Full Sail's growing reputation as a destination for students seeking a comprehensive education in film and media production. </p><p><span class=\"legendSpanClass\">WINTER PARK, Fla.</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758469-1&amp;h=969247699&amp;u=http%3A%2F%2Fwww.fullsail.edu%2F&amp;a=Full+Sail+University\" target=\"_blank\" rel=\"nofollow\">Full Sail University</a> has been named to <i>MovieMaker Magazine's</i> prestigious 2026 list of \"The 30 Best Film Schools in the U.S. and Canada,\" showcasing the university's commitment to preparing the next generation of filmmakers through hands-on education, creative collaboration and industry-focused training.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1065521/Full-Sail-University-Logo.jpg?id=OA2907625\" title=\"Full Sail University\" alt=\"Full Sail University\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlightb004\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Full Sail University named one of MovieMaker Magazine's 30 best film schools in the U.S. and Canada for 2026</div><p>The annual list highlights leading film programs across the United States and Canada and recognizes institutions that provide students with opportunities to develop their craft, gain practical production experience and build careers across the film and entertainment industries.</p><p>At Full Sail, film-focused students develop skills in areas including, but not limited to:</p><ul type=\"disc\"><li>Directing</li><li>Production (Pre and Post) </li><li>Scriptwriting</li><li>Cinematography</li><li>Editing</li></ul><p>Students across Full Sail's Film degrees including the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758469-1&amp;h=3096680723&amp;u=https%3A%2F%2Fwww.fullsail.edu%2Fdegrees%2Ffilm-bachelor-degree-program&amp;a=Film+Bachelor%27s\" target=\"_blank\" rel=\"nofollow\">Film Bachelor's</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758469-1&amp;h=1843281353&amp;u=https%3A%2F%2Fwww.fullsail.edu%2Fdegrees%2Ffilm-production-mfa&amp;a=Film+Production+Master+of+Fine+Arts\" target=\"_blank\" rel=\"nofollow\">Film Production Master of Fine Arts</a> have access to a variety of hands-on facilities and equipment within the 210-acre campus such as:</p><ul type=\"disc\"><li>Hollywood-Style Backlot - Features a wide range of outdoor backdrops and scenic facades</li><li>Studio V1 - The university's on campus virtual production studio</li><li>Dub Stage - Full Sail's theatrical mixing facility, designed to mirror real-world post-production workflows</li><li>Spatial Computing Innovation Lab - Full Sail is the first higher education institution in the nation to be equipped with the Blackmagic URSA Cine Immersive Camera to enable Apple Immersive Video capture for Apple Vision Pro</li><li>Project Launchbox – Through this initiative all students, including those in the online <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758469-1&amp;h=3772873501&amp;u=https%3A%2F%2Fwww.fullsail.edu%2Fdegrees%2Fdigital-cinematography-bachelor-degree-program&amp;a=Digital+Cinematography+Bachelor%27s\" target=\"_blank\" rel=\"nofollow\">Digital Cinematography Bachelor's</a>, receive a laptop computer loaded with powerful software, as well as other hardware components, all customized to their degree program and included in their tuition. </li></ul><p>Full Sail's Film degrees success is also reflected in the accomplishments of its graduates, whose work has been featured on recent projects such as <i>The Odyssey, Cape Fear, Widow's Bay, </i>and<i> The Boroughs, </i>and who have gone on to careers and projects with notable companies including Universal, Paramount, Hulu and more. This year (2026) Full Sail teams also swept all three categories of the prestigious nationwide Coca-Cola Refreshing Films Program competition.</p><p>\"Full Sail gives aspiring filmmakers the opportunity to take creative risks, tell meaningful stories and learn by doing,\" said Rick Ramsey, Full Sail's Education Director of Visual Arts. \"Being recognized by <i>MovieMaker Magazine</i> among the 30 best film schools in the U.S. and Canada is a testament to the educational community we have built and to the talent and ambition our students and alumni bring to every project.\"</p><p>This latest recognition adds to Full Sail's growing reputation as a destination for students seeking a comprehensive education in film and media production. To learn more about Full Sail, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758469-1&amp;h=3252061427&amp;u=http%3A%2F%2Fwww.fullsail.edu%2F&amp;a=fullsail.edu.\" target=\"_blank\" rel=\"nofollow\">fullsail.edu.</a></p><p><b>About</b> <b>Full Sail University:</b></p><p>Full Sail University is an award-winning educational leader for those pursuing careers in entertainment media and emerging technologies. Founded in 1979, Full Sail has received numerous accolades throughout its over 45-year history, including most recently being named a 2026 \"Top Game Design School\" by <i>The Princeton Review, one of the \"</i>Top 50 Animation Schools and Colleges in the U.S.\" by <i>Animation Career Review</i>, 2026, one of the \"Best Colleges for Computer Science\" by <i>Niche, </i>2026, and named one of the \"Top 50 Film Schools of 2025\" by <i>The Wrap</i>. Full Sail University is a graduate and undergraduate degree-granting institution offering on-campus and online degree programs in areas related to Art &amp; Design, Business, Film &amp; Television, Games, Media &amp; Communications, Music &amp; Recording, Sports, and Technology. With over 100,000 graduates worldwide, Full Sail alumni have worked on countless award-winning projects with individual recognition including Oscar®, Emmy®, Grammy®, Addy® and The Game Award honors.</p><p>Contact: Casey Tanous, Director Public Relations, <a href=\"mailto:ctanous@fullsail.edu\" target=\"_blank\" rel=\"nofollow\">ctanous@fullsail.edu</a>, 407-310-2497</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL32541&amp;sd=2026-08-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/full-sail-university-named-one-of-moviemaker-magazines-30-best-film-schools-in-the-us-and-canada-for-2026-302858644.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/full-sail-university-named-one-of-moviemaker-magazines-30-best-film-schools-in-the-us-and-canada-for-2026-302858644.html</a></p><p>SOURCE Full Sail University</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL32541&amp;Transmission_Id=202608241520PR_NEWS_USPR_____FL32541&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Full Sail University",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "entertainment"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "entertainment"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 8,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "film",
-            "movie",
-            "industry:ENT",
-            "industry:FLM"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:37.877Z"
-    },
-    {
-      "company": [
-        "Bach to Rock Music School"
-      ],
-      "date": "20260824T181600+0000",
-      "dateline": "BETHESDA, Md., Aug. 24, 2026",
-      "feed": [
-        "PRNUS_WEBMAX",
-        "PRNUS"
-      ],
-      "geography": [
-        "MLD",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "MUS",
-        "ENT",
-        "EDU"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Bach to Rock's 2026 National Battle of the Bands high school winner is Whether For Cast? from Bach to Rock, Lutz, Florida.  Photo credit: Cameron Morris, Steam Bridge Media. ",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1971615/Bach-to-Rock-National-Battle-of-the-Bands-high-school-winner-is-Whether-For-Cast.jpg?id=OA2894180&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1971615/Bach-to-Rock-National-Battle-of-the-Bands-high-school-winner-is-Whether-For-Cast.jpg?id=OA2894180&p=publish"
-        },
-        {
-          "caption": "Bach to Rock, America's Music School for Students of All Ages",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1706232/Back-To-Rock-school-logo.jpg?id=OA2894365&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1706232/Back-To-Rock-school-logo.jpg?id=OA2894365&p=publish"
-        }
-      ],
-      "release_id": "20260824NY28811",
-      "status": "PUBLISHED",
-      "subject": [
-        "CHI",
-        "DEI",
-        "AWD"
-      ],
-      "summary": "<p class=\"prntac\"><i>Student Musicians from Across the Country Earn Top Honors in Nationwide Competition</i></p><p><span class=\"legendSpanClass\">BETHESDA, Md.</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=3239006258&amp;u=http%3A%2F%2Fwww.bachtorock.com%2F&amp;a=Bach+to+Rock\" target=\"_blank\" rel=\"nofollow\">Bach to Rock</a>, America's modern music school for students of all ages, proudly announces the champions of its Sixth Annual National <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=2136259481&amp;u=https%3A%2F%2Fwww.bachtorock.com%2Fbattle-of-the-bands%2F&amp;a=Battle+of+the+Bands\" target=\"_blank\" rel=\"nofollow\">Battle of the Bands</a> competition. Following local and regional contests, student bands competed for national honors in four divisions: elementary school, two middle school divisions and high school.  The competition showcased an impressive range of young musical talent, with students demonstrating not only their musicianship, but also the teamwork, confidence and stage presence that is cultivated from performing as a band. A distinguished panel of music industry professionals evaluated the performances and selected first place winners and two runners-up per category. More than 7,700 fan votes were also cast to select a fan favorite in each division prior to the August event. The list of national winners is below, and the performances can be viewed on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=204688804&amp;u=http%3A%2F%2Fbachtorock.com%2Flive&amp;a=bachtorock.com%2Flive\" target=\"_blank\" rel=\"nofollow\">bachtorock.com/live</a>.</p>\n    ",
-      "ticker": [],
-      "title": "The Winners Are In: Bach to Rock Announces 2026 \"Battle of the Bands\" Champions",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824NY28811",
-      "body": "\n<p class=\"prntac\"><i>Student Musicians from Across the Country Earn Top Honors in Nationwide Competition</i></p><p><span class=\"legendSpanClass\">BETHESDA, Md.</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=3239006258&amp;u=http%3A%2F%2Fwww.bachtorock.com%2F&amp;a=Bach+to+Rock\" target=\"_blank\" rel=\"nofollow\">Bach to Rock</a>, America's modern music school for students of all ages, proudly announces the champions of its Sixth Annual National <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=2136259481&amp;u=https%3A%2F%2Fwww.bachtorock.com%2Fbattle-of-the-bands%2F&amp;a=Battle+of+the+Bands\" target=\"_blank\" rel=\"nofollow\">Battle of the Bands</a> competition. Following local and regional contests, student bands competed for national honors in four divisions: elementary school, two middle school divisions and high school.  The competition showcased an impressive range of young musical talent, with students demonstrating not only their musicianship, but also the teamwork, confidence and stage presence that is cultivated from performing as a band. A distinguished panel of music industry professionals evaluated the performances and selected first place winners and two runners-up per category. More than 7,700 fan votes were also cast to select a fan favorite in each division prior to the August event. The list of national winners is below, and the performances can be viewed on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=204688804&amp;u=http%3A%2F%2Fbachtorock.com%2Flive&amp;a=bachtorock.com%2Flive\" target=\"_blank\" rel=\"nofollow\">bachtorock.com/live</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1971615/Bach-to-Rock-National-Battle-of-the-Bands-high-school-winner-is-Whether-For-Cast.jpg?id=OA2894180\" title=\"Bach to Rock's 2026 National Battle of the Bands high school winner is Whether For Cast? from Bach to Rock, Lutz, Florida.  Photo credit: Cameron Morris, Steam Bridge Media. \" alt=\"Bach to Rock's 2026 National Battle of the Bands high school winner is Whether For Cast? from Bach to Rock, Lutz, Florida.  Photo credit: Cameron Morris, Steam Bridge Media. \"></img>\n                </p>\n    </div>\n<p><b>Elementary School Division</b></p><ul type=\"disc\"><li><b>1st Place:</b> The Runaways – Bach to Rock, Bristow, VA</li><li><b>Runner-up:</b> The Noodles – Bach to Rock, Rancho Penasquitos, CA</li><li><b>Runner-up:</b> Evergreen Titans – Bach to Rock, Redmond, WA</li><li><b>Fan Favorite:</b> The Noodles – Bach to Rock, Rancho Penasquitos, CA</li></ul><p><b>Middle School Division 1</b></p><ul type=\"disc\"><li><b>1st Place:</b> Kuzin Kru – Bach to Rock, Port Washington, NY</li><li><b>Runner-up:</b> Overdrive – Bach to Rock, Denville, NJ</li><li><b>Runner-up:</b> Sick Moose – Bach to Rock, Lutz, FL</li><li><b>Fan Favorite:</b> Sick Moose – Bach to Rock, Lutz, FL</li></ul><p><b>Middle School Division 2</b></p><ul type=\"disc\"><li><b>1st Place:</b> Murder On Mars – Bach to Rock, Redmond, WA</li><li><b>Runner-up:</b> Double Time – Bach to Rock, Nanuet, NY</li><li><b>Runner-up:</b> Redhorn – Bach to Rock, Northbrook, IL</li><li><b>Fan Favorite:</b> The Exploding Bobs – Bach to Rock, Apex, NC</li></ul><p><b>High School Division</b></p><ul type=\"disc\"><li><b>1st Place:</b> Whether For Cast? – Bach to Rock, Lutz, FL</li><li><b>Runner-up:</b> Slackin Kraken – Bach to Rock, Apex, NC</li><li><b>Runner-up (tie):</b> Used Car Battery – Bach to Rock, Port Washington, NY</li><li><b>Runner-up (tie):</b> LOVEblue – Bach to Rock, Fishers, IN</li><li><b>Fan Favorite:</b> Petrichor – Bach to Rock, East Marietta, GA</li></ul><p>\"The Battle of the Bands is one of our favorite events because it gives students the experience of preparing for a big gig, from rehearsing and collaborating with their bandmates, to ultimately performing for an audience,\" said Brian Gross, President of Bach to Rock. \"At Bach to Rock, we are performance focused. So, it is rewarding to see the confidence, stage presence and passion each band brings to the stage. We know they have put in a lot of time, energy and dedication to achieving a common goal.\"</p><p>Bach to Rock thanks its all-star panel of judges for bringing their expertise and enthusiasm to the 2026 Battle of the Bands.</p><ul type=\"disc\"><li>Elementary school judges: Griffin Tenbarge, Kimberly Venetz, Sean Mason</li><li>Middle school division 1 judges: Ben Badger, Jason Clark, Rhett Repko</li><li>Middle school division 2 judges: Ben Badger, Dan English, Kayko</li><li>High school judges: Claudia B, Gabe Baker, Trey Odum</li></ul><p><b>Bach to Rock – A Franchise Opportunity with Industry Stature <br></br></b>Bach to Rock has earned numerous <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=1471335489&amp;u=https%3A%2F%2Fwww.bachtorock.com%2Ffranchise-news%2Fbusiness-accolades-bach-to-rock%2F&amp;a=accolades\" target=\"_blank\" rel=\"nofollow\">accolades</a>, including consecutive rankings since 2017 in <i>Entrepreneur Magazine</i>, featuring the 2025 and 2024 Franchise 500®, as well as being named a Top 150 Franchise for Veterans in 2023, and one of the 500 Powerhouse Brands by <i>Franchise Times</i>. The Bach to Rock business model is suited for any music lover who is passionate about enriching his or her community and helping educate children. It is also ideal for experienced investors who appreciate the revenue potential of opening several units. To learn more about franchise ownership opportunities and veteran and franchise referral programs, contact Ralph Rillon, Vice President of Franchise Development, at 1-855-227-7570 or <a href=\"mailto:franchise@bachtorock.com\" target=\"_blank\" rel=\"nofollow\">franchise@bachtorock.com</a>, or visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=2687125745&amp;u=https%3A%2F%2Fwww.bachtorock.com%2Ffranchise%2F&amp;a=https%3A%2F%2Fwww.bachtorock.com%2Ffranchise%2F\" target=\"_blank\" rel=\"nofollow\">https://www.bachtorock.com/franchise/</a>.</p><p><b>About Bach to Rock</b><br></br>Bach to Rock, America's Music School, is a modern music school for students of all ages, from early childhood through high school and beyond. Bach to Rock knows learning music should be fun, and students learn best when they play music they enjoy. The unique approach combines one-on-one instruction with group practice and performance. Weekly ensemble instruction and band formations lead to public concerts, Battle of the Bands and recording sessions in Bach to Rock's professional recording studios. Bach to Rock builds technique, fosters teamwork, and enhances self-esteem through private lessons, band instruction, and public performances.</p><p>Bach to Rock's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=165158788&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4697598-1%26h%3D3111232846%26u%3Dhttps%253A%252F%252Fwww.bachtorock.com%252Fdj-lessons%252F%26a%3DBeat%2BRefinery&amp;a=Beat+Refinery\" target=\"_blank\" rel=\"nofollow\">Beat Refinery</a> is the largest <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=768639000&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4697598-1%26h%3D1126303002%26u%3Dhttps%253A%252F%252Fserato.com%252Fcertified-dj-schools%26a%3DSerato&amp;a=Serato\" target=\"_blank\" rel=\"nofollow\">Serato</a>-certified DJ school in the United States and is one of only a handful of schools worldwide to offer the elite training developed by Serato. Serato, founded in 1999, is the premier provider of audio software to the DJ industry. The Serato certification ensures that select Bach to Rock DJ instructors have been trained and authorized to teach using Serato software and equipment.</p><p>Primarily franchisee-owned with nearly 60 locations, Bach to Rock has instructed nearly 200,000 aspiring musicians since launching in 2007. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=2687125745&amp;u=https%3A%2F%2Fwww.bachtorock.com%2Ffranchise%2F&amp;a=https%3A%2F%2Fwww.bachtorock.com%2Ffranchise%2F\" target=\"_blank\" rel=\"nofollow\">https://www.bachtorock.com/franchise/</a> and follow Bach to Rock on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=3433845705&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4697598-1%26h%3D807440271%26u%3Dhttps%253A%252F%252Fwww.facebook.com%252FBachToRock%252F%26a%3DFacebook&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a> and on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4754880-1&amp;h=1960225604&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4697598-1%26h%3D50863519%26u%3Dhttps%253A%252F%252Fwww.instagram.com%252Fbachtorockmusic%26a%3DInstagram&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>.</p><p><b>Media Contact: </b><br></br>Rebecca Hoover <br></br>540-288-7962 <br></br><a href=\"mailto:rhoover@bachtorock.com\" target=\"_blank\" rel=\"nofollow\">rhoover@bachtorock.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1706232/Back-To-Rock-school-logo.jpg?id=OA2894365\" title=\"Bach to Rock, America's Music School for Students of All Ages\" alt=\"Bach to Rock, America's Music School for Students of All Ages\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY28811&amp;sd=2026-08-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-winners-are-in-bach-to-rock-announces-2026-battle-of-the-bands-champions-302858585.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-winners-are-in-bach-to-rock-announces-2026-battle-of-the-bands-champions-302858585.html</a></p><p>SOURCE Bach to Rock Music School</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY28811&amp;Transmission_Id=202608241416PR_NEWS_USPR_____NY28811&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Bach to Rock Music School",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "entertainment"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "entertainment"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 8,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "summary:music industry",
-            "music",
-            "industry:ENT",
-            "industry:MUS"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:38.027Z"
-    },
-    {
-      "company": [
-        "Fox News Network, LLC"
-      ],
-      "date": "20260824T173600+0000",
-      "dateline": "NEW YORK, Aug. 24, 2026",
-      "feed": [
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "APPLE_NEWS",
-        "PRNUS",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "PUB",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "FOX News Channel",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1648432/fnc-new-logo-Flat-2-Logo-Logo.jpg?id=OA2907523&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1648432/fnc-new-logo-Flat-2-Logo-Logo.jpg?id=OA2907523&p=publish"
-        }
-      ],
-      "release_id": "20260824NY32476",
-      "status": "PUBLISHED",
-      "subject": [
-        "PER"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- FOX News Channel's (FNC) <i>The Five, </i>the number one program in all of cable, has named Emily Compagno a full-time co-host, announced Suzanne Scott, CEO of FOX News Media. Compagno will officially join the program beginning September 8<sup>th</sup> alongside Greg Gutfeld, Dana Perino, Jesse Watters, as well as the rotating liberal seat featuring Harold Ford Jr. and Jessica Tarlov. She will relinquish her current role on <i>Outnumbered </i>(12-1 PM/ET) and a rotating FOX News personality will fill that seat until a permanent co-host is named.</p>\n    ",
-      "ticker": [],
-      "title": "EMILY COMPAGNO NAMED CO-HOST OF FOX NEWS CHANNEL'S THE FIVE",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824NY32476",
-      "body": "\n<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- FOX News Channel's (FNC) <i>The Five, </i>the number one program in all of cable, has named Emily Compagno a full-time co-host, announced Suzanne Scott, CEO of FOX News Media. Compagno will officially join the program beginning September 8<sup>th</sup> alongside Greg Gutfeld, Dana Perino, Jesse Watters, as well as the rotating liberal seat featuring Harold Ford Jr. and Jessica Tarlov. She will relinquish her current role on <i>Outnumbered </i>(12-1 PM/ET) and a rotating FOX News personality will fill that seat until a permanent co-host is named.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1648432/fnc-new-logo-Flat-2-Logo-Logo.jpg?id=OA2907523\" title=\"FOX News Channel\" alt=\"FOX News Channel\"></img>\n                </p>\n    </div>\n<p>In making the announcement, Ms. Scott said, \"Fifteen years later, <i>The Five</i> remains a powerhouse and appointment viewing for millions of Americans. Emily is a highly accomplished host whose energy and talent have made her a standout across FOX News Media, and we are thrilled to officially welcome her to the show<i>.\"</i></p><p>Compagno added, \"I couldn't be more honored to join <i>The Five</i>, a team I have long admired and have been fortunate to work alongside over the years. Having an official seat at the table on what I truly believe is the most fun show on television is an incredible privilege. I am grateful for the opportunity and can't wait to get started.\"</p><p><i>The Five, </i>which celebrated its 15-year anniversary in July 2026, has ruled its timeslot for more than a decade and remains one of the most dominant programs in all of television. During the second quarter of 2026, the program averaged 3.6 million viewers and 322,000 in the 25-54 demo, marking its 19th consecutive quarter as the highest-rated show in cable news. <i>The Five </i>also draws more Democratic viewers than CNN and MS NOW and ranks as the number one program across all of cable among Independents. Commanding more than 64% of the cable news audience in its time slot, the program routinely rivals and outpaces broadcast staples including <i>Law &amp; Order: SVU (3.7M), 9-1-1: Nashville (3.4M), Happy's Place (3.1M) </i>and <i>Abbott Elementary (2.6M).</i></p><p>Compagno joined FOX News as a contributor in 2018 and was named co-host of <i>Outnumbered </i>in 2021. The daily ensemble program, known for its signature debates among four women and \"one lucky guy\" ranks number one in its time slot and routinely outpaces several daytime offerings on the broadcast networks. She is also a bestselling author. Her inaugural title, <i>Under His Wings, </i>published by FOX News Books, debuted at number one on Amazon and the <i>New York Times </i>bestseller list in its first week. </p><p>Prior to joining the network, Compagno practiced law in <span>criminal</span> defense and civil litigation and later served as a federal managing attorney and Acting Director at the Social Security Administration. She also served as a Senior Judge Judicial Extern for the late Hon. John T. Noonan at the U.S. Court of Appeals for the Ninth Circuit and held legal positions in South Africa and Brazil. Compagno was also captain of the NFL's Oakland Raiders cheerleading squad and was selected as an NFL Ambassador, representing the league internationally and visiting U.S. troops in Iraq and Kuwait on a USO tour. She holds a B.A. in Political Science from the University of Washington and a J.D. from the University of San Francisco School of Law.</p><p>FOX News Channel (FNC) is a 24-hour all-encompassing news service and has been the number one network in basic cable for the last 10 years and the most-watched television news channel for more than 24 consecutive years, currently attracting nearly 60% of the cable news viewing audience according to Nielsen Media Research. Notably, Nielsen/MRI Fusion has consistently shown FNC to be the network of choice for more Democrat and Independent viewers, with the most politically diverse audience in cable news. A 2026 <i>New York Times</i>/Siena poll of registered voters found that FNC was the leading single source of news in the country, outranking all national television, cable and print/online organizations, while a 2024 Pew Research Center study found that more Americans named FNC as their main source for political news than any other network. FNC is available in more than 60 million homes including streaming on FOX One and dominates the cable news landscape, routinely notching the top 10 programs in the genre.</p><p class=\"prntac\"><span>###</span></p><p><b>FOX News Media</b> <b>Contact:</b></p><p>Alexandra Coscia: 212.301.3272 or <a href=\"mailto:Alexandra.Coscia@FOX.com\" target=\"_blank\" rel=\"nofollow\">Alexandra.Coscia@FOX.com</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY32476&amp;sd=2026-08-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/emily-compagno-named-co-host-of-fox-news-channels-the-five-302858544.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/emily-compagno-named-co-host-of-fox-news-channels-the-five-302858544.html</a></p><p>SOURCE Fox News Network, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY32476&amp;Transmission_Id=202608241336PR_NEWS_USPR_____NY32476&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Fox News Network, LLC",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 7,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "industry:PUB"
-          ],
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "television": [
-            "fox news",
-            "industry:TVN"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:38.191Z"
-    },
-    {
-      "company": [
-        "Canadian Heritage"
-      ],
-      "date": "20260824T172600+0000",
-      "dateline": "GATINEAU, QC, Aug. 24, 2026",
-      "feed": [
-        "prnj_cnw",
-        "CNWCOMP",
-        "CNW",
-        "CNW_FOR_US_WEB"
-      ],
-      "geography": [
-        "QUE",
-        "CAN",
-        "NAM"
-      ],
-      "industry": [
-        "MUS",
-        "ART",
-        "ENT",
-        "USN"
-      ],
-      "language": "en",
-      "multimedia": [],
-      "release_id": "20260824C0114",
-      "status": "PUBLISHED",
-      "subject": [
-        "CFG"
-      ],
-      "summary": "<p>Minister Miller welcomes the announcement of the process to select Canada's representative for Eurovision.</p><p><span class=\"legendSpanClass\">GATINEAU, QC</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /CNW/ -- Canadian talent is recognized around the world for its uniqueness and creativity. Through the voices of our artists, our culture travels far beyond our borders, carrying our stories, languages and values in music that reflects who we are as a nation and resonates with millions around the world, making Canada the world's fourth-biggest music exporter.</p>\n<p>As CBC/Radio-Canada has announced the process to select the first-ever artist to represent our country at Eurovision, the world's biggest live music competition, I invite all Canadians to take part--from submitting their entry to the competition to voting for their favorite Canadian artist finalist later this fall.</p>",
-      "ticker": [],
-      "title": "Statement by Minister Miller as Canada gets ready to showcase its musical talent to Eurovision",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824C0114",
-      "body": "\n<p>Minister Miller welcomes the announcement of the process to select Canada's representative for Eurovision.</p><p><span class=\"legendSpanClass\">GATINEAU, QC</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /CNW/ -- Canadian talent is recognized around the world for its uniqueness and creativity. Through the voices of our artists, our culture travels far beyond our borders, carrying our stories, languages and values in music that reflects who we are as a nation and resonates with millions around the world, making Canada the world's fourth-biggest music exporter.</p>\n<p>As CBC/Radio-Canada has announced the process to select the first-ever artist to represent our country at Eurovision, the world's biggest live music competition, I invite all Canadians to take part--from submitting their entry to the competition to voting for their favorite Canadian artist finalist later this fall.</p><p>From Halifax to Vancouver, and from Yellowknife to every corner of our country, Canadian music carries the uniqueness and diversity of our land, languages, cultures, people and stories. Canada's participation in Eurovision is a unique opportunity to showcase who we are, with pride and confidence, on the world stage.</p><p>As we begin this Canadian Eurovision journey together, one thing is clear: Canadian culture belongs on the world stage. Best of luck to every talented artist across the country!</p>\n\n\n\n<p>SOURCE Canadian Heritage</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C0114&amp;Transmission_Id=202608241326CANADANWCANADAPR_C0114&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Canadian Heritage",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "entertainment"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "entertainment"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 6,
-          "management": 0,
-          "radio": 1,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 1
-        },
-        "reasons": {
-          "entertainment": [
-            "music",
-            "industry:ENT",
-            "industry:MUS"
-          ],
-          "radio": [
-            "summary:radio"
-          ],
-          "tradeshow": [
-            "summary:expo"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:38.351Z"
-    },
-    {
-      "company": [
-        "Holland America Line"
-      ],
-      "date": "20260824T160200+0000",
-      "dateline": "SEATTLE, Aug. 24, 2026",
-      "feed": [
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "PRNUS_ONLY",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "WGN",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "MAR",
-        "TRA",
-        "TRN",
-        "MUS",
-        "ENT",
-        "HRT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Rendering of new bandstand",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974497/Holland-America-Evolution-Live-Music-Poolside-Bandstand-rendering.jpg?id=OA2907156&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974497/Holland-America-Evolution-Live-Music-Poolside-Bandstand-rendering.jpg?id=OA2907156&p=publish"
-        },
-        {
-          "caption": "Rendering of Orange Party at new bandstand",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1974498/Holland-America-rendering-of-Orange-Party-at-new-bandstand.jpg?id=OA2907157&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1974498/Holland-America-rendering-of-Orange-Party-at-new-bandstand.jpg?id=OA2907157&p=publish"
-        },
-        {
-          "caption": "Holland America Line Standard Photo/Logo",
-          "seq": "3",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS199062/Holland-America-Line-Logo.jpg?id=OA2907152&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS199062/Holland-America-Line-Logo.jpg?id=OA2907152&p=publish"
-        }
-      ],
-      "release_id": "20260824SF32331",
-      "status": "PUBLISHED",
-      "subject": [
-        "FVT",
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\"><i>Dedicated music venues will bring live performances, special events and favorite Holland America traditions to the heart of the ship</i></p><p><b>Key Highlights:</b></p><ul type=\"disc\"><li>New bandstands at the Lido Pool on Oosterdam and Zuiderdam will create dedicated venues for live music and entertainment in one of the ship's most popular gathering spaces.</li><li>The new venues will host a variety of musical acts throughout each cruise, from solo performers to energetic live bands during sailaways, special events and celebrations.</li><li>The additions expand opportunities for guests to enjoy favorite onboard traditions, including programming tied to Holland America Line's signature Orange Party.</li><li>The enhancement is part of Holland America Evolution, a more than $500 million investment introducing guest-favorite venues, new staterooms and suites, and other enhancements across six Vista and Signature Class ships.</li></ul>",
-      "ticker": [
-        "NYSE:CCL"
-      ],
-      "title": "Holland America Evolution Expands Live Music Offerings with New Poolside Bandstands on Oosterdam and Zuiderdam",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824SF32331",
-      "body": "\n<p class=\"prntac\"><i>Dedicated music venues will bring live performances, special events and favorite Holland America traditions to the heart of the ship</i></p><p><b>Key Highlights:</b></p><ul type=\"disc\"><li>New bandstands at the Lido Pool on Oosterdam and Zuiderdam will create dedicated venues for live music and entertainment in one of the ship's most popular gathering spaces.</li><li>The new venues will host a variety of musical acts throughout each cruise, from solo performers to energetic live bands during sailaways, special events and celebrations.</li><li>The additions expand opportunities for guests to enjoy favorite onboard traditions, including programming tied to Holland America Line's signature Orange Party.</li><li>The enhancement is part of Holland America Evolution, a more than $500 million investment introducing guest-favorite venues, new staterooms and suites, and other enhancements across six Vista and Signature Class ships.</li></ul><p><span class=\"legendSpanClass\">SEATTLE</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- As part of Holland America Evolution, the cruise line is introducing new bandstands at the Lido Pool on Oosterdam and Zuiderdam, creating dedicated venues for live music and entertainment in one of the ship's most popular gathering spaces. The new additions will expand opportunities for guests to enjoy live performances throughout their cruise, with the first venue debuting on Oosterdam following its Evolution transformation in fall 2027.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1974497/Holland-America-Evolution-Live-Music-Poolside-Bandstand-rendering.jpg?id=OA2907156\" title=\"Rendering of new bandstand\" alt=\"Rendering of new bandstand\"></img>\n                </p>\n    </div>\n<p>The new Lido Pool bandstand creates a dedicated venue for live music in one of the ship's most popular gathering spaces. Expanding on Holland America Line's already robust entertainment lineup, the addition gives guests even more opportunities to enjoy performances throughout their cruise while creating a central hub for special events and celebrations.</p><p>\"Evolution is about bringing the very best of Holland America Line to more of our fleet,\" said Beth Bodensteiner, president of Holland America Line. \"Over the past several years, we've been on a journey to expand and elevate our entertainment offerings across the fleet, guided by what our guests tell us they love most. The new Lido Pool bandstands are another step in that effort, creating more opportunities to enjoy live music and memorable performances in one of the ship's most popular gathering spaces.\"</p><p>Programming at the new venue will include a variety of musical acts, from solo performers to energetic live bands, along with events connected to Holland America Line's signature Orange Party and other guest-favorite traditions. The Lido Pool's retractable glass roof allows guests to enjoy the space throughout the voyage, rain or shine.</p><p><b>Evolution Expands the Pinnacle Class Experience</b></p><p>The largest fleet update in the company's 153-year history, Holland America Evolution is revitalizing six Vista and Signature Class ships with a blend of Pinnacle Class-inspired experiences, new offerings and guest favorites. The company will invest more than $500 million across the ships to enhance guest spaces, introduce new venues and add additional staterooms and suites that provide more choice for travelers. Oosterdam and Zuiderdam are the first two ships in the program.</p><p>In addition to the new poolside bandstands, guests sailing aboard Oosterdam and Zuiderdam following their transformations will enjoy a number of enhancements, including the introduction of the popular Grand Dutch Café and new staterooms and suites. Together, the updates are designed to bring some of the line's most-loved experiences to more of the fleet while creating additional space and amenities for guests.</p><p>Bookings are now open for <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758257-1&amp;h=3052245563&amp;u=https%3A%2F%2Fwww.hollandamerica.com%2Fen%2Fus%2Ffind-a-cruise%3FdealId%3DHALEVO%26csvFileName%3DHALEVO.csv&amp;a=Oosterdam\" target=\"_blank\" rel=\"nofollow\">Oosterdam</a>'s and <a class=\"validateurls_yellow\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758257-1&amp;h=3548044606&amp;u=https%3A%2F%2Fwww.hollandamerica.com%2Fen%2Fus%2Ffind-a-cruise%3FdealId%3DHALEVO%26csvFileName%3DHALEVO.csv%26shipId%3A(UU)&amp;a=Zuiderdam\" target=\"_blank\" rel=\"nofollow\">Zuiderdam</a>'s cruises following both refurbishments, giving guests an early opportunity to experience updated staterooms, enhanced spaces and expanded venues firsthand. </p><p>Additional details about Holland America Evolution and upcoming ship transformations are available at hollandamerica.com/evolution.</p><p>For more information about <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758257-1&amp;h=394929928&amp;u=https%3A%2F%2Fwww.hollandamerica.com%2Fen%2Fus%2Fcruise-deals%2Fhave-it-all%3FICID%3DINTHWEB20240502MYZ78LYX6X&amp;a=Holland+America+Line\" target=\"_blank\" rel=\"nofollow\">Holland America Line</a> or to book a cruise, consult a travel advisor, call 1-877-SAIL HAL (877-724-5425) or visit hollandamerica.com.</p><p>Find Holland America Line on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758257-1&amp;h=857565047&amp;u=https%3A%2F%2Fwww.facebook.com%2FHollandAmericaLine%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758257-1&amp;h=77667497&amp;u=http%3A%2F%2Fwww.instagram.com%2Fhollandamericaline&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a> and the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758257-1&amp;h=3334575036&amp;u=http%3A%2F%2Fwww.hollandamerica.com%2Fblog&amp;a=Holland+America+Blog\" target=\"_blank\" rel=\"nofollow\">Holland America Blog</a>. You can also access all social media outlets via the home page at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758257-1&amp;h=1570155452&amp;u=http%3A%2F%2Fwww.hollandamerica.com%2F&amp;a=hollandamerica.com\" target=\"_blank\" rel=\"nofollow\">hollandamerica.com</a>.</p><p><b>About Holland America Line<br></br></b><span>Holland America Line has been exploring the world for more than 150 years with expertly crafted itineraries, extraordinary service and genuine connections to the destinations. Offering a perfectly-sized ship experience, its fleet of 11 vessels visits nearly 400 ports in 114 countries around the world and has shared the thrill of Alaska for more than 75 years — longer than any other cruise line. Savour the Journey isn't just a </span>tagline<span>, it's a reinforcement that the cruise line provides experiences too good to hurry through, connecting travelers to the world and each other. Award-winning enrichment programming, entertainment and cuisine that brings each locale on board, including a revolutionary Global Fresh Fish Program, put Holland America Line at the forefront of premium cruising. Holland America Line is part of Carnival Corporation, the world's largest cruise company with a portfolio of cruise lines operating in over 800 ports &amp; destinations worldwide. (NYSE: </span>CCL<span>).  </span></p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><tr><th style=\"padding-right: 1px; padding-left: 2pt; vertical-align: bottom; text-align: left; font-weight: normal; border: 1pt none black;\" colspan=\"1\" rowspan=\"1\"><p class=\"prnews_p\"><b>CONTACT:</b></p></th><th style=\"padding-right: 1px; padding-left: 2pt; vertical-align: bottom; text-align: left; font-weight: normal; border: 1pt none black;\" colspan=\"1\" rowspan=\"1\"><p class=\"prnews_p\">Bill Zucker</p></th></tr><tr><td class=\"prngen1\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>PHONE:</b></span></p></td><td class=\"prngen1\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">800-637-5029, 206-626-9890</span></p></td></tr><tr><td class=\"prngen1\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>EMAIL:</b></span></p></td><td class=\"prngen1\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><a href=\"mailto:pr@hollandamerica.com\" target=\"_blank\" class=\"prnews_a\" rel=\"nofollow\">pr@hollandamerica.com</a></span></p></td></tr></table></div>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1974498/Holland-America-rendering-of-Orange-Party-at-new-bandstand.jpg?id=OA2907157\" title=\"Rendering of Orange Party at new bandstand\" alt=\"Rendering of Orange Party at new bandstand\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS199062/Holland-America-Line-Logo.jpg?id=OA2907152\" title=\"Holland America Line Standard Photo/Logo\" alt=\"Holland America Line Standard Photo/Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF32331&amp;sd=2026-08-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/holland-america-evolution-expands-live-music-offerings-with-new-poolside-bandstands-on-oosterdam-and-zuiderdam-302858466.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/holland-america-evolution-expands-live-music-offerings-with-new-poolside-bandstands-on-oosterdam-and-zuiderdam-302858466.html</a></p><p>SOURCE Holland America Line</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF32331&amp;Transmission_Id=202608241201PR_NEWS_USPR_____SF32331&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Holland America Line",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prngen1{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:1pt  black; BORDER-RIGHT:1pt  black; BORDER-BOTTOM:1pt  black; BORDER-LEFT:1pt  black\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "entertainment"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "entertainment"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 7,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "summary:entertainment",
-            "music",
-            "industry:ENT",
-            "industry:MUS"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:38.509Z"
-    },
-    {
-      "company": [
-        "Lancium LLC"
-      ],
-      "date": "20260824T160100+0000",
-      "dateline": "THE WOODLANDS, Texas, Aug. 24, 2026",
-      "feed": [
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "TXS",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "AFI",
-        "DTA",
-        "OIL",
-        "CPR",
-        "UTI"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "New Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1360059/Lancium-Logo.jpg?id=OA2906911&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1360059/Lancium-Logo.jpg?id=OA2906911&p=publish"
-        }
-      ],
-      "release_id": "20260824CL32248",
-      "status": "PUBLISHED",
-      "subject": [
-        "LIC"
-      ],
-      "summary": "<p><i>Partnership connects Lancium's power-secured campus pipeline with NVIDIA's AI ecosystem, enabling cloud partners, infrastructure developers, AI native companies and all other NVIDIA ecosystem partners to deploy NVIDIA AI infrastructure at gigawatt scale</i></p><p><span class=\"legendSpanClass\">THE WOODLANDS, Texas</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- Lancium, a leading energy technology and infrastructure company enabling gigawatt-scale AI factory campuses, announced a strategic collaboration with NVIDIA to facilitate deployment of NVIDIA technology across Lancium's growing portfolio. In addition, NVIDIA has made a strategic investment in Lancium, a Blackstone portfolio company backed by significant investments from funds managed by Blackstone Energy Transition Partners (BETP) and Blackstone Multi-Asset Investing (BXMA) (collectively \"Blackstone\").</p>\n    ",
-      "ticker": [],
-      "title": "Lancium Announces Partnership with NVIDIA to Advance Gigawatt-Scale AI Factory Development Across Its 15+ GW Portfolio",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260824CL32248",
-      "body": "\n<p><i>Partnership connects Lancium's power-secured campus pipeline with NVIDIA's AI ecosystem, enabling cloud partners, infrastructure developers, AI native companies and all other NVIDIA ecosystem partners to deploy NVIDIA AI infrastructure at gigawatt scale</i></p><p><span class=\"legendSpanClass\">THE WOODLANDS, Texas</span>, <span class=\"legendSpanClass\">Aug. 24, 2026</span> /PRNewswire/ -- Lancium, a leading energy technology and infrastructure company enabling gigawatt-scale AI factory campuses, announced a strategic collaboration with NVIDIA to facilitate deployment of NVIDIA technology across Lancium's growing portfolio. In addition, NVIDIA has made a strategic investment in Lancium, a Blackstone portfolio company backed by significant investments from funds managed by Blackstone Energy Transition Partners (BETP) and Blackstone Multi-Asset Investing (BXMA) (collectively \"Blackstone\").</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1360059/Lancium-Logo.jpg?id=OA2906911\" title=\"New Logo\" alt=\"New Logo\"></img>\n                </p>\n    </div>\n<p>Through this partnership, Lancium's AI factory campuses, representing 4 gigawatts of leased capacity and a development pipeline exceeding 15 gigawatts of powered land will serve as strategic deployment sites for NVIDIA's total, full-stack AI factory platform, including accelerated computing, networking, and software. This will give NVIDIA customers and partners access to large-scale, power-ready capacity for demanding AI workloads.</p><p>Using NVIDIA DSX reference designs, the companies will accelerate deployments while improving performance per megawatt, time to first <span>token</span>, revenue potential, and cost per <span>token</span>. As part of this effort, Lancium will use NVIDIA DSX MaxLPS to enable up to 40% more GPUs within the same power budget and DSX Flex to adjust AI factory power consumption with the grid, supporting its model of reliable, grid-responsive campuses.</p><p><b>Michael McNamara, CEO and Co-Founder, Lancium:</b> \"We have spent years assembling the power, the land, and the infrastructure expertise needed to deliver AI data center capacity at a scale the world has never seen. Partnering with NVIDIA — the definitive technology platform for AI computing — ensures that every campus in our portfolio will be deployed with the industry's most advanced technology and that NVIDIA's customers will have access to the capacity they need to compete and lead in the AI era.\"</p><p>\"AI factories are the essential infrastructure of this new industrial era,\" said Nico Caprez, vice president of global AI infrastructure growth at NVIDIA. \"Together with Lancium, we're enabling a new generation of gigawatt-scale, power-ready AI factories – enabling cloud partners, AI natives and AI infrastructure developers deploy the full NVIDIA computing stack faster, operate more efficiently and turn energy into intelligence at unprecedented scale.\"</p><p>Bilal Khan, Senior Managing Director at Blackstone said: \"This partnership with NVIDIA is a strong testament to Lancium's position at the epicenter of energy and AI infrastructure – two of Blackstone's highest conviction investment themes. We look forward to continuing to partner with these leading companies to help power the next generation of AI innovation.\"</p><p><b>About Lancium</b></p><p>Lancium is an energy technology and infrastructure company uniquely positioned to enable the AI data center demand mega-trend. Founded in 2017 and headquartered in The Woodlands, Texas, Lancium designs, develops, and operates gigawatt-scale AI data center campuses that integrate grid interconnects, behind-the-meter generation, and storage resources to deliver reliable, low-cost, and sustainable power at the scale AI demands. Lancium's industry-leading power management expertise enables its campuses to serve as assets to the grid while delivering the compute density that the world's most advanced AI workloads require. Lancium currently has 4 GWs of capacity under lease and a pipeline exceeding 15 GWs of powered land in development. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758173-1&amp;h=1037958020&amp;u=https%3A%2F%2Flancium.com%2F&amp;a=lancium.com\" target=\"_blank\" rel=\"nofollow\">lancium.com</a>.</p><p><b>About Blackstone Energy Transition Partners</b>   <br></br>Blackstone Energy Transition Partners is Blackstone's strategy for control-oriented equity investments in energy-related businesses, with a successful long-term record, having invested over $29 billion of equity globally across a broad range of sectors across the energy transition landscape. Our investment philosophy is based on backing exceptional management teams with flexible capital to provide solutions that help energy companies grow and improve performance, thereby delivering more reliable, affordable and cleaner energy to meet the needs of the global community. In the process, we build stronger, larger scale enterprises, create jobs and generate lasting value for our investors, employees and all stakeholders. Further information is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758173-1&amp;h=2176447699&amp;u=https%3A%2F%2Fwww.blackstone.com%2Four-businesses%2Fblackstone-energy-transition-partners%2F&amp;a=https%3A%2F%2Fwww.blackstone.com%2Four-businesses%2Fblackstone-energy-transition-partners%2F\" target=\"_blank\" rel=\"nofollow\">https://www.blackstone.com/our-businesses/blackstone-energy-transition-partners/</a>.</p><p><b>About Blackstone</b><br></br>Blackstone is the world's largest alternative asset manager. Blackstone seeks to deliver compelling returns for institutional and individual investors by strengthening the companies in which the firm invests. Blackstone's over $1.3 trillion in assets under management include global investment strategies focused on real estate, private equity, credit, infrastructure, life sciences, growth equity, secondaries and hedge funds. Further information is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758173-1&amp;h=1273371120&amp;u=https%3A%2F%2Fwww.blackstone.com%2FUsers%2Ffriendlc%2FAppData%2FLocal%2FMicrosoft%2FWindows%2FINetCache%2FContent.Outlook%2FJ6AHUTWV%2Fwww.blackstone.com&amp;a=www.blackstone.com\" target=\"_blank\" rel=\"nofollow\">www.blackstone.com</a>. Follow @blackstone on<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758173-1&amp;h=3596364890&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2F7834%2F&amp;a=%C2%A0LinkedIn\" target=\"_blank\" rel=\"nofollow\"> LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758173-1&amp;h=1902104405&amp;u=https%3A%2F%2Ftwitter.com%2Fblackstone&amp;a=X+(Twitter)\" target=\"_blank\" rel=\"nofollow\">X (Twitter)</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4758173-1&amp;h=1960373303&amp;u=https%3A%2F%2Fwww.instagram.com%2Fblackstone%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>. </p><p><i>Certain statements in this press release including, but not limited to, statements as to the benefits, impact, and expectations of the partnership, investment, and future developments are forward-looking statements that involve risks and uncertainties. Actual outcomes may differ materially. Lancium does not undertake any obligation to update forward-looking statements.</i></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL32248&amp;sd=2026-08-24\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/lancium-announces-partnership-with-nvidia-to-advance-gigawatt-scale-ai-factory-development-across-its-15-gw-portfolio-302858393.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/lancium-announces-partnership-with-nvidia-to-advance-gigawatt-scale-ai-factory-development-across-its-15-gw-portfolio-302858393.html</a></p><p>SOURCE Lancium LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL32248&amp;Transmission_Id=202608241201PR_NEWS_USPR_____CL32248&amp;DateId=20260824\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Lancium LLC",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "actor"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:38.824Z"
     }
   ]
 }
