@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T05:15:30.241Z",
+  "generated_at": "2026-10-10T11:18:55.986Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 461,
+  "count": 460,
   "releases": [
     {
       "company": [
@@ -40189,93 +40189,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:34.078Z"
-    },
-    {
-      "company": [
-        "Sabio Inc."
-      ],
-      "date": "20260826T110000+0000",
-      "dateline": "TORONTO and SAN FRANCISCO, Aug. 26, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "PRNUS_ONLY",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "ONT",
-        "CAN",
-        "NAM",
-        "CLF",
-        "UWS",
-        "USA"
-      ],
-      "industry": [
-        "ADV",
-        "AFI",
-        "STW",
-        "MLM",
-        "NET",
-        "OTC",
-        "CPR"
-      ],
-      "language": "en-US",
-      "multimedia": [],
-      "release_id": "20260826LA33881",
-      "status": "PUBLISHED",
-      "subject": [
-        "LIC"
-      ],
-      "summary": "<p><b>Collaboration brings AI agents into internal workflows to increase operational efficiency and support Sabio's broader agentic AI strategy</b></p><p><span class=\"legendSpanClass\">TORONTO and SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759755-1&amp;h=229493799&amp;u=https%3A%2F%2Fsabioctv.com%2F&amp;a=Sabio+Holdings\" target=\"_blank\" rel=\"nofollow\">Sabio Holdings</a>, a Los Angeles-based creator-led, data-driven and AI-powered AdTech company helping global brands reach, engage and validate (R.E.V.) streaming TV audiences, and Gentoro, an enterprise AI company focused on operationalizing AI across complex business workflows, today announced a collaboration to bring agentic AI into Sabio's DSP environment beginning with internal workflows and execution connected to the launch of a natural language self-serve user interface.</p>\n",
-      "ticker": [
-        "OTC-QX:SABOF",
-        "OTC-BB:SABOF",
-        "OTC-QB:SABOF",
-        "TorontoVE:SBIO",
-        "TSXV:SBIO"
-      ],
-      "title": "Sabio and Gentoro Partner to Advance Agentic AI Across Advertising Operations",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826LA33881",
-      "body": "\n<p><b>Collaboration brings AI agents into internal workflows to increase operational efficiency and support Sabio's broader agentic AI strategy</b></p><p><span class=\"legendSpanClass\">TORONTO and SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759755-1&amp;h=229493799&amp;u=https%3A%2F%2Fsabioctv.com%2F&amp;a=Sabio+Holdings\" target=\"_blank\" rel=\"nofollow\">Sabio Holdings</a>, a Los Angeles-based creator-led, data-driven and AI-powered AdTech company helping global brands reach, engage and validate (R.E.V.) streaming TV audiences, and Gentoro, an enterprise AI company focused on operationalizing AI across complex business workflows, today announced a collaboration to bring agentic AI into Sabio's DSP environment beginning with internal workflows and execution connected to the launch of a natural language self-serve user interface.</p>\n<p>Sabio has applied AI across its technology platform for years, including within its App Science® household graph and natural language processing capabilities. Agentic AI accelerates that strategy, extending AI from intelligence and analysis into the operational workflows that support the business.</p><p>Working with Gentoro, Sabio will deploy AI agents across internal operations, initially focusing on campaign management. The collaboration combines Sabio's AdTech expertise and integrated technology environment with Gentoro's expertise in AI workflow discovery, agentic architecture, and implementation.</p><p>\"Our partnership with Gentoro enables agentic AI agents to streamline our workflows, while unifying our full tech stack: our DSP, SSP, SSAI, Creator TV®, and App Science® analytics capabilities. This will provide new ways for brands, agencies, and small businesses to work with Sabio in a natural language environment,\" said Aziz Rahimtoola, CEO of Sabio Holdings.</p><p>The initial implementation uses Gentoro's Campaign Management (CM) Agent to streamline complex, cross-system workflows and reduce repetitive manual work. Gentoro's MCP-based agentic architecture enables AI agents to work securely across Sabio's existing technology environment while providing a scalable foundation for additional agentic AI applications.</p><p>\"Operational efficiency is one of the most immediate opportunities for agentic AI to create meaningful business value,\" said Pervez Choudhry, CEO of Gentoro. \"Sabio already has a sophisticated AI strategy and a technology environment uniquely suited to taking the next step. We're helping translate that advantage into operational AI and create an architecture that can scale as new opportunities emerge.\"</p><p>Sabio owns and operates its DSP, SSP, App Science® household graph, and first-party data capabilities through Creator TV. This unified technology environment creates an opportunity to extend agentic AI across systems and workflows as Sabio advances its AI strategy and the advertising industry moves toward broader operational AI adoption.</p><p>Sabio and Gentoro plan to explore additional applications of agentic AI across advertising operations, with a focus on increasing operational efficiency and delivering greater value to advertisers.</p><p><b>About Sabio Holdings</b></p><p>‍Sabio Holdings (TSXV: SBIO, OTCQB: SABOF) is a technology and services leader in the fast-growing ad-supported streaming space. Its cloud-based, end-to-end technology stack works with top blue-chip, global brands and the agencies that represent them to reach, engage, and validate (R.E.V.) streaming audiences.</p><p>Sabio consists of a proprietary ad-serving technology platform that partners with the top ad-supported streaming platforms and apps in the world, App Science™, a non-cookie-based software as a service (SAAS) analytics and insights platform with AI natural language capabilities, and Creator Television® (Creator TV), the first creator-led streaming network and content studio dedicated to bringing the authenticity and energy of social media storytelling to TV. For more information, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759755-1&amp;h=3556751104&amp;u=http%3A%2F%2Fsabioctv.com%2F&amp;a=sabioctv.com\" target=\"_blank\" rel=\"nofollow\">sabioctv.com</a>.</p><p><b>About Gentoro</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759755-1&amp;h=3478880387&amp;u=http%3A%2F%2Fgentoro.com%2F&amp;a=Gentoro\" target=\"_blank\" rel=\"nofollow\">Gentoro</a> helps enterprises operationalize AI across complex business environments. Through AI transformation expertise, enterprise-grade agentic architecture, and implementation, Gentoro connects AI with existing systems, data, and workflows to solve high-value business problems and create a scalable foundation for broader AI adoption.</p><p><b><i>This news release shall not constitute an offer to sell or the solicitation of an offer to buy any securities in any jurisdiction.</i></b></p><p><b><i>Neither the TSX Venture Exchange nor its Regulation Service Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.</i></b></p><p><b>Media Contacts</b></p><p><b>Sabio Holdings</b><br></br>Sajid Premji<br></br><a href=\"mailto:investor@sabio.inc\" target=\"_blank\" rel=\"nofollow\">investor@sabio.inc</a></p><p><b>Gentoro</b><br></br>Irina Ozernoy<br></br><a href=\"mailto:irina@gentoro.com\" target=\"_blank\" rel=\"nofollow\">irina@gentoro.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA33881&amp;sd=2026-08-26\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/sabio-and-gentoro-partner-to-advance-agentic-ai-across-advertising-operations-302860049.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/sabio-and-gentoro-partner-to-advance-agentic-ai-across-advertising-operations-302860049.html</a></p><p>SOURCE Sabio Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA33881&amp;Transmission_Id=202608260700PR_NEWS_USPR_____LA33881&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Sabio Inc.",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 6,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "summary:adtech",
-            "advertising",
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:MLM"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:34.576Z"
     }
   ]
 }
