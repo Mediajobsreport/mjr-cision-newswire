@@ -15,18 +15,32 @@ const state = await readJson(STATE_FILE, { version: 1, last_successful_poll: nul
 const existingMaster = await readJson(join(OUTPUT_DIR, "master.json"), { releases: [] });
 const master = new Map(existingMaster.releases.map((release) => [release.release_id, release]));
 
+const collegeBackfill = process.env.CISION_COLLEGE_BACKFILL === "true";
+const collegeStateFile = "data/college-backfill-state.json";
+const collegeState = collegeBackfill ? await readJson(collegeStateFile, null) : null;
+if (collegeBackfill && collegeState?.complete) {
+  console.log("College historical backfill already completed.");
+  process.exit(0);
+}
 const fallbackStart = new Date(now.getTime() - boundedBackfillHours() * 60 * 60_000);
 const previousPoll = !FORCE_BACKFILL && state.last_successful_poll ? new Date(state.last_successful_poll) : fallbackStart;
-const start = new Date(Math.max(
+const normalStart = new Date(Math.max(
   now.getTime() - 365 * 24 * 60 * 60_000,
   previousPoll.getTime() - OVERLAP_MINUTES * 60_000
 ));
 
+const backfillAnchor = collegeState?.anchor || now.toISOString();
+const start = collegeBackfill
+  ? new Date(collegeState?.next_start || new Date(new Date(backfillAnchor).getTime() - 90 * 24 * 60 * 60_000).toISOString())
+  : normalStart;
+const queryEnd = collegeBackfill
+  ? new Date(Math.min(new Date(backfillAnchor).getTime(), start.getTime() + 12 * 60 * 60_000))
+  : now;
 const codeMaps = await loadCodeMaps(client);
 const summariesById = new Map();
 const chunkDays = 3;
-for (let cursor = start.getTime(); cursor < now.getTime();) {
-  const end = new Date(Math.min(now.getTime(), cursor + chunkDays * 24 * 60 * 60_000));
+for (let cursor = start.getTime(); cursor < queryEnd.getTime();) {
+  const end = new Date(Math.min(queryEnd.getTime(), cursor + chunkDays * 24 * 60 * 60_000));
   const chunk = await client.getAllReleases({
     show_del: "true",
     mod_startdate: formatCisionDate(new Date(cursor)),
@@ -54,7 +68,9 @@ for (const summary of summaries) {
     continue;
   }
 
+  if (collegeBackfill && master.has(summary.release_id)) continue;
   const preliminary = classifyRelease(summary, codeMaps);
+  if (collegeBackfill && !preliminary.categories.includes("college")) continue;
   if (!preliminary.categories.length && !preliminary.review) {
     rejected += 1;
     continue;
@@ -70,6 +86,7 @@ for (const summary of summaries) {
   }
   fetched += 1;
   const classification = classifyRelease({ ...summary, ...full }, codeMaps);
+  if (collegeBackfill && !classification.categories.includes("college")) continue;
   if (!classification.categories.length && !classification.review) {
     master.delete(summary.release_id);
     rejected += 1;
@@ -110,7 +127,15 @@ for (const [id, release] of master) {
 const releases = deduplicateReleases([...master.values()])
   .sort((a, b) => String(b.date).localeCompare(String(a.date)));
 await writeOutputs(releases, now);
-await writeJsonAtomic(STATE_FILE, {
+if (collegeBackfill) await writeJsonAtomic(collegeStateFile, {
+  anchor: backfillAnchor,
+  next_start: queryEnd.toISOString(),
+  complete: queryEnd.getTime() >= new Date(backfillAnchor).getTime(),
+  last_successful_batch: now.toISOString(),
+  releases_seen: summaries.length,
+  releases_fetched: fetched
+});
+else await writeJsonAtomic(STATE_FILE, {
   version: 1,
   last_successful_poll: now.toISOString(),
   last_window_start: start.toISOString(),
