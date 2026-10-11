@@ -90,7 +90,7 @@ for (const [id, release] of master) {
   });
 }
 
-const cutoff = now.getTime() - RETENTION_DAYS * 24 * 60 * 60_000;
+const cutoff = now.getTime() - Math.max(RETENTION_DAYS, 90) * 24 * 60 * 60_000;
 for (const [id, release] of master) {
   const releaseDate = parseCisionDate(release.date)?.getTime();
   if (releaseDate && releaseDate < cutoff) master.delete(id);
@@ -145,9 +145,14 @@ async function writeOutputs(all, generatedAt) {
   };
   await writeJsonAtomic(join(OUTPUT_DIR, "master.json"), { ...common, count: all.length, releases: all });
   for (const name of FEED_NAMES) {
+    const feedCutoff = generatedAt.getTime() - (name === "college" ? 90 : RETENTION_DAYS) * 24 * 60 * 60_000;
+    const recent = all.filter((release) => {
+      const date = parseCisionDate(release.date)?.getTime();
+      return !date || date >= feedCutoff;
+    });
     const selected = name === "review"
-      ? all.filter((release) => release.mjr_review)
-      : all.filter((release) => release.mjr_categories?.includes(name));
+      ? recent.filter((release) => release.mjr_review)
+      : recent.filter((release) => release.mjr_categories?.includes(name));
     await writeJsonAtomic(join(OUTPUT_DIR, `${name}.json`), {
       ...common,
       category: name,
