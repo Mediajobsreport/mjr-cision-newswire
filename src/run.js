@@ -30,12 +30,14 @@ const normalStart = new Date(Math.max(
 ));
 
 const backfillAnchor = collegeState?.anchor || now.toISOString();
-const start = collegeBackfill
-  ? new Date(collegeState?.next_start || new Date(new Date(backfillAnchor).getTime() - 90 * 24 * 60 * 60_000).toISOString())
-  : normalStart;
-const queryEnd = collegeBackfill
-  ? new Date(Math.min(new Date(backfillAnchor).getTime(), start.getTime() + 12 * 60 * 60_000))
+// Work backward from recent releases so the public college feed fills first.
+const backfillEnd = collegeBackfill
+  ? new Date(collegeState?.next_end || backfillAnchor)
   : now;
+const start = collegeBackfill
+  ? new Date(Math.max(new Date(backfillAnchor).getTime() - 90 * 24 * 60 * 60_000, backfillEnd.getTime() - 12 * 60 * 60_000))
+  : normalStart;
+const queryEnd = collegeBackfill ? backfillEnd : now;
 const codeMaps = await loadCodeMaps(client);
 const summariesById = new Map();
 const chunkDays = 3;
@@ -129,8 +131,8 @@ const releases = deduplicateReleases([...master.values()])
 await writeOutputs(releases, now);
 if (collegeBackfill) await writeJsonAtomic(collegeStateFile, {
   anchor: backfillAnchor,
-  next_start: queryEnd.toISOString(),
-  complete: queryEnd.getTime() >= new Date(backfillAnchor).getTime(),
+  next_end: start.toISOString(),
+  complete: start.getTime() <= new Date(backfillAnchor).getTime() - 90 * 24 * 60 * 60_000,
   last_successful_batch: now.toISOString(),
   releases_seen: summaries.length,
   releases_fetched: fetched
