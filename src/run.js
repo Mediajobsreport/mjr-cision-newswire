@@ -35,7 +35,7 @@ const backfillEnd = collegeBackfill
   ? new Date(collegeState?.next_end || backfillAnchor)
   : now;
 const start = collegeBackfill
-  ? new Date(Math.max(new Date(backfillAnchor).getTime() - 90 * 24 * 60 * 60_000, backfillEnd.getTime() - 12 * 60 * 60_000))
+  ? new Date(Math.max(new Date(backfillAnchor).getTime() - 90 * 24 * 60 * 60_000, backfillEnd.getTime() - 3 * 24 * 60 * 60_000))
   : normalStart;
 const queryEnd = collegeBackfill ? backfillEnd : now;
 const codeMaps = await loadCodeMaps(client);
