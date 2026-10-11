@@ -60,6 +60,7 @@ for (let cursor = start.getTime(); cursor < queryEnd.getTime();) {
 const summaries = [...summariesById.values()];
 
 let fetched = 0;
+const collegeDiagnostics = [];
 let deleted = 0;
 let rejected = 0;
 let failed = 0;
@@ -97,6 +98,16 @@ for (const summary of summaries) {
   }
   fetched += 1;
   const classification = classifyRelease({ ...summary, ...full }, codeMaps);
+  if (collegeBackfill && collegeDiagnostics.length < 120) {
+    collegeDiagnostics.push({
+      title: String(full?.title || summary.title || "").slice(0, 180),
+      summary: String(full?.summary || summary.summary || "").slice(0, 240),
+      categories: classification.categories,
+      college_score: classification.scores?.college || 0,
+      college_reasons: classification.reasons?.college || [],
+      excluded: classification.excluded
+    });
+  }
   if (collegeBackfill && !classification.categories.includes("college")) continue;
   if (!classification.categories.length && !classification.review) {
     master.delete(summary.release_id);
@@ -138,6 +149,12 @@ for (const [id, release] of master) {
 const releases = deduplicateReleases([...master.values()])
   .sort((a, b) => String(b.date).localeCompare(String(a.date)));
 await writeOutputs(releases, now);
+if (collegeBackfill) await writeJsonAtomic("data/college-backfill-diagnostics.json", {
+  generated_at: now.toISOString(),
+  releases_seen: summaries.length,
+  releases_fetched: fetched,
+  samples: collegeDiagnostics
+});
 if (collegeBackfill) await writeJsonAtomic(collegeStateFile, {
   anchor: backfillAnchor,
   next_end: start.toISOString(),
