@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T09:01:30.182Z",
+  "generated_at": "2026-10-11T14:53:08.576Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 120,
+  "count": 114,
   "releases": [
     {
       "company": [
@@ -73,6 +73,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 1,
           "digital": 2,
           "engineering": 2,
@@ -159,6 +160,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -239,6 +241,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -325,6 +328,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -392,6 +396,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -491,6 +496,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -585,6 +591,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -676,6 +683,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -772,6 +780,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 2,
@@ -859,6 +868,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -949,6 +959,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 1,
           "digital": 4,
           "engineering": 0,
@@ -1036,6 +1047,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1109,6 +1121,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -1196,6 +1209,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1271,6 +1285,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1358,6 +1373,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1432,6 +1448,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -1532,6 +1549,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -1594,6 +1612,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1677,6 +1696,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1753,6 +1773,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1828,6 +1849,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1911,6 +1933,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 3,
           "engineering": 0,
@@ -1994,6 +2017,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2067,6 +2091,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2140,6 +2165,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 0,
@@ -2217,6 +2243,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 0,
           "engineering": 0,
@@ -2295,6 +2322,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -2376,6 +2404,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 2,
           "engineering": 0,
@@ -2467,6 +2496,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2550,6 +2580,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2619,6 +2650,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2699,6 +2731,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2777,6 +2810,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2846,6 +2880,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -2949,6 +2984,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 2,
           "engineering": 0,
@@ -3036,6 +3072,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -3118,6 +3155,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -3194,6 +3232,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -3268,6 +3307,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -3352,6 +3392,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -3431,6 +3472,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -3502,6 +3544,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -3589,6 +3632,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -3667,6 +3711,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 2,
           "engineering": 0,
@@ -3770,6 +3815,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -3853,6 +3899,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -3918,6 +3965,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 0,
@@ -4009,6 +4057,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -4096,6 +4145,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -4186,6 +4236,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -4256,6 +4307,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -4335,6 +4387,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -4422,6 +4475,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -4505,6 +4559,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -4604,6 +4659,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -4678,6 +4734,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 2,
@@ -4758,6 +4815,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 5,
           "digital": 2,
           "engineering": 0,
@@ -4832,6 +4890,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 2,
@@ -4927,6 +4986,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5012,6 +5072,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 2,
@@ -5093,6 +5154,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5185,6 +5247,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5272,6 +5335,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -5353,6 +5417,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5435,6 +5500,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5533,6 +5599,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 4,
           "engineering": 0,
@@ -5623,6 +5690,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5700,6 +5768,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5766,6 +5835,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5835,6 +5905,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -5924,6 +5995,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -6006,6 +6078,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -6073,6 +6146,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 6,
           "digital": 0,
           "engineering": 0,
@@ -6150,6 +6224,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -6228,6 +6303,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 2,
@@ -6315,6 +6391,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -6398,6 +6475,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -6489,6 +6567,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 2,
@@ -6568,6 +6647,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -6658,6 +6738,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -6740,6 +6821,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -6823,6 +6905,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -6903,6 +6986,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -6989,6 +7073,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 2,
@@ -7064,6 +7149,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 2,
@@ -7203,6 +7289,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -7287,6 +7374,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 6,
           "digital": 2,
           "engineering": 0,
@@ -7370,6 +7458,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -7449,6 +7538,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -7526,6 +7616,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -7612,6 +7703,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -7696,6 +7788,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 2,
@@ -7782,6 +7875,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -7855,6 +7949,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -7932,6 +8027,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8009,6 +8105,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8082,6 +8179,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8176,6 +8274,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8259,6 +8358,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 6,
           "engineering": 2,
@@ -8347,6 +8447,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -8421,6 +8522,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8499,6 +8601,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8583,6 +8686,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8671,6 +8775,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8746,6 +8851,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 0,
           "engineering": 0,
@@ -8827,6 +8933,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8905,6 +9012,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -8987,6 +9095,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -9065,6 +9174,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -9143,6 +9253,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -9218,6 +9329,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 4,
           "digital": 4,
           "engineering": 0,
@@ -9304,6 +9416,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 2,
           "engineering": 0,
@@ -9397,6 +9510,7 @@
         "categories": [],
         "review": true,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 2,
           "engineering": 0,
@@ -9423,488 +9537,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:30.253Z"
-    },
-    {
-      "company": [
-        "Lighting Pro Plus"
-      ],
-      "date": "20260827T141600+0000",
-      "dateline": "FRANKLIN, Wis., Aug. 27, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "prncom_prnj",
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "WIS",
-        "UMW",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "REA",
-        "EUT",
-        "ECM",
-        "HMI",
-        "CSE"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Say hello to www.LightingProPlus.com—the new online marketplace for electrical trade professionals with direct pricing on curated commercial LEDs and expert support.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1975562/LPP-PRImage.jpg?id=OA2911189&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1975562/LPP-PRImage.jpg?id=OA2911189&p=publish"
-        },
-        {
-          "caption": "Lighting Pro Plus logo",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1975558/LPP-PRLogo-Vertical.jpg?id=OA2911156&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1975558/LPP-PRLogo-Vertical.jpg?id=OA2911156&p=publish"
-        }
-      ],
-      "release_id": "20260827CG33705",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\"><i>New online platform combines expert-vetted multi-brand catalog with direct-to-pro pricing, dedicated support and rapid nationwide logistics for a contractor-first e-commerce experience.</i></p><p><span class=\"legendSpanClass\">FRANKLIN, Wis.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Lighting Pro Plus, Inc. today announced the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=3913030705&amp;u=https%3A%2F%2Flightingproplus.com%2F%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_lpp1&amp;a=www.LightingProPlus.com\" target=\"_blank\" rel=\"nofollow\">www.LightingProPlus.com</a>, its new online lighting marketplace designed to transform how small- to mid-sized electrical contractors source and purchase commercial and industrial LED lighting products. By combining the knowledge and experience of a team of lighting veterans with responsive support and an intuitive e-commerce interface, Lighting Pro Plus offers a highly efficient direct-to-pro sourcing center. It empowers electrical professionals to streamline their procurement workflow, secure competitive direct trade pricing and protect margin integrity.</p>\n    ",
-      "ticker": [],
-      "title": "Lighting Pro Plus™ Launches Next-Generation Digital Marketplace Built Specifically for Electrical Contractors",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827CG33705",
-      "body": "\n<p class=\"prntac\"><i>New online platform combines expert-vetted multi-brand catalog with direct-to-pro pricing, dedicated support and rapid nationwide logistics for a contractor-first e-commerce experience.</i></p><p><span class=\"legendSpanClass\">FRANKLIN, Wis.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Lighting Pro Plus, Inc. today announced the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=3913030705&amp;u=https%3A%2F%2Flightingproplus.com%2F%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_lpp1&amp;a=www.LightingProPlus.com\" target=\"_blank\" rel=\"nofollow\">www.LightingProPlus.com</a>, its new online lighting marketplace designed to transform how small- to mid-sized electrical contractors source and purchase commercial and industrial LED lighting products. By combining the knowledge and experience of a team of lighting veterans with responsive support and an intuitive e-commerce interface, Lighting Pro Plus offers a highly efficient direct-to-pro sourcing center. It empowers electrical professionals to streamline their procurement workflow, secure competitive direct trade pricing and protect margin integrity.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975562/LPP-PRImage.jpg?id=OA2911189\" title=\"Say hello to www.LightingProPlus.com—the new online marketplace for electrical trade professionals with direct pricing on curated commercial LEDs and expert support.\" alt=\"Say hello to www.LightingProPlus.com—the new online marketplace for electrical trade professionals with direct pricing on curated commercial LEDs and expert support.\"></img>\n                </p>\n    </div>\n<p>\"Sourcing lighting should be simple, dependable and backed by industry experts who speak the contractors' language,\" said Marty Organ, chief operating officer for Lighting Pro Plus. \"With our launch, we are removing guesswork and costly callbacks. By pairing a contractor-first online storefront with dedicated technical support, we're offering trade professionals the confidence, brand choices, economic advantages and logistical reliability they need to win more bids and protect their bottom lines.\"</p><p class=\"prntac\"><b>A Curated Brand Portfolio and the Debut of GradeONE™</b></p><p>Rather than overwhelming buyers with massive, unverified catalogs, Lighting Pro Plus features a carefully curated selection of trusted commercial-grade manufacturers and products built to withstand jobsite rigors. At launch the platform features premier third-party brands—including NICOR Lighting, NaturaLED, GKOLED and Access Lighting—across high-demand product categories:</p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=436439175&amp;u=https%3A%2F%2Flightingproplus.com%2Fcollections%2Fhighbay%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_hb&amp;a=High+Bay+Lights\" target=\"_blank\" rel=\"nofollow\">High Bay Lights</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=405932523&amp;u=https%3A%2F%2Flightingproplus.com%2Fcollections%2Farea-light%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_ar&amp;a=Area+%26+Roadway+Lights\" target=\"_blank\" rel=\"nofollow\">Area &amp; Roadway Lights</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=3789153851&amp;u=https%3A%2F%2Flightingproplus.com%2Fcollections%2Fflood%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_fl&amp;a=Flood+Lights\" target=\"_blank\" rel=\"nofollow\">Flood Lights</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=2459815259&amp;u=https%3A%2F%2Flightingproplus.com%2Fcollections%2Fwallpack%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_wp&amp;a=Wall+Pack+Lights\" target=\"_blank\" rel=\"nofollow\">Wall Pack Lights</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=2173045708&amp;u=https%3A%2F%2Flightingproplus.com%2Fcollections%2Flinear%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_ll&amp;a=Linear+Lights\" target=\"_blank\" rel=\"nofollow\">Linear Lights</a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=1503369273&amp;u=https%3A%2F%2Flightingproplus.com%2Fcollections%2Fe-e%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_ee&amp;a=Exit+%26+Emergency+Lights\" target=\"_blank\" rel=\"nofollow\">Exit &amp; Emergency Lights</a></li></ul><p>The marketplace launch also marks the debut of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=2745891378&amp;u=https%3A%2F%2Flightingproplus.com%2Fcollections%2Fgradeone%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_gradeone&amp;a=GradeONE\" target=\"_blank\" rel=\"nofollow\">GradeONE</a><u>,</u> the company's exclusive brand. Positioned where value meets high quality and immediate availability, the GradeONE product line spans most primary categories. It gives contractors an affordable alternative for competitive bids without forcing them to compromise on performance or risk supply chain delays.</p><p class=\"prntac\"><b>Nationwide Fulfillment Network and Value-Driven Trade Program</b></p><p>To ensure rapid lead times and dependable delivery directly, Lighting Pro Plus operates a robust distribution network. In addition to primary company fulfillment centers located in Bolingbrook (Chicago), Ill., and Stafford (Houston), Texas, Lighting Pro Plus has established strategic distribution partnerships across the United States—including key locations in California, Georgia, Ohio and South Carolina—to provide nationwide logistics coverage.</p><p>The marketplace launch also features immediate access to the company's trade program. Lighting professionals who register for <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=920156003&amp;u=https%3A%2F%2Flightingproplus.com%2Fpages%2Ftrade-professional-program%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_tpp&amp;a=The+Trade+PROgram\" target=\"_blank\" rel=\"nofollow\">The Trade PROgram</a> on the platform will unlock exclusive advantages including additional savings, free project quotes and more.</p><p><b>About Lighting Pro Plus <br></br></b>With headquarters in Franklin, Wis., Lighting Pro Plus, Inc. is a digital marketplace built by lighting professionals. Designed especially for small- to mid-sized electrical contractors, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759582-1&amp;h=175483795&amp;u=https%3A%2F%2Flightingproplus.com%2F%3Futm_source%3Dnewsrelease%26utm_medium%3Dreferral%26utm_campaign%3Dlaunch%26utm_content%3Dr1_lpp2&amp;a=www.LightingProPlus.com\" target=\"_blank\" rel=\"nofollow\">www.LightingProPlus.com</a> combines a seamless, modern e-commerce experience with deep industry expertise and responsive customer support. Featuring a curated selection of trusted third-party manufacturers alongside its signature value brand, GradeONE, the company streamlines lighting procurement to offer unprecedented choice, quality and supply chain reliability.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975558/LPP-PRLogo-Vertical.jpg?id=OA2911156\" title=\"Lighting Pro Plus logo\" alt=\"Lighting Pro Plus logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG33705&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/lighting-pro-plus-launches-next-generation-digital-marketplace-built-specifically-for-electrical-contractors-302860985.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/lighting-pro-plus-launches-next-generation-digital-marketplace-built-specifically-for-electrical-contractors-302860985.html</a></p><p>SOURCE Lighting Pro Plus</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG33705&amp;Transmission_Id=202608271016PR_NEWS_USPR_____CG33705&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Lighting Pro Plus",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "actor"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:30.436Z"
-    },
-    {
-      "company": [
-        "YFORE"
-      ],
-      "date": "20260827T141100+0000",
-      "dateline": "SUWANEE, Ga., Aug. 27, 2026",
-      "feed": [
-        "PRNUS",
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "GGA",
-        "USE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "AUT",
-        "TRN",
-        "MFG"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1976902/20260827070825EDT_image_1.jpg?id=OA2916121&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1976902/20260827070825EDT_image_1.jpg?id=OA2916121&p=publish"
-        }
-      ],
-      "release_id": "20260827CN35169",
-      "status": "PUBLISHED",
-      "subject": [
-        "CXP"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">SUWANEE, Ga.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- YFORE officially inaugurated its new 62,225 sq. ft. American Headquarters in Suwanee, Georgia. Integrating R&amp;D, manufacturing, procurement, sales, and delivery, the facility brings agile engineering and resilient local supply chains directly to local automotive partners.</p><p><b>Rooted Locally, Empowering Global Mobility</b></p><p>Local officials, global OEM partners, and supply chain leaders joined the executive leadership and team of YFORE Technology to celebrate this strategic milestone.</p>",
-      "ticker": [],
-      "title": "Global Tier-1 YFORE launches U.S. manufacturing factory in Atlanta",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827CN35169",
-      "body": "\n<p><span class=\"legendSpanClass\">SUWANEE, Ga.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- YFORE officially inaugurated its new 62,225 sq. ft. American Headquarters in Suwanee, Georgia. Integrating R&amp;D, manufacturing, procurement, sales, and delivery, the facility brings agile engineering and resilient local supply chains directly to local automotive partners.</p><p><b>Rooted Locally, Empowering Global Mobility</b></p><p>Local officials, global OEM partners, and supply chain leaders joined the executive leadership and team of YFORE Technology to celebrate this strategic milestone.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2408\"><p><img src=\"https://mmx.prnewswire.com/media/MS1976902/20260827070825EDT_image_1.jpg?id=OA2916121\" title=\"\" alt=\"\"></img></p></div><p>\"Becoming the most trusted partner for intelligent vehicle clients is YFORE's core mission, and establishing our facilities in Georgia brings that commitment to life,\" said Leo Liu, CEO of YFORE. \"Driven by rising OEM demand for localized, resilient supply chains, this investment embodies our 'Global Footprint, Local Excellence' strategy. By pairing global scale with dedicated on-site teams, we deliver true door-to-door responsiveness—ensuring agile co-development and flawless delivery right at our customers' doorsteps.\"</p><p>Alex Warner, President of the Forsyth County Chamber, welcomed the investment, emphasizing its impact on high-skilled jobs and regional growth: \"Today is not just an opening—it's YFORE becoming part of the Forsyth County family.\"</p><p><b>First US-Made Digital Key Rollout &amp; Tech Showcase</b></p><p>Marking the capabilities of mass production, YFORE rolled out its first US-built Digital Key unit and showcased its core product portfolios:</p><ul type=\"disc\"><li>Intelligent Mirror: Leveraging its pioneer standing in digital vision and proven mass production on 60+ vehicle models globally, YFORE showcased its comprehensive lineup spanning Interior Digital Mirrors, Auto-Dimming Mirrors, and Exterior Side Mirrors. Most notably, the global debut of the Multifunctional Digital Mirror takes center stage by seamlessly integrating DMS/OMS sensing and intelligent interactions, drastically streamlining cabin wiring and overhead space into a centralized hub for full-domain perception.</li><li>Intelligent Access: With mass production across 50+ global models, YFORE provides a complete \"Car-Cloud-Phone/Watch\" digital key solution supporting BLE, UWB, and NFC protocols across intelligent devices, NFC, and KeyFobs. Complemented by door handle sensors and a pioneering anti-pinch system, YFORE offers automakers a seamless, end-to-end smart vehicle entry ecosystem.</li><li>Intelligent Sensing: Unveiled for the first time globally, YFORE's ODMS In-Cabin Full-Coverage Sensing System fuses smart mirror optics with radar sensing, eliminating blind spots to ensure full-cabin precision monitoring and top-tier E-NCAP compliance. Supported by advanced UWB multi-function convergence, the architecture unlocks kick sensors, low-power sentry mode, and in-cabin life detection with zero extra hardware, delivering a comprehensive, multi-scenario sensing ecosystem.</li></ul><p>Afterward, guests toured the advanced SMT and automated digital key production lines and engaged in hands-on product experiences, praising the seamless responsiveness and in-cabin performance.</p><p>As automakers demand greater supply chain agility, YFORE continues to deepen its local roots across the world. Leveraging proximate service and a resilient global footprint, YFORE is committed to building an open, collaborative ecosystem with automotive partners worldwide.</p><p><b>About YFORE </b></p><p>YFORE is a global Tier 1 automotive electronics supplier dedicated to driving the future of intelligent mobility. Partnering with more than 30 leading automotive OEMs worldwide, YFORE delivers high-performance, automotive-grade solutions across Intelligent Access, Intelligent Mirror and Sensing systems. With operational footprint spanning North America, Europe, and Asia, YFORE combines global engineering depth with local execution to empower the next era of connected vehicles.</p><p>For more information, please visit <a href=\"https://www.yftech.com/en/\" target=\"_blank\" rel=\"nofollow\">www.yftech.com/en</a> or follow YFORE on <a href=\"https://www.google.com/url?sa=E&amp;source=gmail&amp;q=https://www.linkedin.com/company/104160392/\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN35169&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/global-tier-1-yfore-launches-us-manufacturing-factory-in-atlanta-302861917.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/global-tier-1-yfore-launches-us-manufacturing-factory-in-atlanta-302861917.html</a></p><p>SOURCE YFORE</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN35169&amp;Transmission_Id=202608271011PR_NEWS_USPR_____CN35169&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "YFORE",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 3,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "actor"
-          ],
-          "management": [
-            "summary:executive leadership",
-            "summary:executive"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:30.591Z"
-    },
-    {
-      "company": [
-        "Ace Hardware Corporation"
-      ],
-      "date": "20260827T140200+0000",
-      "dateline": "OAK BROOK, Ill., Aug. 27, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "ILL",
-        "UMW",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ADV",
-        "HMI",
-        "HOU",
-        "REA",
-        "SMD",
-        "CPR",
-        "HRD"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "RedVest Media Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1976430/Ace-Hardware-Corporation-RedVest-Media-Logo.jpg?id=OA2914354&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1976430/Ace-Hardware-Corporation-RedVest-Media-Logo.jpg?id=OA2914354&p=publish"
-        },
-        {
-          "caption": "Ace Hardware Logo",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS822039/Ace-Hardware-Logo.jpg?id=OA2914355&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS822039/Ace-Hardware-Logo.jpg?id=OA2914355&p=publish"
-        }
-      ],
-      "release_id": "20260827CG34604",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\"><i>New solutions help brands build awareness, reach distinctive DIY audiences and connect media investment to measurable business outcomes</i></p><p><span class=\"legendSpanClass\">OAK BROOK, Ill.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- RedVest Media, Ace Hardware's retail media network, today announced a slate of measurement enhancements, audience solutions, social and influencer capabilities, and commerce-media innovations at its inaugural 2027 Upfront. Together, the advancements are designed to help brands build stronger connections with Ace customers across the full journey, from inspiration and discovery through purchase and long-term growth.</p>\n    ",
-      "ticker": [],
-      "title": "Ace Hardware's RedVest Media Unveils New Measurement, Audience and Social Capabilities at Inaugural Upfront",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827CG34604",
-      "body": "\n<p class=\"prntac\"><i>New solutions help brands build awareness, reach distinctive DIY audiences and connect media investment to measurable business outcomes</i></p><p><span class=\"legendSpanClass\">OAK BROOK, Ill.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- RedVest Media, Ace Hardware's retail media network, today announced a slate of measurement enhancements, audience solutions, social and influencer capabilities, and commerce-media innovations at its inaugural 2027 Upfront. Together, the advancements are designed to help brands build stronger connections with Ace customers across the full journey, from inspiration and discovery through purchase and long-term growth.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1976430/Ace-Hardware-Corporation-RedVest-Media-Logo.jpg?id=OA2914354\" title=\"RedVest Media Logo\" alt=\"RedVest Media Logo\"></img>\n                </p>\n    </div>\n<p>The announcements advance RedVest Media's evolution as The Helpful Network, pairing Ace's distinctive customer relationships, locally rooted store model and home-improvement expertise with media solutions that are more measurable, more actionable and more relevant to the moments that matter. The inaugural event was supported by DoorDash, Pacvue, Epsilon and In-Store Marketplace, whose partnerships help power the continued evolution of RedVest Media's commerce, measurement, audience and activation capabilities.</p><p>\"We are expanding RedVest Media thoughtfully in the areas advertisers value most and in ways that lean into the uniqueness of Ace. Our focus is providing even more robust measurement, richer audience intelligence and more ways to activate across the customer journey,\" said Molly Hjelm, Corporate Vice President and Head of RedVest Media at Ace Hardware. \"We're particularly thrilled to announce significant partnerships in Social and Influencer, which will help our vendors engage the Ace customer via trusted, authentic perspectives. Our newly announced DoorDash partnership will help advertisers drive discovery and engage new customers through the DoorDash platform.\"</p><p><b>More robust measurement and actionable insights<br></br></b>RedVest Media is expanding its measurement suite to give advertisers a clearer view of both immediate campaign performance and broader business impact. Enhancements include incrementality measurement for offsite media, new-to-brand reporting and new ways to share insights and analysis. The expanded approach is designed to help brands better understand the business impact of their media investment, identify what's driving growth and uncover opportunities to optimize future campaigns.</p><p><b>Social and Influencer capabilities officially launch<br></br></b>RedVest Media is officially launching social amplification and influencer marketing capabilities. Social amplification enables brands to extend existing social creative into additional media environments while adding RedVest Media audience capabilities and closed-loop measurement. Through Influential, brands will also be able to work with trusted, Ace-vetted creators to bring products and project ideas to life, reaching customers earlier in moments of inspiration and consideration.</p><p><b>DoorDash partnership creates a new commerce-media touchpoint<br></br></b>Through a new DoorDash advertising capability, Ace vendors can engage customers directly within the Ace Hardware storefront on DoorDash. Sponsored Ads and Sponsored Brands formats are designed to help brands increase visibility and influence purchase decisions while customers are actively building an order. A proud Upfront sponsor, DoorDash is helping extend the RedVest Media ecosystem into on-demand commerce, creating new opportunities for brands to drive visibility and sales in high-intent shopping moments.</p><p><b>A new audience library reflects the distinctiveness of the Ace customer<br></br></b>RedVest Media is building an audience library designed to connect brands with Ace's distinctive base of DIYers, handy homeowners and customers focused on maintaining and preserving their homes. While RedVest has always leveraged first-party data for its targeting, an audience library gives advertisers even more connectivity to custom customer cohorts aligned to their objectives.</p><p><b>Innovation built for home improvement, local relevance and the Ace model<br></br></b>RedVest Media also announced capabilities that lean into the unique dynamics of the home-improvement category, Ace's locally owned store model and the role Ace retailers play in their communities.</p><ul type=\"disc\"><li><b>Weather-Triggered Programmatic Advertising: </b>activates campaigns based on local weather conditions, helping brands deliver timely messages when weather creates a relevant project, product or household need.</li><li><b>RetailerReach: </b>gives eligible vendors new ways to reach Ace and Emery Jensen retailers through retailer-facing banners, emails and educational content, helping brands build consideration and support distribution in partnership with merchandising.</li><li><b>Category Driver Campaigns: </b>are multi-brand media packages with shared creative aligned to relevant seasonal moments and merchant departmental objectives. These campaigns are eligible for pooled investment across multiple relevant brands, allowing participating brands to get more reach and channels for their investment than if they were to execute their own campaign.</li></ul><p>Together, these launches create a more connected RedVest Media ecosystem, one that combines the scale and convenience of digital commerce with the relevance of local communities, distinctive home-improvement audiences and measurement designed to guide smarter investment.</p><p>\"For more than 100 years, Ace has helped customers care for the homes and communities they value most,\" said Kim Lefko, Chief Marketing Officer at Ace Hardware. \"We've built our reputation by being The Helpful Place and by offering highly desired national brands. Our retail media network reflects that. RedVest Media is a brand-building tool that puts the power of more than 80 million Ace Rewards members, over 5,300 store locations, and Ace's hyper-local relevance in the hands of our vendor community. It's been incredibly exciting to see how rapidly brands have leaned in, using these tools to earn attention and drive growth.\"</p><p>The announced capabilities are available now, and the audience library will continue to develop over calendar year 2027. Some capabilities may require an investment or commitment threshold.</p><p><b>About Ace Hardware<br></br></b>Ace Hardware is the largest hardware cooperative in the world, serving more than 8,950 locally owned and operated stores around the globe, while providing the best products, services, and operating methods to almost 5,300 Ace retail stores in the United States. Ace Hardware's family of brands includes Ace Hardware, Emery Jensen Distribution, and independent retailers worldwide. Headquartered in Oak Brook, Ill., Ace operates an expansive network of U.S. distribution centers, along with international capabilities in Ningbo, China. Since 1924, Ace has been a part of local communities, known as the place with the helpful hardware folks. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760443-1&amp;h=1492276051&amp;u=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4750468-1%26h%3D3757890182%26u%3Dhttp*3A*2F*2Fwww.acehardware.com*2F%26a%3Dacehardware.com__%3BJSUlJQ!!GjLPcaaqEnikjCM!6uIorNYRfmEZDXk44kbFDf9eUXNgKHBmfuZuq8YrpCVWklqGK-ZLDFG5y8jO21kc5LRb1UmSTLn2Q4ExyA%24&amp;a=acehardware.com\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">acehardware.com</a> or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760443-1&amp;h=490125517&amp;u=https%3A%2F%2Furldefense.com%2Fv3%2F__https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4750468-1%26h%3D3791947435%26u%3Dhttps*3A*2F*2Fnewsroom.acehardware.com*2F%26a%3Dnewsroom.acehardware.com__%3BJSUlJQ!!GjLPcaaqEnikjCM!6uIorNYRfmEZDXk44kbFDf9eUXNgKHBmfuZuq8YrpCVWklqGK-ZLDFG5y8jO21kc5LRb1UmSTLkCod2Maw%24&amp;a=newsroom.acehardware.com\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">newsroom.acehardware.com</a>.</p><p><b>Media Contact: </b><a href=\"mailto:redvestmedia@5wpr.com\" target=\"_blank\" rel=\"nofollow\">redvestmedia@5wpr.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS822039/Ace-Hardware-Logo.jpg?id=OA2914355\" title=\"Ace Hardware Logo\" alt=\"Ace Hardware Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG34604&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ace-hardwares-redvest-media-unveils-new-measurement-audience-and-social-capabilities-at-inaugural-upfront-302861471.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ace-hardwares-redvest-media-unveils-new-measurement-audience-and-social-capabilities-at-inaugural-upfront-302861471.html</a></p><p>SOURCE Ace Hardware Corporation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG34604&amp;Transmission_Id=202608271002PR_NEWS_USPR_____CG34604&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Ace Hardware Corporation",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 2,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:SMD"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:30.743Z"
-    },
-    {
-      "company": [
-        "Xtant Medical Holdings, Inc."
-      ],
-      "date": "20260827T120000+0000",
-      "dateline": "BELGRADE, Mont., Aug. 27, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "MTA",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "MEQ",
-        "DEN",
-        "BIO",
-        "HEA",
-        "MTC"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Xtant Medical Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1692095/XTNT-Logo.jpg?id=OA2915008&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1692095/XTNT-Logo.jpg?id=OA2915008&p=publish"
-        }
-      ],
-      "release_id": "20260827LA34859",
-      "status": "PUBLISHED",
-      "subject": [
-        "LIC",
-        "CON"
-      ],
-      "summary": "<p class=\"prntac\"><i>Partnership leverages BioHorizons' commercial network to broaden availability of Xtant's allogeneic growth factor technology, OsteoFactor Pro™, which BioHorizons will private brand as Prolifica™</i></p><p><span class=\"legendSpanClass\">BELGRADE, Mont.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Xtant Medical Holdings, Inc. (NYSE American: XTNT), a global medical technology company focused on surgical solutions for the treatment of spinal, orthopedic, and wound care disorders, announced an exclusive partnership with BioHorizons (a Henry Schein, Inc. company), whereby BioHorizons will distribute Xtant's allogeneic growth factor technology under the private brand <b>Prolifica™</b> through its commercial network.</p>\n    ",
-      "ticker": [
-        "Amex:XTNT",
-        "AMEX:XTNT",
-        "NYSE:XTNT",
-        "NYSE-MKT:XTNT"
-      ],
-      "title": "Xtant Medical Announces Exclusive Partnership with BioHorizons to Expand Access to Xtant's Allogeneic Growth Factor into the Dental Market",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827LA34859",
-      "body": "\n<p class=\"prntac\"><i>Partnership leverages BioHorizons' commercial network to broaden availability of Xtant's allogeneic growth factor technology, OsteoFactor Pro™, which BioHorizons will private brand as Prolifica™</i></p><p><span class=\"legendSpanClass\">BELGRADE, Mont.</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Xtant Medical Holdings, Inc. (NYSE American: XTNT), a global medical technology company focused on surgical solutions for the treatment of spinal, orthopedic, and wound care disorders, announced an exclusive partnership with BioHorizons (a Henry Schein, Inc. company), whereby BioHorizons will distribute Xtant's allogeneic growth factor technology under the private brand <b>Prolifica™</b> through its commercial network.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1692095/XTNT-Logo.jpg?id=OA2915008\" title=\"Xtant Medical Logo\" alt=\"Xtant Medical Logo\"></img>\n                </p>\n    </div>\n<p>The agreement establishes BioHorizons as the exclusive distributor of Xtant's allogeneic growth factor technology into the dental and oral-maxillofacial procedure markets in the United States and Canada, expanding access to the advanced allograft technology for clinicians served by the BioHorizons commercial organization. The partnership reflects a long-term strategic relationship between the two companies, combining Xtant's regenerative medicine development and manufacturing capabilities with BioHorizons' established commercial reach and customer relationships. Both companies expect the collaboration to create a durable channel for expanding access to Prolifica™ and to serve as a foundation for continued collaboration between the organizations.</p><p>Sean Browne, President and CEO of Xtant Medical, stated, \"This exclusive partnership brings together Xtant's expertise in regenerative biologics with BioHorizons' trusted commercial organization, positioning both companies to deliver meaningful value to clinicians and the patients they serve. We look forward to a productive, long-standing collaboration.\"</p><p>Steve Boggan, President and CEO of BioHorizons, stated, \"Prolifica™ is a strong complement to our regenerative portfolio, and this partnership allows us to bring advanced allogeneic growth factors to more of the clinicians who rely on us. We look forward to a long-term collaboration that benefits both organizations and, most importantly, the patients we collectively serve.\"</p><p>Prolifica™ is a naturally occurring blend of allogeneic growth factors, stabilized by native human collagen and delivered in their intrinsic structure, concentration, and composition. Processed to preserve the natural biphasic release of proteins, this advanced allograft supports bone healing and regeneration across a range of clinical applications.</p><p>Prolifica™ is now accessible to clinicians through BioHorizons' commercial network.</p><p><b>About Xtant Medical Holdings, Inc.</b></p><p>Xtant Medical's mission of honoring the gift of donation so that our patients can live as full and complete a life as possible, is the driving force behind our company. Xtant Medical Holdings, Inc. (<a href=\"http://www.xtantmedical.com\" rel=\"nofollow\">www.xtantmedical.com</a>) is a global medical technology company focused on the design, development, and commercialization of a comprehensive portfolio of orthobiologics serving the chronic and surgical wound care and sports medicine markets, as well as spinal implant systems. Xtant people are dedicated and talented, operating with the highest integrity to serve our customers.</p><p><b>Cautionary Statement Regarding Forward-Looking Statements</b></p><p>This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements include statements that are predictive in nature, that depend upon or refer to future events or conditions, or that contain words such as \"intends,\" \"expects,\" \"anticipates,\" \"plans,\" \"believes,\" \"estimates,\" \"continue,\" \"future,\" \"will,\" \"potential,\" similar expressions or the negative thereof, and the use of future dates. Forward-looking statements in this release include the Company's expectations regarding the benefits, strategic value, and duration of its partnership with BioHorizons; the anticipated expansion of access to Prolifica™ through BioHorizons' commercial network; and the expected performance of Prolifica™. The Company cautions that its forward-looking statements by their nature involve risks and uncertainties, and actual results may differ materially depending on a variety of important factors, including, among others: the ability of the Company and BioHorizons to perform their respective obligations under, and realize the anticipated benefits of, the partnership; the possibility that the arrangement may be terminated or modified; the ability of Prolifica™ to gain market acceptance, perform as designed and intended, and meet the needs of clinicians and patients; the Company's ability to successfully manufacture Prolifica™ in amounts required to meet demand; the performance and success of the Company's fully vertically integrated structure; the Company's ability to continue to innovate, develop and introduce new products and the success of those products; the Company's future operating and financial performance and its ability to increase or maintain revenue; and other risk factors contained in the Company's Annual Report on Form 10-K for the year ended December 31, 2025 filed with the Securities and Exchange Commission (SEC) on March 31, 2026 and subsequent SEC filings by the Company. Investors are encouraged to read the Company's filings with the SEC, available at <a href=\"http://www.sec.gov\" rel=\"nofollow\">www.sec.gov</a>, for a discussion of these and other risks and uncertainties. The Company undertakes no obligation to release publicly any revisions to any forward-looking statements to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events, except as required by law. All forward-looking statements attributable to the Company or persons acting on its behalf are expressly qualified in their entirety by this cautionary statement.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA34859&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/xtant-medical-announces-exclusive-partnership-with-biohorizons-to-expand-access-to-xtants-allogeneic-growth-factor-into-the-dental-market-302861393.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/xtant-medical-announces-exclusive-partnership-with-biohorizons-to-expand-access-to-xtants-allogeneic-growth-factor-into-the-dental-market-302861393.html</a></p><p>SOURCE Xtant Medical Holdings, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA34859&amp;Transmission_Id=202608270800PR_NEWS_USPR_____LA34859&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Xtant Medical Holdings, Inc.",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "actor"
-          ]
-        },
-        "news_score": 2,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:31.857Z"
-    },
-    {
-      "company": [
-        "CME Group"
-      ],
-      "date": "20260827T113000+0000",
-      "dateline": "CHICAGO, Aug. 27, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "PRNUS"
-      ],
-      "geography": [
-        "ILL",
-        "UMW",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "FIN",
-        "FNT",
-        "DTA",
-        "CPR",
-        "ECM"
-      ],
-      "language": "en-US",
-      "multimedia": [],
-      "release_id": "20260827CG34946",
-      "status": "PUBLISHED",
-      "subject": [
-        "STS",
-        "FVT",
-        "PDT"
-      ],
-      "summary": "<ul type=\"disc\"><li><i>New contracts provide tailored exposure to S&amp;P 500 and Dow Jones indexes</i></li></ul><p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today announced plans to expand its equity product suite with the launch of E-mini Equity Factor futures on September 21, pending regulatory review.</p>\n<p>Equity factors are performance indicators that can help investors capture growth, navigate volatility and diversify holdings. The new E-mini futures will be available to complement single- and multi-factor strategies, delivering capital efficiencies for risk management and relative value trading.</p>",
-      "ticker": [
-        "NASDAQ-NMS:CME",
-        "NASDAQ:CME"
-      ],
-      "title": "CME Group to Launch E-mini Equity Factor Futures on September 21",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827CG34946",
-      "body": "\n<ul type=\"disc\"><li><i>New contracts provide tailored exposure to S&amp;P 500 and Dow Jones indexes</i></li></ul><p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today announced plans to expand its equity product suite with the launch of E-mini Equity Factor futures on September 21, pending regulatory review.</p>\n<p>Equity factors are performance indicators that can help investors capture growth, navigate volatility and diversify holdings. The new E-mini futures will be available to complement single- and multi-factor strategies, delivering capital efficiencies for risk management and relative value trading.</p><p>The products will include:</p><ul type=\"disc\"><li>E-mini S&amp;P 500 Growth futures</li><li>E-mini S&amp;P 500 Value futures</li><li>E-mini S&amp;P 500 Quality futures</li><li>E-mini S&amp;P 500 Momentum futures</li><li>E-mini S&amp;P 500 Low Volatility futures</li><li>E-mini Dow Jones U.S. Dividend 100 futures</li></ul><p>\"Market participants are increasingly turning to equity factors to target specific components of risk and build more tailor-made portfolios,\" said Joseph Hickey, Global Head of Equity Products at CME Group. \"Our E-mini Equity Factor futures will provide additional flexibility for gaining and managing exposure to specific factors, with the centralized liquidity, margin offsets and seamless trading that clients rely on at CME Group.\"</p><p>\"Reflecting the strength of S&amp;P Dow Jones Indices partnership with CME Group, this launch supports our shared focus on delivering transparent, relevant and efficient index-based tools to the marketplace. With new futures tied to S&amp;P 500 factor, dividend, growth and value benchmarks, market participants gain more precise ways to express views, manage risk and access important segments of the U.S. equity market. The launch underscores our continued commitment to advancing the ecosystem of tradable index solutions,\" said Robert Ross, Chief Commercial Officer at S&amp;P Dow Jones Indices.</p><p>\"Invesco's factor ETF suite has changed the way investors approach portfolio construction and risk, and we are excited that CME Group will develop futures-based derivatives around several of our ETFs tracking S&amp;P Dow Jones Indices factor strategies. When futures and underlying strategies develop together, the whole ecosystem gets deeper and more resilient — and that's what ultimately helps to benefit investors,\" said Pratik Doshi, Head of Equity ETF Strategies, Invesco.</p><p>\"Since its inception in 2011, the Schwab U.S. Dividend Equity ETF (SCHD) has tracked the Dow Jones U.S. Dividend 100 Index, giving investors access to consistent dividends and diversification within U.S. equities. We welcome CME Group's plans to offer futures-based derivatives on the index, which we believe can help deepen liquidity and expand the investment ecosystem for SCHD shareholders and market participants,\" said John Sturiale, Head of Product Management and Innovation, Schwab Asset Management.</p><p>E-mini Equity Factor futures will be eligible for margin offsets with other cleared equity products at CME Group. The contracts, listed on and subject to the rules of CME, will be available for trading on CME Globex, as well as through privately negotiated block trades, derived blocks and Basis Trade at Index Close (BTIC) transactions.</p><p>For more information, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=3622802919&amp;u=https%3A%2F%2Fwww.cmegroup.com%2Ffactors&amp;a=cmegroup.com%2Ffactors\" target=\"_blank\" rel=\"nofollow\">cmegroup.com/factors</a>.</p><p>As the world's leading derivatives marketplace, CME Group (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=4041175310&amp;u=http%3A%2F%2Fwww.cmegroup.com%2F&amp;a=www.cmegroup.com\" target=\"_blank\" rel=\"nofollow\">www.cmegroup.com</a>) enables clients to trade futures, options, cash and OTC markets, optimize portfolios, and analyze data – empowering market participants worldwide to efficiently manage risk and capture opportunities. CME Group exchanges offer the widest range of global benchmark products across all major asset classes based on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=1492112857&amp;u=http%3A%2F%2Fwww.cmegroup.com%2Ftrading%2Finterest-rates%2Findex.html&amp;a=interest+rates\" target=\"_blank\" rel=\"nofollow\">interest rates</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=1914079711&amp;u=http%3A%2F%2Fwww.cmegroup.com%2Ftrading%2Fequity-index%2Findex.html&amp;a=equity+indexes\" target=\"_blank\" rel=\"nofollow\">equity indexes</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=818527264&amp;u=http%3A%2F%2Fwww.cmegroup.com%2Ftrading%2Ffx%2F&amp;a=foreign+exchange\" target=\"_blank\" rel=\"nofollow\">foreign exchange</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=4003662720&amp;u=https%3A%2F%2Fwww.cmegroup.com%2Fmarkets%2Fcryptocurrencies.html&amp;a=cryptocurrencies\" target=\"_blank\" rel=\"nofollow\"><span>cryptocurrencies</span></a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=2702534929&amp;u=http%3A%2F%2Fwww.cmegroup.com%2Ftrading%2Fenergy%2F&amp;a=energy\" target=\"_blank\" rel=\"nofollow\">energy</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=537592091&amp;u=http%3A%2F%2Fwww.cmegroup.com%2Ftrading%2Fagricultural%2F&amp;a=agricultural+products\" target=\"_blank\" rel=\"nofollow\">agricultural products</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=4195415362&amp;u=http%3A%2F%2Fwww.cmegroup.com%2Ftrading%2Fmetals%2F&amp;a=metals\" target=\"_blank\" rel=\"nofollow\">metals</a>. The company offers futures and options on futures trading through the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760797-1&amp;h=2530657040&amp;u=http%3A%2F%2Fwww.cmegroup.com%2Fglobex%2Findex.html&amp;a=CME+Globex\" target=\"_blank\" rel=\"nofollow\">CME Globex</a> platform, fixed income trading via BrokerTec and foreign exchange trading on the EBS platform. In addition, it operates one of the world's leading central counterparty clearing providers, CME Clearing. </p><p>CME Group, the Globe logo, CME, Chicago Mercantile Exchange, Globex, and E-mini are trademarks of Chicago Mercantile Exchange Inc. CBOT and Chicago Board of Trade are trademarks of Board of Trade of the City of Chicago, Inc. NYMEX, New York Mercantile Exchange and ClearPort are trademarks of New York Mercantile Exchange, Inc. COMEX is a trademark of Commodity Exchange, Inc. BrokerTec is a trademark of BrokerTec Americas LLC and EBS is a trademark of EBS Group LTD. The S&amp;P 500 Index, Dow Jones U.S. Dividend 100 Index, S&amp;P 500 Growth, S&amp;P 500 Value, S&amp;P 500 Quality, S&amp;P 500 Momentum, and S&amp;P 500 Low Volatility Indices are products of S&amp;P Dow Jones Indices LLC (\"S&amp;P DJI\"). \"S&amp;P®\", \"S&amp;P 500®\", \"SPY®\", \"SPX®\", US 500™ and The 500® are trademarks of Standard &amp; Poor's Financial Services LLC; Dow Jones®, DJIA® and Dow Jones Industrial Average are service and/or trademarks of Dow Jones Trademark Holdings LLC. These trademarks have been licensed for use by Chicago Mercantile Exchange Inc. Futures contracts based on the S&amp;P 500 Index are not sponsored, endorsed, marketed, or promoted by S&amp;P DJI, and S&amp;P DJI makes no representation regarding the advisability of investing in such products. All other trademarks are the property of their respective owners.</p><p>CME-G</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG34946&amp;sd=2026-08-27\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/cme-group-to-launch-e-mini-equity-factor-futures-on-september-21-302861655.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/cme-group-to-launch-e-mini-equity-factor-futures-on-september-21-302861655.html</a></p><p>SOURCE CME Group</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG34946&amp;Transmission_Id=202608270730PR_NEWS_USPR_____CG34946&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "CME Group",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 1
-        },
-        "reasons": {
-          "entertainment": [
-            "actor"
-          ],
-          "tradeshow": [
-            "summary:expo"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:32.163Z"
-    },
-    {
-      "company": [
-        "LG Electronics"
-      ],
-      "date": "20260827T100700+0000",
-      "dateline": "SEOUL, South Korea, Aug. 27, 2026",
-      "feed": [
-        "PRNUS_ONLY",
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "SKO",
-        "ASA",
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "CSE",
-        "AFI",
-        "TVN",
-        "CPR"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1976863/20260827053118EDT_image_1.jpg?id=OA2916015&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1976863/20260827053118EDT_image_1.jpg?id=OA2916015&p=publish"
-        }
-      ],
-      "release_id": "20260827CN35128",
-      "status": "PUBLISHED",
-      "subject": [
-        "TDS",
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\"><i>LG's 2026 AI TVs, Powered by the </i>α<i>11 AI Processor, Deliver a More Immersive and Intelligent Viewing Experience with Enhanced Picture Quality, Personalization, and </i><i>Robust </i><i>Security </i></p><p><b>News Summary:</b></p><ul type=\"disc\"><li>LG Electronics will present its 2026 AI TV lineup at IFA 2026, delivering a superior experience built around the award-winning α11 AI Processor Gen3, personalized AI content, and LG Shield security.</li><li>LG's 2026 AI TV lineup delivers an expanded viewing experience by offering highly personalized content recommendations and intuitive, user-centric features tailored to individual preferences.</li><li>LG Shield, a CES 2026 Innovation Awards honoree in the Cybersecurity category, leverages seven core security technologies to protect LG AI TV and user data.</li></ul>",
-      "ticker": [],
-      "title": "LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827CN35128",
-      "body": "\n<p class=\"prntac\"><i>LG's 2026 AI TVs, Powered by the </i>α<i>11 AI Processor, Deliver a More Immersive and Intelligent Viewing Experience with Enhanced Picture Quality, Personalization, and </i><i>Robust </i><i>Security </i></p><p><b>News Summary:</b></p><ul type=\"disc\"><li>LG Electronics will present its 2026 AI TV lineup at IFA 2026, delivering a superior experience built around the award-winning α11 AI Processor Gen3, personalized AI content, and LG Shield security.</li><li>LG's 2026 AI TV lineup delivers an expanded viewing experience by offering highly personalized content recommendations and intuitive, user-centric features tailored to individual preferences.</li><li>LG Shield, a CES 2026 Innovation Awards honoree in the Cybersecurity category, leverages seven core security technologies to protect LG AI TV and user data.</li></ul><p><span class=\"legendSpanClass\">SEOUL, South Korea</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- LG Electronics (LG) is presenting the ultimate AI TV experience with its 2026 lineup of AI-powered TVs at IFA 2026, in Berlin, Germany, from September 4–8. LG AI TVs are more than just screens; they are personalized entertainment platforms that recognize individual users, understand context, and proactively recommend apps, shows, settings, and more.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1976863/20260827053118EDT_image_1.jpg?id=OA2916015\" title=\"LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026\" alt=\"LG ELECTRONICS INTRODUCES AN AWARD-WINNING AI TV EXPERIENCE AT IFA 2026\"></img>\n                </p>\n    </div>\n<p><b>Award-winning α11 AI Processor Gen3 Elevates Picture and Sound</b></p><p>The 2026 LG AI TV lineup is centered on the α11 AI Processor Gen3, LG's most powerful AI TV engine, which drives its refined picture-quality-enhancing technologies. First applied to this year's LG OLED evo series, the evolved processor now brings its advanced picture quality enhancements to LG's ultra-large Micro RGB evo TVs.</p><p>The α11 AI Processor Gen3 features faster, more precise video processing with a 5.6-fold improvement* in NPU performance and enhanced CPU and GPU capabilities. It also enables AI Dual 4K Upscaling, combining two AI methods to transform lower-resolution content into sharper, clearer 4K quality, while elevating audio to cinematic Virtual 11.1.2 channels with AI Sound Pro.</p><p>Earning accolades for its superior picture quality, Tom's Guide honored the α11 AI Processor at its AI Awards 2026, noting the award recognizes \"the best AI products that solve practical problems rather than just focusing on mere hype.\" Praising its ability to reduce color banding, Tom's Guide stated, \"While most of the other TVs we compared it to showed the red light as stripes, the LG OLED TV rendered the scene naturally.\"</p><p><b>Enhancing Daily Life Through Personalized AI</b></p><p>Beyond optimized picture quality, LG's AI TVs deliver an expanded viewing experience through personalized AI features.</p><p>LG's 2026 lineup incorporates a number of user-centric AI features designed to make everyday viewing more convenient and customized:</p><ul type=\"disc\"><li>Voice ID: Recognizes the user's voice and switches to their personal profile, which provides tailored content recommendations based on viewing history and preferences. When a user asks, \"Do you have any movies you can recommend?\" Voice ID responds with personalized suggestions matched to their taste in films.</li><li>AI Chatbot: Comprehends users' plain-language descriptions of viewing-related issues and presents appropriate solutions. When a user says, \"The screen is too dark,\" AI Chatbot identifies the exact setting issue, then walks the user through the fix.</li><li>AI Concierge: Analyzes viewing history and habits to proactively suggest content, search terms and relevant features on webOS 26. Accessible by pressing the AI button on the remote, this feature displays information in a convenient card format so that users don't have to navigate away from what they are watching.</li></ul><p><b>LG Shield: Robust Security with Multi-Layered Protection </b></p><p>Every experience on LG AI TV is protected by LG Shield, LG's proprietary, integrated security system for webOS. To safeguard users' information and privacy, LG Shield employs seven core security technologies: secure algorithms, secure data storage, secure data transmission, user authentication, software integrity assurance, secure update and security event detection.</p><p>This multi-layered defense is designed to protect user data and TV systems from threats such as data leakage, unauthorized access and malicious tampering.</p><p>A CES 2026 Innovation Awards honoree in the Cybersecurity category, LG Shield allows users to enjoy the personalized services available on LG AI TVs with greater peace of mind. In addition, LG's AI TVs come with up to five years of complimentary webOS upgrades, helping deliver an evolving user experience with access to new and improved features released post-purchase.</p><p><b>Experience LG AI TVs at IFA 2026</b></p><p>\"We are committed to bringing the next generation of AI-driven home entertainment to everyone, ensuring that our entire TV lineup delivers a truly AI TV experience,\" said Park Hyoung-sei, president of the LG Media Entertainment Solution Company. \"From picture quality to security to highly personalized user experiences, every AI-driven feature is designed to enrich and expand what you can do on LG TV – and IFA 2026 is where people can see these innovations in action.\"</p><p>Visitors to LG's booth in Hall 18 at Messe Berlin, can enjoy the LG AI TV experience in person throughout IFA 2026.</p><p class=\"prntac\"># # #</p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prnpr2 prnpl2 prnsbtb0 prnrbrb0 prnsbbb0 prnsblb0\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><i><span class=\"prnews_span\"><sup>*</sup></span></i><i> Compared to the 2025 α9 AI Processor Gen8</i></span></p></td></tr></table></div><p><b>About LG Electronics Media Entertainment Solution Company</b></p><p>The LG Media Entertainment Solution Company (MS) is a recognized innovator in televisions, audio, displays and smart TV platforms. The MS Company enhances the media entertainment experience with its OLED TVs, renowned for perfect black and perfect color, the newest Micro RGB TVs and Mini-LED QNED TVs, all powered by the personalized webOS smart TV platform. The MS Company also offers Information Technology solutions (gaming monitors, business monitors, laptops, projectors, cloud devices and medical displays) as well as Signage solutions (Micro LED signage, digital signage, hospitality displays and signage software solutions) that are designed to maximize customers' work efficiency and deliver strong value. For more news on LG, visit <a href=\"http://www.lg.com/global/newsroom/\" target=\"_blank\" rel=\"nofollow\"><b>www.LG.com/global/newsroom/</b></a>.</p><p><b>About webOS platform</b></p><p>The webOS platform has powered LG TVs for over a decade, earning acclaim for its user-friendly interface that allows for easy navigation and customization. With a growing ecosystem of global partners and audience-centric content delivered via services such as free ad-supported streaming TV LG Channels, LG Gallery+, LG Gaming Portal, LG Sports Portal and more, webOS is set to drive LG's future growth across multiple devices and out-of-home experiences. For more news on webOS for entertainment, visit <a href=\"https://www.lg.com/global/newsroom/\" target=\"_blank\" rel=\"nofollow\"><b>www.LG.com/global/newsroom/</b></a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN35128&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/lg-electronics-introduces-an-award-winning-ai-tv-experience-at-ifa-2026-302861700.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/lg-electronics-introduces-an-award-winning-ai-tv-experience-at-ifa-2026-302861700.html</a></p><p>SOURCE LG Electronics</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN35128&amp;Transmission_Id=202608270607PR_NEWS_USPR_____CN35128&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "LG Electronics",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnrbrb0{\nBORDER-RIGHT:black 0pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnsbtb0{\nBORDER-TOP:black 0pt\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prnpr2{\nPADDING-RIGHT:0.17em\n}\n.prnpl2{\nPADDING-LEFT:0.17em\n}\n.prnsbbb0{\nBORDER-BOTTOM:black 0pt\n}\n.prnsblb0{\nBORDER-LEFT:black 0pt\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:32.644Z"
     }
   ]
 }

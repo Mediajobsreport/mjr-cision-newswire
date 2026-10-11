@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T09:01:30.182Z",
+  "generated_at": "2026-10-11T14:53:08.576Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "television",
   "page_url": "https://www.mediajobsreport.com/tv_news",
-  "count": 25,
+  "count": 23,
   "releases": [
     {
       "company": [
@@ -68,6 +68,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 2,
@@ -163,6 +164,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 2,
           "engineering": 0,
@@ -247,6 +249,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 2,
@@ -350,6 +353,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -433,6 +437,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 0,
@@ -536,6 +541,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -640,6 +646,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -730,6 +737,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -820,6 +828,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -901,6 +910,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -992,6 +1002,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1090,6 +1101,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1180,6 +1192,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 4,
           "digital": 4,
           "engineering": 0,
@@ -1279,6 +1292,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1378,6 +1392,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1467,6 +1482,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1549,6 +1565,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1681,6 +1698,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -1765,6 +1783,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1860,6 +1879,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1949,6 +1969,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 0,
           "engineering": 0,
@@ -2049,6 +2070,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -2141,6 +2163,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -2166,194 +2189,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:28.590Z"
-    },
-    {
-      "company": [
-        "iQSTEL",
-        "IDILIO TV"
-      ],
-      "date": "20260827T115800+0000",
-      "dateline": "NEW YORK, Aug. 27, 2026",
-      "feed": [
-        "PRNUS",
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "TLS",
-        "MLM",
-        "FIN",
-        "CPR",
-        "AFI",
-        "MEN"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "iQSTEL logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1566054/iQSTEL-updated-Logo.jpg?id=OA2913741&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1566054/iQSTEL-updated-Logo.jpg?id=OA2913741&p=publish"
-        }
-      ],
-      "release_id": "20260827FL34343",
-      "status": "PUBLISHED",
-      "subject": [
-        "LIC",
-        "HSP",
-        "DEI"
-      ],
-      "summary": "<ul type=\"disc\"><li><b><i>IDILIO TV produces original vertical \"microdramas\" built for the phone — one-to-three-minute episodes spanning romance, thriller, suspense, mystery, <span>crime</span>, and revenge — with a catalog of more than 49 original series and 2,450 short-form episodes in Spanish and roughly two to four new series added each month<br></br></i></b></li><li><b><i>According to IDILIO TV, the platform has surpassed 2 million downloads, with distribution across more than 120 countries, more than 400,000 social-media followers, and native applications on iOS and Android<br></br></i></b></li><li><b><i>IDILIO TV Founded in Colombia by Stanford-educated attorney Gabriela Tafur and MIT-trained technologist Esteban Ramírez, IDILIO TV is backed by a16z Speedrun, Goodwater Capital, WndrCo, and Nubank founder David Vélez</i></b></li></ul>",
-      "ticker": [
-        "NASDAQ-NMS:IQST",
-        "NASDAQ:IQST"
-      ],
-      "title": "IQST - IQSTEL Partners with IDILIO TV to Reach a Potential Global Audience of 630 Million Spanish Speakers and Build a Multimillion-Dollar Digital Entertainment Business",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827FL34343",
-      "body": "\n<ul type=\"disc\"><li><b><i>IDILIO TV produces original vertical \"microdramas\" built for the phone — one-to-three-minute episodes spanning romance, thriller, suspense, mystery, <span>crime</span>, and revenge — with a catalog of more than 49 original series and 2,450 short-form episodes in Spanish and roughly two to four new series added each month<br></br></i></b></li><li><b><i>According to IDILIO TV, the platform has surpassed 2 million downloads, with distribution across more than 120 countries, more than 400,000 social-media followers, and native applications on iOS and Android<br></br></i></b></li><li><b><i>IDILIO TV Founded in Colombia by Stanford-educated attorney Gabriela Tafur and MIT-trained technologist Esteban Ramírez, IDILIO TV is backed by a16z Speedrun, Goodwater Capital, WndrCo, and Nubank founder David Vélez</i></b></li></ul><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- <b>IQSTEL Inc. (NASDAQ: IQST)</b> (\"IQSTEL\" or the \"Company\"), a multinational technology company providing telecommunications, <span>fintech</span>, AI-powered communications, cybersecurity, content, and digital infrastructure services, today announced that its subsidiary IQSTEL Digital (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=543140370&amp;u=http%3A%2F%2Fwww.iqsteldigital.com%2F&amp;a=www.iqsteldigital.com\" target=\"_blank\" rel=\"nofollow\">www.iqsteldigital.com</a>) has entered into a strategic distribution partnership with IDILIO TV (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=4223591117&amp;u=http%3A%2F%2Fwww.idilio.tv%2Fen&amp;a=www.idilio.tv%2Fen\" target=\"_blank\" rel=\"nofollow\">www.idilio.tv/en</a>), a Colombian mobile entertainment platform specializing in short-form vertical microdramas.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1566054/iQSTEL-updated-Logo.jpg?id=OA2913741\" title=\"iQSTEL logo\" alt=\"iQSTEL logo\"></img>\n                </p>\n    </div>\n<p>The partnership pairs IDILIO TV's content library, audience traction, and mobile technology with IQSTEL's telecommunications infrastructure and mobile-operator relationships, with the objective of building a recurring-revenue digital entertainment business serving Spanish-speaking audiences worldwide.</p><p><b>Why This Partnership, and Why Now</b></p><p>Short-form vertical drama — commonly called \"microdrama\" — is among the fastest-growing categories in digital entertainment. The format originated in China and, according to industry reporting, generated approximately $11 billion in global revenue in 2024, growing roughly 35% that year following a 268% increase in 2023. Chinese-language platforms are reported to account for roughly 83% of that revenue, leaving Spanish-language content — addressing more than 630 million speakers worldwide — comparatively underserved. <i>(according to industry reports)</i></p><p>IDILIO TV was built to serve that gap with original Latin American content rather than dubbed imports. IQSTEL brings the distribution layer: commercial relationships with more than 600 telecom operators across 21 countries, and the billing and integration infrastructure required to place a consumer digital service inside a mobile operator's subscriber offering.</p><p><i>\"IDILIO TV brings a proven product, compelling content, technology, and audience engagement. IQSTEL brings the operator relationships and distribution infrastructure needed to scale it. That combination can transform a successful digital product into a global recurring revenue business.\"</i> <b>said Leandro Iglesias, President and CEO of IQSTEL.</b></p><p><b>How the Distribution Model Works</b></p><p>IQSTEL Digital intends to distribute IDILIO TV through participating mobile operators using several complementary monetization paths:</p><ul type=\"disc\"><li>Direct-carrier billing, under which a subscriber's charges appear on an existing mobile bill, removing the payment-card friction that limits digital subscription adoption in many Latin American and emerging markets.</li><li>Standalone and bundled subscriptions, in which operators package the service with existing data or entertainment plans as a differentiator.</li></ul><p>Unlike a one-time content licensing transaction, this model is designed to generate revenue monthly for as long as subscribers remain active. Each new mobile-operator agreement can provide access to an additional subscriber base; as distribution expands, subscriber growth can support additional content, marketing, and geographic expansion.</p><p>IQSTEL's commercial telecommunications relationships extend across an ecosystem of operators whose combined networks serve an estimated 2.3 billion end users. This figure describes the aggregate reach of IQSTEL's operator relationships and is not a projection of potential subscribers for this service.</p><p><i>\"Every new operator opens a door to another potential subscriber base, and every retained subscriber can contribute recurring revenue,\"</i> <b>Iglesias said.</b> \"<i>Rather than building a global distribution network from the ground up, we intend to activate the relationships and infrastructure already present across IQSTEL's platform.\"</i></p><p><b>An Operating Platform with Institutional Backing</b></p><p>IDILIO TV launched its iOS and Android applications in late 2025 and has scaled rapidly. According to IDILIO TV, the platform has achieved:</p><ul type=\"disc\"><li>More than 2 million downloads</li><li>Distribution across more than 120 countries and more than 400,000 social-media followers.</li><li>A catalog of 49+ original series and 2,450+ short-form episodes, in Spanish, English, and Portuguese.</li><li>Production of approximately two to four new series per month.</li></ul><p>In June 2026, IDILIO TV announced the close of a $5 million seed financing led by a16z Speedrun, the Andreessen Horowitz accelerator focused on media and entertainment, with participation from Goodwater Capital, WndrCo — the investment firm co-founded by media executive Jeffrey Katzenberg — and David Vélez, founder of Nubank, investing individually.</p><p>Episodes generally run between one and three minutes and span romance, thriller, suspense, mystery, <span>crime</span>, and revenge — genres suited to mobile viewing and serialized engagement. The company produces content using a data-driven development process, testing series concepts with audiences before committing to full production.</p><p><i>\"Microdramas are changing how audiences discover entertainment,\"</i> <b>said Jorge Becerra, CEO of IQSTEL Digital.</b> <i>\"The format is mobile-native, highly engaging, and ideally suited for telecommunications distribution. IDILIO TV already has the content and audience. IQSTEL can provide the commercial channels needed to pursue much greater scale.\"</i></p><p><b>Leadership and Creative Origin</b></p><p><b>IDILIO TV was co-founded</b> by <b>Chief Executive Officer Gabriela Tafur</b>, a Stanford-educated attorney, and <b>Chief Technology Officer Esteban Ramírez,</b> who holds an MBA and a master's degree in computer science from MIT.</p><p>The platform draws on Colombia's long track record in producing and exporting dramas and telenovelas. With creative influences from Colombia, Miami, and Mexico, its stories combine Latin American cultural specificity with themes that travel — love, ambition, betrayal, revenge, and redemption. Latin American and Colombian communities are well established across the United States, Europe, and Asia, and their cultural and linguistic ties create a natural international audience for authentic Spanish-language entertainment.</p><p><i>\"Colombia has already proven that its stories can travel,\"</i> <b>Becerra said.</b> <i>\"IDILIO TV brings that creative legacy into a mobile-first, globally scalable format.\"</i></p><p><i>\"Our stories are rooted in Latin America, but the emotions are universal,\"</i> <b>said Gabriela Tafur, CEO and Co-Founder of IDILIO TV.</b> <i>\"IQSTEL Digital provides the telecommunications relationships and infrastructure needed to reach Spanish-speaking audiences wherever they live. Together, we have a real opportunity to build a scalable and sustainable global entertainment business.\"</i></p><p><b>Creating Value Across the Ecosystem</b></p><ul type=\"disc\"><li>Mobile operators gain a differentiated digital service designed to support subscriber acquisition, engagement, and retention, and a new billing-based revenue share.</li><li>Subscribers gain convenient access to culturally relevant, mobile-first entertainment, payable through an existing mobile account.</li><li>IDILIO TV gains international distribution and new subscriber-acquisition channels without building operator relationships market by market.</li><li>IQSTEL gains the opportunity to build a scalable recurring revenue stream with potential EBITDA contribution, consistent with its strategy of monetizing higher-margin digital services across its existing carrier network.</li></ul><p><b>Financial Context and Outlook</b></p><p>IQSTEL reported preliminary net revenue of approximately $207 million for the first six months of 2026, compared to approximately $130 million in the same period of 2025. The Company has stated a fiscal year 2026 revenue target of $430 million and has described a strategic focus on expanding EBITDA through higher-margin digital services.</p><p><i>\"For years we invested in building a global telecommunications platform — 21 countries, more than 600 operator relationships, and the billing and integration infrastructure that connects them,\"</i> <b>said Leandro Iglesias, President and CEO of IQSTEL</b>. \"<i>This partnership is exactly how we intend to monetize that network. We are not building new distribution here; we are placing a digital service into channels that already exist and already carry traffic every day. If we execute, that is what turns infrastructure we have already built into recurring, higher-margin..\"</i></p><p>Subject to operator agreements, technical integrations, pricing, subscriber adoption, and market execution, IQSTEL believes the partnership represents a meaningful recurring revenue opportunity with the potential to contribute to EBITDA growth over time. No mobile-operator distribution agreements have been executed in connection with this partnership as of the date of this release, and there can be no assurance that any such agreement will be entered into or that the partnership will generate revenue.</p><p><b>About IDILIO TV</b></p><p>IDILIO TV is a mobile-first entertainment platform producing premium vertical microdramas for Spanish-speaking audiences worldwide. Founded in Colombia and led by CEO and Co-Founder Gabriela Tafur and CTO and Co-Founder Esteban Ramírez, IDILIO TV combines Latin American storytelling with proprietary mobile technology and a mix of subscription, virtual-currency, advertising, and brand-partnership monetization. According to the company, IDILIO TV has surpassed 2 million downloads, and distribution across more than 120 countries, with a catalog of more than 49 original series. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=4223591117&amp;u=http%3A%2F%2Fwww.idilio.tv%2Fen&amp;a=www.idilio.tv%2Fen\" target=\"_blank\" rel=\"nofollow\">www.idilio.tv/en</a>.</p><p><b>About IQSTEL Inc.</b></p><p>IQSTEL Inc. (NASDAQ: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=3817068830&amp;u=https%3A%2F%2Fwww.nasdaq.com%2Fmarket-activity%2Fstocks%2Fiqst&amp;a=IQST\" target=\"_blank\" rel=\"nofollow\">IQST</a>) is a global telecommunications and technology company operating through two core business divisions: Telecom and Digital Services. The Telecom Division is the foundation of IQSTEL's global platform, operating across 24 countries with more than 600 telecommunications carrier interconnections and delivering international voice, SMS, messaging, and connectivity solutions to some of the world's largest telecom operators and enterprise customers. Through these customer relationships, IQSTEL's platform has the potential to reach approximately 2.3 billion end users worldwide. Building on this global infrastructure and commercial reach, the Digital Services Division is focused on higher-margin technology solutions across Artificial Intelligence, Intelligent Communications, Cybersecurity, <span>Fintech</span>, Digital Health, Enterprise Automation, and Content Services. Built through nearly two decades of organic growth and strategic acquisitions, IQSTEL is leveraging the scale and reach of its Telecom business to accelerate the growth of Digital Services and drive its next phase of revenue and Adjusted EBITDA expansion.</p><p>For more information, visit:</p><p>Corporate: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=574560423&amp;u=http%3A%2F%2Fwww.iqstel.com%2F&amp;a=www.iqstel.com\" target=\"_blank\" rel=\"nofollow\">www.iqstel.com</a> <br></br>Telecom: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=2700593128&amp;u=http%3A%2F%2Fwww.iqsteltelecom.com%2F&amp;a=www.iqsteltelecom.com\" target=\"_blank\" rel=\"nofollow\">www.iqsteltelecom.com</a><br></br>Digital Services: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=543140370&amp;u=http%3A%2F%2Fwww.iqsteldigital.com%2F&amp;a=www.iqsteldigital.com\" target=\"_blank\" rel=\"nofollow\">www.iqsteldigital.com</a><br></br>Official Investor Landing Page: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760216-1&amp;h=2363541475&amp;u=http%3A%2F%2Fwww.landingpage.iqstel.com%2F&amp;a=www.landingpage.iqstel.com\" target=\"_blank\" rel=\"nofollow\">www.landingpage.iqstel.com</a></p><p><b>Safe Harbor Statement:</b> Statements in this news release may be \"forward-looking statements\". Forward-looking statements include, but are not limited to, statements that express our intentions, beliefs, expectations, strategies, predictions, or any other information relating to our future activities or other future events or conditions. Words such as \"anticipate,\" \"believe,\" \"estimate,\" \"expect,\" \"intend\", \"could\" and similar expressions, as they relate to the company or its management, identify forward-looking statements. These statements are based on current expectations, estimates, and projections about our business based partly on assumptions made by management. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following: our ability to successfully market our products and services; our continued ability to pay operating costs and ability to meet demand for our products and services; the amount and nature of competition from other telecom products and services; the effects of changes in the cybersecurity and telecom markets; our ability to successfully develop new products and services; our ability to complete complementary acquisitions and dispositions that benefit our company; our success establishing and maintaining collaborative, strategic alliance agreements with our industry partners; our ability to comply with applicable regulations; our ability to secure capital when needed; and the other risks and uncertainties described in our prior filings with the Securities and Exchange Commission.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL34343&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/iqst---iqstel-partners-with-idilio-tv-to-reach-a-potential-global-audience-of-630-million-spanish-speakers-and-build-a-multimillion-dollar-digital-entertainment-business-302861374.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/iqst---iqstel-partners-with-idilio-tv-to-reach-a-potential-global-audience-of-630-million-spanish-speakers-and-build-a-multimillion-dollar-digital-entertainment-business-302861374.html</a></p><p>SOURCE iQSTEL</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL34343&amp;Transmission_Id=202608270758PR_NEWS_USPR_____FL34343&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "iQSTEL",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "industry:MLM"
-          ],
-          "entertainment": [
-            "entertainment"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 2,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:32.020Z"
-    },
-    {
-      "company": [
-        "Sabio Inc."
-      ],
-      "date": "20260827T110000+0000",
-      "dateline": "LOS ANGELES, Aug. 27, 2026",
-      "feed": [
-        "prncom_prnj",
-        "PRNUS",
-        "PRNUS_ONLY",
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "OTC",
-        "CPR",
-        "IOT",
-        "STW",
-        "TVN",
-        "ENT",
-        "MLM"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Creator TV® official logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1841434/Creator-TV-official-logo.jpg?id=OA2914868&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1841434/Creator-TV-official-logo.jpg?id=OA2914868&p=publish"
-        }
-      ],
-      "release_id": "20260827LA34819",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "LIC"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Creator TV®, the creator-led streaming network and content studio owned and operated by Sabio Holdings (TSXV: SBIO) (OTCQB: SABOF), today announced that the Creator TV® FAST channel is now available on VIZIO's free-ad supported streaming service, WatchFree+.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1841434/Creator-TV-official-logo.jpg?id=OA2914868\" title=\"Creator TV® official logo\" alt=\"Creator TV® official logo\"></img>\n                </p>\n    </div>\n<p>Creator TV® brings a curated slate of creator-led programming to WatchFree+, giving viewers a dedicated destination for the kind of content typically found on social platforms, now built for the television screen.</p>",
-      "ticker": [
-        "OTC-QX:SABOF",
-        "OTC-BB:SABOF",
-        "OTC-QB:SABOF",
-        "TSXV:SBIO"
-      ],
-      "title": "SABIO BRINGS ITS CREATOR TV® FAST CHANNEL FEATURING CREATOR-LED PROGRAMMING TO VIZIO WATCHFREE+",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827LA34819",
-      "body": "\n<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- Creator TV®, the creator-led streaming network and content studio owned and operated by Sabio Holdings (TSXV: SBIO) (OTCQB: SABOF), today announced that the Creator TV® FAST channel is now available on VIZIO's free-ad supported streaming service, WatchFree+.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1841434/Creator-TV-official-logo.jpg?id=OA2914868\" title=\"Creator TV® official logo\" alt=\"Creator TV® official logo\"></img>\n                </p>\n    </div>\n<p>Creator TV® brings a curated slate of creator-led programming to WatchFree+, giving viewers a dedicated destination for the kind of content typically found on social platforms, now built for the television screen.</p><p>Creator TV® features a slate of tentpole titles led by creators including Jenny Lorenzo, Trey Kennedy, QPark, Daphnique Springs, Julie Nolke, and Lenarr Young, spanning comedy, lifestyle, and culture formats built for the television screen. The network also produces Creator TV Sports, a dedicated studio label behind competition franchises including the Creator Poker Championship, produced in partnership with World Poker Tour®, and the Creator Pickleball Tour.</p><p>\"We are thrilled that Creator TV is now available to the WatchFree+ audience, marking another milestone for Creator TV, bringing its creator-led content to millions of new viewers,\" said Joe Ochoa, Co-Founder and General Manager of Creator TV. \"It's exciting to see creator-led content earn its home on TV.\"</p><p>The launch extends Creator TV®'s distribution footprint to seven platforms and expands its total household reach significantly. Creator TV® now streams across VIZIO WatchFree+, TCLtv+, Xumo Play, Sling Freestream, Amazon Fire TV Channels, Plex, and Anoki's LiveTVx. The network surpassed 1 million unique viewers in its first year of operation, with viewership growing 163% from Q1 to Q4 2025 and minutes viewed increasing an average of 45% month over month.</p><p>Creator TV®'s viewers are 10% more likely to be Gen Z than the average streaming audience, 50% more likely to be sports fans, and skew toward multicultural and younger demographics — audiences that are increasingly difficult to reach through traditional linear television and that represent meaningful growth opportunities for streaming platforms and advertising partners.</p><p>Customers that have a VIZIO TV or on TV powered by VIZIO with VIZIO OS can watch the Creator TV channel by clicking the WatchFree+ app icon on the VIZIO home screen and tune to Creator TV, channel #1236. In addition, anyone can watch Creator TV by downloading the free VIZIO mobile app to their mobile device and clicking on the Live TV tab.</p><p>Learn more at creatortv.com.</p><p><b>About Creator TV®</b></p><p>Creator TV® is the first creator-led streaming network and content studio dedicated to bringing the authenticity and energy of social media storytelling to TV. Through its Creator TV Sports™ label, the company develops original competition formats and live events in partnership with leading sports organizations, athletes, and creators. Creator TV®'s featured programming is led by some of the world's most entertaining social stars, including King Bach, Jenny Lorenzo, and Trey Kennedy. Distributed across Plex, Sling Freestream, Xumo Play, Amazon Fire TV Channels, VIZIO WatchFree+ and more, Creator TV® is headquartered in Los Angeles and owned and operated by Sabio Holdings (TSXV: SBIO) (OTCQB: SABOF), an award-winning leader in connected television advertising technology. Learn more at creatortv.com.</p><p><b>About Sabio</b></p><p>Sabio Holdings (TSXV: SBIO, OTCQB: SABOF) is a technology and services leader in the fast-growing ad-supported streaming space. Its cloud-based, end-to-end technology stack works with top blue-chip, global brands and the agencies that represent them to reach, engage, and validate (R.E.V.) streaming audiences. Sabio consists of a proprietary ad-serving technology platform that partners with the top ad-supported streaming platforms and apps in the world, App Science™, a non-cookie-based software as a service (SaaS) analytics and insights platform with AI natural language capabilities, and Creator Television® (Creator TV®), the first creator-led streaming network and content studio dedicated to bringing the authenticity and energy of social media storytelling to TV. For more information, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4760666-1&amp;h=1597919053&amp;u=http%3A%2F%2Fsabioctv.com%2F&amp;a=sabioctv.com\" target=\"_blank\" rel=\"nofollow\">sabioctv.com</a>.</p><p><b>Media Contact</b></p><p><a href=\"mailto:Kathryn@kathrynwhitepr.com\" target=\"_blank\" rel=\"nofollow\">Kathryn@kathrynwhitepr.com</a> | kathrynwhitepr.com</p><p><b>Investor Relations</b></p><p>Sajid Premji, Chief Financial <a href=\"mailto:Officerinvestor@sabio.inc\" target=\"_blank\" rel=\"nofollow\">Officerinvestor@sabio.inc</a> | 1.844.974.2662</p><p><i>Neither the TSX Venture Exchange nor its Regulation Service Provider accepts responsibility for the adequacy or accuracy of this release.</i></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA34819&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/sabio-brings-its-creator-tv-fast-channel-featuring-creator-led-programming-to-vizio-watchfree-302861360.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/sabio-brings-its-creator-tv-fast-channel-featuring-creator-led-programming-to-vizio-watchfree-302861360.html</a></p><p>SOURCE Sabio Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA34819&amp;Transmission_Id=202608270700PR_NEWS_USPR_____LA34819&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Sabio Inc.",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 3,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "industry:MLM"
-          ],
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "television": [
-            "summary:television",
-            "industry:TVN"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:32.481Z"
     }
   ]
 }

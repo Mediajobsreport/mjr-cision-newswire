@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T09:01:30.182Z",
+  "generated_at": "2026-10-11T14:53:08.576Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 25,
+  "count": 24,
   "releases": [
     {
       "company": [
@@ -70,6 +70,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -159,6 +160,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -249,6 +251,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 7,
           "engineering": 0,
@@ -337,6 +340,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -421,6 +425,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 6,
           "engineering": 0,
@@ -509,6 +514,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 0,
@@ -595,6 +601,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 9,
           "engineering": 0,
@@ -685,6 +692,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 6,
           "engineering": 0,
@@ -767,6 +775,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 0,
@@ -844,6 +853,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 0,
@@ -924,6 +934,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 5,
           "digital": 7,
           "engineering": 0,
@@ -1009,6 +1020,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 4,
           "engineering": 0,
@@ -1098,6 +1110,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1185,6 +1198,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1269,6 +1283,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1351,6 +1366,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 5,
           "engineering": 0,
@@ -1434,6 +1450,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1513,6 +1530,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1593,6 +1611,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 7,
           "engineering": 0,
@@ -1687,6 +1706,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 7,
@@ -1780,6 +1800,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 3,
           "digital": 6,
           "engineering": 0,
@@ -1874,6 +1895,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -1966,6 +1988,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 0,
           "digital": 2,
           "engineering": 0,
@@ -2049,6 +2072,7 @@
         ],
         "review": false,
         "scores": {
+          "college": 0,
           "advertising": 2,
           "digital": 4,
           "engineering": 0,
@@ -2072,85 +2096,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:29.505Z"
-    },
-    {
-      "company": [
-        "Rival Technologies"
-      ],
-      "date": "20260827T123700+0000",
-      "dateline": "VANCOUVER, BC, Aug. 27, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "BCO",
-        "CAN",
-        "NAM"
-      ],
-      "industry": [
-        "PUB",
-        "CPR",
-        "SMD",
-        "AFI"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Rival Technologies study finds 73% of Gen Z distrust AI companies.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1976907/Rival-Technologies-study-finds-73-percent-of-Gen-Z-distrust-AI-companies.jpg?id=OA2916144&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1976907/Rival-Technologies-study-finds-73-percent-of-Gen-Z-distrust-AI-companies.jpg?id=OA2916144&p=publish"
-        }
-      ],
-      "release_id": "20260827PH35189",
-      "status": "PUBLISHED",
-      "subject": [
-        "SVY"
-      ],
-      "summary": "<p><i>Social media is Gen Z's top source for news, yet just 33% trust social media platforms, while trust in influencers stands at 31% and AI companies at 24% </i></p><p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- AI companies, influencers and social media platforms ranked lowest for trust among 14 types of organizations tested in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=2411348875&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox&amp;a=a+new+Rival+Technologies+study\" target=\"_blank\" rel=\"nofollow\">a new Rival Technologies study</a> of 903 Gen Z consumers across the United States and Canada.</p>\n<p>AI companies ranked lowest, with just 24% of respondents expressing trust and 73% expressing distrust, followed by influencers at 31% trust and social media platforms at 33%. The findings are particularly notable given how much Gen Z relies on these platforms and technologies in daily life. Social media, for example, is this generation's top news source, used by 62% of respondents.</p>",
-      "ticker": [],
-      "title": "Gen Z Trusts AI Companies, Influencers and Social Media Least Among 14 Types of Organizations Tested, New Rival Technologies Study Shows",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260827PH35189",
-      "body": "\n<p><i>Social media is Gen Z's top source for news, yet just 33% trust social media platforms, while trust in influencers stands at 31% and AI companies at 24% </i></p><p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Aug. 27, 2026</span> /PRNewswire/ -- AI companies, influencers and social media platforms ranked lowest for trust among 14 types of organizations tested in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=2411348875&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox&amp;a=a+new+Rival+Technologies+study\" target=\"_blank\" rel=\"nofollow\">a new Rival Technologies study</a> of 903 Gen Z consumers across the United States and Canada.</p>\n<p>AI companies ranked lowest, with just 24% of respondents expressing trust and 73% expressing distrust, followed by influencers at 31% trust and social media platforms at 33%. The findings are particularly notable given how much Gen Z relies on these platforms and technologies in daily life. Social media, for example, is this generation's top news source, used by 62% of respondents.</p><p>Healthcare institutions stood apart, with 79% of Gen Z expressing trust and 31% saying they trust them completely. Trust in most of the other types of organizations tested, including banks, government, traditional news media, food brands and streaming services, fell between the high levels reported for healthcare institutions and the low levels reported for AI companies, influencers and social media platforms.</p><p><b>Top three organizations trusted by Gen Z:</b></p><ul type=\"disc\"><li>Healthcare institutions and hospitals — 79%</li><li>Hospitality companies (hotels, Airbnb) — 65%</li><li>Government institutions — 64%</li></ul><p><b>Organizations least trusted by Gen Z: </b></p><ul type=\"disc\"><li>Social media platforms — 33%</li><li>Influencers — 31%</li><li>AI tech companies — 24%</li></ul><p>Other findings from the study include:</p><ul type=\"disc\"><li><b>Canada is a tougher trust market than the United States.</b> Canadian Gen Zers trust AI companies at less than half the American rate (14% versus 33%), and are far more skeptical of influencers (20% versus 40%) and social platforms (23% versus 43%).</li><li><b>Legacy news still holds up.</b> Despite getting most of their news from social feeds, 61% of Gen Z trust established news organizations like The New York Times or The Boston Globe (in the U.S.) or The Globe &amp; Mail (in Canada), nearly double the trust they place in the social platforms carrying that news (33%).</li><li><b>Low trust in these categories was consistent across age groups and countries.</b> AI companies, influencers and social media platforms ranked at the bottom across every age group tested and in both the United States and Canada.</li></ul><p>\"Our research shows that Gen Z trust is fragile, nuanced, and rarely given by default,\" said Paula Catoira, chief marketing officer at Rival Group.\"You don't win it with reach, you earn it through relationship. That means meeting these young consumers where they are, and in research, a mobile-first, conversational approach lets them share what they really think in a way that feels natural to them.\"</p><p>The study was conducted with 903 Gen Z participants (ages 18 to 29) across the United States and Canada using <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=2755164653&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fplatform&amp;a=Rival%27s+AI-accelerated%2C+mobile-first%2C+conversational+research+platform\" target=\"_blank\" rel=\"nofollow\">Rival's AI-accelerated, mobile-first, conversational research platform</a>, with participants sourced from the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=3208201014&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fplatform&amp;a=company%27s+proprietary+panel\" target=\"_blank\" rel=\"nofollow\">company's proprietary panel</a>. It was fielded from late July to early August 2026.</p><p>Several solutions from Rival help brands track Gen Z sentiment and attitudes over time.  <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=321692619&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Femerging-consumer-index-request&amp;a=Emerging+Consumer+Index\" target=\"_blank\" rel=\"nofollow\">Emerging Consumer Index</a> tracks Gen Z and millennial consumers across the U.S. and Canada through a continuous research stream, with new data collected every two weeks. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=3438456350&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Frival-insight-communities&amp;a=Rival+Insight+Communities\" target=\"_blank\" rel=\"nofollow\">Rival Insight Communities</a> give brands access to real-time insights from their most important audiences, including Gen Z.</p><p>Download the full report: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=162117619&amp;u=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox&amp;a=https%3A%2F%2Fwww.rivaltech.com%2Fgen-z-trust-paradox\" target=\"_blank\" rel=\"nofollow\">https://www.rivaltech.com/gen-z-trust-paradox</a> </p><p><b>About Rival Technologies</b><br></br>Rival Technologies is a research technology company redefining how brands understand people. As a pioneer in conversational research, Rival's AI-driven, mobile-first platform transforms traditional surveys into engaging, chat-like experiences that reflect how people communicate today. By blending quant, qual and video in a single conversational flow, Rival helps global brands like Cash App, ŌURA, Carnival Corporation and Warner Bros. Discovery capture richer insights, increase response rates and move from data to confident decisions faster. Part of Rival Group, Rival Technologies was named to the Top 10 Most Innovative Technology Suppliers in Greenbook's 2025 GRIT report. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4761036-1&amp;h=3242875193&amp;u=http%3A%2F%2Frivaltech.com%2F&amp;a=rivaltech.com\" target=\"_blank\" rel=\"nofollow\">rivaltech.com</a>.</p><p>Media contact: Marie Melsheimer, <a href=\"mailto:421574@email4pr.com\" target=\"_blank\" rel=\"nofollow\">421574@email4pr.com</a>, +1-541-815-3951</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH35189&amp;sd=2026-08-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/gen-z-trusts-ai-companies-influencers-and-social-media-least-among-14-types-of-organizations-tested-new-rival-technologies-study-shows-302861822.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/gen-z-trusts-ai-companies-influencers-and-social-media-least-among-14-types-of-organizations-tested-new-rival-technologies-study-shows-302861822.html</a></p><p>SOURCE Rival Technologies</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH35189&amp;Transmission_Id=202608270836PR_NEWS_USPR_____PH35189&amp;DateId=20260827\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Rival Technologies",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "digital"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "digital"
-        ],
-        "review": false,
-        "scores": {
-          "advertising": 0,
-          "digital": 8,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "summary:social media platform",
-            "social media",
-            "industry:PUB",
-            "industry:SMD"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:31.551Z"
     }
   ]
 }
