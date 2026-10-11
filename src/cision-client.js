@@ -31,7 +31,7 @@ export class CisionClient {
     return payload;
   }
 
-  async request(path, { retryAuth = true, retries = 3 } = {}) {
+  async request(path, { retryAuth = true, retries = 3, rateRetries = 8 } = {}) {
     if (!this.token || Date.now() > this.expiresAt - 5 * 60_000) {
       await this.authenticate();
     }
@@ -47,16 +47,25 @@ export class CisionClient {
     } catch (error) {
       if (retries > 0) {
         await sleep(retryDelay(3 - retries));
-        return this.request(path, { retryAuth, retries: retries - 1 });
+        return this.request(path, { retryAuth, retries: retries - 1, rateRetries });
       }
       throw error;
     }
     if (response.status === 401 && retryAuth) {
       this.token = null;
       await this.authenticate();
-      return this.request(path, { retryAuth: false, retries });
+      return this.request(path, { retryAuth: false, retries, rateRetries });
     }
     const payload = await readJson(response);
+    if (response.status === 429 && rateRetries > 0) {
+      const retryAfter = Number(response.headers.get("retry-after"));
+      const waitMs = Number.isFinite(retryAfter) && retryAfter > 0
+        ? Math.max(60_000, retryAfter * 1000)
+        : 60_000;
+      console.warn(`Cision rate limit hit; waiting ${Math.ceil(waitMs / 1000)} seconds`);
+      await sleep(waitMs);
+      return this.request(path, { retryAuth, retries, rateRetries: rateRetries - 1 });
+    }
     if (!response.ok && isTransientStatus(response.status) && retries > 0) {
       await sleep(retryDelay(3 - retries, response.headers.get("retry-after")));
       return this.request(path, { retryAuth, retries: retries - 1 });
@@ -70,6 +79,7 @@ export class CisionClient {
     let offset = 0;
     while (true) {
       const query = new URLSearchParams({ ...params, from: String(offset), size: String(PAGE_SIZE) });
+      if (offset > 0) await sleep(300);
       const payload = await this.request(`/api/v1.0/releases?${query}`);
       const page = Array.isArray(payload.data) ? payload.data : [];
       releases.push(...page);
