@@ -1,8 +1,8 @@
 {
   "anchor": "2026-10-11T14:53:08.576Z",
-  "next_start": "2026-07-14T02:53:08.576Z",
+  "next_end": "2026-10-11T02:53:08.576Z",
   "complete": false,
-  "last_successful_batch": "2026-10-11T14:53:08.576Z",
-  "releases_seen": 250,
+  "last_successful_batch": "2026-10-11T14:58:34.597Z",
+  "releases_seen": 5,
   "releases_fetched": 0
 }
