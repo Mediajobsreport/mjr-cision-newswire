@@ -23,14 +23,25 @@ const start = new Date(Math.max(
 ));
 
 const codeMaps = await loadCodeMaps(client);
-const summaries = await client.getAllReleases({
-  show_del: "true",
-  mod_startdate: formatCisionDate(start),
-  mod_enddate: formatCisionDate(now),
-  geography: GEOGRAPHY,
-  language: LANGUAGE,
-  fields: LIST_FIELDS
-});
+const summariesById = new Map();
+const chunkDays = 3;
+for (let cursor = start.getTime(); cursor < now.getTime();) {
+  const end = new Date(Math.min(now.getTime(), cursor + chunkDays * 24 * 60 * 60_000));
+  const chunk = await client.getAllReleases({
+    show_del: "true",
+    mod_startdate: formatCisionDate(new Date(cursor)),
+    mod_enddate: formatCisionDate(end),
+    geography: GEOGRAPHY,
+    language: LANGUAGE,
+    fields: LIST_FIELDS
+  });
+  for (const release of chunk) {
+    if (release.release_id) summariesById.set(release.release_id, release);
+  }
+  console.log(`Cision window ${new Date(cursor).toISOString()} to ${end.toISOString()}: ${chunk.length} releases`);
+  cursor = end.getTime();
+}
+const summaries = [...summariesById.values()];
 
 let fetched = 0;
 let deleted = 0;
