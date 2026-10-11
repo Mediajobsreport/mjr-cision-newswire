@@ -72,7 +72,14 @@ for (const summary of summaries) {
 
   if (collegeBackfill && master.has(summary.release_id)) continue;
   const preliminary = classifyRelease(summary, codeMaps);
-  if (collegeBackfill && !preliminary.categories.includes("college")) continue;
+  // Cision list summaries often omit the student-media detail found in the full
+  // release. Do not require a final college classification before fetching it.
+  // Restrict the backfill candidate pool to education/media signals to conserve API calls.
+  if (collegeBackfill && !preliminary.categories.includes("college")) {
+    const candidateText = [summary.title, summary.summary, summary.company, summary.industry, summary.subject]
+      .flat().filter(Boolean).join(" ").toLowerCase();
+    if (!/college|universit|campus|student|journalis|broadcast|radio|television|media|communication|scholarship|internship|podcast|newsroom/.test(candidateText)) continue;
+  }
   if (!preliminary.categories.length && !preliminary.review) {
     rejected += 1;
     continue;
