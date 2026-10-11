@@ -80,7 +80,9 @@ for (const summary of summaries) {
       .flat().filter(Boolean).join(" ").toLowerCase();
     if (!/college|universit|campus|student|journalis|broadcast|radio|television|media|communication|scholarship|internship|podcast|newsroom/.test(candidateText)) continue;
   }
-  if (!preliminary.categories.length && !preliminary.review) {
+  // Historical college candidates need full-text classification even when
+  // the short Cision listing does not meet the general media-news threshold.
+  if (!collegeBackfill && !preliminary.categories.length && !preliminary.review) {
     rejected += 1;
     continue;
   }
