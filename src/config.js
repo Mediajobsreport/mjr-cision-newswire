@@ -30,6 +30,7 @@ export const LIST_FIELDS = [
 
 export const FEED_NAMES = [
   "advertising",
+  "college",
   "digital",
   "engineering",
   "entertainment",
@@ -42,6 +43,7 @@ export const FEED_NAMES = [
 ];
 
 export const PAGE_URLS = {
+  college: "https://www.mediajobsreport.com/college_news",
   advertising: "https://www.mediajobsreport.com/advertising_news",
   digital: "https://www.mediajobsreport.com/digital_news",
   engineering: "https://www.mediajobsreport.com/engineering_news",
