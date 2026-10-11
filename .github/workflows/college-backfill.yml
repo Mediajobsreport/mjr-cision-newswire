@@ -1,0 +1,46 @@
+name: College News Historical Backfill
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cision-newswire-importer
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      CISION_LOGIN: ${{ secrets.CISION_LOGIN }}
+      CISION_PASSWORD: ${{ secrets.CISION_PASSWORD }}
+      CISION_COLLEGE_BACKFILL: "true"
+      CISION_RETENTION_DAYS: "45"
+      CISION_GEOGRAPHY: USA|CAN
+      CISION_LANGUAGE: en
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Import next college history window
+        run: npm start
+      - name: Generate Buzz sitemap
+        run: node src/generate-sitemap.js
+      - name: Commit feeds and backfill checkpoint
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Advance college news backfill"
+          git pull --rebase
+          git push
