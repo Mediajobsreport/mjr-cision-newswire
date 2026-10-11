@@ -184,7 +184,8 @@ export function classifyRelease(release) {
     const studentText = `${primary} ${summary}`;
     const studentAudience = /college students|university students|campus life|student life|higher education|undergraduates|student financial aid|student loans|college tuition|college costs|student housing|campus safety|student mental health|college scholarships|university scholarships|fafsa|pell grant/i.test(studentText);
     const studentIssue = /scholarship|financial aid|tuition|student debt|student loan|housing|food insecurity|basic needs|mental health|stress|anxiety|wellness|safety|career|internship|suicide prevention/i.test(studentText);
-    if (studentAudience && studentIssue) categories.push("college");
+    const commercialHousing = /student housing/i.test(studentText) && /contractor|construction|property sale|real estate investment|development offers/i.test(primary);
+    if (studentAudience && studentIssue && !commercialHousing) categories.push("college");
     if (scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(`${primary} ${summary}`)) categories.push("college");
     if (scores.advertising >= 4 && primaryAdvertisingSignal(primary)) categories.push("advertising");
     if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
