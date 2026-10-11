@@ -1,4 +1,16 @@
 const CATEGORY_RULES = {
+  college: {
+    strong: [
+      "college radio", "campus radio", "student radio", "college television",
+      "campus television", "student television", "student newspaper",
+      "student journalism", "journalism school", "school of journalism",
+      "broadcast journalism program", "student media", "campus media",
+      "media scholarship", "journalism scholarship", "broadcasting scholarship",
+      "media internship", "journalism internship", "student newsroom",
+      "college broadcasting", "university broadcasting"
+    ],
+    weak: ["college media", "university media", "communications students", "journalism students"]
+  },
   advertising: {
     strong: [
       "advertising agency", "advertising agencies", "advertising industry", "advertising platform",
@@ -169,6 +181,7 @@ export function classifyRelease(release) {
   const categories = [];
 
   if (!excluded) {
+    if (scores.college >= 5 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting/i.test(primary)) categories.push("college");
     if (scores.advertising >= 4 && primaryAdvertisingSignal(primary)) categories.push("advertising");
     if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
     if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
