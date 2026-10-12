@@ -131,7 +131,10 @@ const CORPORATE_NOISE = [
   "to present at the", "to speak at the", "investor conference", "investor events",
   "to participate in citi", "to participate in investor", "to participate in goldman sachs",
   "notes offering", "credit facility", "laminating film", "polyimide film",
-  "quarterly results", "quarter results"
+  "quarterly results", "quarter results",
+  "common stock dividend", "quarterly dividend", "declares dividend",
+  "share repurchase", "stock buyback", "quarterly earnings",
+  "earnings conference call", "investor presentation"
 ];
 
 export function classifyRelease(release) {
