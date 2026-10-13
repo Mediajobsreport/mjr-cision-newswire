@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-13T16:22:48.310Z",
+  "generated_at": "2026-10-13T19:12:38.063Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "college",
   "page_url": "https://www.mediajobsreport.com/college_news",
-  "count": 29,
+  "count": 32,
   "releases": [
     {
       "company": [
@@ -2378,6 +2378,242 @@
         "excluded": false
       },
       "imported_at": "2026-10-13T11:47:38.058Z"
+    },
+    {
+      "company": [
+        "Wine & Spirits Wholesalers of America"
+      ],
+      "date": "20260902T120000+0000",
+      "dateline": "WASHINGTON, Sept. 2, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "DOC",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ALC",
+        "BEV",
+        "EDU",
+        "HED",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "WSWA Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS620154/WSWA-Logo.jpg?id=OA2924202&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS620154/WSWA-Logo.jpg?id=OA2924202&p=publish"
+        }
+      ],
+      "release_id": "20260902DC38592",
+      "status": "PUBLISHED",
+      "subject": [
+        "CSR",
+        "HSP"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Wine &amp; Spirits Wholesalers of America (WSWA) Educational Foundation – the charitable arm of the only national trade association for wine and spirits distributors – today announced 51 recipients of its annual scholarship program. The scholarship program is open to the children of WSWA wholesaler member company employees. Each recipient is awarded $2,000 for two consecutive school years ($4,000 total) to support their higher education.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS620154/WSWA-Logo.jpg?id=OA2924202\" title=\"WSWA Logo\" alt=\"WSWA Logo\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Wine &amp; Spirits Wholesalers of America Educational Foundation Awards 51 Scholarships to Students of Member Company Employees",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902DC38592",
+      "body": "\n<p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Wine &amp; Spirits Wholesalers of America (WSWA) Educational Foundation – the charitable arm of the only national trade association for wine and spirits distributors – today announced 51 recipients of its annual scholarship program. The scholarship program is open to the children of WSWA wholesaler member company employees. Each recipient is awarded $2,000 for two consecutive school years ($4,000 total) to support their higher education.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS620154/WSWA-Logo.jpg?id=OA2924202\" title=\"WSWA Logo\" alt=\"WSWA Logo\"></img>\n                </p>\n    </div>\n<p>This year's class of scholars represents 13 WSWA member companies, chosen from a competitive pool of applicants by an independent panel of judges. The program highlights the Foundation's ongoing commitment to supporting the families of distributor employees nationwide.</p><p>\"We're proud to recognize this year's scholarship recipients and celebrate the hard work and commitment they've demonstrated in pursuing their education,\" said Francis Creighton, WSWA President and CEO. \"Supporting the next generation is at the heart of the WSWA Educational Foundation's mission, and these scholarships are made possible by the continued generosity of our members. We congratulate the 2026 recipients and look forward to seeing all they accomplish in the years ahead.\"</p><p class=\"prntac\"><b>2026 WSWA Educational Foundation Scholarship Recipients:</b></p><p class=\"prntac\"><b>Cristina Guzman</b>, Allied Beverage Group, LLC</p><p class=\"prntac\"><b>Daniela Lopez</b>, Allied Beverage Group, LLC</p><p class=\"prntac\"><b>Aliyah Holvick</b>, Badger Liquor Co., Inc.</p><p class=\"prntac\"><b>Ella Johnson</b>, Badger Liquor Co., Inc.</p><p class=\"prntac\"><b>Karina Aguila</b>, Breakthru Beverage Group</p><p class=\"prntac\"><b>Katherine Blackburn</b>, Breakthru Beverage Group</p><p class=\"prntac\"><b>Cameron Dille</b>, Columbia Distributing</p><p class=\"prntac\"><b>Halle Engerman</b>, Columbia Distributing</p><p class=\"prntac\"><b>Ryah Larsen</b>, Columbia Distributing</p><p class=\"prntac\"><b>Leo Zymkowitz</b>, Columbia Distributing</p><p class=\"prntac\"><b>Lydia Kuhn</b>, Donnewald Distributing Co.</p><p class=\"prntac\"><b>Kristina Chica, </b>Eagle Brands Sales and Double Eagle Distributing</p><p class=\"prntac\"><b>Anabelle Yglesias</b>, Eagle Brands Sales and Double Eagle Distributing</p><p class=\"prntac\"><b>Maggie Lathwell</b>, Great Lakes Wine &amp; Spirits</p><p class=\"prntac\"><b>Brooke Brown</b>, Heidelberg Distributing Co.</p><p class=\"prntac\"><b>Khloe Co</b>, M.S. Walker, Inc.</p><p class=\"prntac\"><b>Emily Dombovary</b>, Reyes Beverage Group</p><p class=\"prntac\"><b>Hannah Miller</b>, Reyes Beverage Group</p><p class=\"prntac\"><b>Samantha Proulx</b>, Reyes Beverage Group</p><p class=\"prntac\"><b>Finn Grenier</b>, Saratoga Liquor Co., Inc.</p><p class=\"prntac\"><b>Giovanni Akakpo</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Samantha Allen, </b>Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Charles Baker, </b>Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Leah Barry</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Nancy Caroselli, </b>Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Gianna Cuga</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Sarika Deol</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Treva Erhard</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Aleida Escobar</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Chloe Escobar</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Lauren Hebert</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Delaina Hoang</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Camryn Jennings</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Caitlyn Karnes</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Ethan Leonard</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Anthony Maida</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Juliana Marchetti</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Paige Metzger</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Madison Monroy</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Emma Mostek</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Hannah Nolan</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Audrey Pearl</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Gianna Petrella, </b>Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Lyla Privat</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Riley Rolves, </b>Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Luke Salazar</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Miranda Torres</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Ally Vanweerdhuizen</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Chloe Wanner</b>, Southern Glazer's Wine &amp; Spirits, LLC</p><p class=\"prntac\"><b>Molly Conner</b>, United Distributors, Inc.</p><p class=\"prntac\"><b>Milissa Maxwell</b>, United Distributors, Inc.</p><p>Since its inception in 2010, the WSWA Educational Foundation has awarded over $1,500,000 in scholarships. This scholarship program is made possible by the generosity and support of WSWA members.</p><p>For more information or to donate to this program, please visit our website <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765307-1&amp;h=1381732193&amp;u=https%3A%2F%2Fwww.wswa.org%2Fparticipate%2Fmember-programs%2Feducational-foundation&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>.</p><p><b>About Wine &amp; Spirits Wholesalers of America</b> </p><p>WSWA is the national trade association representing the distribution tier of the wine and spirits industry, dedicated to advancing the interests and independence of distributors and brokers of wine and spirits. Founded in 1943, WSWA has more than 380 member companies in 50 states and the District of Columbia, and its members distribute more than 80 percent of all wine and spirits sold at wholesale in the United States.   </p><p>To learn more, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765307-1&amp;h=1687539244&amp;u=http%3A%2F%2Fwww.wswa.org%2F&amp;a=www.wswa.org\" target=\"_blank\" rel=\"nofollow\">www.wswa.org</a> or connect with us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765307-1&amp;h=1774579732&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fwine-%26-spirits-wholesalers-of-america&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765307-1&amp;h=1674728883&amp;u=https%3A%2F%2Fwww.facebook.com%2Fwswa%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a> or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765307-1&amp;h=3897223484&amp;u=https%3A%2F%2Ftwitter.com%2FWSWAMedia%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&amp;a=Twitter\" target=\"_blank\" rel=\"nofollow\">Twitter</a>. </p><p><b>MEDIA CONTACT<br></br></b>Christy Moran<br></br>Senior Vice President, Communications &amp; Marketing<br></br><a href=\"mailto:christy.moran@wswa.org\" target=\"_blank\" rel=\"nofollow\">christy.moran@wswa.org</a> | (202) 669-3293</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC38592&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/wine--spirits-wholesalers-of-america-educational-foundation-awards-51-scholarships-to-students-of-member-company-employees-302867043.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/wine--spirits-wholesalers-of-america-educational-foundation-awards-51-scholarships-to-students-of-member-company-employees-302867043.html</a></p><p>SOURCE Wine &amp; Spirits Wholesalers of America</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC38592&amp;Transmission_Id=202609020800PR_NEWS_USPR_____DC38592&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Wine & Spirits Wholesalers of America",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-13T19:13:10.548Z"
+    },
+    {
+      "company": [
+        "Professional Physical Therapy"
+      ],
+      "date": "20260901T193200+0000",
+      "dateline": "MELVILLE, N.Y., Sept. 1, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "EDU",
+        "MTC",
+        "HEA",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Professional Physical Therapy",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1277703/Professional-Physical-Therapy.jpg?id=OA2924205&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1277703/Professional-Physical-Therapy.jpg?id=OA2924205&p=publish"
+        },
+        {
+          "caption": "Professional Physical Therapy Logo 2021",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1244136/Professional-Physical-Therapy-Tagline-Logo.jpg?id=OA2924239&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1244136/Professional-Physical-Therapy-Tagline-Logo.jpg?id=OA2924239&p=publish"
+        }
+      ],
+      "release_id": "20260901NY38594",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT",
+        "PDT"
+      ],
+      "summary": "<p><b>New RISE Program will provide eligible participants with up to $50,000 in student loan repayment support</b></p><p><span class=\"legendSpanClass\">MELVILLE, N.Y.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Professional Physical Therapy today announced a new program designed to help current and future physical therapists overcome one of the profession's most significant barriers: student loan debt.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1277703/Professional-Physical-Therapy.jpg?id=OA2924205\" title=\"Professional Physical Therapy\" alt=\"Professional Physical Therapy\"></img>\n                </p>\n    </div>\n<p>Through its new Student Loan Repayment Incentive Supporting Employees (RISE) Program, eligible participants can receive up to $50,000 paid toward qualifying student loans over five years of full-time employment with Professional Physical Therapy.</p>",
+      "ticker": [],
+      "title": "Professional Physical Therapy Launches RISE Program to Help Physical Therapists Repay Student Loans",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901NY38594",
+      "body": "\n<p><b>New RISE Program will provide eligible participants with up to $50,000 in student loan repayment support</b></p><p><span class=\"legendSpanClass\">MELVILLE, N.Y.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Professional Physical Therapy today announced a new program designed to help current and future physical therapists overcome one of the profession's most significant barriers: student loan debt.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1277703/Professional-Physical-Therapy.jpg?id=OA2924205\" title=\"Professional Physical Therapy\" alt=\"Professional Physical Therapy\"></img>\n                </p>\n    </div>\n<p>Through its new Student Loan Repayment Incentive Supporting Employees (RISE) Program, eligible participants can receive up to $50,000 paid toward qualifying student loans over five years of full-time employment with Professional Physical Therapy.</p><p><b>RISE at a Glance</b></p><ul type=\"disc\"><li><b>Up to $50,000</b> in student loan repayment support over five years of eligible employment</li><li>Payments made directly to qualifying student loan servicers</li><li>Open to licensed physical therapists and DPT students graduating in 2026, 2027 or 2028</li><li>Potential career opportunities throughout Professional Physical Therapy's clinics</li><li><b>Program availability is limited. </b></li></ul><p>DPT students graduating in 2026, 2027 or 2028 may apply for RISE before graduation, and currently licensed physical therapists may apply as they explore current opportunities with Professional Physical Therapy. For those applicants who meet eligibility criteria, participation begins after they are hired and begin full-time employment with Professional Physical Therapy.</p><p>RISE participants can receive payments that increase with each year of full-time employment, up to: $5,000 after the first year, $7,500 after the second, $10,000 after the third, $12,500 after the fourth and $15,000 after the fifth, a total potential benefit of up to $50,000. Payments will be made directly to participants' qualifying student loan servicers by RISE program administrator Clasp.</p><p>\"At Professional Physical Therapy, we believe the growing financial pressure facing current and future physical therapists demands bold action,\" said Steve Schneider, Chief Executive Officer of Professional Physical Therapy. \"Traditional recruiting incentives are not enough to address the realities clinicians face today. Through RISE, we are making a commitment to help relieve that burden and create a stronger, more accessible path into the profession<b>. To date the company has committed over 6 million dollars to its existing employees through student loan repayments and we are looking to far exceed that number in the future</b>.\"</p><p>\"This is a long-term investment in clinicians, their careers and the future of physical therapy,\" Schneider continued. \"We want exceptional physical therapists to know that Professional Physical Therapy understands the financial challenges they face and is prepared to invest in them in a meaningful and lasting way.\"</p><p>The launch of RISE comes at a pivotal moment for the physical therapy profession. Demand for skilled physical therapists continues to rise, while the cost of earning a Doctor of Physical Therapy degree can leave graduates carrying significant student loan debt. The financial burden associated with entering the profession may influence where clinicians live, which opportunities they pursue, and whether some prospective students can afford to enter the field at all.</p><p>Federal student lending reforms that took effect July 1, 2026, generally eliminated Graduate PLUS Loans for new borrowers and introduced new federal borrowing limits, significantly changing how future physical therapists may finance their education. Aspiring clinicians may now face higher out-of-pocket costs and greater reliance on private financing, creating additional barriers to entering a profession already experiencing strong demand for qualified talent.</p><p>Applicants must separately apply for an eligible full-time physical therapist position, successfully complete Professional Physical Therapy's standard application and interview process, satisfy all hiring requirements, and be selected by Professional Physical Therapy before enrolling in RISE. Scheduled payments begin after a participant completes the first full year of eligible employment.</p><p>\"Student loan debt is one of the most significant financial pressures facing today's physical therapists,\" said Tess Michaels, CEO and Founder of Clasp. \"Professional Physical Therapy's commitment translates that concern into meaningful action, with repayment support delivered directly to participants' loan servicers. RISE has the potential to make the path into, and through, the physical therapy profession more financially sustainable.\"</p><p><b>Applications are now open, and program availability is limited.</b></p><p>DPT students, recent DPT graduates and practicing physical therapists are encouraged to learn more, start their RISE application and explore current career opportunities at Professional Physical Therapy [<a href=\"https://www.professionalpt.com/careers/\" rel=\"nofollow\">https://www.professionalpt.com/careers/</a>]. Starting a RISE application and applying for employment with Professional Physical Therapy are separate steps.</p><p><b>About Professional Physical Therapy</b></p><p>Founded in 1999, Professional Physical Therapy is a leading provider of outpatient physical, occupational and hand therapy throughout the Northeast. With more than 200 locations across New York, New Jersey, Connecticut, Massachusetts and New Hampshire, Professional Physical Therapy helps patients recover from injury, restore mobility and return to the activities they love. The organization is committed to delivering personalized, evidence-based care while investing in the growth and development of its clinicians. To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765308-1&amp;h=803141031&amp;u=https%3A%2F%2Fwww.professionalpt.com%2F&amp;a=professionalpt.com\" target=\"_blank\" rel=\"nofollow\">professionalpt.com</a>.</p><p><b>About Clasp</b></p><p>Clasp helps employers attract and retain clinical talent through employer-sponsored student loan repayment programs. Clasp administers repayment benefits and makes payments directly to participants' qualifying loan servicers on employers' behalf. To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765308-1&amp;h=958323843&amp;u=https%3A%2F%2Fwww.clasp.com%2F&amp;a=clasp.com\" target=\"_blank\" rel=\"nofollow\">clasp.com</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1244136/Professional-Physical-Therapy-Tagline-Logo.jpg?id=OA2924239\" title=\"Professional Physical Therapy Logo 2021\" alt=\"Professional Physical Therapy Logo 2021\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY38594&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/professional-physical-therapy-launches-rise-program-to-help-physical-therapists-repay-student-loans-302866756.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/professional-physical-therapy-launches-rise-program-to-help-physical-therapists-repay-student-loans-302866756.html</a></p><p>SOURCE Professional Physical Therapy</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY38594&amp;Transmission_Id=202609011532PR_NEWS_USPR_____NY38594&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Professional Physical Therapy",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-13T19:13:29.802Z"
+    },
+    {
+      "company": [
+        "Washington Monthly"
+      ],
+      "date": "20260831T040100+0000",
+      "dateline": "WASHINGTON, Aug. 31, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "DOC",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MAG",
+        "HED"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Washington Monthly logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1977948/Retro_Logo_Blue.jpg?id=OA2919017&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1977948/Retro_Logo_Blue.jpg?id=OA2919017&p=publish"
+        }
+      ],
+      "release_id": "20260831DE36530",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p class=\"prntac\"><i><span>A College Ranking That Doesn't Give Points for Snob Appeal</span></i></p><p class=\"prntac\"><i>The </i>Monthly's <i>Guide Also Explains How to Pick a College in the Age of AI and What to Do About the College Closing Crisis</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3434036164&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars%2F&amp;a=Washington+Monthly%27s+2026+college+rankings\" target=\"_blank\" rel=\"nofollow\"><i>Washington Monthly</i>'s 2026 college rankings</a>, out today, scramble expectations about which schools are best — and its first-of-a-kind <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3144575053&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Fbest-colleges-for-rural-america%2F&amp;a=Best+Colleges+for+Rural+America\" target=\"_blank\" rel=\"nofollow\">Best Colleges for Rural America</a> ranking shows that some of higher education's biggest economic returns are happening in some of the country's most remote corners.</p>\n    ",
+      "ticker": [],
+      "title": "Washington Monthly 2026 College Guide Reveals America's True Best Colleges --Including Those That Serve Rural Students",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260831DE36530",
+      "body": "\n<p class=\"prntac\"><i><span>A College Ranking That Doesn't Give Points for Snob Appeal</span></i></p><p class=\"prntac\"><i>The </i>Monthly's <i>Guide Also Explains How to Pick a College in the Age of AI and What to Do About the College Closing Crisis</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Aug. 31, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3434036164&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars%2F&amp;a=Washington+Monthly%27s+2026+college+rankings\" target=\"_blank\" rel=\"nofollow\"><i>Washington Monthly</i>'s 2026 college rankings</a>, out today, scramble expectations about which schools are best — and its first-of-a-kind <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3144575053&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Fbest-colleges-for-rural-america%2F&amp;a=Best+Colleges+for+Rural+America\" target=\"_blank\" rel=\"nofollow\">Best Colleges for Rural America</a> ranking shows that some of higher education's biggest economic returns are happening in some of the country's most remote corners.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1977948/Retro_Logo_Blue.jpg?id=OA2919017\" title=\"Washington Monthly logo\" alt=\"Washington Monthly logo\"></img>\n                </p>\n    </div>\n<p>Other college rankings, like those by <i>U.S. News &amp; World Report</i>, reward universities for their wealth, prestige, and exclusivity — ensuring that the top ranks are always dominated by the same 20 or 30 elite schools, which few students can get into, much less afford. By contrast, the <i>Washington Monthly </i>guide measures colleges and universities by how much they help average middle- and working-class students get ahead economically and become good citizens. Those are the outcomes most Americans — students and taxpayers — want from their investments in the higher ed system.</p><p>As a result, more than half of the top-scoring institutions on the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3613425693&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars%2F&amp;a=Washington+Monthly%27s%C2%A0Best+Colleges+for+Your+Tuition+(and+Tax)+Dollars\" target=\"_blank\" rel=\"nofollow\"><i>Washington Monthly's</i> Best Colleges for Your Tuition (and Tax) Dollars</a> ranking are hidden gems that most students don't know about — and that in many cases outperform elite universities.</p><ul type=\"disc\"><li>The University of Texas–Rio Grande Valley (#4) lands 16 spots above Yale University (#20).</li><li>Western Governors University (#13) is four positions above Brown University (#17).</li><li>The City University of New York's Hunter College (#15) sits seven places above Vanderbilt University (#22).</li></ul><p>The <i>Monthly's</i> 2026 College Guide also debuts the first and only ranking that assesses colleges that do the best jobs of serving rural students and their communities. At the top college on that list, the University of West Alabama, students earn a median income of $64,122 four years after graduation, an astounding $26,581 more than they would likely have brought in had they graduated from a typical college. </p><p>Other rankings in this issue include:</p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3279252270&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Famericas-best-colleges-for-research-universities%2F&amp;a=America%27s+Best+Colleges+for+Research\" target=\"_blank\" rel=\"nofollow\">America's Best Colleges for Research</a>, which shows that the universities driving innovation aren't just in blue states — and neither is the damage from the Trump administration's research cuts.</li></ul><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3754214484&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Famericas-best-hispanic-serving-colleges%2F&amp;a=America%27s+Best+Hispanic-Serving+Colleges\" target=\"_blank\" rel=\"nofollow\">America's Best Hispanic-Serving Colleges</a>, created in collaboration with the nonprofit <i>Excelencia</i> in Education, highlights the schools providing affordable, effective education to America's fastest-growing student population.</li></ul><ul type=\"disc\"><li>America's Best Colleges for Your Tuition (and Tax) Dollars ranking, broken down by region: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=2562677365&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars-northeast%2F&amp;a=Northeast\" target=\"_blank\" rel=\"nofollow\">Northeast</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=319685044&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars-southeast%2F&amp;a=Southeast\" target=\"_blank\" rel=\"nofollow\">Southeast</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=531507545&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars-midwest%2F&amp;a=Midwest\" target=\"_blank\" rel=\"nofollow\">Midwest</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3079936544&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars-south%2F&amp;a=Southern\" target=\"_blank\" rel=\"nofollow\">Southern</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=27472843&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026-college-guide%2F2026-best-colleges-for-your-tuition-and-tax-dollars-west%2F&amp;a=Western\" target=\"_blank\" rel=\"nofollow\">Western</a>.</li></ul><p>\"At a moment when most Americans are laser-focused on affordability and doubtful about the value of college, the <i>Washington Monthly's </i>rankings are an important and timely resource,\" says the magazine's Editor in Chief Paul Glastris, adding \"And for policymakers desperate to meet the public's demand for a better higher education system, the stories in this issue provide a useful roadmap.\"</p><p>The rankings are available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=2277153025&amp;u=http%3A%2F%2Fwww.washingtonmonthly.com%2F2026-college-guide&amp;a=www.washingtonmonthly.com%2F2026-college-guide\" target=\"_blank\" rel=\"nofollow\">www.washingtonmonthly.com/2026-college-guide</a>.</p><p><b>The 21st anniversary college rankings issue also includes these deep-dive feature stories:</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=4009530213&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Fhow-to-pick-a-college-in-the-age-of-ai%2F&amp;a=How+to+Pick+a+College+in+the+Age+of+AI%C2%A0\" target=\"_blank\" rel=\"nofollow\"><b><i>How to Pick a College in the Age of AI</i></b> </a> <br></br>From someone who has spent two decades running universities and the past few years studying how AI is likely to affect them, here is some advice for playing the odds. <br></br>By Paul J. LeBlanc    </p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=1311290989&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Fa-radically-simple-plan-to-fix-higher-education%2F&amp;a=A+Radically+Simple+Plan+to+Fix+Higher+Education+\" target=\"_blank\" rel=\"nofollow\"><b><i>A Radically Simple Plan to Fix Higher Education</i></b> </a><br></br>Voters couldn't be clearer in their demand for greater affordability, with college costs near the top of their list. Here's how to deliver it. <br></br>By Kevin Carey </p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=748546086&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Fafter-the-closures%2F&amp;a=After+the+Closures\" target=\"_blank\" rel=\"nofollow\"><b><i>After the Closures</i></b></a> <br></br>How the tidal wave of disappearing colleges will reengineer America's class system. <br></br>By Richard Greenwald </p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4763250-1&amp;h=3129573552&amp;u=https%3A%2F%2Fwashingtonmonthly.com%2F2026%2F08%2F30%2Fhow-online-algorithms-rig-the-college-search-process%2F&amp;a=How+Online+Algorithms+Rig+the+College+Search+Process+\" target=\"_blank\" rel=\"nofollow\"><b><i>How Online Algorithms Rig the College Search Process</i></b> </a><br></br>Search engines steer students with fewer resources toward schools with worse outcomes, many of them predatory for-profits. <br></br>By Samantha Powers </p><p><b>Praise for</b> <b><i>Washington Monthly</i></b><b>'s</b> <b>Approach</b></p><p>At a time when consensus is lacking on most matters, the <i>Washington</i> <i>Monthly</i> college rankings receive positive reviews from top education leaders.</p><p>Former U.S. Secretary of Education Miguel Cardona says, \"Rankings should not reward colleges for the students they keep out, but those they admit and support through graduation. By doing just that, <i>Washington Monthly</i>'s rankings are a vital resource for students, parents, and taxpayers alike.\"</p><p>Former U.S. Secretary of Education Arne Duncan says, \"If you want to know what really counts in higher education, look at the <i>Monthly</i>'s rankings—you'll find some welcome surprises.\"</p><p>Mark Schneider, a nonresident senior fellow at the American Enterprise Institute and former director of the National Center for Education Statistics, says, \"I appreciate the <i>Washington Monthly'</i>s focus on active citizenship, economic mobility, and the attention it gives to regional 'comprehensive' universities—the 'workhorses' of America's higher education that seldom get the recognition they deserve.\"    </p><p>The <i>Washington Monthly</i> is a nonprofit print and digital outlet devoted to ahead-of-the-curve coverage of politics, government, and public affairs. Its College Guide and Rankings, first published in 2005, has helped upend the conventional wisdom about what constitutes quality in higher education and received an Education Writers Association Award for data journalism.</p><p>MEDIA CONTACT:<br></br>Adam Shapiro<br></br><a href=\"mailto:Adam.Shapiro@ASPR.bz\" target=\"_blank\" rel=\"nofollow\">Adam.Shapiro@ASPR.bz</a><br></br>202-427-3603</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE36530&amp;sd=2026-08-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/washington-monthly-2026-college-guide-reveals-americas-true-best-colleges-including-those-that-serve-rural-students-302864309.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/washington-monthly-2026-college-guide-reveals-americas-true-best-colleges-including-those-that-serve-rural-students-302864309.html</a></p><p>SOURCE Washington Monthly</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE36530&amp;Transmission_Id=202608310001PR_NEWS_USPR_____DE36530&amp;DateId=20260831\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Washington Monthly",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-13T19:24:43.275Z"
     }
   ]
 }
