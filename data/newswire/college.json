@@ -1,11 +1,275 @@
 {
-  "generated_at": "2026-10-14T15:04:40.521Z",
+  "generated_at": "2026-10-14T15:31:20.207Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "college",
   "page_url": "https://www.mediajobsreport.com/college_news",
-  "count": 41,
+  "count": 44,
   "releases": [
+    {
+      "company": [
+        "NextGen Summit"
+      ],
+      "date": "20261014T142700+0000",
+      "dateline": "BALTIMORE, Oct. 14, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "MLD",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "HED",
+        "ART",
+        "PUB",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "NEXTGEN SUMMIT PUTS $10,000 BEHIND MARYLAND’S YOUNG FOUNDERS - PITCH YOUR IDEA",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013320/NextGen.mp4?id=OA3018921&p=thumbnail",
+          "type": "video",
+          "url": "https://mmx.prnewswire.com/media/MS2013320/NextGen.mp4?id=OA3018921"
+        }
+      ],
+      "release_id": "20261014NE72206",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "BLK",
+        "BFA"
+      ],
+      "summary": "<p><i>A Guinness World Record holder, a free exhibition, and 550 young Marylanders under one theme: You Can</i></p><p>BALTIMORE, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- On Friday, October 30, 550 high school seniors, college students, and early-career professionals will fill the Gordon Center for Performing Arts in Owings Mills for NextGen Summit. Built around the theme \"You Can,\" the one-day event gives young Marylanders what they say they're missing most: funding, connections, and a clear path to their purpose and career goals.</p>",
+      "ticker": [],
+      "title": "NEXTGEN SUMMIT PUTS $10,000 BEHIND MARYLAND'S YOUNG FOUNDERS",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261014NE72206",
+      "body": "<p><i>A Guinness World Record holder, a free exhibition, and 550 young Marylanders under one theme: You Can</i></p><p>BALTIMORE, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- On Friday, October 30, 550 high school seniors, college students, and early-career professionals will fill the Gordon Center for Performing Arts in Owings Mills for NextGen Summit. Built around the theme \"You Can,\" the one-day event gives young Marylanders what they say they're missing most: funding, connections, and a clear path to their purpose and career goals.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p title=\"NEXTGEN SUMMIT PUTS $10,000 BEHIND MARYLAND’S YOUNG FOUNDERS - PITCH YOUR IDEA\"><iframe id=\"PlayMedia_1\" src=\"https://mmx.prnewswire.com/media/MS2013320/NextGen.mp4?id=OA3018921\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p></div><p>The opportunity is specific. Ten young founders, 25 and under, will pitch live to a panel of business and community leaders, and the top three will share $10,000 to launch their ideas. The public votes one finalist onto the stage. Founders can apply through October 20 at nextgensummit.us. A free exhibition puts young entrepreneurs in front of attendees, customers, mentors, and potential partners.</p><p><b>Speakers:</b></p><ul type=\"disc\"><li><b>Tisha Edwards</b>, President &amp; CEO of the Maryland Bankers Association and former Chief of Staff on Governor Wes Moore's campaign, on building a career in banking, business, and leadership</li><li><b>Tunde Onakoya</b>, Guinness World Record holder and founder of Chess in Slums Africa, who turned a single chessboard into a program that has reached more than 10,000 children</li><li><b>Kennedy Ekezie</b>, Forbes 30 Under 30 honoree and founder of Kippa, who started his first organization at 16</li></ul><p>The day runs on TED-style talks, podcast-style conversations, and audience discussion and ends with every attendee writing down their next step.</p><p>\"Every generation is told what is wrong with it. In one day, NextGen Summit will show these young people the greatness already in them. This may be the generation that preserves the future,\" said Pastor Deji Olubusi, Chairman, NextGen Summit.</p><p><b>DETAILS</b><br></br>Date: Friday, October 30, 2026<br></br>Exhibition: 2:00 PM | Main Stage: 4:15 to 7:00 PM<br></br>Location: Gordon Center for Performing Arts, Owings Mills, MD<br></br>Tickets: $20, or $10 each for groups of three or more. <br></br>Registration required at nextgensummit.us.</p><p><b>ABOUT NEXTGEN SUMMIT</b><br></br>NextGen Summit is a Maryland platform that puts funding, connections, and direction in front of rising leaders, built on one message: You Can.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NE72206&amp;sd=2026-10-14\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/nextgen-summit-puts-10-000-behind-marylands-young-founders-302908700.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/nextgen-summit-puts-10-000-behind-marylands-young-founders-302908700.html</a></p><p>SOURCE NextGen Summit</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NE72206&amp;Transmission_Id=202610141027PR_NEWS_USPR_____NE72206&amp;DateId=20261014\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "NextGen Summit",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "tradeshow": [
+            "summit"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-14T15:31:24.524Z"
+    },
+    {
+      "company": [
+        "CampusWorks and Dynamic Campus"
+      ],
+      "date": "20261014T140100+0000",
+      "dateline": "AUSTIN, Texas, Oct. 14, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIN",
+        "CPR",
+        "WRK",
+        "HED",
+        "EDU",
+        "STW"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Jim Wilson, CEO of CampusWorks and Dynamic Campus",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2012425/CampusWorks-and-Dynamic-Campus-Jim-Wilson.jpg?id=OA3016270&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2012425/CampusWorks-and-Dynamic-Campus-Jim-Wilson.jpg?id=OA3016270&p=publish"
+        },
+        {
+          "caption": "CampusWorks and Dynamic Campus logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2012422/CampusWorks-and-Dynamic-Campus-Logo.jpg?id=OA3016261&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2012422/CampusWorks-and-Dynamic-Campus-Logo.jpg?id=OA3016261&p=publish"
+        }
+      ],
+      "release_id": "20261014NY71108",
+      "status": "PUBLISHED",
+      "subject": [
+        "TNM",
+        "PER"
+      ],
+      "summary": "<p><i>Experienced technology and services executive to build on the combined organization's strengths in managed services, institutional leadership, and operational transformation.</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- CampusWorks and Dynamic Campus, a comprehensive services partner to higher education, today announced the appointment of Jim Wilson as Chief Executive Officer. Wilson joined the company on Sept. 1. The company is backed by Atlantic Street Capital (\"ASC\").</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2012425/CampusWorks-and-Dynamic-Campus-Jim-Wilson.jpg?id=OA3016270\" title=\"Jim Wilson, CEO of CampusWorks and Dynamic Campus\" alt=\"Jim Wilson, CEO of CampusWorks and Dynamic Campus\"></img></p></div><p>Wilson is an accomplished executive with extensive experience leading, scaling, and transforming technology and professional services organizations. Throughout his career, he has focused on building high-performing teams, strengthening client partnerships, driving operational excellence, and delivering measurable business outcomes. He previously served as Chief Executive Officer of RedHelm, President of Ntiva, and Chief Operating Officer of Integration Partners.</p>",
+      "ticker": [],
+      "title": "CampusWorks and Dynamic Campus Name Jim Wilson CEO to Lead Next Phase of Growth and Transformation",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261014NY71108",
+      "body": "<p><i>Experienced technology and services executive to build on the combined organization's strengths in managed services, institutional leadership, and operational transformation.</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- CampusWorks and Dynamic Campus, a comprehensive services partner to higher education, today announced the appointment of Jim Wilson as Chief Executive Officer. Wilson joined the company on Sept. 1. The company is backed by Atlantic Street Capital (\"ASC\").</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2012425/CampusWorks-and-Dynamic-Campus-Jim-Wilson.jpg?id=OA3016270\" title=\"Jim Wilson, CEO of CampusWorks and Dynamic Campus\" alt=\"Jim Wilson, CEO of CampusWorks and Dynamic Campus\"></img></p></div><p>Wilson is an accomplished executive with extensive experience leading, scaling, and transforming technology and professional services organizations. Throughout his career, he has focused on building high-performing teams, strengthening client partnerships, driving operational excellence, and delivering measurable business outcomes. He previously served as Chief Executive Officer of RedHelm, President of Ntiva, and Chief Operating Officer of Integration Partners.</p><p>Wilson succeeds Liz Murphy, who led CampusWorks for 15 years, and Jody Glubke, who co-founded Dynamic Campus and led the organization for 24 years. Both leaders played instrumental roles in establishing the organizations' deep institutional relationships, higher education expertise, and commitment to client success. Murphy and Glubke will remain engaged as strategic advisors, supporting continuity as the combined organization grows.</p><p>\"We're excited to welcome Jim as CEO of CampusWorks and Dynamic Campus. Jim brings the managed services experience and vision we need as we enter this next chapter of growth for the combined organization,\" said Paul Sun, Partner at ASC. \"Jim's focus on building trusted, lasting relationships with the institutions we serve is central to that vision. I'm confident he's the right leader to build upon the strong foundation we have in place, and we look forward to partnering with him to drive continued growth in an ever-changing higher education landscape as we help our institutional partners deliver on their missions.\"</p><p>Wilson's appointment follows the merger of CampusWorks and Dynamic Campus earlier this year, bringing together complementary strengths in institutional leadership, technology, finance, human resources, data, and managed services. The combined organization helps colleges and universities manage growing operational complexity, improve institutional performance, and build lasting capacity. Under Wilson's leadership, the company will deepen client partnerships, integrate its capabilities, and expand its impact across higher education.</p><p>\"I'm honored to lead an organization with such a clear purpose and a longstanding commitment to the institutions we serve,\" said Wilson. \"Colleges and universities are navigating extraordinary change, and their success requires more than technology alone. It takes exceptional people, strong leadership, connected data, and the ability to translate strategy into action. By bringing together the expertise and capabilities of CampusWorks and Dynamic Campus, we have a tremendous opportunity to help institutional leaders strengthen performance and advance the missions that matter most to their students and communities.\"</p><p><b><u>About CampusWorks and Dynamic Campus<br></br></u></b>CampusWorks and Dynamic Campus have joined forces to become a comprehensive managed services and transformation partner for higher education. Together, the organizations help colleges and universities strengthen institutional performance, extend operational capacity, reduce risk, and navigate complex change.</p><p>Combining deep higher education expertise with a vendor-neutral approach, the organization provides institutional leadership, managed services, technology, enterprise applications, finance, human resources, data, and operational transformation capabilities. Through trusted partnerships and a commitment to measurable results, CampusWorks and Dynamic Campus help institutions build stronger operations and advance their missions.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4796821-1&amp;h=2868521670&amp;u=http%3A%2F%2Fwww.campusworksinc.com%2F&amp;a=www.campusworksinc.com\" target=\"_blank\" rel=\"nofollow\">www.campusworksinc.com</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4796821-1&amp;h=2540273507&amp;u=http%3A%2F%2Fwww.dynamiccampus.com%2F&amp;a=www.dynamiccampus.com\" target=\"_blank\" rel=\"nofollow\">www.dynamiccampus.com</a>.</p><p><b><u>About Atlantic Street Capital<br></br></u></b>Atlantic Street Capital is a private equity firm that invests in lower middle market companies poised for the next level of growth. The firm targets entrepreneurial management partners and fundamentally sound companies between $4 million and $25 million of EBITDA that will benefit from capital investment and ASC's value-added strategic and operational support. As a result, ASC works closely with management to unlock their business' underlying value and help them succeed. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4796821-1&amp;h=3477814744&amp;u=https%3A%2F%2Fnam12.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fpr.report%252F1lff%26data%3D05%257C02%257Cmeghan%2540ascoperators.com%257C5652b6a112d243102d9a08de6aa7d3dd%257Caf8b24b3b7b24dc39df8501616190226%257C0%257C0%257C639065466231419281%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3DrIC7uUxZAb%252BdRmCgTWExRomcH5FqLQ9kF1%252BsYrTGSVA%253D%26reserved%3D0&amp;a=www.atlanticstreetcapital.com\" target=\"_blank\" rel=\"nofollow\">www.atlanticstreetcapital.com</a>.</p><p>Contact:<br></br>Chris Tofalli<br></br>Chris Tofalli Public Relations, LLC<br></br>914-834-4334<br></br><a href=\"mailto:chris@tofallipr.com\" target=\"_blank\" rel=\"nofollow\">chris@tofallipr.com</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2012422/CampusWorks-and-Dynamic-Campus-Logo.jpg?id=OA3016261\" title=\"CampusWorks and Dynamic Campus logo\" alt=\"CampusWorks and Dynamic Campus logo\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY71108&amp;sd=2026-10-14\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/campusworks-and-dynamic-campus-name-jim-wilson-ceo-to-lead-next-phase-of-growth-and-transformation-302908285.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/campusworks-and-dynamic-campus-name-jim-wilson-ceo-to-lead-next-phase-of-growth-and-transformation-302908285.html</a></p><p>SOURCE CampusWorks and Dynamic Campus</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY71108&amp;Transmission_Id=202610141001PR_NEWS_USPR_____NY71108&amp;DateId=20261014\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "CampusWorks and Dynamic Campus",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college",
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college",
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 6,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "management": [
+            "summary:chief executive officer",
+            "summary:chief operating officer",
+            "summary:executive",
+            "summary:president"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-14T15:31:24.792Z"
+    },
+    {
+      "company": [
+        "Texas A&M University-San Antonio"
+      ],
+      "date": "20261014T125600+0000",
+      "dateline": "SAN ANTONIO, Oct. 14, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "EDU",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "At A&M-San Antonio, students have access to research opportunities, innovative academic programs, and real-world learning experiences that prepare them for successful careers and meaningful lives.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2012852/1.jpg?id=OA3017510&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2012852/1.jpg?id=OA3017510&p=publish"
+        },
+        {
+          "caption": "A&M-San Antonio offers students the best of both worlds: an affordable, accessible education and a robust university experience.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2012853/2.jpg?id=OA3017512&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2012853/2.jpg?id=OA3017512&p=publish"
+        }
+      ],
+      "release_id": "20261014PH71744",
+      "status": "PUBLISHED",
+      "subject": [
+        "HSP",
+        "NPT",
+        "ECO"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SAN ANTONIO</span>, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- As Texas A&amp;M University-San Antonio's enrollment reached 7,697 students in Fall 2026, including a record 1,322 first-time-in-college students, the University is working to ensure that the cost of higher education does not stand in the way of opportunity.</p><p>That commitment is reflected in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4797416-1&amp;h=1464693195&amp;u=https%3A%2F%2Fbecomeajaguar.com%2Fjaguar-promise%2F&amp;a=Jaguar+Promise\" target=\"_blank\" rel=\"nofollow\">Jaguar Promise</a>, a scholarship program designed to make college more affordable for eligible Texas residents, including transfer students and adult learners. With 60% of A&amp;M-San Antonio students eligible for federal Pell Grants, the program plays an important role in helping students pursue their degrees with less financial burden.</p>",
+      "ticker": [],
+      "title": "Jaguar Promise Expands Access to Higher Education at A&amp;M-San Antonio",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261014PH71744",
+      "body": "<p><span class=\"legendSpanClass\">SAN ANTONIO</span>, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- As Texas A&amp;M University-San Antonio's enrollment reached 7,697 students in Fall 2026, including a record 1,322 first-time-in-college students, the University is working to ensure that the cost of higher education does not stand in the way of opportunity.</p><p>That commitment is reflected in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4797416-1&amp;h=1464693195&amp;u=https%3A%2F%2Fbecomeajaguar.com%2Fjaguar-promise%2F&amp;a=Jaguar+Promise\" target=\"_blank\" rel=\"nofollow\">Jaguar Promise</a>, a scholarship program designed to make college more affordable for eligible Texas residents, including transfer students and adult learners. With 60% of A&amp;M-San Antonio students eligible for federal Pell Grants, the program plays an important role in helping students pursue their degrees with less financial burden.</p><p>As a last-dollar scholarship, Jaguar Promise, which launched in 2024, covers remaining tuition and mandatory fees after eligible federal, state and institutional financial aid is applied. Participants also receive a $300-per-semester book stipend.</p><p>Participation continues to grow. The number of first-year students receiving Jaguar Promise funding increased 21% over the previous year. Among first-year participants, enrollment grew 48% among Early College High School graduates and 9% among students who graduated in the top 10% to 35% of their high school class.</p><p>\"Jaguar Promise has made a meaningful difference in my college experience,\" said Student Body President Caroleena Mancilla. \"Knowing that my tuition and fees are covered has allowed me to focus more on my education, leadership opportunities and personal growth instead of constantly worrying about how I will pay for college. That support has opened the door to experiences that are helping me grow both personally and professionally.\"</p><p>Beyond helping students afford college, Jaguar Promise supports the University's broader efforts to promote student persistence and degree completion. Program requirements include maintaining a minimum 12-credit-hour course load each semester and meeting established GPA and academic progress standards.</p><p>The University is also working with Alamo Colleges District through its Promise-to-Promise partnership, which helps eligible students transition from an associate degree to a bachelor's degree while pursuing a more affordable, debt-free path to graduation.</p><p>\"Affordability can make the difference between whether students simply aspire to attend college and whether they can turn that aspiration into a degree,\" said Brandy McLelland, vice president for enrollment management. \"The growing participation in Jaguar Promise reflects the importance of providing students and families with a clear, affordable path to higher education. By reducing financial barriers and supporting students as they progress toward graduation, we are advancing our commitment to access and student success.\"</p><p>That commitment extends to the University's expanding academic offerings, which are designed to connect students with emerging career opportunities across San Antonio and South Texas. In Fall 2026, A&amp;M-San Antonio launched its first doctoral program, the Doctor of Education in Educational Leadership. The University will also introduce a Bachelor of Science in Biomedical Sciences in Fall 2027, with programs in electrical engineering, healthcare administration and management, computer engineering, and construction engineering technology planned for subsequent years.</p><p>For President Salvador Hector Ochoa, the University's growth reflects a broader commitment to expanding opportunity while responding to the needs of the region.</p><p>\"As A&amp;M-San Antonio grows, our responsibility remains the same: to open doors to higher education and help more students achieve their goals,\" Ochoa said. \"We are expanding academic opportunities and strengthening our research enterprise while keeping affordability and student success at the center of our mission. Our true measure of success is when we create lasting opportunities for the students, families and communities we serve.\"</p><p>Contact: Texas A&amp;M University-San Antonio <br></br>One University Way, CAB 435, San Antonio, Texas 78224<br></br><a href=\"mailto:424756@email4pr.com\" target=\"_blank\" rel=\"nofollow\">424756@email4pr.com</a> | 210-784-1115</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH71744&amp;sd=2026-10-14\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/jaguar-promise-expands-access-to-higher-education-at-am-san-antonio-302908036.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/jaguar-promise-expands-access-to-higher-education-at-am-san-antonio-302908036.html</a></p><p>SOURCE Texas A&amp;M University-San Antonio</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH71744&amp;Transmission_Id=202610140856PR_NEWS_USPR_____PH71744&amp;DateId=20261014\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Texas A&M University-San Antonio",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-14T15:31:25.399Z"
+    },
     {
       "company": [
         "Mentor Collective"
