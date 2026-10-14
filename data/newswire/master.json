@@ -1,9 +1,88 @@
 {
-  "generated_at": "2026-10-14T10:05:19.083Z",
+  "generated_at": "2026-10-14T10:31:40.669Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 504,
+  "count": 505,
   "releases": [
+    {
+      "company": [
+        "PlanetiQ"
+      ],
+      "date": "20261014T095500+0000",
+      "dateline": "GOLDEN, Colo., Oct. 14, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "COL",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TLS",
+        "ARO",
+        "STM",
+        "TCS",
+        "HMS",
+        "HRD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "PlanetiQ logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1709494/PlanetiQ-Logo.jpg?id=OA3017736&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1709494/PlanetiQ-Logo.jpg?id=OA3017736&p=publish"
+        }
+      ],
+      "release_id": "20261014LA71727",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "NAT"
+      ],
+      "summary": "<p><b>New GNSS-RO satellite launch advances PlanetiQ's growing constellation of high-precision atmospheric and ionospheric sensors</b></p><p><span class=\"legendSpanClass\">GOLDEN, Colo.</span>, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- PlanetiQ's GNOMES-10 satellite successfully launched October 1 at 11:32 a.m. PDT aboard SpaceX's Transporter-18 mission from Vandenberg Space Force Base, marking another major step in the company's expansion of its global GNSS radio occultation (GNSS-RO) constellation. Following launch, PlanetiQ's partner ground stations quickly established first contact with GNOMES-10, and spacecraft commissioning began immediately.</p>",
+      "ticker": [],
+      "title": "PlanetiQ Launches GNOMES-10, Expanding High-Precision GNSS Radio Occultation Constellation",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261014LA71727",
+      "body": "<p><b>New GNSS-RO satellite launch advances PlanetiQ's growing constellation of high-precision atmospheric and ionospheric sensors</b></p><p><span class=\"legendSpanClass\">GOLDEN, Colo.</span>, <span class=\"legendSpanClass\">Oct. 14, 2026</span> /PRNewswire/ -- PlanetiQ's GNOMES-10 satellite successfully launched October 1 at 11:32 a.m. PDT aboard SpaceX's Transporter-18 mission from Vandenberg Space Force Base, marking another major step in the company's expansion of its global GNSS radio occultation (GNSS-RO) constellation. Following launch, PlanetiQ's partner ground stations quickly established first contact with GNOMES-10, and spacecraft commissioning began immediately.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1709494/PlanetiQ-Logo.jpg?id=OA3017736\" title=\"PlanetiQ logo\" alt=\"PlanetiQ logo\"></img></p></div><div id=\"divReleaseHighlightb95f\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">\"...our data supports weather applications by measuring Earth's atmospheric and ionospheric state,\" said Chris McCormick</div><p><b>GNOMES-10 Carries PlanetiQ's Fourth-Generation Pyxis Receiver</b></p><p>GNOMES-10 carries PlanetiQ's fourth-generation Pyxis GNSS-RO receiver, which was built and tested at PlanetiQ's facility in Golden, Colorado. Pyxis is engineered to capture exceptionally high-quality GNSS signals for radio occultation measurements. Its combination of high signal-to-noise ratio (SNR), high-rate signal sampling, precise timing, and advanced antenna design enables PlanetiQ to retrieve highly detailed atmospheric profiles from each radio occultation event.</p><p>Pyxis incorporates a high-accuracy oscillator and PlanetiQ's bespoke satellite antenna design, both engineered to maximize the information captured from each GNSS-RO observation. These capabilities provide detailed measurements of atmospheric structure, including in the lower troposphere and ionosphere.</p><p>\"Experiencing the launch firsthand is a reflection of, and a tremendous appreciation for, all the excellent hard work by everyone involved, including our employees, suppliers, and customers,\" said Chris McCormick, Founder, President and Chairman of PlanetiQ. \"We are proud that our data supports weather applications by measuring Earth's atmospheric and ionospheric state and furthering our knowledge of Earth's dynamic weather patterns.\"</p><p><b>Simultaneous GNSS Tracking Creates More RO Opportunities</b></p><p>PlanetiQ satellites simultaneously track signals from all four major GNSS constellations: GPS, BeiDou, GLONASS, and Galileo. Each satellite also uses a wide ±75-degree limb-sounding field of view.</p><p>By tracking multiple GNSS constellations simultaneously and observing signals across a wide field of view, PlanetiQ satellites can observe more GNSS transmitters at the same time. This creates more opportunities for radio occultation measurements and enables PlanetiQ to produce more GNSS-RO observations per hour than other commercial RO constellations.</p><p>The resulting observations provide weather models and other users with highly detailed information about atmospheric structure. PlanetiQ's high-SNR measurements are particularly valuable for resolving features in the lower troposphere, where atmospheric conditions can change rapidly and where conventional satellite observations can be challenging.</p><p><b>GNOMES-11 to Add Lower-Inclination GNSS-RO Observations</b></p><p>PlanetiQ plans to launch GNOMES-11 later this month, carrying the same fourth-generation Pyxis receiver as GNOMES-10. The addition of GNOMES-10 and GNOMES-11 is part of PlanetiQ's ongoing effort to expand the availability, quality, and diversity of commercial GNSS-RO observations for weather forecasting, space weather, and other mission-critical applications.</p><p><b>About PlanetiQ</b></p><p>PlanetiQ provides the highest-quality GNSS radio occultation (RO) data available from a commercial constellation of satellites, offering unmatched temporal and spatial resolution. The data drive accurate, high-impact weather and climate forecast models, helping improve Numerical Weather Prediction and AI forecasts, safeguard lives and property from severe weather. PlanetiQ is a space-tech company that serves the most mission-critical government, defense, and industry leaders, including international weather agencies, enabling more resilient operations across sectors. Founded in 2015 and privately owned, PlanetiQ designs, builds, and operates the preeminent commercial constellation of GNSS-RO satellites, setting the standard for precision and reliability in atmospheric monitoring. For more information, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4797399-1&amp;h=820881318&amp;u=https%3A%2F%2Fplanetiq.com%2F%3Futm_source%3Dchatgpt.com&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4797399-1&amp;h=4045266442&amp;u=https%3A%2F%2Fplanetiq.com%2F%3Futm_source%3Dchatgpt.com&amp;a=PlanetiQ\" target=\"_blank\" rel=\"nofollow\">PlanetiQ</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA71727&amp;sd=2026-10-14\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/planetiq-launches-gnomes-10-expanding-high-precision-gnss-radio-occultation-constellation-302907867.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/planetiq-launches-gnomes-10-expanding-high-precision-gnss-radio-occultation-constellation-302907867.html</a></p><p>SOURCE PlanetiQ</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA71727&amp;Transmission_Id=202610140555PR_NEWS_USPR_____LA71727&amp;DateId=20261014\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "PlanetiQ",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "radio": [
+            "radio"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-14T10:31:41.969Z"
+    },
     {
       "company": [
         "Marketing Maven Public Relations, Inc."
