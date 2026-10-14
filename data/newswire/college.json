@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T00:33:40.117Z",
+  "generated_at": "2026-10-14T04:44:52.705Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "college",
   "page_url": "https://www.mediajobsreport.com/college_news",
-  "count": 35,
+  "count": 36,
   "releases": [
     {
       "company": [
@@ -2851,6 +2851,93 @@
         "excluded": false
       },
       "imported_at": "2026-10-13T23:43:32.403Z"
+    },
+    {
+      "company": [
+        "CENTEGIX"
+      ],
+      "date": "20260826T130000+0000",
+      "dateline": "PHOENIX, Aug. 26, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "ARZ",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "STW",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Dr. Larry Hausner, CENTEGIX and Darcy Weisner, Paradise Schools, present, \"Secure Schools, Stronger Futures: A Strategic Approach to Campus Safety,\" at the 2026 Arizona School Safety & Security Summit.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1975606/AZ-School-Safety-and-Security-Panel-CENTEGIX-2026.jpg?id=OA2911335&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1975606/AZ-School-Safety-and-Security-Panel-CENTEGIX-2026.jpg?id=OA2911335&p=publish"
+        },
+        {
+          "caption": "The CENTEGIX logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1522963/Centegix-Logo-CLR-horizontal-Logo.jpg?id=OA2911331&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1522963/Centegix-Logo-CLR-horizontal-Logo.jpg?id=OA2911331&p=publish"
+        }
+      ],
+      "release_id": "20260826CL33739",
+      "status": "PUBLISHED",
+      "subject": [
+        "PSF",
+        "TDS"
+      ],
+      "summary": "<p>School safety leaders explore comprehensive strategies, rapid incident response, and connected technology</p><p><span class=\"legendSpanClass\">PHOENIX</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=4266126606&amp;u=http%3A%2F%2Fwww.centegix.com%2F&amp;a=CENTEGIX\" target=\"_blank\" rel=\"nofollow\">CENTEGIX</a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=3512087312&amp;u=http%3A%2F%2Fwww.centegix.com%2F&amp;a=%C2%AE\" target=\"_blank\" rel=\"nofollow\"><sup>®</sup></a>, the leader in wearable safety technology, presented on the impact of safer learning environments at the 2026 Arizona School Safety &amp; Security Summit, held August 20 to 21 in Litchfield Park, Arizona.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975606/AZ-School-Safety-and-Security-Panel-CENTEGIX-2026.jpg?id=OA2911335\" title=\"Dr. Larry Hausner, CENTEGIX and Darcy Weisner, Paradise Schools, present, &quot;Secure Schools, Stronger Futures: A Strategic Approach to Campus Safety,&quot; at the 2026 Arizona School Safety &amp; Security Summit.\" alt=\"Dr. Larry Hausner, CENTEGIX and Darcy Weisner, Paradise Schools, present, &quot;Secure Schools, Stronger Futures: A Strategic Approach to Campus Safety,&quot; at the 2026 Arizona School Safety &amp; Security Summit.\"></img>\n                </p>\n    </div>\n<p>The Summit brought together school administrators, law enforcement leaders, behavioral health professionals, government officials, and community stakeholders focused on strengthening school safety. Throughout the event, conversations reinforced the need for comprehensive safety strategies that connect people, processes, and technology to help schools prepare for and respond to incidents of all types.</p>",
+      "ticker": [],
+      "title": "CENTEGIX Highlights Strategic Approach to Safer Schools at 2026 Arizona School Safety &amp; Security Summit",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260826CL33739",
+      "body": "\n<p>School safety leaders explore comprehensive strategies, rapid incident response, and connected technology</p><p><span class=\"legendSpanClass\">PHOENIX</span>, <span class=\"legendSpanClass\">Aug. 26, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=4266126606&amp;u=http%3A%2F%2Fwww.centegix.com%2F&amp;a=CENTEGIX\" target=\"_blank\" rel=\"nofollow\">CENTEGIX</a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=3512087312&amp;u=http%3A%2F%2Fwww.centegix.com%2F&amp;a=%C2%AE\" target=\"_blank\" rel=\"nofollow\"><sup>®</sup></a>, the leader in wearable safety technology, presented on the impact of safer learning environments at the 2026 Arizona School Safety &amp; Security Summit, held August 20 to 21 in Litchfield Park, Arizona.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1975606/AZ-School-Safety-and-Security-Panel-CENTEGIX-2026.jpg?id=OA2911335\" title=\"Dr. Larry Hausner, CENTEGIX and Darcy Weisner, Paradise Schools, present, &quot;Secure Schools, Stronger Futures: A Strategic Approach to Campus Safety,&quot; at the 2026 Arizona School Safety &amp; Security Summit.\" alt=\"Dr. Larry Hausner, CENTEGIX and Darcy Weisner, Paradise Schools, present, &quot;Secure Schools, Stronger Futures: A Strategic Approach to Campus Safety,&quot; at the 2026 Arizona School Safety &amp; Security Summit.\"></img>\n                </p>\n    </div>\n<p>The Summit brought together school administrators, law enforcement leaders, behavioral health professionals, government officials, and community stakeholders focused on strengthening school safety. Throughout the event, conversations reinforced the need for comprehensive safety strategies that connect people, processes, and technology to help schools prepare for and respond to incidents of all types.</p><p>That message took center stage during, \"Secure Schools, Stronger Futures: A Strategic Approach to Campus Safety,\" featuring <b>Dr. Larry Hausner, CENTEGIX</b> and <b>Darcy Weisner, Executive Director, Paradise Schools</b> in Surprise, Arizona. The session explored how education leaders can strengthen campus safety while supporting the people at the center of every school community.</p><p><b>Key Takeaways from Arizona School Safety Leaders</b></p><p>One of the strongest themes emerging from the Summit was the importance of moving beyond isolated security tools toward connected safety ecosystems that can accelerate awareness and response.</p><p>Discussions emphasized the need for technology that connects existing safety protocols and empowers school personnel, administrators, and first responders when every second matters.</p><p>CENTEGIX demonstrated how its comprehensive<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=1237586750&amp;u=https%3A%2F%2Fwww.centegix.com%2Fsafety-platform%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=1942143580&amp;u=https%3A%2F%2Fwww.centegix.com%2Fsafety-platform%2F&amp;a=Safety+Platform\" target=\"_blank\" rel=\"nofollow\">Safety Platform</a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=1683416721&amp;u=https%3A%2F%2Fwww.centegix.com%2Fsafety-platform%2F&amp;a=%C2%AE\" target=\"_blank\" rel=\"nofollow\"><sup>®</sup></a> is supporting that approach, with innovations such as a new alert-activated video integrations with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=2604324798&amp;u=https%3A%2F%2Fwww.centegix.com%2Fpress-release%2Frhombus-and-centegix-partner-to-unify-video-security-and-emergency-response%2F&amp;a=Rhombus\" target=\"_blank\" rel=\"nofollow\">Rhombus</a>. When an alert is activated, nearby video streams can automatically surface, giving responders immediate visual context without requiring them to search through separate systems.</p><p>Additional takeaways reinforced that:</p><ul type=\"disc\"><li><b>School safety must be comprehensive</b>. Effective strategies address everyday incidents, medical emergencies, behavioral events, and campus-wide threats.</li><li><b>People need a simple way to get help</b>. Safety technology is most effective when staff can quickly activate it wherever an incident occurs.</li><li><b>Situational awareness strengthens response</b>. Location information and video can provide responders with greater context as an event unfolds.</li><li><b>Technology should connect, not complicate</b>. Schools need solutions that work with existing infrastructure and support collaboration across the safety ecosystem.</li></ul><p>\"The conversations in Arizona demonstrated that school leaders are thinking beyond individual security products,\" said Dr. Hausner. \"They are looking at how people, technology, and response protocols can work together so that when someone needs help, the right people have the information they need to respond quickly.\"</p><p>\"CENTEGIX is always enhancing and improving their solution and providing awesome support,\" shared Weisner.</p><p><b>Building Stronger Futures Through Safer Schools</b></p><p>Conversations reinforced a shared takeaway: creating safer schools requires collaboration across the entire community and technology that helps people act quickly when help is needed.</p><p>To learn more about CENTEGIX and its comprehensive approach to school safety, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=4240754367&amp;u=http%3A%2F%2Fwww.centegix.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=3046982795&amp;u=http%3A%2F%2Fwww.centegix.com%2F&amp;a=www.centegix.com\" target=\"_blank\" rel=\"nofollow\">www.centegix.com</a>.</p><p><b>About CENTEGIX</b></p><p>CENTEGIX<sup>®</sup> is the leader in rapid incident response safety solutions, protecting more than 18 million people across 18,000+ locations in all 50 states with 99% customer retention. The CENTEGIX Safety Platform<sup>®</sup> supports the full day of safety, from CrisisAlert™ wearable panic buttons and Safety Blueprint® critical incident mapping to Visitu visitor management, Reunification, Attendance, Hall Pass, Dismissal, and School Messaging. CENTEGIX serves K-12 and higher education, healthcare, government, commercial, and public safety organizations nationwide.</p><p>Visit us on social media<br></br><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=2507142183&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fcentegix%2F&amp;a=LinkedIn%C2%A0\" target=\"_blank\" rel=\"nofollow\">LinkedIn </a>| <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=1375340904&amp;u=https%3A%2F%2Fwww.instagram.com%2Fcentegix_%2F&amp;a=Instagram%C2%A0\" target=\"_blank\" rel=\"nofollow\">Instagram </a>| <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=4239619681&amp;u=https%3A%2F%2Fwww.facebook.com%2FCentegixOfficial&amp;a=Facebook%C2%A0\" target=\"_blank\" rel=\"nofollow\">Facebook </a>| <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=3008939806&amp;u=https%3A%2F%2Fwww.youtube.com%2F%40CENTEGIX&amp;a=YouTube%C2%A0\" target=\"_blank\" rel=\"nofollow\">YouTube </a>| <a class=\"validateurls_yellow\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4759615-1&amp;h=1913110807&amp;u=https%3A%2F%2Fx.com%2FCENTEGIX_&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a></p><p><b>Media Contact</b><br></br>Robb Monkman<br></br>Chief Marketing Officer, CENTEGIX<br></br><a href=\"mailto:rmonkman@centegix.com\" target=\"_blank\" rel=\"nofollow\">rmonkman@centegix.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1522963/Centegix-Logo-CLR-horizontal-Logo.jpg?id=OA2911331\" title=\"The CENTEGIX logo\" alt=\"The CENTEGIX logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL33739&amp;sd=2026-08-26\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/centegix-highlights-strategic-approach-to-safer-schools-at-2026-arizona-school-safety--security-summit-302860570.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/centegix-highlights-strategic-approach-to-safer-schools-at-2026-arizona-school-safety--security-summit-302860570.html</a></p><p>SOURCE CENTEGIX</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL33739&amp;Transmission_Id=202608260900PR_NEWS_USPR_____CL33739&amp;DateId=20260826\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "CENTEGIX",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "tradeshow": [
+            "summit"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-14T04:50:59.450Z"
     }
   ]
 }
