@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T11:10:06.479Z",
+  "generated_at": "2026-10-15T14:54:55.954Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 549,
+  "count": 557,
   "releases": [
     {
       "company": [
@@ -47919,6 +47919,610 @@
         "excluded": false
       },
       "imported_at": "2026-10-15T09:50:37.880Z"
+    },
+    {
+      "company": [
+        "The International Society of Automation"
+      ],
+      "date": "20260805T160000+0000",
+      "dateline": "DURHAM, N.C., Aug. 5, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NCR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "CPR",
+        "EDU"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "ISA logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1677655/ISA-Logo-with-Name-and-Tag-Line-320px-Logo-Logo.jpg?id=OA2760417&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1677655/ISA-Logo-with-Name-and-Tag-Line-320px-Logo-Logo.jpg?id=OA2760417&p=publish"
+        }
+      ],
+      "release_id": "20260805DC19944",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT",
+        "AWD"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">DURHAM, N.C.</span>, <span class=\"legendSpanClass\">Aug. 5, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746445-1&amp;h=3797133886&amp;u=https%3A%2F%2Fwww.isa.org%2F&amp;a=International+Society+of+Automation\" target=\"_blank\" rel=\"nofollow\">International Society of Automation</a> (ISA) — the leading professional society for automation — has announced the recipients of its 2026 scholarships. Thirty-one students from seven countries have been awarded 62,000 USD to support tuition and research activities.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1677655/ISA-Logo-with-Name-and-Tag-Line-320px-Logo-Logo.jpg?id=OA2760417\" title=\"ISA logo\" alt=\"ISA logo\"></img>\n                </p>\n    </div>\n<p>ISA scholarships are awarded to college or university students who demonstrate outstanding potential for long-range contribution to the fields of automation, instrumentation, systems and control. The scholarship awards support tuition and related expenses and research activities and initiatives. More information about the program is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746445-1&amp;h=2120024619&amp;u=https%3A%2F%2Fwww.isa.org%2Fmembership%2Fstudents%2Fscholarships&amp;a=www.isa.org%2Fscholarships\" target=\"_blank\" rel=\"nofollow\">www.isa.org/scholarships</a>. </p>",
+      "ticker": [],
+      "title": "ISA Awards Scholarships to 31 Students from 7 Countries",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260805DC19944",
+      "body": "\n<p><span class=\"legendSpanClass\">DURHAM, N.C.</span>, <span class=\"legendSpanClass\">Aug. 5, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746445-1&amp;h=3797133886&amp;u=https%3A%2F%2Fwww.isa.org%2F&amp;a=International+Society+of+Automation\" target=\"_blank\" rel=\"nofollow\">International Society of Automation</a> (ISA) — the leading professional society for automation — has announced the recipients of its 2026 scholarships. Thirty-one students from seven countries have been awarded 62,000 USD to support tuition and research activities.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1677655/ISA-Logo-with-Name-and-Tag-Line-320px-Logo-Logo.jpg?id=OA2760417\" title=\"ISA logo\" alt=\"ISA logo\"></img>\n                </p>\n    </div>\n<p>ISA scholarships are awarded to college or university students who demonstrate outstanding potential for long-range contribution to the fields of automation, instrumentation, systems and control. The scholarship awards support tuition and related expenses and research activities and initiatives. More information about the program is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746445-1&amp;h=2120024619&amp;u=https%3A%2F%2Fwww.isa.org%2Fmembership%2Fstudents%2Fscholarships&amp;a=www.isa.org%2Fscholarships\" target=\"_blank\" rel=\"nofollow\">www.isa.org/scholarships</a>. </p><p>\"On behalf of ISA, I am pleased to congratulate this year's outstanding scholarship recipients,\" said Claire Fallon, CEO of ISA. \"Investing in the next generation of automation professionals is central to our mission of creating a better world through automation. We are proud to recognize so many talented students and look forward to the contributions they will make in advancing and strengthening our field.\"</p><p><b>Recipients of ISA scholarships in 2026 in the named endowment category include:</b></p><p><b>Luis Matias Jimenez Sanchez</b><br></br>Universidad de las Américas – Quito, Pichincha, EC <br></br>Bob &amp; Mary Ives Endowment</p><p><b>Lauren Fortier</b><br></br>Massachusetts Institute of Technology – Massachusetts, US <br></br>Daris &amp; Gerald Wilbanks Endowment</p><p><b>Tanishka Manoj Dixit</b><br></br>Dr. D. Y. Patil Institute of Technology – Pune, Maharashtra, IN <br></br>Huston Endowment</p><p><b>Recipients of ISA scholarships in the 2026 General Education Fund include:</b></p><p><b>Arya Prasanna Pakhare</b><br></br>Dr. D. Y. Patil Institute of Technology – Pune, Maharashtra, IN</p><p><b>Khushi Varma</b><br></br>MKSSS's Cummins College of Engineering for Women – Pune, Maharashtra, IN</p><p><b>Mohamadali Tofigh</b><br></br>University of Alberta – Edmonton, Alberta, CA</p><p><b>Paayal Kapoor</b><br></br>Vivekanand Education Society's Institute of Technology – Mumbai, Maharashtra, IN</p><p><b>Pranav Ganesh Ram</b><br></br>National Institute of Technology Tiruchirappalli – Tiruchirappalli, Tamil Nadu, IN</p><p><b>Prapti Bordoloi</b><br></br>University of Minnesota – Minneapolis, Minnesota, US</p><p><b>Yifan Li</b><br></br>Tsinghua University – Beijing, Beijing, CN</p><p><b>Danyal Saqib</b><br></br>University of British Columbia – Vancouver, British Columbia, CA</p><p><b>Abubakar Habeeb Akolawole</b><br></br>University of Ilorin – Ilorin, Kwara, NG</p><p><b>Kavya Ramteke</b><br></br>MKSSS's Cummins College of Engineering for Women – Pune, Maharashtra, IN</p><p><b>Kishan Ajay Dubey</b><br></br>Mukesh Patel School of Technology Management and Engineering – Mumbai, Maharashtra, IN</p><p><b>Maxwell Alton Mamishev</b><br></br>University of Illinois Urbana-Champaign – Champaign, Illinois, US</p><p><b>Mayuresh Rhushikesh Joshi</b><br></br>Vivekanand Education Society's Institute of Technology – Chembur, Maharashtra, IN</p><p><b>Niraj Pattnayak</b><br></br>U.V. Patel College of Engineering, Ganpat University – Mehsana, Gujarat, IN</p><p><b>Noreen Abdelwahab</b><br></br>University of British Columbia – Vancouver, British Columbia, CA</p><p><b>Roshan Kumar J</b><br></br>REVA University – Bengaluru, Karnataka, IN</p><p><b>Shreya S</b><br></br>REVA University – Bengaluru, Karnataka, IN</p><p><b>Shruti Kokil</b><br></br>MKSSS's Cummins College of Engineering for Women – Pune, Maharashtra, IN</p><p><b>Suhani Jagdish Patil</b><br></br>MKSSS's Cummins College of Engineering for Women – Pune, Maharashtra, IN</p><p><b>Chethan S</b><br></br>REVA University – Bengaluru, Karnataka, IN</p><p><b>Deyi Kong</b><br></br>University of Minnesota – Minneapolis, Minnesota, US</p><p><b>Madhu Sudhan N</b><br></br>REVA University – Bengaluru, Karnataka, India</p><p><b>Manikandan Pandiyan</b><br></br>University of Michigan – Ann Arbor, Michigan, US</p><p><b>Rucha Dhananjay Palsikar</b><br></br>MKSSS's Cummins College of Engineering for Women – Pune, Maharashtra, IN</p><p><b>Sayalee Mahagaonkar</b><br></br>Vivekanand Education Society's Institute of Technology – Mumbai, Maharashtra, IN</p><p><b>Shrivatsa Deshmukh</b><br></br>University of Minnesota – Minneapolis, Minnesota, US</p><p><b>Thom Hall</b><br></br>Aims Community College – Greeley, Colorado, US</p><p><b>Yasmeen Hassan Al Lawati</b><br></br>Sultan Qaboos University – Al Seeb, Muscat, OM</p><p><b>About ISA</b></p><p>The International Society of Automation (ISA) is a non-profit professional association founded in 1945 to create a better world through automation. ISA's mission is to empower the global automation community through standards and knowledge sharing. ISA develops widely used global standards and conformity assessment programs; certifies professionals; provides education and training; publishes books and technical articles; hosts conferences and exhibits; and provides networking and career development programs for its members and customers around the world. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746445-1&amp;h=2671649327&amp;u=http%3A%2F%2Fwww.isa.org%2F&amp;a=www.isa.org\" target=\"_blank\" rel=\"nofollow\">www.isa.org</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC19944&amp;sd=2026-08-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/isa-awards-scholarships-to-31-students-from-7-countries-302843896.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/isa-awards-scholarships-to-31-students-from-7-countries-302843896.html</a></p><p>SOURCE The International Society of Automation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC19944&amp;Transmission_Id=202608051200PR_NEWS_USPR_____DC19944&amp;DateId=20260805\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "The International Society of Automation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T14:59:00.043Z"
+    },
+    {
+      "company": [
+        "Seeds of Fortune Inc."
+      ],
+      "date": "20260805T160000+0000",
+      "dateline": "NEW YORK, Aug. 5, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "FNT",
+        "EDU",
+        "CPR",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260805NY19645",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT",
+        "CSR"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>Seeds of Fortune Inc. Partners with FICO to Launch FICO Financial Empowerment Fellowship </i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 5, 2026</span> /PRNewswire/ -- Seeds of Fortune Inc. and Marsai's Way Foundation are deepening their partnership to advance financial empowerment, building on a successful inaugural year that reached more than 2,000 students with financial education, college readiness, and community engagement programming. </p>\n<p>Seeds of Fortune Inc., a national nonprofit and education technology platform preparing students for college, career, and financial success through financial education, scholarships, and leadership development, will extend its impact through a partnership with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746150-1&amp;h=3989695048&amp;u=https%3A%2F%2Fwww.fico.com%2F&amp;a=FICO\" target=\"_blank\" rel=\"nofollow\">FICO</a>, a global analytics software leader widely known for the FICO® Score, used by 90% of top U.S. lenders.</p>",
+      "ticker": [
+        "NYSE:FICO"
+      ],
+      "title": "FICO Joins Marsai Martin's Foundation and Seeds of Fortune Inc. to Expand National Financial Empowerment Initiative for Families and College Students",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260805NY19645",
+      "body": "\n<p class=\"prntac\"><b><i>Seeds of Fortune Inc. Partners with FICO to Launch FICO Financial Empowerment Fellowship </i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Aug. 5, 2026</span> /PRNewswire/ -- Seeds of Fortune Inc. and Marsai's Way Foundation are deepening their partnership to advance financial empowerment, building on a successful inaugural year that reached more than 2,000 students with financial education, college readiness, and community engagement programming. </p>\n<p>Seeds of Fortune Inc., a national nonprofit and education technology platform preparing students for college, career, and financial success through financial education, scholarships, and leadership development, will extend its impact through a partnership with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746150-1&amp;h=3989695048&amp;u=https%3A%2F%2Fwww.fico.com%2F&amp;a=FICO\" target=\"_blank\" rel=\"nofollow\">FICO</a>, a global analytics software leader widely known for the FICO® Score, used by 90% of top U.S. lenders.</p><p>Together, the organizations are launching the FICO Financial Empowerment Fellowship, a new initiative that prepares college students to become peer ambassadors. As part of the Fellowship, ambassadors will help fellow college students better understand the importance of building healthy credit, checking and monitoring their credit scores, and connecting with trusted financial institutions and educational resources that can help them establish strong financial foundations early in adulthood. The Fellowship will award ten <b>$1,500 scholarships</b> to college students who demonstrate leadership and a passion for financial empowerment. Selected Fellows will receive training in credit education, financial wellness, and community engagement before leading campus activations throughout the academic year.</p><p>Building on the momentum of the inaugural partnership with Marsai's Way Foundation, this second year represents a significant expansion of the initiative by combining celebrity influence, nonprofit expertise, and industry leadership to address one of the nation's largest financial education gaps.</p><p>\"Financial empowerment is core to FICO's mission. Partnering with Seeds of Fortune and Marsai's Way Foundation shows what's possible when strength in numbers meets shared purpose — reach and impact multiply when the right partners come together,\" said Rukiya Kelly, Global Head of Corporate Impact &amp; Engagement at FICO.</p><p>Throughout the partnership, students and families will participate in a series of educational experiences, including the <b>Credit Starts at Home</b> family workshops, digital financial education campaigns, campus-based Fellowship activations, and an exclusive <b>Ask Marsai Anything</b> virtual conversation where Marsai Martin will discuss financial wellness, career growth, and the importance of building healthy financial habits.</p><p>\"Knowledge creates opportunity,\" said <b>Marsai Martin</b>. \"We're excited to continue this journey with Seeds of Fortune and welcome FICO into the partnership. Together we're helping students build confidence around money, understand their financial future, and become leaders who can bring that knowledge back to their own communities.\"</p><p>Applications for the inaugural <b>FICO Financial Empowerment Fellowship are currently open. The deadline to apply is September 21, 2026</b>, with Fellows participating in programming throughout the fall before being recognized during the <b>Resolution Brunch</b> hosted by Marsai Martin in <b>Atlanta on January 18, 2027</b>.</p><p><b>For more information about the Fellowship, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746150-1&amp;h=2722537309&amp;u=https%3A%2F%2Fwww.seedsoffortune.org%2Fmarsai&amp;a=https%3A%2F%2Fwww.seedsoffortune.org%2Fmarsai.\" target=\"_blank\" rel=\"nofollow\">https://www.seedsoffortune.org/marsai.</a></b></p><p><b>About Seeds of Fortune Inc.</b></p><p>Seeds of Fortune Inc. is a national nonprofit organization and education technology platform that prepares students for college, career, and financial success through financial education, scholarships, leadership development, and workforce readiness programming. Since its founding, the organization has helped students secure more than <b>$114 million</b> in scholarships and grants while serving thousands of students nationwide.</p><p><b>About Marsai's Way Foundation</b></p><p>Marsai's Way Foundation empowers young people by creating opportunities that support leadership, education, wellness, and personal growth through transformative programming and partnerships.</p><p><b>About FICO</b></p><p>FICO (NYSE: FICO) powers decisions that help people and businesses around the world prosper. Founded in 1956, the company is a pioneer in the use of predictive analytics and data science to improve operational decisions. FICO holds more than 200 U.S. and foreign patents on technologies that increase profitability, customer satisfaction and growth for businesses in financial services, insurance, telecommunications, health care, retail and many other industries. Using FICO solutions, businesses in more than 100 countries do everything from protecting 4 billion payment cards from <span>fraud</span>, to improving financial inclusion, to increasing supply chain resiliency. The FICO® Score, used by 90% of top U.S. lenders, is the standard measure of consumer credit risk in the U.S. and has been made available in over 40 other countries, improving risk management, credit access and transparency.</p><p>Raven Robinson, <a href=\"mailto:raven@pr2politics.com\" target=\"_blank\" rel=\"nofollow\">raven@pr2politics.com</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY19645&amp;sd=2026-08-05\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fico-joins-marsai-martins-foundation-and-seeds-of-fortune-inc-to-expand-national-financial-empowerment-initiative-for-families-and-college-students-302843337.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fico-joins-marsai-martins-foundation-and-seeds-of-fortune-inc-to-expand-national-financial-empowerment-initiative-for-families-and-college-students-302843337.html</a></p><p>SOURCE Seeds of Fortune Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY19645&amp;Transmission_Id=202608051200PR_NEWS_USPR_____NY19645&amp;DateId=20260805\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Seeds of Fortune Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "management": [
+            "joins"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T14:59:00.188Z"
+    },
+    {
+      "company": [
+        "North Carolina Independent Colleges and Universities"
+      ],
+      "date": "20260805T154100+0000",
+      "dateline": "RALEIGH, N.C., Aug. 5, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NCR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIN",
+        "EDU",
+        "HED"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "NCICU colleges and universities enroll more than 88,000 students from all 100 counties in North Carolina, 50 states, and countries around the world, and award one in four bachelor’s degrees and one in three graduate and professional degrees in North Carolina. This educational contribution, combined with the $14.2B economic impact and the 66,000 employees of our colleges and universities, is central to North Carolina’s larger public interests and its future.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1594110/NCICU-updated-Logo.jpg?id=OA2826770&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1594110/NCICU-updated-Logo.jpg?id=OA2826770&p=publish"
+        }
+      ],
+      "release_id": "20260805CL19987",
+      "status": "PUBLISHED",
+      "subject": [
+        "SRI"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">RALEIGH, N.C.</span>, <span class=\"legendSpanClass\">Aug. 5, 2026</span> /PRNewswire/ -- North Carolina Independent Colleges and Universities (NCICU) is pleased to announce that the North Carolina General Assembly has allocated $7 million in additional one-time financial aid funding to support students attending independent campuses across the state. The financial support, enacted as part of the state budget for the new fiscal year, restores individual North Carolina Need-Based Scholarship (NCNBS) awards to full levels after projected reductions. This crucial investment ensures that thousands of North Carolina students with financial need can continue pursuing their higher education goals without unexpected financial gaps.</p>\n    ",
+      "ticker": [],
+      "title": "$7 Million in Financial Aid Funding Restored for Independent College Students Across NC",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260805CL19987",
+      "body": "\n<p><span class=\"legendSpanClass\">RALEIGH, N.C.</span>, <span class=\"legendSpanClass\">Aug. 5, 2026</span> /PRNewswire/ -- North Carolina Independent Colleges and Universities (NCICU) is pleased to announce that the North Carolina General Assembly has allocated $7 million in additional one-time financial aid funding to support students attending independent campuses across the state. The financial support, enacted as part of the state budget for the new fiscal year, restores individual North Carolina Need-Based Scholarship (NCNBS) awards to full levels after projected reductions. This crucial investment ensures that thousands of North Carolina students with financial need can continue pursuing their higher education goals without unexpected financial gaps.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1594110/NCICU-updated-Logo.jpg?id=OA2826770\" title=\"NCICU colleges and universities enroll more than 88,000 students from all 100 counties in North Carolina, 50 states, and countries around the world, and award one in four bachelor’s degrees and one in three graduate and professional degrees in North Carolina. This educational contribution, combined with the $14.2B economic impact and the 66,000 employees of our colleges and universities, is central to North Carolina’s larger public interests and its future.\" alt=\"NCICU colleges and universities enroll more than 88,000 students from all 100 counties in North Carolina, 50 states, and countries around the world, and award one in four bachelor’s degrees and one in three graduate and professional degrees in North Carolina. This educational contribution, combined with the $14.2B economic impact and the 66,000 employees of our colleges and universities, is central to North Carolina’s larger public interests and its future.\"></img>\n                </p>\n    </div>\n<p>\"NCICU deeply appreciates the legislature's commitment to supporting our students and prioritizing college affordability,\" said NCICU President Dr. A. Hope Williams. \"We recognize the financial pressures families face, and ensuring these baseline scholarship levels are preserved is vital to keeping college attainable. This investment helps our independent colleges and universities provide an outstanding higher education for over 14,000 North Carolina residents who rely on the NCNBS to build their futures and contribute to the state's workforce.\"</p><p>The additional funding was strongly supported by NCICU to address an overall increase in enrollment of North Carolina students with financial need as well as recent federal financial aid eligibility expansion which increased the demand for need-based support. As a result, NCNBS grant awards for the 2026-2027 academic year will be based on the prior 2025-2026 levels of support.</p><p>The budget legislation, signed into law by Governor Stein, took effect on July 1st. The timely implementation of these funds will allow campus financial aid directors to adjust student accounts and secure critical aid packages before the start of the fall semester.</p><p>Advocacy efforts remain ongoing as the General Assembly continues its monthly voting sessions throughout the remainder of the year to address further state policy and regulatory matters. NCICU is encouraging students, families, and campus communities to express their appreciation to state leaders for keeping independent higher education accessible.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4746487-1&amp;h=1628595430&amp;u=https%3A%2F%2Fncicu.org%2Fthank-your-legislator%2F&amp;a=Click+here\" target=\"_blank\" rel=\"nofollow\"><b>Click here</b></a> to thank your legislator for their support of independent college students.</p><p><b>ABOUT NCICU<br></br></b><b>North Carolina Independent Colleges &amp; Universities (NCICU)</b> is the statewide office of private, nonprofit, liberal arts and research colleges and universities. NCICU supports, represents, and advocates for North Carolina's independent higher education in state and federal public policy and on education issues with other education sectors in the state. It also raises funds through the Independent College Fund of North Carolina for student scholarships and enrichment experiences, provides research and information to and about private colleges and universities, conducts staff development opportunities and coordinates collaborative programs. Presidents of the colleges and universities comprise NCICU's Board of Directors.</p><p><b>CONTACT:</b> <b>Demarcus Williams</b> <a href=\"mailto:demarcus.williams@ncicu.org\" target=\"_blank\" rel=\"nofollow\"><b>demarcus.williams@ncicu.org</b></a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL19987&amp;sd=2026-08-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/7-million-in-financial-aid-funding-restored-for-independent-college-students-across-nc-302843928.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/7-million-in-financial-aid-funding-restored-for-independent-college-students-across-nc-302843928.html</a></p><p>SOURCE North Carolina Independent Colleges and Universities</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL19987&amp;Transmission_Id=202608051141PR_NEWS_USPR_____CL19987&amp;DateId=20260805\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "North Carolina Independent Colleges and Universities",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T14:59:01.421Z"
+    },
+    {
+      "company": [
+        "Slippery Rock University"
+      ],
+      "date": "20260804T170000+0000",
+      "dateline": "SLIPPERY ROCK, Pa., Aug. 4, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "PSY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "HED"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "1986 SRU alumni Joe and Pam Finney support their alma mater by funding scholarships, attending campus alumni engagements and their latest contributing, a $500,000 gift to establish the Finney Finance Lab.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1963700/1986-SRU-alumni-Joe-and-Pam-Finney.jpg?id=OA2823906&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1963700/1986-SRU-alumni-Joe-and-Pam-Finney.jpg?id=OA2823906&p=publish"
+        }
+      ],
+      "release_id": "20260804DC18821",
+      "status": "PUBLISHED",
+      "subject": [
+        "SRI"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SLIPPERY ROCK, Pa.</span>, <span class=\"legendSpanClass\">Aug. 4, 2026</span> /PRNewswire/ -- Slippery Rock University students in the Haverlack College of Business will soon gain hands-on experience with the same financial systems used on Wall Street, thanks to a $500,000 gift from alumni Joe and Pam Finney to establish the Finney Finance Lab. </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1963700/1986-SRU-alumni-Joe-and-Pam-Finney.jpg?id=OA2823906\" title=\"1986 SRU alumni Joe and Pam Finney support their alma mater by funding scholarships, attending campus alumni engagements and their latest contributing, a $500,000 gift to establish the Finney Finance Lab.\" alt=\"1986 SRU alumni Joe and Pam Finney support their alma mater by funding scholarships, attending campus alumni engagements and their latest contributing, a $500,000 gift to establish the Finney Finance Lab.\"></img>\n                </p>\n    </div>\n<p>The lab will feature Bloomberg Terminal workstations, the industry standard for real-time financial data, analytics and trading. The addition will give SRU students direct access to the tools used by investment banks, asset managers and corporate finance teams worldwide. </p>",
+      "ticker": [],
+      "title": "Slippery Rock University receives $500,000 gift to launch Finney Finance Lab",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260804DC18821",
+      "body": "\n<p><span class=\"legendSpanClass\">SLIPPERY ROCK, Pa.</span>, <span class=\"legendSpanClass\">Aug. 4, 2026</span> /PRNewswire/ -- Slippery Rock University students in the Haverlack College of Business will soon gain hands-on experience with the same financial systems used on Wall Street, thanks to a $500,000 gift from alumni Joe and Pam Finney to establish the Finney Finance Lab. </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1963700/1986-SRU-alumni-Joe-and-Pam-Finney.jpg?id=OA2823906\" title=\"1986 SRU alumni Joe and Pam Finney support their alma mater by funding scholarships, attending campus alumni engagements and their latest contributing, a $500,000 gift to establish the Finney Finance Lab.\" alt=\"1986 SRU alumni Joe and Pam Finney support their alma mater by funding scholarships, attending campus alumni engagements and their latest contributing, a $500,000 gift to establish the Finney Finance Lab.\"></img>\n                </p>\n    </div>\n<p>The lab will feature Bloomberg Terminal workstations, the industry standard for real-time financial data, analytics and trading. The addition will give SRU students direct access to the tools used by investment banks, asset managers and corporate finance teams worldwide. </p><p>\"Slippery Rock gave me everything, my career, my direction and my wife of 39 years,\" said Joe Finney '86, whose wife, Pam '86, is also an SRU alumnus. \"This lab is our way of giving back and making sure the next generation of students walks into their first job interview ready to compete with anyone, from anywhere.\" </p><p>Access to Bloomberg Terminals is typically limited to top-tier business programs, positioning SRU among a select group of regional universities offering this level of professional exposure. The lab will support coursework across finance, economics, accounting and business analytics, while also enabling students to earn Bloomberg Market Concepts certification and participate in global trading competitions. </p><p>The investment further strengthens the Haverlack College of Business as a destination for students seeking career-ready, experiential learning. </p><p>The gift comes at a time of strong institutional momentum for SRU. The University recently recorded its highest first-to-second-year retention rate in a decade at 86.4%, the best in Pennsylvania's State System of Higher Education in the last decade. SRU also reported its highest four-year graduation rate (58.3%) in 20 years. The Haverlack College of Business holds AACSB accreditation, placing it among fewer than 6% of business schools worldwide, and SRU continues to earn recognition from U.S. News &amp; World Report for academic quality and student outcomes. </p><p>\"We are deeply grateful to Joe and Pam Finney for this extraordinary investment in our students and in the future of the Haverlack College of Business,\" said Prasad Vemala, dean of SRU's Haverlack College of Business. \"The Finney Finance Lab will provide hands-on access to industry-standard tools, strengthen our commitment to career-ready education and help our students build the confidence, skills and experience needed to succeed in an increasingly competitive financial world.\"</p><p>\"This gift is a powerful investment in our students and a clear signal of where SRU is headed,\" said SRU President Karen Riley. \"The Finneys' generosity will create new opportunities for hands-on learning, strengthen our ability to recruit top students and further connect our graduates to careers in the global economy.\" </p><p>Beyond classroom use, the Finney Finance Lab is expected to serve as a hub for student-led investment activities, faculty research and career development programming. The space will reinforce SRU's focus on experiential, career-ready education. </p><p>The Finney Finance Lab, which will be located in the Eisenberg Classroom Room Building, is expected to open in fall 2026. It will provide students with a direct pathway from classroom learning to careers in finance. </p><p>A native of Crawford County, Pennsylvania, and Tampa, Florida, resident, Joe Finney is the CEO of T3 Services Group. He has led companies in services, retail, and distribution across a 40-year career as a business executive.</p><p>More information about the Haverlack College of Business is available <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4745349-1&amp;h=3563465430&amp;u=https%3A%2F%2Fwww.sru.edu%2Facademics%2Fcolleges-and-departments%2Fcob&amp;a=on+the+University%27s+webpage\" target=\"_blank\" rel=\"nofollow\">on the University's webpage</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC18821&amp;sd=2026-08-04\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/slippery-rock-university-receives-500-000-gift-to-launch-finney-finance-lab-302842750.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/slippery-rock-university-receives-500-000-gift-to-launch-finney-finance-lab-302842750.html</a></p><p>SOURCE Slippery Rock University</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC18821&amp;Transmission_Id=202608041300PR_NEWS_USPR_____DC18821&amp;DateId=20260804\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Slippery Rock University",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:02:49.361Z"
+    },
+    {
+      "company": [
+        "Ivory Innovations"
+      ],
+      "date": "20260804T120000+0000",
+      "dateline": "SALT LAKE CITY, Aug. 4, 2026",
+      "feed": [
+        "PRNUS_WEBMAX",
+        "PRNUS"
+      ],
+      "geography": [
+        "UTH",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "EDU",
+        "RRL"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20260804NY18003",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "NPT"
+      ],
+      "summary": "<p><i>Hack-A-House, a 24-hour nationwide competition gives students the chance to pitch real-world innovative solutions to address housing affordability across finance, construction, and policy prompts and a chance to win up to $6,500</i>   </p><p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Aug. 4, 2026</span> /PRNewswire/ -- As millions of Americans struggle to find affordable homes, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=4188312785&amp;u=https%3A%2F%2Fwww.ivoryinnovations.org%2F&amp;a=Ivory+Innovations\" target=\"_blank\" rel=\"nofollow\">Ivory Innovations</a> is once again turning to college students for answers. The nonprofit academic center, based at the University of Utah's David Eccles School of Business, is hosting its annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=4148117461&amp;u=https%3A%2F%2Fwww.hackahouse.org%2F&amp;a=Hack-A-House\" target=\"_blank\" rel=\"nofollow\">Hack-A-House</a> competition, set for September 25–26, 2026. Registration for the event opened Aug. 3.</p>\n",
+      "ticker": [],
+      "title": "How College Students Are Tackling America's Housing Crisis with Ivory Innovations",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260804NY18003",
+      "body": "\n<p><i>Hack-A-House, a 24-hour nationwide competition gives students the chance to pitch real-world innovative solutions to address housing affordability across finance, construction, and policy prompts and a chance to win up to $6,500</i>   </p><p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Aug. 4, 2026</span> /PRNewswire/ -- As millions of Americans struggle to find affordable homes, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=4188312785&amp;u=https%3A%2F%2Fwww.ivoryinnovations.org%2F&amp;a=Ivory+Innovations\" target=\"_blank\" rel=\"nofollow\">Ivory Innovations</a> is once again turning to college students for answers. The nonprofit academic center, based at the University of Utah's David Eccles School of Business, is hosting its annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=4148117461&amp;u=https%3A%2F%2Fwww.hackahouse.org%2F&amp;a=Hack-A-House\" target=\"_blank\" rel=\"nofollow\">Hack-A-House</a> competition, set for September 25–26, 2026. Registration for the event opened Aug. 3.</p>\n<p>The 24-hour \"hackathon\"-style pitch competition challenges undergraduate and graduate students from colleges and universities across the country, to develop innovative, scalable solutions to the housing affordability crisis.</p><p>\"The solutions created in 24 hours by college students can have a real impact in addressing a problem so many people face,\" said Abby Ivory, co-founder and president of Ivory Innovations. \"The enthusiasm and innovation that comes from the students who participate in Hack-A-House is truly amazing and each year, I am impressed by how students can quickly identify real problems and propose thoughtful solutions. We're looking forward to the ideas and solutions students will come up with this year.\" </p><p>Hack-A-House is free to enter and will be held both in person at the University of Utah and virtually, making it accessible to students at any institution. Since its inception, Hack-A-House has grown into one of the nation's premier student competitions focused on housing. The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=1027836144&amp;u=https%3A%2F%2Fwww.hackahouse.org%2Fwinners%2F2025&amp;a=2025+competition\" target=\"_blank\" rel=\"nofollow\">2025 competition</a> drew nearly 400 registrants representing more than 50 universities, with winning teams from Harvard University, the University of Utah and Oregon-based Willamette University, proposing solutions ranging from improved lending for first-time homebuyers to increasing affordable housing options in high cost areas.</p><p>Past Hack-A-House winners have gone on to see their innovative ideas come to life; <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=2777782327&amp;u=https%3A%2F%2Fwww.kitswitch.com%2F&amp;a=Kit+Switch%2C\" target=\"_blank\" rel=\"nofollow\">Kit Switch,</a> a 2020 winner, is now a construction technology startup that designs ready-to-install, modular interior products.</p><p>\"Winning last year's competition changed my life and showed me that the ideas we're developing at the U, informed by real policy work and guided by our inspiring professors, can actually shape the housing conversation at the highest levels,\" said McKay Grange of the University of Utah. \"Having my proposal reviewed by Utah Gov. Spencer Cox and industry professionals gave me confidence that student-led solutions deserve to be taken seriously. The housing crisis isn't going away and we need as many bold and new ideas as possible.\"</p><p>Participants, competing individually or in teams of up to five, will select one of three category prompts addressing different dimensions of the housing crisis (Finance, Construction &amp; Design, and Policy &amp; Regulatory Reform). At the Friday, Sept. 25, kickoff at noon, MDT, teams will receive their prompts and gain access to expert-led deep-dive sessions and office hours with industry professionals. All submissions are due by 8:45 a.m. MDT on Saturday, Sept. 26, with winners announced that afternoon.</p><p>This year's competition offers the most prize money in Hack-A-House history:</p><p><b>Category Winners (3):</b> $3,000 each, awarded to the top team in each prompt category</p><p><b>Grand Prize</b>: An additional $2,000, voted on by a live audience at the 2026 Ivory Prize Summit in Tempe, Arizona, on Oct. 14</p><p><b>People's Choice Award</b>: $1,000, determined by public voting after the competition</p><p><b>New for 2026</b>: The Think Wood Housing Innovation Award, an additional $500 award</p><p>All three category-winning teams will be invited to present at the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=3314352914&amp;u=https%3A%2F%2Fwww.ivoryinnovations.org%2Fivory-prize-summit&amp;a=Ivory+Prize+Summit%2C\" target=\"_blank\" rel=\"nofollow\">Ivory Prize Summit,</a> with travel and lodging covered by Ivory Innovations. Prize money is split among team members.</p><p>All undergraduate and graduate students are eligible to participate, regardless of major or field of study.</p><p>Hack-A-House is made possible with the generous support of Think Wood, JPMorganChase, and Zions Bank.</p><p><b>Media Opportunity</b></p><p>Members of the press are invited to attend this event in person at the University of Utah where interviews with participants and winners can be arranged. Free parking will be available.</p><p><b>About Ivory Innovations</b></p><p>Ivory Innovations is both an operating foundation and a nonprofit academic center based at the University of Utah's David Eccles School of Business. Its mission is to catalyze high-impact innovations in housing affordability by bridging research and industry to support cross-sector solutions, providing recognition and funding for groundbreaking ideas, engaging a global student population, and contributing directly to the development of affordable housing in Utah and beyond. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744563-1&amp;h=2120260160&amp;u=https%3A%2F%2Fwww.ivoryinnovations.org%2F&amp;a=ivoryinnovations.org\" target=\"_blank\" rel=\"nofollow\">ivoryinnovations.org</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY18003&amp;sd=2026-08-04\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/how-college-students-are-tackling-americas-housing-crisis-with-ivory-innovations-302841463.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/how-college-students-are-tackling-americas-housing-crisis-with-ivory-innovations-302841463.html</a></p><p>SOURCE Ivory Innovations</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY18003&amp;Transmission_Id=202608040800PR_NEWS_USPR_____NY18003&amp;DateId=20260804\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Ivory Innovations",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:05:09.808Z"
+    },
+    {
+      "company": [
+        "Rice University"
+      ],
+      "date": "20260803T213800+0000",
+      "dateline": "HOUSTON, Aug. 3, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "EDU"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Rice University, Houston, TX",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1963269/Rice-University.jpg?id=OA2822781&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1963269/Rice-University.jpg?id=OA2822781&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1072827/University-Lockups-Digital-Rice-University-Blue-Logo.jpg?id=OA2822928&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1072827/University-Lockups-Digital-Rice-University-Blue-Logo.jpg?id=OA2822928&p=publish"
+        }
+      ],
+      "release_id": "20260803DC18256",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "SRI"
+      ],
+      "summary": "<p class=\"prntac\"><b>Expanded Rice Investment strengthens access and affordability while building opportunity for future generations</b></p><p><span class=\"legendSpanClass\">HOUSTON</span>, <span class=\"legendSpanClass\">Aug. 3, 2026</span> /PRNewswire/ -- Rice University today announced a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744816-1&amp;h=3602654078&amp;u=https%3A%2F%2Fnews.rice.edu%2Fnews%2F2026%2Frice-expands-signature-financial-aid-program-offering-free-tuition-families-earning&amp;a=major+expansion+of+the+Rice+Investment\" target=\"_blank\" rel=\"nofollow\">major expansion of the Rice Investment</a>, its signature financial aid program, offering free tuition to students from families earning up to $200,000 annually.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1963269/Rice-University.jpg?id=OA2822781\" title=\"Rice University, Houston, TX\" alt=\"Rice University, Houston, TX\"></img>\n                </p>\n    </div>\n<p>Beginning with students entering in fall 2027, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744816-1&amp;h=3407635179&amp;u=https%3A%2F%2Ffinancialaid.rice.edu%2Frice-investment&amp;a=the+expansion+will+open+the+doors\" target=\"_blank\" rel=\"nofollow\">the expansion will open the doors</a> of a Rice education to more talented students, provide families with greater clarity about college costs and help graduates pursue their goals without the burden of student debt.</p>",
+      "ticker": [],
+      "title": "Rice expands signature financial aid program, offering free tuition to families earning up to $200,000",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260803DC18256",
+      "body": "\n<p class=\"prntac\"><b>Expanded Rice Investment strengthens access and affordability while building opportunity for future generations</b></p><p><span class=\"legendSpanClass\">HOUSTON</span>, <span class=\"legendSpanClass\">Aug. 3, 2026</span> /PRNewswire/ -- Rice University today announced a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744816-1&amp;h=3602654078&amp;u=https%3A%2F%2Fnews.rice.edu%2Fnews%2F2026%2Frice-expands-signature-financial-aid-program-offering-free-tuition-families-earning&amp;a=major+expansion+of+the+Rice+Investment\" target=\"_blank\" rel=\"nofollow\">major expansion of the Rice Investment</a>, its signature financial aid program, offering free tuition to students from families earning up to $200,000 annually.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1963269/Rice-University.jpg?id=OA2822781\" title=\"Rice University, Houston, TX\" alt=\"Rice University, Houston, TX\"></img>\n                </p>\n    </div>\n<p>Beginning with students entering in fall 2027, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744816-1&amp;h=3407635179&amp;u=https%3A%2F%2Ffinancialaid.rice.edu%2Frice-investment&amp;a=the+expansion+will+open+the+doors\" target=\"_blank\" rel=\"nofollow\">the expansion will open the doors</a> of a Rice education to more talented students, provide families with greater clarity about college costs and help graduates pursue their goals without the burden of student debt.</p><p>Under the expanded program:</p><ul type=\"disc\"><li>Students from families earning between $100,000 and $200,000 annually will receive free tuition.</li><li>Students from families earning less than $100,000 annually will receive full coverage of tuition, mandatory fees, room and board.</li><li>Rice will continue to meet 100% of demonstrated financial need for all families without requiring student loans.</li></ul><p>Previously, the Rice Investment covered tuition, mandatory fees, room and board for students from families earning $75,000 or less and provided free tuition to students from families earning between $75,000 and $140,000.</p><p>The expansion positions Rice among the nation's leaders in access and affordability and reflects a longstanding belief shared across the university community: Exceptional talent should never be limited by financial circumstances.</p><p>\"This is a defining moment for Rice University and for the future of higher education,\" President Reginald DesRoches said. \"Talent exists in every community and across every socioeconomic background. Because of the extraordinary generosity of our alumni and supporters, more students than ever will have access to the life-changing opportunities a Rice education provides. Philanthropy makes this possible, and continued investment in our students will ensure future generations can learn, discover and lead without financial barriers standing in the way.\"</p><p>Access and affordability have been central to Rice's mission since its founding. The university remained tuition-free for more than its first 50 years, and the expanded Rice Investment carries that historic commitment forward for a new generation.</p><p>Rice launched the program in 2019 as one of the nation's leading free-tuition initiatives. Since then, the university has provided more than $1 billion in financial aid, a 75% increase compared with the seven years before the program's launch.</p><p>The announcement also comes during one of the most ambitious periods of growth in Rice's history. Since 2020, the university has increased its undergraduate population by approximately 25% and expanded its faculty by approximately 20% while maintaining its hallmark low 6-to-1 student-to-faculty ratio and close-knit residential college experience. </p><p>\"As Rice grows, accessibility and excellence must grow together,\" said Amy Dittmar, the Howard R. Hughes Provost and executive vice president for academic affairs. \"We are expanding opportunities for more students to benefit from the distinctive education Rice offers while investing in world-class faculty, research and student support. Our alumni and donors are essential partners in that mission and in ensuring that Rice remains both exceptional and broadly accessible.\"</p><p>The expanded income thresholds are expected to make Rice accessible to significantly more middle- and upper-middle-income families, many of whom may assume they will not qualify for meaningful financial assistance.</p><p>\"At many universities, families with middle or upper-middle incomes often assume they will not qualify for meaningful financial aid,\" said Yvonne Romero, vice president for enrollment and dean of admissions and financial aid. \"This expansion changes that conversation and simplifies the criteria. We want students and families to know that cost should not discourage them from considering Rice. Thanks to the generosity of the Rice community, we can tell more extraordinary students: 'Yes, you belong here.'\"</p><p>The expanded Rice Investment was made possible through intentional university investment and sustained philanthropic support. Maintaining the expanded program will remain one of Rice's highest fundraising priorities, and continued support from alumni, parents, donors and friends will be essential to sustaining it for future generations.</p><p>Scholarship gifts, endowed funds and investments in student support will help more students choose Rice based on their talent and potential rather than their ability to pay.</p><p>\"Rice has always been shaped by people who believe in opening doors for others,\" said Stephen Bayer, vice president for development and alumni relations. \"What makes this moment so powerful is the way our community is coming together with purpose and conviction. We are deeply grateful to our forward-looking donors, alumni, parents and friends who understand what is at stake for our students and their families and who care profoundly about Rice's legacy of affordability.\"</p><p>University leaders emphasized that the announcement is not an endpoint but an invitation for the Rice community to continue building a future in which educational opportunity is within reach for talented students from every background.</p><p>Watch the Rice Investment video featuring Rice President Reginald DesRoches and Yvonne Romero, vice president for enrollment and dean of admissions and financial aid: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744816-1&amp;h=2023366841&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_i2I6_-B3f4&amp;a=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_i2I6_-B3f4\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=_i2I6_-B3f4</a></p><p><b>About Rice University</b><br></br>Located on a 300-acre forested campus in Houston, Texas, Rice University is consistently ranked among the nation's top 20 universities by U.S. News &amp; World Report. Rice has highly respected schools of architecture, business, continuing studies, engineering and computing, humanities and arts, music, natural sciences and social sciences and is home to the Baker Institute for Public Policy and Kinder Institute for Urban Research. Internationally, the university maintains the Rice Global Paris Center, a hub for innovative collaboration, research and inspired teaching located in the heart of Paris, and Rice Global India in Bengaluru, India. With 4,793 undergraduates and 4,185 graduate students, Rice's undergraduate student-to-faculty ratio is just under 6-to-1. Its residential college system builds close-knit communities and lifelong friendships, just one reason why Rice is ranked in the top 10 for best quality of life by the Princeton Review. </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1072827/University-Lockups-Digital-Rice-University-Blue-Logo.jpg?id=OA2822928\" title=\"\" alt=\"\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC18256&amp;sd=2026-08-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/rice-expands-signature-financial-aid-program-offering-free-tuition-to-families-earning-up-to-200-000--302841662.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/rice-expands-signature-financial-aid-program-offering-free-tuition-to-families-earning-up-to-200-000--302841662.html</a></p><p>SOURCE Rice University</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC18256&amp;Transmission_Id=202608031738PR_NEWS_USPR_____DC18256&amp;DateId=20260803\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Rice University",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:05:39.954Z"
+    },
+    {
+      "company": [
+        "The Inner Circle"
+      ],
+      "date": "20260803T192400+0000",
+      "dateline": "ARLINGTON, Va., Aug. 3, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "VIR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "HED",
+        "PUB"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Marjorie Lora Myers, Ed.D",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1962946/The-Inner-Circle-Marjorie-Lora-Myers.jpg?id=OA2822052&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1962946/The-Inner-Circle-Marjorie-Lora-Myers.jpg?id=OA2822052&p=publish"
+        }
+      ],
+      "release_id": "20260803NY17841",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">ARLINGTON, Va.</span>, <span class=\"legendSpanClass\">Aug. 3, 2026</span> /PRNewswire/ -- Prominently featured in The Inner Circle, Marjorie Lora Myers, Ed.D. is acknowledged as a Pinnacle Professional Member Inner Circle of Excellence for her contributions to Advocacy in Bilingual and Multicultural Education.</p>\n<p>Marjorie Lora Myers, Ed.D., has devoted her career to advancing equitable education through bilingual and multicultural learning environments. An accomplished education professional, she is widely recognized for her dedication to supporting diverse student populations and advocating for inclusive academic opportunities. Currently she is serving as the President of the Board of Directors for Edu-Futuro (Edu-Futuro.org) where first in family high school students interested in attending college are supported and mentored as they navigate the complicated path to higher education in the USA. She has served on the Edu-Futuro Board of Directors since 2019 after the Key School PTA founded a scholarship in her name for students who have worked hard to get into college and who have maintained their heritage languages while learning English. As one can imagine, donations to the Dr. Marjorie L. Myers Scholarship are always welcome.</p>",
+      "ticker": [],
+      "title": "The Inner Circle acknowledges Marjorie Lora Myers, Ed.D. as a Pinnacle Professional Member Inner Circle of Excellence",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260803NY17841",
+      "body": "\n<p><span class=\"legendSpanClass\">ARLINGTON, Va.</span>, <span class=\"legendSpanClass\">Aug. 3, 2026</span> /PRNewswire/ -- Prominently featured in The Inner Circle, Marjorie Lora Myers, Ed.D. is acknowledged as a Pinnacle Professional Member Inner Circle of Excellence for her contributions to Advocacy in Bilingual and Multicultural Education.</p>\n<p>Marjorie Lora Myers, Ed.D., has devoted her career to advancing equitable education through bilingual and multicultural learning environments. An accomplished education professional, she is widely recognized for her dedication to supporting diverse student populations and advocating for inclusive academic opportunities. Currently she is serving as the President of the Board of Directors for Edu-Futuro (Edu-Futuro.org) where first in family high school students interested in attending college are supported and mentored as they navigate the complicated path to higher education in the USA. She has served on the Edu-Futuro Board of Directors since 2019 after the Key School PTA founded a scholarship in her name for students who have worked hard to get into college and who have maintained their heritage languages while learning English. As one can imagine, donations to the Dr. Marjorie L. Myers Scholarship are always welcome.</p><p>Dr. Myers has demonstrated deep expertise in bilingual education, writing, multicultural education, and student advocacy. Her work reflects a strong commitment to ensuring that students from all backgrounds have access to meaningful and empowering educational experiences.</p><p>She earned a Bachelor of Arts from the University of Florida, followed by a Master of Arts from George Mason University and a Doctor of Education from George Washington University. Her academic background has supported a lifelong mission centered on equity, representation, and educational access.</p><p>Throughout her career, Dr. Myers has advocated for immigrant children across the United States, working to ensure access to quality education and culturally responsive support systems. Her professional affiliations include the Association for Supervision and Curriculum Development (ASCD), Teaching English to Speakers of Other Languages (TESOL), National Association of Bilingual Education (NABE), and the Arlington Supervisors Association (ASA).</p><p>Recently named Champion of Bilingual Education and spotlighted at the Arlington Historical Museum under the Arlington Historical Society for promoting bilingual education in the USA. Entry is part of a permanent exhibit about the history of public education in Arlington, Virginia and the language programs offered by Arlington Public Schools. Dr. Marjorie L. Myers is highlighted as a key figure in bilingual education for APS.</p><p>In addition to her professional contributions, she is a supporter of the Dr. Marjorie L. Myers Scholarship Fund, reinforcing her commitment to uplifting future generations of learners. Outside of her work, she enjoys travel and the great outdoors.</p><p>This recognition is dedicated in loving memory of her parents, Air Force fighter pilot, Colonel (Ret.) Duncan Clark Myers and WWII Red Cross Clubmobiler, Dorothy Virginia Love Myers, whose influence helped shape her values and lifelong dedication to education. Due to her father's being stationed outside of Madrid when she was in elementary school and their decision to enroll her and her siblings in a local Spanish only school walking distance from their home in Madrid, all four Myers children are bilingual. Looking ahead, Dr. Myers remains committed to continuing her meaningful impact in the field.</p><p>Guided by the belief that every child deserves access to education, she continues to champion inclusive learning and student advocacy.</p><p>Contact: Katherine Green, 516-825-5634, <a href=\"mailto:editorialteam@continentalwhoswho.com\" rel=\"nofollow\">editorialteam@continentalwhoswho.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY17841&amp;sd=2026-08-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-marjorie-lora-myers-edd-as-a-pinnacle-professional-member-inner-circle-of-excellence-302841532.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-inner-circle-acknowledges-marjorie-lora-myers-edd-as-a-pinnacle-professional-member-inner-circle-of-excellence-302841532.html</a></p><p>SOURCE The Inner Circle</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY17841&amp;Transmission_Id=202608031524PR_NEWS_USPR_____NY17841&amp;DateId=20260803\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "The Inner Circle",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 3,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "management": [
+            "summary:board of directors",
+            "summary:president"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:05:53.319Z"
+    },
+    {
+      "company": [
+        "Mobile Communications America"
+      ],
+      "date": "20260803T145200+0000",
+      "dateline": "SPARTANBURG, S.C., Aug. 3, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "SCR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "HED",
+        "TLS",
+        "CPR",
+        "USN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Mobile Communications America (MCA) is a national leader in integrated data, security, and voice solutions.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1766187/Mobile-Communications-America-v2-Logo.jpg?id=OA2821876&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1766187/Mobile-Communications-America-v2-Logo.jpg?id=OA2821876&p=publish"
+        }
+      ],
+      "release_id": "20260803CL17769",
+      "status": "PUBLISHED",
+      "subject": [
+        "CSR",
+        "AWD"
+      ],
+      "summary": "<p>\n            <i>Annual program highlights MCA's commitment to investing in education, community impact, and the families of its team members through the MCA Foundation.</i>\n          </p>\n          <p>\n            <span class=\"legendSpanClass\">SPARTANBURG, S.C.</span>, <span class=\"legendSpanClass\">Aug. 3, 2026</span> /PRNewswire/ -- Mobile Communications America, Inc. (MCA), a national leader in integrated communication, connectivity, and security solutions, today announced the recipients of its 2026 MCA Foundation Scholarship Program. Through the program, MCA awarded six $5,000 scholarships, totaling $30,000, to outstanding students who have demonstrated academic achievement, leadership, community involvement, and financial need, helping them pursue higher education and achieve their educational goals.</p>    ",
+      "ticker": [],
+      "title": "Mobile Communications America Invests in Education Through 2026 Foundation Scholarships",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20260803CL17769",
+      "body": "\n          <p>\n            <i>Annual program highlights MCA's commitment to investing in education, community impact, and the families of its team members through the MCA Foundation.</i>\n          </p>\n          <p>\n            <span class=\"legendSpanClass\">SPARTANBURG, S.C.</span>, <span class=\"legendSpanClass\">Aug. 3, 2026</span> /PRNewswire/ -- Mobile Communications America, Inc. (MCA), a national leader in integrated communication, connectivity, and security solutions, today announced the recipients of its 2026 MCA Foundation Scholarship Program. Through the program, MCA awarded six $5,000 scholarships, totaling $30,000, to outstanding students who have demonstrated academic achievement, leadership, community involvement, and financial need, helping them pursue higher education and achieve their educational goals.</p>    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">                <p>                    <img src=\"https://mmx.prnewswire.com/media/MS1766187/Mobile-Communications-America-v2-Logo.jpg?id=OA2821876\" title=\"Mobile Communications America (MCA) is a national leader in integrated data, security, and voice solutions.\" alt=\"Mobile Communications America (MCA) is a national leader in integrated data, security, and voice solutions.\"></img>                </p>    </div><p>Learn more about MCA, its values, and its commitment to supporting team members and communities at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744361-1&amp;h=2688081436&amp;u=https%3A%2F%2Fcallmc.com%2F&amp;a=callmc.com.\" target=\"_blank\" rel=\"nofollow\">callmc.com.</a></p><p>Established in 2024, the MCA Foundation was created to expand MCA's charitable giving and community impact initiatives, extending the company's commitment to supporting its team members, their families, and the communities where they live and work. Through initiatives such as the annual scholarship program and MCA Day Grants, which provide funding to nonprofit organizations championed by MCA team members, the Foundation invests in education, strengthens local communities, and creates meaningful opportunities beyond the workplace.</p><p>\"Education has the power to transform lives, strengthen communities, and create opportunities for future success,\" said Ellen Cartee, Chief Human Resources Officer and coordinator of the MCA Foundation. \"Every application tells a story of perseverance, ambition, and service to others, and it has been inspiring to see the dedication these six students have already shown in their schools and communities. We are honored to recognize their accomplishments and help support the next step in their educational journey.\"</p><p>Open to the children and grandchildren of MCA team members, the annual scholarship program recognizes students who exemplify academic excellence, leadership, and a commitment to serving their communities. Eligible applicants include graduating high school seniors planning to attend a technical school, community college, or two- or four-year college or university, as well as current post-secondary students enrolled in those institutions.</p><p>Recipients are selected through a competitive review process that considers demonstrated financial need, academic achievement, community involvement, leadership, and the overall strength of each application. Applicants must maintain a minimum 3.0 GPA and submit an essay highlighting their extracurricular activities, community involvement, and personal achievements, along with three letters of recommendation, including one from an individual positively impacted by their community service.</p><p>This year, the program awarded three new scholarships and renewed support for three returning recipients, reflecting MCA's continued investment in helping students pursue their educational goals.</p><p><b>2026 Scholarship Recipients</b></p><p><b>New Scholarship Recipients</b></p><ul type=\"disc\"><li>Ansley Ray</li><li>Johnston Abrams</li><li>Hadlee Sherman</li></ul><p><b>Renewal Scholarship Recipients</b></p><ul type=\"disc\"><li>Elle Hufhand</li><li>Kaitlyn Chauncey</li><li>Parker Lindquist</li></ul><p>The 2026 scholarship program also experienced increased participation, reflecting growing engagement from MCA team members and their families. As the Foundation continues to grow, MCA remains committed to creating opportunities that extend beyond the workplace by investing in education, supporting local communities, and empowering the next generation of leaders.</p><p><b>About Mobile Communications America (MCA)</b></p><p>Mobile Communications America (MCA) is a national leader in wireless communication, data, and security solutions. MCA serves more than 65,000 customers nationwide across public safety, commercial, education, healthcare, utilities, and government sectors. From two-way radios and network infrastructure to access control and video surveillance, MCA delivers comprehensive systems that ensure safety and operational efficiency. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4744361-1&amp;h=4103384652&amp;u=http%3A%2F%2Fwww.callmc.com%2F&amp;a=www.callmc.com\" target=\"_blank\" rel=\"nofollow\">www.callmc.com</a>.</p>                <p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL17769&amp;sd=2026-08-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mobile-communications-america-invests-in-education-through-2026-foundation-scholarships-302841297.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mobile-communications-america-invests-in-education-through-2026-foundation-scholarships-302841297.html</a></p><div id=\"sbIframeContainer\" style=\"width:100%; height:600px; padding:0\"><div style=\"width: 100%; height: 600px;\"><iframe src=\"https://share.prnewswire.com/toolkit/7fe80ed2-df57-42be-8407-792d404c34cf?embedded=true\" allowfullscreen=\"allowfullscreen\" allow=\"camera; web-share; microphone; fullscreen; clipboard-write;\" frameborder=\"0\" style=\"border: 0; outline: none; color-scheme: normal; width: 100%; height: 100%; transform: scale(1); transform-origin: 0 0;\"></iframe></div></div><p>SOURCE Mobile Communications America</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL17769&amp;Transmission_Id=202608031052PR_NEWS_USPR_____CL17769&amp;DateId=20260803\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
+      "source_company": "Mobile Communications America",
+      "style": "/* Style Definitions */span.prnews_span{font-size:8pt;font-family:\"Arial\";color:black;}a.prnews_a{color:blue;}li.prnews_li{font-size:8pt;font-family:\"Arial\";color:black;}p.prnews_p{font-size:0.62em;font-family:\"Arial\";color:black;margin:0in;}",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:06:11.646Z"
     }
   ]
 }
