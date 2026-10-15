@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-10-15T09:48:30.540Z",
+  "generated_at": "2026-10-15T11:10:06.479Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "college",
   "page_url": "https://www.mediajobsreport.com/college_news",
-  "count": 67,
+  "count": 68,
   "releases": [
+    {
+      "company": [
+        "South Western Communications"
+      ],
+      "date": "20261015T091900+0000",
+      "dateline": "NEWBURGH, Ind., Oct. 15, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "IDA",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HTS",
+        "EDU",
+        "STW",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "neXus for Education. One Screen, Faster Response. ",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/7Ptb_2WYZq0/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7Ptb_2WYZq0"
+        },
+        {
+          "caption": "Official SWC logo.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2006143/SOUTH-WESTERN-COMMUNICATION-Logo.jpg?id=OA2998249&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2006143/SOUTH-WESTERN-COMMUNICATION-Logo.jpg?id=OA2998249&p=publish"
+        }
+      ],
+      "release_id": "20261015CG68123",
+      "status": "PUBLISHED",
+      "subject": [
+        "PSF",
+        "BFA"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEWBURGH, Ind.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- In recognition of America's Safe Schools Week (October 19-23, 2026), South Western Communications (SWC) is highlighting <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=2131766586&amp;u=http%3A%2F%2Fwww.swc.net%2FneXus&amp;a=neXus\" target=\"_blank\" rel=\"nofollow\">neXus</a>, a platform that streamlines school safety by integrating fragmented security systems into a single interface for faster response. As school districts nationwide increase their focus on campus safety and security, SWC's neXus empowers administrators to see real-time alerts, automate critical response workflows, and take immediate action when seconds count.</p>",
+      "ticker": [],
+      "title": "SWC Spotlights neXus During America's Safe Schools Week",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015CG68123",
+      "body": "<p><span class=\"legendSpanClass\">NEWBURGH, Ind.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- In recognition of America's Safe Schools Week (October 19-23, 2026), South Western Communications (SWC) is highlighting <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=2131766586&amp;u=http%3A%2F%2Fwww.swc.net%2FneXus&amp;a=neXus\" target=\"_blank\" rel=\"nofollow\">neXus</a>, a platform that streamlines school safety by integrating fragmented security systems into a single interface for faster response. As school districts nationwide increase their focus on campus safety and security, SWC's neXus empowers administrators to see real-time alerts, automate critical response workflows, and take immediate action when seconds count.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p title=\"neXus for Education. One Screen, Faster Response. \"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7Ptb_2WYZq0\" frameborder=\"0\"></iframe></p></div><p>neXus' interactive 3D map brings together people, places, devices, alerts, and predefined response actions onto a single pane of glass. It integrates with technologies schools already own including access control, video surveillance, API-powered weapon detection, duress alerts, vape detection, intercoms, emergency notifications, and more.</p><p>See neXus in action in our <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=2831226089&amp;u=https%3A%2F%2Fyoutu.be%2F7Ptb_2WYZq0&amp;a=90-second+animated+demonstration\" target=\"_blank\" rel=\"nofollow\">90-second animated demonstration</a>.</p><p>\"As schools across the country assess their safety measures during America's Safe Schools Week, the ability to turn existing technologies into a coordinated response is increasingly important,\" said Todd Lucy, SWC President. \"neXus builds on SWC's 50-year legacy of safety, reliability, and strong local partnerships by giving schools a clearer operational picture when every second matters. It reflects our commitment to innovation, customer support, and helping communities strengthen school safety without walking away from the systems they already trust.\"</p><p>Building on SWC's commitment, the real-world impact of neXus is best illustrated by education leaders who have experienced its benefits firsthand.</p><p>Dr. Scott McWilliams, a recently retired superintendent for a Kansas school district and now the Business Development Manager for neXus, shared his experience: \"Having served as a superintendent for 11 years and as a member of our district's school safety committee, I can say without hesitation that neXus transformed the way we approached school safety. Its ability to integrate seamlessly with our existing technology delivered significant value while helping us maximize limited budget resources.\"</p><p>Dr. McWilliams continued: \"Most importantly, the interactive 3D mapping platform unified our security systems into a single, real-time operational view, providing instant access to the critical information needed to make informed decisions when every second matters.\"</p><p><b>Key Features of neXus</b></p><ul type=\"disc\"><li><b>Integrate Existing Systems</b>: Leverages the systems schools already own, with no rip-and-replace required, through API and cloud-based technology, saving districts time and money.</li><li><b>Visualize the Campus in 3D</b>: Provides interactive, state-of-the-art 3D mapping with real-time device and alert overlays, thus reducing response times.</li><li><b>Automate Response Workflows</b>: Enables schools to customize automatic responses to real-time events, such as lockdowns, emergency notifications, contacting authorities. and other predefined actions.</li><li><b>Support Compliance Requirements</b>: Helps schools support Alyssa's Law and related safety mandates by integrating silent panic alarms, emergency notifications, and law enforcement connectivity.</li></ul><p>Alongside its advanced technology, SWC's collaborative approach ensures districts receive expert guidance and support throughout implementation.</p><p>Dr. McWilliams emphasized the value of working with SWC:</p><p>\"Beyond the technology itself, the experience, expertise, and unwavering support provided by the SWC team were exceptional. Their role as trusted advisors to our school safety team brought invaluable insight and guidance throughout the process, helping us strengthen our preparedness and create a safer environment for students, staff, and the entire school community.\"</p><p>SWC operates locally in Alabama, Georgia, Illinois, Indiana, Kansas, Kentucky, Missouri, and Tennessee. We collaborate with a trusted network of channel partners to deliver neXus to school districts nationwide. This partnership-driven approach ensures that schools across the country can access, implement, and maximize the benefits of neXus, regardless of their location.</p><p>Media interviews with SWC leadership and neXus subject-matter experts are available, along with product visuals and guided demonstrations for reporters covering school safety, education technology, emergency communications, and campus operations. For a deeper dive or to schedule an in-person or virtual demonstration, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=166956629&amp;u=http%3A%2F%2Fwww.swc.net%2FneXus&amp;a=www.swc.net%2FneXus\" target=\"_blank\" rel=\"nofollow\">www.swc.net/neXus</a> or contact <a href=\"mailto:marketing@swc.net\" target=\"_blank\" rel=\"nofollow\">marketing@swc.net</a>.</p><p><b>About SWC</b><br></br>Founded in 1976, South Western Communications (SWC) is an integrator of life safety, security, communications, and critical workflow solutions serving education, healthcare, commercial, government, and detention customers. With nine offices across eight states, SWC helps organizations connect the systems, people, and information that matter most. SWC has been part of the Koch Enterprises, Inc. family since 2006, offering customers the strength and stability of a long-standing, diversified private company. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=590141188&amp;u=https%3A%2F%2Fwww.swc.net&amp;a=www.swc.net\" target=\"_blank\" rel=\"nofollow\">www.swc.net</a>.</p><p> </p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2006143/SOUTH-WESTERN-COMMUNICATION-Logo.jpg?id=OA2998249\" title=\"Official SWC logo.\" alt=\"Official SWC logo.\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG68123&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/swc-spotlights-nexus-during-americas-safe-schools-week-302908371.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/swc-spotlights-nexus-during-americas-safe-schools-week-302908371.html</a></p><p>SOURCE South Western Communications</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG68123&amp;Transmission_Id=202610150519PR_NEWS_USPR_____CG68123&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "South Western Communications",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T11:10:08.382Z"
+    },
     {
       "company": [
         "NextGen Summit"

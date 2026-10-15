@@ -1,9 +1,265 @@
 {
-  "generated_at": "2026-10-15T09:48:30.540Z",
+  "generated_at": "2026-10-15T11:10:06.479Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 546,
+  "count": 549,
   "releases": [
+    {
+      "company": [
+        "South Western Communications"
+      ],
+      "date": "20261015T091900+0000",
+      "dateline": "NEWBURGH, Ind., Oct. 15, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "IDA",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HTS",
+        "EDU",
+        "STW",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "neXus for Education. One Screen, Faster Response. ",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/7Ptb_2WYZq0/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7Ptb_2WYZq0"
+        },
+        {
+          "caption": "Official SWC logo.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2006143/SOUTH-WESTERN-COMMUNICATION-Logo.jpg?id=OA2998249&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2006143/SOUTH-WESTERN-COMMUNICATION-Logo.jpg?id=OA2998249&p=publish"
+        }
+      ],
+      "release_id": "20261015CG68123",
+      "status": "PUBLISHED",
+      "subject": [
+        "PSF",
+        "BFA"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEWBURGH, Ind.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- In recognition of America's Safe Schools Week (October 19-23, 2026), South Western Communications (SWC) is highlighting <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=2131766586&amp;u=http%3A%2F%2Fwww.swc.net%2FneXus&amp;a=neXus\" target=\"_blank\" rel=\"nofollow\">neXus</a>, a platform that streamlines school safety by integrating fragmented security systems into a single interface for faster response. As school districts nationwide increase their focus on campus safety and security, SWC's neXus empowers administrators to see real-time alerts, automate critical response workflows, and take immediate action when seconds count.</p>",
+      "ticker": [],
+      "title": "SWC Spotlights neXus During America's Safe Schools Week",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015CG68123",
+      "body": "<p><span class=\"legendSpanClass\">NEWBURGH, Ind.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- In recognition of America's Safe Schools Week (October 19-23, 2026), South Western Communications (SWC) is highlighting <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=2131766586&amp;u=http%3A%2F%2Fwww.swc.net%2FneXus&amp;a=neXus\" target=\"_blank\" rel=\"nofollow\">neXus</a>, a platform that streamlines school safety by integrating fragmented security systems into a single interface for faster response. As school districts nationwide increase their focus on campus safety and security, SWC's neXus empowers administrators to see real-time alerts, automate critical response workflows, and take immediate action when seconds count.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p title=\"neXus for Education. One Screen, Faster Response. \"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7Ptb_2WYZq0\" frameborder=\"0\"></iframe></p></div><p>neXus' interactive 3D map brings together people, places, devices, alerts, and predefined response actions onto a single pane of glass. It integrates with technologies schools already own including access control, video surveillance, API-powered weapon detection, duress alerts, vape detection, intercoms, emergency notifications, and more.</p><p>See neXus in action in our <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=2831226089&amp;u=https%3A%2F%2Fyoutu.be%2F7Ptb_2WYZq0&amp;a=90-second+animated+demonstration\" target=\"_blank\" rel=\"nofollow\">90-second animated demonstration</a>.</p><p>\"As schools across the country assess their safety measures during America's Safe Schools Week, the ability to turn existing technologies into a coordinated response is increasingly important,\" said Todd Lucy, SWC President. \"neXus builds on SWC's 50-year legacy of safety, reliability, and strong local partnerships by giving schools a clearer operational picture when every second matters. It reflects our commitment to innovation, customer support, and helping communities strengthen school safety without walking away from the systems they already trust.\"</p><p>Building on SWC's commitment, the real-world impact of neXus is best illustrated by education leaders who have experienced its benefits firsthand.</p><p>Dr. Scott McWilliams, a recently retired superintendent for a Kansas school district and now the Business Development Manager for neXus, shared his experience: \"Having served as a superintendent for 11 years and as a member of our district's school safety committee, I can say without hesitation that neXus transformed the way we approached school safety. Its ability to integrate seamlessly with our existing technology delivered significant value while helping us maximize limited budget resources.\"</p><p>Dr. McWilliams continued: \"Most importantly, the interactive 3D mapping platform unified our security systems into a single, real-time operational view, providing instant access to the critical information needed to make informed decisions when every second matters.\"</p><p><b>Key Features of neXus</b></p><ul type=\"disc\"><li><b>Integrate Existing Systems</b>: Leverages the systems schools already own, with no rip-and-replace required, through API and cloud-based technology, saving districts time and money.</li><li><b>Visualize the Campus in 3D</b>: Provides interactive, state-of-the-art 3D mapping with real-time device and alert overlays, thus reducing response times.</li><li><b>Automate Response Workflows</b>: Enables schools to customize automatic responses to real-time events, such as lockdowns, emergency notifications, contacting authorities. and other predefined actions.</li><li><b>Support Compliance Requirements</b>: Helps schools support Alyssa's Law and related safety mandates by integrating silent panic alarms, emergency notifications, and law enforcement connectivity.</li></ul><p>Alongside its advanced technology, SWC's collaborative approach ensures districts receive expert guidance and support throughout implementation.</p><p>Dr. McWilliams emphasized the value of working with SWC:</p><p>\"Beyond the technology itself, the experience, expertise, and unwavering support provided by the SWC team were exceptional. Their role as trusted advisors to our school safety team brought invaluable insight and guidance throughout the process, helping us strengthen our preparedness and create a safer environment for students, staff, and the entire school community.\"</p><p>SWC operates locally in Alabama, Georgia, Illinois, Indiana, Kansas, Kentucky, Missouri, and Tennessee. We collaborate with a trusted network of channel partners to deliver neXus to school districts nationwide. This partnership-driven approach ensures that schools across the country can access, implement, and maximize the benefits of neXus, regardless of their location.</p><p>Media interviews with SWC leadership and neXus subject-matter experts are available, along with product visuals and guided demonstrations for reporters covering school safety, education technology, emergency communications, and campus operations. For a deeper dive or to schedule an in-person or virtual demonstration, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=166956629&amp;u=http%3A%2F%2Fwww.swc.net%2FneXus&amp;a=www.swc.net%2FneXus\" target=\"_blank\" rel=\"nofollow\">www.swc.net/neXus</a> or contact <a href=\"mailto:marketing@swc.net\" target=\"_blank\" rel=\"nofollow\">marketing@swc.net</a>.</p><p><b>About SWC</b><br></br>Founded in 1976, South Western Communications (SWC) is an integrator of life safety, security, communications, and critical workflow solutions serving education, healthcare, commercial, government, and detention customers. With nine offices across eight states, SWC helps organizations connect the systems, people, and information that matter most. SWC has been part of the Koch Enterprises, Inc. family since 2006, offering customers the strength and stability of a long-standing, diversified private company. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793839-1&amp;h=590141188&amp;u=https%3A%2F%2Fwww.swc.net&amp;a=www.swc.net\" target=\"_blank\" rel=\"nofollow\">www.swc.net</a>.</p><p> </p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2006143/SOUTH-WESTERN-COMMUNICATION-Logo.jpg?id=OA2998249\" title=\"Official SWC logo.\" alt=\"Official SWC logo.\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG68123&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/swc-spotlights-nexus-during-americas-safe-schools-week-302908371.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/swc-spotlights-nexus-during-americas-safe-schools-week-302908371.html</a></p><p>SOURCE South Western Communications</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG68123&amp;Transmission_Id=202610150519PR_NEWS_USPR_____CG68123&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "South Western Communications",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T11:10:08.382Z"
+    },
+    {
+      "company": [
+        "YunoJuno"
+      ],
+      "date": "20261015T080000+0000",
+      "dateline": "NEW YORK and LONDON, Oct. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "UNK",
+        "WEU",
+        "EUR",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "OUT",
+        "STW",
+        "ECM",
+        "WRK",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "YunoJuno",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1701689/YunoJuno-Primary-Logo.jpg?id=OA3018551&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1701689/YunoJuno-Primary-Logo.jpg?id=OA3018551&p=publish"
+        }
+      ],
+      "release_id": "20261015LN72073",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD"
+      ],
+      "summary": "<p>Leader in Freelancer Management Systems recognized for compliant, global contractor enga<i>gement at scale at The Contracting Awards 2026.</i></p><p><span class=\"legendSpanClass\">NEW YORK and LONDON</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://www.yunojuno.com/\" target=\"_blank\" rel=\"nofollow\">YunoJuno</a>, the Freelancer Management System (FMS) for global enterprises that powers the entire contingent worker lifecycle, has been named International Contractor Services Provider of the Year at the annual Contracting Awards. The win marks YunoJuno's third consecutive year leading the category, following awards in 2024 and again in 2025 as part of a double win for Best Contractor Innovation.</p>",
+      "ticker": [],
+      "title": "YunoJuno Named International Contractor Services Provider of the Year",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015LN72073",
+      "body": "<p>Leader in Freelancer Management Systems recognized for compliant, global contractor enga<i>gement at scale at The Contracting Awards 2026.</i></p><p><span class=\"legendSpanClass\">NEW YORK and LONDON</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://www.yunojuno.com/\" target=\"_blank\" rel=\"nofollow\">YunoJuno</a>, the Freelancer Management System (FMS) for global enterprises that powers the entire contingent worker lifecycle, has been named International Contractor Services Provider of the Year at the annual Contracting Awards. The win marks YunoJuno's third consecutive year leading the category, following awards in 2024 and again in 2025 as part of a double win for Best Contractor Innovation.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1701689/YunoJuno-Primary-Logo.jpg?id=OA3018551\" title=\"YunoJuno\" alt=\"YunoJuno\"></img></p></div><p>The award comes as more businesses build international teams of contractors to access specialist flexible skills and move faster than local hiring allows. As these teams operate across numerous jurisdictions, enterprises look for a partner that can carry the compliance responsibility. YunoJuno compliantly engages independent contractors and indemnifies the end client against classification risk, giving enterprises the confidence to scale their global contractor workforce.</p><p>\"Winning this category three years running reflects a sustained and rapid investment in making international contracting simple for the businesses that depend on it,\" said Runar Reistrup, CEO of YunoJuno. \"Every step in our roadmap this year has been built around removing the operational and legal complexity that enterprises normally face with a global contractor workforce, while managing and eliminating the risks involved.\"</p><p>International Contractor Services Provider of the Year recognizes excellence in supporting contractor engagement across countries, judged on compliance, scale, payment infrastructure and the overall experience delivered to both enterprise clients and the contractors they engage.</p><p>The judging panel specifically recognized YunoJuno's:</p><ul type=\"disc\"><li><b>Global Reach and Scale: </b>A network of more than 150,000 pre-vetted contractors across 165+ countries, connecting talent with over 12,000 businesses including numerous Fortune 500 enterprises.</li><li><b>Expanded W2 Capabilities: </b>A fully managed US Employer of Record (EOR) solution bringing the US engagement lifecycle in-platform, removing the need for enterprises to navigate employment law, payroll and tax documentation across separate external systems.</li><li><b>Built-in Global Compliance:</b> Automated worker classification workflows and indemnification coverage to help enterprises mitigate contractor misclassification risks.</li><li><b>Multi-Currency Payments</b>: Auto-generated invoices and real-time status tracking, simplifying payment management for businesses and contractors.</li></ul><p>\"Managing compliance risk when engaging independent contractors internationally is one of the biggest challenges facing enterprise workforce leaders,\" said Joao Martires, Chief Operating Officer at YunoJuno. \"Our focus has been on building the compliance processes and infrastructure that give enterprises complete visibility and control when engaging contractors globally. This award recognizes the unseen work our teams have put into making that possible.\"</p><p>The latest win follows a significant period of growth for YunoJuno, which achieved its first full year of profitability alongside 45% revenue growth in 2025, driven by international expansion and increasing enterprise demand.</p><p>YunoJuno was also recognized as the highest Leader and a Star Performer in <a href=\"https://www.yunojuno.com/guides-and-webinars/yunojuno-named-as-highest-leader-and-star-performer-by-everest-group\" target=\"_blank\" rel=\"nofollow\">Everest Group's 2026 PEAK Matrix® Assessment</a> for Freelancer Engagement and Management Systems (FEMS). In Everest Group's Contractor of Record (CoR) and Contingent Employer of Record (CEoR) Solutions PEAK Matrix® Assessment 2026, YunoJuno was recently named a Leader, further reinforcing its position in the global contractor management market.</p><p><b>About YunoJuno</b></p><p>YunoJuno is the leading global end-to-end <a href=\"https://www.yunojuno.com/freelancer-management\" target=\"_blank\" rel=\"nofollow\">Freelancer Engagement and Management System (FEMS)</a> that helps enterprises source, onboard, manage, and pay contractor talent with complete compliance and transparency. YunoJuno's AI-powered technology streamlines the entire contractor engagement process while mitigating compliance risks, currently serving 12,000 businesses and hundreds of thousands of independent contractors and freelancers globally.</p><p>For more information, visit <a href=\"https://www.yunojuno.com/\" target=\"_blank\" rel=\"nofollow\">www.yunojuno.com</a> </p><p> </p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LN72073&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/yunojuno-named-international-contractor-services-provider-of-the-year-302908530.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/yunojuno-named-international-contractor-services-provider-of-the-year-302908530.html</a></p><p>SOURCE YunoJuno</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LN72073&amp;Transmission_Id=202610150400PR_NEWS_USPR_____LN72073&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "YunoJuno",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T11:10:08.556Z"
+    },
+    {
+      "company": [
+        "TickTalk"
+      ],
+      "date": "20261015T070300+0000",
+      "dateline": "BREA, Calif., Oct. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "TLS",
+        "MEN",
+        "RAD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "TikTalk Introduces TickTalk Radio",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004973/TickTalk-6-kids-smartwatch-with-TickTalk-Radio-music-and-wellness-audio-plus-parental-controls-2.jpg?id=OA3019547&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004973/TickTalk-6-kids-smartwatch-with-TickTalk-Radio-music-and-wellness-audio-plus-parental-controls-2.jpg?id=OA3019547&p=publish"
+        },
+        {
+          "caption": "Developed in partnership with Feed.fm, the parent-approved stations are structured across three distinct developmental tiers.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004972/TickTalk-6-kids-smartwatch-with-TickTalk-Radio-music-and-wellness-audio-plus-parental-controls-1.jpg?id=OA3019561&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004972/TickTalk-6-kids-smartwatch-with-TickTalk-Radio-music-and-wellness-audio-plus-parental-controls-1.jpg?id=OA3019561&p=publish"
+        },
+        {
+          "caption": "TickTalk, a leading kids’ smartwatch and family communication platform, celebrates its 10 years of innovation with the launch of TickTalk 6, its next-generation connected smartwatch designed for children ages 3 to 12.",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004970/TickTalk-Logo.jpg?id=OA3019525&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2004970/TickTalk-Logo.jpg?id=OA3019525&p=publish"
+        }
+      ],
+      "release_id": "20261015LA72521",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "LIC",
+        "CHI"
+      ],
+      "summary": "<p class=\"prntac\"><i>Built in partnership with Feed.fm, </i><i>TickTalk Radio™ combines fully licensed popular music, science-backed wellness and thematic age-filtering with total parental oversight.</i></p><p><span class=\"legendSpanClass\">BREA, Calif.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=3435304607&amp;u=http%3A%2F%2Fmyticktalk.com%2F&amp;a=TickTalk\" target=\"_blank\" rel=\"nofollow\"><b>TickTalk</b></a>, a leading innovator in kids' smartwatches and family communication platforms built around its mission of <b><i>Communication First. Safety Always.</i></b>, announces the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=3487007680&amp;u=https%3A%2F%2Fwww.myticktalk.com%2Fproducts%2Fticktalk-6&amp;a=TickTalk+6\" target=\"_blank\" rel=\"nofollow\"><b>TickTalk 6</b></a>, its next-generation connected smartwatch for children ages 3 to 12. Designed to keep parents and children seamlessly connected through every drop-off, pickup and after-school moment, TickTalk 6 introduces <b>TickTalk Radio™</b>, a first-of-its-kind, fully parent-controlled music and wellness platform built specifically for kids.</p>",
+      "ticker": [],
+      "title": "TickTalk Introduces TickTalk Radio™: A First-of-Its-Kind, Parent-Controlled Music and Wellness Platform Built for Kids",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015LA72521",
+      "body": "<p class=\"prntac\"><i>Built in partnership with Feed.fm, </i><i>TickTalk Radio™ combines fully licensed popular music, science-backed wellness and thematic age-filtering with total parental oversight.</i></p><p><span class=\"legendSpanClass\">BREA, Calif.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=3435304607&amp;u=http%3A%2F%2Fmyticktalk.com%2F&amp;a=TickTalk\" target=\"_blank\" rel=\"nofollow\"><b>TickTalk</b></a>, a leading innovator in kids' smartwatches and family communication platforms built around its mission of <b><i>Communication First. Safety Always.</i></b>, announces the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=3487007680&amp;u=https%3A%2F%2Fwww.myticktalk.com%2Fproducts%2Fticktalk-6&amp;a=TickTalk+6\" target=\"_blank\" rel=\"nofollow\"><b>TickTalk 6</b></a>, its next-generation connected smartwatch for children ages 3 to 12. Designed to keep parents and children seamlessly connected through every drop-off, pickup and after-school moment, TickTalk 6 introduces <b>TickTalk Radio™</b>, a first-of-its-kind, fully parent-controlled music and wellness platform built specifically for kids.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004973/TickTalk-6-kids-smartwatch-with-TickTalk-Radio-music-and-wellness-audio-plus-parental-controls-2.jpg?id=OA3019547\" title=\"TikTalk Introduces TickTalk Radio\" alt=\"TikTalk Introduces TickTalk Radio\"></img></p></div><p>While platforms like Spotify Kids, YouTube Kids, and the iHeartRadio Family app offer kid-focused audio experiences, TickTalk Radio takes a different approach, putting parents in greater control of what their children can access. TickTalk Radio is designed around curated, parent-approved station access, giving families more control over the listening experience. The result is age-appropriate entertainment that gives kids the freedom to enjoy music and audio content while keeping parents firmly in control of the experience.</p><p class=\"prnml40\"><i>\"Caught in the parenting paradox, we built TickTalk Radio™ to solve a common parenting struggle: how to give kids access to music without opening the door to unrestricted streaming platforms,\" said Ying Gong, CEO of TickTalk Tech. \"This gives children a fun, safe, and age-curated audio experience tailored to their growing independence, while giving parents total peace of mind through complete content controls, zero ads, and no open internet browsing.\"</i></p><p><b>Reimagining Kids' Audio: Curated by Age. Filtered by You. Made for Kids.<br></br></b>Unlike unrestricted, general-audience streaming services adapted for younger listeners, TickTalk Radio™ was built from the ground up for kids' devices in partnership with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=594095040&amp;u=http%3A%2F%2Ffeed.fm%2F&amp;a=Feed.fm\" target=\"_blank\" rel=\"nofollow\"><b>Feed.fm</b></a>. Feed.fm provides the B2B music infrastructure that powers the end-to-end TickTalk Radio experience by combining pre-cleared, fully licensed major-label and science-backed wellness tracks, expert human curation, age-appropriate filtering, and turnkey streaming technology.</p><p class=\"prnml40\"><i>\"Kids deserve the joy and discovery that comes with music, without requiring parents to open the door to a full consumer streaming experience,\" said Lauren Pufpaf, President and COO of Feed.fm. \"TickTalk Radio shows what's possible when music is thoughtfully designed for a specific audience, combining licensed music, age-aware curation and parental controls in an experience built specifically for kids.\"</i></p><p><b>Key Features of TickTalk Radio™:</b></p><ul type=\"disc\"><li><b>Built Specifically for Kids &amp; Families:</b> Purpose-built for young listeners rather than retrofitting general consumer streaming apps.</li><li><b>Tiered Age Curation &amp; Higher Safety Standards: </b>Developed in partnership with Feed.fm, the parent-approved stations are structured across three distinct developmental tiers: Junior (ages 3–5), Explorer (ages 6–9), and Tween (ages 9–12). Content moderation goes beyond standard clean/explicit labels by filtering for both language appropriateness and thematic maturity. Fresh content added regularly.</li><li><b>True Parental Control:</b> Through the redesigned TickTalk Parent App, parents can manage or oversee preferences, preview any station, enable or disable individual channels, set daily listening duration limits, and adjust access as their child grows.</li><li><b>Entertainment + Daily Utility: </b>Features popular, fully licensed major-label music alongside science-backed wellness tracks designed to help children cultivate healthy daily routines around calm, focus, sleep, and mindfulness.</li><li><b>Focus Mode Guardrails:</b> Parents can activate Focus Mode during homework hours or bedtime, limiting audio access strictly to Wellness Stations so music supports routine without becoming a distraction.</li><li><b>Bounded &amp; Ad-Free Experience: </b>Operating in a completely closed system with zero ads, zero algorithmic social feeds, and no open search functionality, ensuring a safe and contained experience.</li><li><b>Music Distribution Innovation: </b>Represents a groundbreaking distribution opportunity for the music industry, bringing fully licensed, major-label music to kids' connected wearables in a purpose-built environment, without exposing them to open streaming services.</li><li><b>Global Connectivity &amp; Cloud Migration:</b> Built-in eSIM activation and optional global travel connectivity ensure uninterrupted access to wellness streaming content anywhere families go.</li><li><b>Complete Family Ecosystem:</b> TickTalk Radio™ operates seamlessly alongside the expanded hardware and software suite of the all-new TickTalk 6, integrating FaceTalk™ video calling, Real SMS, TickTalkie™ walkie-talkie communication, AI SmartPin™ location tracking, global eSIM connectivity, and free T-Cloud™ data migration for a secure, unified experience.</li></ul><p><b>What Parents Are Saying:</b></p><p class=\"prnml40\"><i>\"It's so helpful (and reassuring) as a parent to still have total control 'behind the scenes' while letting her explore her independence at a pace I feel comfortable with.\"</i> — Shanna Wandmacher, Parent Tester</p><p class=\"prnml40\"><i>\"The music selection is fun, diverse, and all three of my boys found stations they loved. The parental controls also give parents peace of mind and confidence that their children are listening to safe, age-appropriate content.\"</i> — Samantha Archer, Parent Tester</p><p><b>Pricing and Availability</b></p><ul type=\"disc\"><li><b>At $169.99, TickTalk 6 </b>is in stock at myticktalk.com and Walmart, now rolling out on Amazon, with Best Buy coming soon.<br></br><br></br></li><li><b>TickTalk Radio™ Subscription:</b> Included as part of the TickTalk Wireless Premium plan, or available as an add-on service for $4.99/month (<i>music availability subject to licensing and territory)</i>.<br></br><br></br></li><li><b>Exclusive Press Access &amp; Media Preview Streaming</b>: Members of the press can request access to stream TickTalk Radio™ via dedicated, password-protected web landing pages featuring embedded music players. This enables journalists and reviewers to experience the distinct Junior, Explorer, and Tween age tiers alongside dedicated wellness programming, thus getting the music experience without the need to test the device. </li></ul><p><b>About TickTalk</b></p><p>TickTalk is a leading kids' smartwatch and family communication platform designed to help children gain independence while helping families stay connected without giving kids a smartphone. </p><p>Built around its mission, Communication First. Safety Always., TickTalk brings together safe calling and messaging, FaceTalk™ video calling, location and safety tools, parental controls, wireless connectivity, age-appropriate content, cloud services, protection, and family support through one connected ecosystem.</p><p>TickTalk products are designed specifically for children ages 3 to 12, with no social media, no open internet, and no unnecessary digital distractions. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=2319131947&amp;u=http%3A%2F%2Fwww.myticktalk.com%2F&amp;a=myticktalk.com\" target=\"_blank\" rel=\"nofollow\">myticktalk.com</a> or follow <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=1815245902&amp;u=https%3A%2F%2Fwww.instagram.com%2Fmyticktalk%2F&amp;a=%40myticktalk\" target=\"_blank\" rel=\"nofollow\">@myticktalk</a> on Instagram.</p><p><b>About Feed.fm</b></p><p>Feed.fm is a music technology platform that makes it easy for apps and connected devices to offer licensed, curated music. We handle the complexity behind the scenes, including music rights, curation, content delivery, and compliance. Our proprietary five-tier music rating system (Safe, Mild, Teen, Adult, Extreme) evaluates tracks for thematic maturity as well as language. That goes beyond standard clean and explicit labels, so brands can build age-appropriate, family-friendly listening experiences. Feed.fm's Branded Music Service powers white-label, in-app music for companies across kids and family, health, wellness, fitness, and other digital experiences. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798161-1&amp;h=3373796348&amp;u=https%3A%2F%2Fwww.feed.fm&amp;a=www.feed.fm\" target=\"_blank\" rel=\"nofollow\">www.feed.fm</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004972/TickTalk-6-kids-smartwatch-with-TickTalk-Radio-music-and-wellness-audio-plus-parental-controls-1.jpg?id=OA3019561\" title=\"Developed in partnership with Feed.fm, the parent-approved stations are structured across three distinct developmental tiers.\" alt=\"Developed in partnership with Feed.fm, the parent-approved stations are structured across three distinct developmental tiers.\"></img></p><p><img src=\"https://mmx.prnewswire.com/media/MS2004970/TickTalk-Logo.jpg?id=OA3019525\" title=\"TickTalk, a leading kids’ smartwatch and family communication platform, celebrates its 10 years of innovation with the launch of TickTalk 6, its next-generation connected smartwatch designed for children ages 3 to 12.\" alt=\"TickTalk, a leading kids’ smartwatch and family communication platform, celebrates its 10 years of innovation with the launch of TickTalk 6, its next-generation connected smartwatch designed for children ages 3 to 12.\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA72521&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ticktalk-introduces-ticktalk-radio-a-first-of-its-kind-parent-controlled-music-and-wellness-platform-built-for-kids-302909096.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ticktalk-introduces-ticktalk-radio-a-first-of-its-kind-parent-controlled-music-and-wellness-platform-built-for-kids-302909096.html</a></p><p>SOURCE TickTalk</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA72521&amp;Transmission_Id=202610150303PR_NEWS_USPR_____LA72521&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "TickTalk",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 4,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:MUS"
+          ],
+          "radio": [
+            "radio",
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T11:10:08.763Z"
+    },
     {
       "company": [
         "Remarkable Media"
