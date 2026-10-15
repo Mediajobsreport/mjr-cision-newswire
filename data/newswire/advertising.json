@@ -1,11 +1,283 @@
 {
-  "generated_at": "2026-10-15T14:54:55.954Z",
+  "generated_at": "2026-10-15T15:36:42.538Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 60,
+  "count": 63,
   "releases": [
+    {
+      "company": [
+        "Deloitte Global"
+      ],
+      "date": "20261015T150000+0000",
+      "dateline": "NEW YORK, Oct. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "IOT",
+        "ITE",
+        "STW",
+        "DTA",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326&p=publish"
+        }
+      ],
+      "release_id": "20261015NY72409",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "SVY"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Gartner<sup>®</sup>, a company that delivers actionable, objective insights to executives and their teams, has recognized Deloitte as a Leader in the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3600240678&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-magic-quadrant-for-digital-marketing-agencies.html&amp;a=2026+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Global+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner<sup>®</sup> Magic Quadrant™ for Global Digital Marketing Agencies</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326\" title=\"\" alt=\"\"></img></p></div><p>Deloitte also was recognized in all seven Use Cases in the accompanying <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3414966788&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-critical-capabilities-for-digital-marketing-agencies.html&amp;a=2026+Gartner+Critical+Capabilities+for+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner Critical Capabilities for Digital Marketing Agencies</a> report.</p><p>\"To us, this recognition from Gartner builds on our placement as a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=760179223&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Fpress-room%2Fdeloitte-recognized-as-a-digital-experience-services-leader-in-the-gartner-magic-quadrant-for-the-second-consecutive-year.html&amp;a=Leader+in+the+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Digital+Experience+Services\" target=\"_blank\" rel=\"nofollow\">Leader in the Gartner<sup>®</sup> Magic Quadrant™ for Digital Experience Services</a> and we believe that it reflects the strength of our 'Growth Agency' model that combines brand strategy, agency and marketing services, and customer experience engineering, each enabled with advanced agentic capabilities,\" says <b>Mark Lush, Deloitte Global Consulting Services Customer Offering Portfolio leader and Global Head of Deloitte Digital.</b> </p>",
+      "ticker": [],
+      "title": "Deloitte recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Global Digital Marketing Agencies",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015NY72409",
+      "body": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Gartner<sup>®</sup>, a company that delivers actionable, objective insights to executives and their teams, has recognized Deloitte as a Leader in the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3600240678&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-magic-quadrant-for-digital-marketing-agencies.html&amp;a=2026+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Global+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner<sup>®</sup> Magic Quadrant™ for Global Digital Marketing Agencies</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326\" title=\"\" alt=\"\"></img></p></div><p>Deloitte also was recognized in all seven Use Cases in the accompanying <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3414966788&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-critical-capabilities-for-digital-marketing-agencies.html&amp;a=2026+Gartner+Critical+Capabilities+for+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner Critical Capabilities for Digital Marketing Agencies</a> report.</p><p>\"To us, this recognition from Gartner builds on our placement as a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=760179223&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Fpress-room%2Fdeloitte-recognized-as-a-digital-experience-services-leader-in-the-gartner-magic-quadrant-for-the-second-consecutive-year.html&amp;a=Leader+in+the+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Digital+Experience+Services\" target=\"_blank\" rel=\"nofollow\">Leader in the Gartner<sup>®</sup> Magic Quadrant™ for Digital Experience Services</a> and we believe that it reflects the strength of our 'Growth Agency' model that combines brand strategy, agency and marketing services, and customer experience engineering, each enabled with advanced agentic capabilities,\" says <b>Mark Lush, Deloitte Global Consulting Services Customer Offering Portfolio leader and Global Head of Deloitte Digital.</b> </p><p>\"We're experienced in bringing creativity and technology together. That combination helps us transform brand ideas to a living platform: campaigns, content supply chain, digital commerce, and omnichannel execution to help realize competitive advantage and profitable growth,\" says<b> Emanuele Viora, Deloitte Digital Global Agency leader.  </b></p><p>Deloitte was recognized across seven Use Case categories, particularly in AI-Driven Marketing Innovation, Digital Commerce &amp; CX Overhaul, Website &amp; Digital Product Design, and Data-Driven Performance Marketing. Foundational to these Use Cases are Deloitte's proprietary Converge Marketing OS assets and tools, including CreativEdge, ConvergeCONSUMER™, MSuite™, Navigate™, and AI Advantage for Marketing.</p><p>\"Today's digital marketers are operating in a fundamentally different environment than even two years ago. The challenge today is bigger than creating campaigns. It is about orchestrating technology, AI, data, creative, and the operating model itself into new ways of working. We embed our industry + agency + operating knowledge to help drive meaningful competitive value for Deloitte's clients,\" says <b>Mark Singer, US Deloitte Digital Marketing Services leader and CMO. </b></p><p><b>Gartner Disclaimer</b></p><p><i>Source: Gartner Magic Quadrant for Global Digital Marketing Agencies, By </i><i>Jay Wilson, Philip Black, Jen Kady, Published 25 August 2026 - ID G00841300 </i></p><p><i>Source: Gartner Critical Capabilities for Global Digital Marketing Agencies, By </i><i>Philip Black, Jay Wilson, Jen Kady, Published 26 August 2026 - ID G00850979</i></p><p>Gartner does not endorse any company, vendor, product or service depicted in its publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner publications consist of the opinions of Gartner's business and technology insights organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this publication, including any warranties of merchantability or fitness for a particular purpose.</p><p>GARTNER is a registered trademark and service mark of Gartner and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.</p><p>For more about Deloitte Analyst Relations, please visit our <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3781865752&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations.html&amp;a=Analyst+Recognitions\" target=\"_blank\" rel=\"nofollow\">Analyst Recognitions</a> page.</p><p><b>About Deloitte</b><br></br>Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (DTTL), its global network of member firms, and their related entities (collectively, the \"Deloitte organization\"). DTTL (also referred to as \"Deloitte Global\") and each of its member firms and related entities are legally separate and independent entities, which cannot obligate or bind each other in respect of third parties. DTTL and each DTTL member firm and related entity is liable only for its own acts and omissions, and not those of each other. DTTL does not provide services to clients. Please see <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=2792152897&amp;u=http%3A%2F%2Fwww.deloitte.com%2Fabout&amp;a=www.deloitte.com%2Fabout\" target=\"_blank\" rel=\"nofollow\">www.deloitte.com/about</a> to learn more.</p><p>Deloitte provides leading professional services to nearly 90% of the Fortune Global 500<sup>®</sup> and thousands of private companies. Our people deliver measurable and lasting results that help reinforce public trust in capital markets and enable clients to transform and thrive. Building on its 180+-year history, Deloitte spans more than 150 countries and territories. Learn how Deloitte's over 470,000 people worldwide work together every day to make an impact that matters at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=2305874033&amp;u=http%3A%2F%2Fwww.deloitte.com%2F&amp;a=www.deloitte.com\" target=\"_blank\" rel=\"nofollow\">www.deloitte.com</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY72409&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/deloitte-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-global-digital-marketing-agencies-302909364.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/deloitte-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-global-digital-marketing-agencies-302909364.html</a></p><p>SOURCE Deloitte Global</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY72409&amp;Transmission_Id=202610151100PR_NEWS_USPR_____NY72409&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Deloitte Global",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "management": [
+            "summary:executive"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:47.296Z"
+    },
+    {
+      "company": [
+        "FullThrottle Technologies"
+      ],
+      "date": "20261015T135600+0000",
+      "dateline": "PHILADELPHIA, Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "PSY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "SMD",
+        "TVN",
+        "MLM",
+        "RAD",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "fullthrottle.ai® is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch® attribution, paired with an intuitive platform interface.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1807861/fullthrottleaiR-PrimaryLogo-4C-Logo-Logo.jpg?id=OA3020557&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1807861/fullthrottleaiR-PrimaryLogo-4C-Logo-Logo.jpg?id=OA3020557&p=publish"
+        }
+      ],
+      "release_id": "20261015PH73054",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><b><i>New campaign-level reporting helps advertisers see the shows, content, and entertainment their audiences spend time with, and where that consumption happens across media, publishers, and markets. </i></b></p><p><span class=\"legendSpanClass\">PHILADELPHIA</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- fullthrottle.ai<sup>®</sup>, a pioneer in first-party data media solutions and AdTech operating systems, today announced the launch of Audience Insights, a new reporting capability designed to give advertisers a clearer understanding of the content, shows, and entertainment their campaign audiences actually consume, and how those audiences spend time with their brand.</p>",
+      "ticker": [],
+      "title": "fullthrottle.ai® Launches Audience Insights, Giving Advertisers a Deeper View of the Content, Shows, and Entertainment Their Audiences Consume Across Media, Publishers, and Markets",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015PH73054",
+      "body": "<p><b><i>New campaign-level reporting helps advertisers see the shows, content, and entertainment their audiences spend time with, and where that consumption happens across media, publishers, and markets. </i></b></p><p><span class=\"legendSpanClass\">PHILADELPHIA</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- fullthrottle.ai<sup>®</sup>, a pioneer in first-party data media solutions and AdTech operating systems, today announced the launch of Audience Insights, a new reporting capability designed to give advertisers a clearer understanding of the content, shows, and entertainment their campaign audiences actually consume, and how those audiences spend time with their brand.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1807861/fullthrottleaiR-PrimaryLogo-4C-Logo-Logo.jpg?id=OA3020557\" title=\"fullthrottle.ai® is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch® attribution, paired with an intuitive platform interface.\" alt=\"fullthrottle.ai® is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch® attribution, paired with an intuitive platform interface.\"></img></p></div><div id=\"divReleaseHighlight2612\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">fullthrottle.ai® launches Audience Insights: see the shows, publishers, and markets your campaign audiences engage with.</div><p>Audience Insights brings key campaign intelligence into a simplified view, helping advertisers move beyond standard campaign delivery metrics to better understand the audiences they are reaching. Through Audience Insights, advertisers can uncover content and media consumption patterns across their campaigns, including the shows, programming, and entertainment their audiences engage with, the publishers and channels delivering that content, and the markets and ZIP codes where those audiences live.</p><p>That visibility is possible because of fullthrottle.ai's direct relationships with premium publishers, including Nexstar, iHeartMedia, TuneIn, Roku, Spectrum, SiriusXM (Pandora), Comcast Advertising, and TelevisaUnivision, combined with Immersive Household<sup>®</sup> delivery that connects a single household's behavior across CTV, audio, display, video, and direct mail. Advertisers buying those publishers directly, at a fixed CPM, typically do not get that same connected view of how their audience engages with their brand. Audience Insights also reflects activations available within the fullthrottle.ai<sup>® </sup>platform across additional premium publishers, including Warner Bros. Discovery, FOX, Spotify, Hearst, and AMP Media.</p><p>Most comparable reports in the category answer a narrower question: where the ads ran. That is a defensive screen, built to confirm delivery after the fact. Because Audience Insights is built on first-party data and SafeMatch<sup>®</sup> attribution, it answers a different question: where real shoppers and actual transacting customers are consuming media. Advertisers can see the placements, the channels, and the show-level content and domain-level destinations where their buyers spend time. fullthrottle.ai<sup>®</sup> believes the best defense is a good offense. These insights extend beyond a single campaign, giving advertisers a real psychographic view of real buyers that can inform media planning and buying across traditional and digital channels alike.</p><p>For multi-market advertisers, campaign-level reporting can also reveal differences between individual markets. Campaigns targeting different geographies can surface distinct publisher and media consumption patterns, giving advertisers a more localized view of audience behavior.</p><p>When advertisers set up individual markets as separate campaigns, each campaign has its own Audience Insights reporting. This allows advertisers to see market-specific differences, including local publishers and media consumption patterns, without combining the reporting across markets.</p><p>\"Audience Insights is really about helping advertisers understand how an audience spends time with their brand,\" said Lou DiGiacomo, VP of Product at fullthrottle.ai<sup>®</sup>. \"We've taken a number of different insights available within the platform and distilled them into a simple view that makes it easier for advertisers to understand what is happening across their campaigns.\"</p><p>Audience Insights also gives teams a practical way to bring these findings into ongoing campaign conversations. Reports can be exported as PDFs, while individual charts can be incorporated into presentations and reporting.</p><p>The addition of Audience Insights expands fullthrottle.ai's ability to help advertisers not only activate audiences across channels but also gain greater visibility into the media and market behaviors surrounding those audiences.</p><p>Audience Insights is available within the fullthrottle.ai<sup>® </sup>platform.</p><p><b>For press and media inquiries, please contact:</b><br></br>Jai Journay<br></br>VP of Marketing<br></br>fullthrottle.ai<sup>®<br></br></sup>Email: <a href=\"mailto:jai.journay@fullthrottle.ai\" rel=\"nofollow\">jai.journay@fullthrottle.ai</a></p><p><b>About fullthrottle.ai</b><sup>®</sup></p><p>fullthrottle.ai<sup>®</sup> is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch<sup>®</sup> attribution, paired with an intuitive interface. fullthrottle.ai<sup>®</sup> empowers agencies, media companies, brands, and publishers by transforming website visitors into addressable households and activating first-party audiences across channels like CTV, video, audio, display, and direct mail. Trusted by more than 6,000 businesses nationwide, fullthrottle.ai<sup>®</sup> helps marketers simplify AdTech and turn data into tangible growth. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798623-1&amp;h=1665990354&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4702959-1%26h%3D2573682314%26u%3Dhttps%253A%252F%252Fwww.fullthrottle.ai%252F%26a%3Dwww.fullthrottle.ai&amp;a=www.fullthrottle.ai\" target=\"_blank\" rel=\"nofollow\">www.fullthrottle.ai</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH73054&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fullthrottleai-launches-audience-insights-giving-advertisers-a-deeper-view-of-the-content-shows-and-entertainment-their-audiences-consume-across-media-publishers-and-markets-302910008.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fullthrottleai-launches-audience-insights-giving-advertisers-a-deeper-view-of-the-content-shows-and-entertainment-their-audiences-consume-across-media-publishers-and-markets-302910008.html</a></p><p>SOURCE FullThrottle Technologies</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH73054&amp;Transmission_Id=202610150956PR_NEWS_USPR_____PH73054&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "FullThrottle Technologies",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 6,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 2,
+          "television": 2,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:adtech",
+            "advertiser",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "entertainment"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "television": [
+            "industry:TVN"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:48.626Z"
+    },
+    {
+      "company": [
+        "The Advertising Research Foundation"
+      ],
+      "date": "20261015T120500+0000",
+      "dateline": "NEW YORK, Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "FIT",
+        "REA",
+        "FLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "ARF Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283&p=publish"
+        }
+      ],
+      "release_id": "20261015DC67176",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "NPT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- The Advertising Research Foundation (ARF) has named Fairlife and its agency Doner as winners of the 2026 Grand Ogilvy Award for their campaign \"Core Power: Champion Your Recovery.\" The campaign also won Gold in Food &amp; Beverage and Silver for Best Brand Transformation. The Grand Ogilvy recognizes the year's most compelling connection between research, consumer insight, creative work and results.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283\" title=\"ARF Logo\" alt=\"ARF Logo\"></img></p></div><p>The Fairlife and Doner team used post-workout interviews, in-home discussions, semiotic analysis, barrier research, brand tracking and creative testing to understand how people approach exercise and recovery. The research pointed to an opportunity beyond serious fitness enthusiasts: everyday exercisers also value recovery. \"Champion Your Recovery\" turned that insight into a more inclusive invitation to recognize effort at every level.</p>",
+      "ticker": [],
+      "title": "Fairlife's \"Core Power\" Campaign Takes Grand Ogilvy at 2026 ARF David Ogilvy Awards",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015DC67176",
+      "body": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- The Advertising Research Foundation (ARF) has named Fairlife and its agency Doner as winners of the 2026 Grand Ogilvy Award for their campaign \"Core Power: Champion Your Recovery.\" The campaign also won Gold in Food &amp; Beverage and Silver for Best Brand Transformation. The Grand Ogilvy recognizes the year's most compelling connection between research, consumer insight, creative work and results.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283\" title=\"ARF Logo\" alt=\"ARF Logo\"></img></p></div><p>The Fairlife and Doner team used post-workout interviews, in-home discussions, semiotic analysis, barrier research, brand tracking and creative testing to understand how people approach exercise and recovery. The research pointed to an opportunity beyond serious fitness enthusiasts: everyday exercisers also value recovery. \"Champion Your Recovery\" turned that insight into a more inclusive invitation to recognize effort at every level.</p><p>The winners were celebrated October 14 at Tribeca Rooftop in New York City, following the ARF's Creative Effectiveness conference. The conference examined how marketers can balance immediate performance with lasting brand value such as AI, retail media and creator marketing reshape creative strategy. Speakers explored ways to measure effective creative across channels and connect it to business outcomes.</p><p><b>Other Gold winners</b></p><ul type=\"disc\"><li>Abbott Laboratories / FreeStyle Libre — \"This is Progress\" (Pharmaceuticals)</li><li>Auto Glass Now / Driven Brands — \"Get Your Auto Glass Now\" (Automotive)</li><li>Chase Sapphire Reserve — \"Stories Worth Retelling\" (Financial Services &amp; Insurance)</li><li>He Gets Us — \"Loaded Words\" (Cultural Fluency)</li><li>Heineken USA / Dos Equis — \"Ni Perdón, Ni Permiso\" (Cultural Fluency)</li><li>J Sainsbury's PLC / Sainsbury's — \"Are We Made of Money?\" (International, For-Profit)</li><li>Kaiser Permanente — \"A Whole Big Thing\" (Health &amp; Personal Care)</li><li>Microsoft — \"M365 with Copilot Campaign\" (Best Use of Emerging Technology)</li><li>Nestlé / Sanpellegrino — \"With Love, Italy: Disrupting the Rules of Latecomer Marketing\" (Best Brand Transformation)</li><li>Tapestry / Coach — \"Courage to Be Real\" (Fashion, Beauty &amp; Home)</li><li>The Ad Council — \"Agree to Agree\" (Government, Public Service &amp; Non-Profit)</li><li>TruGreen — \"Trust the Pros the Pros Trust\" (Best Brand Transformation)</li><li>Wahl Clipper Corporation / Wahl Professional — \"Make It with Wahl\" (Business-to-Business)</li><li>White Castle — \"Crave Thy Castle\" (Retail &amp; Restaurants)</li><li>YouTube TV — \"Don't Settle for Meh\" (Sports, Media &amp; Entertainment)</li></ul><p>\"Fairlife and Doner's work shows how research can uncover a bigger opportunity and give creative teams a clear direction,\" said Scott McDonald, Ph.D., President and CEO of the ARF. \"By listening to a wider range of exercisers, the team made recovery feel relevant to more people.\"</p><p>See the complete list of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=1321188966&amp;u=https%3A%2F%2Fthearf.org%2Farf-david-ogilvy-award-winners-2026%2F&amp;a=2026+winners\" target=\"_blank\" rel=\"nofollow\">2026 winners</a>.</p><p><b>About the ARF</b></p><p>Founded in 1936, the Advertising Research Foundation (ARF) is the leading organization dedicated to creating better advertising through research, standards and collaboration. With more than 400 member companies, the ARF advances the science and practice of advertising, media and marketing.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=1276671638&amp;u=https%3A%2F%2Fthearf.org%2F%3Fpost_type%3Dua_resource%26p%3D394867&amp;a=thearf.org\" target=\"_blank\" rel=\"nofollow\">thearf.org</a> or follow the ARF on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=3681435924&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fthearf%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=571403270&amp;u=https%3A%2F%2Fwww.youtube.com%2Fuser%2FTheARFvideos&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=3332315046&amp;u=https%3A%2F%2Ftwitter.com%2FThe_ARF&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=2705862042&amp;u=https%3A%2F%2Fwww.facebook.com%2FARF&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>.</p><p>Media Contact: Philip Perry | Senior Content &amp; Communications Manager | <a href=\"mailto:pperry@thearf.org\" rel=\"nofollow\">pperry@thearf.org</a> | (212) 751-5656 ext. 5757</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC67176&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fairlifes-core-power-campaign-takes-grand-ogilvy-at-2026-arf-david-ogilvy-awards-302903153.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fairlifes-core-power-campaign-takes-grand-ogilvy-at-2026-arf-david-ogilvy-awards-302903153.html</a></p><p>SOURCE The Advertising Research Foundation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC67176&amp;Transmission_Id=202610150805PR_NEWS_USPR_____DC67176&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "The Advertising Research Foundation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:50.059Z"
+    },
     {
       "company": [
         "Propensity"

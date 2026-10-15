@@ -1,9 +1,1474 @@
 {
-  "generated_at": "2026-10-15T14:54:55.954Z",
+  "generated_at": "2026-10-15T15:36:42.538Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 557,
+  "count": 573,
   "releases": [
+    {
+      "company": [
+        "Deloitte Global"
+      ],
+      "date": "20261015T150000+0000",
+      "dateline": "NEW YORK, Oct. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "IOT",
+        "ITE",
+        "STW",
+        "DTA",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326&p=publish"
+        }
+      ],
+      "release_id": "20261015NY72409",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "SVY"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Gartner<sup>®</sup>, a company that delivers actionable, objective insights to executives and their teams, has recognized Deloitte as a Leader in the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3600240678&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-magic-quadrant-for-digital-marketing-agencies.html&amp;a=2026+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Global+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner<sup>®</sup> Magic Quadrant™ for Global Digital Marketing Agencies</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326\" title=\"\" alt=\"\"></img></p></div><p>Deloitte also was recognized in all seven Use Cases in the accompanying <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3414966788&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-critical-capabilities-for-digital-marketing-agencies.html&amp;a=2026+Gartner+Critical+Capabilities+for+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner Critical Capabilities for Digital Marketing Agencies</a> report.</p><p>\"To us, this recognition from Gartner builds on our placement as a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=760179223&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Fpress-room%2Fdeloitte-recognized-as-a-digital-experience-services-leader-in-the-gartner-magic-quadrant-for-the-second-consecutive-year.html&amp;a=Leader+in+the+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Digital+Experience+Services\" target=\"_blank\" rel=\"nofollow\">Leader in the Gartner<sup>®</sup> Magic Quadrant™ for Digital Experience Services</a> and we believe that it reflects the strength of our 'Growth Agency' model that combines brand strategy, agency and marketing services, and customer experience engineering, each enabled with advanced agentic capabilities,\" says <b>Mark Lush, Deloitte Global Consulting Services Customer Offering Portfolio leader and Global Head of Deloitte Digital.</b> </p>",
+      "ticker": [],
+      "title": "Deloitte recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Global Digital Marketing Agencies",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015NY72409",
+      "body": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Gartner<sup>®</sup>, a company that delivers actionable, objective insights to executives and their teams, has recognized Deloitte as a Leader in the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3600240678&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-magic-quadrant-for-digital-marketing-agencies.html&amp;a=2026+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Global+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner<sup>®</sup> Magic Quadrant™ for Global Digital Marketing Agencies</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS500732/Deloitte-v1-Logo.jpg?id=OA3019326\" title=\"\" alt=\"\"></img></p></div><p>Deloitte also was recognized in all seven Use Cases in the accompanying <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3414966788&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations%2Fgartner-critical-capabilities-for-digital-marketing-agencies.html&amp;a=2026+Gartner+Critical+Capabilities+for+Digital+Marketing+Agencies\" target=\"_blank\" rel=\"nofollow\">2026 Gartner Critical Capabilities for Digital Marketing Agencies</a> report.</p><p>\"To us, this recognition from Gartner builds on our placement as a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=760179223&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Fpress-room%2Fdeloitte-recognized-as-a-digital-experience-services-leader-in-the-gartner-magic-quadrant-for-the-second-consecutive-year.html&amp;a=Leader+in+the+Gartner%C2%AE+Magic+Quadrant%E2%84%A2+for+Digital+Experience+Services\" target=\"_blank\" rel=\"nofollow\">Leader in the Gartner<sup>®</sup> Magic Quadrant™ for Digital Experience Services</a> and we believe that it reflects the strength of our 'Growth Agency' model that combines brand strategy, agency and marketing services, and customer experience engineering, each enabled with advanced agentic capabilities,\" says <b>Mark Lush, Deloitte Global Consulting Services Customer Offering Portfolio leader and Global Head of Deloitte Digital.</b> </p><p>\"We're experienced in bringing creativity and technology together. That combination helps us transform brand ideas to a living platform: campaigns, content supply chain, digital commerce, and omnichannel execution to help realize competitive advantage and profitable growth,\" says<b> Emanuele Viora, Deloitte Digital Global Agency leader.  </b></p><p>Deloitte was recognized across seven Use Case categories, particularly in AI-Driven Marketing Innovation, Digital Commerce &amp; CX Overhaul, Website &amp; Digital Product Design, and Data-Driven Performance Marketing. Foundational to these Use Cases are Deloitte's proprietary Converge Marketing OS assets and tools, including CreativEdge, ConvergeCONSUMER™, MSuite™, Navigate™, and AI Advantage for Marketing.</p><p>\"Today's digital marketers are operating in a fundamentally different environment than even two years ago. The challenge today is bigger than creating campaigns. It is about orchestrating technology, AI, data, creative, and the operating model itself into new ways of working. We embed our industry + agency + operating knowledge to help drive meaningful competitive value for Deloitte's clients,\" says <b>Mark Singer, US Deloitte Digital Marketing Services leader and CMO. </b></p><p><b>Gartner Disclaimer</b></p><p><i>Source: Gartner Magic Quadrant for Global Digital Marketing Agencies, By </i><i>Jay Wilson, Philip Black, Jen Kady, Published 25 August 2026 - ID G00841300 </i></p><p><i>Source: Gartner Critical Capabilities for Global Digital Marketing Agencies, By </i><i>Philip Black, Jay Wilson, Jen Kady, Published 26 August 2026 - ID G00850979</i></p><p>Gartner does not endorse any company, vendor, product or service depicted in its publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner publications consist of the opinions of Gartner's business and technology insights organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this publication, including any warranties of merchantability or fitness for a particular purpose.</p><p>GARTNER is a registered trademark and service mark of Gartner and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.</p><p>For more about Deloitte Analyst Relations, please visit our <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=3781865752&amp;u=https%3A%2F%2Fwww.deloitte.com%2Fglobal%2Fen%2Fabout%2Frecognition%2Fanalyst-relations.html&amp;a=Analyst+Recognitions\" target=\"_blank\" rel=\"nofollow\">Analyst Recognitions</a> page.</p><p><b>About Deloitte</b><br></br>Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (DTTL), its global network of member firms, and their related entities (collectively, the \"Deloitte organization\"). DTTL (also referred to as \"Deloitte Global\") and each of its member firms and related entities are legally separate and independent entities, which cannot obligate or bind each other in respect of third parties. DTTL and each DTTL member firm and related entity is liable only for its own acts and omissions, and not those of each other. DTTL does not provide services to clients. Please see <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=2792152897&amp;u=http%3A%2F%2Fwww.deloitte.com%2Fabout&amp;a=www.deloitte.com%2Fabout\" target=\"_blank\" rel=\"nofollow\">www.deloitte.com/about</a> to learn more.</p><p>Deloitte provides leading professional services to nearly 90% of the Fortune Global 500<sup>®</sup> and thousands of private companies. Our people deliver measurable and lasting results that help reinforce public trust in capital markets and enable clients to transform and thrive. Building on its 180+-year history, Deloitte spans more than 150 countries and territories. Learn how Deloitte's over 470,000 people worldwide work together every day to make an impact that matters at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798045-1&amp;h=2305874033&amp;u=http%3A%2F%2Fwww.deloitte.com%2F&amp;a=www.deloitte.com\" target=\"_blank\" rel=\"nofollow\">www.deloitte.com</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY72409&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/deloitte-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-global-digital-marketing-agencies-302909364.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/deloitte-recognized-as-a-leader-in-the-2026-gartner-magic-quadrant-for-global-digital-marketing-agencies-302909364.html</a></p><p>SOURCE Deloitte Global</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY72409&amp;Transmission_Id=202610151100PR_NEWS_USPR_____NY72409&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Deloitte Global",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "management": [
+            "summary:executive"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:47.296Z"
+    },
+    {
+      "company": [
+        "Plex, Inc."
+      ],
+      "date": "20261015T150000+0000",
+      "dateline": "LOS ANGELES, Oct. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "ECM",
+        "MLM",
+        "MEN"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261015SF72963",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>New integration creates a direct path from discovery to purchase, giving studios and advertisers a new<br></br>way to reach high-intent moviegoers</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Plex, the global streaming platform for discovering, watching and connecting around entertainment, and Fandango, the nation's leading online movie ticketer, today announced an integration that creates a direct path from movie discovery to theatrical ticketing by allowing users to purchase tickets as they explore films on Plex. For studios, distributors and advertisers, the collaboration creates a new way to drive ticket sales at the point of discovery.</p>",
+      "ticker": [],
+      "title": "Plex and Fandango Turn Movie Discovery Into Theatrical Ticket Sales",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015SF72963",
+      "body": "<p class=\"prntac\"><i>New integration creates a direct path from discovery to purchase, giving studios and advertisers a new<br></br>way to reach high-intent moviegoers</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Plex, the global streaming platform for discovering, watching and connecting around entertainment, and Fandango, the nation's leading online movie ticketer, today announced an integration that creates a direct path from movie discovery to theatrical ticketing by allowing users to purchase tickets as they explore films on Plex. For studios, distributors and advertisers, the collaboration creates a new way to drive ticket sales at the point of discovery.</p><p>Starting today, Plex users in the U.S. will see a Fandango ticketing option on title pages for movies currently playing in theaters, allowing them to click through to Fandango to find showtimes and purchase tickets. The integration also enables direct attribution through Kochava, giving studios and advertisers greater visibility into how campaigns and audience engagement translate into ticket sales.</p><p>Plex users make more than 100 million streaming decisions each month, with more than 45 million users creating watchlists. Combined with search, ratings and cross-platform viewing, these signals give Plex insight into audience intent, while Fandango's reach across 31,000 U.S. screens provides a direct path from discovery to ticket purchase</p><p>\"Our vision is to make Plex the place where people can discover what to watch, regardless of where that content lives. Fandango lets us extend that experience to all theatrical releases in the U.S., giving fans an easy way to act once they find a movie they want to see,\" Scott Olechowski, Chief Product Officer and Co-Founder at Plex. \"For studios and advertisers, we're also creating a more measurable path from discovery to purchase, helping marketers understand which campaigns are converting, so they can use those insights to make their media work harder.\"</p><p>\"Plex has a unique view into what movie fans are actively considering, from what they're searching for to what they're watching across services,\" said Jerramy Hainline, EVP, Fandango. \"By connecting those discovery signals with Fandango ticketing, we're making it easier for fans to turn that interest into a trip to the theater, while giving studios and advertisers a more direct, measurable path to ticket sales.\"</p><p>Fans can purchase tickets on Fandango now via <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798534-1&amp;h=2933535577&amp;u=http%3A%2F%2Fwatch.plex.tv%2F&amp;a=watch.plex.tv\" target=\"_blank\" rel=\"nofollow\">watch.plex.tv</a>. Visuals available <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798534-1&amp;h=1782481068&amp;u=https%3A%2F%2Fwww.dropbox.com%2Fscl%2Ffo%2F47pto7xx3nk4bjdcfgx2d%2FAHc_3ozNvq8j94yPWSpCLZU%3Frlkey%3D9uugygf7kyls4okn5l5756jh3%26st%3D85yrrxvp%26dl%3D0&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>.</p><p><b>About Plex</b></p><p>Plex is the social entertainment app made for movie and TV lovers, available in more than 180 countries and territories. It brings discovery, community, and free streaming together in one place, making it easier to enjoy everything entertainment has to offer. Discover what's streaming across platforms and playing in theaters, see what friends are watching, swap recommendations, and keep track of everything on your watchlist. Plus, stream thousands of free movies and shows, watch hundreds of free live TV channels, rent premium new releases, and organize and stream your own personal media collection.</p><p>Plex. Your watch starts here. For more, visit watch.plex.tv or follow @plex.tv on X, Facebook and Instagram.</p><p><b>About Fandango</b> <br></br>Fandango is the premier digital destination for movie and TV fans, delivering entertainment experiences across discovery, ticketing, reviews, and at-home streaming. Serving more than 50 million unique visitors monthly, Fandango is the leading online movie ticketer across more than 31,000 U.S. movie screens, operates Rotten Tomatoes, the world's leading entertainment review platform, and offers a premium video-on-demand service featuring more than 300,000 new-release and catalog movies and TV shows, including one of the industry's largest selections of 4K UHD titles. The portfolio also includes Fandango1, which provides exhibitors with a modern, cloud-based cinema operating platform that powers ticketing, concessions, loyalty, payments and more for cinema locations worldwide and Fandango FanClub, which gives fans access to exclusive perks and rewards. Fandango helps fans discover, watch, collect, and enjoy entertainment wherever and whenever they choose.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF72963&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/plex-and-fandango-turn-movie-discovery-into-theatrical-ticket-sales-302909719.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/plex-and-fandango-turn-movie-discovery-into-theatrical-ticket-sales-302909719.html</a></p><p>SOURCE Plex, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF72963&amp;Transmission_Id=202610151100PR_NEWS_USPR_____SF72963&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Plex, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 1,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertiser"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "summary:entertainment",
+            "summary:film",
+            "movie",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:47.497Z"
+    },
+    {
+      "company": [
+        "Trevor Milton Media"
+      ],
+      "date": "20261015T145400+0000",
+      "dateline": "SALT LAKE CITY, Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "UTH",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HMS",
+        "LGL",
+        "PUB",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261015FL73413",
+      "status": "PUBLISHED",
+      "subject": [
+        "LAW"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ --</p><p><b>MEDIA BRIEFING &amp; PRESS ADVISORY</b></p><p>SUBJECT: Media Availability and Briefing: Civil Rights Lawsuit Filed Concerning Witness Interference (Milton v. Essick and Lackey, Case No. 2:26-cv-01005)</p><p><b>1. EXECUTIVE SUMMARY &amp; ADVISORY</b></p><p>A federal lawsuit was filed on October 13, 2026, in the United States District Court for the District of Utah (Central Division) under 42 U.S.C. § 1985(2). The action, titled Trevor R. Milton v. Christopher S. Essick and Paul Lackey (Case No. 2:26-cv-01005), <span>alleges</span> a coordinated extrajudicial <span>conspiracy</span> aimed at intimidating and deterring a key prospective defense witness during federal court proceedings. Members of the press are invited to request interview availability with key individuals associated with the filing.</p>",
+      "ticker": [],
+      "title": "Media Advisory &amp; Interview Availability: Milton v. Essick Civil Rights Lawsuit",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015FL73413",
+      "body": "<p><span class=\"legendSpanClass\">SALT LAKE CITY</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ --</p><p><b>MEDIA BRIEFING &amp; PRESS ADVISORY</b></p><p>SUBJECT: Media Availability and Briefing: Civil Rights Lawsuit Filed Concerning Witness Interference (Milton v. Essick and Lackey, Case No. 2:26-cv-01005)</p><p><b>1. EXECUTIVE SUMMARY &amp; ADVISORY</b></p><p>A federal lawsuit was filed on October 13, 2026, in the United States District Court for the District of Utah (Central Division) under 42 U.S.C. § 1985(2). The action, titled Trevor R. Milton v. Christopher S. Essick and Paul Lackey (Case No. 2:26-cv-01005), <span>alleges</span> a coordinated extrajudicial <span>conspiracy</span> aimed at intimidating and deterring a key prospective defense witness during federal court proceedings. Members of the press are invited to request interview availability with key individuals associated with the filing.</p><p><b>2. FACTS OUTLINED IN THE COURT FILING</b></p><p>The following factual assertions are derived strictly from the formal Complaint filed in federal court:</p><ul type=\"disc\"><li>Parties Involved:<ul type=\"disc\"><li>Plaintiff: Trevor R. Milton, Founder and former Chief Executive Officer of Nikola Corporation (Nikola).</li><li>Defendants: Christopher S. Essick (<span>alleged</span> in the Complaint to be an FBI Special Agent assigned to the Counterintelligence Division of the New York Field Office, sued in his individual capacity) and Paul Lackey. Essick worked, and continues to work in the same District of New York that brought charges against Milton in the United States vs. Milton case.</li></ul></li><li>Core Allegations:<ul type=\"disc\"><li>The Complaint <span>alleges</span> that Defendants operated concealed pseudonymous social media accounts (including @lfxs1212, @CntrlScrut1nizr, and @InsiderNikola) while taking financial positions adverse to Nikola Corporation. FBI agent Essick admitted to trading Nikola stock and making money through his burner accounts.</li><li>The filing <span>alleges</span> that Defendants conducted a targeted online campaign directed at favorable witnesses who were planning on testifying on behalf of Milton such as Jason Roycht, former Vice President of Technology Development at Nikola and a prospective defense witness possessing direct knowledge of Nikola's technology programs and executive communications.</li><li>According to the filing, the campaign included demands for Mr. Roycht to \"turn states evidence,\" public calls for his indictment, exposure of personal accounts, and assertions of advanced law enforcement knowledge.</li></ul></li><li><span>Alleged</span> Impact on Legal Defense:<ul type=\"disc\"><li>The Complaint <span>alleges</span> that this harassment caused Mr. Roycht to decline meetings with Mr. Milton's defense counsel, restricting the defense's access to a percipient witness and depriving Mr. Milton of witness assistance during federal trial preparation. Actions targeting witnesses are considered obstruction of justice, witness tampering and potentially <span>RICO</span> related offenses.</li></ul></li></ul><p><b>3. CONTEXT: MILTON FEDERAL CASE AND PRESIDENTIAL PARDON</b></p><p>To ensure factual accuracy and context regarding Mr. Milton's legal background:</p><ul type=\"disc\"><li>Following trial proceedings in United States v. Milton, No. 1:21-cr-00478 (S.D.N.Y.), Mr. Milton pursued legal remedies regarding the trial's fairness and witness access.</li><li>On March 27, 2025, Trevor R. Milton received a full and unconditional Presidential Pardon for the offenses of conviction in United States v. Milton from President Donald J. Trump.</li></ul><p><b>4. MEDIA INTERVIEW OPPORTUNITIES</b></p><p>Credentialed members of the media may schedule interviews with the following individuals:</p><ol type=\"1\"><li>Trevor R. Milton — Plaintiff; Founder and former CEO of Nikola Corporation.</li><li>Jason Roycht — Former Vice President of Technology Development at Nikola Corporation; central subject of the witness interference detailed in the filing.</li><li>Robert S. Frenchman — Legal Counsel for Plaintiff; Partner at Dynamis LLP.</li></ol><p><b>5. ACCOMPANYING BACKGROUND MATERIALS &amp; PRESS KIT</b></p><p>The PR Office is supplying media outlets with comprehensive background documents, available and linked below:</p><ul type=\"disc\"><li>Document 1: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798979-1&amp;h=3330972695&amp;u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1CHry6-nLLGRsav20rMZkiPANxvQ9Zg7B%2Fview%3Fusp%3Dsharing&amp;a=Full+Copy+of+Legal+Filing\" target=\"_blank\" rel=\"nofollow\">Full Copy of Legal Filing</a> — Complete text of the Complaint filed in Milton v. Essick et al., Case No. 2:26-cv-01005 (D. Utah).</li><li>Document 2: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798979-1&amp;h=1995446082&amp;u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1NA48YTwkj5a_0MsK7_H3uddO_AI2jm3uRX4hGdxflNY%2Fedit%3Fusp%3Dsharing&amp;a=Backgrounder+on+Trevor+R.+Milton\" target=\"_blank\" rel=\"nofollow\">Backgrounder on Trevor R. Milton</a> — Biographical details, founding history of Nikola Corporation, and documentation of the March 27, 2025 full Presidential Pardon by President Donald J. Trump. Current role as CEO of SyberJet.</li><li>Document 3: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798979-1&amp;h=489047901&amp;u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1iKuO59NR_y9vaCnT4GZ-FuFSsGMYSOS_jEOtXTUxv8o%2Fedit%3Fusp%3Dsharing&amp;a=Backgrounder+on+Jason+Roycht%C2%A0\" target=\"_blank\" rel=\"nofollow\">Backgrounder on Jason Roycht </a>— Professional background in technology development and timeline of relevant events referenced in the filing.</li><li>Document 4: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798979-1&amp;h=776124270&amp;u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1J0Oyj-AEgRnZ-vtamykKDKXeZGZKZiU5Y-jm5t8dzJw%2Fedit%3Fusp%3Dsharing&amp;a=Backgrounder+on+Legal+Counsel%C2%A0\" target=\"_blank\" rel=\"nofollow\">Backgrounder on Legal Counsel </a>— Overview of legal representation by Dynamis LLP Robert S. Frenchman </li><li>Document 5: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798979-1&amp;h=2821228151&amp;u=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1bZyMqZUV_lFxxnZPgGSmWI7lMB8TyOHIF588JKV6Szw%2Fedit%3Fusp%3Dsharing&amp;a=Milton+Federal+Case+Summary\" target=\"_blank\" rel=\"nofollow\">Milton Federal Case Summary</a> — Chronology and context of United States v. Milton and subsequent civil rights litigation.</li></ul><p><b>6. MEDIA CONTACT &amp; SCHEDULING</b></p><p>To schedule interviews, or confirm credentialing, please contact:</p><p>Public Relations Office<br></br>Victor Lund<br></br>Email: <a href=\"mailto:VL@1dscollective.com\" target=\"_blank\" rel=\"nofollow\">VL@1dscollective.com</a><br></br>Mobile - 805-709-6696<br></br>Re: Media Inquiry — Milton v. Essick Case Filing (Case No. 2:26-cv-01005)</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL73413&amp;sd=2026-10-15\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/media-advisory--interview-availability-milton-v-essick-civil-rights-lawsuit-302910259.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/media-advisory--interview-availability-milton-v-essick-civil-rights-lawsuit-302910259.html</a></p><p>SOURCE Trevor Milton Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL73413&amp;Transmission_Id=202610151054PR_NEWS_USPR_____FL73413&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Trevor Milton Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "management": [
+            "summary:executive"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:47.823Z"
+    },
+    {
+      "company": [
+        "Hearst Media Production Group, LLC"
+      ],
+      "date": "20261015T142000+0000",
+      "dateline": "NEW YORK, Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "USN",
+        "ADV",
+        "TVN",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Amy DeGregorio, Hearst Media Production Group",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014295/Hearst-Media-Production-Group-Amy-DeGregorio.jpg?id=OA3021572&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014295/Hearst-Media-Production-Group-Amy-DeGregorio.jpg?id=OA3021572&p=publish"
+        }
+      ],
+      "release_id": "20261015NY73383",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Amy DeGregorio, senior vice president, managing director of sales for educational/informational (E/I) programming for Hearst Media Production Group (HMPG), has been promoted to the newly created role of executive vice president, sales &amp; revenue for the company.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2014295/Hearst-Media-Production-Group-Amy-DeGregorio.jpg?id=OA3021572\" title=\"Amy DeGregorio, Hearst Media Production Group\" alt=\"Amy DeGregorio, Hearst Media Production Group\"></img></p></div><p>As senior vice president since 2022, DeGregorio has led HMPG's sales marketing team and new business-development initiatives, working with national brand advertisers, organizations and foundations. In her new role she will serve as a key member of HMPG's executive leadership team and a strategic advisor to HMPG's president on revenue growth, commercialization and new business opportunities, with responsibility for driving revenue strategy and overseeing sales and sponsorship activity across HMPG's entire portfolio. Her expanded mandate encompasses all facets of HMPG's business, including linear television programming, branded and digital-native content and emerging platforms.</p>",
+      "ticker": [],
+      "title": "HEARST MEDIA PRODUCTION GROUP PROMOTES AMY DeGREGORIO TO EXECUTIVE VICE PRESIDENT, SALES &amp; REVENUE",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015NY73383",
+      "body": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Amy DeGregorio, senior vice president, managing director of sales for educational/informational (E/I) programming for Hearst Media Production Group (HMPG), has been promoted to the newly created role of executive vice president, sales &amp; revenue for the company.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2014295/Hearst-Media-Production-Group-Amy-DeGregorio.jpg?id=OA3021572\" title=\"Amy DeGregorio, Hearst Media Production Group\" alt=\"Amy DeGregorio, Hearst Media Production Group\"></img></p></div><p>As senior vice president since 2022, DeGregorio has led HMPG's sales marketing team and new business-development initiatives, working with national brand advertisers, organizations and foundations. In her new role she will serve as a key member of HMPG's executive leadership team and a strategic advisor to HMPG's president on revenue growth, commercialization and new business opportunities, with responsibility for driving revenue strategy and overseeing sales and sponsorship activity across HMPG's entire portfolio. Her expanded mandate encompasses all facets of HMPG's business, including linear television programming, branded and digital-native content and emerging platforms.</p><p>\"Amy has done an exceptional job building meaningful brand partnerships and seamlessly integrating sponsors into our E/I programming,\" said Bryan Curb, president of HMPG. \"As HMPG continues to expand, we want to bring that same expertise and strategic approach to our entire portfolio, creating new opportunities for brands to engage with our award-winning content and loyal audiences.\"</p><p>Prior to her role as senior vice president, managing director of sales for E/I programming, DeGregorio was senior vice president, client solutions for Litton Entertainment, which in 2022 was rebranded as HMPG. She joined Litton in 2016 as senior director, integrated marketing, before being promoted to vice president, integrated marketing and, in 2020, senior vice president, client solutions. She joined Litton from CBS Television Stations, where she was director, strategic and integrated marketing. Prior to CBS, she held roles at NBCUniversal, truTV and ABC Television. She began her career at MTV Networks in music marketing and promotion.</p><p>DeGregorio holds a bachelor's degree in media studies from New York University, where she graduated magna cum laude and made dean's list.</p><p>HMPG's current program portfolio comprises more than 30 original series and hundreds of hours of content annually on leading broadcast networks and station groups and on connected TV and streaming platforms. It has a library of 85 series (6,000 episodes) and its content can be found in 100 countries.</p><p><b>About Hearst Media Production Group<br></br></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798950-1&amp;h=2652139454&amp;u=https%3A%2F%2Fhmpg.com%2F&amp;a=Hearst+Media+Production+Group\" target=\"_blank\" rel=\"nofollow\">Hearst Media Production Group</a> (HMPG), a business unit of Hearst Television, is an independent producer and distributor of original programming for TV stations, broadcast and cable networks and streaming services. HMPG produces hundreds of hours of Emmy<sup>®</sup> Award-winning programming annually across linear, streaming, digital and social media platforms for domestic and international distribution in 100 countries. Its popular weekly educational/informational (E/I) programming blocks air weekends nationwide including \"Weekend Adventure,\" on ABC stations; \"CBS WKND,\" on the CBS Network; \"The More You Know,\" on the NBC Network; \"One Magnificent Morning,\" on the CW Network; \"Mi Telemundo\" on the Telemundo Network and \"Go Time\" on independent stations. HMPG also produces and/or distributes a diverse slate of other programming and content including the company's dedicated FAST channels Xplore, The Jack Hanna Channel, Rovr Pets, and Lucky Dog Channel, available on some of the most popular smart TVs and streaming platforms. HMPG has offices in New York, Los Angeles, and Charlotte. HMPG is represented by United Talent Agency.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY73383&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/hearst-media-production-group-promotes-amy-degregorio-to-executive-vice-president-sales--revenue-302910212.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/hearst-media-production-group-promotes-amy-degregorio-to-executive-vice-president-sales--revenue-302910212.html</a></p><p>SOURCE Hearst Media Production Group, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY73383&amp;Transmission_Id=202610151020PR_NEWS_USPR_____NY73383&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Hearst Media Production Group, LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 5,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 16,
+          "radio": 0,
+          "television": 3,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertiser",
+            "summary:marketing",
+            "summary:sponsorship",
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "management": [
+            "vice president",
+            "summary:executive leadership",
+            "summary:leadership team",
+            "promotes",
+            "summary:promoted",
+            "executive",
+            "president"
+          ],
+          "television": [
+            "summary:television",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 4,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:48.043Z"
+    },
+    {
+      "company": [
+        "COMPASS Holding Canada Inc."
+      ],
+      "date": "20261015T140000+0000",
+      "dateline": "TORONTO, Oct. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "DTA",
+        "CST",
+        "STW",
+        "CPR",
+        "FNT"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261015TO72514",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "CON"
+      ],
+      "summary": "<p>Prequal for All Gives Risk Teams and Project Teams One Source of Subcontractor Risk</p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Bespoke Metrics today announced that Procore Technologies, Inc. (NYSE: PCOR), a leading global provider of construction management software, has named COMPASS its preferred subcontractor prequalification solution. The expanded partnership launches Prequal for All and is available to Procore customers today.</p><p>Prequal for All makes COMPASS prequalification available to every general contractor and subcontractor working in Procore. Subcontractors complete one standardized prequalification profile, keep it current, and share it with any general contractor they choose, joining more than 150,000 subcontractors already on COMPASS.</p>",
+      "ticker": [
+        "NYSE:PCOR"
+      ],
+      "title": "Procore Names COMPASS Its Preferred Subcontractor Prequalification Solution",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015TO72514",
+      "body": "<p>Prequal for All Gives Risk Teams and Project Teams One Source of Subcontractor Risk</p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Bespoke Metrics today announced that Procore Technologies, Inc. (NYSE: PCOR), a leading global provider of construction management software, has named COMPASS its preferred subcontractor prequalification solution. The expanded partnership launches Prequal for All and is available to Procore customers today.</p><p>Prequal for All makes COMPASS prequalification available to every general contractor and subcontractor working in Procore. Subcontractors complete one standardized prequalification profile, keep it current, and share it with any general contractor they choose, joining more than 150,000 subcontractors already on COMPASS.</p><p>COMPASS analyzes each subcontractor's financial, safety, insurance, and operational information and produces the COMPASS Q Score (the Construction Credit Score) with recommended prequalification outcomes. Risk teams set standards and review exceptions in COMPASS, while project teams see the results in Procore, where work is bid and awarded.</p><p>\"Prequalification is a critical risk management function that demands purpose-built tools and a data-rich platform,\" said Geoff Lewis, Senior Vice President of Product at Procore. \"By deepening our partnership with Bespoke Metrics, and further integrating their insights directly into Procore's AI-powered platform, we are able to replace passive, static forms with active, modern risk intelligence. Together, we are enhancing the value we deliver to mutual customers by enabling them to make smarter and faster risk management decisions.\"</p><p>COMPASS is one of the first partners connected to Procore through the Model Context Protocol (MCP), the emerging standard for how AI systems share information. Bespoke Metrics and Procore are building on that connection with agentic AI prequalification, starting with a COMPASS Risk Agent expected later this year. From bid to award, this new agent will enable project teams to see where every subcontractor stands without leaving Procore.</p><p>The principle is simple: risk intelligence should travel, sensitive data should not. Subcontractors control which general contractors can see their COMPASS profile, and their financial statements stay in COMPASS. What reaches Procore is the result: the Q Score and prequalification outcomes.</p><p>\"Lenders don't lend without a credit score. Yet construction still qualifies most of its trade partners with a stack of forms,\" said Michael Ho, Founder and CEO of Bespoke Metrics. \"Making COMPASS the preferred prequalification solution inside Procore puts an independent risk rating at the center of how contractors choose who they build with. That's good for general contractors, and even better for the subcontractors who earn it.\"</p><p><b>About Bespoke Metrics</b></p><p>COMPASS by Bespoke Metrics is the largest global construction prequalification network, connecting 400+ general contractors and 150,000+ subcontractors across 33 countries and representing more than $1 trillion in annual construction volume. COMPASS applies a standardized approach to data collection, verification, and subcontractor assessment to manage risk across the construction supply chain. Subcontractors maintain one secure profile, control which General Contractors can access it, and generate their COMPASS Q Score (the Construction Credit Score) reflecting their operational expertise, financial capacity, and health and safety track record. Learn more at compass.bespokemetrics.com. </p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=TO72514&amp;sd=2026-10-15\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/procore-names-compass-its-preferred-subcontractor-prequalification-solution-302909126.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/procore-names-compass-its-preferred-subcontractor-prequalification-solution-302909126.html</a></p><p>SOURCE COMPASS Holding Canada Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=TO72514&amp;Transmission_Id=202610151000PR_NEWS_USPR_____TO72514&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "COMPASS Holding Canada Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ],
+          "management": [
+            "names"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:48.270Z"
+    },
+    {
+      "company": [
+        "Urban One, Inc."
+      ],
+      "date": "20261015T140000+0000",
+      "dateline": "SILVER SPRING, Md., Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "MLD",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "RAD",
+        "TVN",
+        "OTC",
+        "ADV",
+        "TEQ"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS438170/Urban-One-Logo.jpg?id=OA3020280&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS438170/Urban-One-Logo.jpg?id=OA3020280&p=publish"
+        }
+      ],
+      "release_id": "20261015PH72921",
+      "status": "PUBLISHED",
+      "subject": [
+        "CCA",
+        "FVT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SILVER SPRING, Md.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Urban One, Inc. (NASDAQ: UONEK; UONE) will be holding a conference call for investors, analysts and other interested parties to discuss its results for the third fiscal quarter of 2026. The conference call is scheduled for Tuesday, November 10, 2026, at 10:00 a.m. EST. To participate in this call, U.S. callers may dial toll-free +1-888-596-4144; international callers may dial direct +1-646-968-2525. The access code is 9794002.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS438170/Urban-One-Logo.jpg?id=OA3020280\" title=\"\" alt=\"\"></img></p></div><p>A replay of the conference call will be available from 2:00 p.m. EST November 10, 2026, until 11:59 p.m. EST November 17, 2026. Callers may access the replay by calling +1-800-770-2030; international callers may dial direct +1-609-800-9909. The replay access code is 9794002. Access to live audio and a replay of the conference call will also be available on Urban One's corporate website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798492-1&amp;h=4169202497&amp;u=http%3A%2F%2Fwww.urban1.com%2F&amp;a=www.urban1.com\" target=\"_blank\" rel=\"nofollow\">www.urban1.com</a>. The replay will be made available on the website for seven days after the call.</p>",
+      "ticker": [
+        "Nasdaq:UONE",
+        "NASDAQ-SMALL:UONE",
+        "NASDAQ-SMALL:UONEK",
+        "NASDAQ:UONE",
+        "NASDAQ:UONEK"
+      ],
+      "title": "Urban One, Inc. Third Quarter 2026 Results Conference Call",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015PH72921",
+      "body": "<p><span class=\"legendSpanClass\">SILVER SPRING, Md.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Urban One, Inc. (NASDAQ: UONEK; UONE) will be holding a conference call for investors, analysts and other interested parties to discuss its results for the third fiscal quarter of 2026. The conference call is scheduled for Tuesday, November 10, 2026, at 10:00 a.m. EST. To participate in this call, U.S. callers may dial toll-free +1-888-596-4144; international callers may dial direct +1-646-968-2525. The access code is 9794002.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS438170/Urban-One-Logo.jpg?id=OA3020280\" title=\"\" alt=\"\"></img></p></div><p>A replay of the conference call will be available from 2:00 p.m. EST November 10, 2026, until 11:59 p.m. EST November 17, 2026. Callers may access the replay by calling +1-800-770-2030; international callers may dial direct +1-609-800-9909. The replay access code is 9794002. Access to live audio and a replay of the conference call will also be available on Urban One's corporate website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798492-1&amp;h=4169202497&amp;u=http%3A%2F%2Fwww.urban1.com%2F&amp;a=www.urban1.com\" target=\"_blank\" rel=\"nofollow\">www.urban1.com</a>. The replay will be made available on the website for seven days after the call.</p><p>Cautionary Note Regarding Forward-Looking Statements</p><p>The Company cautions you certain of the statements in this press release may represent \"forward-looking statements\" as defined in Section 27A of the United States Securities Act of 1933, as amended, and Section 21E of the United States Securities Exchange Act of 1934, as amended. These statements are based on assumptions believed by the Company to be reasonable and speak only as of the date on which such statements are made. Without limiting the generality of the foregoing, words such as \"expect,\" \"believe,\" \"anticipate,\" \"intend,\" \"plan,\" \"project,\" \"will\" or \"estimate,\" or the negative or other variations thereof or comparable terminology are intended to identify forward-looking statements. Except as required by law, the Company undertakes no obligation to update such statements to reflect events or circumstances arising after such date and cautions investors not to place undue reliance on any such forward-looking statements. Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from those described in the statements based on factors, including but not limited to the following: economic, public health, and/or political conditions that impact consumer confidence and spending; the cost and availability of capital or credit facility borrowings; the ability to obtain equity financing; general market conditions; the adequacy of cash flows or available debt resources to fund operations; and other risk factors described from time to time in the Company's Forms 10-K, Forms 10-Q, and Form 8-K reports (including all amendments to those reports).</p><p><b>About Urban One:</b></p><p>Urban One, Inc. (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798492-1&amp;h=30504262&amp;u=http%3A%2F%2Furban1.com%2F&amp;a=urban1.com\" target=\"_blank\" rel=\"nofollow\">urban1.com</a>), together with its subsidiaries, is the largest diversified media company that primarily targets Black Americans and urban consumers in the United States. The Company owns TV One, LLC (tvone.tv), a television network serving more than 30 million households, offering a broad range of original programming, classic series and movies designed to entertain, inform, and inspire a diverse audience of adult Black viewers. As of September 30, 2026, we owned and/or operated approximately 76 independently formatted, revenue producing broadcast stations (including 59 FM or AM stations, 15 HD stations, and the 2 low power television stations we operate) located in 13 of the most populous African American markets in the United States. Through Reach Media, Inc. (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798492-1&amp;h=694802162&amp;u=http%3A%2F%2Fblackamericaweb.com%2F&amp;a=blackamericaweb.com\" target=\"_blank\" rel=\"nofollow\">blackamericaweb.com</a>), the Company operates syndicated programming including the Rickey Smiley Morning Show and the DL Hughley Show. In addition to its radio and television broadcast assets, Urban One owns iOne Digital (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798492-1&amp;h=2152806741&amp;u=http%3A%2F%2Fionedigital.com%2F&amp;a=ionedigital.com\" target=\"_blank\" rel=\"nofollow\">ionedigital.com</a>), our wholly owned digital platform serving the African American community through social content, news, information, and entertainment websites, including its Cassius, Bossip, HipHopWired and MadameNoire digital platforms and brands. Through our national multimedia operations, we provide advertisers with a unique and powerful delivery mechanism to the African American and urban audiences.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH72921&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/urban-one-inc-third-quarter-2026-results-conference-call-302910165.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/urban-one-inc-third-quarter-2026-results-conference-call-302910165.html</a></p><p>SOURCE Urban One, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH72921&amp;Transmission_Id=202610151000PR_NEWS_USPR_____PH72921&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Urban One, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "radio"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "radio"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 2,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 7,
+          "television": 2,
+          "podcast": 2,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "urban one",
+            "industry:RAD"
+          ],
+          "television": [
+            "industry:TVN"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ],
+          "tradeshow": [
+            "conference"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:48.447Z"
+    },
+    {
+      "company": [
+        "FullThrottle Technologies"
+      ],
+      "date": "20261015T135600+0000",
+      "dateline": "PHILADELPHIA, Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "PSY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "SMD",
+        "TVN",
+        "MLM",
+        "RAD",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "fullthrottle.ai® is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch® attribution, paired with an intuitive platform interface.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1807861/fullthrottleaiR-PrimaryLogo-4C-Logo-Logo.jpg?id=OA3020557&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1807861/fullthrottleaiR-PrimaryLogo-4C-Logo-Logo.jpg?id=OA3020557&p=publish"
+        }
+      ],
+      "release_id": "20261015PH73054",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><b><i>New campaign-level reporting helps advertisers see the shows, content, and entertainment their audiences spend time with, and where that consumption happens across media, publishers, and markets. </i></b></p><p><span class=\"legendSpanClass\">PHILADELPHIA</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- fullthrottle.ai<sup>®</sup>, a pioneer in first-party data media solutions and AdTech operating systems, today announced the launch of Audience Insights, a new reporting capability designed to give advertisers a clearer understanding of the content, shows, and entertainment their campaign audiences actually consume, and how those audiences spend time with their brand.</p>",
+      "ticker": [],
+      "title": "fullthrottle.ai® Launches Audience Insights, Giving Advertisers a Deeper View of the Content, Shows, and Entertainment Their Audiences Consume Across Media, Publishers, and Markets",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015PH73054",
+      "body": "<p><b><i>New campaign-level reporting helps advertisers see the shows, content, and entertainment their audiences spend time with, and where that consumption happens across media, publishers, and markets. </i></b></p><p><span class=\"legendSpanClass\">PHILADELPHIA</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- fullthrottle.ai<sup>®</sup>, a pioneer in first-party data media solutions and AdTech operating systems, today announced the launch of Audience Insights, a new reporting capability designed to give advertisers a clearer understanding of the content, shows, and entertainment their campaign audiences actually consume, and how those audiences spend time with their brand.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1807861/fullthrottleaiR-PrimaryLogo-4C-Logo-Logo.jpg?id=OA3020557\" title=\"fullthrottle.ai® is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch® attribution, paired with an intuitive platform interface.\" alt=\"fullthrottle.ai® is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch® attribution, paired with an intuitive platform interface.\"></img></p></div><div id=\"divReleaseHighlight2612\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">fullthrottle.ai® launches Audience Insights: see the shows, publishers, and markets your campaign audiences engage with.</div><p>Audience Insights brings key campaign intelligence into a simplified view, helping advertisers move beyond standard campaign delivery metrics to better understand the audiences they are reaching. Through Audience Insights, advertisers can uncover content and media consumption patterns across their campaigns, including the shows, programming, and entertainment their audiences engage with, the publishers and channels delivering that content, and the markets and ZIP codes where those audiences live.</p><p>That visibility is possible because of fullthrottle.ai's direct relationships with premium publishers, including Nexstar, iHeartMedia, TuneIn, Roku, Spectrum, SiriusXM (Pandora), Comcast Advertising, and TelevisaUnivision, combined with Immersive Household<sup>®</sup> delivery that connects a single household's behavior across CTV, audio, display, video, and direct mail. Advertisers buying those publishers directly, at a fixed CPM, typically do not get that same connected view of how their audience engages with their brand. Audience Insights also reflects activations available within the fullthrottle.ai<sup>® </sup>platform across additional premium publishers, including Warner Bros. Discovery, FOX, Spotify, Hearst, and AMP Media.</p><p>Most comparable reports in the category answer a narrower question: where the ads ran. That is a defensive screen, built to confirm delivery after the fact. Because Audience Insights is built on first-party data and SafeMatch<sup>®</sup> attribution, it answers a different question: where real shoppers and actual transacting customers are consuming media. Advertisers can see the placements, the channels, and the show-level content and domain-level destinations where their buyers spend time. fullthrottle.ai<sup>®</sup> believes the best defense is a good offense. These insights extend beyond a single campaign, giving advertisers a real psychographic view of real buyers that can inform media planning and buying across traditional and digital channels alike.</p><p>For multi-market advertisers, campaign-level reporting can also reveal differences between individual markets. Campaigns targeting different geographies can surface distinct publisher and media consumption patterns, giving advertisers a more localized view of audience behavior.</p><p>When advertisers set up individual markets as separate campaigns, each campaign has its own Audience Insights reporting. This allows advertisers to see market-specific differences, including local publishers and media consumption patterns, without combining the reporting across markets.</p><p>\"Audience Insights is really about helping advertisers understand how an audience spends time with their brand,\" said Lou DiGiacomo, VP of Product at fullthrottle.ai<sup>®</sup>. \"We've taken a number of different insights available within the platform and distilled them into a simple view that makes it easier for advertisers to understand what is happening across their campaigns.\"</p><p>Audience Insights also gives teams a practical way to bring these findings into ongoing campaign conversations. Reports can be exported as PDFs, while individual charts can be incorporated into presentations and reporting.</p><p>The addition of Audience Insights expands fullthrottle.ai's ability to help advertisers not only activate audiences across channels but also gain greater visibility into the media and market behaviors surrounding those audiences.</p><p>Audience Insights is available within the fullthrottle.ai<sup>® </sup>platform.</p><p><b>For press and media inquiries, please contact:</b><br></br>Jai Journay<br></br>VP of Marketing<br></br>fullthrottle.ai<sup>®<br></br></sup>Email: <a href=\"mailto:jai.journay@fullthrottle.ai\" rel=\"nofollow\">jai.journay@fullthrottle.ai</a></p><p><b>About fullthrottle.ai</b><sup>®</sup></p><p>fullthrottle.ai<sup>®</sup> is the AdTech Easy Button for the mid-market, combining AI-powered identity resolution, omnichannel campaign automation, and outcome-based measurement into one seamless platform. With no reliance on cookies, the platform delivers 85%+ audience match rates and SafeMatch<sup>®</sup> attribution, paired with an intuitive interface. fullthrottle.ai<sup>®</sup> empowers agencies, media companies, brands, and publishers by transforming website visitors into addressable households and activating first-party audiences across channels like CTV, video, audio, display, and direct mail. Trusted by more than 6,000 businesses nationwide, fullthrottle.ai<sup>®</sup> helps marketers simplify AdTech and turn data into tangible growth. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798623-1&amp;h=1665990354&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4702959-1%26h%3D2573682314%26u%3Dhttps%253A%252F%252Fwww.fullthrottle.ai%252F%26a%3Dwww.fullthrottle.ai&amp;a=www.fullthrottle.ai\" target=\"_blank\" rel=\"nofollow\">www.fullthrottle.ai</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH73054&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fullthrottleai-launches-audience-insights-giving-advertisers-a-deeper-view-of-the-content-shows-and-entertainment-their-audiences-consume-across-media-publishers-and-markets-302910008.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fullthrottleai-launches-audience-insights-giving-advertisers-a-deeper-view-of-the-content-shows-and-entertainment-their-audiences-consume-across-media-publishers-and-markets-302910008.html</a></p><p>SOURCE FullThrottle Technologies</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH73054&amp;Transmission_Id=202610150956PR_NEWS_USPR_____PH73054&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "FullThrottle Technologies",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 6,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 2,
+          "television": 2,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:adtech",
+            "advertiser",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "entertainment"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "television": [
+            "industry:TVN"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:48.626Z"
+    },
+    {
+      "company": [
+        "Cineverse Corp."
+      ],
+      "date": "20261015T130000+0000",
+      "dateline": "LOS ANGELES, Oct. 15, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "TVN",
+        "MUS",
+        "TLS",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Cineverse and Trevor Henderson to Adapt Hit Horror Podcast ‘Mayfair Watchers Society’ into a Feature Film",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013839/Cineverse-Corp-PR-Image.jpg?id=OA3020382&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013839/Cineverse-Corp-PR-Image.jpg?id=OA3020382&p=publish"
+        },
+        {
+          "caption": "Courtesy of Cineverse",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1040385/Cineverse-2025-Logo-v1.jpg?id=OA3020378&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1040385/Cineverse-2025-Logo-v1.jpg?id=OA3020378&p=publish"
+        }
+      ],
+      "release_id": "20261015LA72967",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "FVT",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>From the Mind Behind Siren Head and Cartoon Cat, and one of the Hottest Indie Creators, with Recent Studio Deals with Warner Bros. and TriStar</i></p><p class=\"prntac\"><i>Feature Film Comes as Season 4 of the Scripted Audio Series Set to Launch on the Cineverse Podcast Network</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=2877233932&amp;u=https%3A%2F%2Fwww.cineverse.com%2F&amp;a=Cineverse\" target=\"_blank\" rel=\"nofollow\"><b>Cineverse</b></a> (Nasdaq: CNVS), an entertainment technology company and studio, has made a deal with <b>Trevor Henderson</b>, creator of <b>Siren Head</b> and <b>Cartoon Cat</b>, to adapt the hit horror podcast <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=3527573941&amp;u=https%3A%2F%2Fbloody-disgusting.com%2Fpodcasts%2Fmayfair-watchers-society%2F&amp;a=Mayfair+Watchers+Society\" target=\"_blank\" rel=\"nofollow\"><b><i>Mayfair Watchers Society</i></b></a> into a feature film. Downloaded more than three million times since premiering on audio on October 10, 2022, the <i>Mayfair Watchers Society </i>story will continue both on the big screen <i>and </i>through the podcast, which premieres its fourth season soon with the Cineverse Podcast Network.</p>",
+      "ticker": [
+        "NASDAQ-NMS:CNVS",
+        "NASDAQ:CNVS"
+      ],
+      "title": "Cineverse and Trevor Henderson to Adapt Hit Horror Podcast 'Mayfair Watchers Society' into a Feature Film",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015LA72967",
+      "body": "<p class=\"prntac\"><i>From the Mind Behind Siren Head and Cartoon Cat, and one of the Hottest Indie Creators, with Recent Studio Deals with Warner Bros. and TriStar</i></p><p class=\"prntac\"><i>Feature Film Comes as Season 4 of the Scripted Audio Series Set to Launch on the Cineverse Podcast Network</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=2877233932&amp;u=https%3A%2F%2Fwww.cineverse.com%2F&amp;a=Cineverse\" target=\"_blank\" rel=\"nofollow\"><b>Cineverse</b></a> (Nasdaq: CNVS), an entertainment technology company and studio, has made a deal with <b>Trevor Henderson</b>, creator of <b>Siren Head</b> and <b>Cartoon Cat</b>, to adapt the hit horror podcast <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=3527573941&amp;u=https%3A%2F%2Fbloody-disgusting.com%2Fpodcasts%2Fmayfair-watchers-society%2F&amp;a=Mayfair+Watchers+Society\" target=\"_blank\" rel=\"nofollow\"><b><i>Mayfair Watchers Society</i></b></a> into a feature film. Downloaded more than three million times since premiering on audio on October 10, 2022, the <i>Mayfair Watchers Society </i>story will continue both on the big screen <i>and </i>through the podcast, which premieres its fourth season soon with the Cineverse Podcast Network.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013839/Cineverse-Corp-PR-Image.jpg?id=OA3020382\" title=\"Cineverse and Trevor Henderson to Adapt Hit Horror Podcast ‘Mayfair Watchers Society’ into a Feature Film\" alt=\"Cineverse and Trevor Henderson to Adapt Hit Horror Podcast ‘Mayfair Watchers Society’ into a Feature Film\"></img></p></div><p>This agreement comes at a time during which Hollywood demand for Henderson's viral online creations has exploded. Earlier this year, Warner Bros. Pictures won a bidding war to turn Henderson's Siren Head character into a movie, with Zach Cregger and Brian Duffield attached. Another of his popular and terrifying characters, Cartoon Cat, is being adapted into a film by Sony's TriStar Pictures, with Roy Lee producing. </p><p>\"It has truly been the year that online creators have planted their flag as the new generation of horror filmmakers and characters. This deal to expand our relationship with Trevor, and adapt this podcast into a feature with him, presents a great opportunity for us, him, and his fans, and we can't wait,\" <b>said Cineverse Chief Motion Pictures Officer Yolanda Macias. </b></p><p>Since successfully bringing <i>Terrifier 2</i> and <i>Terrifier 3</i> to theatres, the Cineverse Motion Pictures Group has shown a commitment to supporting filmmakers with unique creative visions and IP with loyal, passionate fanbases. This includes the 20th anniversary release of Guillermo del Toro's masterpiece, <i>Pan's Labyrinth</i>, which opened in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=3609929847&amp;u=https%3A%2F%2Fwww.fathomentertainment.com%2Freleases%2Fguillermo-del-toro-pans-labyrinth-20th-anniversary&amp;a=theatres+October+8\" target=\"_blank\" rel=\"nofollow\">theatres October 8</a>.</p><p>\"There hasn't been a box office movement in years as transformational as the success seen by online creators with <i>Iron Lung</i>, <i>Backrooms</i>, and <i>Obsession</i>. We're incredibly fortunate to be in a position where we can use our platforms to work with independent artists and bring their visions to life reaching audiences in entirely new ways. <i>Mayfair Watchers Society</i> has been an incredible collaboration with Trevor, and I can't wait to continue that partnership and bring Mayfair to the big screen,\" <b>said Cineverse VP Network Strategy and Co-founder, Bloody Disgusting, Tom Owen.</b></p><p>The feature will be a found footage style anthology film highlighting different creatures and stories from the podcast. These include The Needle, Creekman, Owls with Teeth, Mr. Bag, Anxious Dogs, Scissors, and The Clatter.</p><p>\"The Cineverse and Bloody Disgusting teams have been great partners on the podcast, and I've long been impressed with the film side of the company, and its indie philosophy. I look forward to being very hands-on with adapting the podcast into a feature, and look forward to working closely with them as we develop the film, select the directing and writing teams, and get closer to bringing this to fans,\" <b>said Henderson</b>, who will be a producer and part of the writing team.</p><p><b>The </b><b><i>Mayfair Watchers Society</i></b><b> podcast</b> is an original production of Bloody FM, Cineverse Podcast Network's horror brand. Created by Henderson and Pacific Obadiah, and produced by Obadiah, <i>Mayfair Watchers Society </i>is presented as a collection of found tapes and audio accounts, each episode focusing on different residents encountering Henderson's iconic style of monsters. It was chosen by Apple as one of the most popular podcasts when it debuted in 2022, and has been a top 50 podcast and the #2-ranked fiction podcast on both Apple and Spotify.</p><p>Trevor Henderson is represented by Verve, Redshift, and Marios Rush. The deal was negotiated by Macias and Cineverse VP Creative Development and Filmmaker Relations Steven Peros.</p><p><b>About Cineverse Motion Pictures Group</b></p><p>Cineverse super-serves passionate audiences by distributing content across all windows and platforms, from theatrical to digital to physical. Following the breakout box office success of <i>Terrifier 3</i>, recent theatrical releases include the franchise returns of <i>The Toxic Avenger, Silent Night, Deadly Night</i>, and <i>Return to Silent Hill</i>, and the 20th anniversary release of Guillermo del Toro's masterpiece <i>Pan's Labyrinth</i>. On Cineverse's upcoming slate are the third installment of <i>Wolf Creek</i> and the company's first theatrical family feature, <i>Air Bud Returns</i>.</p><p><b>About Cineverse </b></p><p><b>Cineverse </b>(Nasdaq: CNVS) is an entertainment technology company and studio. Fiercely innovative and independent, Cineverse develops and invests in technology and content that drives the future of the industry. Core to its business is <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=1740241335&amp;u=https%3A%2F%2Fwww.matchpoint.tv%2F&amp;a=Matchpoint%C2%AE\" target=\"_blank\" rel=\"nofollow\"><b>Matchpoint®</b></a> – a growing tech ecosystem designed to prepare, distribute, monetize, and continuously improve content across any platform. Matchpoint helps studios large and small operate at scale and improve performance and efficiency in an increasingly fragmented distribution environment. Additionally, Cineverse distributes a vast library of premium films, series, and podcasts, across theatrical, home entertainment, and streaming; operates dozens of digital properties that super serve passionate fandoms around the world; and works with leading brands to connect them with audiences they value. From award-winning technology to the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=3121669669&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__www.boxofficemojo.com_release_rl2221441025%26d%3DDwMFaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DB2PNf5C_2XADP6dsTgnr53OvDOYVOPW2rehMq7In2oQ%26m%3D1qE6TsvVFs0moFpQ1oHkDO5J1QdYGaC82jEdPf7iiDru9zQol6LbgKvmK12XCNeA%26s%3DH2-gR0tVdDs9908LbD89uxQYb1GF8meDp04NNOWUHAw%26e%3D&amp;a=highest-grossing+unrated+film+in+U.S.+history\" target=\"_blank\" rel=\"nofollow\">highest-grossing unrated film in U.S. history</a>, Cineverse has created a playbook that marries tech and content to redefine the next era of entertainment. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798538-1&amp;h=2029286770&amp;u=https%3A%2F%2Fcineverse.com%2F&amp;a=cineverse.com\" target=\"_blank\" rel=\"nofollow\">cineverse.com</a>.</p><p><b>Investor Contact:<br></br></b>Julie Milstead<br></br><a href=\"mailto:investorrelations@cineverse.com\" target=\"_blank\" rel=\"nofollow\">investorrelations@cineverse.com</a></p><p><b>Media Contact:<br></br></b>The Lippin Group for Cineverse<br></br><a href=\"mailto:cineverse@lippingroup.com\" target=\"_blank\" rel=\"nofollow\">cineverse@lippingroup.com</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1040385/Cineverse-2025-Logo-v1.jpg?id=OA3020378\" title=\"Courtesy of Cineverse\" alt=\"Courtesy of Cineverse\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA72967&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/cineverse-and-trevor-henderson-to-adapt-hit-horror-podcast-mayfair-watchers-society-into-a-feature-film-302910079.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/cineverse-and-trevor-henderson-to-adapt-hit-horror-podcast-mayfair-watchers-society-into-a-feature-film-302910079.html</a></p><p>SOURCE Cineverse Corp.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA72967&amp;Transmission_Id=202610150900PR_NEWS_USPR_____LA72967&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Cineverse Corp.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment",
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment",
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 9,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 5,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "summary:entertainment",
+            "film",
+            "industry:ENT",
+            "industry:FLM",
+            "industry:MUS"
+          ],
+          "television": [
+            "industry:TVN"
+          ],
+          "podcast": [
+            "summary:podcast network",
+            "podcast",
+            "summary:podcasts"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:48.813Z"
+    },
+    {
+      "company": [
+        "Great American Media"
+      ],
+      "date": "20261015T130000+0000",
+      "dateline": "NEW YORK, Oct. 15, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "TVN",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Pure Flix Familia brings Latino families together with original, licensed and Spanish-dubbed movies and series celebrating faith, family, romance, traditions and the stories that connect generations.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014006/Pure-Flix-Familia-Press-Release-Image.jpg?id=OA3020728&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014006/Pure-Flix-Familia-Press-Release-Image.jpg?id=OA3020728&p=publish"
+        },
+        {
+          "caption": "Great American Media & Pure Flix Familia",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013959/GAM-PFF-logos.jpg?id=OA3020640&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013959/GAM-PFF-logos.jpg?id=OA3020640&p=publish"
+        }
+      ],
+      "release_id": "20261015DA73105",
+      "status": "PUBLISHED",
+      "subject": [
+        "HSP",
+        "DEI",
+        "PDT"
+      ],
+      "summary": "<ul type=\"disc\"><li>New streaming destination launches in time for Hispanic Heritage Month and peak holiday season with Spanish-language programming and a long-term strategy spanning Spanish, English, and Bilingual storytelling</li></ul><ul type=\"disc\"><li>Debut programming includes original microdrama <i>Alquilé Un Novio Para Navidad</i> and a national call for Latino-produced family and faith films</li></ul><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=3870392720&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Great American Media</b></a> is expanding its investment in Latino audiences with today's launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=944285857&amp;u=http%3A%2F%2Fwww.pureflixfamilia.com%2F&amp;a=Pure+Flix+Familia\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Pure Flix Familia</b></a>, a new streaming destination created for families seeking culturally relevant entertainment rooted in faith, family and shared values.</p>",
+      "ticker": [],
+      "title": "Great American Media Invests in Wholesome, Family Streaming Entertainment for Latinos with Launch of Pure Flix Familia",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015DA73105",
+      "body": "<ul type=\"disc\"><li>New streaming destination launches in time for Hispanic Heritage Month and peak holiday season with Spanish-language programming and a long-term strategy spanning Spanish, English, and Bilingual storytelling</li></ul><ul type=\"disc\"><li>Debut programming includes original microdrama <i>Alquilé Un Novio Para Navidad</i> and a national call for Latino-produced family and faith films</li></ul><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=3870392720&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Great American Media</b></a> is expanding its investment in Latino audiences with today's launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=944285857&amp;u=http%3A%2F%2Fwww.pureflixfamilia.com%2F&amp;a=Pure+Flix+Familia\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Pure Flix Familia</b></a>, a new streaming destination created for families seeking culturally relevant entertainment rooted in faith, family and shared values.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2014006/Pure-Flix-Familia-Press-Release-Image.jpg?id=OA3020728\" title=\"Pure Flix Familia brings Latino families together with original, licensed and Spanish-dubbed movies and series celebrating faith, family, romance, traditions and the stories that connect generations.\" alt=\"Pure Flix Familia brings Latino families together with original, licensed and Spanish-dubbed movies and series celebrating faith, family, romance, traditions and the stories that connect generations.\"></img></p></div><div id=\"divReleaseHighlightd73a\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Pure Flix Familia launches in Spanish, with bilingual and English stories for Latino audiences to follow.</div><p>Launching during <b>Hispanic Heritage Month</b> and at the start of the Christmas family-viewing season, Pure Flix Familia will debut with Spanish-language entertainment that will continuously grow to include English-language, and bilingual storytelling created and curated for Latino audiences.</p><p>\"Great American Pure Flix is the leading faith-and-family streaming service, and Pure Flix Familia will build on that foundation with programming and experiences created specifically for Latino families,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=2568533533&amp;u=https%3A%2F%2Fwww.gacmedia.com%2Fbill-abbott%2F&amp;a=Bill+Abbott\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Bill Abbott</b></a><b>, President and CEO of Great American Media. </b>\"Faith and family are at the heart of Great American Media, and those values have deep roots within the Latino community. We are committed to working with talented Latino creators to tell authentic, compelling stories and to building a trusted entertainment destination for families in the United States and around the world.\"</p><p><b>Pure Flix</b> <b>Familia</b> represents the <b>next step</b> in Great American Media's continued <b>growth</b>, extending the company's faith-and-family mission to a new audience while complementing the programming available on Great American Pure Flix. First announced in December 2025, Pure Flix Familia is being developed around a <b>Total Latino Market strategy</b> that recognizes how today's Latino audiences move across languages, cultures, countries and generations. Rather than defining viewers solely by language preference, the platform will serve a broad spectrum of the Latino experience, connected by culture, family and shared values.</p><p>The market opportunity is significant. According to Nielsen's 2025 Diverse Intelligence Series report, U.S. Hispanics represent more than <b>$4.1 trillion in purchasing power</b>, while streaming accounts for <b>55.8% of their total television</b> viewing time, compared with <b>46% for the overall U.S. population</b>.</p><p>At launch, Pure Flix <b>Familia</b> will <b>offer original, licensed and Spanish</b>-dubbed<b> movies</b>, <b>series</b>, <b>family entertainment</b>, and <b>faith-centered storytelling</b>. Programming will reflect the humor, romance, faith, traditions, family relationships, and multigenerational experiences that are part of Latino life.</p><p>Great American Media is working with <b>Minivela</b>, the Latino media, entertainment, and production company co-founded by media entrepreneur <b>Manny Ruiz</b> and actor-producer <b>Carlos Ponce</b>, as the programming, content and creative partner for Pure Flix Familia. Ruiz and Ponce bring decades of experience working within the Latino community and across Hispanic media and entertainment.</p><p>\"We approached Pure Flix because we saw an opportunity for more wholesome entertainment created with Latino families in mind, and they immediately understood the need,\" <b>Ponce</b> said. \"Families shouldn't have to choose between stories that authentically reflect their culture and entertainment they feel good about bringing into their homes. Pure Flix Familia brings those two things together.\"</p><p>The debut slate will feature Pure Flix Familia's first original microdrama, <i>Alquilé Un Novio Para Navidad</i>, produced by Pure Flix Familia in association with Minivela. The faith-based microdrama follows a woman who enlists the perfect boyfriend to keep her family's Noche Buena gathering questions at bay—only to discover that real feelings weren't part of the deal. A little holiday pretending turns into a lot of romantic chaos in this heartwarming Christmas romcom.</p><p>In partnership with <b>Chicano Hollywood</b>, and a coalition of <b>Latino film festival</b> leaders, Pure Flix Familia will also support Latino storytellers through a <b>national call for Latino-produced feature films and short films centered on family and/or faith.</b> Selected projects will be considered for licensing or acquisition, creating a new pathway for filmmakers and independent producers seeking a home for culturally authentic, values-driven storytelling. Submission criteria and deadlines will be announced separately.</p><p>The <b>October launch</b> also <b>brings Pure Flix Familia to audiences as the Christmas viewing season begins,</b> building on one of Great American Media and Pure Flix's signature programming strengths. <b>Great American Pure Flix offers an extensive collection of Christmas movies and series</b>, giving Pure Flix Familia a strong foundation for serving families during one of the most family-centered times of the year.</p><p>The U.S. debut represents the first step in Great American Media's longer-term vision for Pure Flix Familia, with the company ultimately looking to serve audiences throughout <b>Latin America and Spain</b> and build a global Latino and Spanish-language faith and family entertainment brand.</p><p>Additional announcements regarding Pure Flix Familia's complete launch slate, subscription options, supported devices and availability will be made in the coming weeks.</p><p><b><u>ABOUT GREAT AMERICAN MEDIA<br></br></u></b>Great American Media is the leader in faith and family entertainment, and one of the fastest-growing entertainment networks on television. <a class=\"validateurls_yellow\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=3331723243&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.gacmedia.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DSZ-5FQsiG3mnsQxOAPdTMIKALp4TFGc0EPcsfvP6e2q8g-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702445575-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3DBJR-252B1dOk7Vngm2fT5Ozs1TFSQq-252BO1VGwbDfoMi-252BWkHg-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3DcUgVJ6YBfh4j791hbaSNNzvKPVPlJbBVVc5SzC1gfsw%26e%3D&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Great American Media</b></a> is home to a portfolio of entertainment brands that celebrate faith, family, and country, including <a class=\"validateurls_yellow\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=3626656239&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.greatamericanfamily.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DFA-5FOazh-5FAAusVTc1gQ4SVSIZ0iQqsESZpc7cxN-2Dke-5Fg-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702473057-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3DsO0IVQ6GBResr0IGZmLzVm4o7AZ77WJgV-252F8vwJ8MFgc-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3D204BKdePG7ybIkpySvloUl-8DYIrJFFl0BGsr1bEweY%26e%3D&amp;a=Great+American+Family\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Great American Family</b></a>, the flagship linear network featuring original Christmas movies, rom-coms, and beloved series; <a class=\"validateurls_yellow\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=1217485316&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.pureflix.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DLFlfllFXB7ImHnRxUG4pDu2cgDKsu1xK3M3knXpxEVs-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702487880-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3Dx1YtdB2PgdB2QT2vAtg5X9Y8DcekqlO-252BzVjJaw-252BFWxA-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3Df6MqltUowcin9zfmrZDg7fQDd1Aob21gQqctvCp02Vw%26e%3D&amp;a=Great+American+Pure+Flix\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Great American Pure Flix</b></a>, the leading faith and family streaming service; <a class=\"validateurls_yellow\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=1830780430&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.greatamericanliving.tv-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253DS7mHRrzqwgRhv2Sl3-2D-5FUPen2Llyc35-2DqdvHjPuOb48Q-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702501892-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3D0cNeF-252FQxJ4-252BY9iXPH8WDBbu6lQ-252BbaHWfEpnt9C28JmM-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3Dh7RxbikpiY4e9Xy2evNHJHngtoZ9_d-6H_2zOBIl9Dw%26e%3D&amp;a=Great+American+Faith+%26+Living\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>Great American Faith &amp; Living</b></a>, the unscripted companion network; and <a class=\"validateurls_yellow\" href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=3626369794&amp;u=https%3A%2F%2Furldefense.proofpoint.com%2Fv2%2Furl%3Fu%3Dhttps-3A__nam02.safelinks.protection.outlook.com_-3Furl-3Dhttps-253A-252F-252Furldefense.proofpoint.com-252Fv2-252Furl-253Fu-253Dhttps-2D3A-5F-5Fwww.gfamplus.com-5F-2526d-253DDwMGaQ-2526c-253DeuGZstcaTDllvimEN8b7jXrwqOf-2Dv5A-5FCdpgnVfiiMM-2526r-253DQv8z4Xxs2LSw56-5FAklxmxr4B81Hm89Va8nixF6sO4LU-2526m-253D-5F-2DR-2DaVdaPQSMTo17nEhX4A5IQI58clrBTmVKAGteDM2GFyyMbVVUTbukIc-5Fj4A1B-2526s-253D3POVEX3ljsskLiOjdJLXzzGwxpT75B5ByUaInohRngU-2526e-253D-26data-3D05-257C02-257Cpamslay-2540gacmedia.com-257Cb099878a376e4b0e91fb08de0169f1dd-257C158ca7bb0e434a3cb36c4d71588b2618-257C0-257C1-257C638949751702515923-257CUnknown-257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ-253D-253D-257C0-257C-257C-257C-26sdata-3DhuWRNMtHpXi86CPyBk8RXbVeaffHX3pZR30gECZV8dQ-253D-26reserved-3D0%26d%3DDwMGaQ%26c%3DeuGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM%26r%3DQv8z4Xxs2LSw56_Aklxmxr4B81Hm89Va8nixF6sO4LU%26m%3DSygtosr42TkveV6lVfFsRoLDlJNmDlWKdoedqJ0xyNtJUN6qWh0Q0vSdW7NwnM4S%26s%3Dt0xExcOO-2rHV1eUlbaZK_R6iTGNtwi_2qeRdibC7qc%26e%3D&amp;a=GFam%2B\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>GFam+</b></a>, an app that lets viewers watch anytime, anywhere. Great American Media, established in June 2021 by Bill Abbott and a group of US-based family offices, is available via cable, streaming on Pure Flix and YouTube TV, and on the GFam+ app.</p><p><b><u>ABOUT PURE FLIX FAMILIA<br></br></u></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798675-1&amp;h=944285857&amp;u=http%3A%2F%2Fwww.pureflixfamilia.com%2F&amp;a=Pure+Flix+Familia\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Pure Flix Familia</a> is Great American Media's Latino-focused streaming destination for culturally relevant entertainment centered on family and faith. Created around a Total Latino Market strategy, the platform is designed to serve Spanish-dominant, bilingual and English-dominant audiences through movies, series, original microdramas and curated programming that families can confidently enjoy together.</p><p><b>MEDIA CONTACTS:</b><br></br>Victoria Quevedo or Debbie Davis<br></br><a href=\"mailto:media@crosswindpr.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">media@crosswindpr.com</a> <br></br>512.537.1414</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013959/GAM-PFF-logos.jpg?id=OA3020640\" title=\"Great American Media &amp; Pure Flix Familia\" alt=\"Great American Media &amp; Pure Flix Familia\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA73105&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/great-american-media-invests-in-wholesome-family-streaming-entertainment-for-latinos-with-launch-of-pure-flix-familia-302909433.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/great-american-media-invests-in-wholesome-family-streaming-entertainment-for-latinos-with-launch-of-pure-flix-familia-302909433.html</a></p><p>SOURCE Great American Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA73105&amp;Transmission_Id=202610150900PR_NEWS_USPR_____DA73105&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Great American Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "summary:film",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:48.997Z"
+    },
+    {
+      "company": [
+        "VANKYO"
+      ],
+      "date": "20261015T130000+0000",
+      "dateline": "BELTSVILLE, Md., Oct. 15, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "MLD",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HHP",
+        "ENT",
+        "REA",
+        "HOU",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013121/20261014040950EDT_image_1.jpg?id=OA3018230&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013121/20261014040950EDT_image_1.jpg?id=OA3018230&p=publish"
+        }
+      ],
+      "release_id": "20261015CN72002",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">BELTSVILLE, Md.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- VANKYO today announced the launch of the VANKYO Roku TV Leisure 3R smart mini projector that puts America's most-used streaming platform inside a portable barrel-shaped body with a 180° flip design.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013121/20261014040950EDT_image_1.jpg?id=OA3018230\" title=\"VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design\" alt=\"VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design\"></img></p></div><p>Setup is the first problem the Leisure 3R solves. Roku TV is built in, so users stream without a separate stick or extra hardware. Its 180° flip structure adjusts the projection angle freely, letting the projector sit on a desk, a nightstand or a shelf without books to prop it up and without a tripod.</p>",
+      "ticker": [],
+      "title": "VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015CN72002",
+      "body": "<p><span class=\"legendSpanClass\">BELTSVILLE, Md.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- VANKYO today announced the launch of the VANKYO Roku TV Leisure 3R smart mini projector that puts America's most-used streaming platform inside a portable barrel-shaped body with a 180° flip design.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013121/20261014040950EDT_image_1.jpg?id=OA3018230\" title=\"VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design\" alt=\"VANKYO Launches Leisure 3R: Built-In Roku TV and a 180° Flip Design\"></img></p></div><p>Setup is the first problem the Leisure 3R solves. Roku TV is built in, so users stream without a separate stick or extra hardware. Its 180° flip structure adjusts the projection angle freely, letting the projector sit on a desk, a nightstand or a shelf without books to prop it up and without a tripod.</p><p>Its compact barrel body moves easily between a bedroom, a dorm room, a kids' room and a backyard.</p><p>Picture quality holds up where people actually watch. The Leisure 3R delivers 150 ANSI lumens of brightness, with native 720P resolution and support for 1080P content. Auto vertical keystone correction squares the image the moment the projector is placed. Wireless casting and Bluetooth let users send content from a phone, tablet or laptop and pair a speaker or headphones.</p><p>The entry-level projector category has spent years competing on the same spec sheet. The Leisure 3R is built around what happens after the box is open — whether a family can switch it on and start watching. Built-in Roku TV and the 180° flip design remove the two things that keep people from using a projector at all: extra accessories and awkward angles.</p><p>The Leisure 3R is available now at Walmart (<a href=\"https://www.walmart.com/ip/VANKYO-Leisure-3R-Flip-Projector/20478919482\" target=\"_blank\" rel=\"nofollow\">US</a> and <a href=\"https://www.walmart.ca/en/ip/Vankyo-Leisure-3R-Flip-Roku-TV-Freestyle-Projector/4QJB87HRJE5W?classType=REGULAR&amp;from=/search\" target=\"_blank\" rel=\"nofollow\">Canada</a>), <a href=\"https://www.bestbuy.com/product/vankyo-leisure-3r-air-smart-projector-with-built-in-roku-tv-white/J3GW23XCLG\" target=\"_blank\" rel=\"nofollow\">Best Buy</a>, Canadian Tire, and <a href=\"https://www.meijer.com/shopping/product/vankyo-leisure-3r-flip-projector/81008990744.html\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">Meijer</a>. Pricing may vary by retailer depending on special package options.</p><p><b>Key Specifications</b></p><ul type=\"disc\"><li>Brightness: 150 ANSI lumens</li><li>Dimensions: 3.35 inches in diameter and 5.31 inches tall (6.89 inches with the base)</li><li>Weight: 15.5 ounces</li></ul><p><b>About VANKYO </b></p><p>VANKYO is a leading global brand dedicated to developing innovative and high-quality home entertainment projectors and related accessories. With a focus on enhancing user experience through cutting-edge technology and accessible design, VANKYO strives to bring immersive visual experiences to homes worldwide.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN72002&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/vankyo-launches-leisure-3r-built-in-roku-tv-and-a-180-flip-design-302908351.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/vankyo-launches-leisure-3r-built-in-roku-tv-and-a-180-flip-design-302908351.html</a></p><p>SOURCE VANKYO</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN72002&amp;Transmission_Id=202610150900PR_NEWS_USPR_____CN72002&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "VANKYO",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:49.168Z"
+    },
+    {
+      "company": [
+        "New Schools for New Orleans (NSNO)"
+      ],
+      "date": "20261015T125700+0000",
+      "dateline": "NEW ORLEANS, Oct. 15, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "LSA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "RAD",
+        "HED",
+        "USN",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "New Schools for New Orleans presents, \"The Future Is Smaller: What New Orleans Learned Before America Had To\"",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013801/the-future-is-smaller_logo-image-full.jpg?id=OA3020287&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013801/the-future-is-smaller_logo-image-full.jpg?id=OA3020287&p=publish"
+        },
+        {
+          "caption": "Episode 1: \"The Last Miss Douglass\" is available now.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013802/2.jpg?id=OA3020290&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013802/2.jpg?id=OA3020290&p=publish"
+        }
+      ],
+      "release_id": "20261015PH72975",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT"
+      ],
+      "summary": "<p><i>New Schools for New Orleans series examines demographic change, enrollment decline, and the future of public education</i></p><p><span class=\"legendSpanClass\">NEW ORLEANS</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Across the country, public school systems are confronting a new reality: fewer students, tighter budgets, and difficult decisions about how to sustain strong schools as enrollment declines.</p><p>A new podcast from New Schools for New Orleans (NSNO), <b>\"</b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798545-1&amp;h=69778045&amp;u=https%3A%2F%2Frss.com%2Fpodcasts%2Fthe-future-is-smaller%2F&amp;a=The+Future+Is+Smaller%3A+What+New+Orleans+Learned+Before+America+Had+To\" target=\"_blank\" rel=\"nofollow\"><b>The Future Is Smaller: What New Orleans Learned Before America Had To</b></a><b>,\"</b> examines these challenges through the experience of a city already navigating them. Launching October 15, the series brings together education leaders, researchers, school operators, students, and families to explore how demographic shifts affect school finances and academic opportunities, and what communities can do to prepare for a smaller future.</p>",
+      "ticker": [],
+      "title": "New Podcast \"The Future Is Smaller\" Explores Declining School Enrollment and What New Orleans Can Teach Other Cities",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015PH72975",
+      "body": "<p><i>New Schools for New Orleans series examines demographic change, enrollment decline, and the future of public education</i></p><p><span class=\"legendSpanClass\">NEW ORLEANS</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Across the country, public school systems are confronting a new reality: fewer students, tighter budgets, and difficult decisions about how to sustain strong schools as enrollment declines.</p><p>A new podcast from New Schools for New Orleans (NSNO), <b>\"</b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798545-1&amp;h=69778045&amp;u=https%3A%2F%2Frss.com%2Fpodcasts%2Fthe-future-is-smaller%2F&amp;a=The+Future+Is+Smaller%3A+What+New+Orleans+Learned+Before+America+Had+To\" target=\"_blank\" rel=\"nofollow\"><b>The Future Is Smaller: What New Orleans Learned Before America Had To</b></a><b>,\"</b> examines these challenges through the experience of a city already navigating them. Launching October 15, the series brings together education leaders, researchers, school operators, students, and families to explore how demographic shifts affect school finances and academic opportunities, and what communities can do to prepare for a smaller future.</p><p>The series also addresses a critical question facing school leaders and districts: how to protect and build upon academic progress while simultaneously reshaping school systems for a smaller student population.</p><p><b>The first episode, \"The Last Miss Douglass,\" premieres October 15</b>, with new episodes released monthly on Apple Podcasts, Spotify, Amazon Music, and other platforms.</p><p>\"The Future Is Smaller\" is produced by Jenny Dubin and Laura Hawkins. Associate Producers are Jason Rhein and Taylor Jackson. Sound design is by George Ingmire, and production management is by Elephant Quilt Productions. The podcast is sponsored by New Schools for New Orleans, with special thanks to Dana Peterson and Tiffany Delcour.</p><p><b>Listen and subscribe:</b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798545-1&amp;h=3784498216&amp;u=https%3A%2F%2Frss.com%2Fpodcasts%2Fthe-future-is-smaller%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798545-1&amp;h=71747957&amp;u=https%3A%2F%2Frss.com%2Fpodcasts%2Fthe-future-is-smaller%2F&amp;a=https%3A%2F%2Frss.com%2Fpodcasts%2Fthe-future-is-smaller%2F\" target=\"_blank\" rel=\"nofollow\">https://rss.com/podcasts/the-future-is-smaller/</a></p><p><b>A National Challenge New Orleans Is Already Navigating<br></br></b>The number of school-age children is declining in communities across the country, driven by falling birth rates, population shifts, migration, and other demographic changes. For school systems largely funded based on student enrollment, those shifts can have significant consequences. In New Orleans, those pressures are already visible.</p><p>Over the past five years, K–8 enrollment has declined approximately 9%, while ninth-grade enrollment in 2026 is approximately 11% lower than in 2022. Meanwhile, New Orleans recorded its fifth consecutive year of academic growth on Louisiana's state assessments in 2026, improving three percentage points in students achieving Mastery or above.</p><p>The podcast builds on NSNO's longstanding work to help New Orleans public schools plan for a more sustainable system. Since 2022, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798545-1&amp;h=2059415913&amp;u=https%3A%2F%2Fnewschoolsforneworleans.org%2Four-impact%2Fsustainable-schools%2Fenrollment-landscape%2F&amp;a=NSNO+has+published+regular+analyses+of+enrollment\" target=\"_blank\" rel=\"nofollow\">NSNO has published regular analyses of enrollment</a>, school capacity, and financial trends, helping school leaders, policymakers, and the public understand how demographic shifts are affecting schools today and what they could mean for the future. Through research and advocacy, NSNO has encouraged long-term planning that protects strong schools and directs limited resources toward students and educators.</p><p><b><i>New Schools for New Orleans </i></b><i>is a nonprofit dedicated to expanding access to excellent public education. For 20 years, the organization has supported New Orleans schools through investments in educators, research, advocacy, and school sustainability. Learn more at</i><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798545-1&amp;h=311231021&amp;u=http%3A%2F%2Fwww.nsno.org%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798545-1&amp;h=974807169&amp;u=http%3A%2F%2Fwww.nsno.org%2F&amp;a=www.nsno.org\" target=\"_blank\" rel=\"nofollow\"><i>www.nsno.org</i></a><i>.</i></p><p><b>Media Contact:</b><br></br>Taylor Jackson: 504-920-4390 | <a href=\"mailto:424867@email4pr.com\" target=\"_blank\" rel=\"nofollow\">424867@email4pr.com</a> </p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH72975&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/new-podcast-the-future-is-smaller-explores-declining-school-enrollment-and-what-new-orleans-can-teach-other-cities-302909467.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/new-podcast-the-future-is-smaller-explores-declining-school-enrollment-and-what-new-orleans-can-teach-other-cities-302909467.html</a></p><p>SOURCE New Schools for New Orleans (NSNO)</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH72975&amp;Transmission_Id=202610150857PR_NEWS_USPR_____PH72975&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "New Schools for New Orleans (NSNO)",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 5,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "summary:podcasts",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:49.532Z"
+    },
+    {
+      "company": [
+        "Event Horizon Film Studio LLC"
+      ],
+      "date": "20261015T124300+0000",
+      "dateline": "LOS ANGELES, Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "SMD",
+        "CPR",
+        "AFI",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "The Ultimate AI Test",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013856/Event-Horizon-Film-Studio-The-Ultimate-AI-Test.jpg?id=OA3020424&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013856/Event-Horizon-Film-Studio-The-Ultimate-AI-Test.jpg?id=OA3020424&p=publish"
+        },
+        {
+          "caption": "Consultant",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013857/Event-Horizon-Film-Studio-Image.jpg?id=OA3020428&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013857/Event-Horizon-Film-Studio-Image.jpg?id=OA3020428&p=publish"
+        }
+      ],
+      "release_id": "20261015PH73316",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT"
+      ],
+      "summary": "<p><i>Event Horizon Film Studio LLC announces Scott Hadley Morgan's vision for combining AI, entertainment, and human connection in a new digital ecosystem.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Can AI companies compete to become the best for humanity while still winning the race to dominate their markets? In his book Human Diamonds, writer, producer, and director Scott Hadley Morgan explores a different way to approach that challenge.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013856/Event-Horizon-Film-Studio-The-Ultimate-AI-Test.jpg?id=OA3020424\" title=\"The Ultimate AI Test\" alt=\"The Ultimate AI Test\"></img></p></div><p>Morgan began developing his ideas in 2018, building a framework that starts with physics and expands into astrophysics, biology, geology, and chemistry. His conclusion is that AI needs an environment where its impact can be explored through real human engagement. His proposed answer is the Multiverse, an entertainment, shopping, and social platform designed to bring AI companies and people together.</p>",
+      "ticker": [],
+      "title": "Human Diamonds: A New Blueprint for AI Companies to Prove Their Value to Humanity",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015PH73316",
+      "body": "<p><i>Event Horizon Film Studio LLC announces Scott Hadley Morgan's vision for combining AI, entertainment, and human connection in a new digital ecosystem.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Can AI companies compete to become the best for humanity while still winning the race to dominate their markets? In his book Human Diamonds, writer, producer, and director Scott Hadley Morgan explores a different way to approach that challenge.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013856/Event-Horizon-Film-Studio-The-Ultimate-AI-Test.jpg?id=OA3020424\" title=\"The Ultimate AI Test\" alt=\"The Ultimate AI Test\"></img></p></div><p>Morgan began developing his ideas in 2018, building a framework that starts with physics and expands into astrophysics, biology, geology, and chemistry. His conclusion is that AI needs an environment where its impact can be explored through real human engagement. His proposed answer is the Multiverse, an entertainment, shopping, and social platform designed to bring AI companies and people together.</p><p><b>AI Gems: Where Loyalty Becomes Valuable</b></p><p>Morgan calls participating individuals and groups \"AI Gems\" because he believes their loyalty and engagement could become precious to AI companies, much like diamonds. Individuals could build their own presence, while communities, student organizations, and other groups could form Gem Teams and earn rewards.</p><p>\"Let's say Anthropic offers to pay student debt for a fraternity if it uses only their AI in this Multiverse,\" Morgan explains. He envisions additional activities, such as debate teams, creating opportunities for further rewards and real-world benefits.</p><p>Morgan sees this as a new way for AI companies to build loyalty by giving people tangible reasons to participate. He compares the opportunity to the early growth of Google, when user participation helped establish its dominance in search.</p><p><b>Imagii: An Avatar Built Around You</b></p><p>Another key element is the Imagii, a personalized avatar Morgan designed around 49 apps intended to reflect different aspects of an individual's identity, interests, and aspirations. The concept begins with epigenetics, moves through technology, and extends toward personal and spiritual goals.</p><p>Morgan imagines that an AI Gem could explain a specific dream and find other Gems who have had the same dream. Combined with fantasy leagues, influencers, and interactive communities, he envisions an experience that feels like \"Limitless meets Avatar.\"</p><p><b>Hollywood Meets the Future of AI</b></p><p>Morgan brings an award-winning career as a Hollywood writer, producer, and director to his vision. He believes storytelling has always helped humanity imagine what is possible, and that entertainment could play an essential role in making AI more engaging and beneficial to people.</p><p>Through Event Horizon Film Studio LLC, Morgan connects his entertainment background with his broader ideas about technology, creativity, and human potential.</p><p>\"The power of story has uplifted humanity since our origin,\" Morgan says.</p><p>With Human Diamonds, Morgan invites AI professionals, investors, entertainment leaders, and anyone concerned about AI's future to explore a blueprint that puts human participation, creativity, family, and connection at the center of technological progress.</p><p>Morgan also welcomes inquiries from AI companies interested in consulting opportunities to explore how the Multiverse concept and the ideas presented in Human Diamonds could be developed to their fullest potential.</p><p>Read an excerpt from Human Diamonds and explore Morgan's video presentations at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798884-1&amp;h=1591259890&amp;u=https%3A%2F%2Fwww.eventhorizon.studio%2F&amp;a=https%3A%2F%2Fwww.eventhorizon.studio\" target=\"_blank\" rel=\"nofollow\">https://www.eventhorizon.studio</a>.</p><p>For consulting inquiries, contact Scott Hadley Morgan through Event Horizon Film Studio LLC via the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798884-1&amp;h=3694732219&amp;u=https%3A%2F%2Fwww.eventhorizon.studio%2F&amp;a=website\" target=\"_blank\" rel=\"nofollow\">website</a>.</p><p><b>Media Contact:</b><br></br>Scott Hadley Morgan<br></br>Event Horizon Film Studio LLC<br></br><a href=\"mailto:424435@email4pr.com\" target=\"_blank\" rel=\"nofollow\">424435@email4pr.com</a><br></br>424-332-8993</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013857/Event-Horizon-Film-Studio-Image.jpg?id=OA3020428\" title=\"Consultant\" alt=\"Consultant\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH73316&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/human-diamonds-a-new-blueprint-for-ai-companies-to-prove-their-value-to-humanity-302910026.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/human-diamonds-a-new-blueprint-for-ai-companies-to-prove-their-value-to-humanity-302910026.html</a></p><p>SOURCE Event Horizon Film Studio LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH73316&amp;Transmission_Id=202610150843PR_NEWS_USPR_____PH73316&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Event Horizon Film Studio LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 13,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "film studio",
+            "summary:entertainment",
+            "film",
+            "summary:producer",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:49.705Z"
+    },
+    {
+      "company": [
+        "The Media Technology Monitor (MTM)"
+      ],
+      "date": "20261015T123200+0000",
+      "dateline": "OTTAWA, ON, Oct. 15, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "SMD",
+        "MLM",
+        "TLS",
+        "PUB",
+        "ADV"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "New 2026 Media Technology Monitor data reveals critical insights into media consumption, tech adoption, and consumer trust among a demographic representing nearly one-quarter of Canada’s population.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014231/The-Media-Technology-Monitor-MTM-Canadian-Newcomers-Adopt-AI-a.jpg?id=OA3021363&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014231/The-Media-Technology-Monitor-MTM-Canadian-Newcomers-Adopt-AI-a.jpg?id=OA3021363&p=publish"
+        },
+        {
+          "caption": "Media Technology Monitor",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014232/The-Media-Technology-Monitor-MTM-Canadian-Newcomers-Adopt-AI-a.jpg?id=OA3021366&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014232/The-Media-Technology-Monitor-MTM-Canadian-Newcomers-Adopt-AI-a.jpg?id=OA3021366&p=publish"
+        }
+      ],
+      "release_id": "20261015C2045",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">OTTAWA, ON</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /CNW/ -- As immigration continues to drive Canadian population growth, understanding how newcomers engage with media and technology is essential for organizations navigating this shifting market.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2014231/The-Media-Technology-Monitor-MTM-Canadian-Newcomers-Adopt-AI-a.jpg?id=OA3021363\" title=\"New 2026 Media Technology Monitor data reveals critical insights into media consumption, tech adoption, and consumer trust among a demographic representing nearly one-quarter of Canada’s population.\" alt=\"New 2026 Media Technology Monitor data reveals critical insights into media consumption, tech adoption, and consumer trust among a demographic representing nearly one-quarter of Canada’s population.\"></img></p></div><p>The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798881-1&amp;h=559494356&amp;u=https%3A%2F%2Fmtm-otm.ca%2Fen%2F&amp;a=MTM+Newcomers\" target=\"_blank\" rel=\"nofollow\">MTM Newcomers</a> has released its 2026 data, focusing on the media behaviors, technology adoption, and settlement activities of individuals who have arrived in Canada within the past five years.  Our latest data highlights the evolving landscape of an expanding demographic that currently accounts for nearly one-quarter of the national population.</p>",
+      "ticker": [],
+      "title": "Canadian Newcomers Adopt AI and Short-Form Video at Nearly Double the Rate of Canadian-Born Residents, Finds Latest MTM Report",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015C2045",
+      "body": "<p><span class=\"legendSpanClass\">OTTAWA, ON</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /CNW/ -- As immigration continues to drive Canadian population growth, understanding how newcomers engage with media and technology is essential for organizations navigating this shifting market.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2014231/The-Media-Technology-Monitor-MTM-Canadian-Newcomers-Adopt-AI-a.jpg?id=OA3021363\" title=\"New 2026 Media Technology Monitor data reveals critical insights into media consumption, tech adoption, and consumer trust among a demographic representing nearly one-quarter of Canada’s population.\" alt=\"New 2026 Media Technology Monitor data reveals critical insights into media consumption, tech adoption, and consumer trust among a demographic representing nearly one-quarter of Canada’s population.\"></img></p></div><p>The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798881-1&amp;h=559494356&amp;u=https%3A%2F%2Fmtm-otm.ca%2Fen%2F&amp;a=MTM+Newcomers\" target=\"_blank\" rel=\"nofollow\">MTM Newcomers</a> has released its 2026 data, focusing on the media behaviors, technology adoption, and settlement activities of individuals who have arrived in Canada within the past five years.  Our latest data highlights the evolving landscape of an expanding demographic that currently accounts for nearly one-quarter of the national population.</p><div class=\"wcag-arialevel-3\" style=\"display: block; font-size: 1.17em; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold; text-align: left;\" role=\"heading\" aria-level=\"3\">Highlights from the 2026 MTM Newcomers season include:</div><ul type=\"disc\"><li><b>Widespread Adoption of Short-Form Video:</b> Nine in ten newcomers watch short-form vertical video across platforms like YouTube Shorts, Instagram Reels, Snapchat Spotlight, and TikTok. Newcomers are nearly 50% more likely to watch short-form video than are Canadian-born respondents, showing double the likelihood to use YouTube Shorts and five times the likelihood to use Snapchat Spotlight.</li><li><b>High Engagement with Artificial Intelligence:</b> Four-fifths of newcomers use AI tools, which is nearly double the rate observed among Canadian-born respondents. International students and temporary workers show the highest adoption levels, leveraging a wider variety of AI platforms including Claude, DeepSeek, Perplexity, and Meta AI at more than double the rate of Canadian-born users.</li><li><b>Personal Connections Drive Consumer Choices:</b> Newcomers rely heavily on personal recommendations when selecting essential services. They are nearly eight times as likely to choose a grocery store based on word-of-mouth from people they know, twice as likely to choose a cellphone provider based on a recommendation, and four times as likely to pick a provider where an acquaintance works.</li></ul><p>Download the free version of the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798881-1&amp;h=2700460672&amp;u=https%3A%2F%2Fmtm-otm.ca%2Fen%2Finsights%2Freport-download-2%2F%3FreportId%3D1417%26from%3D%252Fen%252Finsights%252F&amp;a=Newcomers+Top+Trends\" target=\"_blank\" rel=\"nofollow\"><i>Newcomers Top Trends</i></a> report 2026.</p><p><b>English Webinar</b></p><p>Please join us on Nov 3rd at 2:00 PM ET as we share some of the new findings from our <i>MTM Newcomers Top Trends</i> report 2026. After registering, you will receive a confirmation email containing information about joining the webinar.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798881-1&amp;h=3434671523&amp;u=https%3A%2F%2Fattendee.gotowebinar.com%2Fregister%2F1640007813460916573&amp;a=REGISTER\" target=\"_blank\" rel=\"nofollow\">REGISTER</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS2014232/The-Media-Technology-Monitor-MTM-Canadian-Newcomers-Adopt-AI-a.jpg?id=OA3021366\" title=\"Media Technology Monitor\" alt=\"Media Technology Monitor\"></img></p></div><p>SOURCE The Media Technology Monitor (MTM)</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C2045&amp;Transmission_Id=202610150832CANADANWCANADAPR_C2045&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "The Media Technology Monitor (MTM)",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "engineering"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "engineering"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 2,
+          "digital": 6,
+          "engineering": 5,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:PUB",
+            "industry:SMD"
+          ],
+          "engineering": [
+            "media technology"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:49.889Z"
+    },
+    {
+      "company": [
+        "The Advertising Research Foundation"
+      ],
+      "date": "20261015T120500+0000",
+      "dateline": "NEW YORK, Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "FIT",
+        "REA",
+        "FLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "ARF Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283&p=publish"
+        }
+      ],
+      "release_id": "20261015DC67176",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "NPT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- The Advertising Research Foundation (ARF) has named Fairlife and its agency Doner as winners of the 2026 Grand Ogilvy Award for their campaign \"Core Power: Champion Your Recovery.\" The campaign also won Gold in Food &amp; Beverage and Silver for Best Brand Transformation. The Grand Ogilvy recognizes the year's most compelling connection between research, consumer insight, creative work and results.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283\" title=\"ARF Logo\" alt=\"ARF Logo\"></img></p></div><p>The Fairlife and Doner team used post-workout interviews, in-home discussions, semiotic analysis, barrier research, brand tracking and creative testing to understand how people approach exercise and recovery. The research pointed to an opportunity beyond serious fitness enthusiasts: everyday exercisers also value recovery. \"Champion Your Recovery\" turned that insight into a more inclusive invitation to recognize effort at every level.</p>",
+      "ticker": [],
+      "title": "Fairlife's \"Core Power\" Campaign Takes Grand Ogilvy at 2026 ARF David Ogilvy Awards",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015DC67176",
+      "body": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- The Advertising Research Foundation (ARF) has named Fairlife and its agency Doner as winners of the 2026 Grand Ogilvy Award for their campaign \"Core Power: Champion Your Recovery.\" The campaign also won Gold in Food &amp; Beverage and Silver for Best Brand Transformation. The Grand Ogilvy recognizes the year's most compelling connection between research, consumer insight, creative work and results.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1134640/the-arf-circle-logo.jpg?id=OA2995283\" title=\"ARF Logo\" alt=\"ARF Logo\"></img></p></div><p>The Fairlife and Doner team used post-workout interviews, in-home discussions, semiotic analysis, barrier research, brand tracking and creative testing to understand how people approach exercise and recovery. The research pointed to an opportunity beyond serious fitness enthusiasts: everyday exercisers also value recovery. \"Champion Your Recovery\" turned that insight into a more inclusive invitation to recognize effort at every level.</p><p>The winners were celebrated October 14 at Tribeca Rooftop in New York City, following the ARF's Creative Effectiveness conference. The conference examined how marketers can balance immediate performance with lasting brand value such as AI, retail media and creator marketing reshape creative strategy. Speakers explored ways to measure effective creative across channels and connect it to business outcomes.</p><p><b>Other Gold winners</b></p><ul type=\"disc\"><li>Abbott Laboratories / FreeStyle Libre — \"This is Progress\" (Pharmaceuticals)</li><li>Auto Glass Now / Driven Brands — \"Get Your Auto Glass Now\" (Automotive)</li><li>Chase Sapphire Reserve — \"Stories Worth Retelling\" (Financial Services &amp; Insurance)</li><li>He Gets Us — \"Loaded Words\" (Cultural Fluency)</li><li>Heineken USA / Dos Equis — \"Ni Perdón, Ni Permiso\" (Cultural Fluency)</li><li>J Sainsbury's PLC / Sainsbury's — \"Are We Made of Money?\" (International, For-Profit)</li><li>Kaiser Permanente — \"A Whole Big Thing\" (Health &amp; Personal Care)</li><li>Microsoft — \"M365 with Copilot Campaign\" (Best Use of Emerging Technology)</li><li>Nestlé / Sanpellegrino — \"With Love, Italy: Disrupting the Rules of Latecomer Marketing\" (Best Brand Transformation)</li><li>Tapestry / Coach — \"Courage to Be Real\" (Fashion, Beauty &amp; Home)</li><li>The Ad Council — \"Agree to Agree\" (Government, Public Service &amp; Non-Profit)</li><li>TruGreen — \"Trust the Pros the Pros Trust\" (Best Brand Transformation)</li><li>Wahl Clipper Corporation / Wahl Professional — \"Make It with Wahl\" (Business-to-Business)</li><li>White Castle — \"Crave Thy Castle\" (Retail &amp; Restaurants)</li><li>YouTube TV — \"Don't Settle for Meh\" (Sports, Media &amp; Entertainment)</li></ul><p>\"Fairlife and Doner's work shows how research can uncover a bigger opportunity and give creative teams a clear direction,\" said Scott McDonald, Ph.D., President and CEO of the ARF. \"By listening to a wider range of exercisers, the team made recovery feel relevant to more people.\"</p><p>See the complete list of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=1321188966&amp;u=https%3A%2F%2Fthearf.org%2Farf-david-ogilvy-award-winners-2026%2F&amp;a=2026+winners\" target=\"_blank\" rel=\"nofollow\">2026 winners</a>.</p><p><b>About the ARF</b></p><p>Founded in 1936, the Advertising Research Foundation (ARF) is the leading organization dedicated to creating better advertising through research, standards and collaboration. With more than 400 member companies, the ARF advances the science and practice of advertising, media and marketing.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=1276671638&amp;u=https%3A%2F%2Fthearf.org%2F%3Fpost_type%3Dua_resource%26p%3D394867&amp;a=thearf.org\" target=\"_blank\" rel=\"nofollow\">thearf.org</a> or follow the ARF on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=3681435924&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fthearf%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=571403270&amp;u=https%3A%2F%2Fwww.youtube.com%2Fuser%2FTheARFvideos&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=3332315046&amp;u=https%3A%2F%2Ftwitter.com%2FThe_ARF&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792900-1&amp;h=2705862042&amp;u=https%3A%2F%2Fwww.facebook.com%2FARF&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>.</p><p>Media Contact: Philip Perry | Senior Content &amp; Communications Manager | <a href=\"mailto:pperry@thearf.org\" rel=\"nofollow\">pperry@thearf.org</a> | (212) 751-5656 ext. 5757</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC67176&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fairlifes-core-power-campaign-takes-grand-ogilvy-at-2026-arf-david-ogilvy-awards-302903153.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fairlifes-core-power-campaign-takes-grand-ogilvy-at-2026-arf-david-ogilvy-awards-302903153.html</a></p><p>SOURCE The Advertising Research Foundation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC67176&amp;Transmission_Id=202610150805PR_NEWS_USPR_____DC67176&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "The Advertising Research Foundation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:50.059Z"
+    },
+    {
+      "company": [
+        "Shivoo Studios LLC"
+      ],
+      "date": "20261015T120200+0000",
+      "dateline": "JAFFREY, N.H., Oct. 15, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NHS",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "GAM",
+        "RAD",
+        "MLM",
+        "PUB",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Reality Reframe broadcast in AR soon.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2013494/Shivoo-Studios-LLC-rrpic.jpg?id=OA3019424&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2013494/Shivoo-Studios-LLC-rrpic.jpg?id=OA3019424&p=publish"
+        },
+        {
+          "caption": "Shivoo Studios Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1610194/Shivoo-Studios-Logo.jpg?id=OA3019408&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1610194/Shivoo-Studios-Logo.jpg?id=OA3019408&p=publish"
+        }
+      ],
+      "release_id": "20261015NE73022",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><b>New series brings together executives, technologists and innovators to explore where XR is today, where it's headed and what business leaders need to know</b></p><p><span class=\"legendSpanClass\">JAFFREY, N.H.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Shivoo Studios, an immersive media and XR production company, today announced <i>Reality Reframe</i>, a new podcast and video series exploring extended reality through candid conversations with the people building, implementing and experiencing the technology firsthand.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013494/Shivoo-Studios-LLC-rrpic.jpg?id=OA3019424\" title=\"Reality Reframe broadcast in AR soon.\" alt=\"Reality Reframe broadcast in AR soon.\"></img></p></div><p>Hosted by Alison Dean, <i>Reality Reframe</i> is designed to make immersive technology understandable and useful to business leaders—without the hype or marketing speak.</p>",
+      "ticker": [],
+      "title": "Shivoo Studios Announces Reality Reframe, a New Podcast Exploring What's Next in Extended Reality",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015NE73022",
+      "body": "<p><b>New series brings together executives, technologists and innovators to explore where XR is today, where it's headed and what business leaders need to know</b></p><p><span class=\"legendSpanClass\">JAFFREY, N.H.</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Shivoo Studios, an immersive media and XR production company, today announced <i>Reality Reframe</i>, a new podcast and video series exploring extended reality through candid conversations with the people building, implementing and experiencing the technology firsthand.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2013494/Shivoo-Studios-LLC-rrpic.jpg?id=OA3019424\" title=\"Reality Reframe broadcast in AR soon.\" alt=\"Reality Reframe broadcast in AR soon.\"></img></p></div><p>Hosted by Alison Dean, <i>Reality Reframe</i> is designed to make immersive technology understandable and useful to business leaders—without the hype or marketing speak.</p><p>Each conversation explores the questions leaders should be asking as immersive technology continues to evolve: What is it? Where is it going? What should organizations do next? And what should they avoid?</p><p>\"There's a real gap between what people think XR is and what the technology is capable of today,\" said Sterling Youngman, CEO of Shivoo Studios. \"Some people have never experienced it. Others may be judging it based on something they tried years ago—or an experience that simply wasn't very good. <i>Reality Reframe</i> is about learning from the past, understanding where we are today and looking at what's coming next by hearing from the people who have actually done the work—the good, the bad and everything in between.\"</p><p>Upcoming conversations will feature voices from across immersive technology, entertainment, interactive experiences and business, including Jon Snoddy, co-founder and CEO of Operative Games and former head of Research &amp; Development, Technology and AI studios at Walt Disney Imagineering; Spencer Lindsay, founder of eTribe; Bob Chambers, co-CEO of The Producers Group; and Peiman Fallahian Sichani, XR creative technologist and co-founder of Agora XR.</p><p>Together, these guests bring perspectives spanning interactive storytelling, real-time 3D, themed entertainment, augmented and virtual reality, artificial intelligence and emerging technologies. Future episodes will feature both people who helped shape the field and those actively building and implementing what comes next.</p><p>\"You shouldn't need to be an XR expert to understand why this technology matters,\" said Dean. \"My job is to ask the questions a smart, curious business leader would want answered—and sometimes the questions they may not know to ask yet. If every conversation leaves someone seeing the possibilities, risks or decisions a little differently, we've done our job.\"</p><p>As immersive technologies move beyond experimentation into real-world applications, <i>Reality Reframe</i> will look beyond the success stories to examine what actually happened: what worked, what didn't, what changed along the way and what others can learn from the experience.</p><p><b>The series is also inviting people on both sides of the XR experience to join the conversation.</b> Business leaders who have commissioned or implemented immersive projects—as well as the technologists, studios and creators who have built them—are encouraged to share their experiences, including projects that succeeded, projects that fell short and lessons learned along the way. Those interested in sharing their story or being considered for a future conversation can contact <b><a href=\"mailto:rrguest@shivoostudios.com\" rel=\"nofollow\">rrguest@shivoostudios.com</a></b>.</p><p>The technology is changing. <i>Reality Reframe</i> asks whether it may also be time to change the way we look at it.</p><p><i>Reality Reframe</i> will be available in audio and video formats on major podcast platforms and YouTube, with launch details and additional guests to be announced soon.</p><p><b>About <i>Reality Reframe</i></b></p><p><i>Reality Reframe</i> explores extended reality through candid conversations with the leaders, builders and innovators shaping the field. From where XR stands today and where it's going to what organizations should do—and what they should avoid—the series is designed to make immersive technology understandable, practical and relevant to business decision-makers.</p><p><i>Reality Reframe</i> is produced by Shivoo Studios.</p><p><b>About Shivoo Studios</b></p><p>Shivoo Studios is an immersive media production company specializing in augmented and virtual reality experiences. Combining traditional storytelling craft with emerging technologies, Shivoo develops cinematic and interactive work across AR, MR, VR, animation, film and virtual production to create compelling immersive experiences for audiences and organizations.</p><p><b>Media Contact:</b><br></br>Alison Dean Frost<br></br><a href=\"mailto:alisonf@shivoostudios.com\" rel=\"nofollow\">alisonf@shivoostudios.com</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1610194/Shivoo-Studios-Logo.jpg?id=OA3019408\" title=\"Shivoo Studios Logo\" alt=\"Shivoo Studios Logo\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NE73022&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/shivoo-studios-announces-reality-reframe-a-new-podcast-exploring-whats-next-in-extended-reality-302909404.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/shivoo-studios-announces-reality-reframe-a-new-podcast-exploring-whats-next-in-extended-reality-302909404.html</a></p><p>SOURCE Shivoo Studios LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NE73022&amp;Transmission_Id=202610150802PR_NEWS_USPR_____NE73022&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Shivoo Studios LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 1,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 1,
+          "radio": 2,
+          "television": 0,
+          "podcast": 4,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "summary:production company",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "management": [
+            "summary:executive"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:50.232Z"
+    },
+    {
+      "company": [
+        "Celiac Disease Foundation"
+      ],
+      "date": "20261015T120000+0000",
+      "dateline": "LOS ANGELES, Oct. 15, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HEA",
+        "RAD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Celiac Disease Foundation Horizontal Logo with Tagline: Advocacy. Breakthroughs. Cure.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1782272/Celiac-Disease-Foundation-Logo-Horizontal-Tagline-Logo.jpg?id=OA2979748&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1782272/Celiac-Disease-Foundation-Logo-Horizontal-Tagline-Logo.jpg?id=OA2979748&p=publish"
+        }
+      ],
+      "release_id": "20261015LA72829",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT"
+      ],
+      "summary": "<p><b><i>New series will bring candid conversations about diagnosis, daily life, research, and the search for treatments beyond the gluten-free diet to a global audience</i></b></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Celiac disease has never had a platform — or a voice — quite like this.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1782272/Celiac-Disease-Foundation-Logo-Horizontal-Tagline-Logo.jpg?id=OA2979748\" title=\"Celiac Disease Foundation Horizontal Logo with Tagline: Advocacy. Breakthroughs. Cure.\" alt=\"Celiac Disease Foundation Horizontal Logo with Tagline: Advocacy. Breakthroughs. Cure.\"></img></p></div><p>The Celiac Disease Foundation has announced the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798410-1&amp;h=1810990238&amp;u=https%3A%2F%2Fwww.celiac.org%2Finsideceliac&amp;a=Inside+Celiac%2C\" target=\"_blank\" rel=\"nofollow\"><i>Inside Celiac</i>,</a> a new signature podcast hosted by acclaimed actress Katie Lowes, known to millions for her standout roles in <i>Scandal</i>, <i>Inventing Anna</i>, and <i>The Hunting Wives</i>. Drawing on her extraordinary ability to connect with audiences and her deeply personal experience living with celiac disease, Lowes will lead candid conversations that bring greater national attention to this serious, often-overlooked autoimmune condition.</p>",
+      "ticker": [],
+      "title": "Celiac Disease Foundation Announces Inside Celiac, a New Signature Podcast Hosted by Acclaimed Actress Katie Lowes",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261015LA72829",
+      "body": "<p><b><i>New series will bring candid conversations about diagnosis, daily life, research, and the search for treatments beyond the gluten-free diet to a global audience</i></b></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 15, 2026</span> /PRNewswire/ -- Celiac disease has never had a platform — or a voice — quite like this.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1782272/Celiac-Disease-Foundation-Logo-Horizontal-Tagline-Logo.jpg?id=OA2979748\" title=\"Celiac Disease Foundation Horizontal Logo with Tagline: Advocacy. Breakthroughs. Cure.\" alt=\"Celiac Disease Foundation Horizontal Logo with Tagline: Advocacy. Breakthroughs. Cure.\"></img></p></div><p>The Celiac Disease Foundation has announced the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798410-1&amp;h=1810990238&amp;u=https%3A%2F%2Fwww.celiac.org%2Finsideceliac&amp;a=Inside+Celiac%2C\" target=\"_blank\" rel=\"nofollow\"><i>Inside Celiac</i>,</a> a new signature podcast hosted by acclaimed actress Katie Lowes, known to millions for her standout roles in <i>Scandal</i>, <i>Inventing Anna</i>, and <i>The Hunting Wives</i>. Drawing on her extraordinary ability to connect with audiences and her deeply personal experience living with celiac disease, Lowes will lead candid conversations that bring greater national attention to this serious, often-overlooked autoimmune condition.</p><p>Each episode of <i>Inside Celiac</i> will bring together leading medical and nutrition experts, patients, advocates, researchers, and other influential voices to explore what it truly means to live with celiac disease. Topics will include the often-long road to diagnosis, the everyday realities of maintaining a strict gluten-free diet, emotional health, family life, pediatric celiac disease, long-term medical care, groundbreaking research, clinical trials, and the urgent search for treatments beyond the diet.</p><p>\"Living with celiac disease affects so much more than what is on your plate. It shapes how you travel, celebrate, work, parent, and move through the world,\" said Lowes. \"I am thrilled to host <i>Inside Celiac</i> and create a space where people can hear honest stories, learn from trusted experts, and feel less alone. This series is about giving our community a stronger voice while helping the broader public understand the very real impact of this disease.\"</p><p>Celiac disease is a serious genetic autoimmune disorder in which ingestion of gluten causes damage to the small intestine and can lead to significant short-and long-term health consequences. Its symptoms can vary widely, contributing to delayed and missed diagnoses. While a strict gluten-free diet is currently the only treatment, maintaining the diet can be medically, socially, emotionally, and financially burdensome.</p><p>\"<i>Inside Celiac</i> represents a significant new chapter in how we educate, engage, and advocate for the celiac disease community,\" said Marilyn G. Geller, chief executive officer of the Celiac Disease Foundation. \"By pairing Katie's recognizable voice and powerful storytelling with the Foundation's trusted expertise and international reach, we have an extraordinary opportunity to elevate celiac disease in the public conversation. We want millions of people affected by this disease to feel seen and heard while building greater awareness of the urgent need for earlier diagnosis, better care, and treatments beyond the gluten-free diet.\"</p><p>The series will translate complex medical and scientific topics into accessible conversations while centering the lived experiences of patients and families. Planned episodes will explore the current state of celiac disease, the diagnostic journey, manifestations beyond the gastrointestinal system, pediatric care, gluten-free nutrition and labeling, follow-up care, mental health and quality of life, persistent symptoms, disease prediction and prevention, clinical trials, emerging therapies, and the future of celiac disease care.</p><p>\"The science of celiac disease is advancing rapidly, but there remains a considerable gap between what researchers and clinicians are learning and what patients, families, and the wider public understand about the condition,\" said Dawn Adams, M.D., president of the Society for the Study of Celiac Disease. \"<i>Inside Celiac</i> can help close that gap by bringing accurate, evidence-based information into engaging and relatable conversations.\"</p><p>Through Lowes' authentic and approachable hosting style, <i>Inside Celiac</i> will invite listeners into conversations that are informative, inspiring, and grounded in both scientific evidence and real-world experience. The podcast will also highlight the people driving progress across the celiac disease community, from researchers pursuing new diagnostics and therapies to advocates working to improve food safety, access to care, and quality of life.</p><p><i>Inside Celiac</i> will premiere on Thursday October 15, 2026, with new episodes available on the third Thursday of each month. Listeners can find the series on Apple Podcasts, Spotify, Pandora, iHeart, YouTube, and all platforms where podcasts are hosted.</p><p>To learn more about <i>Inside Celiac</i> and receive updates when new episodes are released, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798410-1&amp;h=1996081345&amp;u=https%3A%2F%2Fwww.celiac.org%2Finsideceliac&amp;a=www.celiac.org%2Finsideceliac\" target=\"_blank\" rel=\"nofollow\">www.celiac.org/insideceliac</a>.</p><p><b>About the Celiac Disease Foundation</b></p><p>The Celiac Disease Foundation is the nation's leading patient advocacy organization for celiac disease. For more than three decades, the Foundation has worked to accelerate diagnosis, treatments, and a cure through research, education, and advocacy. The Foundation leads programs that connect patients with clinical trials, advance medical education, support patients and families, and elevate celiac disease as a public health priority. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4798410-1&amp;h=3780208627&amp;u=https%3A%2F%2Fceliac.org%2F&amp;a=celiac.org\" target=\"_blank\" rel=\"nofollow\">celiac.org</a>.</p><p><b>About Katie Lowes</b></p><p>Katie Lowes is an acclaimed actress, director, producer, and podcast host known for her roles in the television series <i>Scandal</i>, <i>Inventing Anna</i>, and <i>The Hunting Wives</i>, as well as numerous film, television, theater, and voice performances. Drawing on her own experience with celiac disease, Lowes is committed to using her platform and storytelling abilities to increase understanding of the condition and amplify the voices of patients and families.</p><p><b>Media Contact</b></p><p><b>Emily Piken</b><br></br>Celiac Disease Foundation<br></br><a href=\"mailto:Emily.piken@celiac.org\" target=\"_blank\" rel=\"nofollow\"><b>Emily.piken@celiac.org</b></a> <br></br>310.905.3437 x106</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA72829&amp;sd=2026-10-15\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/celiac-disease-foundation-announces-inside-celiac-a-new-signature-podcast-hosted-by-acclaimed-actress-katie-lowes-302909233.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/celiac-disease-foundation-announces-inside-celiac-a-new-signature-podcast-hosted-by-acclaimed-actress-katie-lowes-302909233.html</a></p><p>SOURCE Celiac Disease Foundation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA72829&amp;Transmission_Id=202610150800PR_NEWS_USPR_____LA72829&amp;DateId=20261015\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Celiac Disease Foundation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 9,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actress"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast host",
+            "podcast",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-15T15:36:50.448Z"
+    },
     {
       "company": [
         "South Western Communications"
