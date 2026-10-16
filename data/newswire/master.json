@@ -1,9 +1,528 @@
 {
-  "generated_at": "2026-10-16T12:20:37.848Z",
+  "generated_at": "2026-10-16T14:53:15.366Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 595,
+  "count": 601,
   "releases": [
+    {
+      "company": [
+        "DOUSSAN MUSIC GROUP/DMG Presents"
+      ],
+      "date": "20261016T140300+0000",
+      "dateline": "NASHVILLE, Tenn. and COVINGTON, La., Oct. 16, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "TNS",
+        "USE",
+        "USA",
+        "NAM",
+        "LSA"
+      ],
+      "industry": [
+        "MUS",
+        "ART",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261016FL73545",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "CXP"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NASHVILLE, Tenn. and COVINGTON, La.</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Doussan Music Group (DMG Presents), an independent live entertainment and concert promotion company, is expanding its national presence with the opening of a second office in Nashville, Tennessee, and key leadership appointments.</p><p>The new office in Nashville's Wedgewood-Houston neighborhood complements the company's headquarters in Covington, Louisiana, strengthening its connections with artists, agents, venues, and industry partners nationwide.</p>",
+      "ticker": [],
+      "title": "Doussan Music Group Expands with New Nashville Office and Leadership Appointments",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261016FL73545",
+      "body": "<p><span class=\"legendSpanClass\">NASHVILLE, Tenn. and COVINGTON, La.</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Doussan Music Group (DMG Presents), an independent live entertainment and concert promotion company, is expanding its national presence with the opening of a second office in Nashville, Tennessee, and key leadership appointments.</p><p>The new office in Nashville's Wedgewood-Houston neighborhood complements the company's headquarters in Covington, Louisiana, strengthening its connections with artists, agents, venues, and industry partners nationwide.</p><p>DMG's expansion follows an extremely successful period of touring and concert promotion. In 2025 and 2026, the company promoted and produced seven college stadium dates featuring The Boys From Oklahoma package, featuring Turnpike Troubadours and Cross Canadian Ragweed, with all shows selling out or nearly selling out. DMG also co promoted Alan Jackson's final touring performance at Nashville's Nissan Stadium, capping Alan's previous two-year, 10-city arena tour. Upcoming engagements include a 16-date fall tour with platinum-selling country artist Jon Pardi and 10 November dates for Aaron Lewis's Acoustic Origins tour. Additional tours planned for 2027 are expected to be announced this fall.</p><p>To support its continued growth, DMG has strengthened its leadership team with three personnel updates:</p><ul type=\"disc\"><li>Anna Margaret Kilgore joined the company as Talent Buyer in April 2026. With experience in marketing, project management, and touring promotion, she will focus on expanding DMG's event portfolio and building relationships with artists, agencies, and venues.<br></br><br></br></li><li>Hale Neitzschman has been named Director of Finance. He will oversee financial operations, event settlements, strategic planning, and financial processes supporting the company's growing touring schedule.<br></br><br></br></li><li>Rebecca Saladis has been promoted to Director of Booking, Touring, &amp; Artist Relations. She will lead booking strategy, tour execution, and artist relations.</li></ul><p>\"Opening our Nashville office, in Wedgewood Houston, the new music hub, is a natural next step in our evolution,\" said Russell Doussan, President and CEO. He emphasized the company's accomplishments over the past three years and its commitment to working with talented artists to create memorable live music experiences. Founded on artist-first partnerships and exceptional live entertainment, Doussan Music Group continues to expand its concert promotion, tour production, artist relations, and venue partnerships across the country.</p><p><b>Read the full original press release:</b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799111-1&amp;h=804432497&amp;u=https%3A%2F%2Fdmgpresents.com%2Fdoussan-music-group%2520expands-with-nashville-office-strategic-leadership-appointments-and-continued-touring-success%2F&amp;a=https%3A%2F%2Fdmgpresents.com%2Fdoussan-music-group+expands-with-nashville-office-strategic-leadership-appointments-and-continued-touring-success%2F\" target=\"_blank\" rel=\"nofollow\">https://dmgpresents.com/doussan-music-group expands-with-nashville-office-strategic-leadership-appointments-and-continued-touring-success/</a> </p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL73545&amp;sd=2026-10-16\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/doussan-music-group-expands-with-new-nashville-office-and-leadership-appointments-302910489.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/doussan-music-group-expands-with-new-nashville-office-and-leadership-appointments-302910489.html</a></p><p>SOURCE DOUSSAN MUSIC GROUP/DMG Presents</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL73545&amp;Transmission_Id=202610161003PR_NEWS_USPR_____FL73545&amp;DateId=20261016\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "DOUSSAN MUSIC GROUP/DMG Presents",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 9,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:live entertainment",
+            "summary:entertainment",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-16T14:53:17.869Z"
+    },
+    {
+      "company": [
+        "MoonPay"
+      ],
+      "date": "20261016T140000+0000",
+      "dateline": "NEW YORK, Oct. 16, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "FNT",
+        "AFI",
+        "CPR",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "moonpay.com",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1814304/NEW-2026-MP-LOGO-Logo.jpg?id=OA3023801&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1814304/NEW-2026-MP-LOGO-Logo.jpg?id=OA3023801&p=publish"
+        }
+      ],
+      "release_id": "20261016NY74242",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "FVT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Presented by MoonPay and Venice, the inaugural Lumara Film Festival festival received more than 700 submissions from filmmakers worldwide and today reveals six finalists competing for the Grand Prize and Jury Selection, with winners announced live at the World Premiere at the Roxy Hotel Cinema in New York on October 26. The evening will also feature an exclusive extended prologue of jury member and AI filmmaker Gossip Goblin's new film \"Gods Don't Give Gifts.\", the first-ever AI film slated for a wide theatrical release at the end of this year. </i></p>",
+      "ticker": [],
+      "title": "Lumara Film Festival Announces Finalists for Inaugural AI Film Festival",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261016NY74242",
+      "body": "\n<p class=\"prntac\"><i>Presented by MoonPay and Venice, the inaugural Lumara Film Festival festival received more than 700 submissions from filmmakers worldwide and today reveals six finalists competing for the Grand Prize and Jury Selection, with winners announced live at the World Premiere at the Roxy Hotel Cinema in New York on October 26. The evening will also feature an exclusive extended prologue of jury member and AI filmmaker Gossip Goblin's new film \"Gods Don't Give Gifts.\", the first-ever AI film slated for a wide theatrical release at the end of this year. </i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799792-1&amp;h=1194538372&amp;u=https%3A%2F%2Flumarafilmfestival.com%2F&amp;a=Lumara+Film+Festival\" target=\"_blank\" rel=\"nofollow\">Lumara Film Festival</a>, an independent film festival for the artists defining a new era of filmmaking, presented by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799792-1&amp;h=490129844&amp;u=http%3A%2F%2Fmoonpay.com%2F&amp;a=MoonPay\" target=\"_blank\" rel=\"nofollow\">MoonPay</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799792-1&amp;h=619308612&amp;u=https%3A%2F%2Fvenice.ai%2F&amp;a=Venice\" target=\"_blank\" rel=\"nofollow\">Venice</a>, has announced the six finalists competing for its Grand Prize and Jury Selection awards and the 16 nominees for its five category awards.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1814304/NEW-2026-MP-LOGO-Logo.jpg?id=OA3023801\" title=\"moonpay.com\" alt=\"moonpay.com\"></img>\n                </p>\n    </div>\n<p>Lumara was created to find and celebrate the films coming out of a transformative moment for cinema. AI has given filmmakers a new set of tools and a new creative language that opens the door to opportunities otherwise unavailable to many. Submissions were open from July 24 to September 15 and drew more than 700 films. Entry was free and open worldwide, and filmmakers could use any AI filmmaking platform available.</p><p>Films were evaluated by a jury of the world's leading AI filmmakers and internet-culture figures including Voidstomper, Gossip Goblin, Chris White (executive producer, A24's \"Backrooms\"), JBoogxCreative, Heavy Pulp, SÜNDERMANN, BLVCKL!GHT, Ansem and FaZe Banks. Films were judged on the strength of the idea, the quality of the storytelling, and how well the filmmaker used AI.</p><p>The six finalists will now move into competition for the Grand Prize of <b>$</b>32,000 and 3.2 million Venice AI credits and the Jury Selection award of <b>$</b>20,000 and 2 million Venice AI credits.</p><p><i>The finalists are:</i></p><ul type=\"disc\"><li>\"Black Thunder\" (Ryan Lightbourn)</li><li>\"Candy\" (Jiaze Li)</li><li>\"Gabriel\" (T Zhang)</li><li>\"Killabears – The Broadcast\" (Mikael Tyrsen)</li><li>\"Living with a Merman\" (Chris Capel)</li><li>\"Mianmian\" (Yingjie Chen)</li></ul><p><i>This year's categories and their nominees include:</i></p><ul type=\"disc\"><li><b>Terminal</b> <b>Award</b> (best experimental film), <b>$</b>12,000 and 1.2 million Venice AI credits<ul type=\"disc\"><li>\"REVIVER\" (Aleksey Dor)</li><li>\"Stories My Great Great Great Grandmother Told Me\" (Philippe Noguchi)</li><li>\"THE LAST TRIBE\" (Stephane Benini)</li></ul></li><li><b>Serenissima</b> <b>Award</b> (best film made with Venice), <b>$</b>12,000 and 1.2 million Venice AI credits<ul type=\"disc\"><li>\"Black Thunder\" (Ryan Lightbourn)</li><li>\"Er Loop\" (Marco Magario)</li><li>\"Never Forget\" (Allan Ecax)</li></ul></li><li><b>Get</b> <b>Shorty</b> <b>Award</b> (best film under two minutes), <b>$</b>8,000 and 800,000 Venice AI credits<ul type=\"disc\"><li>\"Ato de [Later]\" (Luke Mazey)</li><li>\"COMPULSION\" (Gyuseon Lee)</li><li>\"Do Not Disturb\" (Adrian Daniel Botnariu)</li><li>\"Summer Afternoon, July 1994\" (Charlie Park)</li></ul></li><li><b>Mouse</b> <b>Award</b> (best film for children or young adults), <b>$</b>8,000 and 800,000 Venice AI credits<ul type=\"disc\"><li>\"Far away home\" (Siping Song)</li><li>\"FIX\" (Eunha Lee, Sora Lee and Hakhoon Lee)</li><li>\"Roraima\" (Ishan Devare Modi)</li></ul></li><li><b>Rekt</b> <b>Award</b> (best satire, comedy or musical about finance, markets or <span>crypto</span>), <b>$</b>8,000 and 800,000 Venice AI credits<ul type=\"disc\"><li>\"Great Pepe Wars\" (Aiden Guo)</li><li>\"JUST SAY <span>SOLANA</span>\" (Yassine Le Gall)</li><li>\"ROLL EVERYTHING\" (Ashanth Phillips)</li></ul></li></ul><p>The winner of each category award will be announced on the Venice and MoonPay channels.</p><p>The finalists will be screened in full at the inaugural Lumara screening and awards night taking place on October 26 at the Roxy Hotel Cinema in New York City, with winners announced at the event.</p><p>The evening will also include screenings of the category-winning films, and new work previews from members of the jury, including an exclusive an exclusive extended prologue of Gossip Goblin's new film God's Don't Give Gifts, the first AI film slated for a wide theatrical release at the end of this year.</p><p>The winning films will premiere online on X and YouTube on October 27.</p><p><b>About MoonPay<br></br></b>MoonPay is a global financial technology company that provides infrastructure for moving value across traditional and digital financial systems. Founded in 2019, MoonPay serves more than 35 million customers in 180 countries and more than 1500 enterprise clients across <span>crypto</span> and <span>fintech</span>. Its products support payments, trading, commerce, <span>stablecoin</span> infrastructure and other services that connect conventional payment networks with blockchain-based financial rails. MoonPay maintains regulatory licenses and authorizations in multiple jurisdictions, including the United States and European Union. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799792-1&amp;h=1854703016&amp;u=http%3A%2F%2Fwww.moonpay.com%2F&amp;a=www.moonpay.com\" target=\"_blank\" rel=\"nofollow\">www.moonpay.com</a>.</p><p><b>About Venice<br></br></b>Venice is a privacy-first AI platform built for unlimited creative freedom. It gives filmmakers unrestricted access to the world's leading video, image and audio models in one private workspace, alongside frontier text and code models, without censorship and without surveillance. Trusted by 5 million users, Venice runs leading video models including Seedance 2.5, image models from OpenAI, Google and xAI, and voice and music generation, so a filmmaker can make the story exactly as they envision it, rather than the one a platform allows. Venice is accessible through its app and API. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799792-1&amp;h=2776191185&amp;u=https%3A%2F%2Fvenice.ai%2F&amp;a=venice.ai\" target=\"_blank\" rel=\"nofollow\">venice.ai</a>.</p><p><b>Media Contacts<br></br></b><b>MoonPay<br></br></b><a href=\"mailto:press@moonpay.com\" target=\"_blank\" rel=\"nofollow\">press@moonpay.com</a></p><p><b>Venice<br></br></b><a href=\"mailto:press@venice.ai\" target=\"_blank\" rel=\"nofollow\">press@venice.ai</a></p><p><i>Press passes available upon request.</i></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY74242&amp;sd=2026-10-16\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/lumara-film-festival-announces-finalists-for-inaugural-ai-film-festival-302911312.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/lumara-film-festival-announces-finalists-for-inaugural-ai-film-festival-302911312.html</a></p><p>SOURCE MoonPay</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY74242&amp;Transmission_Id=202610161000PR_NEWS_USPR_____NY74242&amp;DateId=20261016\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "MoonPay",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 13,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:theatrical release",
+            "film festival",
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-16T14:53:18.052Z"
+    },
+    {
+      "company": [
+        "Reshift Media"
+      ],
+      "date": "20261016T130700+0000",
+      "dateline": "NEW YORK, Oct. 16, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "PUB",
+        "MLM",
+        "CPR",
+        "DTA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "The full Q3 2026 Franchise Development Outlook report includes proprietary franchise development indices, historical trends, advertising performance data, economic analysis, and forecasts through March 2027.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2015062/Reshift-Media-The-full-Q3-2026-Franchise-Development-Outlook-report-includes-proprietary-franchise.jpg?id=OA3023706&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2015062/Reshift-Media-The-full-Q3-2026-Franchise-Development-Outlook-report-includes-proprietary-franchise.jpg?id=OA3023706&p=publish"
+        }
+      ],
+      "release_id": "20261016NY74212",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p class=\"prntac\"><i>Reshift Media's flagship quarterly franchise development report reveals a 40.7% decline in ownership search demand from early-2026 highs, while advertising engagement rises 26.8%, inquiry conversion increases 166.6%, and lead generation costs fall 68%.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Franchise ownership interest in the United States is returning to historic levels following an exceptional surge earlier this year, and new research suggests prospective franchisees are becoming significantly more responsive to recruitment advertising. According to <i>The Franchise Development Outlook: Q3 2026</i>, the flagship quarterly franchise development intelligence report from <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799761-1&amp;h=832757538&amp;u=https%3A%2F%2Fwww.reshiftmedia.com%2F&amp;a=Reshift+Media\" target=\"_blank\" rel=\"nofollow\">Reshift Media</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799761-1&amp;h=3279701495&amp;u=https%3A%2F%2Fwww.franify.com%2F&amp;a=Franify\" target=\"_blank\" rel=\"nofollow\">Franify</a>, active franchise ownership search demand has declined considerably from its February peak while advertising engagement and inquiry conversion rates have strengthened dramatically.</p>\n    ",
+      "ticker": [],
+      "title": "New Industry Report: Franchise Demand Is Normalizing, but Advertising Engagement Is Surging",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261016NY74212",
+      "body": "\n<p class=\"prntac\"><i>Reshift Media's flagship quarterly franchise development report reveals a 40.7% decline in ownership search demand from early-2026 highs, while advertising engagement rises 26.8%, inquiry conversion increases 166.6%, and lead generation costs fall 68%.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Franchise ownership interest in the United States is returning to historic levels following an exceptional surge earlier this year, and new research suggests prospective franchisees are becoming significantly more responsive to recruitment advertising. According to <i>The Franchise Development Outlook: Q3 2026</i>, the flagship quarterly franchise development intelligence report from <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799761-1&amp;h=832757538&amp;u=https%3A%2F%2Fwww.reshiftmedia.com%2F&amp;a=Reshift+Media\" target=\"_blank\" rel=\"nofollow\">Reshift Media</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799761-1&amp;h=3279701495&amp;u=https%3A%2F%2Fwww.franify.com%2F&amp;a=Franify\" target=\"_blank\" rel=\"nofollow\">Franify</a>, active franchise ownership search demand has declined considerably from its February peak while advertising engagement and inquiry conversion rates have strengthened dramatically.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2015062/Reshift-Media-The-full-Q3-2026-Franchise-Development-Outlook-report-includes-proprietary-franchise.jpg?id=OA3023706\" title=\"The full Q3 2026 Franchise Development Outlook report includes proprietary franchise development indices, historical trends, advertising performance data, economic analysis, and forecasts through March 2027.\" alt=\"The full Q3 2026 Franchise Development Outlook report includes proprietary franchise development indices, historical trends, advertising performance data, economic analysis, and forecasts through March 2027.\"></img>\n                </p>\n    </div>\n<p>The full <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799761-1&amp;h=310331095&amp;u=https%3A%2F%2Fwww.reshiftmedia.com%2Fwp-content%2Fuploads%2F2026%2F10%2FThe-Franchise-Development-Outlook_Q3-2026_Reshift-Media_Oct-2026.pdf&amp;a=Q3+2026+Franchise+Development+Outlook+report\" target=\"_blank\" rel=\"nofollow\">Q3 2026 Franchise Development Outlook report</a>, available as a free download, includes proprietary franchise development indices, historical trends, advertising performance data, economic analysis, and forecasts through March 2027.</p><p>The report's proprietary Franchise Development Demand Index (FDDI), which tracks U.S. Google search interest related to franchise ownership, reached 107.6 in September 2026, down 40.7% from its February peak of 181.4. Despite the decline, search demand remains 7.6% above its 2022–2024 historical baseline. Reshift Media forecasts a continued return toward normal levels through the remainder of 2026, followed by a modest seasonal recovery in early 2027.</p><p>However, the report reveals a contrasting trend in franchise recruitment advertising. Engagement with outbound social media franchise advertisements increased 26.8% compared with Q3 2025, while the rate at which advertising clicks generated franchise inquiries increased 166.6%. At the same time, the indexed cost per inquiry declined 68.0% year-over-year.</p><p>\"The most interesting finding is the growing disconnect between active franchise ownership searches and advertising engagement,\" said Steve Buors, CEO and Co-Founder of Reshift Media. \"We're seeing fewer people actively searching for franchise opportunities than we did earlier this year, but the people responding to franchise advertising are engaging at much higher rates. For franchisors, that suggests there is still considerable opportunity to generate interest and inquiries with the right advertising strategy, even as overall search demand returns to more typical levels.\"</p><p><b>Franchise Ownership Demand Expected to Normalize Through Early 2027</b></p><p>The FDDI measures relative search interest across a basket of franchise ownership-related terms, indexed to a 2022–2024 baseline of 100. During Q3 2026, the index averaged 111.9, representing a 15.2% decline compared with the same quarter in 2025.</p><p>Although active search demand remains above historical norms, the report forecasts continued moderation through Q4 2026, with the FDDI projected to average 102.8. A modest seasonal rebound is expected in Q1 2027, when the index is forecast to average 111.0, considerably below the exceptional levels recorded in early 2026.</p><p>The research also identifies elevated financing costs, persistent inflation, weak consumer confidence, and broader economic uncertainty as factors that may continue to influence prospective franchisees' investment decisions.</p><p><b>Advertising Performance Points to a More Responsive Audience</b></p><p>While the volume of active franchise ownership searches has declined, Reshift Media's proprietary advertising indices suggest that people encountering franchise opportunities through outbound advertising are increasingly willing to engage.</p><p>The Franchise Advertising Engagement Index reached 117.4 in Q3 2026, its strongest third-quarter reading in the available dataset. The Franchise Advertising Inquiry Conversion Index climbed to 229.5, indicating that a substantially higher proportion of advertising clicks are generating recorded franchise inquiries compared with a year earlier.</p><p>These improvements have contributed to a sharp reduction in inquiry generation costs. The Franchise Advertising Cost Per Inquiry Index reached 40.2 in September 2026, down from 125.8 in Q3 2025.</p><p>The findings suggest that although fewer individuals may be proactively researching franchise ownership, there remains strong interest among prospective candidates who encounter relevant opportunities through advertising.</p><p>\"For franchise development teams, this reinforces the importance of reaching beyond people who are already searching for a franchise,\" added Buors. \"Search marketing remains essential, but effective outbound advertising can introduce franchise opportunities to people who may be interested in business ownership without actively looking for it. The data suggests those audiences are responding particularly well right now.\"</p><p>The report cautions that higher advertising engagement and inquiry conversion do not necessarily translate directly into qualified franchise candidates or completed franchise sales.</p><p><b>AI Is Emerging as Another Franchise Discovery Channel</b></p><p>Beyond advertising performance, the report examines the growing influence of artificial intelligence on franchise candidate research.</p><p>Research cited in the report indicates that ChatGPT usage among U.S. adults has increased substantially, reaching 44% in 2026. Additionally, a September 2026 study found that 27% of surveyed franchise prospects identified ChatGPT as one of their most useful tools when researching franchise opportunities.</p><p>These findings highlight the growing importance of ensuring franchise information is accessible, accurate, and discoverable across AI-powered research platforms, alongside traditional search engines, franchise directories, and digital advertising channels.</p><p><b>About The Franchise Development Outlook</b></p><p><i>The Franchise Development Outlook</i> is Reshift Media and Franify's flagship quarterly franchise development intelligence report, providing original research into U.S. franchise ownership demand, recruitment advertising performance, economic conditions, and emerging candidate research behaviors.</p><p>The Q3 2026 edition includes four proprietary franchise development indices, historical trend analysis, advertising engagement and inquiry conversion data, economic indicators, and forecasts through March 2027.</p><p>The complete <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799761-1&amp;h=2733825811&amp;u=https%3A%2F%2Fwww.reshiftmedia.com%2Fwp-content%2Fuploads%2F2026%2F10%2FThe-Franchise-Development-Outlook_Q3-2026_Reshift-Media_Oct-2026.pdf&amp;a=Franchise+Development+Outlook%3A+Q3+2026+report+is+available+to+download+free+of+charge\" target=\"_blank\" rel=\"nofollow\">Franchise Development Outlook: Q3 2026 report is available to download free of charge</a>.</p><p><b>About Reshift Media and Franify</b></p><p>Reshift Media is an award-winning digital marketing agency specializing in franchise and multi-location organizations. Serving more than 200 clients across 22 countries, Reshift Media provides digital marketing strategy, paid media, search engine optimization, social media marketing, website development, and proprietary marketing technology designed for the unique needs of franchise organizations.</p><p>Franify is Reshift Media's proprietary franchise digital marketing platform, designed to help franchisors and franchisees coordinate, execute, and optimize digital marketing campaigns across multiple locations.</p><p>For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799761-1&amp;h=2872824915&amp;u=https%3A%2F%2Fwww.reshiftmedia.com%2F&amp;a=www.reshiftmedia.com\" target=\"_blank\" rel=\"nofollow\">www.reshiftmedia.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY74212&amp;sd=2026-10-16\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/new-industry-report-franchise-demand-is-normalizing-but-advertising-engagement-is-surging-302911284.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/new-industry-report-franchise-demand-is-normalizing-but-advertising-engagement-is-surging-302911284.html</a></p><p>SOURCE Reshift Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY74212&amp;Transmission_Id=202610160907PR_NEWS_USPR_____NY74212&amp;DateId=20261016\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Reshift Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:PUB"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-16T14:53:18.214Z"
+    },
+    {
+      "company": [
+        "TRAILER PARK PAM"
+      ],
+      "date": "20261016T123400+0000",
+      "dateline": "LOS ANGELES, Oct. 16, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "TRAILER PARK PAM, album available October 16, 2026 from Universal Music Entertainment",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014664/TRAILER-PARK-PAM-album-available-October-16.jpg?id=OA3022664&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014664/TRAILER-PARK-PAM-album-available-October-16.jpg?id=OA3022664&p=publish"
+        },
+        {
+          "caption": "TRAILER PARK PAM, the band",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014666/TRAILER-PARK-PAM-the-band.jpg?id=OA3022666&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014666/TRAILER-PARK-PAM-the-band.jpg?id=OA3022666&p=publish"
+        }
+      ],
+      "release_id": "20261016PH73905",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Recorded in 2001. Held back for the good of rock 'n' roll. <b><i>TRAILER PARK PAM</i></b> has arrived.</p>\n<p>As <b>Universal Music Entertainment</b> debuts the self-titled original album today, the band is finally ready to reveal its bold strategy: wait 25 years for rock 'n' roll to be declared dead, then unveil an album recorded when it was still breathing.</p><p>The band — <b>Keith Megna</b> on vocals, his brother <b>David Megna</b> on bass, <b>Hans Hettich</b> on lead guitar, and <b>Chuck Sparks</b> on drums — spent the last quarter century allowing the world to catch up.</p>",
+      "ticker": [],
+      "title": "TRAILER PARK PAM Announces Album Release Following Brief, 25-Year Strategic Pause",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261016PH73905",
+      "body": "\n<p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Recorded in 2001. Held back for the good of rock 'n' roll. <b><i>TRAILER PARK PAM</i></b> has arrived.</p>\n<p>As <b>Universal Music Entertainment</b> debuts the self-titled original album today, the band is finally ready to reveal its bold strategy: wait 25 years for rock 'n' roll to be declared dead, then unveil an album recorded when it was still breathing.</p><p>The band — <b>Keith Megna</b> on vocals, his brother <b>David Megna</b> on bass, <b>Hans Hettich</b> on lead guitar, and <b>Chuck Sparks</b> on drums — spent the last quarter century allowing the world to catch up.</p><p>\"We could see where things were headed in 2001,\" said lead singer Keith Megna. \"We figured we'd let the entire music industry change, collapse, rebuild itself, and then see if Friday was a good day to release it.\"</p><p>\"The time is now,\" said David Megna. \"Some bands are ahead of their time. We wanted documentation.\"</p><p>Former manager <b>John Asher</b> confirmed that the delay was absolutely intentional.</p><p>\"A lot of people would call this an unreleased album,\" said Asher. \"We prefer an extremely exclusive listening period.\"</p><p>This time capsule recording, produced by <b>Jerry Harrison</b> of <b>Talking Heads</b>, will make you want to call your Mom after listening to the heartfelt \"Photo Memories.\" Break out an old Hendrix vinyl after exorcising the ghosts of \"Falling Stars.\"  Or smash your TV by the time \"Talk Circus\" reaches its final chord. </p><p>Now, after surviving the death of the CD, the rise of streaming, and several generations of people explaining that rock is dead, <i>TRAILER PARK PAM</i> is ready to be unearthed.</p><p>The wait is over.</p><p>Out October 16, 2026 on all streaming platforms.</p><p><b>Listen Now – </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799463-1&amp;h=2513724151&amp;u=https%3A%2F%2Fwe.tl%2Ft-cAaj9yfM6fheH4sU&amp;a=TRAILER+PARK+PAM\" target=\"_blank\" rel=\"nofollow\"><b><i>TRAILER PARK PAM</i></b></a></p><p><b>Follow on Instagram </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799463-1&amp;h=2102973078&amp;u=https%3A%2F%2Finstagram.com%2Ftrailerparkpam&amp;a=%40trailerparkpam\" target=\"_blank\" rel=\"nofollow\"><b>@trailerparkpam</b></a></p><p>Media Inquiries / Interviews please contact: Tammy Lynn, Spotlight PR Company<br></br>310-867-1952, <a href=\"mailto:424956@email4pr.com\" target=\"_blank\" rel=\"nofollow\">424956@email4pr.com</a> </p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH73905&amp;sd=2026-10-16\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/trailer-park-pam-announces-album-release-following-brief-25-year-strategic-pause-302910812.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/trailer-park-pam-announces-album-release-following-brief-25-year-strategic-pause-302910812.html</a></p><p>SOURCE TRAILER PARK PAM</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH73905&amp;Transmission_Id=202610160834PR_NEWS_USPR_____PH73905&amp;DateId=20261016\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "TRAILER PARK PAM",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:entertainment",
+            "summary:music",
+            "album",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-16T14:53:18.386Z"
+    },
+    {
+      "company": [
+        "Xtalks"
+      ],
+      "date": "20261016T123000+0000",
+      "dateline": "TORONTO, Oct. 16, 2026",
+      "feed": [
+        "PRNUS_WEBMAX",
+        "PRNUS"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "BIO",
+        "RAD",
+        "MTC",
+        "HEA",
+        "PHA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "CTO’s Clinical Trials Conference 2025",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014608/CTO-Conference-2025.jpg?id=OA3022526&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014608/CTO-Conference-2025.jpg?id=OA3022526&p=publish"
+        },
+        {
+          "caption": "Susan Marlin, President and CEO of CTO, at the 2025 conference (photo courtesy of CTO)",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014621/Susan-Marlin-2025-conference.jpg?id=OA3022579&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014621/Susan-Marlin-2025-conference.jpg?id=OA3022579&p=publish"
+        },
+        {
+          "caption": "www.ctoconference.ca",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2014635/Clinical-Trials-Ontario-logo.jpg?id=OA3022584&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2014635/Clinical-Trials-Ontario-logo.jpg?id=OA3022584&p=publish"
+        },
+        {
+          "caption": "www.xtalks.com",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1697674/New-Logo-transparent-with-registered-trademark-Logo-Logo.jpg?id=OA3022586&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1697674/New-Logo-transparent-with-registered-trademark-Logo-Logo.jpg?id=OA3022586&p=publish"
+        }
+      ],
+      "release_id": "20261016NY73852",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS",
+        "TRI",
+        "LIC"
+      ],
+      "summary": "<p><b><i>The upcoming Toronto conference will bring together clinical research leaders to discuss Canada's competitiveness, innovations in clinical trial design and opportunities to improve patient access to research.</i></b></p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Xtalks is pleased to announce its role as an official Media Partner for the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799414-1&amp;h=2311617228&amp;u=https%3A%2F%2Fctoconference.ca%2F&amp;a=2026+CTO+Clinical+Trials+Conference\" target=\"_blank\" rel=\"nofollow\">2026 CTO Clinical Trials Conference</a>, taking place November 4–5, 2026, at the Hilton Toronto. Hosted by Clinical Trials Ontario (CTO), the two-day event will bring together leaders from the pharmaceutical and medical device industries, healthcare, academia, research institutions and patient organizations to exchange ideas on the future of clinical trials in Canada.</p>\n    ",
+      "ticker": [],
+      "title": "Xtalks Named Media Partner for the 2026 CTO Clinical Trials Conference",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261016NY73852",
+      "body": "\n<p><b><i>The upcoming Toronto conference will bring together clinical research leaders to discuss Canada's competitiveness, innovations in clinical trial design and opportunities to improve patient access to research.</i></b></p><p><span class=\"legendSpanClass\">TORONTO</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- Xtalks is pleased to announce its role as an official Media Partner for the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799414-1&amp;h=2311617228&amp;u=https%3A%2F%2Fctoconference.ca%2F&amp;a=2026+CTO+Clinical+Trials+Conference\" target=\"_blank\" rel=\"nofollow\">2026 CTO Clinical Trials Conference</a>, taking place November 4–5, 2026, at the Hilton Toronto. Hosted by Clinical Trials Ontario (CTO), the two-day event will bring together leaders from the pharmaceutical and medical device industries, healthcare, academia, research institutions and patient organizations to exchange ideas on the future of clinical trials in Canada.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2014608/CTO-Conference-2025.jpg?id=OA3022526\" title=\"CTO’s Clinical Trials Conference 2025\" alt=\"CTO’s Clinical Trials Conference 2025\"></img>\n                </p>\n    </div>\n<p>The 2026 conference will explore how Canada can strengthen its position in global clinical research, with discussions on improving trial efficiency, integrating research into patient care and expanding access to clinical trials.</p><p>\"CTO's Clinical Trials Conference has become one of Canada's most important forums for bringing together diverse voices from across the clinical trials community to share knowledge, challenge thinking and drive innovation,\" said Susan Marlin, President &amp; CEO, CTO. \"We look forward to welcoming delegates and presenters from across Canada and around the world to help shape better, smarter and faster clinical trials that ultimately deliver greater value for patients and participants.\"</p><p>The program will feature keynote presentations from Christine Elliott, former Ontario Minister of Health and Deputy Premier, and Dr. Tor Biering-Sørensen, Professor and Founding Head of the Center for Translational Cardiology and Pragmatic Randomized Trials. Elliott will examine why Canada needs to become more competitive in clinical research and better connect research with patient care, while Dr. Biering-Sørensen will discuss clinical trial innovations from Denmark and the European Union (EU).</p><p>Other sessions will address the modernization of clinical trial regulations, the use of AI and health data in research, and efforts to accelerate study start-up. This includes a discussion of early lessons from CTO's QuickSTART initiative, which has demonstrated a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799414-1&amp;h=798119082&amp;u=https%3A%2F%2Fctontario.ca%2Fquickstart-cuts-clinical-trial-start-up-times-to-45-days-in-ontario%2F&amp;a=45-day+study+start-up+timeline\" target=\"_blank\" rel=\"nofollow\">45-day study start-up timeline</a> in its first studies.</p><p>Attendees will also gain insights into <span>psilocybin</span> research, including clinical trials underway in Canada and the opportunities and challenges surrounding psychedelic-assisted care.</p><p>The agenda will also explore equitable access to clinical trials, Indigenous research sovereignty and approaches to making research more patient-centred. Sessions will examine advance consent in acute stroke trials and how a breast cancer study challenged conventional treatment approaches.</p><p>\"Having attended last year's CTO Clinical Trials Conference, I was struck by the energy in the room and the thoughtful questions and exchanges among attendees,\" said Soumya Shashikumar, Senior Life Sciences Journalist at Xtalks. \"As a Media Partner, Xtalks looks forward to support this year's discussions on clinical trial innovation, efficiency and patient access.\"</p><p><b>Event Details</b></p><ul type=\"disc\"><li><b>Event:</b> 2026 CTO Clinical Trials Conference</li><li><b>Dates:</b> November 4–5, 2026</li><li><b>Location:</b> Hilton Toronto, Toronto, Ontario</li><li><b>Organizer:</b> Clinical Trials Ontario</li><li><b>Media Partner:</b> Xtalks</li></ul><p>For more information and to register for the event, visit the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799414-1&amp;h=1200779537&amp;u=https%3A%2F%2Fctoconference.ca%2F&amp;a=2026+CTO+Clinical+Trials+Conference+website\" target=\"_blank\" rel=\"nofollow\">2026 CTO Clinical Trials Conference website</a>.</p><p><b>ABOUT XTALKS</b></p><p>Xtalks — The Life Science Community™ empowers professionals across pharma, biotech, medtech, healthcare and research with the trusted knowledge and collaborative insights that move the industry forward. Powered by Honeycomb Worldwide Inc., Xtalks delivers news, feature articles, webinars, podcasts, videos, expert interviews, curated job opportunities and more designed to support informed decision-making in a fast-evolving sector.</p><p>Every year, thousands of professionals rely on Xtalks for timely intelligence, peer perspectives and industry thought leadership. Join our life science community to stay informed, connected and ready for what's next.</p><p>To learn more about Xtalks, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799414-1&amp;h=1318181089&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4665079-1%26h%3D3138704346%26u%3Dhttp%253A%252F%252Fwww.xtalks.com%252F%26a%3Dwww.xtalks.com&amp;a=www.xtalks.com\" target=\"_blank\" rel=\"nofollow\"><b>www.xtalks.com</b></a><br></br>For information about working with Xtalks to host your webinar, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799414-1&amp;h=117413986&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4665079-1%26h%3D1696699494%26u%3Dhttps%253A%252F%252Fxtalks.com%252Fpartner-with-us%252F%26a%3Dhttps%253A%252F%252Fxtalks.com%252Fpartner-with-us%252F&amp;a=https%3A%2F%2Fxtalks.com%2Fpartner-with-us%2F\" target=\"_blank\" rel=\"nofollow\"><b>https://xtalks.com/partner-with-us/</b></a></p><p>Contact:<br></br>Soumya Shashikumar<br></br>Tel: +1 (416) 977-6555 x371<br></br>Email: <a href=\"mailto:skumar@xtalks.com\" target=\"_blank\" rel=\"nofollow\"><b>skumar@xtalks.com</b></a> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2014621/Susan-Marlin-2025-conference.jpg?id=OA3022579\" title=\"Susan Marlin, President and CEO of CTO, at the 2025 conference (photo courtesy of CTO)\" alt=\"Susan Marlin, President and CEO of CTO, at the 2025 conference (photo courtesy of CTO)\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2014635/Clinical-Trials-Ontario-logo.jpg?id=OA3022584\" title=\"www.ctoconference.ca\" alt=\"www.ctoconference.ca\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1697674/New-Logo-transparent-with-registered-trademark-Logo-Logo.jpg?id=OA3022586\" title=\"www.xtalks.com\" alt=\"www.xtalks.com\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY73852&amp;sd=2026-10-16\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/xtalks-named-media-partner-for-the-2026-cto-clinical-trials-conference-302910681.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/xtalks-named-media-partner-for-the-2026-cto-clinical-trials-conference-302910681.html</a></p><p>SOURCE Xtalks</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY73852&amp;Transmission_Id=202610160830PR_NEWS_USPR_____NY73852&amp;DateId=20261016\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Xtalks",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 2
+        },
+        "reasons": {
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ],
+          "tradeshow": [
+            "conference"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-16T14:53:18.566Z"
+    },
+    {
+      "company": [
+        "Grand Rapids Community College"
+      ],
+      "date": "20261016T120500+0000",
+      "dateline": "GRAND RAPIDS, Mich., Oct. 16, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "MCH",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "EDU",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Western Michigan University logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2015010/GRCC-Western-Michigan-University-logo.jpg?id=OA3023561&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2015010/GRCC-Western-Michigan-University-logo.jpg?id=OA3023561&p=publish"
+        },
+        {
+          "caption": "GRCC Full Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1773195/GRCC-Full-Logo.jpg?id=OA3023559&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1773195/GRCC-Full-Logo.jpg?id=OA3023559&p=publish"
+        }
+      ],
+      "release_id": "20261016DE74185",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>New Bronco Bound partnership offers a direct path to a bachelor's degree, </i><i>guaranteed scholarships and more</i></p><p><span class=\"legendSpanClass\">GRAND RAPIDS, Mich.</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- A GRCC Raider today. A WMU Bronco tomorrow. For Grand Rapids Community College students dreaming of earning a bachelor's degree, that next step is about to become a lot more certain.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2015010/GRCC-Western-Michigan-University-logo.jpg?id=OA3023561\" title=\"Western Michigan University logo\" alt=\"Western Michigan University logo\"></img>\n                </p>\n    </div>\n<p>Through a new partnership called the Bronco Bound Guarantee, students who earn an associate degree at GRCC will be guaranteed admission to Western Michigan University, along with an annual scholarship ranging from $1,000 to $4,500 for eligible students.</p>",
+      "ticker": [],
+      "title": "From Raider to Bronco: GRCC, WMU to Guarantee Admission for Transfer Students",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261016DE74185",
+      "body": "\n<p class=\"prntac\"><i>New Bronco Bound partnership offers a direct path to a bachelor's degree, </i><i>guaranteed scholarships and more</i></p><p><span class=\"legendSpanClass\">GRAND RAPIDS, Mich.</span>, <span class=\"legendSpanClass\">Oct. 16, 2026</span> /PRNewswire/ -- A GRCC Raider today. A WMU Bronco tomorrow. For Grand Rapids Community College students dreaming of earning a bachelor's degree, that next step is about to become a lot more certain.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2015010/GRCC-Western-Michigan-University-logo.jpg?id=OA3023561\" title=\"Western Michigan University logo\" alt=\"Western Michigan University logo\"></img>\n                </p>\n    </div>\n<p>Through a new partnership called the Bronco Bound Guarantee, students who earn an associate degree at GRCC will be guaranteed admission to Western Michigan University, along with an annual scholarship ranging from $1,000 to $4,500 for eligible students.</p><p>Leaders from both institutions will make the partnership official during a signing ceremony at 3 p.m. Friday, Oct. 16, at GRCC's Applied Technology Center, Secchia Piazza, on the college's main campus in Grand Rapids. Media are invited to attend.</p><p>\"Strong partnerships create strong pathways for students. This agreement reflects a shared commitment to making higher education more accessible, affordable and connected,\" said GRCC President Dr. Kathryn A. Rogalski. \"We are proud to partner with Western Michigan University, an institution that recognizes the quality of a GRCC education and the strong foundation our students bring to their next chapter. Together, we are creating more opportunities for students to achieve their educational goals and build a brighter future for themselves and our communities.\"</p><p>The Bronco Bound Guarantee is designed to take some uncertainty out of transferring from community college to a four-year university.</p><p>\"Having led a community college, I know the important role these institutions play in helping students discover their potential and pursue their goals,\" said WMU President Russ Kavalhuna.</p><p>\"Our partnership with Grand Rapids Community College builds on that foundation. We want students to arrive at Western knowing they belong here, find opportunities to put their learning into practice and have the support to thrive, graduate, and build meaningful careers.\"</p><p>In addition to guaranteed admission, qualifying GRCC students will have their WMU application fee waived and receive scholarship consideration automatically, with eligible students guaranteed an annual award of $1,000 to $4,500.</p><p>Students will also have access to dedicated transfer advising and recommended academic plans to help them make the most of their credits. Those who can complete an associate degree through an approved transfer guide or program agreement will have their defined credits apply toward the corresponding WMU degree requirements, avoiding the frustration of losing credits along the way.</p><p>And students won't have to wait until their first day at WMU to begin feeling like Broncos.</p><p>Prior to admission, eligible students will enjoy early access to university resources and campus experiences, including free admission to WMU sporting events, excluding hockey.</p><p>The partnership is about more than providing a route to admission. It is also about helping students make a successful transition into university life, connect with the Bronco community and take advantage of distinctive academic programs and experiential learning opportunities.</p><p>The partnership also recognizes the importance of completing a GRCC credential. Through a no-cost reverse transfer process, students who continue their education at WMU can have eligible university credits transferred back to GRCC to help them earn an associate degree.</p><p>GRCC and WMU will continue working together beyond the signing ceremony, with WMU participating in at least one transfer-focused event each semester and both institutions reviewing student enrollment and achievement data to strengthen the partnership.</p><p>For GRCC students, Bronco Bound means the journey toward a bachelor's degree can begin with greater confidence, knowing their next opportunity is already within reach.</p><p><b>About </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799734-1&amp;h=1687546072&amp;u=https%3A%2F%2Fwww.grcc.edu%2F&amp;a=Grand+Rapids+Community+College\" target=\"_blank\" rel=\"nofollow\"><b>Grand Rapids Community College</b></a><br></br>GRCC was established in 1914 — Michigan's first community college — and is focused on making college education accessible and affordable. Classes are scheduled weekdays, evenings and Saturdays in Grand Rapids, Holland and online. We offer traditional liberal arts and occupational career pathways, adult education courses and skilled training courses and apprenticeships.</p><p><b>About </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799734-1&amp;h=3218516563&amp;u=https%3A%2F%2Fwmich.edu%2F&amp;a=Western+Michigan+University\" target=\"_blank\" rel=\"nofollow\"><b>Western Michigan University</b></a><br></br>WMU students are individuals who are truly unique. At Western, we celebrate the passions that drive students and the possibilities that inspire them. For us, a degree is a pursuit of purpose where students are empowered to learn and where an experience-driven education leads to a meaningful career. Broncos prosper. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799734-1&amp;h=122176658&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fwmich.edu%252Fabout%252Ffacts%25239of10%26data%3D05%257C02%257Cpaula.davis%2540wmich.edu%257C0b65e2edbf9b4fcf5af208de75693d5c%257C257622517aa94c72905f39bf026a8a84%257C0%257C0%257C639077292254956563%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C4000%257C%257C%257C%26sdata%3D7HbCwx9zZQMiA9OsyCbeg4dTby62cBtFdfsU4zoErEM%253D%26reserved%3D0&amp;a=Nine+out+of+10+graduates\" target=\"_blank\" rel=\"nofollow\">Nine out of 10 graduates</a> are employed quickly, working in their field in jobs they like. WMU students make their mark on the world—Grammy recipients, Super Bowl champions, doctors, teachers, pilots and countless others have flourished here. Western is the place where students become the best version of themselves. WMU is a public research university, offering a range of undergraduate, graduate, and doctoral programs to more than 17,000 students. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4799734-1&amp;h=4291407964&amp;u=https%3A%2F%2Fwmich.edu%2F&amp;a=https%3A%2F%2Fwmich.edu%2F\" target=\"_blank\" rel=\"nofollow\">https://wmich.edu/</a></p><p><b>Media Contacts:<br></br></b>Lyndsie Post<br></br>Executive Director of Marketing &amp; Communications<br></br>(616) 234-4213<br></br><a href=\"mailto:lyndsiepost@grcc.edu\" target=\"_blank\" rel=\"nofollow\">lyndsiepost@grcc.edu</a></p><p>Paula M. Davis<br></br>Associate Vice President for Strategic Communications<br></br>(269) 387-8411<br></br><a href=\"mailto:paula.davis@wmich.edu\" target=\"_blank\" rel=\"nofollow\">paula.davis@wmich.edu</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1773195/GRCC-Full-Logo.jpg?id=OA3023559\" title=\"GRCC Full Logo\" alt=\"GRCC Full Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE74185&amp;sd=2026-10-16\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/from-raider-to-bronco-grcc-wmu-to-guarantee-admission-for-transfer-students-302911233.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/from-raider-to-bronco-grcc-wmu-to-guarantee-admission-for-transfer-students-302911233.html</a></p><p>SOURCE Grand Rapids Community College</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE74185&amp;Transmission_Id=202610160805PR_NEWS_USPR_____DE74185&amp;DateId=20261016\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Grand Rapids Community College",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-16T14:53:18.814Z"
+    },
     {
       "company": [
         "California Student Aid Commission"

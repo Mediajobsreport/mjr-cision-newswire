@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-16T12:20:37.848Z",
+  "generated_at": "2026-10-16T14:53:15.366Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "tradeshow",
   "page_url": "https://www.mediajobsreport.com/tradeshow_news",
-  "count": 15,
+  "count": 14,
   "releases": [
     {
       "company": [
@@ -1305,108 +1305,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:23.533Z"
-    },
-    {
-      "company": [
-        "LiveU"
-      ],
-      "date": "20260901T122600+0000",
-      "dateline": "HACKENSACK, N.J., Sept. 1, 2026",
-      "feed": [
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "NJY",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "BRD",
-        "CPR",
-        "ITE",
-        "MLM",
-        "TLS",
-        "ADV"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Actus X Intelligent Monitoring Platform.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041&p=publish"
-        },
-        {
-          "caption": "LiveU ( http://liveu.tv/ ) is the pioneer and leader of IP-based video services and broadcast solutions for acquisition, management, and distribution. (PRNewsFoto/LiveU)",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS376853/LiveU-Logo.jpg?id=OA2923045&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS376853/LiveU-Logo.jpg?id=OA2923045&p=publish"
-        }
-      ],
-      "release_id": "20260901NY38086",
-      "status": "PUBLISHED",
-      "subject": [
-        "TDS",
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\"><i>Next-generation Actus X introduces workflow-focused UX, customizable browser-based multiviewer, AI-based content monitoring and planned native LiveU LRT</i><i>™</i><i> integration</i></p><p><span class=\"legendSpanClass\">HACKENSACK, N.J.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Actus Digital, a LiveU company, will unveil the next generation of its Actus X platform at IBC2026 on LiveU's Stand 7.C24, demonstrating how broadcasters can simplify operations, respond faster to technical and content issues, and adapt confidently to rapidly changing workflows.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041\" title=\"Actus X Intelligent Monitoring Platform.\" alt=\"Actus X Intelligent Monitoring Platform.\"></img>\n                </p>\n    </div>\n",
-      "ticker": [],
-      "title": "Actus Digital Unveils the Future of Broadcast Monitoring at IBC2026",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260901NY38086",
-      "body": "\n<p class=\"prntac\"><i>Next-generation Actus X introduces workflow-focused UX, customizable browser-based multiviewer, AI-based content monitoring and planned native LiveU LRT</i><i>™</i><i> integration</i></p><p><span class=\"legendSpanClass\">HACKENSACK, N.J.</span>, <span class=\"legendSpanClass\">Sept. 1, 2026</span> /PRNewswire/ -- Actus Digital, a LiveU company, will unveil the next generation of its Actus X platform at IBC2026 on LiveU's Stand 7.C24, demonstrating how broadcasters can simplify operations, respond faster to technical and content issues, and adapt confidently to rapidly changing workflows.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1979440/Actus-X-Intelligent-Monitoring-Platform.jpg?id=OA2923041\" title=\"Actus X Intelligent Monitoring Platform.\" alt=\"Actus X Intelligent Monitoring Platform.\"></img>\n                </p>\n    </div>\n<p>Visitors will experience the established capabilities that have made Actus X a trusted solution worldwide – compliance logging, QA and technical monitoring, browser-based multiviewing, clip creation and AI-powered media intelligence – alongside major advances in usability, performance, scalability and integration.</p><p>As media operations expand across linear, OTT and digital platforms, broadcasters must monitor more channels, formats and delivery points, often with distributed teams and shifting requirements. The latest evolution of Actus X addresses this through workflow-focused user experiences, intelligent automation, flexible deployment and deeper integration across the LiveU EcoSystem.</p><p>\"Broadcast operations are becoming more dynamic, distributed and complex, but the technology supporting them should become simpler,\" said Sima Levy, CEO of Actus Digital. \"The next generation of Actus X is designed around the people who use it every day, giving each team the visibility, flexibility and intelligence it needs to work faster and make better decisions.\"</p><p><b>Rebuilt for Dynamic Operations</b></p><p>The new Actus X infrastructure has been rebuilt using advanced software technologies for faster performance, greater scalability and enhanced cloud efficiency. System configuration is now significantly more dynamic: as a channel changes resolution, a new service launches or additional capacity is needed, adjustments can be made quickly without complex engineering work. This flexibility is especially valuable for temporary services, live events and fast changing broadcast environments.</p><p><b>A Next-Generation Browser-Based Multiviewer</b></p><p>Actus will also showcase its next-generation browser-based multiviewer, built for distributed, personalized monitoring. Each user can create unlimited layouts via drag-and-drop, selecting the channels, alerts and technical information relevant to their role – no longer restricted to fixed layouts or dedicated monitoring stations. Because it runs entirely within a browser, it can be securely accessed from virtually anywhere, with sub-second latency for real-time monitoring.</p><p>The experience goes beyond passive viewing. Operators can listen to live audio, rewind content instantly, investigate alerts and interact directly with monitored streams, all from one interface, with integrated alerts enabling faster response and less manual supervision.</p><p><b>Cloud-Optimized Without Compromising Choice</b></p><p>Actus has invested extensively in optimizing Actus X for cloud environments, improving resource efficiency and helping customers control infrastructure costs. Actus X continues to support on-premises, cloud-native and hybrid architectures, so organizations can choose and evolve the model that fits their operational, technical, security and regulatory needs.</p><p><b>Direct connection between content acquisition and monitoring</b> </p><p>At IBC2026, Actus will also present its roadmap for deeper integration with LiveU native LRT, led by planned native support for LiveU Reliable Transport (LRT™) within Actus X. This will allow LiveU feeds to be ingested directly into Actus X benefiting from all Actus monitoring and AI capabilities, without first converting them to another protocol – reducing latency, eliminating unnecessary points of failure, and preserving original video quality, and LRT's bonding and error-resilience advantages throughout the workflow. For customers, that means fewer gateway components and a more direct connection between content acquisition and monitoring.</p><p><b>A User Experience Designed Around Every Workflow</b></p><p>One of the most significant developments is a completely redesigned interface structured around specific operational roles. Instead of showing every user the same screens, Actus X provides focused workspaces for broadcast engineers, technical operators, compliance teams, production staff and media intelligence professionals – each with immediate access to the tools, data and alerts most relevant to their responsibilities.</p><p>For engineers, a dedicated technical workspace brings critical information onto a single screen, with multiple channels and delivery points viewable simultaneously to help teams identify anomalies, investigate their source and respond before viewers are affected – a cleaner experience and a faster route from detection to resolution.</p><p><b>Actus Digital will be presenting Actus X on LiveU's Stand 7.C24. For more information or to schedule a demonstration, visit </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=507162730&amp;u=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital&amp;a=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital\" target=\"_blank\" rel=\"nofollow\"><b>https://www.liveu.tv/products/manage/actus-digital</b></a><b>.</b></p><p><b><u>About Actus Digital</u></b></p><p>Since 2005, and now in a bigger capacity as a LiveU company, Actus Digital has set the standard for intelligent media monitoring and compliance logging, trusted by broadcasters, media regulators, public sector organizations, and governments. With over 2,000 installations, Actus delivers a QA Compliance Logger enhanced with advanced solutions like Actus SW based multiviewer, Actus AI Media Insight for content analysis, Clip Factory Pro for content repurposing, OTT StreamWatch for OTT/FAST monitoring and Actus Remote post-STB Video monitoring (RVM). Each product can stand alone or be fully integrated into one unified platform.</p><p>Actus supports all broadcast video and streaming protocols and is available as a turnkey appliance, software/VM-based system, or SaaS. Headquartered in the US with global 24/7 support, Actus Digital, now a LiveU company, is accelerating innovation and delivering even greater value to customers.</p><p>For more details, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=507162730&amp;u=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital&amp;a=https%3A%2F%2Fwww.liveu.tv%2Fproducts%2Fmanage%2Factus-digital\" target=\"_blank\" rel=\"nofollow\">https://www.liveu.tv/products/manage/actus-digital</a>, or follow us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=1760182162&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Factusdigital%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=42757822&amp;u=https%3A%2F%2Ftwitter.com%2Factusdigitaltm%3Flang%3Den&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=2016979404&amp;u=https%3A%2F%2Fwww.facebook.com%2FActusDigital%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764797-2&amp;h=608007328&amp;u=https%3A%2F%2Fwww.youtube.com%2F%40ActusDigital&amp;a=YouTube\" target=\"_blank\" rel=\"nofollow\">YouTube</a>.</p><p><span><b>Press contacts:</b><br></br>Kate Ford (Int'l)+44-7740 948065<br></br><a id=\"menur6f2\" href=\"mailto:kate@jumppr.tv\" target=\"_blank\" rel=\"nofollow\"><span>kate@jumppr.tv</span></a><br></br><br></br>Joyce Essig (Americas)<br></br>201-906-9367<br></br><a id=\"menur6f4\" href=\"mailto:joyce@liveu.tv\" target=\"_blank\" rel=\"nofollow\"><span>joyce@liveu.tv</span></a></span></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS376853/LiveU-Logo.jpg?id=OA2923045\" title=\"LiveU ( http://liveu.tv/ ) is the pioneer and leader of IP-based video services and broadcast solutions for acquisition, management, and distribution. (PRNewsFoto/LiveU)\" alt=\"LiveU ( http://liveu.tv/ ) is the pioneer and leader of IP-based video services and broadcast solutions for acquisition, management, and distribution. (PRNewsFoto/LiveU)\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY38086&amp;sd=2026-09-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/actus-digital-unveils-the-future-of-broadcast-monitoring-at-ibc2026-302866227.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/actus-digital-unveils-the-future-of-broadcast-monitoring-at-ibc2026-302866227.html</a></p><p>SOURCE LiveU</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY38086&amp;Transmission_Id=202609010826PR_NEWS_USPR_____NY38086&amp;DateId=20260901\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "LiveU",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "engineering",
-        "tradeshow"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "engineering",
-          "tradeshow"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 2,
-          "digital": 2,
-          "engineering": 7,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 1,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:MLM"
-          ],
-          "engineering": [
-            "broadcast monitoring",
-            "industry:BRD"
-          ],
-          "radio": [
-            "summary:broadcaster"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:26.450Z"
     }
   ]
 }
