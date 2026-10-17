@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T00:13:32.524Z",
+  "generated_at": "2026-10-17T04:38:47.116Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "engineering",
   "page_url": "https://www.mediajobsreport.com/engineering_news",
-  "count": 5,
+  "count": 4,
   "releases": [
     {
       "company": [
@@ -362,113 +362,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:19.833Z"
-    },
-    {
-      "company": [
-        "Comcast Technology Solutions"
-      ],
-      "date": "20260902T040000+0000",
-      "dateline": "DENVER, Sept. 2, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "COL",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TVN",
-        "MLM",
-        "TLS",
-        "BRD",
-        "AFI",
-        "CPR"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Comcast Technology Solutions",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075&p=publish"
-        },
-        {
-          "caption": "Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076&p=publish"
-        }
-      ],
-      "release_id": "20260902SF37329",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "FVT",
-        "TDS"
-      ],
-      "summary": "<ul type=\"disc\"><li><i>Building on CTS' VideoAI™ platform, new suite of end-to-end AI-powered workflow applications brings premium content processing capabilities to manage and monetize entire content libraries<br></br><br></br></i></li><li><i>Applications include video verticalization, localization, smart chapters, metadata enrichment, quality control, and intelligent clip generation<br></br><br></br></i></li><li><i>Designed to work across CTS' portfolio, including Comcast Media360™, Comcast Sports360™, and standalone Cloud Video Platform deployments</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=1857801218&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today unveiled a comprehensive suite of end-to-end AI-powered workflow applications for broadcasters, content owners, and operators worldwide. Building on the foundation of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=2431810307&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5w&amp;a=VideoAI\" target=\"_blank\" rel=\"nofollow\">VideoAI</a>™ platform, these new applications deliver AI as practical, integrated solutions to real-world content production and management challenges.</p>\n    ",
-      "ticker": [],
-      "title": "Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902SF37329",
-      "body": "\n<ul type=\"disc\"><li><i>Building on CTS' VideoAI™ platform, new suite of end-to-end AI-powered workflow applications brings premium content processing capabilities to manage and monetize entire content libraries<br></br><br></br></i></li><li><i>Applications include video verticalization, localization, smart chapters, metadata enrichment, quality control, and intelligent clip generation<br></br><br></br></i></li><li><i>Designed to work across CTS' portfolio, including Comcast Media360™, Comcast Sports360™, and standalone Cloud Video Platform deployments</i></li></ul><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- In advance of the 2026 IBC Show, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=1857801218&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=Comcast+Technology+Solutions+(CTS)\" target=\"_blank\" rel=\"nofollow\">Comcast Technology Solutions (CTS)</a> today unveiled a comprehensive suite of end-to-end AI-powered workflow applications for broadcasters, content owners, and operators worldwide. Building on the foundation of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=2431810307&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5w&amp;a=VideoAI\" target=\"_blank\" rel=\"nofollow\">VideoAI</a>™ platform, these new applications deliver AI as practical, integrated solutions to real-world content production and management challenges.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS687658/CTS-Logo-Stacked-OnWhite-CMYK-Logo.jpg?id=OA2921075\" title=\"Comcast Technology Solutions\" alt=\"Comcast Technology Solutions\"></img>\n                </p>\n    </div>\n<p>In a market increasingly crowded with standalone AI vendors and start-ups, CTS aims to serve as a single, trusted partner for end-to-end AI-enhanced content processing, video management, and monetization — backed by the proven reliability and scale of Comcast Technology Solutions and 24/7 managed services. CTS provides end-to-end, production-ready workflow integration that embeds AI capabilities into complete, deployable applications — requiring no additional specialist AI knowledge or developer requirements. The new applications are designed to work across CTS' full product portfolio, including <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=3593064493&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5z&amp;a=Comcast+Media360\" target=\"_blank\" rel=\"nofollow\">Comcast Media360</a>™ for broadcasters and content owners, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=884793227&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng63&amp;a=Comcast+Sports360\" target=\"_blank\" rel=\"nofollow\">Comcast Sports360</a>™ for sports rights holders, and standalone deployments of CTS' <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=46168004&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng66&amp;a=Cloud+Video+Platform\" target=\"_blank\" rel=\"nofollow\">Cloud Video Platform</a> (CVP) for operators.</p><p><b>\"</b>The video industry is ready to move past AI hypotheticals and onto production-ready applications that solve real problems, generate new business opportunities, and integrate seamlessly into the workflows they already rely upon,<b>\"</b> said Bart Spriester, Senior Vice President and General Manager of Streaming, Broadcast, and Advertising at Comcast Technology Solutions. <b>\"</b>Whether for creating vertical videos, localization, advanced advertising, metadata enrichment, quality control, or intelligent clip generation, CTS stands ready to help our customers benefit from AI to better manage and monetize their content catalogs. CTS VideoAI is based on implementations deployed by some of the world's largest media companies, and we're excited to roll out this package of new applications designed to help our customers of all sizes benefit from that experience in new ways.\"</p><p><b>Next-Gen AI Applications</b> </p><p>The next-gen AI applications from CTS include:</p><ul type=\"disc\"><li><b>Video Verticalization: </b>Using AI-driven smart cropping technology, CTS can automatically convert landscape video content into portrait format for social media syndication, intelligently identifying the \"action center\" of each scene and making intelligent cut or pan decisions without manual editor intervention. </li><li><b>Localization of Regional Languages: </b>Leveraging AI-generated voices, CTS can automate dubbing workflows that previously required costly and time-consuming human voice talent. The application can extract audio from soundtracks, preserve ambience and music, translate dialogue, select appropriate voice matching, relay the finished audio back into the content, and generate automated captions. </li><li><b>Smart Chapters: </b>For distribution-ready workflows combining content and ad insertion, CTS can create AI-driven detection of intros, credit rolls, and ad break candidates, enhanced with weighting algorithms to select the optimal set of ad break points and automatically trigger stream conditioning, transcoding, and packaging. </li><li><b>Metadata Enrichment: </b>CTS will automatically generate scene and asset-level metadata and pass it into Cloud Video Platform metadata files, enabling semantic and natural language search capabilities. Rather than traditional keyword searches, content owners will be able to unlock intent-based discovery, allowing customers to find content based on themes, moods, and contextual queries. </li><li><b>Automated Quality Control: </b>CTS will also offer AI-powered \"virtual eyes-on-glass\" QC checks — including black screen detection, missing audio identification, and other content integrity verifications. This capability can enable cost-effective QC across a significantly larger portion of the content catalog compared to traditional human monitoring approaches. </li><li><b>Intelligent Clipping: </b>CTS will also offer natural language query-driven clip identification and selection, allowing editors to find key moments within long-form content. This could include sports highlights, social media clips, or trailer generation, and then trigger automated processing and publishing workflows.</li></ul><p>CTS' new applications are integrated into CTS' Cloud Media Processing (CMP) engine, a flexible, programmable workflow orchestration layer. Processors can be inserted as pre-processors, content manipulation steps, or post-processors, enabling customers to activate individual AI capabilities within their existing workflows without rebuilding their technology stack. For broadcasters and content owners using Comcast Media360, the AI-enhanced workflow processors integrate with existing channel origination and content supply chain services. For sports organizations leveraging Comcast Sports360, capabilities such as intelligent clipping and metadata enrichment are directly applicable to live and on-demand sports content workflows. For MVPDs and operators, these applications will be made available through CTS' Cloud Video Platform. Each of these applications is expected to be made commercially available throughout 2026-2027 to support customer deployments.</p><p><b>Comcast Technology Solutions at IBC 2026</b></p><p>At the 2026 IBC Show, CTS will showcase its next-gen video AI capabilities and full suite of solutions for streaming, broadcast, entertainment, and sports at RAI Amsterdam, September 11–14 in Hall 5, Stand 5.C80. Experts will be on hand to demonstrate the new AI applications and discuss how they integrate across the Comcast Media360, Comcast Sports360, and Cloud Video Platform portfolios. Customers, prospects, and partners of CTS seeking to schedule on-site business meetings can visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=3291731819&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng69&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com%2Fevents\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com/events</a>.</p><p>To learn more about Comcast Technology Solutions' entire product portfolio, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4764045-1&amp;h=679395412&amp;u=https%3A%2F%2Fwww2.comcasttechnologysolutions.com%2Fl%2F218032%2F2026-08-25%2Ffgng5s&amp;a=https%3A%2F%2Fwww.comcasttechnologysolutions.com\" target=\"_blank\" rel=\"nofollow\">https://www.comcasttechnologysolutions.com</a>.</p><p><b><u>About Comcast Technology Solutions<br></br></u></b>Comcast Technology Solutions, a division of one of the world's leading media and technology companies, brings Comcast Corporation's proven technologies to an evolving list of industries worldwide. Comcast Technology Solutions offers a broad portfolio of solutions that deliver flexibility at scale for global video, media, communications, data applications, and cybersecurity &amp; compliance. Customers include leading content and streaming video providers, pay TV operators and MVPDs, advertisers, communications providers, financial service providers, retailers, and more. For more information, visit Comcast Technology Solutions.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1978645/CTS-Next-Gen-VideoAI.jpg?id=OA2921076\" title=\"Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators\" alt=\"Comcast Technology Solutions Unveils Next-Gen Video AI Applications for Broadcasters, Content and Streaming Providers, and Operators\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF37329&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/comcast-technology-solutions-unveils-next-gen-video-ai-applications-for-broadcasters-content-and-streaming-providers-and-operators-302866174.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/comcast-technology-solutions-unveils-next-gen-video-ai-applications-for-broadcasters-content-and-streaming-providers-and-operators-302866174.html</a></p><p>SOURCE Comcast Technology Solutions</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF37329&amp;Transmission_Id=202609020000PR_NEWS_USPR_____SF37329&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Comcast Technology Solutions",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "digital",
-        "engineering",
-        "tradeshow"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "digital",
-          "engineering",
-          "tradeshow"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 2,
-          "engineering": 7,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 2,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 2
-        },
-        "reasons": {
-          "digital": [
-            "industry:MLM"
-          ],
-          "engineering": [
-            "video ai",
-            "industry:BRD"
-          ],
-          "radio": [
-            "broadcaster"
-          ],
-          "television": [
-            "industry:TVN"
-          ],
-          "tradeshow": [
-            "summary:ibc show"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:23.533Z"
     }
   ]
 }
