@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T08:49:56.713Z",
+  "generated_at": "2026-10-17T12:49:14.667Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "podcast",
   "page_url": "https://www.mediajobsreport.com/podcast_news",
-  "count": 34,
+  "count": 33,
   "releases": [
     {
       "company": [
@@ -3119,95 +3119,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:21.689Z"
-    },
-    {
-      "company": [
-        "Blubrry Podcasting"
-      ],
-      "date": "20260902T120000+0000",
-      "dateline": "COOPERSVILLE, Mich., Sept. 2, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_WEBMAX"
-      ],
-      "geography": [
-        "MCH",
-        "UMW",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "RAD",
-        "MLM",
-        "ENT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Blubrry Podcasting, leading podcast provider.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411&p=publish"
-        }
-      ],
-      "release_id": "20260902NY38710",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "LIC"
-      ],
-      "summary": "<p><b><span>Blubrry Publisher customers can upload one video episode and make it available to watch or listen through a single podcast feed</span></b></p><p><span class=\"legendSpanClass\">COOPERSVILLE, Mich.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1956595667&amp;u=https%3A%2F%2Fwww.blubrry.com%2F&amp;a=Blubrry+Podcasting\" target=\"_blank\" rel=\"nofollow\">Blubrry Podcasting</a> today announced that it now works with Apple Podcasts to integrate HTTP Live Streaming (HLS) video into shows published through Blubrry Publisher.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411\" title=\"Blubrry Podcasting, leading podcast provider.\" alt=\"Blubrry Podcasting, leading podcast provider.\"></img>\n                </p>\n    </div>\n<p>The new workflow allows Blubrry hosting customers to upload one MP4 video episode and make it available in video and audio formats through a single RSS feed. Blubrry automatically creates an HLS video version for Apple Podcasts, retains the original video file and generates an MP3 audio version for podcast apps that do not support HLS video.</p>",
-      "ticker": [],
-      "title": "Blubrry Brings Unified Video and Audio Podcast Publishing to Apple Podcasts",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902NY38710",
-      "body": "\n<p><b><span>Blubrry Publisher customers can upload one video episode and make it available to watch or listen through a single podcast feed</span></b></p><p><span class=\"legendSpanClass\">COOPERSVILLE, Mich.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1956595667&amp;u=https%3A%2F%2Fwww.blubrry.com%2F&amp;a=Blubrry+Podcasting\" target=\"_blank\" rel=\"nofollow\">Blubrry Podcasting</a> today announced that it now works with Apple Podcasts to integrate HTTP Live Streaming (HLS) video into shows published through Blubrry Publisher.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1132898/LogoBlubrryWithWordmark.jpg?id=OA2924411\" title=\"Blubrry Podcasting, leading podcast provider.\" alt=\"Blubrry Podcasting, leading podcast provider.\"></img>\n                </p>\n    </div>\n<p>The new workflow allows Blubrry hosting customers to upload one MP4 video episode and make it available in video and audio formats through a single RSS feed. Blubrry automatically creates an HLS video version for Apple Podcasts, retains the original video file and generates an MP3 audio version for podcast apps that do not support HLS video.</p><p>For creators, this means one upload, one episode and one feed to manage. For audiences using Apple Podcasts, it provides the flexibility to watch or listen and switch between audio and video with a tap.</p><p>\"Video podcasting should give creators more ways to share their work without requiring a separate publishing process,\" said Barry Kantz, CEO at Blubrry Podcasting. \"Blubrry Publisher customers can upload one video episode, continue managing one podcast feed and give their audience the choice to watch or listen.\"</p><p>A More Flexible Experience on Apple Podcasts</p><p>Video on Apple Podcasts uses HTTP Live Streaming video. HLS video divides an episode into smaller segments and prepares it at multiple quality levels.</p><p>As someone watches, Apple Podcasts can adjust the video quality based on the strength of their Wi-Fi or cellular connection. This adaptive delivery can help video begin playing faster and continue with fewer buffering interruptions as connection conditions change.</p><p>Because video and audio are connected to the same episode, audiences can switch between audio and video with a tap without searching for another version of the show.</p><p>One Upload, Three Available Formats</p><p>When a Blubrry Publisher customer uploads an MP4 video episode, Blubrry automatically prepares:</p><ul type=\"disc\"><li>An HLS video version for Apple Podcasts</li><li>The original uploaded video file</li><li>An MP3 audio version for audio-focused podcast apps</li></ul><p>All three formats are included within the same RSS feed.</p><p>Apple Podcasts uses the HLS video version. Other podcast apps can use the HLS video, original video file or MP3 audio enclosure based on the formats they support.</p><p>This removes the need to upload separate audio and video episodes or maintain parallel feeds for the same show.</p><p>Available Through Blubrry Publisher</p><p>After connecting Apple Podcasts Connect to Blubrry, customers can publish video episodes through their existing Blubrry Publisher workflow.</p><p>Blubrry automatically prepares the uploaded video as a 1080p Full HD HLS video version and creates an MP3 audio version. Some processing time is required before the episode becomes available to watch on Apple Podcasts.</p><p>The feature is currently available to Blubrry hosting customers using <b>Blubrry Publisher</b>. It is not available for shows published through the <b>PowerPress podcasting plugin</b> at this time.</p><p>PowerPress customers can continue using their current WordPress publishing workflow without making any changes.</p><p>To get started, customers must generate an API key through Apple Podcasts Connect and upload the key file within their Blubrry dashboard.</p><p>Customers can learn more at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=163464348&amp;u=https%3A%2F%2Fblubrry.com%2Fsupport%2Fmedia-hosting-documentation%2Fhow-to-set-up-hls-video-podcasting-with-blubrry%2Fhls-at-apple-podcasts%2F&amp;a=%C2%A0HLS+at+Blubrry\" target=\"_blank\" rel=\"nofollow\"> HLS at Blubrry</a> or follow the setup instructions in<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1440174248&amp;u=https%3A%2F%2Fblubrry.com%2Fsupport%2Fmedia-hosting-documentation%2Fhow-to-set-up-hls-video-podcasting-with-blubrry%2F&amp;a=%C2%A0Blubrry%27s+documentation\" target=\"_blank\" rel=\"nofollow\"> Blubrry's documentation</a>.</p><p>About Blubrry Podcasting</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765394-1&amp;h=1956595667&amp;u=https%3A%2F%2Fwww.blubrry.com%2F&amp;a=Blubrry+Podcasting\" target=\"_blank\" rel=\"nofollow\">Blubrry Podcasting</a> provides podcast hosting, publishing, audience statistics, monetization and distribution tools for audio and video creators. Its services include Blubrry Publisher, the PowerPress podcasting plugin for WordPress, IAB-certified podcast statistics, podcast websites and tools for independent creators, businesses and podcast networks.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY38710&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/blubrry-brings-unified-video-and-audio-podcast-publishing-to-apple-podcasts-302867040.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/blubrry-brings-unified-video-and-audio-podcast-publishing-to-apple-podcasts-302867040.html</a></p><p>SOURCE Blubrry Podcasting</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY38710&amp;Transmission_Id=202609020800PR_NEWS_USPR_____NY38710&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Blubrry Podcasting",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "podcast"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "podcast"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 2,
-          "television": 0,
-          "podcast": 8,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "industry:MLM"
-          ],
-          "entertainment": [
-            "industry:ENT"
-          ],
-          "radio": [
-            "industry:RAD"
-          ],
-          "podcast": [
-            "podcast",
-            "podcasts",
-            "podcasting",
-            "industry:RAD"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:23.037Z"
     }
   ]
 }
