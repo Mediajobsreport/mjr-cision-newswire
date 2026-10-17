@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T12:49:14.667Z",
+  "generated_at": "2026-10-17T16:14:17.090Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 115,
+  "count": 113,
   "releases": [
     {
       "company": [
@@ -9434,159 +9434,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-05T11:12:49.080Z"
-    },
-    {
-      "company": [
-        "Epic!"
-      ],
-      "date": "20260902T155200+0000",
-      "dateline": "SAN JOSE, Calif., Sept. 2, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_ONLY",
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "BKS",
-        "PUB",
-        "ENT",
-        "EDU",
-        "REA"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Epic Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1756777/Epic-Logo.jpg?id=OA2925903&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1756777/Epic-Logo.jpg?id=OA2925903&p=publish"
-        }
-      ],
-      "release_id": "20260902LA39356",
-      "status": "PUBLISHED",
-      "subject": [
-        "CHI",
-        "LIC"
-      ],
-      "summary": "<p class=\"prntac\"><i>Collaboration launches with exclusive previews of upcoming titles from bestselling Phoebe and Her Unicorn and Big Nate series</i></p><p><span class=\"legendSpanClass\">SAN JOSE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Epic Books for Kids (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=3682858690&amp;u=https%3A%2F%2Fwww.getepic.com%2F%3Futm_source%3Dmedia%26utm_medium%3Demail%26utm_campaign%3Depic_amp&amp;a=Epic\" target=\"_blank\" rel=\"nofollow\">Epic</a>), the leading digital reading platform for children, today announced a collaboration with Andrews McMeel Publishing (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=562630102&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2F&amp;a=AMP\" target=\"_blank\" rel=\"nofollow\">AMP</a>) to give young readers exclusive early access to highly anticipated new releases from bestselling children's series. Beginning Aug. 31, Epic readers will get an early look at Dana Simpson's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=766279034&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2Fbook%2Facross-enchanted-lands%2F&amp;a=Phoebe+and+Her+Unicorn%3A+Across+Enchanted+Lands\" target=\"_blank\" rel=\"nofollow\"><i>Phoebe and Her Unicorn: Across Enchanted Lands</i></a>, more than a month ahead of its Oct. 6 publication, following Epic's exclusive early preview of Lincoln Peirce's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=2317252812&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2Fbook%2Fbig-nate-the-curse-of-the-puffy-shorts%2F&amp;a=Big+Nate%3A+Curse+of+the+Puffy+Shorts\" target=\"_blank\" rel=\"nofollow\"><i>Big Nate: Curse of the Puffy Shorts</i></a><i>!</i>, which was published Sept. 1.</p>\n    ",
-      "ticker": [],
-      "title": "Epic Books for Kids Partners with Andrews McMeel Publishing to Give Young Readers Early Access to New Releases",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902LA39356",
-      "body": "\n<p class=\"prntac\"><i>Collaboration launches with exclusive previews of upcoming titles from bestselling Phoebe and Her Unicorn and Big Nate series</i></p><p><span class=\"legendSpanClass\">SAN JOSE, Calif.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Epic Books for Kids (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=3682858690&amp;u=https%3A%2F%2Fwww.getepic.com%2F%3Futm_source%3Dmedia%26utm_medium%3Demail%26utm_campaign%3Depic_amp&amp;a=Epic\" target=\"_blank\" rel=\"nofollow\">Epic</a>), the leading digital reading platform for children, today announced a collaboration with Andrews McMeel Publishing (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=562630102&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2F&amp;a=AMP\" target=\"_blank\" rel=\"nofollow\">AMP</a>) to give young readers exclusive early access to highly anticipated new releases from bestselling children's series. Beginning Aug. 31, Epic readers will get an early look at Dana Simpson's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=766279034&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2Fbook%2Facross-enchanted-lands%2F&amp;a=Phoebe+and+Her+Unicorn%3A+Across+Enchanted+Lands\" target=\"_blank\" rel=\"nofollow\"><i>Phoebe and Her Unicorn: Across Enchanted Lands</i></a>, more than a month ahead of its Oct. 6 publication, following Epic's exclusive early preview of Lincoln Peirce's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=2317252812&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2Fbook%2Fbig-nate-the-curse-of-the-puffy-shorts%2F&amp;a=Big+Nate%3A+Curse+of+the+Puffy+Shorts\" target=\"_blank\" rel=\"nofollow\"><i>Big Nate: Curse of the Puffy Shorts</i></a><i>!</i>, which was published Sept. 1.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1756777/Epic-Logo.jpg?id=OA2925903\" title=\"Epic Logo\" alt=\"Epic Logo\"></img>\n                </p>\n    </div>\n<p>\"Our work with publishers and authors creates opportunities for kids to connect with their favorite series,\" said <b>Julia Horowitz, Chief Content Officer at Epic</b>. \"Exclusive early access builds excitement around highly anticipated releases and introduces books directly to young readers, while Epic's broader library makes it easy for that discovery to continue across an entire series.\"</p><p>\"Finding new and meaningful ways to connect young readers with the books and characters they love is incredibly important to us,\" said <b>Kirsty Melville, CEO of Andrews McMeel Publishing</b>. \"Working with Epic gives us an opportunity to build anticipation for new releases while helping kids discover even more from beloved series like <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=4003303925&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2Fbook%2Fbig-nate-the-curse-of-the-puffy-shorts%2F&amp;a=Big+Nate\" target=\"_blank\" rel=\"nofollow\"><i>Big Nate</i></a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=238735632&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2Fbook%2Facross-enchanted-lands%2F&amp;a=Phoebe+and+Her+Unicorn\" target=\"_blank\" rel=\"nofollow\"><i>Phoebe and Her Unicorn</i></a>. We're excited to give fans an early look at what's next and introduce these stories to a new generation of readers.\"</p><p>Both <i>Big Nate</i> and <i>Phoebe and Her Unicorn</i> have extensive catalogs available on Epic, giving readers the opportunity to continue exploring the series after discovering the newest releases. The titles are part of Epic's library of more than 40,000 books from 250+ publishers, which helps kids discover books that match their interests and keep reading.</p><p>The early preview of <i>Big Nate: Curse of the Puffy Shorts!</i> also included an exclusive Big Nate avatar, the first new Epic avatar introduced in six years, along with downloadable activities, an author video, signed book giveaways and badges. The upcoming <i>Phoebe and Her Unicorn: Across Enchanted Lands</i> early-access experience will offer similar exclusive content and experiences, including an author video, signed book giveaways and badges. Through Epic's Ambassador program, participating educators will also have the chance to win an exclusive classroom visit with Lincoln Peirce or Dana Simpson, where the authors will discuss their new books, demonstrate how they create their art and answer students' questions about the series.</p><p>The Andrews McMeel Publishing collaboration is part of Epic's growing work with publishers and authors to create new ways for children to discover upcoming books, engage with the creators and characters behind them and continue exploring the stories and series that capture their interest.</p><p>To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=2656700382&amp;u=http%3A%2F%2Fwww.getepic.com%2F&amp;a=www.getepic.com\" target=\"_blank\" rel=\"nofollow\">www.getepic.com</a>.</p><p><b>About Epic Books for Kids</b></p><p>Epic is the world's leading digital reading platform for kids 12 and under, offering access to more than 40,000 high-quality books, audiobooks, videos and educational resources. Trusted by millions of families and educators worldwide, Epic helps children discover books they love while building reading confidence and lifelong literacy skills. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=2656700382&amp;u=http%3A%2F%2Fwww.getepic.com%2F&amp;a=www.getepic.com\" target=\"_blank\" rel=\"nofollow\"><b>www.getepic.com</b></a>.</p><p><b>About AMP</b></p><p>Andrews McMeel Publishing is an innovative leader of more than 50 years in comics and humor, poetry and inspiration, gift books, calendars, and greeting card publishing for children and adults. It is a division of Andrews McMeel Universal, an independent Kansas City based global media company that partners with a world-class roster of creative and diverse talent. Through publishing, syndication, entertainment, and interactive experiences, AMU connects audiences to universal messages of truth, humor, and hope that have the power to connect people and change lives. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4766034-1&amp;h=4186154477&amp;u=https%3A%2F%2Fpublishing.andrewsmcmeel.com%2F&amp;a=https%3A%2F%2Fpublishing.andrewsmcmeel.com\" target=\"_blank\" rel=\"nofollow\"><b>https://publishing.andrewsmcmeel.com</b></a><b>. </b></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39356&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/epic-books-for-kids-partners-with-andrews-mcmeel-publishing-to-give-young-readers-early-access-to-new-releases-302867902.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/epic-books-for-kids-partners-with-andrews-mcmeel-publishing-to-give-young-readers-early-access-to-new-releases-302867902.html</a></p><p>SOURCE Epic!</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39356&amp;Transmission_Id=202609021152PR_NEWS_USPR_____LA39356&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Epic!",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "industry:PUB"
-          ],
-          "entertainment": [
-            "industry:ENT"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:21.025Z"
-    },
-    {
-      "company": [
-        "ForwardX Robotics"
-      ],
-      "date": "20260902T131600+0000",
-      "dateline": "BEIJING, Sept. 2, 2026",
-      "feed": [
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "PRNUS",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "CHN",
-        "ASA",
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "EDA",
-        "AUT",
-        "MFG",
-        "TRN",
-        "MAC",
-        "AFI"
-      ],
-      "language": "en-US",
-      "multimedia": [],
-      "release_id": "20260902CN39130",
-      "status": "PUBLISHED",
-      "subject": [
-        "SVY"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- As manufacturers increasingly automate existing facilities, autonomous mobile robots (AMRs) can improve internal material flow without major infrastructure changes. However, brownfield environments present challenges beyond robot navigation. Existing layouts, traffic patterns, material flows, IT infrastructure, and ongoing production must all be considered.</p>\n<p>For manufacturers, the objective is not simply to deploy more robots, but to integrate automation into existing operations while maintaining safety, flexibility, reliable material flow, and long-term scalability as production requirements continuously evolve.</p>",
-      "ticker": [],
-      "title": "ForwardX Robotics Launches Brownfield Automation Whitepaper: Four Capabilities for Scaling AMRs in Existing Factories",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902CN39130",
-      "body": "\n<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- As manufacturers increasingly automate existing facilities, autonomous mobile robots (AMRs) can improve internal material flow without major infrastructure changes. However, brownfield environments present challenges beyond robot navigation. Existing layouts, traffic patterns, material flows, IT infrastructure, and ongoing production must all be considered.</p>\n<p>For manufacturers, the objective is not simply to deploy more robots, but to integrate automation into existing operations while maintaining safety, flexibility, reliable material flow, and long-term scalability as production requirements continuously evolve.</p><p>ForwardX Robotics' new <b>Brownfield Automation Whitepaper</b> identifies four capabilities critical to successful brownfield automation.</p><p class=\"prntal\"><b>1. Brownfield Systems Engineering</b></p><p>Successful automation starts with understanding the factory as a complete production system. Material flows are connected to production requirements, equipment utilization, inventory movement, traffic, and IT systems. ForwardX combines material flow analysis, production constraints, traffic engineering, IT/OT integration, and deployment planning before automation is introduced. This methodology has been developed through five large-scale automotive OEM deployments involving more than 100 AMRs.</p><p class=\"prntal\"><b>2. Engineering Adaptability</b></p><p>Every brownfield facility has different floor conditions, aisle widths, traffic patterns, material carriers, network infrastructure, and production layouts. Automation therefore needs to adapt to the facility rather than requiring costly standardization. ForwardX uses vision-based autonomy, enabling AMRs to navigate without floor markers or magnetic guidance. At Chery Dalian, more than 480 AMRs operate alongside hundreds of manually driven forklifts through perception, dynamic obstacle avoidance, and coordinated traffic management.</p><p class=\"prntal\"><b>3. Production-Safe Deployment</b></p><p>In an operating factory, deployment methodology can be as important as the automation technology itself. ForwardX uses phased implementation, digital validation, integration testing, controlled production cutover, and progressive commissioning. Software interfaces and communication with MES, WMS, ERP, and other factory systems are verified before robots enter live production, reducing implementation risk and supporting production continuity.</p><p class=\"prntal\"><b>4. Large-Scale Fleet Orchestration</b></p><p>Scaling from an AMR pilot to hundreds of robots requires coordinated fleet intelligence. At Chery Dalian, 484 AMRs operate at one manufacturing site under ForwardX's unified fleet management platform. The f(x) Fleet Manager supports dynamic task allocation, traffic management, charger optimization, and real-time fleet visibility across different robot architectures.</p><p>The whitepaper demonstrates that brownfield automation requires more than autonomous robots. Manufacturers must evaluate whether an automation solution can understand existing operations, adapt to facility constraints, deploy safely, and coordinate fleets at scale. These capabilities provide a practical framework for manufacturers evaluating AMR automation within existing production environments.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN39130&amp;sd=2026-09-02\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/forwardx-robotics-launches-brownfield-automation-whitepaper-four-capabilities-for-scaling-amrs-in-existing-factories-302867733.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/forwardx-robotics-launches-brownfield-automation-whitepaper-four-capabilities-for-scaling-amrs-in-existing-factories-302867733.html</a></p><p>SOURCE ForwardX Robotics</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN39130&amp;Transmission_Id=202609020830PR_NEWS_USPR_____CN39130&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "ForwardX Robotics",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "actor"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:21.912Z"
     }
   ]
 }

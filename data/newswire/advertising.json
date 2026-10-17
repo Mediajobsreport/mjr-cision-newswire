@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T12:49:14.667Z",
+  "generated_at": "2026-10-17T16:14:17.090Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 58,
+  "count": 57,
   "releases": [
     {
       "company": [
@@ -4989,86 +4989,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:20.160Z"
-    },
-    {
-      "company": [
-        "Listrak"
-      ],
-      "date": "20260902T151900+0000",
-      "dateline": "LITITZ, Pa., Sept. 2, 2026",
-      "feed": [
-        "PRNUS",
-        "APPLE_NEWS",
-        "prncom_prnj",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "PSY",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ADV",
-        "REA",
-        "CPR"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Listrak logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1099092/Listrak-new-logo.jpg?id=OA2923993&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1099092/Listrak-new-logo.jpg?id=OA2923993&p=publish"
-        }
-      ],
-      "release_id": "20260902PH38502",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "SBS"
-      ],
-      "summary": "<p class=\"prntac\"><i>New tool gives marketers instant, actionable feedback on any marketing email to help drive e-commerce revenue growth </i></p><p><span class=\"legendSpanClass\">LITITZ, Pa.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Leading <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=488515628&amp;u=https%3A%2F%2Fwww.listrak.com%2Fplatform&amp;a=cross-channel+personalization\" target=\"_blank\" rel=\"nofollow\">cross-channel personalization</a> platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2925044448&amp;u=https%3A%2F%2Fwww.listrak.com%2F&amp;a=Listrak\" target=\"_blank\" rel=\"nofollow\">Listrak</a> announced its new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2699927469&amp;u=https%3A%2F%2Fwww.listrak.com%2Fservices%2Femail-marketing-audit&amp;a=Email+Marketing+Audit\" target=\"_blank\" rel=\"nofollow\">Email Marketing Audit</a> tool, which allows marketers to audit any marketing email against industry best practices for deliverability, accessibility, mobile optimization, content, and conversion.  The tool is free, with no signup required, and is the retail industry's first of its kind. It provides actionable insights that help drive email marketing success.</p>\n    ",
-      "ticker": [],
-      "title": "Listrak Launches Free Email Marketing Audit for Retailers",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902PH38502",
-      "body": "\n<p class=\"prntac\"><i>New tool gives marketers instant, actionable feedback on any marketing email to help drive e-commerce revenue growth </i></p><p><span class=\"legendSpanClass\">LITITZ, Pa.</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Leading <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=488515628&amp;u=https%3A%2F%2Fwww.listrak.com%2Fplatform&amp;a=cross-channel+personalization\" target=\"_blank\" rel=\"nofollow\">cross-channel personalization</a> platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2925044448&amp;u=https%3A%2F%2Fwww.listrak.com%2F&amp;a=Listrak\" target=\"_blank\" rel=\"nofollow\">Listrak</a> announced its new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=2699927469&amp;u=https%3A%2F%2Fwww.listrak.com%2Fservices%2Femail-marketing-audit&amp;a=Email+Marketing+Audit\" target=\"_blank\" rel=\"nofollow\">Email Marketing Audit</a> tool, which allows marketers to audit any marketing email against industry best practices for deliverability, accessibility, mobile optimization, content, and conversion.  The tool is free, with no signup required, and is the retail industry's first of its kind. It provides actionable insights that help drive email marketing success.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1099092/Listrak-new-logo.jpg?id=OA2923993\" title=\"Listrak logo\" alt=\"Listrak logo\"></img>\n                </p>\n    </div>\n<p>Listrak's Email Marketing Audit evaluates any marketing email against 30+ proven email marketing best practices across the key elements of a high-performing email.  The audit reviews emails for:</p><ul type=\"disc\"><li>Content: Strong email content helps capture attention and encourage subscribers to take action.<ul type=\"circle\"><li>The audit reviews elements such as Preheader, SMS Opt-In Invitation, Social Media, Manage Preferences Link, Early Call-to-Action, Subject Line Spam Triggers, Clickable Logo, and more.</li></ul></li><li>Compliance: Following email marketing and accessibility best practices helps build trust, improve usability, and support compliance.<ul type=\"circle\"><li>The audit assesses: CAN-SPAM Compliance, ADA Accessibility criteria, and SMS compliance if opt-in sources are present. This includes criteria like: Unsubscribe Link, Image Alt Text, Color Contrast, Company Physical Address, Urgency Claims, and more.</li></ul></li><li>Composition: How an email is built affects how it renders, loads, and performs across inboxes and devices.<ul type=\"circle\"><li>The audit analyzes Mobile-First Design, Gmail Clipping Risk, Image Payload Size, Coupon Code Accessibility, GIF Usage, Button-Style CTAs, Live Text, among other key elements.</li></ul></li></ul><p>Results, which are available in seconds, allow marketers to identify what's working, what's holding performance back, and where small changes can improve opens, clicks, and conversions. The report also provides recommendations to help improve performance.</p><p>\"Every marketing email serves to shape how customers experience retail brands, but emails are often created in silos across creative, merchandising and marketing teams, making it easy to miss important nuances that inhibit email performance,\" said Ross Kramer, co-founder and CEO, Listrak. \"We built our Email Marketing Audit to help illuminate blind spots across content, compliance and composition, based on Listrak's 25 years of experience and the same proven email best practices our experts use every day across more than 1,000 retail brands to help retailers drive revenue growth.\"</p><p>The launch of Listrak's Email Marketing Audit fills a growing need for marketers to stay current on the latest inbox intricacies and compliance regulations. Listrak platform data shows email click-through rates fell 11% year over year in Q2 2026, while email continues to be a workhorse marketing channel driving 30% of e-commerce revenue, making it highly essential and, while challenging, more critical than ever to optimize email marketing performance.</p><p><b>About Listrak</b></p><p>Listrak is the leading cross-channel personalization platform that seamlessly integrates data, identity, and cross-channel messaging to power hyper-personalized customer experiences across Email, SMS, Push, Web, In-Store and emerging channels like RCS from a single platform. Built for leading retailers and brands, Listrak drives measurable customer growth, maximizes efficiency, and delivers exceptional revenue results. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4765217-1&amp;h=1370118382&amp;u=https%3A%2F%2Fwww.listrak.com&amp;a=www.listrak.com\" target=\"_blank\" rel=\"nofollow\">www.listrak.com</a>.</p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH38502&amp;sd=2026-09-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/listrak-launches-free-email-marketing-audit-for-retailers-302867842.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/listrak-launches-free-email-marketing-audit-for-retailers-302867842.html</a></p><p>SOURCE LISTRAK</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH38502&amp;Transmission_Id=202609021119PR_NEWS_USPR_____PH38502&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "LISTRAK",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 4,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "marketing",
-            "industry:ADV"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:21.191Z"
     }
   ]
 }
