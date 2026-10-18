@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T23:09:05.552Z",
+  "generated_at": "2026-10-18T01:05:10.331Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 56,
+  "count": 55,
   "releases": [
     {
       "company": [
@@ -4832,84 +4832,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:19.319Z"
-    },
-    {
-      "company": [
-        "Gargle Inc."
-      ],
-      "date": "20260902T231800+0000",
-      "dateline": "LEHI, Utah, Sept. 2, 2026",
-      "feed": [
-        "PRNUS",
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY"
-      ],
-      "geography": [
-        "UTH",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "DEN",
-        "ADV",
-        "AFI",
-        "MLM",
-        "CPR"
-      ],
-      "language": "en-US",
-      "multimedia": [],
-      "release_id": "20260902LA39896",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p><b>Integrated AEO and GEO strategies help dental practices remain visible as patients increasingly turn to AI tools and voice assistants for answers.</b></p><p><span class=\"legendSpanClass\">LEHI, Utah</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Gargle, Inc., a dental marketing agency, has expanded its SEO offering to include Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO), helping dental practices improve their visibility across traditional search engines, AI-powered platforms, and voice search.</p>\n<p>Patients are no longer relying exclusively on traditional Google searches to find a dentist or learn about treatment options. They are also asking detailed questions through AI search tools and voice assistants. Gargle's enhanced SEO strategy is designed to help dental practices appear wherever those conversations begin.</p>",
-      "ticker": [],
-      "title": "Gargle Expands Dental SEO Strategy to Help Dental Practices Get Found in AI Search",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260902LA39896",
-      "body": "\n<p><b>Integrated AEO and GEO strategies help dental practices remain visible as patients increasingly turn to AI tools and voice assistants for answers.</b></p><p><span class=\"legendSpanClass\">LEHI, Utah</span>, <span class=\"legendSpanClass\">Sept. 2, 2026</span> /PRNewswire/ -- Gargle, Inc., a dental marketing agency, has expanded its SEO offering to include Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO), helping dental practices improve their visibility across traditional search engines, AI-powered platforms, and voice search.</p>\n<p>Patients are no longer relying exclusively on traditional Google searches to find a dentist or learn about treatment options. They are also asking detailed questions through AI search tools and voice assistants. Gargle's enhanced SEO strategy is designed to help dental practices appear wherever those conversations begin.</p><p>\"Search behavior is changing quickly,\" said Jeff Richins, President of Gargle. \"Patients are turning to AI tools and voice search for recommendations and answers. We want to ensure our clients are visible wherever potential patients are searching.\"</p><p><b>Helping Dental Practices Become the Answer</b></p><p>Traditional SEO helps practices rank for relevant keywords. AEO and GEO build on that foundation by structuring website content so search engines and AI platforms can more easily understand, reference, and present it in response to patient questions.</p><p>This allows dental practices to provide helpful information earlier in the patient journey, including answers about symptoms, procedures, costs, recovery, and available treatment options.</p><p>\"We don't just want a practice to appear in a list of search results,\" said Richins. \"We want it to be recognized as a trusted and relevant answer when a patient is actively looking for care.\"</p><p><b>Optimizing for High-Intent Patient Searches</b></p><p>Gargle's approach focuses on the questions patients ask when they are considering treatment or choosing a dental provider. By creating clear, useful, and locally relevant content, practices can improve their visibility during the moments most likely to influence a patient's decision.</p><p>The strategy is designed to support visibility across:</p><ul type=\"disc\"><li>Traditional Google search results</li><li>Google AI-powered search experiences</li><li>Featured snippets and answer boxes</li><li>Voice assistants</li><li>Generative AI search platforms</li><li>Local and map-based searches</li></ul><p><b>Built Into Gargle's Existing SEO Offering</b></p><p>AEO and GEO are integrated directly into Gargle's SEO product. Existing clients do not need to purchase separate software, manage another vendor, or add another layer to their marketing strategy.</p><p>\"There are no extra tools or added complexity,\" said Richins. \"We've incorporated these strategies into the SEO work we already provide, giving our clients greater value while preparing them for the future of search.\"</p><p>By expanding beyond traditional rankings, Gargle is helping dental practices build a stronger digital presence and remain competitive as online discovery continues to evolve.</p><p><b>About Gargle, Inc.</b></p><p>Gargle is a full-service dental marketing agency offering customized solutions including websites, SEO, paid search, social media, digital advertising, reputation management, and marketing performance reporting. Gargle helps dental practices improve their visibility, understand their marketing results, and connect with more prospective patients through personalized strategies and human-first support.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA39896&amp;sd=2026-09-02\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/gargle-expands-dental-seo-strategy-to-help-dental-practices-get-found-in-ai-search-302868264.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/gargle-expands-dental-seo-strategy-to-help-dental-practices-get-found-in-ai-search-302868264.html</a></p><p>SOURCE Gargle Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA39896&amp;Transmission_Id=202609021918PR_NEWS_USPR_____LA39896&amp;DateId=20260902\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Gargle Inc.",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 5,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "summary:marketing agency",
-            "summary:marketing",
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:MLM"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:19.998Z"
     }
   ]
 }
