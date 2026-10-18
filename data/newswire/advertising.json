@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-18T10:52:08.450Z",
+  "generated_at": "2026-10-18T14:23:43.046Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 55,
+  "count": 54,
   "releases": [
     {
       "company": [
@@ -4742,96 +4742,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-04T18:58:18.322Z"
-    },
-    {
-      "company": [
-        "MediaGo"
-      ],
-      "date": "20260903T120000+0000",
-      "dateline": "SAN FRANCISCO, Sept. 3, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_ONLY",
-        "PRNUS_NO_ELD",
-        "APPLE_NEWS",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "CLF",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "MLM",
-        "ADV",
-        "TLS",
-        "CPR",
-        "ITE",
-        "AFI"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980348/20260902063341EDT_image_1.jpg?id=OA2925548&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1980348/20260902063341EDT_image_1.jpg?id=OA2925548&p=publish"
-        }
-      ],
-      "release_id": "20260903CN39145",
-      "status": "PUBLISHED",
-      "subject": [
-        "AWD"
-      ],
-      "summary": "<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- MediaGo, the intelligent advertising platform, has won the Excellence Award in the AdTech category at the 2026 Global Tech Awards. Marking the third consecutive year receiving this honor, the recognition underscores MediaGo's continued innovation in deep learning-powered digital marketing solutions and the tangible business value <span id=\"spanHghltc6cf\">delivered</span> to advertisers worldwide.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980348/20260902063341EDT_image_1.jpg?id=OA2925548\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p class=\"prntal\">The Global Tech Awards is a widely recognized industry program that honors excellence across the global technology sector. With a focus on innovation, creativity, and excellence, the awards recognize technology solutions that combine breakthrough innovation with real-world impact.</p>",
-      "ticker": [],
-      "title": "MediaGo Secures Global Tech Award for Third Consecutive Year, Driving Open Internet Advertising Growth Through Deep Learning",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260903CN39145",
-      "body": "\n<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Sept. 3, 2026</span> /PRNewswire/ -- MediaGo, the intelligent advertising platform, has won the Excellence Award in the AdTech category at the 2026 Global Tech Awards. Marking the third consecutive year receiving this honor, the recognition underscores MediaGo's continued innovation in deep learning-powered digital marketing solutions and the tangible business value <span id=\"spanHghltc6cf\">delivered</span> to advertisers worldwide.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980348/20260902063341EDT_image_1.jpg?id=OA2925548\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p class=\"prntal\">The Global Tech Awards is a widely recognized industry program that honors excellence across the global technology sector. With a focus on innovation, creativity, and excellence, the awards recognize technology solutions that combine breakthrough innovation with real-world impact.</p><p class=\"prntal\">As advertisers increasingly look beyond Walled Gardens for growth, the Open Internet has emerged as a critical source of incremental opportunity. However, advertisers operating in the Open Internet environment often face challenges, including slow cold starts, volatile campaign performance, and approval issues that can be difficult to trace and resolve.</p><p class=\"prntal\">To address these pain points, MediaGo has developed a comprehensive, deep learning-powered product matrix. Centered around SmartBid 3.0 and supported by two newly introduced features—AD Learning and Approval Copilot—the suite provides advertisers with robust digital marketing solutions tailored for the Open Internet.</p><p class=\"prntal\">Upgraded with advanced algorithms, SmartBid 3.0 has delivered three major performance breakthroughs. It reduces the ramp-up time for new advertising campaigns by over 50%. In Max CV mode, it dynamically adjusts bids based on historical data, improving spend completion rate by an average of 58%. In tCPA mode, it further improves bid pacing in real time, effectively keeping CPA overflow within 1.15x of the target.</p><p class=\"prntal\">To better support advertisers on the Open Internet, MediaGo launched AD Learning and Approval Copilot earlier this year. </p><p class=\"prntal\">AD Learning allows new campaigns to inherit model features from high-performing existing campaigns, helping ease cold-start challenges. Approval Copilot provides multi-level diagnostics for disapproved creatives and sends real-time alerts when high-loss risks are detected, helping advertisers reduce losses caused by creative issues.</p><p class=\"prntal\">\"Being recognized by the Global Tech Awards for three years running is a strong endorsement of MediaGo's technology and product innovation,\" said Jianjing Du, Deputy General Manager, MediaGo. \"Our core mission remains unchanged: to help advertisers maximize campaign efficiency and ROI, so they can invest in Open Internet advertising with greater confidence.\"</p><p class=\"prntal\">MediaGo will continue to advance its deep learning-driven advertising technology, evolve its solutions in step with advertisers' needs, and connect global advertisers with high-quality inventory across the Open Internet to drive scalable, sustainable, and meaningful growth.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN39145&amp;sd=2026-09-03\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mediago-secures-global-tech-award-for-third-consecutive-year-driving-open-internet-advertising-growth-through-deep-learning-302867741.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mediago-secures-global-tech-award-for-third-consecutive-year-driving-open-internet-advertising-growth-through-deep-learning-302867741.html</a></p><p>SOURCE MediaGo</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN39145&amp;Transmission_Id=202609030800PR_NEWS_USPR_____CN39145&amp;DateId=20260903\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "MediaGo",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 10,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "summary:advertising platform",
-            "summary:adtech",
-            "advertising",
-            "summary:advertiser",
-            "summary:marketing",
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:MLM"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-04T18:58:19.319Z"
     }
   ]
 }
