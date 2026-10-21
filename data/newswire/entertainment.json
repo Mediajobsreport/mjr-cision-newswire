@@ -1,11 +1,134 @@
 {
-  "generated_at": "2026-10-21T16:56:24.543Z",
+  "generated_at": "2026-10-21T20:30:36.299Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 176,
+  "count": 177,
   "releases": [
+    {
+      "company": [
+        "The Vilcek Foundation"
+      ],
+      "date": "20261021T190000+0000",
+      "dateline": "HONOLULU, Oct. 21, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "HAW",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "ART",
+        "MUS",
+        "BKS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Ke Huy Quan (b. Vietnam), featured filmmaker in the 2026 New American Perspectives program at HIFF. Photo courtesy of Art Steiber.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2018184/Ke-Huy-Quan.jpg?id=OA3032416&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2018184/Ke-Huy-Quan.jpg?id=OA3032416&p=publish"
+        },
+        {
+          "caption": "Alex Tarrant (b. New Zealand), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2018335/Alex_Tarrant.jpg?id=OA3032810&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2018335/Alex_Tarrant.jpg?id=OA3032810&p=publish"
+        },
+        {
+          "caption": "Liz Sargent (b. South Korea), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF. ",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2018336/Liz_Sargent.jpg?id=OA3032813&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2018336/Liz_Sargent.jpg?id=OA3032813&p=publish"
+        },
+        {
+          "caption": "Liz Sargent (b. China), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2018337/Michelle_Zhou.jpg?id=OA3032816&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2018337/Michelle_Zhou.jpg?id=OA3032816&p=publish"
+        },
+        {
+          "caption": "Henry Ian Cusick (b. Peru) guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.",
+          "seq": "5",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2018341/Henry-Ian-Cusick.jpg?id=OA3032822&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2018341/Henry-Ian-Cusick.jpg?id=OA3032822&p=publish"
+        },
+        {
+          "caption": "The Vilcek Foundation",
+          "seq": "6",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS553889/Vilcek-Logo-Main-Red.jpg?id=OA3032405&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS553889/Vilcek-Logo-Main-Red.jpg?id=OA3032405&p=publish"
+        }
+      ],
+      "release_id": "20261021DC78163",
+      "status": "PUBLISHED",
+      "subject": [
+        "ASI",
+        "FVT",
+        "TDS",
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>Presented in partnership with HIFF, the program spotlights five immigrant filmmakers through screenings and special events, including a master class with Academy Award</i><i><sup>®</sup></i><i> winner Ke Huy Quan</i></p><p><span class=\"legendSpanClass\">HONOLULU</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- The Vilcek Foundation, in partnership with the Hawaiʻi International Film Festival (HIFF), presents the New American Perspectives (NAP) program at the 46th edition of the festival, running on O'ahu from October 21–November 5, 2026.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2018184/Ke-Huy-Quan.jpg?id=OA3032416\" title=\"Ke Huy Quan (b. Vietnam), featured filmmaker in the 2026 New American Perspectives program at HIFF. Photo courtesy of Art Steiber.\" alt=\"Ke Huy Quan (b. Vietnam), featured filmmaker in the 2026 New American Perspectives program at HIFF. Photo courtesy of Art Steiber.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "The Vilcek Foundation Announces the 2026 New American Perspectives Program at the Hawaiʻi International Film Festival (HIFF)",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021DC78163",
+      "body": "\n<p class=\"prntac\"><i>Presented in partnership with HIFF, the program spotlights five immigrant filmmakers through screenings and special events, including a master class with Academy Award</i><i><sup>®</sup></i><i> winner Ke Huy Quan</i></p><p><span class=\"legendSpanClass\">HONOLULU</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- The Vilcek Foundation, in partnership with the Hawaiʻi International Film Festival (HIFF), presents the New American Perspectives (NAP) program at the 46th edition of the festival, running on O'ahu from October 21–November 5, 2026.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2018184/Ke-Huy-Quan.jpg?id=OA3032416\" title=\"Ke Huy Quan (b. Vietnam), featured filmmaker in the 2026 New American Perspectives program at HIFF. Photo courtesy of Art Steiber.\" alt=\"Ke Huy Quan (b. Vietnam), featured filmmaker in the 2026 New American Perspectives program at HIFF. Photo courtesy of Art Steiber.\"></img>\n                </p>\n    </div>\n<p>NAP spotlights immigrant filmmakers, celebrating the powerful impact of diversity in contemporary cinema in the United States through public film screenings, Q&amp;A sessions with filmmakers and actors, and a panel discussion. This year's NAP program will also feature a book talk and master class by Academy Award<i><sup>®</sup></i>-winning actor Ke Huy Quan.</p><p>A mainstay festival program for the past two decades, NAP welcomes a cohort of five foreign-born artists this year. The distinguished 2026 group includes featured filmmaker <b>Quan</b> (b. Vietnam) and four guest filmmakers: <b>Henry Ian Cusick</b> (b. Peru), <b>Liz Sargent</b> (b. South Korea), <b>Alex Tarrant</b> (b. New Zealand), and <b>Michelle Zhou</b> (b. China). This program represents the U.S. premiere of new films from Cusick and Tarrant. The program will also mark the debut of feature-length films by Sargent and Zhou.</p><p>\"From stories of wartime bravery to period pieces set during cinema's Golden Age, this year's New American Perspectives program celebrates the humanity at the heart of filmmaking and showcases the importance of diverse voices in the craft,\" <b>Vilcek Foundation President Rick Kinsel says</b>. \"The Vilcek Foundation is proud to continue our longstanding partnership with the Hawaiʻi International Film Festival and spotlight the ingenuity of storytellers from around the globe.\"</p><p>The 2026 NAP program is buoyed by two featured events. First, NAP's quartet of guest filmmakers take the stage for a panel discussion exploring both their creative journeys and how immigrant and Indigenous perspectives can challenge conventional narratives and democratize the film industry.</p><p>Second, Academy Award<sup>®</sup>-winning actor Quan hosts a book talk for his debut work, <i>Never Say Die: A Memoir</i>. Reflecting on his journey from childhood stardom to behind the camera and back again, Quan discusses his life, career, and the lessons from over four decades in film. A HIFF career achievement honoree, Quan will also lead a master class discussion following a screening of his classic film <i>Indiana Jones and the Temple of Doom</i>.</p><p>NAP guest filmmakers will participate in Q&amp;A sessions following select screenings. Filmmakers Henry Ian Cusick and Alex Tarrant will also participate in HIFF's Guest Filmmaker Program, which brings artists from around the globe into Hawaiʻi's K-12 classrooms.</p><p>\"These five films show the power and depth of American storytelling today — and are informed by the remarkable journeys of the filmmakers themselves,\" <b>Jean H. Lee, executive director of the Hawaiʻi International Film Festival, says</b>. \"We are grateful to the Vilcek Foundation for bringing us work that will inspire the next generation of filmmakers here in Hawaiʻi to tell their own rich and varied stories as well.\"</p><p>More information on the NAP program and participating filmmakers can be found below. Tickets to the NAP and HIFF46 can be purchased at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803662-1&amp;h=3393732265&amp;u=https%3A%2F%2Fhiff.org%2F&amp;a=hiff.org\" target=\"_blank\" rel=\"nofollow\">hiff.org</a>.</p><p><b><u>FEATURED EVENTS </u></b></p><p><b>New American Perspectives: In Conversation<br></br></b>Oct 26 | 6:00 p.m. HST | Honolulu Civil Beat, 3650 Waialae Ave, Suite 200, Honolulu, HI 96816</p><p>NAP guest filmmakers Henry Ian Cusick, Liz Sargent, Alex Tarrant, and Michelle Zhou unite for a discussion about their careers and the importance of diversity across the filmmaking landscape. This panel discussion is supported in part by Honolulu Civil Beat and will be held in its offices.</p><p><b><i>Never Say Die</i></b><b>: Book Talk with Ke Huy Quan</b><br></br>Nov 1 | 11:30 a.m. HST | da Shop: books + curiosities, 3565 Harding Ave, Honolulu, HI 96816</p><p>Join Academy Award®-winning actor, HIFF career achievement honoree, and NAP featured filmmaker Ke Huy Quan for an intimate conversation celebrating his new book <i>Never Say Die: A Memoir</i>. Book signing to follow.</p><p>Born in Vietnam, Quan spent a year in a refugee camp before arriving as a refugee in the United States in 1979. Shortly after, he earned breakout roles in <i>Indiana Jones and the Temple of Doom</i> and <i>The Goonies</i> before stepping away from acting to work behind the scenes in film production and stunt choreography. His acclaimed return performance in <i>Everything Everywhere All at Once</i> earned him an Academy Award, Golden Globe, Critics Choice Award, and Screen Actors Guild Award for Best Supporting Actor. Quan remains the only Vietnamese actor to win an Oscar.</p><p><b>Special Presentation and Master Class: </b><b><i>Indiana Jones and the Temple of Doom<br></br></i></b>Nov 1 | 2:00 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816</p><p>Ke Huy Quan made his cinematic debut as the precocious Short Round in Steven Spielberg's 1984 classic <i>Indiana Jones and the Temple of Doom.</i> Notorious for its gruesome imagery and outdated Orientalism, the prequel to <i>Raiders of the Lost Ark</i> remains a rollicking blockbuster. Join Quan for a film screening and master class on filmmaking following.</p><p><b><u>FILM SCREENINGS AND FILMMAKER Q&amp;As</u></b></p><p><b><i>Los Vampires<br></br></i></b>Oct 26 | 7:45 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816<br></br>Oct 27 | 4:30 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816</p><p>Henry Ian Cusick stars in this meta-horror set in 1930s Hollywood. Carlos Villarías (Cusick) is hired to play Dracula in the Spanish-language production, filming overnight on the same soundstages as the English-language movie featuring Bela Lugosi. Tensions mount as a string of murders on the darkened soundstage begins to blur the line between performance and possession. <i>Los Vampires </i>is in Spanish and English with English subtitles. The October 26 presentation marks the film's U.S. premiere and will be followed by a Q&amp;A with Cusick.</p><p>Cusick (b. Peru) is an actor, director, and filmmaker known for his work across screen and stage. Born in Peru, raised in Trinidad and Scotland, and now based in Hawaiʻi, Cusick trained at the Royal Scottish Academy of Music and Drama and began his career as a classical theatre actor. He earned a Primetime Emmy nomination for his turn as Desmond Hume on the serial mystery <i>Lost</i>. His extensive television work includes starring roles in <i>The 100</i>,<i> Scandal</i>,<i> The Passage</i>, and <i>MacGyver</i>. Cusick's short film, <i>Dress</i>, won Best Short Film at the Peace on Earth Film Festival and at HIFF33.</p><p><b><i>Take Me Home<br></br></i></b>Oct 24 | 6:00 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816<br></br>Oct 25 | 2:15 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816</p><p>Rooted in the real-life experiences of writer and director Liz Sargent and star Anna Sargent, <i>Take Me Home</i> follows Anna, a Korean American adoptee caring for her aging parents in a Florida suburb. When a devastating heat wave disrupts their fragile routine, Anna, her sister Emily, and their father Bob must confront an uncertain future. This intimate drama explores disability, family, and resilience with compassion and hope. The October 25 screening of Sargent's first feature-length film will be followed by a Q&amp;A with the filmmaker.</p><p>Sargent (b. South Korea) is a Korean American adoptee whose award-winning filmmaking examines themes including adoption and family relationships. A writer and director with a background in choreography, she brings a unique visual and emotional sensibility to her storytelling, shaped by her experiences as the middle child of 11 siblings and her intersectional identity. <i>Take Me Home</i> premiered in the U.S. competition section of the 2026 Sundance Film Festival, where Sargent received the Waldo Salt Screenwriting Award. The film debuted globally at the Berlin International Film Festival, where it was presented as part of the Perspectives Competition.</p><p><b><i>Sgt. Haane<br></br></i></b>Oct 23 | 6:30 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816<br></br>Oct 30 | 3:15 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816</p><p>On April 19, 1943, 28th Māori Battalion soldier Haane Manahi led a daring assault on the fortress of Takrouna in Tunisia, helping change the course of the North African campaign during World War II. Though recommended for the Victoria Cross, the honor was never awarded. Starring Alex Tarrant as Manahi, this powerful film directed by Tearepa Kahi explores courage, sacrifice, and the enduring legacy of a Māori hero whose amazing story continues to inspire generations. <i>Sgt. Haane</i> is in Te Reo Māori with English subtitles. A Q&amp;A with Tarrant will follow the premiere screening.</p><p>Tarrant is an Auckland-born actor of Māori, Samoan, and Niuean descent. A graduate of New Zealandʻs national drama school, Te Kura Toi Whakaari O Aotearoa, Tarrant made his international feature debut in <i>Night Raiders</i>. One of the Pacific's most recognizable actors, Tarrant is best known for his lead role as Kai Holman in <i>NCIS: Hawaiʻi</i>, as Valandil in <i>The Lord of the Rings: The Rings of Power</i>, and for television roles across New Zealand and Australia.</p><p><b><i>Big Little Things<br></br></i></b>Oct 25 | 8:00 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816<br></br>Oct 28 | 3:30 p.m. HST | Consolidated Kahala Theatres, 4211 Waialae Ave, Honolulu, HI 96816</p><p>Seeking to appease her seemingly perfect middle-class Chinese family, Lei brings a man home on New Year's Eve to pretend to be her boyfriend. The unexpected appearance of her real girlfriend shatters this carefully constructed facade, and Lei finds herself caught between familial obligation, cultural expectations, and the desire to live authentically. <i>Big Little Things </i>is in Mandarin and Cantonese with English subtitles. HIFF represents <i>Big Little Things' </i>U.S. premiere, as well as Michelle Zhou's first feature-length film. A Q&amp;A with the filmmaker will follow the first screening.</p><p>Zhou (b. China) is a Los Angeles-based writer and director whose work explores intimate relationships and shifting power dynamics. Zhou's short film, <i>Fish Eye</i>, won Best Short Film at the 46th USA Film Festival and her screenplay <i>Under the Snow</i> was a Sundance Screenwriters Lab semi-finalist. Her debut feature, <i>Big Little Things</i>, premiered in the Orizzonti section of the 83rd Venice International Film Festival. It won the WIP (Work-in-Progress) Activator Market Potential Award at the 62nd Taipei Golden Horse Film Festival and was presented at the 2025 Far East Film Festival as part of Udine's Focus Asia section.</p><p><b>The Vilcek Foundation<br></br></b>The Vilcek Foundation raises awareness of immigrant contributions in the United States and fosters appreciation for the arts and sciences. Established in 2000, the foundation has provided over $17.5 million to individuals and nonprofit organizations in support of this mission.</p><p>The Vilcek Foundation is a private operating foundation, a federally tax-exempt nonprofit organization under IRC Section 501(c)(3). To learn more, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803662-1&amp;h=2010630657&amp;u=https%3A%2F%2Fwww.vilcek.org%2F&amp;a=vilcek.org\" target=\"_blank\" rel=\"nofollow\">vilcek.org</a>.</p><p><b>Hawaiʻi International Film Festival<br></br></b>The Hawai'i International Film Festival (HIFF), an Academy Awards®-qualifying festival, celebrates dynamic cinema from Asia and the Pacific while championing Native Hawaiian and Indigenous filmmakers through powerful storytelling and groundbreaking programming.</p><p><b>CONTACT<br></br></b>Marjorie Fuchs<br></br>The Vilcek Foundation<br></br>929-371-4333<br></br><a href=\"mailto:marjorie.fuchs@vilcek.org\" target=\"_blank\" rel=\"nofollow\">marjorie.fuchs@vilcek.org</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2018335/Alex_Tarrant.jpg?id=OA3032810\" title=\"Alex Tarrant (b. New Zealand), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.\" alt=\"Alex Tarrant (b. New Zealand), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2018336/Liz_Sargent.jpg?id=OA3032813\" title=\"Liz Sargent (b. South Korea), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF. \" alt=\"Liz Sargent (b. South Korea), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF. \"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2018337/Michelle_Zhou.jpg?id=OA3032816\" title=\"Liz Sargent (b. China), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.\" alt=\"Liz Sargent (b. China), guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2018341/Henry-Ian-Cusick.jpg?id=OA3032822\" title=\"Henry Ian Cusick (b. Peru) guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.\" alt=\"Henry Ian Cusick (b. Peru) guest filmmaker at the 2026 New American Perspectives program at HIFF. Photo courtesy of HIFF.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS553889/Vilcek-Logo-Main-Red.jpg?id=OA3032405\" title=\"The Vilcek Foundation\" alt=\"The Vilcek Foundation\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC78163&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-vilcek-foundation-announces-the-2026-new-american-perspectives-program-at-the-hawaii-international-film-festival-hiff-302915885.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-vilcek-foundation-announces-the-2026-new-american-perspectives-program-at-the-hawaii-international-film-festival-hiff-302915885.html</a></p><p>SOURCE The Vilcek Foundation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC78163&amp;Transmission_Id=202610211500PR_NEWS_USPR_____DC78163&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "The Vilcek Foundation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 13,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "film festival",
+            "film",
+            "industry:ENT",
+            "industry:FLM",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T20:30:39.023Z"
+    },
     {
       "company": [
         "Amanda Ortiz"
@@ -113,7 +236,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-10-21T16:56:29.422Z"
+      "imported_at": "2026-10-21T20:30:40.115Z"
     },
     {
       "company": [
