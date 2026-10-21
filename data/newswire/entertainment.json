@@ -1,11 +1,101 @@
 {
-  "generated_at": "2026-10-21T06:03:37.813Z",
+  "generated_at": "2026-10-21T11:53:29.138Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 172,
+  "count": 173,
   "releases": [
+    {
+      "company": [
+        "Ballard Power Systems Inc."
+      ],
+      "date": "20261021T113000+0000",
+      "dateline": "VANCOUVER, BC, Oct. 21, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "BCO",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "UTI",
+        "ALT",
+        "OIL",
+        "ENV",
+        "GRE"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "HPU2 providing power at Boomtown",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2017770/Ballard-Power-Systems-Inc-Ballard-and-GeoPura-put-clean-energy.jpg?id=OA3031318&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2017770/Ballard-Power-Systems-Inc-Ballard-and-GeoPura-put-clean-energy.jpg?id=OA3031318&p=publish"
+        },
+        {
+          "caption": "Ballard Power Systems Inc. Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1098647/Ballard-Power-Systems-Inc-Ballard-and-GeoPura-put-clean-energy.jpg?id=OA3031313&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1098647/Ballard-Power-Systems-Inc-Ballard-and-GeoPura-put-clean-energy.jpg?id=OA3031313&p=publish"
+        }
+      ],
+      "release_id": "20261021VA77498",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><i><span>Hydrogen power units supplied critical energy to everything from concerts and festivals to major golf tournaments</span></i></p><p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- This year, GeoPura, a UK-based hydrogen power provider, recently acquired by Ballard Power Systems (NASDAQ: BLDP) (TSX: BLDP), made hydrogen integral to live entertainment. </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2017770/Ballard-Power-Systems-Inc-Ballard-and-GeoPura-put-clean-energy.jpg?id=OA3031318\" title=\"HPU2 providing power at Boomtown\" alt=\"HPU2 providing power at Boomtown\"></img>\n                </p>\n    </div>\n<p>Powered by Ballard fuel cells, Hydrogen Power Units (HPU) deliver reliable electricity while cutting harmful air pollution near stages, production areas and crowds, protecting the health of artists, crews and attendees and improving air quality for surrounding communities. </p>",
+      "ticker": [
+        "Nasdaq:BLDP",
+        "Toronto:BLDP",
+        "NASDAQ:BLDP"
+      ],
+      "title": "Ballard and GeoPura put clean energy center stage in a hydrogen-powered summer of music and sport",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021VA77498",
+      "body": "\n<p><i><span>Hydrogen power units supplied critical energy to everything from concerts and festivals to major golf tournaments</span></i></p><p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- This year, GeoPura, a UK-based hydrogen power provider, recently acquired by Ballard Power Systems (NASDAQ: BLDP) (TSX: BLDP), made hydrogen integral to live entertainment. </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2017770/Ballard-Power-Systems-Inc-Ballard-and-GeoPura-put-clean-energy.jpg?id=OA3031318\" title=\"HPU2 providing power at Boomtown\" alt=\"HPU2 providing power at Boomtown\"></img>\n                </p>\n    </div>\n<p>Powered by Ballard fuel cells, Hydrogen Power Units (HPU) deliver reliable electricity while cutting harmful air pollution near stages, production areas and crowds, protecting the health of artists, crews and attendees and improving air quality for surrounding communities. </p><p>The Energy-as-a-Service offering combines equipment, hydrogen supply, transport, on-site storage and operational support, thereby giving organisers a fully managed power solution that meets production standards, while supporting a cleaner, healthier event environment. </p><p>Having powered the HYDRO stage at Boomtown in 2025, GeoPura's HPU2 systems supplied the 20,000-capacity stage throughout the build and live festival in 2026, supporting the sound, lighting and visual production behind performances from Skrillex, Four Tet and Groove Armada. At Edinburgh Summer Sessions, HPUs were used to supply main-stage power and site infrastructure, embedding hydrogen into the delivery of a major concert series. These projects built on previous deployments at American Express presents BST Hyde Park, LIDO Festival and the Isle of Wight Festival. </p><p>In sport, the Solheim Cup in the Netherlands (GeoPura's first continental European golf deployment) received critical power – without CO₂, nitrogen oxides or particulate emissions at the point of use – from hydrogen, which also powered infrastructure at the Genesis Scottish Open.  </p><p>This was the summer that saw even more repeat deployments, larger festival commitments and further integration into event power planning. Alongside GeoPura's established work in film, television and live broadcasting, GeoPura provided the combined business with an operating model for expansion into the US, Canada, Europe and wider international markets. </p><p><b>Andrew Cunningham, President of Ballard, said: </b>\"This summer, hydrogen powered the performances, production and infrastructure that major events depended on. Organisers are incorporating it into their plans, returning for subsequent seasons and increasing the scale of their deployments. </p><p>\"Boomtown's move from HYDRO to HYDRO XL captures that progress. We're seeing the same shift in film and television, where customers need reliable power on location and want to reduce diesel use, noise and air pollution - clean power has become a requirement across these industries.</p><p>\"Our ambition is for clean power to become the default across these industries. With Ballard's fuel cell expertise and international reach alongside our hydrogen supply and operational capabilities, we can expand this approach to more customers and markets.\" </p><p><b>Marty Neese, Chief Executive Officer of Ballard, said:</b> \"GeoPura is already delivering power to customers, supplying the hydrogen and managing the service. Combining these capabilities with Ballard's technology and global reach broadens our offering and creates opportunities to capture value across equipment, fuel and operations. </p><p>\"The US and Canada offer exciting potential, from festivals and major sporting events, to film and television production. We can build on our UK experience to develop a complete service for these markets, while selectively expanding across Europe and North America. The same capabilities also serve construction, infrastructure and other customers facing grid constraints, alongside our established business in heavy-duty mobility.\" </p><p>The combined business aims to make managed hydrogen power a mainstream choice across more sectors and markets. Its growing operations in events and screen production provide a base for international expansion, alongside longer-duration applications in construction, grid support and critical power, where customers need dependable electricity beyond the capacity of existing connections. </p><p><b>About Ballard</b></p><p>Ballard Power Systems (NASDAQ: BLDP; TSX: BLDP) is a global leader in zero-emission hydrogen energy solutions and an integrated Energy-as-a-Service (EaaS) provider. Together, with its wholly owned subsidiary, GeoPura Ltd., Ballard delivers turnkey, vertically integrated hydrogen ecosystem solutions spanning hydrogen production, logistics, refuelling, zero-emission fuel cell engines, and stationary Hydrogen Power Units.</p><p>Ballard powers critical off-grid, stationary applications - including construction, events, film sets, healthcare, defense, temporary power infrastructure, and supplies fuel cell engines for heavy-duty mobility applications such as bus, rail, and marine. With an EaaS model, combined with cutting-edge technology across the hydrogen value chain, Ballard decarbonizes mission-critical operations worldwide. To learn more about Ballard, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803026-1&amp;h=3134830551&amp;u=http%3A%2F%2Fwww.ballard.com%2F&amp;a=www.ballard.com\" target=\"_blank\" rel=\"nofollow\">www.ballard.com</a>.</p><p>This release contains forward-looking statements concerning anticipated product and service attributes, product deliveries, and deployments. These forward-looking statements reflect Ballard's current expectations as contemplated under section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Any such forward-looking statements are based on Ballard's assumptions relating to its financial forecasts and expectations regarding its product development efforts, manufacturing capacity, and market demand.</p><p>These statements involve risks and uncertainties that may cause Ballard's actual results to be materially different, including general economic and regulatory changes, detrimental reliance on third parties, successfully achieving our business plans and achieving and sustaining profitability. For a detailed discussion of these and other risk factors that could affect Ballard's future performance, please refer to Ballard's most recent Annual Information Form. Readers should not place undue reliance on Ballard's forward-looking statements and Ballard assumes no obligation to update or release any revisions to these forward-looking statements, other than as required under applicable legislation.</p><p><b>Further Information <br></br></b>Sumit Kundu – Investor Relations, +1.604.360.3517 or <a href=\"mailto:investors@ballard.com\" target=\"_blank\" rel=\"nofollow\">investors@ballard.com</a></p><p> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1098647/Ballard-Power-Systems-Inc-Ballard-and-GeoPura-put-clean-energy.jpg?id=OA3031313\" title=\"Ballard Power Systems Inc. Logo\" alt=\"Ballard Power Systems Inc. Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=VA77498&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ballard-and-geopura-put-clean-energy-center-stage-in-a-hydrogen-powered-summer-of-music-and-sport-302915027.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ballard-and-geopura-put-clean-energy-center-stage-in-a-hydrogen-powered-summer-of-music-and-sport-302915027.html</a></p><p>SOURCE Ballard Power Systems Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=VA77498&amp;Transmission_Id=202610210730PR_NEWS_USPR_____VA77498&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Ballard Power Systems Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 5,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:live entertainment",
+            "summary:entertainment",
+            "music"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T11:53:30.386Z"
+    },
     {
       "company": [
         "FMC (Family Movie Classics)"
