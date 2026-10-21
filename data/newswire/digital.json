@@ -1,11 +1,103 @@
 {
-  "generated_at": "2026-10-21T11:53:29.138Z",
+  "generated_at": "2026-10-21T16:56:24.543Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 19,
+  "count": 20,
   "releases": [
+    {
+      "company": [
+        "Parks Associates"
+      ],
+      "date": "20261021T125700+0000",
+      "dateline": "PLANO, Texas, Oct. 21, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "CPR",
+        "MLM",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Parks Associates: Methods of Accessing Live Video Content among U.S. Internet Households",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2017621/Methods-of-Accessing-Live-Video-Content-among-US-Internet-Households.jpg?id=OA3030796&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2017621/Methods-of-Accessing-Live-Video-Content-among-US-Internet-Households.jpg?id=OA3030796&p=publish"
+        },
+        {
+          "caption": "Parks Associates | www.parksassociates.com",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2017625/Parks-Logo-RGB-transparent.jpg?id=OA3030800&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2017625/Parks-Logo-RGB-transparent.jpg?id=OA3030800&p=publish"
+        }
+      ],
+      "release_id": "20261021PH77364",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p class=\"prntac\"><i>45% of pay-TV subscribers use pay TV to access live video, while 25% of US internet households use FAST services</i></p><p><span class=\"legendSpanClass\">PLANO, Texas</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Parks Associates' research <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=221398988&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fconsumer-electronics-and-entertainment%2Fthe-new-live-tv-model-skinny-bundles-sports-news&amp;a=The+New+Live+TV+Model%3A+Skinny+Bundles%2C+Sports%2C+News\" target=\"_blank\" rel=\"nofollow\"><i>The New Live TV Model: Skinny Bundles, Sports, News</i></a> finds 39% of US internet households watch live events or sports through an on-demand streaming service, showing the growing role of streaming services in delivering live programming. The expanding mix of options to watch video is changing how consumers find and watch sports, news, and events, as live video viewing is no longer synonymous with pay TV.</p>\n",
+      "ticker": [],
+      "title": "Parks Associates: 39% of US Internet Households Watch Live Events or Sports Through On-Demand Streaming Services",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021PH77364",
+      "body": "\n<p class=\"prntac\"><i>45% of pay-TV subscribers use pay TV to access live video, while 25% of US internet households use FAST services</i></p><p><span class=\"legendSpanClass\">PLANO, Texas</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Parks Associates' research <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=221398988&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fconsumer-electronics-and-entertainment%2Fthe-new-live-tv-model-skinny-bundles-sports-news&amp;a=The+New+Live+TV+Model%3A+Skinny+Bundles%2C+Sports%2C+News\" target=\"_blank\" rel=\"nofollow\"><i>The New Live TV Model: Skinny Bundles, Sports, News</i></a> finds 39% of US internet households watch live events or sports through an on-demand streaming service, showing the growing role of streaming services in delivering live programming. The expanding mix of options to watch video is changing how consumers find and watch sports, news, and events, as live video viewing is no longer synonymous with pay TV.</p>\n<p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=1149214291&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fconsumer-electronics-and-entertainment%2Fthe-new-live-tv-model-skinny-bundles-sports-news&amp;a=Parks+Associates+research+also+finds%3A\" target=\"_blank\" rel=\"nofollow\">Parks Associates research also finds:</a></p><ul type=\"disc\"><li>25% watch live video through free ad-supported television (FAST) services.</li><li>21% report they don't watch live video at all.</li></ul><p>\"Consumers value live content but struggle to find and access it,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=2114187431&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fteam-detail%2Fmichael&amp;a=Michael+Goodman\" target=\"_blank\" rel=\"nofollow\">Michael Goodman</a>, Director, Entertainment Research, Parks Associates. \"The challenge for providers is making live content accessible. Sports is a good example, with programming now distributed across multiple services and platforms.\"</p><p>Consumer interest in live sports is growing alongside broad-appeal entertainment. According to Parks Associates consumer research, comedy (60%), drama (56%), and news (50%) are the most popular content categories, while 48% report watching live sports. Subscription VOD (SVOD) services continue to add sports, news, and live events while FAST services build engagement through curated linear channels.</p><p>\"Competition for viewers is increasingly about more than the content itself,\" Goodman said. \"Providers need to deliver an experience that makes it easy for consumers to find, access, and move between live and on-demand programming.\"</p><p>Parks Associates will host <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=3261814107&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fevent%2Ffuture-of-video%2Fagenda&amp;a=Future+of+Video%3A+Business+of+Streaming\" target=\"_blank\" rel=\"nofollow\">Future of Video: Business of Streaming</a> on November 17-18 at Marina del Rey, California, sponsored by Adeia, InterDigital, OTT.X, and TheDesk.net. Future of Video provides insight into successful OTT strategy deployments, challenges for pay-TV providers, and the role of connected CE in the growth of video viewing, new content formats, and the overall impact to the video market.</p><p>For more information, contact <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=2744927231&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fteam-detail%2Fmindi-sue-sternblitz-rubenstein&amp;a=Mindi+Sue+Sternblitz-Rubenstein\" target=\"_blank\" rel=\"nofollow\">Mindi Sue Sternblitz-Rubenstein</a> or visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=1169045702&amp;u=http%3A%2F%2Fwww.parksassociates.com%2F&amp;a=www.parksassociates.com\" target=\"_blank\" rel=\"nofollow\">www.parksassociates.com</a>.</p><p><b>About Parks Associates</b></p><p>Parks Associates helps companies identify new opportunities, refine strategy, and accelerate growth in connected technology markets through data-driven insights and industry expertise. With more than 40 years of experience, the firm delivers proprietary consumer and industry research, market forecasts, and strategic analysis that guide business decisions across personal, connected home, small business, and commercial technology ecosystems. Parks Associates supports clients in navigating evolving markets including AI, security, smart home, broadband, entertainment, energy, multifamily, smart buildings, and connected health.</p><p>The firm also fosters industry growth and collaboration by convening thousands of leaders each year through its flagship executive conferences, including CONNECTIONS™, Connected Health Summit, Smart Energy Summit, Smart Spaces, and Future of Video. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=1575372696&amp;u=https%3A%2F%2Fwww.parksassociates.com%2F&amp;a=https%3A%2F%2Fwww.parksassociates.com\" target=\"_blank\" rel=\"nofollow\">https://www.parksassociates.com</a>.</p><p>Follow Parks Associates on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=4011806501&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fparksassociates%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=3066327498&amp;u=https%3A%2F%2Fwww.facebook.com%2FParksAssociates&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4802894-1&amp;h=254116529&amp;u=https%3A%2F%2Fwww.instagram.com%2Fparksassociates%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>.</p><p>Mindi Sue Sternblitz-Rubenstein<br></br>Parks Associates<br></br>972.490.1113<br></br><a href=\"mailto:425297@email4pr.com\" target=\"_blank\" rel=\"nofollow\">425297@email4pr.com</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH77364&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/parks-associates-39-of-us-internet-households-watch-live-events-or-sports-through-on-demand-streaming-services-302915016.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/parks-associates-39-of-us-internet-households-watch-live-events-or-sports-through-on-demand-streaming-services-302915016.html</a></p><p>SOURCE Parks Associates</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH77364&amp;Transmission_Id=202610210857PR_NEWS_USPR_____PH77364&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Parks Associates",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 3,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "summary:entertainment",
+            "industry:ENT"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T16:56:30.702Z"
+    },
     {
       "company": [
         "LG Electronics USA",

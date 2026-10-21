@@ -1,11 +1,414 @@
 {
-  "generated_at": "2026-10-21T11:53:29.138Z",
+  "generated_at": "2026-10-21T16:56:24.543Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 120,
+  "count": 125,
   "releases": [
+    {
+      "company": [
+        "National Cricket League USA"
+      ],
+      "date": "20261021T161400+0000",
+      "dateline": "MISSISSAUGA, ON, Oct. 21, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "SSE",
+        "SPT",
+        "TVN",
+        "ENT",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "NCL GT20 Canada",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1996545/NCL-GT20-Canada-Logo.jpg?id=OA3032256&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1996545/NCL-GT20-Canada-Logo.jpg?id=OA3032256&p=publish"
+        }
+      ],
+      "release_id": "20261021LA77851",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "FVT"
+      ],
+      "summary": "<p class=\"prntac\"><i>From Canada to the Caribbean, CBC GEM and an expanding international broadcast network bring the tournament to fans across continents.</i></p><p><span class=\"legendSpanClass\">MISSISSAUGA, ON</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- With opening night just two days away, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803380-1&amp;h=1690293448&amp;u=https%3A%2F%2Fncl20.com%2F&amp;a=NCL+GT20\" target=\"_blank\" rel=\"nofollow\">NCL GT20</a> is preparing to launch Caribbean Edition 2026 at Arnos Vale Stadium on Friday, October 23. Toronto Kings and Vancouver Guardians meet in the opening match at 7 p.m. St. Vincent and the Grenadines local time (Atlantic Standard Time, UTC−4), beginning an 18-match tournament that concludes with the championship final on November 2.</p>\n    ",
+      "ticker": [],
+      "title": "NCL GT20 Caribbean Edition 2026 Kicks Off October 23 With Global Broadcast Partners, International Sponsors and 18-Match Schedule",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021LA77851",
+      "body": "\n<p class=\"prntac\"><i>From Canada to the Caribbean, CBC GEM and an expanding international broadcast network bring the tournament to fans across continents.</i></p><p><span class=\"legendSpanClass\">MISSISSAUGA, ON</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- With opening night just two days away, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803380-1&amp;h=1690293448&amp;u=https%3A%2F%2Fncl20.com%2F&amp;a=NCL+GT20\" target=\"_blank\" rel=\"nofollow\">NCL GT20</a> is preparing to launch Caribbean Edition 2026 at Arnos Vale Stadium on Friday, October 23. Toronto Kings and Vancouver Guardians meet in the opening match at 7 p.m. St. Vincent and the Grenadines local time (Atlantic Standard Time, UTC−4), beginning an 18-match tournament that concludes with the championship final on November 2.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1996545/NCL-GT20-Canada-Logo.jpg?id=OA3032256\" title=\"NCL GT20 Canada\" alt=\"NCL GT20 Canada\"></img>\n                </p>\n    </div>\n<p>The league has announced an expanded international broadcast and streaming network, a lineup of commercial sponsors and its official fixtures, bringing Canadian-rooted cricket to the Caribbean stage while showcasing experienced players and emerging talent.</p><p><b>WHERE TO WATCH: INTERNATIONAL BROADCAST PARTNERS</b></p><ul type=\"disc\"><li>Canada: CBC GEM (digital streaming); ATN</li><li>India: Unite8 Sports and ZEE5</li><li>Afghanistan: Solh Sports (linear and digital)</li><li>Bangladesh: T Sports (linear); MyCo (digital)</li><li>Pakistan: Geo Sports (linear); MyCo (digital)</li><li>Middle East and North Africa (MENA): MyCo</li><li>Caribbean: Rush Live and Louder (linear and digital)</li><li>Latin America: Live and Louder (digital)</li><li>South and Sub-Saharan Africa: Africa XP / Sports Connect (linear and digital; non-exclusive)</li><li>Australia, New Zealand, Far East and Southeast Asia: Sports Connect (digital; non-exclusive)</li></ul><p>Broadcast access and platform availability vary by territory. Fans should check local listings and official NCL GT20 channels for viewing information.</p><p><b>CANADIAN ROOTS. GLOBAL AMBITIONS.</b></p><p>The Caribbean Edition represents the next chapter in NCL GT20's international growth, connecting Canada's expanding cricket community with the Caribbean's longstanding sporting heritage. The league is positioning itself as a bridge between established cricket nations and emerging markets.</p><p class=\"prnml40\">\"Our focus is on building partnerships that take cricket beyond borders and create meaningful opportunities for the sport's future,\" said Gaurav Dewani, Head of Partnerships, NCL GT20. \"Our Canadian roots remain central to our identity, and bringing the tournament to the Caribbean allows us to connect two important cricket communities while expanding our reach across international markets. These broadcast relationships are about more than distribution. They're about making cricket more accessible, creating greater visibility for emerging talent and building a platform that can continue to grow for years to come.\"</p><p><b>OFFICIAL MATCH FIXTURES | OCTOBER 23 – NOVEMBER 2</b></p><p>All matches at Arnos Vale Stadium, St. Vincent and the Grenadines. All kickoff times are in St. Vincent and the Grenadines local time (Atlantic Standard Time, AST, UTC−4). October 27 is a rest day.</p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>MATCH</b></span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>DATE</b></span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>TIME (AST)</b></span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>FIXTURE</b></span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>1</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 23</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Toronto Kings vs Vancouver Guardians</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>2</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 24</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Mississauga Skyhawks vs Montreal Warriors</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>3</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 24</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Brampton Blazers vs Toronto Kings</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>4</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 25</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Vancouver Guardians vs Mississauga Skyhawks</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>5</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 25</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Montreal Warriors vs Brampton Blazers</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>6</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 26</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Toronto Kings vs Montreal Warriors</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>7</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 26</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">3PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Mississauga Skyhawks vs Brampton Blazers</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>8</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 28</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Vancouver Guardians vs Brampton Blazers</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>9</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 28</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Toronto Kings vs Mississauga Skyhawks</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>10</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 29</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Vancouver Guardians vs Montreal Warriors</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>11</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 29</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Mississauga Skyhawks vs Toronto Kings</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>12</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 30</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Brampton Blazers vs Vancouver Guardians</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>13</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 30</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Montreal Warriors vs Toronto Kings</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>14</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 31</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Montreal Warriors vs Vancouver Guardians</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>15</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct 31</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Brampton Blazers vs Mississauga Skyhawks</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>SF 1</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Nov 1</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">10AM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Rank 1 vs Rank 4</span></p></td></tr><tr><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>SF 2</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Nov 1</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Rank 2 vs Rank 3</span></p></td></tr><tr><td class=\"prngen4\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>FINAL</b></span></p></td><td class=\"prngen4\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Nov 2</span></p></td><td class=\"prngen4\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">7PM</span></p></td><td class=\"prngen4\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Winner SF1 vs Winner SF2</span></p></td></tr></table></div><p><b>OFFICIAL TOURNAMENT SPONSORS</b></p><p>Dafabet | Coca-Cola | Powerade | Grace Good Move</p><p><b>A GLOBAL STAGE FOR CRICKET'S NEXT GENERATION</b></p><p>At the heart of NCL GT20's mission is a commitment to grassroots cricket development and creating opportunities for promising young players to compete alongside internationally recognized stars. The Caribbean Edition aims to provide competitive exposure, mentorship and visibility for emerging Canadian and Caribbean cricketers.</p><p><b>SPOTLIGHT ON ST. VINCENT AND THE GRENADINES</b></p><p>Hosting the tournament in St. Vincent and the Grenadines creates an opportunity to showcase the destination's cricket heritage, culture and natural beauty to international audiences, while generating activity for hospitality, tourism, transportation and event services.</p><p><b>ABOUT NCL GT20</b></p><p>NCL GT20 is an international T20 cricket league with Canadian roots, dedicated to delivering world-class cricket entertainment, developing emerging talent and expanding the sport's global reach. Through strategic partnerships, international competition and grassroots development, the league creates opportunities for the next generation of cricket stars.</p><p>MEDIA CONTACT NCL GT20 Global Communications | <a href=\"mailto:media@nclcricket.com\" target=\"_blank\" rel=\"nofollow\">media@nclcricket.com</a> | <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803380-1&amp;h=3600876121&amp;u=https%3A%2F%2Fnclgt20.com%2F&amp;a=https%3A%2F%2Fnclgt20.com\" target=\"_blank\" rel=\"nofollow\">https://nclgt20.com</a></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803380-1&amp;h=42463424&amp;u=https%3A%2F%2Fncl20.com%2F&amp;a=Website\" target=\"_blank\" rel=\"nofollow\">Website</a> | <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803380-1&amp;h=3196918887&amp;u=https%3A%2F%2Fwww.facebook.com%2Fncl20canada%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a> | <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803380-1&amp;h=3219282770&amp;u=https%3A%2F%2Fwww.instagram.com%2Fnclcricket%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a> | <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803380-1&amp;h=651275388&amp;u=https%3A%2F%2Fx.com%2Fncl20canada&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA77851&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ncl-gt20-caribbean-edition-2026-kicks-off-october-23-with-global-broadcast-partners-international-sponsors-and-18-match-schedule-302915727.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ncl-gt20-caribbean-edition-2026-kicks-off-october-23-with-global-broadcast-partners-international-sponsors-and-18-match-schedule-302915727.html</a></p><p>SOURCE National Cricket League USA</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA77851&amp;Transmission_Id=202610211214PR_NEWS_USPR_____LA77851&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "National Cricket League USA",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prngen3{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 1pt; BORDER-BOTTOM:black 1pt; BORDER-LEFT:black 1pt\n}\n.prngen4{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 1pt; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt\n}\n.prngen2{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 1pt; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T16:56:29.708Z"
+    },
+    {
+      "company": [
+        "E Ink Corporation"
+      ],
+      "date": "20261021T133000+0000",
+      "dateline": "BILLERICA, Mass., Oct. 21, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "MAS",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ECP",
+        "HRD",
+        "PEL",
+        "OFP",
+        "CSE",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Representatives from E Ink and FUJIFILM Imaging Systems",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2017752/Image_4_s.jpg?id=OA3031254&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2017752/Image_4_s.jpg?id=OA3031254&p=publish"
+        },
+        {
+          "caption": "2026 E Ink Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1890397/E-Ink-Corporation-Logo.jpg?id=OA3031253&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1890397/E-Ink-Corporation-Logo.jpg?id=OA3031253&p=publish"
+        }
+      ],
+      "release_id": "20261021NE77480",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "JVN"
+      ],
+      "summary": "<p class=\"prntac\"><i>Collaboration will initially focus on signage applications for Japan's railway industry</i></p><p><span class=\"legendSpanClass\">BILLERICA, Mass.</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803008-1&amp;h=2014521682&amp;u=https%3A%2F%2Fwww.eink.com%2F&amp;a=E+Ink\" target=\"_blank\" rel=\"nofollow\">E Ink</a>, a pioneer and leading global developer of ePaper technology, today announced a partnership with FUJIFILM Imaging Systems Co., Ltd. to establish a large-format color ePaper signage business, initially targeting the railway sector. Upon successful completion of prototype assessments, the companies will begin introducing select sizes in 2027.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2017752/Image_4_s.jpg?id=OA3031254\" title=\"Representatives from E Ink and FUJIFILM Imaging Systems\" alt=\"Representatives from E Ink and FUJIFILM Imaging Systems\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "E Ink and FUJIFILM Imaging Systems Partner to Expand Large-Format Color ePaper Signage",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021NE77480",
+      "body": "\n<p class=\"prntac\"><i>Collaboration will initially focus on signage applications for Japan's railway industry</i></p><p><span class=\"legendSpanClass\">BILLERICA, Mass.</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803008-1&amp;h=2014521682&amp;u=https%3A%2F%2Fwww.eink.com%2F&amp;a=E+Ink\" target=\"_blank\" rel=\"nofollow\">E Ink</a>, a pioneer and leading global developer of ePaper technology, today announced a partnership with FUJIFILM Imaging Systems Co., Ltd. to establish a large-format color ePaper signage business, initially targeting the railway sector. Upon successful completion of prototype assessments, the companies will begin introducing select sizes in 2027.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2017752/Image_4_s.jpg?id=OA3031254\" title=\"Representatives from E Ink and FUJIFILM Imaging Systems\" alt=\"Representatives from E Ink and FUJIFILM Imaging Systems\"></img>\n                </p>\n    </div>\n<p>ePaper is increasingly turned to as an alternative display medium in the railway industry, especially due to labor shortages and the rising costs associated with printing, transporting, installing, and disposing of traditional paper posters.</p><p>E Ink and Fujifilm Imaging Systems will combine E Ink's ePaper technology with Fujifilm Imaging Systems' established railway-sector business foundation, implementation capabilities, and operational expertise. Together, the companies plan to provide end-to-end support for large-format color ePaper signage, spanning customer proposals, installation, and ongoing operation.</p><p>The details regarding the full-color ePaper sizes and release dates are as follows:</p><ul type=\"disc\"><li>55-inch E Ink Marquee<ul type=\"circle\"><li>Prototype Release: December 2026</li><li>Mass-Production Release: March 2027</li></ul></li><li>B1-size E Ink Marquee<ul type=\"circle\"><li>Prototype Release: October 2027</li><li>Mass-Production Release: January 2028</li></ul></li></ul><p>\"We see significant opportunity for E Ink's ePaper to replace traditional print posters in Japan's transportation industry, particularly as our large-format and color capabilities continue to advance,\" said JM Hung, President of E Ink Holdings. \"With the visibility of print and the flexibility of digital updates, ePaper helps organizations streamline content changes, reduce printing and material waste, and deliver timely information using very little power.\"</p><p>\"Fujifilm Imaging Systems' expertise in imaging, printing, color management, and quality control strongly complements E Ink's pioneering leadership in ePaper technology,\" said Takashi Toyofuku, Director at FUJIFILM Imaging Systems. \"By bringing together these capabilities and our established customer relationships, we are well positioned to accelerate the adoption of large-format ePaper—beginning with railway advertising and signage and expanding over time into other industries throughout Japan.\"</p><p><b>About E Ink</b></p><p>E Ink Holdings Inc. (8069.TWO), based on technology from MIT's Media Lab, provides an ideal display medium for applications spanning eReaders and eNotes, ESLs and retail media, digital signage, IoT devices and more, enabling customers to put displays in locations previously impossible. E Ink's electrophoretic display products make it a worldwide leader for ePaper. Its low-power displays enable customers to reach their sustainability goals, and E Ink has pledged using 100% renewable energy in 2030 and reaching net zero carbon emissions by 2040. E Ink has been recognized for its efforts by receiving validation from Science-Based Targets (SBTi) and is listed in both the DJSI World and DJSI Emerging Indexes and is listed in Taiwan's Taipei Exchange (TPEx) and the Luxembourg market. For more information, please visit <a href=\"http://www.eink.com\" rel=\"nofollow\">www.eink.com</a>. E Ink. We Make Surfaces Smart and Green.</p><p><b>About FUJIFILM Imaging Systems</b></p><p>FUJIFILM Imaging Systems Co., Ltd. serves as the domestic sales company for Fujifilm Group imaging products in Japan. Drawing on the expertise and technologies developed by Fujifilm, the company offers photography, video and information products and services that combine quality, reliability, security and ease of use for individual and corporate customers. As a member of the Fujifilm Group, Fujifilm Imaging Systems develops products, services and solutions that respond to evolving customer needs while supporting the preservation and advancement of photography and imaging culture. Its work contributes to the Fujifilm Group's purpose: \"Giving our world more smiles.\"</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1890397/E-Ink-Corporation-Logo.jpg?id=OA3031253\" title=\"2026 E Ink Logo\" alt=\"2026 E Ink Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NE77480&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/e-ink-and-fujifilm-imaging-systems-partner-to-expand-large-format-color-epaper-signage-302915446.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/e-ink-and-fujifilm-imaging-systems-partner-to-expand-large-format-color-epaper-signage-302915446.html</a></p><p>SOURCE E Ink Corporation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NE77480&amp;Transmission_Id=202610210930PR_NEWS_USPR_____NE77480&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "E Ink Corporation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "film"
+          ]
+        },
+        "news_score": 3,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T16:56:30.270Z"
+    },
+    {
+      "company": [
+        "Space Nuclear Power Corporation"
+      ],
+      "date": "20261021T130500+0000",
+      "dateline": "LOS ALAMOS, N.M., Oct. 21, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "NMX",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ARO",
+        "HMS",
+        "ALT",
+        "EDA",
+        "OIL",
+        "UTI"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1674981/Space-Nukes-Logo.jpg?id=OA3027197&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1674981/Space-Nukes-Logo.jpg?id=OA3027197&p=publish"
+        }
+      ],
+      "release_id": "20261021LA75689",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p><i>Other Transaction Agreement to advance active reactor control through a follow-on ground test of Kilopower reactor technology</i></p><p><span class=\"legendSpanClass\">LOS ALAMOS, N.M.</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction Agreement (OTA) under the Fast Capacitance (Fat Cat) program. Managed by Dr. Tabitha Dodson in DARPA's Defense Sciences Office, the Fat Cat program seeks to advance autonomous reactor operation for national security missions. The contract supports development and ground testing of advanced reactor control technologies that extend the demonstrated capability of American nuclear power.</p>\n    ",
+      "ticker": [],
+      "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021LA75689",
+      "body": "\n<p><i>Other Transaction Agreement to advance active reactor control through a follow-on ground test of Kilopower reactor technology</i></p><p><span class=\"legendSpanClass\">LOS ALAMOS, N.M.</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Space Nuclear Power Corporation (SpaceNukes) announced today that the Defense Advanced Research Projects Agency (DARPA) has awarded the company an Other Transaction Agreement (OTA) under the Fast Capacitance (Fat Cat) program. Managed by Dr. Tabitha Dodson in DARPA's Defense Sciences Office, the Fat Cat program seeks to advance autonomous reactor operation for national security missions. The contract supports development and ground testing of advanced reactor control technologies that extend the demonstrated capability of American nuclear power.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1674981/Space-Nukes-Logo.jpg?id=OA3027197\" title=\"Logo\" alt=\"Logo\"></img>\n                </p>\n    </div>\n<p>The award extends a continuous line of nuclear power development and builds directly on SpaceNukes' successful nuclear power demonstration heritage. In 2018, key members of the SpaceNukes team, while employed by Los Alamos National Laboratory and NASA, performed the foundational Kilopower Reactor Using Stirling Technology (KRUSTY) work — conducting the only full-power ground test of a new American space reactor in five decades. Under the current agreement, SpaceNukes and Los Alamos National Laboratory will design, build, and conduct a follow-on nuclear ground test of a Kilopower reactor incorporating active control rod operation—an advancement beyond the passively controlled architecture demonstrated in the 2018 KRUSTY test.</p><p class=\"prnml40\">\"This award recognizes the maturity and continuity of the team that designed, built, and tested KRUSTY in 2018,\" said Patrick McClure, COO of SpaceNukes. \"We are proud to work alongside Dr. Dodson and Los Alamos National Laboratory to deliver the next demonstrated step in American nuclear power.\"</p><p>The phased program structure includes design, procurement, and integration gates leading to the ground demonstration, producing both nuclear-tested hardware and the engineering basis for autonomous, actively-controlled reactor operation. Integration work will be conducted at SpaceNukes' workshop in Medina, Ohio, led by Chief Engineer Marc Gibson. The work positions American industry to provide reliable nuclear power across a broader range of mission profiles, including those requiring dynamic power management and rapid response under varying operational conditions.</p><p class=\"prnml40\">\"There is no substitute for demonstrated technology when American national security objectives are at stake,\" said Andy Phelps, CEO of SpaceNukes. \"This award lets us advance the work begun in the KRUSTY program and bring another tested capability forward for the nation.\"</p><p><b>About Space Nuclear Power Corporation (SpaceNukes)</b></p><p>Space Nuclear Power Corporation was founded on the belief that nuclear power is essential to our future, both on Earth and in space. The company's goal is to enable the successful deployment of fission reactors in space. SpaceNukes brings together the core engineering and program management team behind the foundational KRUSTY demonstration in 2018. David Poston (CTO) and Patrick McClure (COO) performed this work at Los Alamos National Laboratory; Marc Gibson (Chief Engineer) led the program at NASA Glenn Research Center. The team is joined by Omar Mireles (formerly NASA Marshall Space Flight Center) and Andy Phelps (CEO). SpaceNukes holds a license from Los Alamos National Laboratory for the Kilopower technology and operates from headquarters in Los Alamos, New Mexico, and workshops in Los Alamos with additive 3D printing and in Medina, Ohio, with thermal and vacuum capabilities.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA75689&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller-302914566.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/space-nuclear-power-corporation-awarded-darpa-agreement-for-ground-test-of-autonomous-nuclear-reactor-controller-302914566.html</a></p><p>SOURCE Space Nuclear Power Corporation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA75689&amp;Transmission_Id=202610210905PR_NEWS_USPR_____LA75689&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Space Nuclear Power Corporation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T16:56:30.542Z"
+    },
+    {
+      "company": [
+        "Cymat Technologies Ltd."
+      ],
+      "date": "20261021T123000+0000",
+      "dateline": "MISSISSAUGA, ON, Oct. 21, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "ONT",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "CHM",
+        "MFG",
+        "OTC",
+        "MNG",
+        "HEA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Cymat Technologies Ltd. Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS969326/Cymat-Technologies-Ltd-CYMAT-TO-WELCOME-GOVERNMENT-OFFICIALS-AN.jpg?id=OA3031830&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS969326/Cymat-Technologies-Ltd-CYMAT-TO-WELCOME-GOVERNMENT-OFFICIALS-AN.jpg?id=OA3031830&p=publish"
+        }
+      ],
+      "release_id": "20261021TO77671",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">MISSISSAUGA, ON</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Cymat Technologies Ltd. (TSXV: CYM) (OTCQB: CYMHF) (the \"<b>Company</b>\" or \"<b>Cymat</b>\") announces that it will host a private event at its Mississauga manufacturing facility on Wednesday, October 28, 2026, from 8:30 a.m. to 9:30 a.m. EDST (the <b>\"Event\"</b>).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS969326/Cymat-Technologies-Ltd-CYMAT-TO-WELCOME-GOVERNMENT-OFFICIALS-AN.jpg?id=OA3031830\" title=\"Cymat Technologies Ltd. Logo\" alt=\"Cymat Technologies Ltd. Logo\"></img>\n                </p>\n    </div>\n<p>Following the Event, Cymat expects to issue a public announcement providing further details of the Event.</p><p>Federal and provincial government officials, representatives of certain of Cymat's existing strategic partners and other invited industry guests are expected to attend. The Event will take place at the factory where Cymat produces its Stabilized Aluminum Foam (<b>\"SAF\"</b>), and the Company is pleased to welcome its guests to see the production facility first-hand. Event attendance is subject to change.</p>",
+      "ticker": [
+        "OTC-BB:CYMHF",
+        "OTC-QB:CYMHF",
+        "TorontoVE:CYM"
+      ],
+      "title": "CYMAT TO WELCOME GOVERNMENT OFFICIALS AND STRATEGIC PARTNERS TO ITS MISSISSAUGA FACTORY ON OCTOBER 28",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021TO77671",
+      "body": "\n<p><span class=\"legendSpanClass\">MISSISSAUGA, ON</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Cymat Technologies Ltd. (TSXV: CYM) (OTCQB: CYMHF) (the \"<b>Company</b>\" or \"<b>Cymat</b>\") announces that it will host a private event at its Mississauga manufacturing facility on Wednesday, October 28, 2026, from 8:30 a.m. to 9:30 a.m. EDST (the <b>\"Event\"</b>).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS969326/Cymat-Technologies-Ltd-CYMAT-TO-WELCOME-GOVERNMENT-OFFICIALS-AN.jpg?id=OA3031830\" title=\"Cymat Technologies Ltd. Logo\" alt=\"Cymat Technologies Ltd. Logo\"></img>\n                </p>\n    </div>\n<p>Following the Event, Cymat expects to issue a public announcement providing further details of the Event.</p><p>Federal and provincial government officials, representatives of certain of Cymat's existing strategic partners and other invited industry guests are expected to attend. The Event will take place at the factory where Cymat produces its Stabilized Aluminum Foam (<b>\"SAF\"</b>), and the Company is pleased to welcome its guests to see the production facility first-hand. Event attendance is subject to change.</p><p><b>Event Details:</b></p><ul type=\"disc\"><li>Date:  Wednesday, October 28, 2026.</li><li>Time: 8:30 a.m. to 9:30 a.m. EDST.</li><li>Location: Cymat Technologies Ltd., 6320-2 Danville Road, Mississauga, Ontario, L5T 2L7.</li></ul><p><b><u>About Cymat Technologies Ltd. </u></b></p><p>Cymat Technologies Ltd. holds the global rights, through patents and established know-how, to manufacture and sell Stabilized Aluminum Foam (\"SAF\"), a unique, ultra-light, cellular metallic material. The proprietary production process entails the injection of gases through a molten bath of alloyed aluminum infused with ceramic particles. The result is an advanced, lightweight, recyclable material that exhibits unique characteristics including customizable density and dimensions; mechanical energy absorption; thermal and acoustic insulation; and time, temperature and strain-rate insensitivity. A key benefit of this continuous foam production process is its scalability and resultant low cost of production. SAF is used in such industries as architectural design, military and automotive. Cymat markets its architectural SAF under the Alusion<sup>TM</sup> brand and its automotive and military SAF under the SmartMetal<sup>TM</sup> brand. For further information, please visit our website at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803197-1&amp;h=829105458&amp;u=http%3A%2F%2Fwww.cymat.com%2F&amp;a=www.cymat.com\" target=\"_blank\" rel=\"nofollow\">www.cymat.com</a>. </p><p><i>Certain information set forth in this news release may contain forward-looking statements that involve substantial known and unknown risks and uncertainties. All statements other than statements of historical fact are forward-looking statements, including, without limitation, statements regarding future financial position, business strategy, use of proceeds, corporate vision, proposed acquisitions, partnerships, joint-ventures and strategic alliances and co-operations, budgets, cost and plans and objectives of or involving the Company. Such forward-looking information reflects management's current beliefs and is based on information currently available to management. Often, but not always, forward-looking statements can be identified by the use of words such as \"plans\", \"expects\", \"is expected\", \"budget\", \"scheduled\", \"estimates\", \"forecasts\", \"predicts\", \"intends\", \"targets\", \"aims\", \"anticipates\" or \"believes\" or variations (including negative variations) of such words and phrases or may be identified by statements to the effect that certain actions \"may\", \"could\", \"should\", \"would\", \"might\" or \"will\" be taken, occur or be achieved. A number of known and unknown risks, uncertainties and other factors may cause the actual results or performance to materially differ from any future results or performance expressed or implied by the forward-looking information. These forward-looking statements are subject to numerous risks and uncertainties, certain of which are beyond the control of the Company including, but not limited to, the impact of general economic conditions, industry conditions and dependence upon regulatory approvals. Certain material assumptions regarding such forward-looking statements may be discussed in this news release and the Company's annual and quarterly management's discussion and analysis filed at <a href=\"http://www.sedar.com\" rel=\"nofollow\">www.sedar.com</a>. Readers are cautioned that the assumptions used in the preparation of such information, although considered reasonable at the time of preparation, may prove to be imprecise and, as such, undue reliance should not be placed on forward-looking statements. The Company does not assume any obligation to update or revise its forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by securities laws.</i></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=TO77671&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/cymat-to-welcome-government-officials-and-strategic-partners-to-its-mississauga-factory-on-october-28-302915429.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/cymat-to-welcome-government-officials-and-strategic-partners-to-its-mississauga-factory-on-october-28-302915429.html</a></p><p>SOURCE Cymat Technologies Ltd.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=TO77671&amp;Transmission_Id=202610210830PR_NEWS_USPR_____TO77671&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Cymat Technologies Ltd.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T16:56:31.201Z"
+    },
+    {
+      "company": [
+        "Faraday Factory Japan"
+      ],
+      "date": "20261021T122500+0000",
+      "dateline": "TOKYO, Oct. 21, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "JPN",
+        "ASA"
+      ],
+      "industry": [
+        "MFG",
+        "STM",
+        "ARO",
+        "MAC",
+        "HRD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Faraday Factory’s superconductor used in the most powerful magnet ever flown to space (Zenno), launched October 20, 2026",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2016806/20261019232135EDT_image_1.jpg?id=OA3028470&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2016806/20261019232135EDT_image_1.jpg?id=OA3028470&p=publish"
+        }
+      ],
+      "release_id": "20261021CN76335",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>Zenno Astronautics' breakthrough magnetic technology incorporates special high temperature superconducting tape developed by Faraday Factory Japan</i></p><p><span class=\"legendSpanClass\">TOKYO</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Faraday Factory Japan celebrates the successful launch of Zenno Astronautics' largest Supertorquer to date aboard Portal Space Systems' Starburst-1. The Almighty Magnet is the world's most powerful magnetic actuator ever built and flown to space. The launch took place aboard SpaceX's Falcon 9 Bandwagon-5 mission on October 20, 2026.</p>",
+      "ticker": [],
+      "title": "The most powerful superconducting magnet ever flown to space, made with Faraday Factory HTS tape, launches aboard Starburst-1",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261021CN76335",
+      "body": "\n<p><i>Zenno Astronautics' breakthrough magnetic technology incorporates special high temperature superconducting tape developed by Faraday Factory Japan</i></p><p><span class=\"legendSpanClass\">TOKYO</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /PRNewswire/ -- Faraday Factory Japan celebrates the successful launch of Zenno Astronautics' largest Supertorquer to date aboard Portal Space Systems' Starburst-1. The Almighty Magnet is the world's most powerful magnetic actuator ever built and flown to space. The launch took place aboard SpaceX's Falcon 9 Bandwagon-5 mission on October 20, 2026.</p><p>Developed and engineered by Zenno, Supertorquer uses advanced superconducting magnet technology to generate powerful magnetic interactions with Earth's magnetic field. Faraday Factory has supplied specially customized high temperature superconducting (HTS) tape to meet Zenno's demanding performance requirements for this pioneering space application.</p><p>The development of superconducting space technologies represents a major opportunity to transform how spacecraft operate and interact in orbit. High temperature superconductor magnets enable exceptionally strong magnetic fields while minimizing energy consumption, paving the way for compact, powerful, and energy-efficient space systems. Since partnering in 2024, Faraday Factory and Zenno have steadily accelerated this work.</p><p>\"Almighty Magnet is opening the door to a whole new set of capabilities in space, from mass drivers and magnetic radiation shields to advanced satellite mobility. We're building and flying the superconducting technology that makes this possible, and Faraday Factory Japan is our partner in that effort,\" said Max Arshavsky, Founder and CEO of Zenno.</p><p>\"The launch of Starburst-1 marks an important milestone for Faraday Factory, demonstrating the HTS potential to enable some of the most demanding and innovative applications of superconductivity. We strongly support game-changing Zenno's effort to electrify space technologies,\" said Sergey Lee, Founder and CEO of Faraday Factory Japan.</p><p><b>About Faraday Factory</b></p><p>Faraday Factory Japan runs the largest <span id=\"spanHghlt7a8e\">manufacturing </span>facility of high temperature superconductor (HTS) tape worldwide. Over recent years, the company has delivered more than 10,000 km of HTS tape to hundreds of customers. The company serves <span id=\"spanHghlt1316\">a </span>rapidly growing market of HTS tape, which is led by ever increasing demand from fusion energy, power grid, aerospace, railway, healthcare, and other high-tech markets.</p><p><a href=\"http://www.faradaygroup.com/\" target=\"_blank\" rel=\"nofollow\">www.faradaygroup.com</a></p><p><b>About Zenno</b></p><p>Zenno develops the most powerful magnetic technologies for space. This is a new class of superconducting systems designed to power the next era of human expansion. Our belief is simple — stable and scalable infrastructure in space will rely on resources already present there.</p><p>Zenno is building that future by harnessing one of the fundamental forces of the universe, electromagnetism. Our superconducting technologies enable fuel-free spacecraft positioning, radiation shielding, and electromagnetic acceleration systems for defense, transportation, and industrial activity in space.</p><p><a href=\"https://www.zennoastronautics.com/\" target=\"_blank\" rel=\"nofollow\">https://www.zennoastronautics.com/</a></p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder9434\"><p><img src=\"https://mmx.prnewswire.com/media/MS2016806/20261019232135EDT_image_1.jpg?id=OA3028470\" title=\"Faraday Factory’s superconductor used in the most powerful magnet ever flown to space (Zenno), launched October 20, 2026\" alt=\"Faraday Factory’s superconductor used in the most powerful magnet ever flown to space (Zenno), launched October 20, 2026\"></img></p></div><p> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN76335&amp;sd=2026-10-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-most-powerful-superconducting-magnet-ever-flown-to-space-made-with-faraday-factory-hts-tape-launches-aboard-starburst-1-302914785.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-most-powerful-superconducting-magnet-ever-flown-to-space-made-with-faraday-factory-hts-tape-launches-aboard-starburst-1-302914785.html</a></p><p>SOURCE Faraday Factory Japan</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN76335&amp;Transmission_Id=202610210825PR_NEWS_USPR_____CN76335&amp;DateId=20261021\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Faraday Factory Japan",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-21T16:56:31.508Z"
+    },
     {
       "company": [
         "Electrical Safety Authority"
