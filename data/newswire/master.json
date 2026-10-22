@@ -1,9 +1,273 @@
 {
-  "generated_at": "2026-10-22T17:59:30.699Z",
+  "generated_at": "2026-10-22T21:28:37.850Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 656,
+  "count": 659,
   "releases": [
+    {
+      "company": [
+        "American Public Media"
+      ],
+      "date": "20261022T204700+0000",
+      "dateline": "SAINT PAUL, Minn., Oct. 22, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "MIN",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "RAD",
+        "EDU",
+        "FNT",
+        "ENT",
+        "TVN",
+        "PUB"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "American Public Media logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1807696/American-Public-Media-Logo.jpg?id=OA3035562&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1807696/American-Public-Media-Logo.jpg?id=OA3035562&p=publish"
+        }
+      ],
+      "release_id": "20261022CG79432",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT",
+        "BLK"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SAINT PAUL, Minn.</span>, <span class=\"legendSpanClass\">Oct. 22, 2026</span> /PRNewswire/ -- <a href=\"https://www.americanpublicmedia.org/\" target=\"_blank\" rel=\"nofollow\">American Public Media</a>'s Marketplace has been awarded a grant from the Nasdaq Foundation's Economic Opportunity Grant Program to expand financial literacy programming. Marketplace is the most widely consumed business and economic news program in the country across radio and television, commercial or public broadcasting.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1807696/American-Public-Media-Logo.jpg?id=OA3035562\" title=\"American Public Media logo\" alt=\"American Public Media logo\"></img>\n                </p>\n    </div>\n<p>The grant will support financial literacy programs across Marketplace, contributing to its mission to raise economic intelligence. The Economic Opportunity Grant will be used to help package some of Marketplace's strongest reporting and learning content into an accessible digital hub. This project will help lower barriers to financial literacy tools by expanding classroom-ready resources through education partners and engaging audiences within their communities and online, especially on social media.</p>",
+      "ticker": [],
+      "title": "Marketplace Awarded Nasdaq Foundation Grant to Expand Financial Literacy Programming",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261022CG79432",
+      "body": "\n<p><span class=\"legendSpanClass\">SAINT PAUL, Minn.</span>, <span class=\"legendSpanClass\">Oct. 22, 2026</span> /PRNewswire/ -- <a href=\"https://www.americanpublicmedia.org/\" target=\"_blank\" rel=\"nofollow\">American Public Media</a>'s Marketplace has been awarded a grant from the Nasdaq Foundation's Economic Opportunity Grant Program to expand financial literacy programming. Marketplace is the most widely consumed business and economic news program in the country across radio and television, commercial or public broadcasting.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1807696/American-Public-Media-Logo.jpg?id=OA3035562\" title=\"American Public Media logo\" alt=\"American Public Media logo\"></img>\n                </p>\n    </div>\n<p>The grant will support financial literacy programs across Marketplace, contributing to its mission to raise economic intelligence. The Economic Opportunity Grant will be used to help package some of Marketplace's strongest reporting and learning content into an accessible digital hub. This project will help lower barriers to financial literacy tools by expanding classroom-ready resources through education partners and engaging audiences within their communities and online, especially on social media.</p><p>The initiative is anchored by four of Marketplace's established financial literacy podcasts: <a href=\"https://www.marketplace.org/shows/million-bazillion\" target=\"_blank\" rel=\"nofollow\">Million Bazillion</a>, <a href=\"https://www.marketplace.org/shows/financially-inclined\" target=\"_blank\" rel=\"nofollow\">Financially Inclined</a>, <a href=\"https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais\" target=\"_blank\" rel=\"nofollow\">This Is Uncomfortable</a> and <a href=\"https://mustbethemoney.org/\" target=\"_blank\" rel=\"nofollow\">Must Be the Money</a>. Together, these shows help listeners at every stage of life understand how finance, business and the economy work — knowledge that can serve them for a lifetime.</p><p>\"Financial literacy is at the core of our mission to raise the economic intelligence of the nation,\" said <b>Neal Scarbrough, Vice President and General Manager of Marketplace</b>. \"With support from the Nasdaq Foundation, Marketplace can accelerate its efforts to expand the depth, discoverability and reach of this content, empowering Americans at every stage of life with the tools to build stronger financial futures.\"</p><p>\"Financial literacy is the foundation of economic opportunity. Through our Economic Opportunity Grant Program, the Nasdaq Foundation is committed to democratizing financial knowledge and equipping under-resourced communities with the tools to share in the wealth that markets create. Marketplace's mission to raise the economic intelligence of the country aligns powerfully with that goal, and we're proud to support their work in making trusted, accessible financial education available to more Americans,\" said <b>Jailan Griffiths, President of the Nasdaq Foundation and Head of Purpose at Nasdaq</b>.</p><p>To learn more about the Nasdaq Foundation's Economic Opportunity Grant Program, visit <a href=\"http://www.nasdaq.com/nasdaq-foundation\" rel=\"nofollow\">www.nasdaq.com/nasdaq-foundation</a>. To see Marketplace's full suite of shows, visit <a href=\"https://www.marketplace.org/shows\" target=\"_blank\" rel=\"nofollow\">marketplace.org</a>.</p><p><b>About Marketplace </b><br></br><a href=\"http://www.marketplace.org/\" target=\"_blank\" rel=\"nofollow\">Marketplace</a>® is on a mission to raise the economic intelligence of the country. Its core programs — Marketplace®, Marketplace Morning Report® and Marketplace Tech® — are currently broadcast nationwide on more than 800 public radio stations and heard by over 10 million weekly listeners. Marketplace podcasts, including This Is Uncomfortable and Million Bazillion, can be found at <a href=\"https://www.marketplace.org/\" target=\"_blank\" rel=\"nofollow\">marketplace.org</a> or on your favorite podcast app. The Marketplace portfolio of programs are produced and distributed by <u>American Public Media</u>® (APM), one of the largest producers and distributors of public radio programming in the world. For more information on Marketplace, visit <a href=\"http://marketplace.org/\" target=\"_blank\" rel=\"nofollow\">marketplace.org</a>, or like us on <a href=\"https://www.facebook.com/marketplaceapm/\" target=\"_blank\" rel=\"nofollow\">Facebook</a>.</p><p><b>About the Nasdaq Foundation </b></p><p>The Nasdaq Foundation works to support under-resourced communities by reimagining investor engagement and equipping communities with the financial knowledge needed to share in the wealth that markets create. Through strategic partnerships and grantmaking, the Foundation supports innovative solutions that empower under-resourced communities and foster long-term economic resilience.</p><p>Source: Data are copyright Nielsen Audio Nationwide DMA data, Persons 12+, Fall '24 + Spring '25.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG79432&amp;sd=2026-10-22\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/marketplace-awarded-nasdaq-foundation-grant-to-expand-financial-literacy-programming-302917450.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/marketplace-awarded-nasdaq-foundation-grant-to-expand-financial-literacy-programming-302917450.html</a></p><p>SOURCE American Public Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG79432&amp;Transmission_Id=202610221647PR_NEWS_USPR_____CG79432&amp;DateId=20261022\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "American Public Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 3,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 4,
+          "television": 3,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "summary:social media",
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "summary:radio",
+            "summary:broadcasting",
+            "industry:RAD"
+          ],
+          "television": [
+            "summary:television",
+            "industry:TVN"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-22T21:28:39.827Z"
+    },
+    {
+      "company": [
+        "Alix Partners Restructuring Inc"
+      ],
+      "date": "20261022T185900+0000",
+      "dateline": "CALGARY, AB, Oct. 21, 2026",
+      "feed": [
+        "CNW_FOR_US_WEB",
+        "CNWCOMP",
+        "prnj_cnw",
+        "CNW"
+      ],
+      "geography": [
+        "ALB",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "MLM",
+        "ADV",
+        "TVN",
+        "ENT",
+        "SMD"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Alix Partners Restructuring Inc.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2016432/Alix-Partners-Restructuring-Inc-For-Sale-by-Court-Order-Kidood.jpg?id=OA3032262&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2016432/Alix-Partners-Restructuring-Inc-For-Sale-by-Court-Order-Kidood.jpg?id=OA3032262&p=publish"
+        }
+      ],
+      "release_id": "20261022C6248",
+      "status": "PUBLISHED",
+      "subject": [
+        "CHI",
+        "TNM"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">CALGARY, AB</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /CNW/ -- <b>AlixPartners Restructuring, Inc.</b>, the Court-appointed Receiver of A Parent Media Co. Inc. (\"<b>APMC</b>\") and Kidoodle, Inc. (\"<b>Kidoodle</b>\", and together with APMC, the \"<b>Debtors</b>\"), is soliciting offers to purchase or invest in the Debtors' business and assets, including the Kidoodle.TV and Victory+ streaming platforms, pursuant to a Court-approved stalking horse sale and investment solicitation process (the \"<b>SISP</b>\").</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2016432/Alix-Partners-Restructuring-Inc-For-Sale-by-Court-Order-Kidood.jpg?id=OA3032262\" title=\"Alix Partners Restructuring Inc.\" alt=\"Alix Partners Restructuring Inc.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "For Sale by Court Order | Kidoodle.TV and Victory+ Streaming Platforms and Intellectual Property",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261022C6248",
+      "body": "\n<p><span class=\"legendSpanClass\">CALGARY, AB</span>, <span class=\"legendSpanClass\">Oct. 21, 2026</span> /CNW/ -- <b>AlixPartners Restructuring, Inc.</b>, the Court-appointed Receiver of A Parent Media Co. Inc. (\"<b>APMC</b>\") and Kidoodle, Inc. (\"<b>Kidoodle</b>\", and together with APMC, the \"<b>Debtors</b>\"), is soliciting offers to purchase or invest in the Debtors' business and assets, including the Kidoodle.TV and Victory+ streaming platforms, pursuant to a Court-approved stalking horse sale and investment solicitation process (the \"<b>SISP</b>\").</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2016432/Alix-Partners-Restructuring-Inc-For-Sale-by-Court-Order-Kidood.jpg?id=OA3032262\" title=\"Alix Partners Restructuring Inc.\" alt=\"Alix Partners Restructuring Inc.\"></img>\n                </p>\n    </div>\n<p><b>BUSINESS OVERVIEW</b></p><ul type=\"disc\"><li>APMC develops streaming, monetization and digital advertising technology in-house and operates in approximately 160 territories and regions.</li><li>Kidoodle.TV is a free, ad-supported, COPPA-compliant children's streaming service launched in 2014, with more than 26 million lifetime app downloads since 2024; the platform has remained online throughout the receivership.</li><li>Victory+ is a free, ad-supported live sports streaming service launched in 2024; the platform is currently offline.</li></ul><p><b>KEY ASSETS</b></p><ul type=\"disc\"><li>Kidoodle.TV and Victory+ streaming platforms, brands and related intellectual property.</li><li>Proprietary programmatic advertising stack and COPPA-compliant advertising proxy.</li><li>Data lake and first-party user data (subject to applicable privacy law), content and media rights contracts, computer equipment and accounts receivable.</li></ul><p><b>THE OPPORTUNITY</b></p><ul type=\"disc\"><li>The SISP seeks offers to purchase all or substantially all the Debtors' property, or to invest in, restructure, recapitalize or refinance the Debtors or their business.</li><li>Offers for portions of the Debtors' property are permitted if, alone or together with other offers, they constitute a Superior Offer (as defined in the SISP) to the stalking horse bid.</li><li>The bid deadline is 12:00 p.m. (Calgary time) on November 20, 2026.</li><li>Details on the SISP and the stalking horse bid are available at the case website (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4803384-1&amp;h=942286697&amp;u=https%3A%2F%2Fcdncases.alixpartners.com%2Fexperience%2Fcase%2Fa-parent-media&amp;a=cdncases.alixpartners.com%2Fexperience%2Fcase%2Fa-parent-media\" target=\"_blank\" rel=\"nofollow\">cdncases.alixpartners.com/experience/case/a-parent-media</a>). Parties that sign a non-disclosure agreement will receive access to the virtual data room.</li></ul>\n\n\n\n<p>SOURCE Alix Partners Restructuring Inc</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C6248&amp;Transmission_Id=202610221459CANADANWCANADAPR_C6248&amp;DateId=20261022\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Alix Partners Restructuring Inc",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital",
+        "television"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital",
+          "television"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 2,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 1,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "management": [
+            "summary:appointed"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-22T21:28:39.967Z"
+    },
+    {
+      "company": [
+        "Kim Sledge of Sister Sledge"
+      ],
+      "date": "20261022T182800+0000",
+      "dateline": "CHICAGO, Oct. 22, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "ILL",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "HEA",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261022DA79245",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT",
+        "HSP"
+      ],
+      "summary": "<p><i>Ahead of the Nov.</i> <i>3 midterms, Kim Sledge Allen invites Taylor Swift, Lionel Richie, Barbra Streisand and artists everywhere to take </i><a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\"><i>#TheCuresPledge</i></a><i>, unite a divided country and demand immediate action to cure disease</i></p><p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Oct. 22, 2026</span> /PRNewswire/ -- Kim Sledge Allen of Sister Sledge, the group behind the 1979 anthem \"We Are Family,\" today called on her brothers and sisters in music and the arts to join a national movement to cure disease. In a personal <a href=\"https://thecurespledge.org/messages/kim-sledge\" target=\"_blank\" rel=\"nofollow\">audio message,</a> Sledge Allen asked artists and faith leaders, including Taylor Swift, Lionel Richie, Barbra Streisand, Cher, Barry Manilow, Celine Dion, Tyler Perry, The Weeknd, Pastor Jamal Bryant, Pastor John Hannah, and Jesse Duplantis, to take <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">The Cures Pledge</a> and urge every member of Congress and the White House to fund the <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">American Center for Cures</a> immediately.</p>\n",
+      "ticker": [],
+      "title": "Kim Sledge Allen of Sister Sledge Calls on the Music Industry to Demand Congress Fund the American Center for Cures",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261022DA79245",
+      "body": "\n<p><i>Ahead of the Nov.</i> <i>3 midterms, Kim Sledge Allen invites Taylor Swift, Lionel Richie, Barbra Streisand and artists everywhere to take </i><a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\"><i>#TheCuresPledge</i></a><i>, unite a divided country and demand immediate action to cure disease</i></p><p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Oct. 22, 2026</span> /PRNewswire/ -- Kim Sledge Allen of Sister Sledge, the group behind the 1979 anthem \"We Are Family,\" today called on her brothers and sisters in music and the arts to join a national movement to cure disease. In a personal <a href=\"https://thecurespledge.org/messages/kim-sledge\" target=\"_blank\" rel=\"nofollow\">audio message,</a> Sledge Allen asked artists and faith leaders, including Taylor Swift, Lionel Richie, Barbra Streisand, Cher, Barry Manilow, Celine Dion, Tyler Perry, The Weeknd, Pastor Jamal Bryant, Pastor John Hannah, and Jesse Duplantis, to take <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">The Cures Pledge</a> and urge every member of Congress and the White House to fund the <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">American Center for Cures</a> immediately.</p>\n<p>\"This is a time of a new movement, a movement for healing,\" said Sledge Allen. \"I am asking my brothers and sisters in the music industry and the arts to come together, support this movement and speak to our politicians, our families, our churches and our communities. It's time for these diseases to be wiped out. We have the science, we have the minds, we have the heart, we have the hope, we have the faith, and we certainly have love for one another. We are family, and we're unity strong.\"</p><p>Sledge Allen also lends her voice to <a href=\"https://thecurespledge.org/audio/unity-strong.mp3\" target=\"_blank\" rel=\"nofollow\">\"Unity Strong,\"</a> the American Center for Cures' song, featured on the campaign's website.</p><p>\"The <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">American Center for Cures</a> is the opportunity for the music industry to lead the path forward to preventing and curing disease,\" said Lou Weisbach, co-founder of the American Center for Cures. \"It's 'We Are the World' on steroids: a fully funded, business-like, accountable and urgent mission that brings together, for the first time in American history, every element needed to prevent and cure disease, including the great talents of our researchers and AI. But it can only happen if the American people stand up together and remind our leaders that members of Congress and the president work for us. The days leading up to Nov. 3 are a defining moment to heal America, physically and politically.\"</p><p>Founded in 1999 by Weisbach and <a href=\"https://medschool.ucla.edu/news-article/dr-richard-boxer-appointed-to-national-cancer-advisory-board\" target=\"_blank\" rel=\"nofollow\">Richard Boxer, M.D.</a>, the <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">American Center for Cures</a> is a bipartisan initiative calling on Congress to fund a national mission to prevent and cure cancer, Alzheimer's, Parkinson's, diabetes, heart disease, ALS and other major diseases. With the midterm elections less than two weeks away, the organization is asking Americans to make curing disease the No. 1 bipartisan issue of this election.</p><p>The need is urgent. Alzheimer's, diabetes, heart disease and cancer cost the nation more than $1.1 trillion a year, according to the most recent estimates from the <a href=\"https://portal.alzimpact.org/storage/resources/media-items/costs-of-alzheimers-to-medicare-and-medicaid-01kyn6y46gawtr2z1ce6jrjccw.pdf\" target=\"_blank\" rel=\"nofollow\">Alzheimer's Impact Movement</a>, the <a href=\"https://diabetes.org/newsroom/press-releases/new-american-diabetes-association-report-finds-annual-costs-diabetes-be\" target=\"_blank\" rel=\"nofollow\">American Diabetes Association</a>, the <a href=\"https://www.cdc.gov/chronic-disease/data-research/facts-stats/index.html\" target=\"_blank\" rel=\"nofollow\">Centers for Disease Control and Prevention</a> and the <a href=\"https://progressreport.cancer.gov/after/economic_burden\" target=\"_blank\" rel=\"nofollow\">National Cancer Institute</a>. The <a href=\"https://thecurespledge.org/#why\" target=\"_blank\" rel=\"nofollow\">American Center for Cures' $750 billion plan</a>, funded through U.S. Treasury bonds over six years, would cost less than the nation now spends on these four diseases in a single year.</p><p>Once funded by Congress, the <a href=\"https://thecurespledge.org/#plan\" target=\"_blank\" rel=\"nofollow\">American Center for Cures</a> would launch 16 separate private-sector efforts. Fourteen would each be charged with preventing and/or curing a single disease, with a $36 billion budget. Two additional units would receive $108 billion each, one to fund all other diseases, including orphan diseases, and one to fund artificial intelligence efforts. The remaining $30 billion would be held as a reserve fund. Each effort would be led by proven business leaders working alongside leading scientists and physicians, with clear goals and accountability for results.</p><p>Sledge Allen and the American Center for Cures are asking artists, fans and families to <a href=\"https://thecurespledge.org/#add\" target=\"_blank\" rel=\"nofollow\">take The Cures Pledge</a> before Nov. 3: record a 10-second video saying who they're waiting on a cure for, ask three people by name to do the same and post it with <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">#TheCuresPledge</a>. Then send it to their <a href=\"https://www.house.gov/representatives/find-your-representative\" target=\"_blank\" rel=\"nofollow\">U.S. representative</a>, their <a href=\"https://www.senate.gov/senators/senators-contact.htm\" target=\"_blank\" rel=\"nofollow\">U.S. senators</a> and the <a href=\"https://thecurespledge.org/#candidates\" target=\"_blank\" rel=\"nofollow\">candidates on their ballot</a>. Every video joins <a href=\"https://thecurespledge.org/#wall\" target=\"_blank\" rel=\"nofollow\">the campaign's wall</a>, where a famous name and a family member get the same space.</p><p>\"Speak to your senators, speak to your congressmen, speak to your communities, speak to one another,\" Sledge Allen said. \"We are a human family. It's time to be one in hope and in healing.\"</p><p>To hear Kim Sledge Allen's message, listen to <a href=\"https://thecurespledge.org/audio/unity-strong.mp3\" target=\"_blank\" rel=\"nofollow\">\"Unity Strong\"</a> and take the pledge, visit <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">thecurespledge.org</a>.</p><p><b>About the American Center for Cures</b><br></br>The <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">American Center for Cures</a> is a bipartisan initiative founded in 1999 by Lou Weisbach and Richard Boxer, M.D., to prevent and cure the major diseases of our time, including cancer, Alzheimer's, Parkinson's, diabetes, heart disease, ALS, MS and mental illness. The American Center for Cures is a fiscally sponsored project of The Giving Back Fund, a 501(c)(3) public charity. <a href=\"https://secure.givelively.org/donate/the-giving-back-fund-inc/american-center-for-cures\" target=\"_blank\" rel=\"nofollow\">Donations</a> are tax deductible to the extent allowed by law. For more information, visit <a href=\"https://thecurespledge.org/\" target=\"_blank\" rel=\"nofollow\">thecurespledge.org</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA79245&amp;sd=2026-10-22\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/kim-sledge-allen-of-sister-sledge-calls-on-the-music-industry-to-demand-congress-fund-the-american-center-for-cures-302917341.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/kim-sledge-allen-of-sister-sledge-calls-on-the-music-industry-to-demand-congress-fund-the-american-center-for-cures-302917341.html</a></p><p>SOURCE Kim Sledge of Sister Sledge</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA79245&amp;Transmission_Id=202610221428PR_NEWS_USPR_____DA79245&amp;DateId=20261022\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Kim Sledge of Sister Sledge",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 11,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music industry",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-22T21:28:40.110Z"
+    },
     {
       "company": [
         "Congress of Country Music"
@@ -93,7 +357,7 @@
         "news_score": 1,
         "excluded": false
       },
-      "imported_at": "2026-10-22T17:59:34.549Z"
+      "imported_at": "2026-10-22T21:28:40.362Z"
     },
     {
       "company": [
