@@ -1389,10 +1389,6 @@
     <lastmod>2026-10-23</lastmod>
   </url>
   <url>
-    <loc>https://www.mediajobsreport.com/management_news?release=20260908FL42835</loc>
-    <lastmod>2026-09-08</lastmod>
-  </url>
-  <url>
     <loc>https://www.mediajobsreport.com/management_news?release=20260909NY41493</loc>
     <lastmod>2026-09-09</lastmod>
   </url>
@@ -1451,6 +1447,10 @@
   <url>
     <loc>https://www.mediajobsreport.com/management_news?release=20261020DA73630</loc>
     <lastmod>2026-10-20</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/management_news?release=20261023CG80126</loc>
+    <lastmod>2026-10-23</lastmod>
   </url>
   <url>
     <loc>https://www.mediajobsreport.com/podcast_news?release=20260909CL44197</loc>
@@ -1593,6 +1593,10 @@
     <lastmod>2026-10-22</lastmod>
   </url>
   <url>
+    <loc>https://www.mediajobsreport.com/podcast_news?release=20261023LA80078</loc>
+    <lastmod>2026-10-23</lastmod>
+  </url>
+  <url>
     <loc>https://www.mediajobsreport.com/radio_news?release=20260911PH45565</loc>
     <lastmod>2026-09-11</lastmod>
   </url>
@@ -1623,10 +1627,6 @@
   <url>
     <loc>https://www.mediajobsreport.com/radio_news?release=20261021NY78243</loc>
     <lastmod>2026-10-21</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/tradeshow_news?release=20260908PH42864</loc>
-    <lastmod>2026-09-08</lastmod>
   </url>
   <url>
     <loc>https://www.mediajobsreport.com/tradeshow_news?release=20260910PH44633</loc>
@@ -1723,5 +1723,9 @@
   <url>
     <loc>https://www.mediajobsreport.com/tv_news?release=20261022C6248</loc>
     <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/tv_news?release=20261023NY80128</loc>
+    <lastmod>2026-10-23</lastmod>
   </url>
 </urlset>
