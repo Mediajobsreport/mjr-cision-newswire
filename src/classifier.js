@@ -184,14 +184,18 @@ export function classifyRelease(release) {
   const categories = [];
 
   if (!excluded) {
-    const studentText = `${primary} ${summary}`;
+    // Judge the news subject and lead, not an executive's education or an
+    // engineering firm's higher-education client list in body boilerplate.
+    const studentText = `${primary} ${summary.slice(0, 1200)}`;
+    const primaryStudentFocus = /\bcollege\b|universit|\bcampus\b|\bstudent\b|higher education|scholarship|fafsa|pell grant|undergraduat|journalism school|school of journalism/i.test(primary);
+    const corporatePersonnel = /\b(?:promotes?|promoted|promotions?|appoints?|appointed|names?|hires?|hired|joins?|joined)\b/i.test(primary) && !primaryStudentFocus;
     const studentAudience = /college students|university students|campus life|student life|higher education|undergraduates|student financial aid|student loans|college tuition|college costs|student housing|campus safety|student mental health|college scholarships|university scholarships|fafsa|pell grant/i.test(studentText);
     const studentIssue = /scholarship|financial aid|tuition|student debt|student loan|housing|food insecurity|basic needs|mental health|stress|anxiety|wellness|safety|career|internship|suicide prevention/i.test(studentText);
     const commercialHousing = /student housing|student accommodation|student living/i.test(studentText) && /contractor|construction|property sale|real estate investment|development offers|disposition|acquisition|portfolio|capital management|investment platform|property management company|property management firm|private equity|asset management/i.test(primary);
     const housingProjectAnnouncement = /student housing|student living|student residences/i.test(studentText) && /groundbreaking|breaks ground|close financing|closes financing|construction begins|development project|development in|housing development|real estate development|new development|property investment/i.test(primary);
     const unrelatedInsurance = /life insurance planning|life insurance coverage|insurance expert/i.test(primary) && !/student insurance|student health coverage/i.test(primary);
-    if (studentAudience && studentIssue && !commercialHousing && !housingProjectAnnouncement && !unrelatedInsurance) categories.push("college");
-    if (scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(`${primary} ${summary}`)) categories.push("college");
+    if (studentAudience && studentIssue && !corporatePersonnel && !commercialHousing && !housingProjectAnnouncement && !unrelatedInsurance) categories.push("college");
+    if (!corporatePersonnel && scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(studentText)) categories.push("college");
     if (scores.advertising >= 4 && primaryAdvertisingSignal(primary)) categories.push("advertising");
     if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
     if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
@@ -281,3 +285,4 @@ function namedMediaShow(text) {
 function consumerTelevisionProduct(text) {
   return /art tv|ai tv experience|tv lineup|television set|qd-mini|mini led|canvas art|tv-quality/i.test(text);
 }
+

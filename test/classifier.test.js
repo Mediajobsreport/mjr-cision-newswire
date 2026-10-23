@@ -2,6 +2,27 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import { classifyRelease } from "../src/classifier.js";
 
+test("excludes corporate promotions that mention higher education only in background", () => {
+  const result = classifyRelease({
+    title: "Syska Hennessy Promotes Three Senior Staff Members",
+    company: ["Syska Hennessy Group"],
+    summary: "The international engineering firm has promoted three senior staff members. Its staff have extensive career experience serving higher education clients."
+  });
+  assert.ok(!result.categories.includes("college"));
+});
+
+test("preserves student scholarships and campus media personnel news", () => {
+  const scholarship = classifyRelease({title: "Applications Now Open for The Storage Center's Fall 2026 Space to Succeed Scholarship", summary: "Three awards support college students pursuing their education and careers."});
+  const appointment = classifyRelease({title: "University Names New Student Newspaper Adviser", summary: "The student journalism program supports college students pursuing careers in media."});
+  assert.ok(scholarship.categories.includes("college"));
+  assert.ok(appointment.categories.includes("college"));
+});
+
+test("does not use unrelated late boilerplate to qualify a college release", () => {
+  const result = classifyRelease({title: "Engineering Company Launches New Office", summary: "A new commercial engineering office opened. ".repeat(40) + "The company serves higher education clients and offers career development."});
+  assert.ok(!result.categories.includes("college"));
+});
+
 test("classifies a radio executive appointment as radio and management", () => {
   const result = classifyRelease({ title: "Audacy Names New Vice President for Its Radio Stations", company: ["Audacy"], industry: ["RAD"] });
   assert.ok(result.categories.includes("radio"));
@@ -209,3 +230,4 @@ test("uses a named media show found in the summary", () => {
   });
   assert.ok(result.categories.includes("tradeshow"));
 });
+

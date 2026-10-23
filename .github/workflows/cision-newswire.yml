@@ -1,6 +1,10 @@
 name: Update Cision Newswire Feeds
 
 on:
+  push:
+    paths:
+      - src/classifier.js
+      - test/classifier.test.js
   schedule:
     - cron: "*/15 * * * *"
   workflow_dispatch:
@@ -34,6 +38,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "24"
+      - name: Verify classification rules
+        run: node --test test/classifier.test.js
       - name: Import releases
         run: npm start
       - name: Generate Buzz sitemap
@@ -50,3 +56,4 @@ jobs:
           git commit -m "Update Cision newswire feeds and Buzz sitemap"
           git pull --rebase
           git push
+
