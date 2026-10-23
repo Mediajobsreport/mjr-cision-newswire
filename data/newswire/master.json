@@ -1,9 +1,468 @@
 {
-  "generated_at": "2026-10-23T14:47:57.772Z",
+  "generated_at": "2026-10-23T18:58:36.864Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 651,
+  "count": 656,
   "releases": [
+    {
+      "company": [
+        "Jerry Garcia Music Arts Center"
+      ],
+      "date": "20261023T174000+0000",
+      "dateline": "SAN FRANCISCO, Oct. 23, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ART",
+        "MUS",
+        "FLM",
+        "RAD",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "\"Morning Dew\" Grateful Dead Live @ Winterland 10/18/74 \"This is what Beauty sounds like.\"",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/fpKQOvlDr-s/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=fpKQOvlDr-s"
+        },
+        {
+          "caption": "Jerry, Manasha and Keelin @ Hotel in Autumn 1990/ Archival Photo by Glenn Fischer",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2019735/Jerry-Garcia-Music-Arts-Center-Image1.jpg?id=OA3036870&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2019735/Jerry-Garcia-Music-Arts-Center-Image1.jpg?id=OA3036870&p=publish"
+        },
+        {
+          "caption": "Archival content from Glenn Fischer/ Housed in Starchive/ Jerry Garcia Music Arts Center",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2019737/Jerry-Garcia-Music-Arts-Center-Image2.jpg?id=OA3036872&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2019737/Jerry-Garcia-Music-Arts-Center-Image2.jpg?id=OA3036872&p=publish"
+        }
+      ],
+      "release_id": "20261023PH80004",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA"
+      ],
+      "summary": "<p>Facility to Celebrate Grateful Dead Co-Founder's Musical Roots, Fine Art, and Conservation Legacy</p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- Jerry Garcia's family, in partnership with archival media management platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805450-1&amp;h=1911558749&amp;u=https%3A%2F%2Fwww.starchive.io%2F&amp;a=Starchive\" target=\"_blank\" rel=\"nofollow\">Starchive</a> and project coordinator Christopher McCutcheon, today announced plans for the establishment of the <b>Jerry Garcia Music Arts Center</b> in the San Francisco Bay Area through <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805450-1&amp;h=1399222434&amp;u=https%3A%2F%2Fwww.jerrygarciamusicarts.com%2F&amp;a=Jerry+Garcia+Music+Arts\" target=\"_blank\" rel=\"nofollow\">Jerry Garcia Music Arts</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"&quot;Morning Dew&quot; Grateful Dead Live @ Winterland 10/18/74 &quot;This is what Beauty sounds like.&quot;\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fpKQOvlDr-s\" frameborder=\"0\"></iframe></p>\n    </div>\n<p>Conceived as far more than a conventional museum, the envisioned institution is designed as an active, living cultural center, preservation space, and creative hub. Dedicated to preserving and advancing the multifaceted legacy of the Grateful Dead co-founder, the facility will showcase Garcia's expansive musical catalog, fine art, community ethos, and enduring impact spanning the 1960s counterculture through today.</p>",
+      "ticker": [],
+      "title": "New Jerry Garcia Music Arts Center Planned for the San Francisco Bay Area",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261023PH80004",
+      "body": "\n<p>Facility to Celebrate Grateful Dead Co-Founder's Musical Roots, Fine Art, and Conservation Legacy</p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- Jerry Garcia's family, in partnership with archival media management platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805450-1&amp;h=1911558749&amp;u=https%3A%2F%2Fwww.starchive.io%2F&amp;a=Starchive\" target=\"_blank\" rel=\"nofollow\">Starchive</a> and project coordinator Christopher McCutcheon, today announced plans for the establishment of the <b>Jerry Garcia Music Arts Center</b> in the San Francisco Bay Area through <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805450-1&amp;h=1399222434&amp;u=https%3A%2F%2Fwww.jerrygarciamusicarts.com%2F&amp;a=Jerry+Garcia+Music+Arts\" target=\"_blank\" rel=\"nofollow\">Jerry Garcia Music Arts</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"&quot;Morning Dew&quot; Grateful Dead Live @ Winterland 10/18/74 &quot;This is what Beauty sounds like.&quot;\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fpKQOvlDr-s\" frameborder=\"0\"></iframe></p>\n    </div>\n<p>Conceived as far more than a conventional museum, the envisioned institution is designed as an active, living cultural center, preservation space, and creative hub. Dedicated to preserving and advancing the multifaceted legacy of the Grateful Dead co-founder, the facility will showcase Garcia's expansive musical catalog, fine art, community ethos, and enduring impact spanning the 1960s counterculture through today.</p><p>For several years, Jerry Garcia's family and Jerry Garcia Music Arts have explored meaningful avenues to share the rich catalog of historical and artistic materials carefully preserved within Starchive. Following the announcement of the <i>Eyes of the World</i> immersive experience project this past August, widespread enthusiasm and community interest served as the catalyst to formalize plans for this dedicated, permanent archival home in the Bay Area.</p><p>Reflecting Jerry Garcia's spirit of family and community, all Garcia family heirs are warmly welcomed to participate and share their personal family content, archival materials, and special mementos to be preserved and celebrated within the collection.</p><p>The center will feature a community-oriented, fan-accessible research library and physical archive housing rare memorabilia and historical artifacts, complemented by a modern digital preservation hub. To cultivate ongoing public participation, the center will also review and accept fan-donated materials.</p><p>Beyond Garcia's visual art and recordings, exhibitions will trace the diverse musical traditions that shaped his artistic journey-including Americana, blues, rock, gospel, jazz, country, folk, and world music. Galleries will also highlight landmark technological innovations pioneered by Garcia and his collaborators, notably historical innovations in live concert sound design.</p><p>\"My father is recognized as one of the most culturally influential artists in history,\" said Keelin Garcia, co-founder of Jerry Garcia Music Arts. \"It is a great honor to work with Christopher McCutcheon and the Starchive team of professional archivists in stewarding the preservation of his many artistic contributions for future generations.\"</p><p>Comprehensive plans for the facility encompass a state-of-the-art performance center and screening room for live music and film presentations, alongside special exhibition galleries dedicated to Garcia's fine art and instruments. The center will also host an Artist-in-Residence program supporting emerging and established creators in the recording and visual arts, accompanied by interactive environmental exhibits spotlighting Garcia's dedication to conservation-specifically his advocacy for coral reefs and rainforest preservation-supported by integrated charitable initiatives benefiting ocean preservation, music education, and the arts.</p><p>\"Music and art naturally build community,\" said Manasha Garcia, Jerry's wife and co-founder of Jerry Garcia Music Arts. \"In welcoming fan contributions and building an accessible archive, we honor the vibrant community that grew around my husband's commitment to creative freedom, live sound innovation, and planetary stewardship.\"</p><p>Additional announcements regarding architectural design, programming, and scheduled developments will follow as the project progresses.</p><p>About Jerry Garcia Music Arts</p><p>Jerry Garcia Music Arts supports and curates the creative works, recordings, and visual art of Jerry Garcia, continuing his mission of artistic integrity, community connection, and philanthropy. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805450-1&amp;h=1822029333&amp;u=https%3A%2F%2Fwww.jerrygarciamusicarts.com%2F&amp;a=jerrygarciamusicarts.com\" target=\"_blank\" rel=\"nofollow\">jerrygarciamusicarts.com</a>.</p><p>About Starchive</p><p>Starchive is an archival media management platform built for artists, creators, and cultural estates to organize, protect, and share their media collections with future generations. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805450-1&amp;h=1842024391&amp;u=https%3A%2F%2Fwww.starchive.io%2F&amp;a=starchive.io\" target=\"_blank\" rel=\"nofollow\">starchive.io</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2019735/Jerry-Garcia-Music-Arts-Center-Image1.jpg?id=OA3036870\" title=\"Jerry, Manasha and Keelin @ Hotel in Autumn 1990/ Archival Photo by Glenn Fischer\" alt=\"Jerry, Manasha and Keelin @ Hotel in Autumn 1990/ Archival Photo by Glenn Fischer\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2019737/Jerry-Garcia-Music-Arts-Center-Image2.jpg?id=OA3036872\" title=\"Archival content from Glenn Fischer/ Housed in Starchive/ Jerry Garcia Music Arts Center\" alt=\"Archival content from Glenn Fischer/ Housed in Starchive/ Jerry Garcia Music Arts Center\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH80004&amp;sd=2026-10-23\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/new-jerry-garcia-music-arts-center-planned-for-the-san-francisco-bay-area-302918363.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/new-jerry-garcia-music-arts-center-planned-for-the-san-francisco-bay-area-302918363.html</a></p><p>SOURCE Jerry Garcia Music Arts Center</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH80004&amp;Transmission_Id=202610231340PR_NEWS_USPR_____PH80004&amp;DateId=20261023\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Jerry Garcia Music Arts Center",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 1
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:FLM",
+            "industry:MUS"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ],
+          "tradeshow": [
+            "summary:convention"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-23T18:58:38.134Z"
+    },
+    {
+      "company": [
+        "Gemmy Industries"
+      ],
+      "date": "20261023T172800+0000",
+      "dateline": "DALLAS, Oct. 23, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HMI",
+        "HHP",
+        "MUS",
+        "HOU",
+        "ENT",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Brought to you by Gemmy, this high-tech holiday lighting system delivers an app-controlled, fully immersive experience where music, motion and light come together in a coordinated outdoor performance.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2019184/Gemmy-this-high-tech-holiday-lighting-system-delivers-an-app-controlled.jpg?id=OA3035423&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2019184/Gemmy-this-high-tech-holiday-lighting-system-delivers-an-app-controlled.jpg?id=OA3035423&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1045908/GemmyLogo-Logo.jpg?id=OA3035420&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1045908/GemmyLogo-Logo.jpg?id=OA3035420&p=publish"
+        }
+      ],
+      "release_id": "20261023DA79357",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Everything You Love Plus Enhanced Sound Quality and 6 NEW Songs</i></p><p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- Enjoy the ultimate synchronized musical light show in your own front yard with the NEW Orchestra of Lights™ <i>Op. 2</i>. Brought to you by Gemmy, this high-tech holiday lighting system delivers an app-controlled, fully immersive experience where music, motion and light come together in a coordinated outdoor performance. Available exclusively at Lowe's.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2019184/Gemmy-this-high-tech-holiday-lighting-system-delivers-an-app-controlled.jpg?id=OA3035423\" title=\"Brought to you by Gemmy, this high-tech holiday lighting system delivers an app-controlled, fully immersive experience where music, motion and light come together in a coordinated outdoor performance.\" alt=\"Brought to you by Gemmy, this high-tech holiday lighting system delivers an app-controlled, fully immersive experience where music, motion and light come together in a coordinated outdoor performance.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Introducing Orchestra of Lights™ Op. 2: Showstopping Musical Holiday Light Shows Start Here",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261023DA79357",
+      "body": "\n<p class=\"prntac\"><i>Everything You Love Plus Enhanced Sound Quality and 6 NEW Songs</i></p><p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- Enjoy the ultimate synchronized musical light show in your own front yard with the NEW Orchestra of Lights™ <i>Op. 2</i>. Brought to you by Gemmy, this high-tech holiday lighting system delivers an app-controlled, fully immersive experience where music, motion and light come together in a coordinated outdoor performance. Available exclusively at Lowe's.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2019184/Gemmy-this-high-tech-holiday-lighting-system-delivers-an-app-controlled.jpg?id=OA3035423\" title=\"Brought to you by Gemmy, this high-tech holiday lighting system delivers an app-controlled, fully immersive experience where music, motion and light come together in a coordinated outdoor performance.\" alt=\"Brought to you by Gemmy, this high-tech holiday lighting system delivers an app-controlled, fully immersive experience where music, motion and light come together in a coordinated outdoor performance.\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight6fe1\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Enjoy the ultimate synchronized musical light show in your own front yard with the NEW Orchestra of Lights™ Op. 2</div><p>From 12 festive Christmas songs to the exciting new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1778401362&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Curatain-Light-Lowe-s%2F5018626643&amp;a=Curtain+Light\" target=\"_blank\" rel=\"nofollow\"><b>Curtain Light</b></a> featuring animated scenes, Orchestra of Lights™ <i>Op. </i>2 offers more ways than ever to customize your display.</p><p><b>You Asked, We Delivered: 6 NEW Songs</b></p><p><i>Op. 2</i> includes everything you already love plus enhanced sound quality and 6 NEW songs for a total of 12 festive options:</p><ul type=\"disc\"><li><i>Bell Carol</i></li><li><i>Classic Christmas Medley</i></li><li><i>Dance of the Sugar Plum Fairy</i></li><li><i>Deck the Halls</i></li><li><i>Jingle Bells (instrumental)</i></li><li><i>Religious Medley</i></li><li><b><i>NEW</i></b><i>: Feliz Navidad</i></li><li><b><i>NEW</i></b><i>: Have Yourself a Merry Little Christmas</i></li><li><b><i>NEW</i></b><i>: Jingle Bells (vocal)</i></li><li><b><i>NEW</i></b><i>: Jolly Old St. Nicholas</i></li><li><b><i>NEW</i></b><i>: Magic Sleigh Ride</i></li><li><b><i>NEW</i></b><i>: Santa's Gonna Swing Tonight (an original upbeat song)</i></li></ul><p><i>Op. 2</i> lights dance to all 12 songs in a magnificent, synchronized show. Previous generation items join in with the 6 original songs and glow in warm white during the new tracks for a gorgeous, cohesive display.</p><p>At least one speaker item is required to add music to your light show. To play the 6 new songs, an <i>Op. 2</i> speaker is required. Choose from the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1253585818&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Christmas-Orchestra-of-Lights-OP-2-Merry-Moves-Lightshow-Illuminations-Set-Star-Spinner-Merry-Moves-Kaleidoscope-w-Bluetooth-Speaker-S-3-Lowe-s%2F5018626585&amp;a=Illuminations%E2%84%A2+Merry+Moves+Spotlight+Set\" target=\"_blank\" rel=\"nofollow\"><b>Illuminations™ Merry Moves Spotlight Set</b></a> or the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1557946039&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Universal-Virtuoso-Bluetooth-Speaker-Lowe-s%2F5018627073&amp;a=Universal+Virtuoso+Speaker\" target=\"_blank\" rel=\"nofollow\"><b>Universal Virtuoso Speaker</b></a>.</p><p><b>Mix and Match: Create Your Musical Light Show</b></p><p>Build a bigger, brighter display with incredible new <i>Op. 2</i> items, including:</p><ul type=\"disc\"><li>Light Strings in 3 Styles: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1262633949&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Light-Show-String-S-24-C9-Lowe-s%2F5018626693&amp;a=C9+String\" target=\"_blank\" rel=\"nofollow\"><b>C9 String</b></a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=992632157&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Dancing-Light-String-S-12-11-9-7IN-Angled-Icicle-Cover%2F5018627145&amp;a=Icicle+String\" target=\"_blank\" rel=\"nofollow\"><b>Icicle String</b></a> and an eye-catching <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=955815692&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Rope-Light-Lowe-s%2F5018625533&amp;a=Rope+Light\" target=\"_blank\" rel=\"nofollow\"><b>Rope Light</b></a></li><li>Pathway Markers in 3 Styles: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=902107389&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Christmas-Orchestra-of-Light-Gen-2-Pathway-Stakes-S-3-Snowflakes-Lowe-s%2F5018627309&amp;a=Snowflakes\" target=\"_blank\" rel=\"nofollow\"><b>Snowflakes</b></a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1509941571&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Pathway-Stakes-S-8-Candy-Cane-Lowe-s%2F5018627501&amp;a=Candy+Canes\" target=\"_blank\" rel=\"nofollow\"><b>Candy Canes</b></a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=131710606&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Candy-Cane-Lightshow-Pathway-Arch-S-3-Lowe-s%2F5018627009&amp;a=Candy+Cane+Arches\" target=\"_blank\" rel=\"nofollow\"><b>Candy Cane Arches</b></a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=2611701967&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Edison-Style-Bulb-Lowe-s%2F5018627027&amp;a=Edison-style+Bulb\" target=\"_blank\" rel=\"nofollow\"><b>Edison-style Bulb</b></a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=656557768&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-24-Tube-light-Starburst-Lowe-s%2F5018626529&amp;a=24-in+Starburst\" target=\"_blank\" rel=\"nofollow\"><b>24-in Starburst</b></a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=3017733907&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Lighted-Spheres-S-2-Lowe-s%2F5018626675&amp;a=Lighted+Sphere+Set\" target=\"_blank\" rel=\"nofollow\"><b>Lighted Sphere Set</b></a> of 2 Sizes: 12-in and 24-in</li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1067222524&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Blow-Mold-Christmas-Bulb-Lowe-s%2F5018626551&amp;a=25-in+Giant+Christmas+Bulb\" target=\"_blank\" rel=\"nofollow\"><b>25-in Giant Christmas Bulb</b></a></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1725931068&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Lightshow-Christmas-Tree-w-Star-6-Lowe-s%2F5018626663&amp;a=6-ft+Christmas+Tree\" target=\"_blank\" rel=\"nofollow\"><b>6-ft Christmas Tree</b></a></li></ul><p>Don't miss the showstopper: the NEW <i>Op. 2</i> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1778401362&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Curatain-Light-Lowe-s%2F5018626643&amp;a=Curtain+Light\" target=\"_blank\" rel=\"nofollow\"><b>Curtain Light</b></a>. This isn't just a curtain of lights – it's a living holiday scene. The Curtain Light features 12 animated scenes with vibrant images and singing characters that bring the music to life. Watch the holiday magic unfold as the lights shimmer, chase and pulse in perfect rhythm.</p><p><b>Control Up to 60 Items</b></p><p>The new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=2881468194&amp;u=https%3A%2F%2Fwww.lowes.com%2Fpd%2FORCHESTRA-OF-LIGHTS-Orchestra-of-Lights-OP-2-Hub-w-Antenna-Ethenet-Lowe-s%2F5018626637&amp;a=Op.+2%C2%A0Hub\" target=\"_blank\" rel=\"nofollow\"><b><i>Op. 2</i></b><b> Hub</b></a> controls up to 60 items at one time and works harmoniously with previous generations. Manage everything with your WiFi, compatible smart device (not included), the free Orchestra of Lights™ app and the <i>Op. 2</i> Hub.</p><p>You can even sync traditional Christmas lights to the show with the Universal Virtuoso Speaker. It includes six plug-in ports to add any non-Orchestra of Lights basic string lights and lighted décor to your light show.</p><p>Be the conductor of your own symphony of lights and music with Orchestra of Lights™ <i>Op. 2 </i>from Gemmy<i>. </i>Available exclusively at Lowe's, this next-generation collection makes it easier than ever to create an unforgettable seasonal display.</p><p>Visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=2350077933&amp;u=http%3A%2F%2Fwww.orchestraoflights.com%2F&amp;a=www.orchestraoflights.com\" target=\"_blank\" rel=\"nofollow\">www.orchestraoflights.com</a> for more information.</p><p><b>About Gemmy Industries<br></br></b>Gemmy Industries is a leader in the seasonal decor market, bringing festive fun and holiday cheer to homes everywhere. Dedicated to innovation and creative design, Gemmy has elevated industry standards and established recognizable brands like Airblown® and LightShow®. For more information on products and retailers, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=2034253432&amp;u=http%3A%2F%2Fwww.gemmy.com%2F&amp;a=www.gemmy.com\" target=\"_blank\" rel=\"nofollow\">www.gemmy.com</a>. Connect with us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=1314433827&amp;u=https%3A%2F%2Fwww.instagram.com%2Fgemmy_industries%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804802-1&amp;h=2503742665&amp;u=https%3A%2F%2Fwww.facebook.com%2FGemmyIndustries&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1045908/GemmyLogo-Logo.jpg?id=OA3035420\" title=\"\" alt=\"\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA79357&amp;sd=2026-10-23\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/introducing-orchestra-of-lights-op-2-showstopping-musical-holiday-light-shows-start-here-302918339.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/introducing-orchestra-of-lights-op-2-showstopping-musical-holiday-light-shows-start-here-302918339.html</a></p><p>SOURCE Gemmy Industries</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA79357&amp;Transmission_Id=202610231328PR_NEWS_USPR_____DA79357&amp;DateId=20261023\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Gemmy Industries",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-23T18:58:38.233Z"
+    },
+    {
+      "company": [
+        "Cuttable"
+      ],
+      "date": "20261023T160000+0000",
+      "dateline": "NEW YORK, Oct. 23, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "ADV",
+        "DTA",
+        "AFI",
+        "SMD",
+        "STW"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261023CN78762",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><b>The platform's evolution comes alongside an A$20 million Series A funding round led by Airtree Ventures, marking Cuttable's next phase of growth as it moves beyond AI ad generation. </b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- <a href=\"https://www.cuttable.com/\" target=\"_blank\" rel=\"nofollow\">Cuttable</a>, an AI-powered creative production platform for performance marketing teams, <span id=\"spanHghlta0ef\">today</span> unveiled the next evolution of its platform, designed to help brands move beyond generating ads to understand what works and make smarter decisions about what to create next. Just one year after entering the U.S. market, the Australian-founded company now generates 40% of its revenue from the region.</p>\n",
+      "ticker": [],
+      "title": "Cuttable Unveils Next-Generation AI Advertising Platform as U.S. Expansion Accelerates",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261023CN78762",
+      "body": "\n<p><b>The platform's evolution comes alongside an A$20 million Series A funding round led by Airtree Ventures, marking Cuttable's next phase of growth as it moves beyond AI ad generation. </b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- <a href=\"https://www.cuttable.com/\" target=\"_blank\" rel=\"nofollow\">Cuttable</a>, an AI-powered creative production platform for performance marketing teams, <span id=\"spanHghlta0ef\">today</span> unveiled the next evolution of its platform, designed to help brands move beyond generating ads to understand what works and make smarter decisions about what to create next. Just one year after entering the U.S. market, the Australian-founded company now generates 40% of its revenue from the region.</p>\n<p>While AI has made producing ads faster and easier, knowing which creative to make next remains a challenge. Most tools focus on either generating ads or analyzing their performance, leaving marketers to connect the dots between what they intend to test, what actually worked and what to create next.</p><p>Cuttable brings those pieces together. Its evolved platform connects a brand's creative assets, customer data and performance history with the marketer's original intent, building on what the brand has already tried rather than starting from scratch with each new creative brief.</p><p>Cuttable's software was built to remove creative as a bottleneck for performance marketing teams producing, testing and rebuilding ads at scale. The platform reads a brand's website, social channels and guidelines to build an editable brand strategy and brand kit. From there, marketers can write a brief in plain language and receive finished, editable ads, built using existing brand and product assets or Cuttable's AI content studio, Shoots, which creates and extends photo and video content.</p><p>Finished ads publish directly to Meta Ads Manager, and Cuttable's Ad Insights reads the performance back from Meta, including thumbstop, click-through rate and return on ad spend, so that the next brief builds on what worked. It's this continuous feedback loop, rather than creative generation alone, that differentiates Cuttable from tools that separately generate ads or report on performance. </p><p>Cuttable's Co-founder &amp; CEO, Sam Kroonenburg, who previously founded and sold A Cloud Guru in 2021, said, \"Creative is still made the way it was thirty years ago, one ad at a time. Making an ad has never been the hard part, it is knowing which one to make next. We are building the creative production system ecommerce performance marketers have been waiting for.\"</p><p>Across 280,000 ads and more than $320 million in Meta spend run through its platform, Cuttable found that one ad in eleven returns ten times its spend or better, and that a small number of ads end up carrying an entire account. The company's data also shows brands increase creative output 3.4 times going into November, underscoring the growing pressure to produce and test ads at scale.</p><p>In just two years since launching, Cuttable now works with more than 420 brands across the United States, Australia, New Zealand, Asia and Europe, including lululemon, Rodan &amp; Fields and Brick. Brands on the platform average a 4.4 times return on ad spend and see a 37 percent lift in account-level return on ad spend after moving to Cuttable. To support its growing U.S. business, Cuttable is actively hiring and building out its San Francisco team.</p><p>Airtree, which first invested in Cuttable earlier this year, returned to lead the round. One of Australia's largest technology investors, its portfolio includes Canva, Airwallex, Linktree and SafetyCulture.</p><p>Airtree Ventures partner James Cameron, whose firm also backed A Cloud Guru, said: \"Since we backed Cuttable's seed round, their growth has been much faster than our (already very high) expectations. The world of ad creative is being turned on its head by AI, and we're excited to lead this round as Cuttable becomes the leading system that performance marketers reach for to make content work harder.\"</p><p>With the U.S. already emerging as a major growth market, Cuttable plans to use its latest funding to accelerate its expansion and advance the next evolution of its platform. Cuttable's focus from here is on closing the creative loop, helping marketers decide what to make next rather than only how to make it.</p><p><b>ABOUT CUTTABLE</b></p><p>Cuttable is a creative production platform for performance marketing teams, used by more than 420 brands across the United States, Australia, New Zealand, Asia and Europe. The company is headquartered in New York with offices in Melbourne and San Francisco.</p><p>To learn more, visit <a href=\"http://www.cuttable.com/\" target=\"_blank\" rel=\"nofollow\">cuttable.com</a>.</p><p><i>High-res Cuttable founder imagery is available </i><a href=\"https://drive.google.com/drive/folders/1mLor7bx0N2dURzoi8MG_90mMEsRdc9tS?usp=sharing\" target=\"_blank\" rel=\"nofollow\"><i>HERE</i></a><i>.</i></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN78762&amp;sd=2026-10-23\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/cuttable-unveils-next-generation-ai-advertising-platform-as-us-expansion-accelerates-302916612.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/cuttable-unveils-next-generation-ai-advertising-platform-as-us-expansion-accelerates-302916612.html</a></p><p>SOURCE Cuttable</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN78762&amp;Transmission_Id=202610231200PR_NEWS_USPR_____CN78762&amp;DateId=20261023\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Cuttable",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 10,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising platform",
+            "advertising",
+            "summary:marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-23T18:58:38.339Z"
+    },
+    {
+      "company": [
+        "VeDO"
+      ],
+      "date": "20261023T150000+0000",
+      "dateline": "ATLANTA, Oct. 23, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "prnj",
+        "prncom_us"
+      ],
+      "geography": [
+        "GGA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "RAD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "VEDO - V Album Cover",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2019666/VEDO-V.jpg?id=OA3036682&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2019666/VEDO-V.jpg?id=OA3036682&p=publish"
+        },
+        {
+          "caption": "VEDO - V Tracklist",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2019675/VEDO-V-Tracklist.jpg?id=OA3036691&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2019675/VEDO-V-Tracklist.jpg?id=OA3036691&p=publish"
+        }
+      ],
+      "release_id": "20261023PH79870",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>The Multi-Platinum R&amp;B Hitmaker's New Project, Featuring Production from Troy Taylor and Other Industry Heavyweights, Is Available Now</i></b></p><p class=\"prntac\"><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=726125311&amp;u=https%3A%2F%2Flnk.to%2FVedoVAlbum&amp;a=V+IS+AVAILABLE+NOW\" target=\"_blank\" rel=\"nofollow\"><b>V IS AVAILABLE NOW</b></a></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- <b>Ten albums into his career, VEDO continues to define his place in contemporary R&amp;B with </b><b><i>V</i></b><b>, available now.</b> The multi-platinum-selling singer and songwriter brings together acclaimed collaborators, polished production and the emotionally driven storytelling that has made him a standout voice in the genre.</p>\r\n<p>Listen to <i>V</i> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=951600048&amp;u=https%3A%2F%2Flnk.to%2FVedoVAlbum&amp;a=HERE\" target=\"_blank\" rel=\"nofollow\"><b>HERE</b></a>.</p>",
+      "ticker": [],
+      "title": "VEDO Marks a Career-Defining Milestone With V, His 10th Studio Album Featuring Lady London and Sevyn Streeter",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261023PH79870",
+      "body": "\r\n<p class=\"prntac\"><b><i>The Multi-Platinum R&amp;B Hitmaker's New Project, Featuring Production from Troy Taylor and Other Industry Heavyweights, Is Available Now</i></b></p><p class=\"prntac\"><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=726125311&amp;u=https%3A%2F%2Flnk.to%2FVedoVAlbum&amp;a=V+IS+AVAILABLE+NOW\" target=\"_blank\" rel=\"nofollow\"><b>V IS AVAILABLE NOW</b></a></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- <b>Ten albums into his career, VEDO continues to define his place in contemporary R&amp;B with </b><b><i>V</i></b><b>, available now.</b> The multi-platinum-selling singer and songwriter brings together acclaimed collaborators, polished production and the emotionally driven storytelling that has made him a standout voice in the genre.</p>\r\n<p>Listen to <i>V</i> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=951600048&amp;u=https%3A%2F%2Flnk.to%2FVedoVAlbum&amp;a=HERE\" target=\"_blank\" rel=\"nofollow\"><b>HERE</b></a>.</p><p>Featuring <b>Lady London</b> on &quot;Put Up&quot; and <b>Sevyn Streeter</b> on &quot;YES,&quot; <i>V</i> pairs VEDO's signature melodic sensibility with production from hitmakers <b>Troy Taylor</b>, <b>Sean Momberger</b>, <b>The Breed</b> and <b>Arsenio Archer</b>. With credits spanning artists such as Trey Songz, Doja Cat, Chris Brown, Drake and Summer Walker, the producers bring a wealth of experience to a project that underscores VEDO's continued evolution as both a vocalist and songwriter.</p><p>The album features previously released singles <b>&quot;Save Her 4 Me,&quot; &quot;Put Up&quot; featuring Lady London, and &quot;Wassup (Ouu Wee),&quot;</b> offering listeners a taste of the project's range and relationship-driven narratives.</p><p>VEDO first captured national attention on NBC's <i>The Voice</i>, competing on Team Usher before building a career as a recording artist and sought-after songwriter. His double-platinum hit <b>&quot;You Got It&quot;</b> became a defining record, fueled in part by its viral momentum on TikTok. Subsequent projects, including <i>VEDO</i>, <i>For You</i>, <i>1320</i>, <i>Mood Swings</i>, <i>7</i> and <i>e•pit•o•me</i>, have further established his presence in modern R&amp;B.</p><p>With <i>V</i>, VEDO delivers his latest statement as an artist whose longevity is matched by his commitment to musical growth, authentic storytelling and the continued evolution of R&amp;B.</p><p><b>Stream </b><b><i>V</i></b><b> now: </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=3407051552&amp;u=https%3A%2F%2Flnk.to%2FVedoVAlbum&amp;a=https%3A%2F%2Flnk.to%2FVedoVAlbum\" target=\"_blank\" rel=\"nofollow\"><b>https://lnk.to/VedoVAlbum</b></a></p><p><b>ABOUT VEDO</b></p><p>VEDO is an R&amp;B singer, songwriter and multi-platinum-selling recording artist recognized for his smooth vocals, emotionally resonant songwriting and contributions to contemporary R&amp;B. Born Wilbart McCoy III, the Michigan native rose to national prominence on Season 4 of NBC's <i>The Voice</i>, where he performed as a member of Team Usher.</p><p>He later achieved widespread success with &quot;You Got It,&quot; his double-platinum hit that gained traction through TikTok. Beyond his solo career, VEDO has established himself as a sought-after songwriter, contributing to music associated with prominent artists including Usher and Chris Brown. With a catalog spanning multiple studio albums, he continues to shape his place in modern R&amp;B through melodic precision, authentic storytelling and a distinctive vocal style.</p><p class=\"prntac\"><b>FOLLOW VEDO</b></p><p class=\"prntac\">Instagram: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=3505590009&amp;u=https%3A%2F%2Fwww.instagram.com%2Fvedothesinger%3Fdlrf%3DaDQxd204YXA5MWMx&amp;a=%40vedothesinger\" target=\"_blank\" rel=\"nofollow\"><b>@vedothesinger</b></a>   <br />TikTok: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=1782292437&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40itsvedobaby%3F_r%3D1%26_t%3DZP-9AmPyNzlCb1&amp;a=%40itsvedobaby+\" target=\"_blank\" rel=\"nofollow\"><b>@itsvedobaby </b></a>    <br />                                                  Official links: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805313-1&amp;h=3929763637&amp;u=https%3A%2F%2Flinktr.ee%2Fvedobaby&amp;a=linktr.ee%2Fvedobaby\" target=\"_blank\" rel=\"nofollow\"><b>linktr.ee/vedobaby</b></a>                                                </p><p class=\"prntac\"><b>FOR PRESS INQUIRIES</b></p><p class=\"prntac\"><b>Derrian Perry</b><br />I AM PHRESHY BRAND<br /><a href=\"mailto:425527@email4pr.com\" target=\"_blank\" rel=\"nofollow\">425527@email4pr.com</a><br />470.641.3574 </p>\r\n\r\n\r\n\r\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH79870&amp;sd=2026-10-23\" /> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/vedo-marks-a-career-defining-milestone-with-v--his-10th-studio-album-featuring-lady-london-and-sevyn-streeter-302918239.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/vedo-marks-a-career-defining-milestone-with-v--his-10th-studio-album-featuring-lady-london-and-sevyn-streeter-302918239.html</a></p><p>SOURCE VEDO</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH79870&amp;Transmission_Id=202610231100PR_NEWS_USPR_____PH79870&amp;DateId=20261023\" style=\"border: 0.0px;width: 1.0px;height: 1.0px;\" />",
+      "source_company": "VEDO",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "album",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-23T18:58:38.495Z"
+    },
+    {
+      "company": [
+        "TSM Group LLC"
+      ],
+      "date": "20261023T145200+0000",
+      "dateline": "ONTARIO, Calif., Oct. 23, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SSE",
+        "SPT",
+        "ENT",
+        "MUS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "The Swansons halftime performers at El Clashico! 11.8.26",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2019645/TSM-Group-LLC-The-Swansons-halftime-performers-at-El-Clashico-11-8-26.jpg?id=OA3036602&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2019645/TSM-Group-LLC-The-Swansons-halftime-performers-at-El-Clashico-11-8-26.jpg?id=OA3036602&p=publish"
+        },
+        {
+          "caption": "https://theswansonsmusic.com/",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1631201/swansons-music-dot-com-logo-Logo-Logo.jpg?id=OA3034997&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1631201/swansons-music-dot-com-logo-Logo-Logo.jpg?id=OA3034997&p=publish"
+        }
+      ],
+      "release_id": "20261023LA79836",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p><i>Award-winning musical duo to perform a special mashup of their 2026 singles ahead of the release of their newest single, \"One Way Ride.\"</i></p><p><span class=\"legendSpanClass\">ONTARIO, Calif.</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- Award-winning musical duo <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805279-1&amp;h=2039126309&amp;u=https%3A%2F%2Ftheswansonsmusic.com%2F&amp;a=The+Swansons+Music\" target=\"_blank\" rel=\"nofollow\"><b>The Swansons Music</b></a> are bringing their sound, energy, and American pride to Toyota Arena in Ontario, California, on Sunday, November 8, 2026, for the highly anticipated Arena Indoor Soccer matchup between the USA and Mexico. With kickoff scheduled for 5:00 PM, fans can look forward to an exciting halftime performance celebrating music, sports, and national pride.</p>\n    ",
+      "ticker": [],
+      "title": "The Swansons Music to Represent Team USA in High-Energy Halftime Performance at Toyota Arena in Ontario, California",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261023LA79836",
+      "body": "\n<p><i>Award-winning musical duo to perform a special mashup of their 2026 singles ahead of the release of their newest single, \"One Way Ride.\"</i></p><p><span class=\"legendSpanClass\">ONTARIO, Calif.</span>, <span class=\"legendSpanClass\">Oct. 23, 2026</span> /PRNewswire/ -- Award-winning musical duo <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805279-1&amp;h=2039126309&amp;u=https%3A%2F%2Ftheswansonsmusic.com%2F&amp;a=The+Swansons+Music\" target=\"_blank\" rel=\"nofollow\"><b>The Swansons Music</b></a> are bringing their sound, energy, and American pride to Toyota Arena in Ontario, California, on Sunday, November 8, 2026, for the highly anticipated Arena Indoor Soccer matchup between the USA and Mexico. With kickoff scheduled for 5:00 PM, fans can look forward to an exciting halftime performance celebrating music, sports, and national pride.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2019645/TSM-Group-LLC-The-Swansons-halftime-performers-at-El-Clashico-11-8-26.jpg?id=OA3036602\" title=\"The Swansons halftime performers at El Clashico! 11.8.26\" alt=\"The Swansons halftime performers at El Clashico! 11.8.26\"></img>\n                </p>\n    </div>\n<p>Representing Team USA, The Swansons will share the halftime spotlight with a second performer representing Mexico, who will be announced at a later date. The two performances promise to bring the spirit of both nations to the arena for a memorable international matchup.</p><p>During their halftime set, The Swansons will deliver a dynamic three-song mashup showcasing their original music and distinctive sound. The performance will kick off with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805279-1&amp;h=1948056882&amp;u=https%3A%2F%2Fffm.to%2Fanybodybetter&amp;a=%22Anybody+Better%2C%22\" target=\"_blank\" rel=\"nofollow\"><b>\"Anybody Better,\"</b></a> a track from a previous release, before transitioning into their two new 2026 singles, <b>\"</b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805279-1&amp;h=1454087434&amp;u=https%3A%2F%2Fffm.to%2Fhey-god-its-me-again&amp;a=Hey+God%2C+It%27s+Me+Again\" target=\"_blank\" rel=\"nofollow\"><b>Hey God, It's Me Again</b></a><b>\" </b>and <b>\"</b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805279-1&amp;h=3656563801&amp;u=https%3A%2F%2Fffm.to%2Fswansonsamerica&amp;a=America\" target=\"_blank\" rel=\"nofollow\"><b>America</b></a><b>.\"</b> The special medley will bring together fan-favorite music and new releases in an energetic performance as The Swansons proudly represent Team USA at Toyota Arena.</p><p>The excitement continues just days later, as The Swansons prepare to release their brand-new single, <b>\"One Way Ride,\" on Friday, November 13, 2026.</b> The song will be available on all major streaming platforms, giving fans even more new music to enjoy following their Toyota Arena performance.</p><p>\"We're incredibly excited to represent the USA and bring our music to Toyota Arena,\" said The Swansons. \"We love connecting with audiences through our songs, and performing at an event like USA vs. Mexico makes this opportunity especially meaningful. We can't wait to share our music with everyone!\"</p><p><b>Be There for the Action — and the Music!</b></p><p>Fans are encouraged to purchase tickets, attend the USA vs. Mexico matchup, and experience The Swansons Music live during halftime at Toyota Arena in Ontario, California.</p><p><b>Event Details</b></p><ul type=\"disc\"><li><b>Event:</b> El Clashico! — USA vs. Mexico</li><li><b>Date:</b> Sunday, November 8, 2026</li><li><b>Game Time:</b> 5:00 PM</li><li><b>Location:</b> Toyota Arena, Ontario, California</li><li><b>Halftime Entertainment:</b> The Swansons Music representing Team USA, alongside a Mexico representative to be announced</li><li><b>Tickets: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805279-1&amp;h=3579952457&amp;u=https%3A%2F%2Fwww.gofevo.com%2Fevent%2FSwansons2&amp;a=Click+Here\" target=\"_blank\" rel=\"nofollow\">Click Here</a></b></li></ul><p><b>New Music on the Way</b></p><p>Following their Toyota Arena appearance, The Swansons will release <b>\"One Way Ride\" on November 13, 2026</b>, available on all major streaming platforms. Fans can also discover their 2026 singles, \"America\" and \"Hey God, It's Me Again,\" and stay connected for upcoming music, performances, and announcements.</p><p><b>Media &amp; Interview Opportunities</b></p><p>The Swansons Music are available for interviews, local news features, radio appearances, and entertainment stories highlighting their upcoming Toyota Arena performance, new music releases, and journey as an award-winning musical duo.</p><p>Local media outlets, journalists, radio stations, digital publications, and community news organizations in <b>Ontario, California, and throughout the Inland Empire</b> are invited to connect with The Swansons for interview opportunities and feature coverage.</p><p><b>About The Swansons Music</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4805279-1&amp;h=2039126309&amp;u=https%3A%2F%2Ftheswansonsmusic.com%2F&amp;a=The+Swansons+Music\" target=\"_blank\" rel=\"nofollow\">The Swansons Music</a> are an award-winning musical duo dedicated to creating original music and connecting with audiences through their performances and songwriting. With new music arriving in 2026 and an upcoming halftime appearance at Toyota Arena, the duo continues to share their music with fans and build momentum for their next chapter.</p><p><span>For interviews, bookings, collaborations, and inquiries, contact The Swansons at <a href=\"mailto:tsmgrouppr@Gmail.com\" target=\"_blank\" rel=\"nofollow\">tsmgrouppr@Gmail.com</a></span></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1631201/swansons-music-dot-com-logo-Logo-Logo.jpg?id=OA3034997\" title=\"https://theswansonsmusic.com/\" alt=\"https://theswansonsmusic.com/\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA79836&amp;sd=2026-10-23\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-swansons-music-to-represent-team-usa-in-high-energy-halftime-performance-at-toyota-arena-in-ontario-california-302918230.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-swansons-music-to-represent-team-usa-in-high-energy-halftime-performance-at-toyota-arena-in-ontario-california-302918230.html</a></p><p>SOURCE TSM Group LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA79836&amp;Transmission_Id=202610231052PR_NEWS_USPR_____LA79836&amp;DateId=20261023\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "TSM Group LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-23T18:58:38.575Z"
+    },
     {
       "company": [
         "American Public Media"
