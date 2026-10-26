@@ -1,9 +1,95 @@
 {
-  "generated_at": "2026-10-26T00:38:44.457Z",
+  "generated_at": "2026-10-26T05:22:58.709Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 660,
+  "count": 661,
   "releases": [
+    {
+      "company": [
+        "HALOID SOLUTIONS"
+      ],
+      "date": "20261026T035700+0000",
+      "dateline": "STONY BROOK, N.Y., Oct. 25, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TCS",
+        "WIC",
+        "TLS",
+        "RAD",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Haloid Solutions provides integrated wireless and two-way radio solutions for business and governments.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1701494/Haloid-Solutions-Logo-Logo.jpg?id=OA3038353&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1701494/Haloid-Solutions-Logo-Logo.jpg?id=OA3038353&p=publish"
+        }
+      ],
+      "release_id": "20261025NY80575",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">STONY BROOK, N.Y.</span>, <span class=\"legendSpanClass\">Oct. 25, 2026</span> /PRNewswire/ -- Following Starlink's announced entry into the mobile communications space, Haloid's consulting team polled government and business land mobile radio (LMR) administrators on whether Starlink could replace, or complement, their LMR systems. We found that most radio administrators were receptive to the nascent technology but did not see it as a replacement for their LMR networks.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1701494/Haloid-Solutions-Logo-Logo.jpg?id=OA3038353\" title=\"Haloid Solutions provides integrated wireless and two-way radio solutions for business and governments.\" alt=\"Haloid Solutions provides integrated wireless and two-way radio solutions for business and governments.\"></img>\n                </p>\n    </div>\n<p>Sixty-seven percent of radio administrators said they would be willing to integrate Starlink technology if it allowed them to expand coverage or lower infrastructure costs. When asked whether Starlink could completely replace their LMR networks, fewer than 15 percent said yes; the vast majority believed Starlink is not as reliable as the custom networks they have built. Among administrators who already use two-way radio over cellular (also known as push-to-talk over cellular, or PoC), however, nearly 80 percent said that Starlink's satellite coverage, combined with its newly acquired cellular spectrum, would make it more desirable than the industry's wireless incumbents because it could eliminate dead spots where cellular does not reach.</p>",
+      "ticker": [],
+      "title": "Haloid Poll: Majority of Public Safety and Commercial Radio Administrators Would Consider Starlink Integration With LMR Two-Way Radio Networks, but Disruption Unlikely",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261025NY80575",
+      "body": "\n<p><span class=\"legendSpanClass\">STONY BROOK, N.Y.</span>, <span class=\"legendSpanClass\">Oct. 25, 2026</span> /PRNewswire/ -- Following Starlink's announced entry into the mobile communications space, Haloid's consulting team polled government and business land mobile radio (LMR) administrators on whether Starlink could replace, or complement, their LMR systems. We found that most radio administrators were receptive to the nascent technology but did not see it as a replacement for their LMR networks.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1701494/Haloid-Solutions-Logo-Logo.jpg?id=OA3038353\" title=\"Haloid Solutions provides integrated wireless and two-way radio solutions for business and governments.\" alt=\"Haloid Solutions provides integrated wireless and two-way radio solutions for business and governments.\"></img>\n                </p>\n    </div>\n<p>Sixty-seven percent of radio administrators said they would be willing to integrate Starlink technology if it allowed them to expand coverage or lower infrastructure costs. When asked whether Starlink could completely replace their LMR networks, fewer than 15 percent said yes; the vast majority believed Starlink is not as reliable as the custom networks they have built. Among administrators who already use two-way radio over cellular (also known as push-to-talk over cellular, or PoC), however, nearly 80 percent said that Starlink's satellite coverage, combined with its newly acquired cellular spectrum, would make it more desirable than the industry's wireless incumbents because it could eliminate dead spots where cellular does not reach.</p><p>In the U.S., hundreds of thousands of radio users rely on traditional cellular carriers for push-to-talk communications, and that number grows each year. While the migration to two-way radio over cellular has affected the LMR industry, it has not replaced it. Many public safety agencies never made the switch, citing the risk that cellular networks could go down during weather events, power outages, or cyberattacks and jeopardize emergency communications.</p><p>In fact, during recent cellular outages, Starlink was used to provide emergency communications to affected areas, because its satellite connectivity does not depend on cell towers. But Starlink's integration with the 800 MHz cellular spectrum — \"Starlink 2.0,\" as some experts are calling it — exposes it to some of the same vulnerabilities as traditional wireless carriers.</p><p>While Starlink's satellite service might still function if local cell towers go down, a critical portion of an agency's communications might rely on local towers using the 800 MHz spectrum, leaving the agency vulnerable in a storm or outage.</p><p><b>Expect evolution, not disruption</b></p><p>\"Just like cellular didn't replace LMR, we don't see Starlink as an existential risk,\" said Jeremy Alicandri, President of Haloid Solutions. He expects Starlink to accelerate the industry's evolution toward shared communications infrastructure, also known as hybrid LMR. \"We have public safety customers already using Starlink in their vehicles to <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806009-1&amp;h=1712284203&amp;u=https%3A%2F%2Fhaloidsolutions.com%2Fproducts%2Fradio-over-starlink-solutions-2-way-radio-over-starlink-satellite-lmr-and-cellular&amp;a=extend+the+coverage+of+their+radios\" target=\"_blank\" rel=\"nofollow\">extend the coverage of their radios</a>. This trend will continue as Starlink devices become more ubiquitous.\"</p><p>The stock prices of Verizon, T-Mobile, and AT&amp;T were affected by Starlink's recent announcement. LMR stocks such as L3Harris, JVCKENWOOD, and BK Technologies, maker of the Bendix King brand, have been unaffected, as Wall Street views Starlink as unlikely to replace LMR technology for the same reasons cellular did not. \"But it may be too early to predict the industry's winners and losers,\" Alicandri added. \"The cellular incumbents have many advantages, including low-cost devices, existing infrastructure, and their own satellite ambitions.\"</p><p><b>About Haloid Solutions Research</b></p><p>Haloid's Starlink poll drew on respondents to its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806009-1&amp;h=2506523009&amp;u=https%3A%2F%2Fhaloidsolutions.com%2Fblogs%2Fnewsroom%2Flmr-brand-loyalty-study-parts-accessories-and-repairs&amp;a=LMR+brand+loyalty+study\" target=\"_blank\" rel=\"nofollow\">LMR brand loyalty study</a>, which measures radio administrators' sentiment toward the ownership and after-sales experience. Haloid's LMR research is sponsored by investors in the mission-critical communications space.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY80575&amp;sd=2026-10-25\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/haloid-poll-majority-of-public-safety-and-commercial-radio-administrators-would-consider-starlink-integration-with-lmr-two-way-radio-networks-but-disruption-unlikely-302918986.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/haloid-poll-majority-of-public-safety-and-commercial-radio-administrators-would-consider-starlink-integration-with-lmr-two-way-radio-networks-but-disruption-unlikely-302918986.html</a></p><p>SOURCE HALOID SOLUTIONS</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY80575&amp;Transmission_Id=202610252357PR_NEWS_USPR_____NY80575&amp;DateId=20261025\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "HALOID SOLUTIONS",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "radio"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "radio"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 9,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "radio": [
+            "radio network",
+            "radio",
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-26T05:22:59.709Z"
+    },
     {
       "company": [
         "Blumenthal Nordrehaug Bhowmik De Blouw LLP"
