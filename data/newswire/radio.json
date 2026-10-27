@@ -1,11 +1,106 @@
 {
-  "generated_at": "2026-10-27T06:42:05.181Z",
+  "generated_at": "2026-10-27T12:43:20.748Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "radio",
   "page_url": "https://www.mediajobsreport.com/radio_news",
-  "count": 8,
+  "count": 9,
   "releases": [
+    {
+      "company": [
+        "iRoc Space Radio"
+      ],
+      "date": "20261027T120000+0000",
+      "dateline": "AUSTIN, Texas, Oct. 27, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "RAD",
+        "TLS",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "iHeart Radio's #1 Space Station: iRoc Space Radio",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1369428/2022-iRoc-Space-Radio-iHeart-Radio-Logo-Logo.jpg?id=OA3037043&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1369428/2022-iRoc-Space-Radio-iHeart-Radio-Logo-Logo.jpg?id=OA3037043&p=publish"
+        }
+      ],
+      "release_id": "20261027DA80019",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "LIC"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- IROC Space Radio, the #1 Space Station on the iHeart Radio platform, has secured an official advertising sponsorship with STARLINK. Elon Musk's Starlink company is renowned for offering Affordable, Fast Internet, Everywhere on Planet Earth via a small portable flat panel. Bruce Furst, CEO and Founder of IROC Space Radio has grown its audience to over Twenty Million (20M) monthly listening hours worldwide.    IROC Space Radio Listeners are international and tune in to hear space-themed music, aerospace business news headlines, Mars Weather and Traffic Reports, along with interviews of NASA astronauts.   Bruce Furst, IROC CEO, and host of the Captain B Show on the iHeartRadio platform, disclosed that IROC Space Radio's top listening cities span the globe, from London to Frankfurt, and Singapore to Seattle. IROC Space Radio is available to listen to on any smart device by simply saying: \" <i>Play iRoc Space Radio on iHeart Radio\" or visiting iRocSpaceRadio.com.</i></p>\n    ",
+      "ticker": [],
+      "title": "BRUCE FURST and STARLINK Announce Advertising Sponsorship With IROC Space Radio",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027DA80019",
+      "body": "\n<p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- IROC Space Radio, the #1 Space Station on the iHeart Radio platform, has secured an official advertising sponsorship with STARLINK. Elon Musk's Starlink company is renowned for offering Affordable, Fast Internet, Everywhere on Planet Earth via a small portable flat panel. Bruce Furst, CEO and Founder of IROC Space Radio has grown its audience to over Twenty Million (20M) monthly listening hours worldwide.    IROC Space Radio Listeners are international and tune in to hear space-themed music, aerospace business news headlines, Mars Weather and Traffic Reports, along with interviews of NASA astronauts.   Bruce Furst, IROC CEO, and host of the Captain B Show on the iHeartRadio platform, disclosed that IROC Space Radio's top listening cities span the globe, from London to Frankfurt, and Singapore to Seattle. IROC Space Radio is available to listen to on any smart device by simply saying: \" <i>Play iRoc Space Radio on iHeart Radio\" or visiting iRocSpaceRadio.com.</i></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1369428/2022-iRoc-Space-Radio-iHeart-Radio-Logo-Logo.jpg?id=OA3037043\" title=\"iHeart Radio's #1 Space Station: iRoc Space Radio\" alt=\"iHeart Radio's #1 Space Station: iRoc Space Radio\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight26b1\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Bruce Furst's iRoc Space Radio + Starlink = Natural fit for Ad Sponsorship with worldwide listeners + international wifi</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA80019&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/bruce-furst-and-starlink-announce-advertising-sponsorship-with-iroc-space-radio-302918992.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/bruce-furst-and-starlink-announce-advertising-sponsorship-with-iroc-space-radio-302918992.html</a></p><p>SOURCE iRoc Space Radio</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA80019&amp;Transmission_Id=202610270800PR_NEWS_USPR_____DA80019&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "iRoc Space Radio",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising",
+        "radio"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising",
+          "radio"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 3,
+          "management": 0,
+          "radio": 6,
+          "television": 0,
+          "podcast": 2,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "sponsorship"
+          ],
+          "entertainment": [
+            "summary:music",
+            "industry:ENT"
+          ],
+          "radio": [
+            "summary:iheartradio",
+            "radio",
+            "industry:RAD"
+          ],
+          "podcast": [
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T12:43:25.097Z"
+    },
     {
       "company": [
         "HALOID SOLUTIONS"
