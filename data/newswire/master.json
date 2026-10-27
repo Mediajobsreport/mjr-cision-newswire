@@ -1,9 +1,1301 @@
 {
-  "generated_at": "2026-10-27T12:43:20.748Z",
+  "generated_at": "2026-10-27T22:31:00.437Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 680,
+  "count": 694,
   "releases": [
+    {
+      "company": [
+        "Billd"
+      ],
+      "date": "20261027T164800+0000",
+      "dateline": "AUSTIN, Texas, Oct. 27, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIN",
+        "CST",
+        "CPR",
+        "FNT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Cross River Bank",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021945/cross-river-logo.jpg?id=OA3042247&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021945/cross-river-logo.jpg?id=OA3042247&p=publish"
+        },
+        {
+          "caption": "Billld Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1626725/billd-black-Logo-Logo.jpg?id=OA3042246&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1626725/billd-black-Logo-Logo.jpg?id=OA3042246&p=publish"
+        }
+      ],
+      "release_id": "20261027DA82223",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "LIC",
+        "CXP",
+        "FNC"
+      ],
+      "summary": "<p class=\"prntac\"><i>Construction line of credit now available to qualified subcontractors nationwide, complementing</i> <i>Billd's</i> <i>suite</i> <i>of</i> <i>products</i> <i>built</i> <i>specifically</i> <i>for</i> <i>commercial</i> <i>construction</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Billd, the leading provider of financial solutions for commercial subcontractors, today announced the national launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=1350122478&amp;u=https%3A%2F%2Fbilld.com%2Fflex-line%2F&amp;a=Flex\" target=\"_blank\" rel=\"nofollow\">Flex</a> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=3443190565&amp;u=https%3A%2F%2Fbilld.com%2Fflex-line%2F&amp;a=Line\" target=\"_blank\" rel=\"nofollow\">Line</a>, its revolving line of credit for subcontractors, in partnership with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=2018129833&amp;u=https%3A%2F%2Fwww.crossriver.com%2F&amp;a=Cross%C2%A0River%C2%A0Bank\" target=\"_blank\" rel=\"nofollow\">Cross River Bank</a> (\"Cross River\"), a leading technology infrastructure platform powering embedded financial solutions serving as the trust anchor for global banking and money movement. Flex Line is a line of credit product offered through Cross River that provides qualified subcontractors with access to working capital designed specifically for the realities of the construction business.</p>\n    ",
+      "ticker": [],
+      "title": "Billd Launches Flex Line Nationally, Expanding Working Capital Access for Subcontractors Across the U.S.",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027DA82223",
+      "body": "\n<p class=\"prntac\"><i>Construction line of credit now available to qualified subcontractors nationwide, complementing</i> <i>Billd's</i> <i>suite</i> <i>of</i> <i>products</i> <i>built</i> <i>specifically</i> <i>for</i> <i>commercial</i> <i>construction</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Billd, the leading provider of financial solutions for commercial subcontractors, today announced the national launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=1350122478&amp;u=https%3A%2F%2Fbilld.com%2Fflex-line%2F&amp;a=Flex\" target=\"_blank\" rel=\"nofollow\">Flex</a> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=3443190565&amp;u=https%3A%2F%2Fbilld.com%2Fflex-line%2F&amp;a=Line\" target=\"_blank\" rel=\"nofollow\">Line</a>, its revolving line of credit for subcontractors, in partnership with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=2018129833&amp;u=https%3A%2F%2Fwww.crossriver.com%2F&amp;a=Cross%C2%A0River%C2%A0Bank\" target=\"_blank\" rel=\"nofollow\">Cross River Bank</a> (\"Cross River\"), a leading technology infrastructure platform powering embedded financial solutions serving as the trust anchor for global banking and money movement. Flex Line is a line of credit product offered through Cross River that provides qualified subcontractors with access to working capital designed specifically for the realities of the construction business.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021945/cross-river-logo.jpg?id=OA3042247\" title=\"Cross River Bank\" alt=\"Cross River Bank\"></img>\n                </p>\n    </div>\n<p>Built to use alongside a traditional line of credit, Flex Line offers subcontractors flexible working capital that isn't tied to a single project. As a revolving line of credit, available credit replenishes as the balance is repaid, and there are no fees for unused funds.</p><p>\"Flex Line gives our long-time customers one more way to access working capital, available right when subcontractors need it. It's the simplest and easiest line of credit subcontractors will ever use,\" said Chris Doyle, Founder and CEO of Billd. \"Alongside Material Financing and Pay App Advance, Flex Line rounds out a product suite built to empower subcontractors to do the best work of their lives.\"</p><p>The national expansion is made possible through Billd's partnership with Cross River, which powers financial technology programs across accounts, cards, payments, lending, digital assets and agentic commerce for some of the world's most recognized brands.</p><p>Flex Line complements Billd's existing product suite, which includes Material Financing, Pay App Advance, and the Predictable Pay early payment program for general contractors. Flex Line eligibility is subject to application, credit review, and approval. Terms, conditions, and restrictions apply, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=1071022056&amp;u=http%3A%2F%2Fbilld.com%2Fflex-line&amp;a=billd.com%2Fflex-line\" target=\"_blank\" rel=\"nofollow\">billd.com/flex-line</a> for more details.</p><p>Lines of credit made by Cross River, Member FDIC. This is not a deposit product.</p><p class=\"prntal\"><b>About Billd</b></p><p>Billd stands alone as a partner that truly champions the subcontractor. Founded in 2018 by two industry veterans in both construction and finance, Billd's construction-specific financial and payment products empower subcontractors to overcome the impacts of the longstanding broken payment cycle in construction. Billd offers access to working capital solutions to cover subcontractors' most pressing costs, including materials and labor, providing flexible credit to accommodate the unpredictability of cash flow in construction. Billd's patented analytic and financing methodology allows subcontractors to stabilize cash flow and more effectively grow their businesses.</p><p><b>About Cross River<br></br></b>Cross River builds technology that powers the future of financial services. Leveraging its proprietary real-time digital banking core, Cross River delivers innovative and scalable embedded payments, cards, lending and <span>digital asset</span> and agentic solutions to millions of consumers and businesses. Cross River is backed by leading investors and serves the world's most essential technology and <span>fintech</span> companies at the forefront of innovation. As a leader in the industry, Cross River is reshaping global finance and financial inclusion. Member FDIC. Find out more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807648-1&amp;h=2070971013&amp;u=http%3A%2F%2Fwww.crossriver.com%2F&amp;a=www.crossriver.com\" target=\"_blank\" rel=\"nofollow\">www.crossriver.com</a>.</p><p class=\"prntal\"><b>Media Contact:<br></br></b>Lydia Adams, VP of Marketing, Billd <a href=\"mailto:lydia@billd.com\" target=\"_blank\" rel=\"nofollow\">lydia@billd.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1626725/billd-black-Logo-Logo.jpg?id=OA3042246\" title=\"Billld Logo\" alt=\"Billld Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA82223&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/billd-launches-flex-line-nationally-expanding-working-capital-access-for-subcontractors-across-the-us-302921055.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/billd-launches-flex-line-nationally-expanding-working-capital-access-for-subcontractors-across-the-us-302921055.html</a></p><p>SOURCE Billd</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA82223&amp;Transmission_Id=202610271248PR_NEWS_USPR_____DA82223&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Billd",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:04.618Z"
+    },
+    {
+      "company": [
+        "Oracle"
+      ],
+      "date": "20261027T160400+0000",
+      "dateline": "LAS VEGAS, Oct. 27, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NEV",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "STW",
+        "AFI",
+        "ADV",
+        "IOT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA3040995&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA3040995&p=publish"
+        }
+      ],
+      "release_id": "20261027SF81800",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Integrated platform brings together AI-powered production, enterprise media models, and distributed video delivery to help </i><i>media companies, streaming providers, and brands get more value from their content</i></p><p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ --<b> Oracle AI World </b>-- Oracle today announced Oracle Media Fabric, an integrated platform designed to help media companies, streaming providers, and brands reduce content production time and cost, distribute and stream high-quality video at scale, and create more personalized experiences for viewers. The platform brings sophisticated content creation and streaming capabilities once available only to the largest proprietary streaming platforms to content creators of all sizes. By connecting AI-powered creative tools with next-generation video delivery infrastructure built around open standards, Oracle Media Fabric enables audience-specific advertising, tailored programming, and shared viewing experiences built around what audiences care about.</p>\n    ",
+      "ticker": [
+        "NYSE:ORCL"
+      ],
+      "title": "Oracle Introduces Oracle Media Fabric",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027SF81800",
+      "body": "\n<p class=\"prntac\"><i>Integrated platform brings together AI-powered production, enterprise media models, and distributed video delivery to help </i><i>media companies, streaming providers, and brands get more value from their content</i></p><p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ --<b> Oracle AI World </b>-- Oracle today announced Oracle Media Fabric, an integrated platform designed to help media companies, streaming providers, and brands reduce content production time and cost, distribute and stream high-quality video at scale, and create more personalized experiences for viewers. The platform brings sophisticated content creation and streaming capabilities once available only to the largest proprietary streaming platforms to content creators of all sizes. By connecting AI-powered creative tools with next-generation video delivery infrastructure built around open standards, Oracle Media Fabric enables audience-specific advertising, tailored programming, and shared viewing experiences built around what audiences care about.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA3040995\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>\"Creating content and delivering it to viewers were separate processes,\" said Clay Magouyrk, CEO, Oracle. \"With Oracle Media Fabric, we're bringing content creation and streaming together, using AI across the entire production and distribution workflow. That helps creators reduce production time and cost, make better use of their existing content, and tailor viewing experiences for different audiences in real-time.\"</p><p>Oracle Media Fabric brings together Oracle Creative Studio, Oracle AI Media Models, and Oracle Video Edge to help customers create, adapt, and deliver content. It includes safeguards to help protect customers' intellectual property (IP) and reduce the risk of generated content infringing the IP rights of others. Powered by the Oracle Creative Studio and Oracle Video Edge, the Oracle Adaptive Media Platform connects creation and delivery to enable audience-specific advertising, personalized programming, and shared viewing experiences.</p><ul type=\"disc\"><li><b>Oracle Creative Studio</b>: Helps professional media teams and a broad range of creators turn ideas into storyboards, scenes, cinematic video, visual effects, and virtual characters. As an AI-powered production suite, it brings together Oracle AI Media Models and leading third-party models through a flexible, model-agnostic platform that can select models for each creative task based on requirements for security, provenance, cost, and IP protection.</li><li><b>Oracle AI Media Models</b>: Help media studios and entertainment companies accelerate content creation while maintaining creative control. The Oracle-developed models focus on video generation, image generation, and image editing, enabling governed, large-scale media processing, intelligent curation and search, and frontier-model customization on Oracle Cloud Infrastructure (OCI).</li><li><b>Oracle Video Edge</b>: Helps broadcasters and streaming providers maintain high video quality and low latency during large-scale live events, helping ensure viewer playback starts fast and remains smooth as audience sizes peak. The AI-enabled managed platform uses real-time network and playback information to coordinate capacity and direct viewers to suitable delivery locations across OCI and participating content delivery networks and internet service provider networks.</li><li><b>Oracle Adaptive Media Platform</b>: Helps connect creation and delivery, enabling customers to develop audience-specific advertising, personalized programming, and shared viewing experiences. Brands can generate variations of a base advertisement within brand guidelines and approval rules, helping reduce the time and cost of creating multiple versions.</li></ul><p>By helping broadcasters and streaming providers understand how audiences respond to programming and advertising, Oracle Media Fabric can inform more engaging experiences, strengthen viewer relationships within customers' applications, and create new opportunities to monetize content. Oracle Media Fabric is planned to be available within the next 12 months.</p><p><b>About Oracle<br></br></b>Oracle offers integrated suites of applications plus secure, autonomous infrastructure in Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit oracle.com.</p><p><b>About Oracle AI World<br></br></b>Oracle AI World is where customers and partners discover the latest product and technology innovations, see how AI is being applied across industries, and connect with experts and peers. Attendees will gain practical tips and insights to drive immediate impact within their organizations and explore how Oracle is helping unlock the full potential of AI. Join the event to see new capabilities in action and hear from thought leaders and industry movers. Register now at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807215-7&amp;h=2521510823&amp;u=https%3A%2F%2Fwww.oracle.com%2Fai-world%2F&amp;a=oracle.com%2Fai-world\" target=\"_blank\" rel=\"nofollow\"><u>oracle.com/ai-world</u></a> or follow the news and conversation at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807215-7&amp;h=1879548809&amp;u=https%3A%2F%2Fwww.oracle.com%2Fnews%2F&amp;a=oracle.com%2Fnews\" target=\"_blank\" rel=\"nofollow\"><u>oracle.com/news</u></a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807215-7&amp;h=366216932&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Foracle%2F&amp;a=linkedin.com%2Fcompany%2Foracle\" target=\"_blank\" rel=\"nofollow\"><u>linkedin.com/company/oracle</u></a>.</p><p><b>Trademarks</b> <br></br>Oracle, Java, MySQL, and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing. </p><p><b>Future Product Disclaimer<br></br></b>The preceding is intended to outline our general product direction. It is intended for information purposes only, and may not be incorporated into any contract. It is not a commitment to deliver any material, code, or functionality, and should not be relied upon in making purchasing decisions. The development, release, timing, and pricing of any features or functionality described for Oracle's products may change and remains at the sole discretion of Oracle Corporation.</p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF81800&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/oracle-introduces-oracle-media-fabric-302920225.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/oracle-introduces-oracle-media-fabric-302920225.html</a></p><p>SOURCE Oracle</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF81800&amp;Transmission_Id=202610271204PR_NEWS_USPR_____SF81800&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Oracle",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 3,
+          "digital": 1,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "summary:content creator"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:04.762Z"
+    },
+    {
+      "company": [
+        "Vivo"
+      ],
+      "date": "20261027T153000+0000",
+      "dateline": "SHENZHEN, China, Oct. 27, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CHN",
+        "ASA"
+      ],
+      "industry": [
+        "CPR",
+        "CSE",
+        "ECP",
+        "WIC",
+        "TLS",
+        "MEN",
+        "ENT",
+        "FLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Sam Kolder demonstrates cinematic smartphone filmmaking with vivo X500 Pro Max in the Kolder Creative masterclass",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021629/20261027065718EDT_image_1.jpg?id=OA3041735&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021629/20261027065718EDT_image_1.jpg?id=OA3041735&p=publish"
+        },
+        {
+          "caption": "Sam Kolder explores smartphone cinematic filmmaking with vivo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021634/20261027065718EDT_image_3.jpg?id=OA3041736&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021634/20261027065718EDT_image_3.jpg?id=OA3041736&p=publish"
+        },
+        {
+          "caption": "A side-by-side comparison in the Kolder Creative masterclass illustrates how color grading transforms Log footage",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021635/20261027065718EDT_image_4.jpg?id=OA3041733&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021635/20261027065718EDT_image_4.jpg?id=OA3041733&p=publish"
+        },
+        {
+          "caption": "The vivo X500 Series combines ZEISS imaging technology with cinematic video capabilities",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021628/20261027065718EDT_image_2.jpg?id=OA3041734&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021628/20261027065718EDT_image_2.jpg?id=OA3041734&p=publish"
+        }
+      ],
+      "release_id": "20261027CN82012",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Following the global launch of the vivo X500 Series, Kolder Creative has released a smartphone filmmaking masterclass featuring the X500 Pro Max. The ten-video course builds on vivo's creative partnership with filmmaker Sam Kolder and follows the creation of a single vertical Reel from filming to final export. Through demonstrations of the X500 Pro Max's imaging capabilities and insights into Kolder's creative decisions, the masterclass aims to help more creators use smartphones for cinematic storytelling.</p>",
+      "ticker": [],
+      "title": "vivo x Kolder Creative: New Smartphone Filmmaking Masterclass Featuring vivo X500 Pro Max",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027CN82012",
+      "body": "\n<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Following the global launch of the vivo X500 Series, Kolder Creative has released a smartphone filmmaking masterclass featuring the X500 Pro Max. The ten-video course builds on vivo's creative partnership with filmmaker Sam Kolder and follows the creation of a single vertical Reel from filming to final export. Through demonstrations of the X500 Pro Max's imaging capabilities and insights into Kolder's creative decisions, the masterclass aims to help more creators use smartphones for cinematic storytelling.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1819\"><p><img src=\"https://mmx.prnewswire.com/media/MS2021629/20261027065718EDT_image_1.jpg?id=OA3041735\" title=\"Sam Kolder demonstrates cinematic smartphone filmmaking with vivo X500 Pro Max in the Kolder Creative masterclass\" alt=\"Sam Kolder demonstrates cinematic smartphone filmmaking with vivo X500 Pro Max in the Kolder Creative masterclass\"></img></p></div><p><b>Putting Creative Possibility into Practice</b></p><p>Co-engineered with ZEISS, the newly launched vivo X500 Series combines an advanced ZEISS Telephoto Lens System with cinematic video capabilities, giving creators the flexibility to capture different perspectives and shape their visual stories. In the masterclass, Kolder uses the X500 Pro Max to demonstrate how camera settings, framing, and editing choices contribute to a finished film.</p><p>The collaboration reflects vivo's user-oriented approach to innovation and its mission to create value through technology. Through practical filmmaking education, vivo helps creators learn to use its imaging tools and develop their own approach to visual storytelling.</p><p>\"We believe smartphones should be a first choice for creative expression, not a second-best option for professional filmmaking. Together with Sam Kolder, we want to challenge that perception and give more creators the freedom to tell their stories,\" said Yu Meng, Vice President and Head of Imaging at vivo. \"By combining the imaging capabilities of the vivo X500 Series with practical filmmaking education through Kolder Creative, we aim to help creators focus less on the complexity of their equipment and more on the people and moments they want to capture.\"</p><p><b>A Filmmaker's Perspective, Shared Step by Step</b></p><p>Known for cinematic travel and adventure films defined by distinctive transitions and immersive storytelling, Sam Kolder shares the techniques and thinking behind his work through Kolder Creative. The platform offers learners a closer look at his filmmaking process, connecting technical instruction with practical creative experience.</p><p>The masterclass extends Kolder's collaboration with vivo following \"The Garden Route\", a cinematic short film shot entirely on vivo X300 Ultra. Through practical instruction, he shares the creative decisions behind his filmmaking, helping aspiring creators understand how individual shots come together to tell a cohesive story.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1300\"><p><img src=\"https://mmx.prnewswire.com/media/MS2021634/20261027065718EDT_image_3.jpg?id=OA3041736\" title=\"Sam Kolder explores smartphone cinematic filmmaking with vivo\" alt=\"Sam Kolder explores smartphone cinematic filmmaking with vivo\"></img></p></div><p>Across one introductory video and nine lessons, Kolder guides learners through creating a vertical Reel, a short-form social media video. The course covers native camera controls, composition, footage selection, editing, sound design, color grading, and export. Each stage builds on the same project, showing how individual techniques contribute to the finished film.</p><p>\"The technology has finally caught up in the world of film. A phone now does what used to take a bag of gear,\" said Sam Kolder. \"This course is an inside look at how I turn mobile footage into a cinematic film, start to finish, so people can see every decision along the way.\"</p><p><b>Building a Reel with Intention</b></p><p>Using vivo's native camera app, Kolder explains how technical choices support the story he wants to tell. He demonstrates Log recording for greater flexibility in color grading, shows how frame rate and shutter settings affect the appearance of movement, and explains how neutral-density (ND) filters help control exposure. Practical comparisons show the effect of each choice and when creators might use it.</p><p>Kolder also explores the composition within the vertical 9:16 frame. Using examples from the project, he shows how close-ups, medium shots, and wider views add variety and form complete sequences. He starts with a broad story direction while remaining open to unexpected moments during filming and new possibilities during editing.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder9655\"><p><img src=\"https://mmx.prnewswire.com/media/MS2021635/20261027065718EDT_image_4.jpg?id=OA3041733\" title=\"A side-by-side comparison in the Kolder Creative masterclass illustrates how color grading transforms Log footage\" alt=\"A side-by-side comparison in the Kolder Creative masterclass illustrates how color grading transforms Log footage\"></img></p></div><p>In DaVinci Resolve, a video-editing and color-grading application, learners see how he organizes and selects footage and builds a narrative around voiceover and music. Matching movement between shots creates fluid connections, while sound design adds atmosphere and presence. Color grading follows an approachable workflow using look-up tables (LUTs) and adjustment nodes that allow shots to be refined.</p><p>To support hands-on learning, the course includes the Reel's final soundtrack and offers a 50% discount to Filmkid LUTs, which Kolder uses in his grading demonstrations, and a 50% discount to LUTs by Bryn North, a fellow filmmaker and Kolder collaborator. Together with guidance on exporting vertical social video, the masterclass gives learners a complete workflow in which they can apply to their own stories.</p><p><b>Cinematic Tools Built Around the Creative Process</b></p><p>vivo X500 Pro Max brings together imaging capabilities that support the creative principles explored throughout the masterclass. Its 200 MP ZEISS APO Telephoto Camera gives creators tighter framing options, complementing the course's emphasis on capturing varied shot sizes and building complete sequences from different perspectives.</p><p>For creators working with color in post-production, Cinematic Pro Log Video on the ZEISS TrueDynamic Main Camera provides a flexible foundation. A dedicated Log curve, specifically tuned to the camera's 17 EV ultra-high dynamic range, preserves rich highlight and shadow detail and subtle tonal gradation, giving creators greater scope to shape the final image through the LUT-and-node workflow demonstrated in the course. DaVinci Resolve natively supports vivo Log and vivo Wide Gamut, enabling a more seamless integration into professional color-grading workflows and refine color, contrast, and tonal expression in post-production.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder7623\"><p><img src=\"https://mmx.prnewswire.com/media/MS2021628/20261027065718EDT_image_2.jpg?id=OA3041734\" title=\"The vivo X500 Series combines ZEISS imaging technology with cinematic video capabilities\" alt=\"The vivo X500 Series combines ZEISS imaging technology with cinematic video capabilities\"></img></p></div><p>Multi-Focal 4K 120 fps recording and the main camera's native 4K 240 fps recording expand the possibilities for capturing movement and creating slow-motion footage. A 7800 mAh BlueVolt Battery and 90W FlashCharge support the demands of filming on location, helping creators stay ready as scenes unfold and conditions change.</p><p>Through the masterclass, vivo and Kolder Creative show how a smartphone can serve as the primary camera for a complete filmmaking project. By explaining the technical process and creative decisions behind a finished Reel, the collaboration helps learners approach their own projects with greater intention and confidence.</p><p>The ten-video vivo x Kolder Creative smartphone filmmaking masterclass is available from <span id=\"spanHghlte3ea\">November 9, 2026</span> via <a href=\"https://www.koldercreative.com/\" target=\"_blank\" rel=\"nofollow\">https://www.koldercreative.com/</a>.<span id=\"spanHghlta32d\">  </span></p><p><b>About vivo</b></p><p>vivo is a technology company that creates great products based on a user-oriented value, with smart devices and intelligent services as its core. The company aims to build a bridge between humans and the digital world. Through unique creativity, vivo provides users with an increasingly convenient mobile and digital life. Following the company's core values, which include Benfen*, user-orientation, design-driven value, continuous learning and team spirit, vivo has implemented a sustainable development strategy with the vision of developing into a healthier, more sustainable world-class corporation.</p><p>While bringing together and developing the best local talents to deliver excellence, vivo is supported by a network of R&amp;D centers in Shenzhen, Dongguan, Nanjing, Beijing, Hangzhou, Shanghai, Xi'an and more cities, focusing on the development of state-of-the-art consumer technologies, including 5G, artificial intelligence, industrial design, imaging system and other up-and-coming technologies. vivo has also set up an intelligent manufacturing network (including those authorized by vivo), with an annual production capacity of nearly 200 million smartphones. As of now, vivo has branched out its sales network across more than 60 countries and regions, and is loved by nearly 600 million users worldwide.</p><p>*\"Benfen\" is a term describing the attitude on doing the right things and doing things right – which is the ideal description of vivo's mission to create value for society.</p><p>Stay informed of latest vivo news at <a href=\"https://www.vivo.com/en/about-vivo/news\" target=\"_blank\" rel=\"nofollow\">https://www.vivo.com/en/about-vivo/news</a>  </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN82012&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/vivo-x-kolder-creative-new-smartphone-filmmaking-masterclass-featuring-vivo-x500-pro-max-302920893.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/vivo-x-kolder-creative-new-smartphone-filmmaking-masterclass-featuring-vivo-x500-pro-max-302920893.html</a></p><p>SOURCE vivo</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN82012&amp;Transmission_Id=202610271130PR_NEWS_USPR_____CN82012&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "vivo",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 1
+        },
+        "reasons": {
+          "entertainment": [
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "tradeshow": [
+            "summary:expo"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:04.882Z"
+    },
+    {
+      "company": [
+        "Fox News Network, LLC"
+      ],
+      "date": "20261027T152000+0000",
+      "dateline": "NEW YORK, Oct. 27, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TVN",
+        "FLM",
+        "PUB",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "FOX Nation",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1648247/Fox-News-Network-Logo.jpg?id=OA3042253&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1648247/Fox-News-Network-Logo.jpg?id=OA3042253&p=publish"
+        }
+      ],
+      "release_id": "20261027NY82229",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>Three-Part Historical Docudrama</i></b> <b><i>Premieres for Thanksgiving 2026</i></b> </p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- FOX Nation has partnered with Academy Award winner and <i>Landman </i>star Billy Bob Thornton for the new original three-part docudrama event <i>Billy Bob Thornton Presents: The Mayflower, </i>premiering November 23, 2026, announced Lauren Petterson, president of FOX Nation. Hosted by Thornton, the series revisits one of America's most enduring origin stories, revealing the complex history of the Mayflower voyage, the First Thanksgiving and the events that forever shaped our nation. A first look from episode one is available <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807654-1&amp;h=3989133488&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT-Dm6_uKgdc%26feature%3Dyoutu.be&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>. </p>\n    ",
+      "ticker": [],
+      "title": "FOX NATION PARTNERS WITH ACADEMY AWARD WINNER AND \"LANDMAN\" STAR BILLY BOB THORNTON FOR NEW ORIGINAL DOCUDRAMA \"BILLY BOB THORNTON PRESENTS: THE MAYFLOWER\"",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027NY82229",
+      "body": "\n<p class=\"prntac\"><b><i>Three-Part Historical Docudrama</i></b> <b><i>Premieres for Thanksgiving 2026</i></b> </p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- FOX Nation has partnered with Academy Award winner and <i>Landman </i>star Billy Bob Thornton for the new original three-part docudrama event <i>Billy Bob Thornton Presents: The Mayflower, </i>premiering November 23, 2026, announced Lauren Petterson, president of FOX Nation. Hosted by Thornton, the series revisits one of America's most enduring origin stories, revealing the complex history of the Mayflower voyage, the First Thanksgiving and the events that forever shaped our nation. A first look from episode one is available <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807654-1&amp;h=3989133488&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT-Dm6_uKgdc%26feature%3Dyoutu.be&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>. </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1648247/Fox-News-Network-Logo.jpg?id=OA3042253\" title=\"FOX Nation\" alt=\"FOX Nation\"></img>\n                </p>\n    </div>\n<p>In making the announcement, Petterson said, \"Billy Bob Thornton is a captivating storyteller with a unique ability to bring history to life. <i>The Mayflower</i> offers a fresh and thought-provoking perspective on one of the most familiar chapters in American history, giving viewers a richer understanding of the people, conflicts and events that shaped our nation's beginnings.\" </p><p>Spanning three episodes, <i>Billy Bob Thornton Presents: The Mayflower </i>traces the Pilgrims' perilous Atlantic crossing aboard the Mayflower, the fragile alliance forged between the English settlers and the Wampanoag people, and the devastating conflict that ultimately transformed Britain's colonies into the earliest foundations of an American identity. </p><p>Academy Award-winning writer, actor, director and musician Billy Bob Thornton has an extensive and impressive career in motion pictures, television, and theater. Charismatic and uniquely talented, Thornton has established himself as one of the most sought-after filmmakers and actors of his generation. Currently celebrating a high-water mark in his career, Thornton is starring in the hit Paramount+ series \"Landman,\" for which he received Critics' Choice Award and Golden Globe Award nominations for Best Actor in a Television Drama. His recent projects have also included the Amazon series <i>Goliath</i>, for which his performance received rave reviews and garnered him a Golden Globe Award for Best Actor in a Television Drama; the critically acclaimed FX Network limited television series <i>Fargo</i>, for which he received Golden Globe and Broadcast Television Critics Awards for Best Actor in a miniseries or Movie, and Emmy and SAG Award nominations in the same category. He garnered a Golden Globe nomination for Best Actor in a Musical or Comedy for his role in the critically acclaimed box-office hit \"Bad Santa,\" and received rave reviews for his portrayal of legendary frontiersman Davy Crockett in Touchstone Pictures' \"The Alamo.\" Showing the versatility of his acting abilities, Thornton starred in the caper comedy \"Bandits\"; the film noir \"The Man Who Wasn't There\"; and the drama \"Monster's Ball.\" Each of the three performances garnered Thornton unprecedented critical acclaim and resulted in him being named Best Actor of 2001 by the National Board of Review, Golden Globe nominations for Best Actor in a Drama for \"The Man Who Wasn't There\" and Best Actor in a Musical or Comedy for \"Bandits,\" and an American Film Institute Award nomination for Best Actor for \"The Man Who Wasn't There.\"  Thornton's release of the critically acclaimed feature film \"Sling Blade,\" which he starred in and directed from an original script he wrote, firmly secured his status as a preeminent filmmaker. For his efforts, he was honored with both an Academy Award for Best Adapted Screenplay and an Academy Award nomination for Best Actor. In addition, Thornton received an Academy Award nomination and Golden Globe nomination for Best Supporting Actor for his celebrated work in the drama \"A Simple Plan,\" as well as a Best Supporting Actor award from the Los Angeles Film Critics Association and a Best Supporting Actor nomination from the Screen Actors Guild.  He also co-starred in the blockbuster action-adventure film Armageddon. Thornton will next be seen starring in the highly anticipated dramatic feature film \"Somedays.\"</p><p>In developing the series, the team consulted a range of historical resources and experts, including historians at Plimoth Patuxet Museums, where portions of the series were filmed, as well as acclaimed historian Nathaniel Philbrick, author of the Pulitzer Prize finalist <i>Mayflower: A Story of Courage, Community, and War</i>. Praising the project's effort to introduce this pivotal chapter of American history to a new audience, Philbrick said, \"The voyage of the Mayflower set into motion what would become the United States. Kudos to Billy Bob Thornton for helping to bring this vital story from America's past to life.\"</p><p>The series is produced by AIRtime Projects and Terminal B TV with executive producers Billy Bob Thornton, Geyer Kosinski, Tom Forman, David Metzler, Jordan Rosenblum and showrunner and executive producer John Ealer.  </p><p>FOX Nation is a direct-to-consumer on-demand streaming service designed to complement the FOX News Channel experience with a members-only destination for its most passionate and loyal super fans. Featuring more than 10,000 hours of content, the subscription service includes lifestyle and entertainment content, as well as historical documentaries and investigative series from a multitude of FOX News personalities. Morning Consult named FOX Nation as one of the top 10 fastest-growing brands in 2023 among Gen Z adults, with the platform placing in the top 15 overall. Launched in 2018, FOX Nation is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807654-1&amp;h=1638577067&amp;u=https%3A%2F%2Furldefense.com%2Fv3%2F__http%3A%2Ffoxnation.com__%3B!!PxibshUo2Yr_Ta5B!13TikgbgX3Be0W0VuY-W4nLC-5XkXprfJoWFsxLUmhHkeW2QXaPh134v9DodyPN6tA3Hq2UzQq6yPaYLmznLFeYo5yw%24&amp;a=foxnation.com\" target=\"_blank\" rel=\"nofollow\">foxnation.com</a> and via app for iOS devices, Android devices, FOX One, Prime Video, Fire TV, Apple TV, Google TV, Android TV, Roku, Xbox One, FuboTV, Vizio TVs, and Samsung TVs, as well as DIRECTV, DIRECTV STREAM, YouTube TV, Comcast Xfinity, Cox Contour, The Roku Channel, DISH and SLING.</p><p class=\"prntac\"><span>###</span></p><p><b>FOX Nation Media</b> <b>Contact:</b><br></br>Alexandra Coscia: 212.301.3272 or <a href=\"mailto:Alexandra.Coscia@FOX.com\" target=\"_blank\" rel=\"nofollow\">Alexandra.Coscia@FOX.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY82229&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fox-nation-partners-with-academy-award-winner-and-landman-star-billy-bob-thornton-for-new-original-docudrama-billy-bob-thornton-presents-the-mayflower-302920927.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fox-nation-partners-with-academy-award-winner-and-landman-star-billy-bob-thornton-for-new-original-docudrama-billy-bob-thornton-presents-the-mayflower-302920927.html</a></p><p>SOURCE Fox News Network, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY82229&amp;Transmission_Id=202610271120PR_NEWS_USPR_____NY82229&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Fox News Network, LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "television"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "television"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 1,
+          "radio": 0,
+          "television": 7,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "management": [
+            "summary:president"
+          ],
+          "television": [
+            "fox news",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.081Z"
+    },
+    {
+      "company": [
+        "Regal"
+      ],
+      "date": "20261027T151900+0000",
+      "dateline": "KNOXVILLE, Tenn., Oct. 27, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "TNS",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Regal Global Entertainment",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1843598/Regal-Global-Entertainment-2026.jpg?id=OA3042041&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1843598/Regal-Global-Entertainment-2026.jpg?id=OA3042041&p=publish"
+        }
+      ],
+      "release_id": "20261027CL82124",
+      "status": "PUBLISHED",
+      "subject": [
+        "FNC"
+      ],
+      "summary": "<p class=\"prntac\"><i>Margin reduced by 50 basis points to SOFR + 400, delivering </i><i>approximately $9.3 million in annual cash interest savings</i></p><p><span class=\"legendSpanClass\">KNOXVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Regal Global Entertainment (\"Regal\" or the \"Company\"), the second largest theatrical exhibition business in the world, today announced the successful repricing of its $1.9 billion term loan facility.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1843598/Regal-Global-Entertainment-2026.jpg?id=OA3042041\" title=\"Regal Global Entertainment\" alt=\"Regal Global Entertainment\"></img>\n                </p>\n    </div>\n<p>The transaction lowers the interest rate margin by 50 basis points, from SOFR plus 450 basis points to SOFR plus 400 basis points and is expected to generate approximately $9.3 million in annual interest savings. The maturity date and all other material terms remain substantially unchanged. The transaction was strongly supported by lenders.</p>",
+      "ticker": [],
+      "title": "Regal Global Entertainment Completes Term Loan Repricing Following Moody's Upgrade",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027CL82124",
+      "body": "\n<p class=\"prntac\"><i>Margin reduced by 50 basis points to SOFR + 400, delivering </i><i>approximately $9.3 million in annual cash interest savings</i></p><p><span class=\"legendSpanClass\">KNOXVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Regal Global Entertainment (\"Regal\" or the \"Company\"), the second largest theatrical exhibition business in the world, today announced the successful repricing of its $1.9 billion term loan facility.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1843598/Regal-Global-Entertainment-2026.jpg?id=OA3042041\" title=\"Regal Global Entertainment\" alt=\"Regal Global Entertainment\"></img>\n                </p>\n    </div>\n<p>The transaction lowers the interest rate margin by 50 basis points, from SOFR plus 450 basis points to SOFR plus 400 basis points and is expected to generate approximately $9.3 million in annual interest savings. The maturity date and all other material terms remain substantially unchanged. The transaction was strongly supported by lenders.</p><p>Over the past three years, Regal has reduced the margin on its term loan by a cumulative 450 basis points, generating approximately $80 million in annualized interest savings.</p><p>The repricing follows Moody's Ratings' recent upgrade of Regal's Corporate Family Rating to B2 from B3, with a positive outlook. Together, the upgrade and strong lender demand reflect growing recognition across the credit markets of Regal's improving financial profile.</p><p>\"Moody's upgrade with a positive outlook, followed by a well-supported repricing, is clear external validation of the progress we've made,\" said Thomas Song, Chief Financial Officer of Regal Global Entertainment. \"Our business is seeing strong consumer demand, and the credit markets are recognizing it.\"</p><p>\"Since emergence, we have taken 450 basis points out of our borrowing costs, and every dollar we save on interest is a dollar we can reinvest at high returns in our theatres, our premium formats and our guests. We will keep managing our capital structure with discipline as we build long-term value for all our stakeholders,\" said Song.</p><p><b>About Regal Global Entertainment<br></br></b>Regal Global Entertainment operates the second largest theatrical exhibition business in the world with 7,637 screens across 628 locations. Through its Cinema City, Cineworld, Picturehouse, Planet, and Regal brands, the company is committed to delivering exceptional moviegoing experiences through premium large formats, innovative loyalty and subscription programs, enhanced food and beverage offerings, and outstanding guest service.</p><p><b>Investor Relations &amp; Media Contact<br></br></b>Manuela Van Dessel<br></br>SVP &amp; Group Treasurer at Regal Global Entertainment</p><p>Kevan Kerr<br></br>Senior Communications Manager at Regal<br></br>(865) 925-9539</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL82124&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/regal-global-entertainment-completes-term-loan-repricing-following-moodys-upgrade-302920923.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/regal-global-entertainment-completes-term-loan-repricing-following-moodys-upgrade-302920923.html</a></p><p>SOURCE Regal</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL82124&amp;Transmission_Id=202610271119PR_NEWS_USPR_____CL82124&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Regal",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.198Z"
+    },
+    {
+      "company": [
+        "Classet"
+      ],
+      "date": "20261027T143700+0000",
+      "dateline": "NEW YORK, Oct. 27, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "WRK",
+        "CPR",
+        "AFI",
+        "SMD",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Reelist Logo, Automated Social Sourcing Platform",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2020930/Reelist.jpg?id=OA3039893&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2020930/Reelist.jpg?id=OA3039893&p=publish"
+        },
+        {
+          "caption": "Classet Logo, Recruiting Automation Platform",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021691/Classet-logo.jpg?id=OA3041889&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021691/Classet-logo.jpg?id=OA3041889&p=publish"
+        }
+      ],
+      "release_id": "20261027CG82097",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p><b>Employers reach qualified frontline candidates where they already spend their time, and candidates go from a social post to a phone interview in minutes.</b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Classet, the AI phone screener for high-volume hiring, and Reelist, the automated social sourcing platform, today announced a partnership that connects employers with frontline candidates on social media and interviews them within minutes of applying. Together, the two companies give employers a reliable source of qualified, interviewed applicants. Through the integration, customers can source candidates from Instagram, Facebook, and TikTok with one click via Reelist, directly from the Classet platform. Candidates apply in a few taps without ever leaving the app they're scrolling, and Joy, Classet's AI recruiter, calls them within minutes for a structured phone interview.</p>\n    ",
+      "ticker": [],
+      "title": "Classet and Reelist Partner to Turn Social Media into Qualified, Ready-to-Work Frontline and Skilled-Trades Hires",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027CG82097",
+      "body": "\n<p><b>Employers reach qualified frontline candidates where they already spend their time, and candidates go from a social post to a phone interview in minutes.</b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Classet, the AI phone screener for high-volume hiring, and Reelist, the automated social sourcing platform, today announced a partnership that connects employers with frontline candidates on social media and interviews them within minutes of applying. Together, the two companies give employers a reliable source of qualified, interviewed applicants. Through the integration, customers can source candidates from Instagram, Facebook, and TikTok with one click via Reelist, directly from the Classet platform. Candidates apply in a few taps without ever leaving the app they're scrolling, and Joy, Classet's AI recruiter, calls them within minutes for a structured phone interview.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2020930/Reelist.jpg?id=OA3039893\" title=\"Reelist Logo, Automated Social Sourcing Platform\" alt=\"Reelist Logo, Automated Social Sourcing Platform\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlighta461\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Candidates go from a social post to an AI phone interview in minutes, with no job board in between.</div><p><b>For employers: Eliminate wasteful job-board spend and hours chasing candidates for interviews.</b></p><p>Teams hiring frontline, skilled trades, and healthcare workers spend most of their recruiting budget on job boards, often with little to show for it. The best workers are usually already employed and not searching job boards, but more than 80% of working adults spend time on social media every day. With Reelist and Classet, employers meet those candidates where they are and have them screened before a recruiter spends a minute on them. Recruiters start the day with candidates who meet their must-have criteria and are ready to schedule.</p><p>Reelist customers see up to 3x higher retention and 30% lower cost per hire from social applicants compared with job-board applicants.</p><p>And with Classet, employers saw 12% more offers, 18% more starts, and 17% higher retention because Joy surfaces qualified candidates to recruiting teams within minutes.</p><p><b>For candidates: from social post to interview in minutes</b></p><p>Candidates see a job in the feed they already scroll and apply without leaving the app. Instead of waiting days for a callback, they get a phone interview within minutes, day or night, and can ask their own questions about pay, schedule, and the role. They know quickly whether the job is a good fit, and so does the employer. Candidates like it: in <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807520-1&amp;h=3855653808&amp;u=https%3A%2F%2Fwww.classet.ai%2Fland%2Fcandidate-experience&amp;a=Classet%27s+study+of+10%2C167+post-interview+ratings\" target=\"_blank\" rel=\"nofollow\">Classet's study of 10,167 post-interview ratings</a>, 88% rated their AI phone interview positively.</p><p><b>How it works</b></p><ol type=\"1\"><li><b>Launch from Classet.</b> A recruiter selects the jobs to fill, and with one click, Reelist starts sourcing candidates on social media automatically.</li><li><b>Apply on social media.</b> Candidates see the employer's job in their TikTok, Instagram, or Facebook feed and apply in a few taps.</li><li><b>Interviewed within minutes.</b> Joy calls applicants as soon as they apply, runs the employer's custom phone interview in 25+ languages, answers questions, and flags who meets the must-have criteria. A human makes every hiring decision.</li><li><b>One pipeline.</b> Qualified applicants flow into Classet or into the customer's ATS, with a summary, transcript, and recording for each interview.</li></ol><p><b>From Classet</b></p><p>\"Our customers are tired of paying job boards for applicants who never hear back,\" said Nick Jones, COO and Co-Founder of Classet. \"Reelist reaches great candidates where they already are, and Joy interviews them immediately, day or night. Candidates find out fast whether the job is right for them, and recruiters start their morning with people who are qualified and ready to work.\"</p><p><b>From Reelist</b></p><p>\"For years, job boards were the only option for frontline hiring. Not anymore,\" said Katy Schuck, COO of Reelist. \"Employers can recruit qualified workers on social media as easily as posting a job, get every applicant interviewed within minutes, and finally take control of their own hiring.\"</p><p><b>Availability</b></p><p>The Reelist integration is available now to Classet customers in the platform.</p><p><b>About Reelist</b></p><p>Reelist is the automated social sourcing platform for frontline hiring, from nurses and skilled trades to restaurant general managers. Instead of relying on job board traffic, Reelist puts employers' open roles in front of local candidates on Instagram, Facebook, and TikTok, where they already spend their time. Candidates apply in a few taps, and qualified applicants flow directly into the employer's applicant tracking system, ready for a recruiter to call. Reelist integrates with more than 65 applicant tracking systems and has reached over 10 million job seekers on social media. The company is headquartered in Norfolk, Virginia. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807520-1&amp;h=3411706669&amp;u=http%3A%2F%2Freelist.com%2F&amp;a=reelist.com\" target=\"_blank\" rel=\"nofollow\">reelist.com</a>.</p><p><b>About Classet</b></p><p>Classet is the AI recruiting solution for teams hiring hourly, skilled-trades, and frontline workers. Joy, Classet's AI recruiter, calls applicants within moments of applying, day or night, runs a structured phone interview in 25+ languages, and delivers a summary, transcript, and recording for every candidate. Classet Hiring Hub then handles the repetitive work of an ATS, including stage moves, follow-ups, and scheduling, on its own. Joy has interviewed hundreds of thousands of applicants for 500+ hiring teams and connects to 100+ applicant tracking systems. Founded by the team that hired more than one million W2 hourly workers at Bluecrew, Classet is headquartered in Chicago. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807520-1&amp;h=3619034778&amp;u=https%3A%2F%2Fwww.classet.ai%2F&amp;a=classet.ai\" target=\"_blank\" rel=\"nofollow\">classet.ai</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021691/Classet-logo.jpg?id=OA3041889\" title=\"Classet Logo, Recruiting Automation Platform\" alt=\"Classet Logo, Recruiting Automation Platform\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG82097&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/classet-and-reelist-partner-to-turn-social-media-into-qualified-ready-to-work-frontline-and-skilled-trades-hires-302920869.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/classet-and-reelist-partner-to-turn-social-media-into-qualified-ready-to-work-frontline-and-skilled-trades-hires-302920869.html</a></p><p>SOURCE Classet</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG82097&amp;Transmission_Id=202610271037PR_NEWS_USPR_____CG82097&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Classet",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 6,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "social media",
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.302Z"
+    },
+    {
+      "company": [
+        "Thunderly Marketing"
+      ],
+      "date": "20261027T140000+0000",
+      "dateline": "DALLAS, Oct. 27, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "RAD",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Thunderly",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS682910/Thunderly-Logo.jpg?id=OA3039514&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS682910/Thunderly-Logo.jpg?id=OA3039514&p=publish"
+        }
+      ],
+      "release_id": "20261027DA81052",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD"
+      ],
+      "summary": "<p class=\"prntac\"><i>Episode with PESO Model® creator Gini Dietrich recognized</i></p><p class=\"prntac\"><i>Signal Awards honor the risk takers shaping podcasting</i></p><p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- \"Franchise Freaks,\" the podcast from<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806486-1&amp;h=2653205502&amp;u=https%3A%2F%2Fwww.thunderlymarketing.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806486-1&amp;h=690875935&amp;u=https%3A%2F%2Fwww.thunderlymarketing.com%2F&amp;a=Thunderly\" target=\"_blank\" rel=\"nofollow\">Thunderly</a>, a full-service franchise marketing agency, has been awarded Bronze in the Business People &amp; Entrepreneurs Shaping Culture category within the Shows division of the 5th Annual Signal Awards. Recognizing podcasts that push creative boundaries, challenge traditional formats and find innovative ways to connect with listeners, the award honors Franchise Freaks Season 2, Episode 22 installment, \"PESO: Paid Earned Shared and Owned Media with Gini Dietrich.\"</p>\n    ",
+      "ticker": [],
+      "title": "Thunderly's \"Franchise Freaks\" Podcast Wins Bronze for Business People &amp; Entrepreneurs Shaping Culture at the 5th Annual Signal Awards",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027DA81052",
+      "body": "\n<p class=\"prntac\"><i>Episode with PESO Model® creator Gini Dietrich recognized</i></p><p class=\"prntac\"><i>Signal Awards honor the risk takers shaping podcasting</i></p><p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- \"Franchise Freaks,\" the podcast from<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806486-1&amp;h=2653205502&amp;u=https%3A%2F%2Fwww.thunderlymarketing.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806486-1&amp;h=690875935&amp;u=https%3A%2F%2Fwww.thunderlymarketing.com%2F&amp;a=Thunderly\" target=\"_blank\" rel=\"nofollow\">Thunderly</a>, a full-service franchise marketing agency, has been awarded Bronze in the Business People &amp; Entrepreneurs Shaping Culture category within the Shows division of the 5th Annual Signal Awards. Recognizing podcasts that push creative boundaries, challenge traditional formats and find innovative ways to connect with listeners, the award honors Franchise Freaks Season 2, Episode 22 installment, \"PESO: Paid Earned Shared and Owned Media with Gini Dietrich.\"</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS682910/Thunderly-Logo.jpg?id=OA3039514\" title=\"Thunderly\" alt=\"Thunderly\"></img>\n                </p>\n    </div>\n<p>Released in June 2025, the 15-minute episode features Gini Dietrich, founder and CEO of Spin Sucks and creator of the PESO Model®, discussing how paid, earned, shared and owned media work together to create a unified communications strategy. The conversation explores practical ways to implement the model and its future, with the first half airing on the Social Geek podcast and the second on \"Franchise Freaks.\"</p><p>\"Franchise Freaks started as a nickname inside our team, and a podcast about franchise marketing is not an obvious bet. The risk was that nobody outside our industry would care,\" said Jack Monson, Chief Growth Officer of Thunderly, who hosts the podcast. \"As the podcast has continued to gather more attention, we kept making it because franchising has some of the best entrepreneurial stories in business. Being recognized by a Judging Academy full of the people who shape this medium means a great deal to everyone who has worked on it.\"</p><p>Winners are selected by The Signal Awards Judging Academy, a collective made up of the architects, instigators and trailblazers of the medium.</p><p>\"Podcasting is no longer defined by a single format, platform or approach to storytelling, and this year's submissions make that evolution impossible to ignore,\" said Jemma Brown, GM of The Signal Awards. \"Charts and download counts can only tell us what's popular. At Signal, our role is to notice the creative risks that are quietly changing what everyone else makes next. This year's Winners offer a first look at podcasting's next chapter.\"</p><p>Each year, The Signal Awards present Gold, Silver and Bronze honors, and the listening public votes for their favorite Finalists to receive the Listener's Choice Award in each category. In 2026, Listener's Choice voting drew more than 260,000 votes from 94,000 listeners.</p><p>\"We tell franchise brands that owned media like a podcast does double duty. It builds a relationship with listeners, and it creates expert content that earned and search channels can pick up,\" said Scott White, CEO of Thunderly. \"Having an episode about the PESO Model® recognized this way shows we practice what we preach.\"</p><p>To listen to the episode, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806486-1&amp;h=1472835933&amp;u=https%3A%2F%2Ffranchisefreaks.fireside.fm%2F22&amp;a=franchisefreaks.fireside.fm%2F22\" target=\"_blank\" rel=\"nofollow\">franchisefreaks.fireside.fm/22</a>. Franchise Freaks is also available on Spotify and Amazon Music.</p><p>More information about Thunderly and its proprietary AIM Model© is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806486-1&amp;h=141582411&amp;u=https%3A%2F%2Fwww.thunderlymarketing.com%2F&amp;a=www.thunderlymarketing.com\" target=\"_blank\" rel=\"nofollow\">www.thunderlymarketing.com</a>.</p><p><b>About The Signal Awards</b></p><p>The Signal Awards recognizes the podcasts that define culture. The awards body is mission-focused on uplifting the podcast medium by recognizing the most potent, meaningful and unprecedented audio projects being made today as decided by The Signal Awards Judging Academy.</p><p><b>About Thunderly</b></p><p>Recently named to the Inc. 5000 list of fastest-growing private companies for the second year in a row and annually included in Entrepreneur magazine's listing of Top Franchise Marketing Agencies, Thunderly is a full-service franchise marketing agency built to amplify and grow franchises and other dynamic brands. Throughout its history, Thunderly has helped franchisors award more than 15,000 franchises.</p><p>Founded in 1999, Thunderly brings decades of expertise in franchise development under one roof, including lead generation, website design, video production, public relations, social media, thought leadership, influencer campaigns, digital advertising, graphic design, crisis communication, personal branding, podcast production and more.</p><p>Known for its proprietary AIM Model© (Amplified Integrated Marketing), Thunderly enables brands to align every aspect of marketing communications into a cohesive, structured strategy designed to maximize visibility in a zero-click world across both traditional and AI-powered platforms.</p><p>More information is available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806486-1&amp;h=141582411&amp;u=https%3A%2F%2Fwww.thunderlymarketing.com%2F&amp;a=www.thunderlymarketing.com\" target=\"_blank\" rel=\"nofollow\">www.thunderlymarketing.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA81052&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/thunderlys-franchise-freaks-podcast-wins-bronze-for-business-people--entrepreneurs-shaping-culture-at-the-5th-annual-signal-awards-302920565.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/thunderlys-franchise-freaks-podcast-wins-bronze-for-business-people--entrepreneurs-shaping-culture-at-the-5th-annual-signal-awards-302920565.html</a></p><p>SOURCE Thunderly Marketing</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA81052&amp;Transmission_Id=202610271000PR_NEWS_USPR_____DA81052&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Thunderly Marketing",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 6,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 6,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing agency",
+            "marketing",
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "podcast",
+            "summary:podcasts",
+            "summary:podcasting",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.416Z"
+    },
+    {
+      "company": [
+        "Evolve Media LLC"
+      ],
+      "date": "20261027T131500+0000",
+      "dateline": "BEVERLY HILLS, Calif., Oct. 27, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MLM",
+        "ADV",
+        "ENT",
+        "PUB",
+        "SMD",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261027LA78625",
+      "status": "PUBLISHED",
+      "subject": [
+        "TNM",
+        "CHI"
+      ],
+      "summary": "<p>The acquisition brings highly engaged social communities and trusted editorial brands under Evolve Media.</p><p><span class=\"legendSpanClass\">BEVERLY HILLS, Calif.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Evolve Media has acquired CafeMom, LittleThings and MamásLatinas, expanding its presence in parenting and lifestyle media.</p>\n<div id=\"divReleaseHighlight81d9\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Evolve Media acquires CafeMom, LittleThings and MamásLatinas, expanding its portfolio of trusted editorial brands.</div><p>The brands add trusted editorial destinations and over 40 million combined social media followers. The acquisition creates opportunities to connect with audiences through publications, social media and creator-led content.</p>",
+      "ticker": [
+        "OTCMKTS:BMTM"
+      ],
+      "title": "Evolve Media Acquires CafeMom, LittleThings and MamásLatinas, Expanding Its Parenting and Family Portfolio",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027LA78625",
+      "body": "\n<p>The acquisition brings highly engaged social communities and trusted editorial brands under Evolve Media.</p><p><span class=\"legendSpanClass\">BEVERLY HILLS, Calif.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Evolve Media has acquired CafeMom, LittleThings and MamásLatinas, expanding its presence in parenting and lifestyle media.</p>\n<div id=\"divReleaseHighlight81d9\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Evolve Media acquires CafeMom, LittleThings and MamásLatinas, expanding its portfolio of trusted editorial brands.</div><p>The brands add trusted editorial destinations and over 40 million combined social media followers. The acquisition creates opportunities to connect with audiences through publications, social media and creator-led content.</p><p>\"CafeMom, LittleThings and MamásLatinas are iconic digital media properties we've admired for years. Each has built a strong relationship with its audience. Together, they deepen Evolve's connection with moms and families,\" said Aaron Broder, founder and CEO of Evolve Media. \"We're excited to build on that trust with Evolve's broader media capabilities, creating more ways for marketers to connect with these audiences through content and communities they care about.\"</p><p>Each brand brings a distinct voice and audience to Evolve's portfolio:</p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804067-1&amp;h=356067662&amp;u=https%3A%2F%2Fcafemom.com%2F&amp;a=CafeMom\" target=\"_blank\" rel=\"nofollow\">CafeMom</a> provides parents with relatable perspectives, useful information, entertainment and community throughout every stage of motherhood.</li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804067-1&amp;h=3852379224&amp;u=https%3A%2F%2Fmamaslatinas.com%2F&amp;a=Mam%C3%A1sLatinas\" target=\"_blank\" rel=\"nofollow\">MamásLatinas</a> delivers culturally relevant parenting, lifestyle and entertainment content for bilingual and bicultural Latina mothers and families.</li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804067-1&amp;h=3370794604&amp;u=https%3A%2F%2Flittlethings.com%2F&amp;a=LittleThings\" target=\"_blank\" rel=\"nofollow\">LittleThings</a> shares uplifting lifestyle and human-interest stories designed to inform, inspire and bring people together.</li></ul><p>The acquisition advances Evolve's Publisher+ approach, building on established publishing brands and extending their content across social media, video, podcasts and creator partnerships.</p><p>CafeMom, LittleThings and MamásLatinas join TotallyKidz and pet brands DogTime and CatTime, helping Evolve connect with families across the moments that shape their lives.</p><p>The three brands previously belonged to Wild Sky Media, a digital media company owned by Bright Mountain Technologies. Bright Mountain sold them to Evolve as it shifted its strategic focus to its audience intelligence platform.</p><p>\"Evolve has been a valued partner to Bright Mountain, collaborating to offer advertising opportunities that reach and engage family audiences. We're glad to see CafeMom, LittleThings and MamásLatinas joining a team we know well,\" said Matthew Drinkwater, CEO of Bright Mountain.</p><p>Evolve plans to build on the strengths of CafeMom, LittleThings and MamásLatinas through added editorial investment while preserving each brand's distinct voice and relationship with its audience.</p><p>About Evolve Media</p><p>Evolve Media is a digital media company connecting brands with audiences through publishing, original content, social media, video, podcasts, gaming and creator-led campaigns. Founded in 1999, Evolve has a portfolio spanning entertainment, sports, lifestyle and family media, including TotallyKidz, its kids and parenting offering.</p><p>Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804067-1&amp;h=206673139&amp;u=http%3A%2F%2Fwww.evolvemediallc.com%2F&amp;a=www.evolvemediallc.com\" target=\"_blank\" rel=\"nofollow\">www.evolvemediallc.com</a> or follow <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804067-1&amp;h=3264068890&amp;u=https%3A%2F%2Flinkedin.com%2Fcompany%2Fevolve-media-llc&amp;a=Evolve+Media+on+LinkedIn\" target=\"_blank\" rel=\"nofollow\">Evolve Media on LinkedIn</a>.</p><p>About Bright Mountain Technologies</p><p>Bright Mountain Technologies (OTCMKTS: BMTM) develops decision intelligence products for the marketing ecosystem, with audience intelligence as the currency that connects research, creative, and media. It is the parent company of Big Village, Deep Focus, and Bright Mountain Media.</p><p>Together, these companies inform Brightstream, the company's AI-native audience intelligence platform. Brightstream connects Big Village's research-based audience insights directly to creative and media, so the audience a brand reaches is the one it intended to reach. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4804067-1&amp;h=23756603&amp;u=https%3A%2F%2Fbrightmountain.ai%2F&amp;a=brightmountain.ai\" target=\"_blank\" rel=\"nofollow\">brightmountain.ai</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA78625&amp;sd=2026-10-27\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/evolve-media-acquires-cafemom-littlethings-and-mamaslatinas-expanding-its-parenting-and-family-portfolio-302917210.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/evolve-media-acquires-cafemom-littlethings-and-mamaslatinas-expanding-its-parenting-and-family-portfolio-302917210.html</a></p><p>SOURCE Evolve Media LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA78625&amp;Transmission_Id=202610270915PR_NEWS_USPR_____LA78625&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Evolve Media LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 2,
+          "digital": 7,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "summary:social media",
+            "industry:MLM",
+            "industry:PUB",
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.540Z"
+    },
+    {
+      "company": [
+        "THE 33RD CHINA INTERNATIONAL ADVERTISING FESTIVAL"
+      ],
+      "date": "20261027T130900+0000",
+      "dateline": "BEIJING, Oct. 27, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CHN",
+        "ASA"
+      ],
+      "industry": [
+        "ADV",
+        "ITE",
+        "TLS"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261027CN82072",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS"
+      ],
+      "summary": "<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- The 33rd China International Advertising Festival, co-hosted by the China Advertising Association (CAA) and the People's Government of Haidian District, Beijing, was held in Haidian from October 23 to 25.</p>\n<p class=\"prntal\">Centered on the theme \"Empowered by Digital Intelligence, Fueling Global Collaboration,\" the festival featured a packed agenda including five flagship events, eighteen industry forums, two advertising entry collection and exhibition showcases, three specialized exhibitions, four resource promotion &amp; launch events, and five supporting activities. It included international forums that built platforms for global exchange, alongside signature events facilitating resource alignment and cross-sector collaboration.</p>",
+      "ticker": [],
+      "title": "Empowered by Digital Intelligence, Fueling Global Collaboration -- The 33rd China International Advertising Festival Convened in Haidian, Beijing",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027CN82072",
+      "body": "\n<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- The 33rd China International Advertising Festival, co-hosted by the China Advertising Association (CAA) and the People's Government of Haidian District, Beijing, was held in Haidian from October 23 to 25.</p>\n<p class=\"prntal\">Centered on the theme \"Empowered by Digital Intelligence, Fueling Global Collaboration,\" the festival featured a packed agenda including five flagship events, eighteen industry forums, two advertising entry collection and exhibition showcases, three specialized exhibitions, four resource promotion &amp; launch events, and five supporting activities. It included international forums that built platforms for global exchange, alongside signature events facilitating resource alignment and cross-sector collaboration.</p><p class=\"prntal\">Zhang Guohua, President of CAA and Global Vice President of the International Advertising Association (IAA), stated at the opening ceremony that openness and cooperation have always been the hallmark of China's advertising industry, and that the festival was shifting its international resource engagement from one-on-one matchmaking toward ecosystem building. This year's gathering brought advertising professionals from twenty-seven countries to Haidian.</p><p class=\"prntal\">Fredrik Borestrom, World President &amp; Chair of IAA and Director of International Agency Development at LinkedIn, noted in his opening address that China is vital to the IAA. As one of the world's largest and most dynamic advertising markets, China brings talent, insights and leadership that are shaping the global advertising industry.</p><p class=\"prntal\">As the core zone of the Beijing-Tianjin-Hebei International Science and Technology Innovation Center, Haidian District boasts abundant creative, tech and digital industry resources, creating ample room for integrated innovation within the advertising sector. Rooted in Haidian, the festival drove deep integration between global advertising demands and local scientific and technological strengths. It acted both as a testbed for digital intelligence innovation in advertising and a high-level platform for Haidian to grow its digital cultural industries and lift its global profile.</p><p class=\"prntal\">The 33rd China International Advertising Festival served as an important window for creative exchanges between Chinese and global advertising professionals. Rooted in Haidian and linked to the world, the event pushed for deeper international collaboration for China's advertising sector, carving out new pathways for open and win-win development amid the wave of digital intelligence innovation.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN82072&amp;sd=2026-10-27\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/empowered-by-digital-intelligence-fueling-global-collaboration--the-33rd-china-international-advertising-festival-convened-in-haidian-beijing-302920784.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/empowered-by-digital-intelligence-fueling-global-collaboration--the-33rd-china-international-advertising-festival-convened-in-haidian-beijing-302920784.html</a></p><p>SOURCE THE 33RD CHINA INTERNATIONAL ADVERTISING FESTIVAL</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN82072&amp;Transmission_Id=202610270909PR_NEWS_USPR_____CN82072&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "THE 33RD CHINA INTERNATIONAL ADVERTISING FESTIVAL",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.619Z"
+    },
+    {
+      "company": [
+        "Carhartt"
+      ],
+      "date": "20261027T130000+0000",
+      "dateline": "DEARBORN, Mich., Oct. 27, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "MCH",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "EDU",
+        "CPR",
+        "MCT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Steel Apple Award honorees are educators whose impact extends far beyond the classroom - they're launching careers, building confidence, and shaping the future of the skilled trades.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021276/CARHARTT-Steel-Apple-Award-Image.jpg?id=OA3040656&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021276/CARHARTT-Steel-Apple-Award-Image.jpg?id=OA3040656&p=publish"
+        },
+        {
+          "caption": "Steel Apple honoree Paul Frye with William Hardy, SVP of Supply Chain at Carhartt, and Moore Tech students.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021275/CARHARTT-Steel-Apple-honoree-photo.jpg?id=OA3040655&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021275/CARHARTT-Steel-Apple-honoree-photo.jpg?id=OA3040655&p=publish"
+        },
+        {
+          "caption": "Steel Apple honoree Aaron Swett with Todd Corley, Chief People & Impact Officer at Carhartt, Stephanie Watts, Director of Philanthropy at NCCER, and his Oakland Schools Technical Northeast students and administration.",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021277/CARHARTT-Steel-Apple-honoree-photo.jpg?id=OA3040657&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021277/CARHARTT-Steel-Apple-honoree-photo.jpg?id=OA3040657&p=publish"
+        },
+        {
+          "caption": "Henry Ford College's Kris Young recognized for the Steel Apple Award by Carhartt CEO Linda Hubbard.",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021281/CARHARTT-Linda-Hubbard-photo.jpg?id=OA3040662&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021281/CARHARTT-Linda-Hubbard-photo.jpg?id=OA3040662&p=publish"
+        },
+        {
+          "caption": "Kora Huffman received a Steel Apple award for bringing carpentry and advanced manufacturing to life at Kelly Walsh High School through hands-on projects that connect classroom learning to real-world opportunities.",
+          "seq": "5",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021287/CARHARTT-Kora-Huffman-received-a-Steel-Apple-award.jpg?id=OA3040675&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021287/CARHARTT-Kora-Huffman-received-a-Steel-Apple-award.jpg?id=OA3040675&p=publish"
+        },
+        {
+          "caption": "Logo",
+          "seq": "6",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1980746/Carhartt-Logo-Transparent.jpg?id=OA3040645&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1980746/Carhartt-Logo-Transparent.jpg?id=OA3040645&p=publish"
+        }
+      ],
+      "release_id": "20261027DE81714",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD",
+        "NPT",
+        "CSR"
+      ],
+      "summary": "<p class=\"prntac\"><i>Workwear brand awards classroom grants and Carhartt gear to educators preparing the next generation of skilled trades workers</i></p><p><b>Key takeaways:</b></p><ul type=\"disc\"><li>Carhartt honored eight skilled trades educators with its second annual Steel Apple Awards, recognizing high school and higher education instructors preparing the next generation for careers in the skilled trades.</li><li>Each Steel Apple Award honoree received a classroom grant and Carhartt surprised the teachers and their students with new gear during celebrations at the schools.</li><li>Carhartt worked with the National Center for Construction Education and Research (NCCER) to identify honorees in construction, welding and advanced manufacturing, and teamed up with TechForce Foundation through its Ford partnership to recognize automotive technology educators.</li><li>The awards come as new research from the Alliance for America's Skilled Trades, of which Carhartt is a founding member, finds that training programs are preparing just 55 skilled trades workers for every 100 needed.</li></ul>",
+      "ticker": [],
+      "title": "CARHARTT HONORS EIGHT SKILLED TRADES EDUCATORS WITH ANNUAL \"STEEL APPLE\" AWARDS",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027DE81714",
+      "body": "\n<p class=\"prntac\"><i>Workwear brand awards classroom grants and Carhartt gear to educators preparing the next generation of skilled trades workers</i></p><p><b>Key takeaways:</b></p><ul type=\"disc\"><li>Carhartt honored eight skilled trades educators with its second annual Steel Apple Awards, recognizing high school and higher education instructors preparing the next generation for careers in the skilled trades.</li><li>Each Steel Apple Award honoree received a classroom grant and Carhartt surprised the teachers and their students with new gear during celebrations at the schools.</li><li>Carhartt worked with the National Center for Construction Education and Research (NCCER) to identify honorees in construction, welding and advanced manufacturing, and teamed up with TechForce Foundation through its Ford partnership to recognize automotive technology educators.</li><li>The awards come as new research from the Alliance for America's Skilled Trades, of which Carhartt is a founding member, finds that training programs are preparing just 55 skilled trades workers for every 100 needed.</li></ul><p><span class=\"legendSpanClass\">DEARBORN, Mich.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- A great teacher can change the course of a student's life, and for many young people entering the skilled trades, that starts in the shop, garage or classroom. Today, Carhartt announced the eight recipients of its second annual Steel Apple Awards, recognizing outstanding educators from across the country who are helping students build rewarding careers in the skilled trades.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021276/CARHARTT-Steel-Apple-Award-Image.jpg?id=OA3040656\" title=\"Steel Apple Award honorees are educators whose impact extends far beyond the classroom - they're launching careers, building confidence, and shaping the future of the skilled trades.\" alt=\"Steel Apple Award honorees are educators whose impact extends far beyond the classroom - they're launching careers, building confidence, and shaping the future of the skilled trades.\"></img>\n                </p>\n    </div>\n<p>Through these awards, Carhartt is investing directly in the classroom. Each Steel Apple honoree received a $10,000 grant to fund and expand their trade education program. To celebrate their achievements, Carhartt surprised the winning educators at their schools with special classroom celebrations and provided the honorees and their students with new Carhartt gear.</p><p>The recognition comes at a critical time for America's skilled trades workforce. New research from the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=3848359919&amp;u=https%3A%2F%2Fskilledtradesreport.com%2F&amp;a=Alliance+for+America%27s+Skilled+Trades\" target=\"_blank\" rel=\"nofollow\">Alliance for America's Skilled Trades</a> found that for every 100 skilled trades workers needed, training programs are currently preparing just 55. And while young people are increasingly interested in these careers, they do not always have clear guidance on how to pursue them: nearly nine in 10 high school counselors recommend a four-year degree, compared with just over half who recommend trade school and only one in four who recommend a trade apprenticeship.</p><p>\"Young people are interested in the skilled trades, but interest only becomes opportunity when someone helps show them the way,\" said Todd Corley, Chief People &amp; Impact Officer at Carhartt. \"That's what these amazing teachers do every day. They give students hands-on experience, help them build confidence and show them what a future in the trades can look like. Through the Steel Apple Awards, we're proud to recognize these teachers and give them more resources to keep doing what they do best – preparing the next generation of hardworking people for meaningful careers in the skilled trades.\"</p><p><b>Meet the 2026 Carhartt Steel Apple Award Honorees</b><br></br>Carhartt worked with its longtime skilled trades partners, the National Center for Construction Education and Research (NCCER) to identify four standout educators in the fields of construction, welding and advanced manufacturing.</p><ul type=\"disc\"><li>Kora Huffman, Carpentry &amp; Advanced Manufacturing Instructor, Kelly Walsh High School (Casper, WY)</li><li>Michael Manuel, Construction Teacher, David H. Ponitz Career Technology Center (Dayton, OH)</li><li>Joshua O'Neal, CTE Welding Instructor, Hemet Unified School District (Hemet, CA)</li><li>Aaron Swett, Construction Technology Instructor, Oakland Schools Technical Center Northeast (Pontiac, MI)</li></ul><p>\"Great instructors change the trajectory of a student's life,\" said Boyd Worsham, President &amp; CEO at NCCER. \"They give young people the skills, confidence and encouragement to see what's possible and build rewarding futures in construction. NCCER is proud to partner with Carhartt to celebrate these outstanding educators and support the important work happening in their classrooms every day.\"</p><p>New this year, Carhartt partnered with TechForce Foundation through its partnership with Ford, to identify and recognize four outstanding auto technology teachers with Steel Apple Awards.</p><ul type=\"disc\"><li>Bobby Cooper, Automotive Technology Instructor, Tennessee College of Applied Technology - Knoxville (Knoxville, TN)</li><li>Mike Coughlin, Associate Professor of Automotive Technology, State University of New York Erie Community College (Orchard Park, NY)</li><li>Paul Frye, Director, Automotive Technology Program, William R. Moore College of Technology (Memphis, TN)</li><li>Kristopher Young, Automotive Technology Instructor, Henry Ford College (Dearborn, MI)</li></ul><p>\"Behind every successful technician is someone who believed in their potential and helped them find their path,\" said Jennifer Maher, CEO, TechForce Foundation. \"Instructors are often that person. They do so much more than teach technical skills. They build confidence, open doors and help students see a future they may not have imagined for themselves. We're proud to partner with Carhartt to recognize these educators and invest in the next generation of skilled technicians.\"</p><p>\"As educators, there's nothing more rewarding than seeing students gain confidence in their abilities and discover a career path they're passionate about,\" said Kristopher Young, a Steel Apple recipient from Henry Ford College. \"This grant will have a direct impact on our students by helping us invest in the tools, equipment and learning experiences they will encounter in the real workplace. We're incredibly thankful for the support from Carhartt and the lasting impact this grant will have on our students for years to come.\"</p><p><b>Carhartt's Commitment to the Skilled Trades<br></br></b>For more than 137 years, Carhartt has served the people who build, fix, grow and make the world around us. Today, the company is investing in the people, programs and organizations helping the next generation pursue careers in the skilled trades.</p><p>That commitment includes the Steel Apple Awards and the \"For the Love of Labor\" grant program – Carhartt's ongoing initiative to support local organizations working to close the skilled trades gap in their communities. Carhartt is proud to announce a $150,000 \"For the Love of Labor\" grant to NCCER to help introduce Career and Technical Education (CTE) programs to high schools through NCCER's High School Builder Program. Additionally, Carhartt awarded $160,000 to TechForce Foundation in September to help aspiring automotive technicians access scholarships, training resources and career support. To date, the \"For the Love of Labor\" program has awarded 29 grants totaling nearly $3.7 million since the program's launch in 2022.</p><p>Carhartt is also a founding member of the Alliance for America's Skilled Trades, a coalition working to expand access to skilled trades training, strengthen career pathways and scale workforce development approaches that are working across the country. The Alliance's inaugural <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=1616804385&amp;u=https%3A%2F%2Fskilledtradesreport.com%2F&amp;a=State+of+America%27s+Skilled+Trades\" target=\"_blank\" rel=\"nofollow\"><i>State of America's Skilled Trades</i></a> report, developed with Jobs for the Future and the Burning Glass Institute, found that the U.S. needs to fill approximately 1.7 million skilled trades job openings through 2035. The research points to career exposure, mentoring and practical support as opportunities to help more people successfully enter and complete skilled trades training.</p><p><b>WATCH THIS </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=1619526137&amp;u=https%3A%2F%2Fyoutu.be%2FJJVfoZgsaKU&amp;a=VIDEO\" target=\"_blank\" rel=\"nofollow\"><b>VIDEO</b></a> to learn more about Carhartt's Steel Apple Awards and meet the educators helping build the future of the skilled trades. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=3784219545&amp;u=https%3A%2F%2Fsteelapple.carhartt.com%2F&amp;a=steelapple.carhartt.com\" target=\"_blank\" rel=\"nofollow\">steelapple.carhartt.com</a>.</p><p><b>About</b> <b>Carhartt</b><br></br>Established in 1889, Carhartt is a global premium workwear brand with a rich heritage of developing durable products for workers on and off the job. Headquartered in Dearborn, Michigan, with approximately 3,000 employees worldwide, Carhartt is family-owned and managed by the descendants of the company's founder, Hamilton Carhartt. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=2365129469&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4489634-1%26h%3D898095678%26u%3Dhttps%253A%252F%252Fwww.carhartt.com%26a%3Dwww.carhartt.com&amp;a=www.carhartt.com\" target=\"_blank\" rel=\"nofollow\">www.carhartt.com</a>.</p><p><b>About NCCER<br></br></b>The National Center for Construction Education and Research (NCCER) is an independent 501(c)(3) nonprofit education foundation and the leading provider of construction education for industry and career and technical education programs. With flexible workforce development and learning solutions, NCCER's programs provide consistency and quality to ensure craft professionals and learners receive industry-recognized credentials and certifications. To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=3766031926&amp;u=https%3A%2F%2Fwww.nccer.org%2F&amp;a=www.nccer.org.\" target=\"_blank\" rel=\"nofollow\">www.nccer.org.</a></p><p><b>About TechForce Foundation</b><br></br>TechForce Foundation is a national not-for-profit 501(c)(3) transforming how students pursue skilled technician careers. Through its modern workforce development platform, TechForce guides more than 100,000 students and working technicians along their career journey, connecting them to more than $6.5 million in annual scholarships, wraparound support, apprenticeships, and employment opportunities. Operating in all 50 states and U.S. territories and partnering with more than 1,400 schools, TechForce champions technicians across industries, including automotive, diesel, collision repair, aviation, marine, motorcycle, HVAC, welding, and emerging technologies. As a scalable, data-driven ecosystem, TechForce connects talent to opportunity at every stage of the workforce pipeline. For more information, visit<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=2109553690&amp;u=https%3A%2F%2Ftechforce.org%2F%3Futm_source%3Ddigital%26utm_medium%3Dgeneral_marketing%26utm_campaign%3Dpress_release%26utm_content%3Dlink&amp;a=%C2%A0techforce.org\" target=\"_blank\" rel=\"nofollow\"> techforce.org</a>. Follow us on<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=2757166405&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40techforcefoundation&amp;a=%C2%A0TikTok\" target=\"_blank\" rel=\"nofollow\"> TikTok</a><u>,</u><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=1720080467&amp;u=https%3A%2F%2Fwww.facebook.com%2FTechForceFoundation&amp;a=%C2%A0Facebook\" target=\"_blank\" rel=\"nofollow\"> Facebook</a><u>,</u><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=2209752647&amp;u=https%3A%2F%2Fwww.instagram.com%2Ftechforcefoundation%2F&amp;a=%C2%A0Instagram\" target=\"_blank\" rel=\"nofollow\"> Instagram</a><u>,</u><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=752710649&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Ftechforcefoundation%2F&amp;a=%C2%A0Linkedin\" target=\"_blank\" rel=\"nofollow\"> Linkedin</a> and<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807147-1&amp;h=3716846757&amp;u=https%3A%2F%2Fwww.youtube.com%2F%40TechForceFoundation&amp;a=%C2%A0YouTube\" target=\"_blank\" rel=\"nofollow\"> YouTube</a><u>.</u></p><p><b>For Carhartt:</b><br></br>Alex DiFilippo<br></br>Carhartt, Inc.<br></br><a href=\"mailto:adifilippo@carhartt.com\" target=\"_blank\" rel=\"nofollow\"><b>adifilippo@carhartt.com</b></a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021275/CARHARTT-Steel-Apple-honoree-photo.jpg?id=OA3040655\" title=\"Steel Apple honoree Paul Frye with William Hardy, SVP of Supply Chain at Carhartt, and Moore Tech students.\" alt=\"Steel Apple honoree Paul Frye with William Hardy, SVP of Supply Chain at Carhartt, and Moore Tech students.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021277/CARHARTT-Steel-Apple-honoree-photo.jpg?id=OA3040657\" title=\"Steel Apple honoree Aaron Swett with Todd Corley, Chief People &amp; Impact Officer at Carhartt, Stephanie Watts, Director of Philanthropy at NCCER, and his Oakland Schools Technical Northeast students and administration.\" alt=\"Steel Apple honoree Aaron Swett with Todd Corley, Chief People &amp; Impact Officer at Carhartt, Stephanie Watts, Director of Philanthropy at NCCER, and his Oakland Schools Technical Northeast students and administration.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021281/CARHARTT-Linda-Hubbard-photo.jpg?id=OA3040662\" title=\"Henry Ford College's Kris Young recognized for the Steel Apple Award by Carhartt CEO Linda Hubbard.\" alt=\"Henry Ford College's Kris Young recognized for the Steel Apple Award by Carhartt CEO Linda Hubbard.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021287/CARHARTT-Kora-Huffman-received-a-Steel-Apple-award.jpg?id=OA3040675\" title=\"Kora Huffman received a Steel Apple award for bringing carpentry and advanced manufacturing to life at Kelly Walsh High School through hands-on projects that connect classroom learning to real-world opportunities.\" alt=\"Kora Huffman received a Steel Apple award for bringing carpentry and advanced manufacturing to life at Kelly Walsh High School through hands-on projects that connect classroom learning to real-world opportunities.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1980746/Carhartt-Logo-Transparent.jpg?id=OA3040645\" title=\"Logo\" alt=\"Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE81714&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/carhartt-honors-eight-skilled-trades-educators-with-annual-steel-apple-awards-302920087.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/carhartt-honors-eight-skilled-trades-educators-with-annual-steel-apple-awards-302920087.html</a></p><p>SOURCE CARHARTT</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE81714&amp;Transmission_Id=202610270900PR_NEWS_USPR_____DE81714&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "CARHARTT",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.725Z"
+    },
+    {
+      "company": [
+        "Bluefish AI"
+      ],
+      "date": "20261027T130000+0000",
+      "dateline": "NEW YORK, Oct. 27, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Bluefish logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1704387/BluefishLogo-Black-Logo.jpg?id=OA3039951&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1704387/BluefishLogo-Black-Logo.jpg?id=OA3039951&p=publish"
+        }
+      ],
+      "release_id": "20261027NY81290",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>New capabilities link paid and organic AI performance across Bluefish agentic marketing suite.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Bluefish, the Agentic Marketing Platform (AMP) for Fortune 500 brands, today announced its expansion into paid media. These new capabilities bring organic and paid AI marketing together across the platform's four core pillars: AI Monitoring, AI Optimization, AI Orchestration, and AI Measurement. The launch marks a significant evolution of the Bluefish AMP, extending its foundation in organic Answer Engine Optimization (AEO) to help enterprises move toward orchestrating every lever that shapes their brand's performance in AI.</p>\n    ",
+      "ticker": [],
+      "title": "Bluefish Expands Agentic Marketing Platform Into Paid Media to Unite the AI Marketing Funnel",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027NY81290",
+      "body": "\n<p><i>New capabilities link paid and organic AI performance across Bluefish agentic marketing suite.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Bluefish, the Agentic Marketing Platform (AMP) for Fortune 500 brands, today announced its expansion into paid media. These new capabilities bring organic and paid AI marketing together across the platform's four core pillars: AI Monitoring, AI Optimization, AI Orchestration, and AI Measurement. The launch marks a significant evolution of the Bluefish AMP, extending its foundation in organic Answer Engine Optimization (AEO) to help enterprises move toward orchestrating every lever that shapes their brand's performance in AI.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1704387/BluefishLogo-Black-Logo.jpg?id=OA3039951\" title=\"Bluefish logo\" alt=\"Bluefish logo\"></img>\n                </p>\n    </div>\n<p>The boundaries between organic visibility, paid advertising, and brand influence are converging, as AI reshapes consumer purchase decisions. In this emerging agentic funnel, effective advertising depends on understanding the context in which ads appear in AI, including which competitors are recommended and how products are positioned. Marketers need decision-grade intelligence to understand where paid investment can have the greatest impact for their target audiences.</p><p>The Bluefish AMP identifies where a brand is absent, misrepresented, or already recommended in AI-generated answers, directs paid media to those gaps and opportunities, and measures the overall impact. With Paid Media Briefs, available today as an extension of the Bluefish Optimization Suite, media teams receive platform-specific ad targeting, creative, and landing page recommendations designed to improve paid media performance across Google and ChatGPT.</p><p>The need for a unified approach is accelerating as AI advertising grows. U.S. spending on advertising adjacent to AI-powered search results is projected to reach $26.4 billion in 2026, according to EMARKETER, while ChatGPT Ads has reached approximately $1 billion in annualized revenue run rate.</p><p>Still, most paid media teams lack visibility into the organic AI context surrounding their paid placements. New Bluefish Intelligence research found across 5,810 buying topics and 3 categories, different brands lead AI-generated answers on Google and ChatGPT in 35% of cases. Advertising that is relevant on one AI platform may be poorly aligned with the answers consumers receive on another. These variations make organic AI intelligence critical to understanding where paid investment can have the greatest impact.</p><p>\"The agentic funnel doesn't distinguish between organic and paid marketing, and neither should the platforms marketers use to manage it,\" said Alex Sherman, cofounder and CEO of Bluefish. \"For decades, marketers have organized around channels, with separate teams, tools, and strategies for organic and paid media. But AI is collapsing those boundaries. We're expanding Bluefish to give enterprise marketers a unified way to orchestrate that experience end-to-end.\"</p><p><b>The Future of Agentic Ads</b></p><p>Beginning with coverage of Google and ChatGPT, Bluefish's AMP is expanding to support additional paid media levers, including sponsored publisher content, creator partnerships, user-generated content, and retail media. Through MCP and API integrations, Bluefish is also developing capabilities to bring this intelligence into existing enterprise marketing workflows.</p><p>The result is a new operating model for agentic marketing: one that connects paid and organic strategies, coordinates execution across marketing functions, and creates a more complete picture of brand performance in AI.</p><p>\"AI is fundamentally changing how marketing strategies are built and executed,\" said Jing Feng, cofounder and COO at Bluefish. \"A brand's AI signal is becoming a critical input into marketing decisions, from where to invest to which campaigns to prioritize and how to measure their impact. We're building Bluefish to make that intelligence the foundation for orchestrating enterprise marketing across every team.\"</p><p><b>About Bluefish</b><br></br>Bluefish is the Agentic Marketing Platform (AMP) for the Fortune 500. The platform helps the world's largest brands orchestrate their AI performance across major platforms like ChatGPT and Google Gemini. Brands including Adidas, American Express, eBay, Hearst, Tishman Speyer and others use Bluefish to ensure their products and services are accurately portrayed in AI-generated responses consumers see every day. Since launching in 2024, Bluefish has scaled to over 10% of the Fortune 500, with hundreds of enterprise accounts spanning 15 verticals including travel, financial services, CPG, luxury and beauty. To learn more, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806724-1&amp;h=2734945345&amp;u=https%3A%2F%2Fwww.bluefishai.com%2F&amp;a=www.bluefishai.com\" target=\"_blank\" rel=\"nofollow\">www.bluefishai.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY81290&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/bluefish-expands-agentic-marketing-platform-into-paid-media-to-unite-the-ai-marketing-funnel-302919793.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/bluefish-expands-agentic-marketing-platform-into-paid-media-to-unite-the-ai-marketing-funnel-302919793.html</a></p><p>SOURCE Bluefish AI</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY81290&amp;Transmission_Id=202610270900PR_NEWS_USPR_____NY81290&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Bluefish AI",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.837Z"
+    },
+    {
+      "company": [
+        "Block Reign, Inc."
+      ],
+      "date": "20261027T130000+0000",
+      "dateline": "OREM, Utah, Oct. 27, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "UTH",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "CPR",
+        "STW",
+        "MUS",
+        "BLN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Block Reign Logo Updated Oct 2026",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2020717/Block-Reign-Logo.jpg?id=OA3039358&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2020717/Block-Reign-Logo.jpg?id=OA3039358&p=publish"
+        }
+      ],
+      "release_id": "20261027LA80981",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "LIC"
+      ],
+      "summary": "<p><i>New protocol connects fans, artists and operators through a participation credit earned through engagement and redeemed for real-world music experiences.</i></p><p><span class=\"legendSpanClass\">OREM, Utah</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Block Reign, Inc. today announced MusIQ, a music participation network built natively on the Gnodi Blockchain. MusIQ is a digital participation credit designed to coordinate fan engagement, artist promotion and operator infrastructure within a single ecosystem. Block Reign is building the MusIQ ecosystem on Gnodi, which serves as the protocol, settlement and security layer for the network.</p>\n    ",
+      "ticker": [],
+      "title": "Block Reign Unveils MusIQ, a Music Participation Network Built Natively on the Gnodi Blockchain",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027LA80981",
+      "body": "\n<p><i>New protocol connects fans, artists and operators through a participation credit earned through engagement and redeemed for real-world music experiences.</i></p><p><span class=\"legendSpanClass\">OREM, Utah</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Block Reign, Inc. today announced MusIQ, a music participation network built natively on the Gnodi Blockchain. MusIQ is a digital participation credit designed to coordinate fan engagement, artist promotion and operator infrastructure within a single ecosystem. Block Reign is building the MusIQ ecosystem on Gnodi, which serves as the protocol, settlement and security layer for the network.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2020717/Block-Reign-Logo.jpg?id=OA3039358\" title=\"Block Reign Logo Updated Oct 2026\" alt=\"Block Reign Logo Updated Oct 2026\"></img>\n                </p>\n    </div>\n<p>Fans earn LYRIQ, a blockchain-based digital reward, by engaging with the music they love: attending events, streaming content, sharing promotions, joining fan communities, and completing campaign challenges. They may redeem it for event tickets, backstage access, digital collectibles, merchandise discounts and other exclusive experiences. Individuals will operate and host MusIQ service nodes that verify participation events and may be rewarded for their contribution to the network. Every MusIQ action is recorded as a transaction on the Gnodi blockchain, so engagement directly produces on-chain activity.</p><p>\"What excites me about MusIQ Network is, quite simply, the network rewards people for enjoying music,\" said Mary Kanagy, founding community member of the MusIQ Network ecosystem. \"Showing up, streaming, sharing and supporting artists all count, and the rewards they may earn open real doors to phenomenal experiences. As a founding member, I'm looking forward to helping build a community around this new way of enjoying MusIQ.\"</p><p><b>MusIQ at a Glance</b></p><ul type=\"disc\"><li><b>Native to Gnodi:</b> MusIQ runs as a native application on the <span>decentralized</span> Gnodi Layer 1 blockchain, not as a bridged asset or separate chain, and relies on Gnodi for execution, validation and gas processing.</li><li><b>Predictable emissions:</b> Supply is capped at 1 billion MusIQ and follows a declining issuance schedule modeled after <span>Bitcoin</span>'s halving, moving the network from early incentives toward organic, usage-based activity.</li><li><b>Three independent reward pools:</b> Issuance is permanently divided among Proof of Action (60%) for fan and artist engagement, Proof of Contribution (30%) for service node operators, and Protocol Commitment (10%) for participants who voluntarily lock the LYRIQ <span>token</span> for defined periods.</li><li><b>Campaign framework:</b> Artists, promoters, labels and communities can launch campaigns that set participation rules and redemption privileges. Campaigns cannot create or sell LYRIQ, so supply stays governed by the protocol.</li><li><b>Operator model:</b> Node operators obtain service software licenses to process participation events and submit reward transactions to Gnodi. Licenses grant software access, not <span>token</span> ownership.</li><li><b>Developer-ready:</b> MusIQ is built on the Gnodi EVM, an <span>Ethereum</span>-compatible execution environment within the Gnodi Cosmos SDK Layer 1 blockchain. Leveraging Solidity smart contracts, EVM-compatible development tools, and standard <span>wallet</span> integrations, developers can build fan applications, artist tools, and redemption services.</li></ul><p>\"MusIQ is designed so that applications can build on Gnodi with clear, enforceable rules,\" said Cory Clinton, Chief Technology Officer of Block Reign. \"Emissions, node authorization and redemptions are all handled on-chain, which gives artists and developers a dependable foundation.\" Block Reign plans to support ecosystem growth through programs for artist activation, venue and event integration, developer tools and community onboarding.</p><p>Learn more about Block Reign here:<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806413-1&amp;h=3965959439&amp;u=http%3A%2F%2Fwww.blockreign.tech%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806413-1&amp;h=296704111&amp;u=http%3A%2F%2Fwww.blockreign.tech%2F&amp;a=www.blockreign.tech\" target=\"_blank\" rel=\"nofollow\">www.blockreign.tech<br></br></a>Learn more about MusIQ Network here: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806413-1&amp;h=4227955753&amp;u=https%3A%2F%2Fmusiqnetwork.com%2F&amp;a=https%3A%2F%2Fmusiqnetwork.com%2F\" target=\"_blank\" rel=\"nofollow\">https://musiqnetwork.com/</a> </p><p><b>ABOUT BLOCK REIGN</b></p><p>Block Reign exists to innovate, empower, and connect by delivering cutting-edge technology solutions designed for the modern digital world. Specializing in SaaS products that seamlessly integrate with Web3 blockchain technology, Block Reign empowers businesses and individuals with meaningful digital tools that drive growth, efficiency, and security. Our mission is to connect people and organizations through scalable, future-ready solutions that bridge the gap between today's technology needs and tomorrow's possibilities.</p><p><b>ABOUT GNODI BLOCKCHAIN</b></p><p>The Gnodi Blockchain is a <span>decentralized</span> platform that empowers individuals to manage their digital identities and engage within an open ecosystem of applications and services. Built on Proof-of-Stake consensus, with community governance and protocol-driven rewards, Gnodi delivers a secure, scalable, and user-focused network designed for long-term growth. Digital rewards distributed through the network recognize participation and contribution; they are utility-based and not financial investment instruments and may never have any value outside of the ecosystem.</p><p><b>Disclosure:</b> MusIQ is a consumptive participation credit for earning and redeeming access, experiences, and merchandise within the music ecosystem. MusIQ credits and digital rewards are earned through participation, are not guaranteed, and carry no expectation of profit. They do not represent equity, yield, revenue share, or investment rights, are not marketed for appreciation, and may have no market value. Block Reign integrates enterprise products with the <span>decentralized</span> Gnodi Blockchain, which operates separately and is not controlled by Block Reign. This release contains forward-looking statements, is for informational purposes only, and is not an offer, solicitation, or investment, legal, or financial advice. Participation is voluntary and subject to each participant's own tax and regulatory responsibilities.</p><p><b>Media Contact</b><br></br>Email: <a href=\"mailto:pr@blockreign.tech\" target=\"_blank\" rel=\"nofollow\">pr@blockreign.tech</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA80981&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/block-reign-unveils-musiq-a-music-participation-network-built-natively-on-the-gnodi-blockchain-302920164.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/block-reign-unveils-musiq-a-music-participation-network-built-natively-on-the-gnodi-blockchain-302920164.html</a></p><p>SOURCE Block Reign, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA80981&amp;Transmission_Id=202610270900PR_NEWS_USPR_____LA80981&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Block Reign, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.930Z"
+    },
+    {
+      "company": [
+        "Risepoint, LLC"
+      ],
+      "date": "20261027T130000+0000",
+      "dateline": "DALLAS, Oct. 27, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HED",
+        "EDU"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261027PH81551",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806984-1&amp;h=1075564055&amp;u=https%3A%2F%2Frisepoint.com%2F&amp;a=Risepoint\" target=\"_blank\" rel=\"nofollow\">Risepoint</a>, a leading education technology company, today shared findings from a new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806984-1&amp;h=1947171312&amp;u=https%3A%2F%2Frisepoint.com%2Fstudent-roi%2F%23roi-study&amp;a=Ipsos+study\" target=\"_blank\" rel=\"nofollow\">Ipsos study</a> showing a strong return on investment (ROI) for graduates of Risepoint-supported degree programs. Risepoint is an education technology company that helps regional universities launch and grow high-quality programs for modern learners in nursing, teaching, business, and other high-demand sectors. </p>\n<p>Amidst the continued national conversation around the cost and value of higher education, Risepoint commissioned its fourth annual ROI study with global research leader Ipsos. Ipsos surveyed 8,565 graduates of university partners supported by Risepoint. Graduates were working either full- or part-time both before and after completing their degree program.</p>",
+      "ticker": [],
+      "title": "New Ipsos Survey Shows Risepoint-Supported Programs Continue to Deliver Strong ROI and Career Value for Learners",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027PH81551",
+      "body": "\n<p><span class=\"legendSpanClass\">DALLAS</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806984-1&amp;h=1075564055&amp;u=https%3A%2F%2Frisepoint.com%2F&amp;a=Risepoint\" target=\"_blank\" rel=\"nofollow\">Risepoint</a>, a leading education technology company, today shared findings from a new <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806984-1&amp;h=1947171312&amp;u=https%3A%2F%2Frisepoint.com%2Fstudent-roi%2F%23roi-study&amp;a=Ipsos+study\" target=\"_blank\" rel=\"nofollow\">Ipsos study</a> showing a strong return on investment (ROI) for graduates of Risepoint-supported degree programs. Risepoint is an education technology company that helps regional universities launch and grow high-quality programs for modern learners in nursing, teaching, business, and other high-demand sectors. </p>\n<p>Amidst the continued national conversation around the cost and value of higher education, Risepoint commissioned its fourth annual ROI study with global research leader Ipsos. Ipsos surveyed 8,565 graduates of university partners supported by Risepoint. Graduates were working either full- or part-time both before and after completing their degree program.</p><p>The survey found that recent graduates of Risepoint-supported programs averaged low total tuition ($22,000), significant salary increases one year after graduation (+18 percent), and a short tuition payback period of 1.8 years. The study's results continue to reflect how the Risepoint model enables universities to deliver high-value, workforce-relevant programs that strengthen student outcomes and local communities.</p><p><b>Additional key findings from the 2026 Ipsos study include:</b></p><ul type=\"disc\"><li>Graduates saw an even larger average salary increase (33 percent) three years after degree completion.<br></br><br></br></li><li>A majority (52 percent) funded their degrees without taking out any student loans.<br></br><br></br></li><li>An overwhelming majority of graduates (85 percent) agree their degree was worth the investment.<br></br><br></br></li><li>78 percent of graduates would recommend their degree program to a friend or colleague.<br></br><br></br></li><li>The ability to continue working was the top reason for choosing online over on-campus or hybrid (59 percent), and 99 percent stayed employed during their program.<br></br><br></br></li><li>89 percent agree that, because of their online degree, they were able to continue living and working in their local communities.</li></ul><p>\"As advances in AI and economic shifts fuel new questions about the future of work, modern learners need confidence that higher education will deliver practical, lasting value,\" said Fernando Bleichmar, CEO of Risepoint. \"For the fourth consecutive year, these results prove that when regional universities offer flexible, high-demand programs, graduates achieve rapid payback, build meaningful careers, and strengthen their local communities. Risepoint remains deeply committed to helping our partner institutions expand access to education that genuinely pays off.\"</p><p>\"What stands out in this research is the consistency of outcomes,\" said Chris Moessner, Executive Vice President at Ipsos. \"From career growth and earnings to community impact, graduates of Risepoint-supported programs continue to study strong satisfaction with their investment in higher education. These findings highlight the important role that accessible, career-focused education can play in helping learners achieve their professional ambitions.\"</p><p>The full Ipsos survey results can be found <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806984-1&amp;h=597707269&amp;u=https%3A%2F%2Frisepoint.com%2Fstudent-roi%2F%23roi-study&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>.</p><p><b>About Risepoint</b> </p><p>Risepoint is a global education technology company that helps regional universities launch and grow online programs for modern learners. Risepoint supports more than 100 universities and colleges across five countries, with programs concentrated in high-demand fields including nursing, healthcare, teaching, business, technology, and public service. Our suite of products and services supports the full student journey and each university's long-term goals. Together, we increase access to affordable education that delivers a strong return on investment for learners and meets employer and community needs. Learn more at risepoint.com.</p><p><b>About Ipsos</b> </p><p>Ipsos is one of the world's leading market research and opinion polling companies, operating in 90 markets and employing nearly 20,000 people. Our passionately curious research professionals, analysts and scientists have built unique multi-specialist capabilities that provide true understanding and powerful insights into the actions, opinions and motivations of citizens, consumers, patients, customers or employees. Our 75 business solutions are based on primary data from our surveys, social media monitoring, and qualitative or observational techniques. \"Game Changers\" – our tagline – summarizes our ambition to help our 5,000 clients navigate with confidence our rapidly changing world.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH81551&amp;sd=2026-10-27\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/new-ipsos-survey-shows-risepoint-supported-programs-continue-to-deliver-strong-roi-and-career-value-for-learners-302920364.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/new-ipsos-survey-shows-risepoint-supported-programs-continue-to-deliver-strong-roi-and-career-value-for-learners-302920364.html</a></p><p>SOURCE Risepoint, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH81551&amp;Transmission_Id=202610270900PR_NEWS_USPR_____PH81551&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Risepoint, LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:06.062Z"
+    },
+    {
+      "company": [
+        "Beer B Que Music Festival"
+      ],
+      "date": "20261027T125500+0000",
+      "dateline": "LAUDERHILL, Fla., Oct. 27, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "FOD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Beer B-Que Concert Line Up",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021652/Instagram_artists.jpg?id=OA3041777&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021652/Instagram_artists.jpg?id=OA3041777&p=publish"
+        }
+      ],
+      "release_id": "20261027PH82066",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Lauderhill's annual music festival to feature hip-hop, dancehall, local vendors and a new city-inspired beer from Vibes Brews</i></p><p><span class=\"legendSpanClass\">LAUDERHILL, Fla.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- The seventh annual Beer B Que Music Festival will take place Saturday, Nov. 14, 2026, to Central Broward Park &amp; Broward County Stadium, bringing together South Florida communities for a celebration of live music, food and cultural diversity.</p>\n<p>Presented by the City of Lauderhill and Blow1ENT, the festival will be headlined by rapper Rick Ross, South Florida's own Kodak Black, dancehall star Elephant Man and rapper Bossman Dlow. The lineup also includes Webbie, Bunna B, Koly P, FattSmaxx, YK Niece, Jas Ali, Hottboy Turk, Givenchy, Major Nine, Dolly Babe, Fatt Smaxk, Golden Boy, Kawap and Sir V Wood.</p>",
+      "ticker": [],
+      "title": "Beer B Que Music Festival returns for seventh year with Rick Ross, Kodak Black, Elephant Man and Bossman Dlow",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027PH82066",
+      "body": "\n<p class=\"prntac\"><i>Lauderhill's annual music festival to feature hip-hop, dancehall, local vendors and a new city-inspired beer from Vibes Brews</i></p><p><span class=\"legendSpanClass\">LAUDERHILL, Fla.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- The seventh annual Beer B Que Music Festival will take place Saturday, Nov. 14, 2026, to Central Broward Park &amp; Broward County Stadium, bringing together South Florida communities for a celebration of live music, food and cultural diversity.</p>\n<p>Presented by the City of Lauderhill and Blow1ENT, the festival will be headlined by rapper Rick Ross, South Florida's own Kodak Black, dancehall star Elephant Man and rapper Bossman Dlow. The lineup also includes Webbie, Bunna B, Koly P, FattSmaxx, YK Niece, Jas Ali, Hottboy Turk, Givenchy, Major Nine, Dolly Babe, Fatt Smaxk, Golden Boy, Kawap and Sir V Wood.</p><p><b>From a neighborhood gathering to music festival</b></p><p>The event began as a community gathering along Lauderhill's 38th Avenue and has expanded into a larger music and food festival. Its seventh annual edition continues that tradition, bringing together fans of hip-hop, dancehall and Caribbean music while providing a platform for local vendors and small businesses.</p><p>This year's festival will feature the unveiling of a beer named in honor of the city, developed in collaboration with Vibes Brews, a local brewery. The announcement highlights local entrepreneurship and adds a new element to the festival's food and beverage offerings.</p><p>Festivalgoers can also explore barbecue selections, food trucks and local vendors throughout the event. The program runs from 2 to 11 p.m.</p><p><b>Event details</b></p><p>Saturday, Nov. 14, 2026</p><p>2:00 p.m.- 11:00 p.m.<br></br>Central Broward Park &amp; Broward County Stadium</p><p>3700 NW 11th Place, Lauderhill, FL 33311</p><p>You can purchase tickets by visiting <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807489-1&amp;h=1741781093&amp;u=https%3A%2F%2Fwww.beerbquefest.com%2F&amp;a=www.+Beerbquefest.com\" target=\"_blank\" rel=\"nofollow\">www. Beerbquefest.com</a>.</p><p>For a limited time, you can purchase tickets using the discount code <b>Bvibes20.</b> </p><p>For VIP tables and seating contact: 954-648-9400</p><p><b>About </b><b>Beer B Que Music Festival</b></p><p>Beer B Que Music Festival is an annual City of Lauderhill event celebrating community, music and food. Growing from a neighborhood gathering on 38th Avenue, the festival features established and emerging performers alongside local vendors and businesses.</p><p><b>Digital Assets </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807489-1&amp;h=2870322078&amp;u=https%3A%2F%2Fcolh.app.box.com%2Fs%2Fj2s4ijsmo59vjhgw9x2xvles76485f0y%2Ffolder%2F391565142637&amp;a=Click+Here\" target=\"_blank\" rel=\"nofollow\"><b>Click Here</b></a></p><p><b>Media Contact</b></p><p>Ronnie Tomlinson | Destine Media PR</p><p>3474978874 | <a href=\"mailto:425730@email4pr.com\" rel=\"nofollow\">425730@email4pr.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH82066&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/beer-b-que-music-festival-returns-for-seventh-year-with-rick-ross-kodak-black-elephant-man-and-bossman-dlow-302920758.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/beer-b-que-music-festival-returns-for-seventh-year-with-rick-ross-kodak-black-elephant-man-and-bossman-dlow-302920758.html</a></p><p>SOURCE Beer B Que Music Festival</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH82066&amp;Transmission_Id=202610270855PR_NEWS_USPR_____PH82066&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Beer B Que Music Festival",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:06.180Z"
+    },
+    {
+      "company": [
+        "Bobit Business Media"
+      ],
+      "date": "20261027T124800+0000",
+      "dateline": "TORRANCE, Calif., Oct. 27, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "PUB",
+        "WRK",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Membership is free. Members can ask questions, exchange practical advice and learn from others who have faced the same challenges, whether they are evaluating new technology, navigating regulations, managing a team or looking for a second opinion on a business decision.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021323/MyPeer_Phone_QR.jpg?id=OA3040742&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021323/MyPeer_Phone_QR.jpg?id=OA3040742&p=publish"
+        },
+        {
+          "caption": "No Noise. Just Peers. A free community where professionals ask questions, share experience and solve problems together, without algorithm-driven feeds, AI-generated noise or sales pitches.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2021324/MyPeerSocialMediaNowAvailable.jpg?id=OA3040743&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2021324/MyPeerSocialMediaNowAvailable.jpg?id=OA3040743&p=publish"
+        }
+      ],
+      "release_id": "20261027PH82042",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT"
+      ],
+      "summary": "<p><b>No Noise. Just Peers. A free community where professionals ask questions, share experience and solve problems together, without algorithm-driven feeds, AI-generated noise or sales pitches.</b></p><p><span class=\"legendSpanClass\">TORRANCE, Calif.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Bobit Business Media, Inc. (BBM) today announced the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=2641187260&amp;u=https%3A%2F%2Fwww.mypeer.com%2F&amp;a=MyPeer\" target=\"_blank\" rel=\"nofollow\">MyPeer</a>, a free professional network where peers connect, share knowledge and solve the challenges they face every day. MyPeer is available now on the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=3270940986&amp;u=https%3A%2F%2Fwww.mypeer.com%2F&amp;a=web\" target=\"_blank\" rel=\"nofollow\">web</a>, the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=336509977&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fmypeer-professional-network%2Fid6792158958&amp;a=Apple+App+Store\" target=\"_blank\" rel=\"nofollow\">Apple App Store</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=1776382155&amp;u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mightybell.mypeer&amp;a=Google+Play\" target=\"_blank\" rel=\"nofollow\">Google Play</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021323/MyPeer_Phone_QR.jpg?id=OA3040742\" title=\"Membership is free. Members can ask questions, exchange practical advice and learn from others who have faced the same challenges, whether they are evaluating new technology, navigating regulations, managing a team or looking for a second opinion on a business decision.\" alt=\"Membership is free. Members can ask questions, exchange practical advice and learn from others who have faced the same challenges, whether they are evaluating new technology, navigating regulations, managing a team or looking for a second opinion on a business decision.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Bobit Business Media Expands Beyond Publishing with the Launch of MyPeer Professional Community Social Network",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027PH82042",
+      "body": "\n<p><b>No Noise. Just Peers. A free community where professionals ask questions, share experience and solve problems together, without algorithm-driven feeds, AI-generated noise or sales pitches.</b></p><p><span class=\"legendSpanClass\">TORRANCE, Calif.</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Bobit Business Media, Inc. (BBM) today announced the launch of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=2641187260&amp;u=https%3A%2F%2Fwww.mypeer.com%2F&amp;a=MyPeer\" target=\"_blank\" rel=\"nofollow\">MyPeer</a>, a free professional network where peers connect, share knowledge and solve the challenges they face every day. MyPeer is available now on the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=3270940986&amp;u=https%3A%2F%2Fwww.mypeer.com%2F&amp;a=web\" target=\"_blank\" rel=\"nofollow\">web</a>, the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=336509977&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fmypeer-professional-network%2Fid6792158958&amp;a=Apple+App+Store\" target=\"_blank\" rel=\"nofollow\">Apple App Store</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=1776382155&amp;u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mightybell.mypeer&amp;a=Google+Play\" target=\"_blank\" rel=\"nofollow\">Google Play</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021323/MyPeer_Phone_QR.jpg?id=OA3040742\" title=\"Membership is free. Members can ask questions, exchange practical advice and learn from others who have faced the same challenges, whether they are evaluating new technology, navigating regulations, managing a team or looking for a second opinion on a business decision.\" alt=\"Membership is free. Members can ask questions, exchange practical advice and learn from others who have faced the same challenges, whether they are evaluating new technology, navigating regulations, managing a team or looking for a second opinion on a business decision.\"></img>\n                </p>\n    </div>\n<p><b>Built for B2B, Driven by Peers</b></p><p>MyPeer is designed around a simple principle: the community belongs to its members. BBM provides the platform, sets the Community Guidelines and helps facilitate connections. The conversations, knowledge and relationships come from the professionals who take part.</p><p>Membership is free. Members can ask questions, exchange practical advice and learn from others who have faced the same challenges, whether they are evaluating new technology, navigating regulations, managing a team or looking for a second opinion on a business decision.</p><p>Regular programming gives members easy ways to take part, including daily polls, a weekly discussion starter, a weekly Give &amp; Ask thread, Member Spotlights and monthly themes such as Ask Me Anything and Wins, Fails &amp; Lessons Learned. Members also earn milestones and badges that recognize helping others, sharing knowledge and building connections.</p><p><b>Expertise Welcome, AI is Not</b></p><p>\"Our business has been built on B2B trade journalism and conversations and topics that no AI can synthesize,\" said Colin Sutherland, CEO of Bobit Business Media. \"Professionals in every industry we serve told us they want a place to talk with peers without wading through sales pitches and AI slop found on many social media sites.\"</p><p><b>Open to Associations and Industry Groups</b></p><p>At launch, MyPeer connects members with trusted industry journalism from BBM's editorial network alongside the experience of members themselves. MyPeer is also open to the associations, nonprofits, user groups and professional networks that already bring professionals together. Rather than creating another isolated network, BBM aims to give existing professional communities a shared technology foundation that helps them grow, engage their members and strengthen industry connections.</p><p><b>Join the MyPeer Community</b></p><p>Associations, nonprofits and professional organizations interested in a dedicated community space can contact Shea Green, MyPeer Community Manager at <a href=\"mailto:Community@MyPeer.com\" target=\"_blank\" rel=\"nofollow\">Community@MyPeer.com</a>.</p><p><b>About Bobit Business Media, Inc. (BBM)</b></p><p>Bobit Business Media (BBM) is a business-to-business media and marketing solutions company that helps market leaders connect, thrive and stay ahead of market trends. BBM launched its B2X division as a media approach to reaching next generations of B2B and B2B2C professionals. Through its media brands, industry events, research and digital platforms, B2X delivers insights, connections and marketing solutions that support business growth. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4807464-1&amp;h=3795903496&amp;u=https%3A%2F%2Fb2x.media%2F&amp;a=https%3A%2F%2Fb2x.media\" target=\"_blank\" rel=\"nofollow\">https://b2x.media</a>.</p><p><b>Media Contact</b></p><p>Zainub Sareea, Executive VP of Platform and Product</p><p>Bobit Business Media</p><p>(+1) 310-533-2470</p><p><a href=\"mailto:425697@email4pr.com\" target=\"_blank\" rel=\"nofollow\">425697@email4pr.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2021324/MyPeerSocialMediaNowAvailable.jpg?id=OA3040743\" title=\"No Noise. Just Peers. A free community where professionals ask questions, share experience and solve problems together, without algorithm-driven feeds, AI-generated noise or sales pitches.\" alt=\"No Noise. Just Peers. A free community where professionals ask questions, share experience and solve problems together, without algorithm-driven feeds, AI-generated noise or sales pitches.\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH82042&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/bobit-business-media-expands-beyond-publishing-with-the-launch-of-mypeer-professional-community-social-network-302920692.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/bobit-business-media-expands-beyond-publishing-with-the-launch-of-mypeer-professional-community-social-network-302920692.html</a></p><p>SOURCE Bobit Business Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH82042&amp;Transmission_Id=202610270848PR_NEWS_USPR_____PH82042&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Bobit Business Media",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:06.278Z"
+    },
     {
       "company": [
         "The Storage Center"
@@ -75,7 +1367,7 @@
         "news_score": 0,
         "excluded": false
       },
-      "imported_at": "2026-10-27T12:43:24.311Z"
+      "imported_at": "2026-10-27T22:31:06.369Z"
     },
     {
       "company": [
@@ -59321,83 +60613,6 @@
         "excluded": false
       },
       "imported_at": "2026-10-15T22:15:19.388Z"
-    },
-    {
-      "company": [
-        "Ellucian"
-      ],
-      "date": "20260729T143600+0000",
-      "dateline": "RESTON, Va., July 29, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "PRNUS"
-      ],
-      "geography": [
-        "VIR",
-        "USE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "HED",
-        "EDU"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1240849/Ellucian-v1-Logo.jpg?id=OA2800072&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1240849/Ellucian-v1-Logo.jpg?id=OA2800072&p=publish"
-        }
-      ],
-      "release_id": "20260729PH14931",
-      "status": "PUBLISHED",
-      "subject": [
-        "SVY"
-      ],
-      "summary": "<p><i>Key Highlights:</i></p><ul type=\"disc\"><li>Research from Ellucian finds governance and execution capabilities are stronger predictors of long-term system resilience than institution size or funding levels.</li><li>Nearly half of the 91 public higher education systems analyzed are already experiencing financial distress, while many others are showing signs of moving toward it.</li><li>The report provides a practical framework to help system leaders, governing boards, and policymakers identify risk earlier and strengthen institutional resilience.</li></ul>",
-      "ticker": [],
-      "title": "New Ellucian U.S. Higher Education Systems Report Identifies Key Factors Driving Risk and Resilience",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260729PH14931",
-      "body": "\n<p><i>Key Highlights:</i></p><ul type=\"disc\"><li>Research from Ellucian finds governance and execution capabilities are stronger predictors of long-term system resilience than institution size or funding levels.</li><li>Nearly half of the 91 public higher education systems analyzed are already experiencing financial distress, while many others are showing signs of moving toward it.</li><li>The report provides a practical framework to help system leaders, governing boards, and policymakers identify risk earlier and strengthen institutional resilience.</li></ul><p><span class=\"legendSpanClass\">RESTON, Va.</span>, <span class=\"legendSpanClass\">July 29, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4741602-1&amp;h=3915113867&amp;u=https%3A%2F%2Fwww.ellucian.com%2F&amp;a=Ellucian\" target=\"_blank\" rel=\"nofollow\">Ellucian</a>, the leading higher education technology solutions provider, today released a new report, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4741602-1&amp;h=1178314055&amp;u=https%3A%2F%2Fwww.ellucian.com%2Fresources%2Findustry-report%2Frisk-resiliency-in-us-university-college-systems%3Futm_medium%3Dpress_release%26utm_source%3Dellucian.com%26utm_campaign%3D20260728_na_sys_oth_system-risk-assessment-report%26utm_term%3D%26campaignid%3D701Nu00000nylKsIAI&amp;a=Risk+and+Resiliency+in+U.S.+University+and+College+Systems\" target=\"_blank\" rel=\"nofollow\"><i>Risk and Resiliency in U.S. University and College Systems</i></a>, finding that the long-term resilience of public higher education systems is shaped less by structural advantages than by their ability to translate governance into action. The report offers a practical framework to help leaders identify emerging risks earlier and strengthen resilience before financial pressures lead to structural decline.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1240849/Ellucian-v1-Logo.jpg?id=OA2800072\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>Drawing on institutional performance data, governance assessments, state policy analysis, recovery strategies and operational data, the report analyzes 91 U.S. public university and community college systems serving approximately 15 million students across nearly 1,200 institutions. Authored by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4741602-1&amp;h=952984502&amp;u=https%3A%2F%2Fwww.ellucian.com%2Fprofile%2Fdr-dan-greenstein&amp;a=Dr.+Dan+Greenstein\" target=\"_blank\" rel=\"nofollow\">Dr. Dan Greenstein</a>, Ellucian's Chief of Industry Transformation and former Chancellor of the Pennsylvania State System of Higher Education, it takes a system-level view of public higher education, examining the factors that distinguish resilient systems from those becoming increasingly vulnerable.</p><p>\"Our report reframes some of the long-held assumptions about what drives resilience in public higher education,\" said Dr. Dan Greenstein, Chief of Industry Transformation, Ellucian. \"The central finding is that true resilience is governed, not inherited. What distinguishes the systems adapting most successfully is their ability to translate governance into coordinated action through strong leadership, operational capability and institutional discipline. They are not necessarily the largest or the best funded, but they are the ones best equipped to recognize emerging risks and respond before those risks become structural.\"</p><p><b>Key Findings</b></p><p>The report identifies six overarching findings shaping the future of U.S. public higher education systems:</p><ul type=\"disc\"><li><b>Risk is unevenly distributed:</b> Of the 91 systems analyzed, 39 are already experiencing some form of distress, including 34 with simultaneous enrollment and operating margin weakness — a pattern the report identifies as most predictive of structural decline.</li></ul><ul type=\"disc\"><li><b>Governance is the strongest predictor of resilience:</b> Systems that effectively coordinate strategy, finances, operations and decision-making consistently outperform peers regardless of size or enrollment.</li></ul><ul type=\"disc\"><li><b>Capability matters more than authority:</b> Most high-risk systems already possess the authority to respond but lack the operational capacity, integrated data, and execution capabilities needed to act effectively.</li></ul><ul type=\"disc\"><li><b>Funding strategy outweighs funding levels:</b> The analysis found that long-term funding strategies including restoration of post-recession investments and funding formula design are more closely associated with resilience than current per-student funding levels alone.</li></ul><ul type=\"disc\"><li><b>Cost reductions alone cannot reverse decline:</b> While operational efficiencies buy time, the report finds that sustainable recovery depends on rebuilding enrollment demand, improving completion, and better aligning credentials with workforce needs.</li></ul><ul type=\"disc\"><li><b>Intervention sequencing matters:</b> Systems are more likely to succeed when they stabilize operations before pursuing structural transformation, and when they act before financial pressures narrow their available options.</li></ul><p><b>Turning Insight into Action</b></p><p>Rather than simply diagnosing today's challenges, <i>Risk and Resiliency in U.S. University and College Systems</i> provides a practical framework to help governing boards, system leaders, policymakers, and higher education stakeholders identify emerging risks earlier, prioritize effective interventions, and strengthen long-term institutional resilience before today's challenges become tomorrow's structural barriers.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4741602-1&amp;h=2331859385&amp;u=https%3A%2F%2Fwww.ellucian.com%2Fresources%2Findustry-report%2Frisk-resiliency-in-us-university-college-systems%3Futm_medium%3Dpress_release%26utm_source%3Dellucian.com%26utm_campaign%3D20260728_na_sys_oth_system-risk-assessment-report%26utm_term%3D%26campaignid%3D701Nu00000nylKsIAI&amp;a=Click+here\" target=\"_blank\" rel=\"nofollow\">Click here</a> to download the full report.</p><p><b>ABOUT THE RESEARCH<br></br></b><i>Risk and Resiliency in U.S. University and College Systems</i> analyzes 91 public university and community college systems representing approximately 15 million students across nearly 1,200 institutions. The report integrates institutional performance data, governance assessments, state policy analysis, financial recovery strategies, and operational information using publicly available sources, including IPEDS, audited financial statements, state budgets, statutes, board materials, and other public records. Additional details on the methodology are available in the full report.</p><p><b>WHAT IS ELLUCIAN<br></br></b>Ellucian powers innovation for higher education, partnering with approximately 3,000 customers across 50 countries, serving more than 21 million students. Ellucian's AI-powered platform, trained on the richest dataset available in higher education, drives efficiency, personalized experiences, and strengthened engagement for all students, faculty and staff. Fueled by decades of experience with a singular focus on the unique needs of learning institutions, the Ellucian platform features best-in-class SaaS capabilities and delivers insights needed now and into the future. These solutions and services span the entire student lifecycle, including data-rich tools for student recruitment, enrollment, and retention to workforce analytics, fundraising, and alumni engagement. Ellucian's innovative solutions, vast ecosystem of partners and user community of more than 45,000 provides best practices leading to greater institutional success and achieving better student outcomes.</p><p><u>Media Contacts<br></br></u>Greg Giangrande, Chief Marketing Officer<br></br><a href=\"mailto:Greg.Giangrande@Ellucian.com\" target=\"_blank\" rel=\"nofollow\">Greg.Giangrande@Ellucian.com</a></p><p>Jess Weston, Manager, Communications<br></br><a href=\"mailto:Jess.Weston@Ellucian.com\" target=\"_blank\" rel=\"nofollow\">Jess.Weston@Ellucian.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH14931&amp;sd=2026-07-29\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/new-ellucian-us-higher-education-systems-report-identifies-key-factors-driving-risk-and-resilience-302837908.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/new-ellucian-us-higher-education-systems-report-identifies-key-factors-driving-risk-and-resilience-302837908.html</a></p><p>SOURCE Ellucian</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH14931&amp;Transmission_Id=202607291036PR_NEWS_USPR_____PH14931&amp;DateId=20260729\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Ellucian",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "college"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "college"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 2,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "actor"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-10-15T22:17:02.929Z"
     }
   ]
 }

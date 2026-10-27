@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "last_successful_poll": "2026-10-27T12:43:20.748Z",
-  "last_window_start": "2026-10-27T06:32:05.181Z",
-  "releases_seen": 353,
-  "full_releases_fetched": 6,
+  "last_successful_poll": "2026-10-27T22:31:00.437Z",
+  "last_window_start": "2026-10-27T12:33:20.748Z",
+  "releases_seen": 705,
+  "full_releases_fetched": 17,
   "releases_deleted": 0,
-  "releases_rejected": 347,
+  "releases_rejected": 687,
   "releases_failed": 0,
-  "releases_retained": 680
+  "releases_retained": 694
 }

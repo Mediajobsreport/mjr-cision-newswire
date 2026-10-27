@@ -1,11 +1,164 @@
 {
-  "generated_at": "2026-10-27T12:43:20.748Z",
+  "generated_at": "2026-10-27T22:31:00.437Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 54,
+  "count": 56,
   "releases": [
+    {
+      "company": [
+        "THE 33RD CHINA INTERNATIONAL ADVERTISING FESTIVAL"
+      ],
+      "date": "20261027T130900+0000",
+      "dateline": "BEIJING, Oct. 27, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CHN",
+        "ASA"
+      ],
+      "industry": [
+        "ADV",
+        "ITE",
+        "TLS"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261027CN82072",
+      "status": "PUBLISHED",
+      "subject": [
+        "TDS"
+      ],
+      "summary": "<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- The 33rd China International Advertising Festival, co-hosted by the China Advertising Association (CAA) and the People's Government of Haidian District, Beijing, was held in Haidian from October 23 to 25.</p>\n<p class=\"prntal\">Centered on the theme \"Empowered by Digital Intelligence, Fueling Global Collaboration,\" the festival featured a packed agenda including five flagship events, eighteen industry forums, two advertising entry collection and exhibition showcases, three specialized exhibitions, four resource promotion &amp; launch events, and five supporting activities. It included international forums that built platforms for global exchange, alongside signature events facilitating resource alignment and cross-sector collaboration.</p>",
+      "ticker": [],
+      "title": "Empowered by Digital Intelligence, Fueling Global Collaboration -- The 33rd China International Advertising Festival Convened in Haidian, Beijing",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027CN82072",
+      "body": "\n<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- The 33rd China International Advertising Festival, co-hosted by the China Advertising Association (CAA) and the People's Government of Haidian District, Beijing, was held in Haidian from October 23 to 25.</p>\n<p class=\"prntal\">Centered on the theme \"Empowered by Digital Intelligence, Fueling Global Collaboration,\" the festival featured a packed agenda including five flagship events, eighteen industry forums, two advertising entry collection and exhibition showcases, three specialized exhibitions, four resource promotion &amp; launch events, and five supporting activities. It included international forums that built platforms for global exchange, alongside signature events facilitating resource alignment and cross-sector collaboration.</p><p class=\"prntal\">Zhang Guohua, President of CAA and Global Vice President of the International Advertising Association (IAA), stated at the opening ceremony that openness and cooperation have always been the hallmark of China's advertising industry, and that the festival was shifting its international resource engagement from one-on-one matchmaking toward ecosystem building. This year's gathering brought advertising professionals from twenty-seven countries to Haidian.</p><p class=\"prntal\">Fredrik Borestrom, World President &amp; Chair of IAA and Director of International Agency Development at LinkedIn, noted in his opening address that China is vital to the IAA. As one of the world's largest and most dynamic advertising markets, China brings talent, insights and leadership that are shaping the global advertising industry.</p><p class=\"prntal\">As the core zone of the Beijing-Tianjin-Hebei International Science and Technology Innovation Center, Haidian District boasts abundant creative, tech and digital industry resources, creating ample room for integrated innovation within the advertising sector. Rooted in Haidian, the festival drove deep integration between global advertising demands and local scientific and technological strengths. It acted both as a testbed for digital intelligence innovation in advertising and a high-level platform for Haidian to grow its digital cultural industries and lift its global profile.</p><p class=\"prntal\">The 33rd China International Advertising Festival served as an important window for creative exchanges between Chinese and global advertising professionals. Rooted in Haidian and linked to the world, the event pushed for deeper international collaboration for China's advertising sector, carving out new pathways for open and win-win development amid the wave of digital intelligence innovation.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN82072&amp;sd=2026-10-27\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/empowered-by-digital-intelligence-fueling-global-collaboration--the-33rd-china-international-advertising-festival-convened-in-haidian-beijing-302920784.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/empowered-by-digital-intelligence-fueling-global-collaboration--the-33rd-china-international-advertising-festival-convened-in-haidian-beijing-302920784.html</a></p><p>SOURCE THE 33RD CHINA INTERNATIONAL ADVERTISING FESTIVAL</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN82072&amp;Transmission_Id=202610270909PR_NEWS_USPR_____CN82072&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "THE 33RD CHINA INTERNATIONAL ADVERTISING FESTIVAL",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertising",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.619Z"
+    },
+    {
+      "company": [
+        "Bluefish AI"
+      ],
+      "date": "20261027T130000+0000",
+      "dateline": "NEW YORK, Oct. 27, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Bluefish logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1704387/BluefishLogo-Black-Logo.jpg?id=OA3039951&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1704387/BluefishLogo-Black-Logo.jpg?id=OA3039951&p=publish"
+        }
+      ],
+      "release_id": "20261027NY81290",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>New capabilities link paid and organic AI performance across Bluefish agentic marketing suite.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Bluefish, the Agentic Marketing Platform (AMP) for Fortune 500 brands, today announced its expansion into paid media. These new capabilities bring organic and paid AI marketing together across the platform's four core pillars: AI Monitoring, AI Optimization, AI Orchestration, and AI Measurement. The launch marks a significant evolution of the Bluefish AMP, extending its foundation in organic Answer Engine Optimization (AEO) to help enterprises move toward orchestrating every lever that shapes their brand's performance in AI.</p>\n    ",
+      "ticker": [],
+      "title": "Bluefish Expands Agentic Marketing Platform Into Paid Media to Unite the AI Marketing Funnel",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261027NY81290",
+      "body": "\n<p><i>New capabilities link paid and organic AI performance across Bluefish agentic marketing suite.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 27, 2026</span> /PRNewswire/ -- Bluefish, the Agentic Marketing Platform (AMP) for Fortune 500 brands, today announced its expansion into paid media. These new capabilities bring organic and paid AI marketing together across the platform's four core pillars: AI Monitoring, AI Optimization, AI Orchestration, and AI Measurement. The launch marks a significant evolution of the Bluefish AMP, extending its foundation in organic Answer Engine Optimization (AEO) to help enterprises move toward orchestrating every lever that shapes their brand's performance in AI.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1704387/BluefishLogo-Black-Logo.jpg?id=OA3039951\" title=\"Bluefish logo\" alt=\"Bluefish logo\"></img>\n                </p>\n    </div>\n<p>The boundaries between organic visibility, paid advertising, and brand influence are converging, as AI reshapes consumer purchase decisions. In this emerging agentic funnel, effective advertising depends on understanding the context in which ads appear in AI, including which competitors are recommended and how products are positioned. Marketers need decision-grade intelligence to understand where paid investment can have the greatest impact for their target audiences.</p><p>The Bluefish AMP identifies where a brand is absent, misrepresented, or already recommended in AI-generated answers, directs paid media to those gaps and opportunities, and measures the overall impact. With Paid Media Briefs, available today as an extension of the Bluefish Optimization Suite, media teams receive platform-specific ad targeting, creative, and landing page recommendations designed to improve paid media performance across Google and ChatGPT.</p><p>The need for a unified approach is accelerating as AI advertising grows. U.S. spending on advertising adjacent to AI-powered search results is projected to reach $26.4 billion in 2026, according to EMARKETER, while ChatGPT Ads has reached approximately $1 billion in annualized revenue run rate.</p><p>Still, most paid media teams lack visibility into the organic AI context surrounding their paid placements. New Bluefish Intelligence research found across 5,810 buying topics and 3 categories, different brands lead AI-generated answers on Google and ChatGPT in 35% of cases. Advertising that is relevant on one AI platform may be poorly aligned with the answers consumers receive on another. These variations make organic AI intelligence critical to understanding where paid investment can have the greatest impact.</p><p>\"The agentic funnel doesn't distinguish between organic and paid marketing, and neither should the platforms marketers use to manage it,\" said Alex Sherman, cofounder and CEO of Bluefish. \"For decades, marketers have organized around channels, with separate teams, tools, and strategies for organic and paid media. But AI is collapsing those boundaries. We're expanding Bluefish to give enterprise marketers a unified way to orchestrate that experience end-to-end.\"</p><p><b>The Future of Agentic Ads</b></p><p>Beginning with coverage of Google and ChatGPT, Bluefish's AMP is expanding to support additional paid media levers, including sponsored publisher content, creator partnerships, user-generated content, and retail media. Through MCP and API integrations, Bluefish is also developing capabilities to bring this intelligence into existing enterprise marketing workflows.</p><p>The result is a new operating model for agentic marketing: one that connects paid and organic strategies, coordinates execution across marketing functions, and creates a more complete picture of brand performance in AI.</p><p>\"AI is fundamentally changing how marketing strategies are built and executed,\" said Jing Feng, cofounder and COO at Bluefish. \"A brand's AI signal is becoming a critical input into marketing decisions, from where to invest to which campaigns to prioritize and how to measure their impact. We're building Bluefish to make that intelligence the foundation for orchestrating enterprise marketing across every team.\"</p><p><b>About Bluefish</b><br></br>Bluefish is the Agentic Marketing Platform (AMP) for the Fortune 500. The platform helps the world's largest brands orchestrate their AI performance across major platforms like ChatGPT and Google Gemini. Brands including Adidas, American Express, eBay, Hearst, Tishman Speyer and others use Bluefish to ensure their products and services are accurately portrayed in AI-generated responses consumers see every day. Since launching in 2024, Bluefish has scaled to over 10% of the Fortune 500, with hundreds of enterprise accounts spanning 15 verticals including travel, financial services, CPG, luxury and beauty. To learn more, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4806724-1&amp;h=2734945345&amp;u=https%3A%2F%2Fwww.bluefishai.com%2F&amp;a=www.bluefishai.com\" target=\"_blank\" rel=\"nofollow\">www.bluefishai.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY81290&amp;sd=2026-10-27\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/bluefish-expands-agentic-marketing-platform-into-paid-media-to-unite-the-ai-marketing-funnel-302919793.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/bluefish-expands-agentic-marketing-platform-into-paid-media-to-unite-the-ai-marketing-funnel-302919793.html</a></p><p>SOURCE Bluefish AI</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY81290&amp;Transmission_Id=202610270900PR_NEWS_USPR_____NY81290&amp;DateId=20261027\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Bluefish AI",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-27T22:31:05.837Z"
+    },
     {
       "company": [
         "Clear Channel Outdoor"
