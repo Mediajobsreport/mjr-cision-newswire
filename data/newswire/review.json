@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-10-28T15:07:51.675Z",
+  "generated_at": "2026-10-28T16:23:41.116Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 128,
+  "count": 129,
   "releases": [
+    {
+      "company": [
+        "Guideline"
+      ],
+      "date": "20261028T152200+0000",
+      "dateline": "NEW YORK, Oct. 28, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CAN",
+        "UNK",
+        "WEU",
+        "EUR"
+      ],
+      "industry": [
+        "ADV",
+        "AFI",
+        "CPR",
+        "MLM",
+        "RST",
+        "REA",
+        "HOU",
+        "FOD",
+        "BEV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Guideline",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1549091/Guideline-logo-Logo.jpg?id=OA3044646&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1549091/Guideline-logo-Logo.jpg?id=OA3044646&p=publish"
+        }
+      ],
+      "release_id": "20261028NY83316",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p>Expanded data coverage across programmatic direct, and retail media made available through Guideline's AI Agent and MCP Server technology</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 28, 2026</span> /PRNewswire/ -- Guideline, a global provider of ad intelligence and media plan management solutions, today announced six updates rolling out in Q4 of 2026 across two areas: agentic AI capabilities and expanded advertising data. The agentic updates bring U.S. digital pricing data to the Guideline AI Agent and Guideline Ad Intelligence MCP Server, giving clients access through Guideline's agent or their own AI tools. The data updates include a new Programmatic Direct view, retail media coverage in Canada, and market data enhancements that add Quick Serve Restaurant segments and align digital classifications across the U.S., U.K. and Canada.</p>\n    ",
+      "ticker": [],
+      "title": "Guideline Expands Ad Intelligence with Digital Pricing Data, Shedding Light on Some of the Industry's Most Complex Media Channels",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261028NY83316",
+      "body": "\n<p>Expanded data coverage across programmatic direct, and retail media made available through Guideline's AI Agent and MCP Server technology</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 28, 2026</span> /PRNewswire/ -- Guideline, a global provider of ad intelligence and media plan management solutions, today announced six updates rolling out in Q4 of 2026 across two areas: agentic AI capabilities and expanded advertising data. The agentic updates bring U.S. digital pricing data to the Guideline AI Agent and Guideline Ad Intelligence MCP Server, giving clients access through Guideline's agent or their own AI tools. The data updates include a new Programmatic Direct view, retail media coverage in Canada, and market data enhancements that add Quick Serve Restaurant segments and align digital classifications across the U.S., U.K. and Canada.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1549091/Guideline-logo-Logo.jpg?id=OA3044646\" title=\"Guideline\" alt=\"Guideline\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlightc815\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Guideline agentic updates bring U.S. digital pricing data to Guideline AI Agent and Guideline Ad Intelligence MCP Server</div><p>\"Clients want our data to fit the way they already work,\" said Steve Silvers, Chief Product Officer of Guideline. \"This quarter's enhancements do that two ways. They put our pricing data wherever clients ask questions, and they organize spend the way the market actually buys.\"</p><p><b>U.S. digital pricing, in the AI Agent or clients' own AI tools</b></p><p>Clients can now ask Guideline's AI Agent, in natural language, what digital ads cost by publisher, ad type or programmatic marketplace and see both pricing and spend in a single response. They can also build custom dashboards and use advanced charting to modify dimensions, measures, filters and custom formulas beyond standard dashboard views.</p><p>The same data and natural-language querying are available through the Guideline Ad Intelligence MCP Server, introduced in July. Teams can query data and trends from ChatGPT, Claude, Gemini, Microsoft Copilot or their own agents with no file exports, giving them workflow-native access to U.S. digital pricing.</p><p><b>Programmatic Direct: a fuller view of programmatic spend</b></p><p>Many digital buys are placed directly with publishers but run through programmatic channels, such as private marketplace and programmatic guaranteed deals. Guideline is adding a Buy Channel view that splits U.S. spend and pricing three ways: Direct, Programmatic Direct and Third-Party. Clients get a complete programmatic total, CPM benchmarks by buy channel and a view of how spend shifts between channels over time. Media owners can see their Programmatic Direct share against their competitive set, and the AI Agent can answer how a buy was placed.</p><p><b>Quick Serve Restaurants by segment</b></p><p>Quick Serve Restaurants, the second-largest U.S. product subcategory at $4.5 billion a year, now splits into Burgers, Chicken and Other Quick Serve Restaurants. Pizza Eateries &amp; Delivery remains its own separate subcategory.</p><p><b>Retail media in Canada</b></p><p>Canadian clients can now isolate retail media spend, one of the fastest-growing areas of digital advertising, on the same classification U.S. and U.K. clients use.</p><p><b>One digital classification across the U.S., U.K. and Canada</b></p><p>Digital subtype names in U.K. and Canadian data are updated to match industry standards and the U.S., covering all current and historical data. Clients who work across markets now read one scheme instead of reconciling three.</p><p><b>Availability</b></p><p>The enhancements roll out to eligible Guideline Ad Intelligence clients on the following dates. Access varies by subscription. Clients can contact their Guideline account team or visit <a href=\"http://www.guideline.ai\" rel=\"nofollow\">www.guideline.ai</a>.</p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Enhancement</b></span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Markets</b></span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Available</b></span></p></td></tr><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">U.S. digital pricing in the AI Agent and MCP Server</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">U.S.</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Oct. 30, 2026</span></p></td></tr><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Quick Serve Restaurants by segment</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">U.S.</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Nov. 16, 2026</span></p></td></tr><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Retail media in Canada</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Canada</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Nov. 20, 2026</span></p></td></tr><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Unified digital classification</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">U.K., Canada</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Nov. 20, 2026</span></p></td></tr><tr><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Programmatic Direct</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">U.S.</span></p></td><td class=\"prngen2\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Dec. 15, 2026</span></p></td></tr></table></div><p><b>About Guideline</b></p><p>Guideline is a global provider of ad intelligence and media plan management technology for the world's leading brands, agencies, media owners and investors. Its solutions help enterprises understand advertising markets, manage media plans and make more informed decisions across the buying and selling ecosystem. Guideline's media plan management solutions support more than $350 billion in annual managed media budgets across more than 60,000 active media plans and 10,000+ monthly users. Its proprietary spend and pricing data represents approximately $200 billion in annual media investment across 65 countries worldwide. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4808737-1&amp;h=2647348065&amp;u=https%3A%2F%2Fwww.guideline.ai%2F&amp;a=www.guideline.ai\" target=\"_blank\" rel=\"nofollow\">www.guideline.ai</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY83316&amp;sd=2026-10-28\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/guideline-expands-ad-intelligence-with-digital-pricing-data-shedding-light-on-some-of-the-industrys-most-complex-media-channels-302922340.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/guideline-expands-ad-intelligence-with-digital-pricing-data-shedding-light-on-some-of-the-industrys-most-complex-media-channels-302922340.html</a></p><p>SOURCE Guideline</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY83316&amp;Transmission_Id=202610281122PR_NEWS_USPR_____NY83316&amp;DateId=20261028\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Guideline",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prngen2{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: TOP; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 3,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-10-28T16:23:43.154Z"
+    },
     {
       "company": [
         "USWC Media, LLC"
