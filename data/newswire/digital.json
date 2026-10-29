@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-10-29T12:50:40.272Z",
+  "generated_at": "2026-10-29T18:52:56.025Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 15,
+  "count": 16,
   "releases": [
+    {
+      "company": [
+        "Emplifi Inc"
+      ],
+      "date": "20261029T133000+0000",
+      "dateline": "NEW YORK, Oct. 29, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "UNK",
+        "WEU",
+        "EUR"
+      ],
+      "industry": [
+        "SMD",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Emplifi",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA3047365&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA3047365&p=publish"
+        }
+      ],
+      "release_id": "20261029CL84593",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY",
+        "FVT"
+      ],
+      "summary": "<p><i>The State of Social Media Marketing 2027 report from Emplifi, based on a survey of 405 marketers, finds AI is expanding team capacity while governance, measurement, and burnout remain open challenges.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 29, 2026</span> /PRNewswire/ -- Emplifi, a leading<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=958215625&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=2936679904&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=Autonomous+CX+platform\" target=\"_blank\" rel=\"nofollow\">Autonomous CX platform</a>, today released \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=3656174061&amp;u=https%3A%2F%2Femplifi.io%2Fresources%2Fstate-of-social-media-marketing-report-2027%2F%3Futm_source%3Dbusinesswire%26utm_medium%3Dpr%26utm_campaign%3Dglobal_state_of_social_media_marketing_report_2027_fy26_q4&amp;a=The+State+of+Social+Media+Marketing+2027\" target=\"_blank\" rel=\"nofollow\">The State of Social Media Marketing 2027</a>,\" a report based on a survey of 405 marketing managers, directors, and executives across the US, UK, Australia, and New Zealand.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA3047365\" title=\"Emplifi\" alt=\"Emplifi\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Emplifi Reveals 87% of Marketers Agree AI Has Improved Productivity, but Fewer Than Half Can Confidently Prove Social Media ROI",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261029CL84593",
+      "body": "\n<p><i>The State of Social Media Marketing 2027 report from Emplifi, based on a survey of 405 marketers, finds AI is expanding team capacity while governance, measurement, and burnout remain open challenges.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 29, 2026</span> /PRNewswire/ -- Emplifi, a leading<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=958215625&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=2936679904&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=Autonomous+CX+platform\" target=\"_blank\" rel=\"nofollow\">Autonomous CX platform</a>, today released \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=3656174061&amp;u=https%3A%2F%2Femplifi.io%2Fresources%2Fstate-of-social-media-marketing-report-2027%2F%3Futm_source%3Dbusinesswire%26utm_medium%3Dpr%26utm_campaign%3Dglobal_state_of_social_media_marketing_report_2027_fy26_q4&amp;a=The+State+of+Social+Media+Marketing+2027\" target=\"_blank\" rel=\"nofollow\">The State of Social Media Marketing 2027</a>,\" a report based on a survey of 405 marketing managers, directors, and executives across the US, UK, Australia, and New Zealand.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1796080/Emplifi-Inc-Logo.jpg?id=OA3047365\" title=\"Emplifi\" alt=\"Emplifi\"></img>\n                </p>\n    </div>\n<p>The report explores top-of-mind issues for today's marketers, including AI implementations, cross-platform investments, creators and communities, social search and AI visibility, and social media's impact on business objectives. According to the report findings, 87% of marketers say AI has improved their team's productivity, yet fewer than half (48%) say their team can confidently demonstrate social media ROI to leadership with clear attribution and data.</p><p>The report also highlights findings on team capacity and burnout among marketing organizations, with more than half of respondents saying they use AI tools their company has not approved at least some of the time—up from 42% last year.</p><p>\"In 2027, the strongest social strategies will not be defined by how much content teams can produce. They will be defined by how well they turn every interaction into measurable business value and a better customer experience,\" said Claire Wilson, CMO, Emplifi.</p><p><b>Key insights from the report:</b></p><ul type=\"disc\"><li><b>AI and productivity:</b> Only 38% of marketers report a significant productivity increase from AI, so for most teams the gains are meaningful rather than transformational. Adoption is strongest in caption and copywriting (72%), ideation (70%), image generation (64%) and reporting and analytics (64%), while 60% are not yet using AI for community management.</li><li><b>AI governance:</b> 37% of organizations have a fully defined AI policy for marketing and a further 41% have partial guidelines. Brand safety and content quality is the biggest barrier to broader AI adoption (26%), ahead of lack of skills or training (19%) and integration with existing tools (16%).</li><li><b>Proving impact:</b> Reach and impressions (58%) and engagement rate are the KPIs marketers most often rank in their top three, while fewer than one in three rank social-attributed revenue among their top three KPIs. Attribution is the most commonly cited reporting obstacle.</li><li><b>Reporting time:</b> 62% of marketers spend four or more hours a week on reporting and analytics. Over the past 12 months, 69% say AI has saved their team three or more hours a week on it.</li><li><b>Social search and AI visibility:</b> 86% say optimizing social content for discovery and search is a formal priority or on their radar for the next 12 months, and 48% actively monitor how their brand appears in tools such as ChatGPT, Claude, Gemini and Perplexity. Three in four have adapted social content to improve visibility in AI-generated results, but only just over a third work from a defined strategy. For around one in five organizations, nobody owns AI visibility or no defined approach exists.</li><li><b>Influencers and platforms:</b> 53% of marketers expect their influencer budget to increase over the next 12 months. Among teams that have a budget, 64% plan to increase it, in line with last year (67%). Plans to increase collaborations with virtual or AI-generated influencers have fallen to 35% from 58%. Instagram is the top platform for planned investment, and Reddit is the only platform where the share planning to increase investment (31%) exceeds the share currently using it for marketing (28%).</li><li><b>Team capacity and burnout:</b> 54% say their social team has grown in the past year, and 86% say content and campaign volume has increased. Four in five describe their workload as manageable, in line with last year, but the share who feel burnout very often has risen to 24% from 17%. Marketers name smarter automation (21%) and better AI tools (18%) together about twice as often as additional headcount (20%) as the change that would most improve team capacity and output.</li></ul><p>Looking ahead, AI tools and automation are marketers' top investment priority for the next 12 months (31%), ahead of short-form video production (19%) and analytics and reporting (15%). Three in four expect AI's role on their team to grow over the next two years.</p><p>\"AI is giving social teams hours back, with more than two in three saving three or more a week on reporting. The question now is how that time is used. Teams that pour it into more content will only add to the pressure. Teams that invest it in listening, responding, and better judgment will deliver stronger customer experiences and work their people can sustain.\" Wilson added.</p><p>To download the complete report, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=1724509663&amp;u=https%3A%2F%2Femplifi.io%2Fresources%2Fstate-of-social-media-marketing-report-2027%2F%3Futm_source%3Dbusinesswire%26utm_medium%3Dpr%26utm_campaign%3Dglobal_state_of_social_media_marketing_report_2027_fy26_q4&amp;a=The+State+of+Social+Media+Marketing+2027+from+Emplifi.+\" target=\"_blank\" rel=\"nofollow\">The State of Social Media Marketing 2027 from Emplifi. </a></p><p>Emplifi will discuss the findings in a live webinar with creator and social strategist Lia Haberman on Wednesday, November 4, 2026, at 11 a.m. ET. To register for \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=159797893&amp;u=https%3A%2F%2Femplifi.io%2Fwebinar%2Fsocial-media-marketing-2027-lia-haberman%2F%3Futm_source%3Dbusinesswire%26utm_medium%3Dpr%26utm_campaign%3Dstate_of_social_media_marketing_webinar_fy26_q4&amp;a=Unpacking+the+State+of+Social+Media+Marketing+2027+with+Lia+Haberman\" target=\"_blank\" rel=\"nofollow\">Unpacking the State of Social Media Marketing 2027 with Lia Haberman</a>,\" visit the registration page.</p><p><b>Survey Methodology:</b> Emplifi partnered with Alchemer to conduct an online survey of 405 marketing managers, directors and executives in the US, UK, Australia, and New Zealand in September 2026. Respondents work full-time in marketing-related roles at companies with 11+ employees, have 3+ years in their industry and influence marketing technology purchases. Comparisons with The State of Social Media Marketing 2026 (n=564) are directional, as the samples differ in geography, company size and qualification criteria, and some question wording differs.</p><p><b>About Emplifi</b><br></br>Emplifi is the only<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=958215625&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4809877-1&amp;h=2936679904&amp;u=https%3A%2F%2Femplifi.io%2Fplatform-overview%2F&amp;a=Autonomous+CX+platform\" target=\"_blank\" rel=\"nofollow\">Autonomous CX platform</a> unifying social marketing, commerce, and customer care for more than 22,000 brands worldwide. Powered by Fuel AI, built on more than 5T of data, and recognized as a leader by leading industry analysts, Emplifi helps enterprise teams orchestrate connected customer journeys and deliver personalized experiences at scale, turning every customer touchpoint into a competitive advantage.</p><p><b>Media contact</b><br></br>Jordan Lukes<br></br>Corporate Communications Director, Emplifi<br></br><a href=\"mailto:jordan.lukes@emplifi.io\" rel=\"nofollow\">jordan.lukes@emplifi.io</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL84593&amp;sd=2026-10-29\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/emplifi-reveals-87-of-marketers-agree-ai-has-improved-productivity-but-fewer-than-half-can-confidently-prove-social-media-roi-302923772.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/emplifi-reveals-87-of-marketers-agree-ai-has-improved-productivity-but-fewer-than-half-can-confidently-prove-social-media-roi-302923772.html</a></p><p>SOURCE Emplifi Inc</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL84593&amp;Transmission_Id=202610290930PR_NEWS_USPR_____CL84593&amp;DateId=20261029\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Emplifi Inc",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 3,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "social media",
+            "industry:SMD"
+          ],
+          "management": [
+            "summary:executive"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-10-29T18:53:01.353Z"
+    },
     {
       "company": [
         "BetterBusinessAdvice.com"
