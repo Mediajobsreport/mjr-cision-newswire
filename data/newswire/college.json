@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-29T05:59:21.594Z",
+  "generated_at": "2026-10-29T12:50:40.272Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "college",
   "page_url": "https://www.mediajobsreport.com/college_news",
-  "count": 88,
+  "count": 87,
   "releases": [
     {
       "company": [
@@ -6872,83 +6872,6 @@
         "excluded": false
       },
       "imported_at": "2026-10-15T19:04:46.314Z"
-    },
-    {
-      "company": [
-        "Fetch"
-      ],
-      "date": "20260731T100000+0000",
-      "dateline": "AUSTIN, Texas, July 31, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS",
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "TXS",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "MEN",
-        "CPR",
-        "RRL",
-        "RLT"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Introducing Fetch, the only centralized community services platform for the modern resident.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1224276/Fetch-Logo-v3.jpg?id=OA2817771&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1224276/Fetch-Logo-v3.jpg?id=OA2817771&p=publish"
-        }
-      ],
-      "release_id": "20260731DA16040",
-      "status": "PUBLISHED",
-      "subject": [
-        "CXP",
-        "PDT"
-      ],
-      "summary": "<p><i>Expansion into Ann Arbor, Athens, Baton Rouge, College Station, Gainesville, Knoxville, and Madison extends Fetch's centralized model for package management and valet trash in high-demand student housing markets</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">July 31, 2026</span> /PRNewswire/ -- Fetch, the multifamily industry's leading provider of direct-to-door resident services, today announced accelerated growth in student housing alongside expansion into key college markets. This investment further strengthens its position as the only nationwide centralized community services platform for student housing and multifamily communities.</p>\n    ",
-      "ticker": [],
-      "title": "Fetch Accelerates Student Housing Growth Across New College Markets, Expanding Scalable Community Services for Operators and Residents",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260731DA16040",
-      "body": "\n<p><i>Expansion into Ann Arbor, Athens, Baton Rouge, College Station, Gainesville, Knoxville, and Madison extends Fetch's centralized model for package management and valet trash in high-demand student housing markets</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">July 31, 2026</span> /PRNewswire/ -- Fetch, the multifamily industry's leading provider of direct-to-door resident services, today announced accelerated growth in student housing alongside expansion into key college markets. This investment further strengthens its position as the only nationwide centralized community services platform for student housing and multifamily communities.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1224276/Fetch-Logo-v3.jpg?id=OA2817771\" title=\"Introducing Fetch, the only centralized community services platform for the modern resident.\" alt=\"Introducing Fetch, the only centralized community services platform for the modern resident.\"></img>\n                </p>\n    </div>\n<p>With new launches in Ann Arbor, Athens, Baton Rouge, College Station, Gainesville, Knoxville, and Madison, Fetch is extending its offsite model for package management, valet trash, storage, and market delivery into some of the country's largest and most competitive college markets. The expansion reflects increasing demand from operators for a more scalable approach to recurring services that traditionally burden onsite teams and create friction for residents.</p><p>Student housing communities typically receive between 30% - 50% more packages than conventional apartment communities, with move-in periods, semester starts, and seasonal transitions creating intense surges that can overwhelm package rooms, lockers, and onsite staff. In these high-volume environments, operators need solutions that can absorb complexity offsite while maintaining a seamless resident experience.</p><p><i>\"Fetch has always focused on solving real pain points for our partners, and student housing operators deal with arguably the most complex set of operational demands and resident expectations,\"</i> said Michael Patton, Founder and CEO of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4742639-1&amp;h=3296694241&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Ffetch-package-delivery%2F&amp;a=Fetch\" target=\"_blank\" rel=\"nofollow\">Fetch</a>.<i> \"As we launch additional markets, we are thrilled to help our student housing partners streamline operations, elevate the resident experience, and modernize the essential services that shape daily life in their communities.\"</i></p><p>Fetch's platform removes recurring operational friction from property teams by handling packages offsite and centralizing essential doorstep services under one accountable partner. The average 750-bed community loses 100+ hours each month to package management alone, highlighting the cost of relying on traditional onsite workflows for a growing volume of resident deliveries.</p><p><i>\"We are constantly looking for opportunities to improve our resident experience and streamline operations for our site teams. Fetch is one of the rare vendors that helps us achieve both of those goals; we're excited they are expanding to cover more markets in our portfolio.\" </i>said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4742639-1&amp;h=2154352043&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonathan-bove%2F&amp;a=Jonathan+Bove\" target=\"_blank\" rel=\"nofollow\">Jonathan Bove</a>, Executive Vice President of Management Services at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4742639-1&amp;h=4283577053&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Flandmark-properties---athens-georgia%2Fposts%2F%3FfeedView%3Dall&amp;a=Landmark+Properties%2C+Inc.\" target=\"_blank\" rel=\"nofollow\">Landmark Properties, Inc.</a></p><p><b><i>\"</i></b><i>Fetch has been a valuable package delivery solution for Core Spaces because it removes one of the biggest operational headaches from our on-site teams while creating a more convenient experience for residents,\"</i> said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4742639-1&amp;h=1136812237&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdale-callison-3276b225%2F&amp;a=Dale+Callison\" target=\"_blank\" rel=\"nofollow\">Dale Callison</a>, Senior Director of Maintenance Operations at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4742639-1&amp;h=18959977&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fcore-spaces%2Fposts%2F%3FfeedView%3Dall&amp;a=Core+Spaces\" target=\"_blank\" rel=\"nofollow\">Core Spaces</a>. <i>\"Instead of managing overflowing package rooms and package-related service requests, residents schedule delivery directly to their door on their own timeline. The biggest wins have been reducing team workload, improving package accountability, minimizing package-room space requirements, and providing a scalable solution for communities with high package volume.\"</i> </p><p>The model is particularly relevant as Gen Z and younger renters reshape expectations for apartment and student living with a strong preference for mobile-first convenience, transparency, self-service, and reliability. Fetch addresses those demands by giving residents app-based control over delivery timing and service visibility, reducing clutter and confusion associated with overloaded package rooms, and supporting cleaner, more predictable living environments through dependable valet trash service. The result is a community experience that better aligns with how today's residents live while allowing onsite teams to stay focused on leasing, retention, and resident engagement.</p><p>This latest expansion builds on Fetch's broader evolution from a package management provider to a centralized community services platform for modern apartment living. As operators seek ways to do more with leaner teams and rising resident expectations, Fetch's growth in student housing underscores the company's role as a strategic partner for scaling operations and improving day-to-day life across multifamily communities.</p><p><b>About Fetch <br></br></b>Fetch is the centralized community services platform behind modern apartment living. We unify daily services that shape the resident experience,including package management, valet trash, storage, and market delivery, into one platform. By moving these operations offsite and managing them end-to-end, Fetch removes daily work from onsite teams while delivering a simpler, more reliable experience for residents. Today, Fetch supports nearly 400,000 apartment homes across more than 1,250+ communities in 32 markets nationwide. Headquartered in Austin, Texas, Fetch has delivered nearly 50 million packages and saved tens of thousands of hours for onsite teams. For more information, visit fetchpackage.com and follow us on LinkedIn.</p><p><b>Media Contact: <br></br></b>Cynthia Nino <br></br><b><u><a href=\"mailto:marketing@fetchpackage.com\" target=\"_blank\" rel=\"nofollow\">marketing@fetchpackage.com</a> <br></br></u></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4742639-1&amp;h=911884944&amp;u=https%3A%2F%2Ffetchpackage.com%2F&amp;a=fetchpackage.com\" target=\"_blank\" rel=\"nofollow\">fetchpackage.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA16040&amp;sd=2026-07-31\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fetch-accelerates-student-housing-growth-across-new-college-markets-expanding-scalable-community-services-for-operators-and-residents-302839462.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fetch-accelerates-student-housing-growth-across-new-college-markets-expanding-scalable-community-services-for-operators-and-residents-302839462.html</a></p><p>SOURCE Fetch</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA16040&amp;Transmission_Id=202607310600PR_NEWS_USPR_____DA16040&amp;DateId=20260731\" style=\"border:0px; width:1px; height:1px;\"></img>\n            ",
-      "source_company": "Fetch",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "college"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "college"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {},
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-10-15T22:12:44.349Z"
     }
   ]
 }
