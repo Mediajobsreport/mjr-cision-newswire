@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.mediajobsreport.com/advertising_news?release=20260914NY47427</loc>
-    <lastmod>2026-09-14</lastmod>
-  </url>
-  <url>
     <loc>https://www.mediajobsreport.com/advertising_news?release=20260915DA46525</loc>
     <lastmod>2026-09-15</lastmod>
   </url>
@@ -655,14 +651,6 @@
   <url>
     <loc>https://www.mediajobsreport.com/engineering_news?release=20261015C2045</loc>
     <lastmod>2026-10-15</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/entertainment_news?release=20260914C5433</loc>
-    <lastmod>2026-09-14</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/entertainment_news?release=20260914LA47326</loc>
-    <lastmod>2026-09-14</lastmod>
   </url>
   <url>
     <loc>https://www.mediajobsreport.com/entertainment_news?release=20260915CL47762</loc>
@@ -1369,6 +1357,10 @@
     <lastmod>2026-10-29</lastmod>
   </url>
   <url>
+    <loc>https://www.mediajobsreport.com/entertainment_news?release=20261029C8628</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
     <loc>https://www.mediajobsreport.com/entertainment_news?release=20261029CL84859</loc>
     <lastmod>2026-10-29</lastmod>
   </url>
@@ -1459,6 +1451,10 @@
   <url>
     <loc>https://www.mediajobsreport.com/management_news?release=20261028NE83639</loc>
     <lastmod>2026-10-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/management_news?release=20261029LA85096</loc>
+    <lastmod>2026-10-29</lastmod>
   </url>
   <url>
     <loc>https://www.mediajobsreport.com/podcast_news?release=20260916NY37899</loc>
@@ -1653,6 +1649,10 @@
     <lastmod>2026-10-28</lastmod>
   </url>
   <url>
+    <loc>https://www.mediajobsreport.com/radio_news?release=20261029C8628</loc>
+    <lastmod>2026-10-29</lastmod>
+  </url>
+  <url>
     <loc>https://www.mediajobsreport.com/tradeshow_news?release=20260916CN49427</loc>
     <lastmod>2026-09-16</lastmod>
   </url>
@@ -1739,5 +1739,9 @@
   <url>
     <loc>https://www.mediajobsreport.com/tv_news?release=20261027NY82229</loc>
     <lastmod>2026-10-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/tv_news?release=20261029C8628</loc>
+    <lastmod>2026-10-29</lastmod>
   </url>
 </urlset>
