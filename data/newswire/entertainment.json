@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-11-01T02:37:44.251Z",
+  "generated_at": "2026-11-01T09:46:04.572Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
   "count": 167,
   "releases": [
+    {
+      "company": [
+        "Shenzhen Media Group"
+      ],
+      "date": "20261101T085600+0000",
+      "dateline": "SHENZHEN, China, Nov. 1, 2026",
+      "feed": [
+        "CNW",
+        "CNWCOMP",
+        "prnj_cnw"
+      ],
+      "geography": [
+        "CHN",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "BRD",
+        "CPR",
+        "ATL",
+        "TRA",
+        "ENT",
+        "PUB",
+        "MUS"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "The host-city theme song for APEC China 2026  “Meet You Where Wonders Bloom (在奇迹之城遇见你)”",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/lnXy7kWdz0s/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=lnXy7kWdz0s"
+        }
+      ],
+      "release_id": "20261101C9628",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Nov. 1, 2026</span> /CNW/ -- The host-city theme song for APEC China 2026, Meet You Where Wonders Bloom<span id=\"spanHghlt1ab0\"> (在奇迹之城遇见你)</span>, was produced by the Publicity Department of the CPC Shenzhen Municipal Committee and created by Shenzhen Media Group. Written and composed by He Muyang, Vice Chairman of the Chinese Musicians Association and a Shenzhen-based musician, the song is performed by popular singers Jane Zhang and Joseph Zeng. With its fresh, youthful pop sound, the song tells the stories of ordinary dreamers, weaving together personal aspirations, Shenzhen's remarkable development, and the broader vision of Asia-Pacific cooperation.</p>",
+      "ticker": [],
+      "title": "Shenzhen Unveils APEC China 2026 Host-City Theme Song and Music Video",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261101C9628",
+      "body": "\n<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Nov. 1, 2026</span> /CNW/ -- The host-city theme song for APEC China 2026, Meet You Where Wonders Bloom<span id=\"spanHghlt1ab0\"> (在奇迹之城遇见你)</span>, was produced by the Publicity Department of the CPC Shenzhen Municipal Committee and created by Shenzhen Media Group. Written and composed by He Muyang, Vice Chairman of the Chinese Musicians Association and a Shenzhen-based musician, the song is performed by popular singers Jane Zhang and Joseph Zeng. With its fresh, youthful pop sound, the song tells the stories of ordinary dreamers, weaving together personal aspirations, Shenzhen's remarkable development, and the broader vision of Asia-Pacific cooperation.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder8076\"><p title=\"The host-city theme song for APEC China 2026  “Meet You Where Wonders Bloom (在奇迹之城遇见你)”\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lnXy7kWdz0s\" frameborder=\"0\"></iframe></p></div><p class=\"prntal\">Released alongside the song, the music video goes beyond showcasing Shenzhen's cityscape to put people at the heart of the story. Through the experiences of people from all walks of life, particularly young people and those from overseas, it captures the energy and appeal of Shenzhen, the City of Miracles, and its warm welcome to the world. Running 4 minutes and 45 seconds, the video features 176 shots filmed across Shenzhen, with more than 100 residents appearing on screen. From location coordination and filming support to bringing participants together, the production was a citywide effort. More than just a music video, it became a shared expression of Shenzhen's enthusiasm as APEC host city.</p><p class=\"prntal\">From a refreshing melody to a city ready to welcome the world, Shenzhen is embracing its role as APEC host with openness and inclusiveness, extending a warm invitation to guests from near and far to gather in Shenzhen.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN86288&amp;sd=2026-11-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/shenzhen-unveils-apec-china-2026-host-city-theme-song-and-music-video-302925715.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/shenzhen-unveils-apec-china-2026-host-city-theme-song-and-music-video-302925715.html</a></p><p>SOURCE Shenzhen Media Group</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C9628&amp;Transmission_Id=202611010356CANADANWCANADAPR_C9628&amp;DateId=20261101\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": null,
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 2,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "engineering": [
+            "industry:BRD"
+          ],
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-01T09:46:05.540Z"
+    },
     {
       "company": [
         "King of Trash"
@@ -15194,91 +15283,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-17T12:47:05.266Z"
-    },
-    {
-      "company": [
-        "Home Trends & Design"
-      ],
-      "date": "20260917T051700+0000",
-      "dateline": "AUSTIN, Texas, Sept. 16, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS_ONLY",
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "TXS",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "HMI",
-        "HHP",
-        "REA",
-        "FRN",
-        "FLM",
-        "HOU"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "HTD Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1544834/Home-Trends-Design-Logo.jpg?id=OA2953359&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1544834/Home-Trends-Design-Logo.jpg?id=OA2953359&p=publish"
-        }
-      ],
-      "release_id": "20260917DA49972",
-      "status": "PUBLISHED",
-      "subject": [
-        "AWD"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- Home Trends &amp; Design (HTD) is proud to announce that its new documentary film, <i>Rooted in Craft</i>, has been awarded \"Best Documentary\" at the 2026 Austin Spotlight Film Festival. The award was officially presented on September 12, 2026, marking a significant achievement during the festival's special 10-year anniversary season.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1544834/Home-Trends-Design-Logo.jpg?id=OA2953359\" title=\"HTD Logo\" alt=\"HTD Logo\"></img>\n                </p>\n    </div>\n<p>Helmed by Richard Gordy, <i>Rooted in Craft</i> takes viewers on a journey into the factories, foundries, and quarries, showing a unique behind-the-scenes look at the process that HTD's handmade furniture goes through before the product is ever shipped to your door. Filmed on location in Rajasthan, India, and in Austin, Texas, this documentary shows a whole different side of the industry that is often never seen.</p>",
-      "ticker": [],
-      "title": "Home Trends &amp; Design's \"Rooted in Craft\" Wins Best Documentary at the 2026 Austin Spotlight Film Festival",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260917DA49972",
-      "body": "\n<p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 16, 2026</span> /PRNewswire/ -- Home Trends &amp; Design (HTD) is proud to announce that its new documentary film, <i>Rooted in Craft</i>, has been awarded \"Best Documentary\" at the 2026 Austin Spotlight Film Festival. The award was officially presented on September 12, 2026, marking a significant achievement during the festival's special 10-year anniversary season.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1544834/Home-Trends-Design-Logo.jpg?id=OA2953359\" title=\"HTD Logo\" alt=\"HTD Logo\"></img>\n                </p>\n    </div>\n<p>Helmed by Richard Gordy, <i>Rooted in Craft</i> takes viewers on a journey into the factories, foundries, and quarries, showing a unique behind-the-scenes look at the process that HTD's handmade furniture goes through before the product is ever shipped to your door. Filmed on location in Rajasthan, India, and in Austin, Texas, this documentary shows a whole different side of the industry that is often never seen.</p><p>The Best Documentary recognition, certified by Festival Director Ali Alkhafaji and the rest of the panel, comes as HTD looks to expand the work of its Mango Foundation. Building on more than a decade of planting trees, the foundation's next chapter will introduce new sustainability initiatives, including efforts to test and improve access to clean drinking water in HTD's operating communities.</p><p>The Austin Spotlight Film Festival, celebrating a decade of championing independent filmmakers, announced the winners following a weekend of screenings and industry events. For more information and to view the full list of the 2026 award winners, please visit the official Austin Spotlight Film Festival website at: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4776203-1&amp;h=4020017410&amp;u=https%3A%2F%2Fwww.austinspotlightfilmfestival.com%2F2026-awards&amp;a=https%3A%2F%2Fwww.austinspotlightfilmfestival.com%2F2026-awards\" target=\"_blank\" rel=\"nofollow\">https://www.austinspotlightfilmfestival.com/2026-awards</a> </p><p>To watch the award-winning documentary <i>Rooted in Craft</i>, you can view the full film here: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4776203-1&amp;h=899684993&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJfj1bREUl5c&amp;a=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJfj1bREUl5c\" target=\"_blank\" rel=\"nofollow\">https://www.youtube.com/watch?v=Jfj1bREUl5c</a>.</p><p><b>About Home Trends &amp; Design:</b> Home Trends &amp; Design (HTD) is an Austin-based furniture company specializing in sustainable, handcrafted solid wood furniture. Dedicated to exceptional heirloom-quality construction, HTD emphasizes eco-friendly practices, sustainable materials, and low-VOC finishes across its collections. By partnering directly with global artisans, HTD celebrates the intersection of traditional craftsmanship and modern design, while its Mango Foundation drives ongoing environmental and community initiatives worldwide.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA49972&amp;sd=2026-09-17\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/home-trends--designs-rooted-in-craft-wins-best-documentary-at-the-2026-austin-spotlight-film-festival-302881503.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/home-trends--designs-rooted-in-craft-wins-best-documentary-at-the-2026-austin-spotlight-film-festival-302881503.html</a></p><p>SOURCE Home Trends &amp; Design</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA49972&amp;Transmission_Id=202609170116PR_NEWS_USPR_____DA49972&amp;DateId=20260917\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Home Trends & Design",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "entertainment"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "entertainment"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 10,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "entertainment": [
-            "film festival",
-            "film",
-            "summary:actor",
-            "industry:FLM"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-17T05:42:36.007Z"
     }
   ]
 }
