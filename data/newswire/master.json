@@ -1,9 +1,108 @@
 {
-  "generated_at": "2026-11-02T00:26:52.684Z",
+  "generated_at": "2026-11-02T06:41:31.698Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 737,
+  "count": 738,
   "releases": [
+    {
+      "company": [
+        "iQIYI Inc."
+      ],
+      "date": "20261102T013900+0000",
+      "dateline": "BEIJING, Nov. 1, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CHN",
+        "ASA"
+      ],
+      "industry": [
+        "AFI",
+        "ENT",
+        "FLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2024244/20261030045517EDT_image_1.jpg?id=OA3049339&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2024244/20261030045517EDT_image_1.jpg?id=OA3049339&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2024275/20261030045517EDT_image_2.jpg?id=OA3049340&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2024275/20261030045517EDT_image_2.jpg?id=OA3049340&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS608184/iQIYI-New-Logo-Logo.jpg?id=OA3049350&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS608184/iQIYI-New-Logo-Logo.jpg?id=OA3049350&p=publish"
+        }
+      ],
+      "release_id": "20261101CN85449",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Nov. 1, 2026</span> /PRNewswire/ -- On October 28, iQIYI, China's leading online entertainment platform, has begun the inaugural project at its newly opened AI Film Studio with the filming of internet feature film \"Cop in Trouble\". Located at the iQIYI Creative Center Shanghai, the AI Film Studio expands upon iQIYI's AI ecosystem integrating live-action in-studio filming with AI post-production to realize the imagination of storytellers at scale.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2024244/20261030045517EDT_image_1.jpg?id=OA3049339\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "iQIYI Launches China's First AI Film Studio in Shanghai, with Inaugural Title \"Cop in Trouble\" in Production",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261101CN85449",
+      "body": "\n<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Nov. 1, 2026</span> /PRNewswire/ -- On October 28, iQIYI, China's leading online entertainment platform, has begun the inaugural project at its newly opened AI Film Studio with the filming of internet feature film \"Cop in Trouble\". Located at the iQIYI Creative Center Shanghai, the AI Film Studio expands upon iQIYI's AI ecosystem integrating live-action in-studio filming with AI post-production to realize the imagination of storytellers at scale.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2024244/20261030045517EDT_image_1.jpg?id=OA3049339\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p><b>Fewer Constraints, Greater Creative Freedom</b> </p><p>Combining live studio performances with AI post-production, iQIYI reduces production timeline constraints and increases production efficiency, helping filmmakers realize their intended creative vision. For example, the studio gives filmmakers greater flexibility to develop and refine visual environments after filming, while preserving the actors' original performances.</p><p>The approximately 110-square-meter studio is equipped with multi-camera shooting capabilities, synchronized high-resolution video and audio recording, digital continuity logging, and real-time footage review. From the set, on-set footage syncs automatically to NadouPro, iQIYI's AI-powered film &amp; TV production platform. This seamless integration gives filmmakers immediate access to nearly 30 AI models, including Seedance 2.5 and Kling 4.0, as well as hundreds of production-focused AI agents and skills to transform live-action footage by generating new visual elements.</p><p>\"An actor's performance is the core of any film or series,\" said Liang ZHU, iQIYI Vice President and Head of Intelligent Production. \"The AI studio lets directors preserve that performance while adjusting sets, lighting and costumes, makeup, and props more flexibly, opening up greater creative space for filmmakers and creative professionals alike.\"</p><p><b>Bringing the story of \"Cop in Trouble\" to Life</b></p><p>The production of the film \"Cop in Trouble\" puts the new capabilities to practice. \"Cop in Trouble\" follows Jian ZHANG, a low-ranking constable whose fame, riches and admiration begin to crack as his web of lies to take down a notorious outlaw begins to unravel. </p><p>\"Cop in Trouble\" demonstrates how iQIYI's AI Film Studio combines live-action performances with AI-generated environments and visual details. On set, filmmakers capture nuanced interactions between actors, from intimate conversations to action sequences requiring precise coordination between performers and camera movement.</p><p>These live-action recordings provide rich input and key references for the AI generation process via NadouPro, particularly in terms of character appearance, performance, composition, lighting, and spatial relationships.</p><p>With the production of \"Cop in Trouble\" underway, the AI Film Studio marks another important step in the expansion of iQIYI's production capabilities – from traditional on-location and green-screen work to virtual production and AI-integrated filmmaking. The new facility continues the success of iQIYI's Hengdian virtual studio, which delivered production efficiency gains of over 30% to unlock a new era of high-quality, cinematic storytelling at scale.</p><p>The new AI Film Studio opens up new possibilities for emerging directors and resource-constrained teams, particularly in bringing imaginative worlds to life across all genres.</p><p>Contact:<br></br>iQIYI Press<br></br><a href=\"mailto:press@qiyi.com\" target=\"_blank\" rel=\"nofollow\">press@qiyi.com</a>  </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2024275/20261030045517EDT_image_2.jpg?id=OA3049340\" title=\"\" alt=\"\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS608184/iQIYI-New-Logo-Logo.jpg?id=OA3049350\" title=\"\" alt=\"\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN85449&amp;sd=2026-11-01\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/iqiyi-launches-chinas-first-ai-film-studio-in-shanghai-with-inaugural-title-cop-in-trouble-in-production-302925881.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/iqiyi-launches-chinas-first-ai-film-studio-in-shanghai-with-inaugural-title-cop-in-trouble-in-production-302925881.html</a></p><p>SOURCE iQIYI Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN85449&amp;Transmission_Id=202611012039PR_NEWS_USPR_____CN85449&amp;DateId=20261101\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "iQIYI Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 12,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "film studio",
+            "summary:entertainment",
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-02T06:41:32.719Z"
+    },
     {
       "company": [
         "BetterBusinessAdvice.com"
