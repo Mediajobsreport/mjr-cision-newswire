@@ -1,11 +1,97 @@
 {
-  "generated_at": "2026-11-02T23:41:39.320Z",
+  "generated_at": "2026-11-03T04:03:47.571Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 163,
+  "count": 164,
   "releases": [
+    {
+      "company": [
+        "Shenzhen Media Group"
+      ],
+      "date": "20261103T031700+0000",
+      "dateline": "SHENZHEN, China, Nov. 2, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CHN",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "PUB",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Trailer - Shenzhen: People Who Build The Future",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/gteDpalXabc/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=gteDpalXabc"
+        }
+      ],
+      "release_id": "20261102CN87481",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Nov. 2, 2026</span> /PRNewswire/ -- Millions of dreams. One city. A future in the making.</p><p>The documentary <i>Shenzhen: People Who Build the Future </i>explores one of the world's most dynamic metropolises through the discerning eye of two-time Academy Award-winning filmmaker Malcolm Clarke, who guides the film as writer and narrator.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder5241\"><p title=\"Trailer - Shenzhen: People Who Build The Future\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gteDpalXabc\" frameborder=\"0\"></iframe></p></div><p>Moving beyond familiar skylines and rapid economic growth, Clarke unpacks the city's true engine, embodied in seven individuals across generations. From early builders who laid the groundwork to tech dreamers tackling supercars and robotics, from international educators to artists carrying Chinese culture abroad, their personal journeys define the city's pulse.</p>",
+      "ticker": [],
+      "title": "Oscar-Winning Filmmaker Malcolm Clarke Turns His Lens on Shenzhen in New Documentary",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261102CN87481",
+      "body": "\n<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Nov. 2, 2026</span> /PRNewswire/ -- Millions of dreams. One city. A future in the making.</p><p>The documentary <i>Shenzhen: People Who Build the Future </i>explores one of the world's most dynamic metropolises through the discerning eye of two-time Academy Award-winning filmmaker Malcolm Clarke, who guides the film as writer and narrator.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder5241\"><p title=\"Trailer - Shenzhen: People Who Build The Future\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gteDpalXabc\" frameborder=\"0\"></iframe></p></div><p>Moving beyond familiar skylines and rapid economic growth, Clarke unpacks the city's true engine, embodied in seven individuals across generations. From early builders who laid the groundwork to tech dreamers tackling supercars and robotics, from international educators to artists carrying Chinese culture abroad, their personal journeys define the city's pulse.</p><p>Brought to life through Clarke's distinctive perspective, this documentary captures the resilience, grit, and imagination of a place where tomorrow is not merely envisioned, but actively built by hand.</p><p>The documentary is a collaboration between Shenzhen Media Group and Malcolm Clarke.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN87481&amp;sd=2026-11-02\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/oscar-winning-filmmaker-malcolm-clarke-turns-his-lens-on-shenzhen-in-new-documentary-302927259.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/oscar-winning-filmmaker-malcolm-clarke-turns-his-lens-on-shenzhen-in-new-documentary-302927259.html</a></p><p>SOURCE Shenzhen Media Group</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN87481&amp;Transmission_Id=202611022217PR_NEWS_USPR_____CN87481&amp;DateId=20261102\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Shenzhen Media Group",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-03T04:03:48.381Z"
+    },
     {
       "company": [
         "Loud and Live, Inc."
