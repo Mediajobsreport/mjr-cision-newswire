@@ -142,7 +142,8 @@ export function classifyRelease(release) {
   const summary = normalize(release.summary || "");
   const codes = new Set(Array.isArray(release.industry) ? release.industry : []);
   const newsScore = NEWS_SIGNALS.reduce((sum, term) => sum + (primary.includes(term) ? 1 : 0), 0);
-  const hardExcluded = EXCLUSIONS.some((term) => `${primary} ${summary}`.includes(term));
+  const legalFundingPromotion = /\b(?:pre[- ]settlement funding|lawsuit funding|litigation funding|legal funding|settlement advances?|lawsuit advances?|plaintiff funding|plaintiff cash advances?|cash advances? for plaintiffs?)\b/i.test(`${primary} ${summary}`);
+  const hardExcluded = legalFundingPromotion || EXCLUSIONS.some((term) => `${primary} ${summary}`.includes(term));
   const corporateNoise = CORPORATE_NOISE.some((term) => primary.includes(term));
   const scores = {};
   const reasons = {};
