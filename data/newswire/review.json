@@ -1,11 +1,341 @@
 {
-  "generated_at": "2026-11-04T06:28:12.053Z",
+  "generated_at": "2026-11-04T14:49:33.550Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 126,
+  "count": 130,
   "releases": [
+    {
+      "company": [
+        "Askey"
+      ],
+      "date": "20261104T135100+0000",
+      "dateline": "LAS VEGAS, Nov. 4, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NEV",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TCS",
+        "WIC",
+        "TLS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Askey Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1801817/ASKEY-LOGO-1-Logo.jpg?id=OA3056750&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1801817/ASKEY-LOGO-1-Logo.jpg?id=OA3056750&p=publish"
+        }
+      ],
+      "release_id": "20261104SF88545",
+      "status": "PUBLISHED",
+      "subject": [
+        "JVN",
+        "TDS",
+        "LIC"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Askey<span> and </span>Icom<span> America have announced a formal partnership under which the two companies will jointly market each other's solutions, pairing </span>Askey's<span> private 5G network hardware with </span>Icom's<span> two-way radio terminals and dispatch systems. The combination gives wireless internet service providers a complete package to sell into the plants, utilities, counties, and event grounds in their footprint: a private cellular network and the push-to-talk radios that run on it.</span></p>\n    ",
+      "ticker": [],
+      "title": "Askey and Icom America Partner to Put Two-Way Radio on Private 5G Networks",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261104SF88545",
+      "body": "\n<p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Askey<span> and </span>Icom<span> America have announced a formal partnership under which the two companies will jointly market each other's solutions, pairing </span>Askey's<span> private 5G network hardware with </span>Icom's<span> two-way radio terminals and dispatch systems. The combination gives wireless internet service providers a complete package to sell into the plants, utilities, counties, and event grounds in their footprint: a private cellular network and the push-to-talk radios that run on it.</span></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1801817/ASKEY-LOGO-1-Logo.jpg?id=OA3056750\" title=\"Askey Logo\" alt=\"Askey Logo\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight1354\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Askey and ICOM America team up so WISPs can sell private 5G networks and the push-to-talk radios that run on them.</div><p>Icom, founded in Osaka in 1964 and represented in the Americas by Kirkland, Washington-based Icom America, builds land mobile, marine, aviation, and amateur radios, and supplies LTE and 5G radio terminals, gateways, and dispatch for public safety and industrial users. Askey, a member of the Asus group, manufactures the small cells, standalone 5G core, outdoor units, and devices that make up a private 5G network, managed through its All-In-One Management Platform (AMP). Under the partnership, each company's sales teams and channel partners will offer the other's products, with joint demonstrations beginning at WISPAPALOOZA 2026.</p><p>For a WISP, the pairing answers a question customers ask early: what do the people on site actually talk on? A sheriff's office, a public works crew, a grain cooperative, or a fairgrounds operator wants radios that work where public cellular does not, on a network it controls. With Askey radios on the tower and Icom radios in the trucks, a WISP can deliver both from one managed service.</p><p>\"Our customers don't buy a network, they buy what runs on it,\" said Minchul Ho, SVP of Private Networks at Askey. \"Icom has spent sixty years making radios that crews trust, and those radios now run on private LTE and 5G. Putting them on an Askey network means a WISP can walk into a county or a plant with the whole answer: coverage, voice, and one bill. That's a conversation our partners can win.\"</p><p>\"At Icom, our focus has always been on providing reliable communications solutions for customers operating in challenging environments. Through our partnership with Askey, we can combine their private 5G network infrastructure with Icom's proven push-to-talk radios, dispatch systems, and integration capabilities to deliver a complete end-to-end communications solution.</p><p>We see significant opportunities for WISPs to expand beyond traditional broadband services and offer private wireless networks with mission-critical voice communications to industries such as utilities, manufacturing, transportation, and public safety. Together, we can make private 5G solutions more accessible, practical, and commercially viable for these customers.\" said Jim Backeland, President, Icom America, Inc.</p><p>What the partnership delivers:</p><ul type=\"disc\"><li><b>One managed offering. </b>Private 5G coverage from Askey small cells with Icom 5GC, push-to-talk radios, dispatch, and gateways to existing analog and digital radio systems.</li><li><b>Built for the sites WISPs already serve. </b>Outdoor radios rated IP65 and 4x4 5 W per port for towers and yards; Icom terminals rated for field use with group, individual, and emergency calling.</li><li><b>Joint go-to-market. </b>Co-marketing, cross-referral between sales teams, and shared demonstrations, starting at WISPAPALOOZA.</li><li><b>Manufacturer-direct economics. </b>Askey hardware at pricing the company says runs 30 to 50 percent below incumbent private cellular vendors, as CapEx or as-a-service, backed by Tier 1, 2, and 3 technical support.</li></ul><p><b>About Askey Computer Corp.</b></p><p>Founded in 1989, Askey Computer Corporation, a subsidiary of ASUS, is a global leader in advanced networking and communications. Headquartered in Taiwan, Askey combines strong R&amp;D expertise with global manufacturing capabilities.</p><p>As a trusted partner to Tier-1 operators, we design and deliver high-performance 5G Private Networks and integrated solutions for Smart Cities and Industry 4.0, enabling reliable and scalable connectivity across diverse deployment environments. For more information, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813822-1&amp;h=2351415851&amp;u=https%3A%2F%2Fwww.askey.com.tw%2F&amp;a=www.askey.com\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">www.askey.com</a></p><p><b>About Icom America</b></p><p>Icom America Inc. is the U.S. subsidiary of Icom Incorporated, the communications equipment maker founded in Osaka, Japan in 1964. Icom America was established in 1979, is based in Kirkland, Washington, and represents Icom products across the Western Hemisphere (except Cuba) and in U.S. territories in the Pacific. It makes and supports two-way radio and communications solutions for land mobile, marine, aviation and amateur users. That includes push-to-talk radios, dispatch and turnkey systems for public safety, utilities and industrial customers. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813822-1&amp;h=1959608543&amp;u=http%3A%2F%2Fwww.icomamerica.com%2F&amp;a=www.icomamerica.com\" target=\"_blank\" rel=\"nofollow\">www.icomamerica.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF88545&amp;sd=2026-11-04\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/askey-and-icom-america-partner-to-put-two-way-radio-on-private-5g-networks-302928787.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/askey-and-icom-america-partner-to-put-two-way-radio-on-private-5g-networks-302928787.html</a></p><p>SOURCE Askey</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF88545&amp;Transmission_Id=202611040851PR_NEWS_USPR_____SF88545&amp;DateId=20261104\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Askey",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "radio": [
+            "radio"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-04T14:49:36.344Z"
+    },
+    {
+      "company": [
+        "Keyfactor"
+      ],
+      "date": "20261104T130000+0000",
+      "dateline": "ATLANTA, Nov. 4, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "GGA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "HTS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Gerald Beuchelt, Chief Information Security Officer (CISO) of Keyfactor",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2026351/Gerald-Beuchelt.jpg?id=OA3055223&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2026351/Gerald-Beuchelt.jpg?id=OA3055223&p=publish"
+        },
+        {
+          "caption": "Keyfactor Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1852697/Keyfactor-Logo.jpg?id=OA3055221&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1852697/Keyfactor-Logo.jpg?id=OA3055221&p=publish"
+        }
+      ],
+      "release_id": "20261104NE87782",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER"
+      ],
+      "summary": "<p class=\"prntac\"><i>Former Acronis CISO brings 25+ years of experience to further advance Keyfactor's security strategy across its products and global operations</i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813073-1&amp;h=1190725039&amp;u=https%3A%2F%2Fwww.keyfactor.com%2F&amp;a=Keyfactor\" target=\"_blank\" rel=\"nofollow\"><b>Keyfactor</b></a><b>,</b> the leader in trust infrastructure for the AI and quantum era, today announced the appointment of Gerald Beuchelt as Chief Information Security Officer (CISO). Beuchelt will lead Keyfactor's enterprise-wide security strategy, governance, risk management, and compliance programs to bolster the protection of customer data, product integrity, and corporate assets as the company enters its next phase of growth.</p>\n    ",
+      "ticker": [],
+      "title": "Keyfactor Appoints Gerald Beuchelt as Chief Information Security Officer",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261104NE87782",
+      "body": "\n<p class=\"prntac\"><i>Former Acronis CISO brings 25+ years of experience to further advance Keyfactor's security strategy across its products and global operations</i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813073-1&amp;h=1190725039&amp;u=https%3A%2F%2Fwww.keyfactor.com%2F&amp;a=Keyfactor\" target=\"_blank\" rel=\"nofollow\"><b>Keyfactor</b></a><b>,</b> the leader in trust infrastructure for the AI and quantum era, today announced the appointment of Gerald Beuchelt as Chief Information Security Officer (CISO). Beuchelt will lead Keyfactor's enterprise-wide security strategy, governance, risk management, and compliance programs to bolster the protection of customer data, product integrity, and corporate assets as the company enters its next phase of growth.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026351/Gerald-Beuchelt.jpg?id=OA3055223\" title=\"Gerald Beuchelt, Chief Information Security Officer (CISO) of Keyfactor\" alt=\"Gerald Beuchelt, Chief Information Security Officer (CISO) of Keyfactor\"></img>\n                </p>\n    </div>\n<p>Bringing more than 25 years of experience leading security, IT, and compliance organizations in SaaS and cloud-native companies, Beuchelt has held executive roles at Sprinklr, LogMeIn, Demandware, and Acronis. His experience includes overseeing security during Sprinklr's $4 billion IPO, integrating security teams through LogMeIn's $5 billion merger with GetGo, and supporting security due diligence for Salesforce's $3 billion acquisition of Demandware.</p><p>Keyfactor continues to build business momentum and reinforce its market position, recently surpassing $200 million in annual recurring revenue (ARR), closing a $1 billion-plus growth investment led by Summit Partners, and serving more than 1,000 customers globally. As the company expands, Beuchelt's appointment strengthens the security leadership supporting its customers, products, and operations as AI, machine identity growth, and the transition to post-quantum cryptography reshape security requirements for organizations.</p><p>\"Gerald's experience leading security across global organizations makes him a strong addition to the team,\" said Ted Shorter, Chief Technology Officer at Keyfactor. \"His experience navigating growth, acquisitions, and major business transitions will help us build on our established security program as our product portfolio and global presence continue to expand.\"</p><p>Beuchelt will also partner closely with product and engineering teams to continue integrating security throughout the product lifecycle and oversee Keyfactor's certification, authorization, and audit programs, including ISO 27001, SOC 2, FedRAMP, and ISO 42001 for AI management systems. These programs help customers assess Keyfactor against their own security, compliance, and procurement requirements.</p><p>\"I've seen firsthand how important it is for security to evolve alongside a business while remaining deeply connected to its products and operations,\" said Beuchelt. \"Keyfactor has an established security foundation, and I'm excited to bring my experience to the team and help carry that work forward across product development, data protection, and operations.\"</p><p>For more information, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813073-1&amp;h=3500873316&amp;u=https%3A%2F%2Fwww.keyfactor.com%2F&amp;a=https%3A%2F%2Fwww.keyfactor.com%2F\" target=\"_blank\" rel=\"nofollow\">https://www.keyfactor.com/</a></p><p><b>About Keyfactor</b></p><p>Keyfactor is the leader in trust infrastructure for AI and machines. The platform equips enterprises to take control of the machine identities and cryptography that safeguard every digital interaction. By bringing fragmented tools and assets into a single control plane, security teams can see their cryptographic landscape, find and remediate risk exposure, roll out compliant and quantum-safe cryptography, and issue a cryptographic identity to every machine, workload and AI. Trusted by the largest enterprises and government agencies, Keyfactor delivers the resilient foundation organizations need to keep running uninterrupted in the AI and quantum era. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813073-1&amp;h=175046505&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fwww.keyfactor.com%252F%26data%3D05%257C02%257CKrystal.Rennie%2540keyfactor.com%257Ce5f168c08a1b484a463d08def550c795%257Cc9ed4b459f70418aaa58f04c80848ca9%257C0%257C0%257C639217924457997806%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3DF0%252Fi3T0N%252FQQIwEcQYGY2Ktnz6AcjKFuAvXK6bfoTMU4%253D%26reserved%3D0&amp;a=www.keyfactor.com\" target=\"_blank\" rel=\"nofollow\"><b>www.keyfactor.com</b></a>.</p><p><b>Media Contact:<br></br></b>Danielle Ostrovsky<br></br>Hi-Touch PR<br></br><a href=\"mailto:ostrovsky@hi-touchpr.com\" target=\"_blank\" rel=\"nofollow\">ostrovsky@hi-touchpr.com</a> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1852697/Keyfactor-Logo.jpg?id=OA3055221\" title=\"Keyfactor Logo\" alt=\"Keyfactor Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NE87782&amp;sd=2026-11-04\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/keyfactor-appoints-gerald-beuchelt-as-chief-information-security-officer-302928127.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/keyfactor-appoints-gerald-beuchelt-as-chief-information-security-officer-302928127.html</a></p><p>SOURCE Keyfactor</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NE87782&amp;Transmission_Id=202611040800PR_NEWS_USPR_____NE87782&amp;DateId=20261104\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Keyfactor",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "actor"
+          ],
+          "management": [
+            "appoints"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-11-04T14:49:36.445Z"
+    },
+    {
+      "company": [
+        "Six Flags Entertainment Corporation"
+      ],
+      "date": "20261104T120000+0000",
+      "dateline": "ARLINGTON, Texas, Nov. 4, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ATL",
+        "TRA",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Six Flags unwraps a bigger and brighter 2026 holiday season as two new events join fan-favorite celebrations at 11 theme parks across the United States, Canada and Mexico plus holiday getaways at select Six Flags resorts. Special holiday offers, including new free Senior Admission, make it easier than ever for families to celebrate together across generations.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2008087/Six-Flags-Holiday-Events-B-roll-2025.mp4?id=OA3056524&p=thumbnail",
+          "type": "video",
+          "url": "https://mmx.prnewswire.com/media/MS2008087/Six-Flags-Holiday-Events-B-roll-2025.mp4?id=OA3056524"
+        },
+        {
+          "caption": "Six Flags Entertainment Corporation logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1701306/Six-Flags-Entertainment-Corporation-Logo.jpg?id=OA3056527&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1701306/Six-Flags-Entertainment-Corporation-Logo.jpg?id=OA3056527&p=publish"
+        }
+      ],
+      "release_id": "20261104DA88453",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "BFA"
+      ],
+      "summary": "<p><i>Company's growing lineup of winter celebrations brings festive entertainment, seasonal flavors, thrilling rides and resort getaways to more guests</i></p><p><i>New, free Senior Admission plus limited-time Black Friday offers give families more ways to spend time together</i></p><p><span class=\"legendSpanClass\">ARLINGTON, Texas</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813728-1&amp;h=3592890621&amp;u=http%3A%2F%2Fwww.sixflags.com%2F&amp;a=Six+Flags+Entertainment+Corporation\" target=\"_blank\" rel=\"nofollow\"><b>Six Flags Entertainment Corporation</b></a><b> (NYSE: FUN)</b>, North America's largest regional amusement park operator, unwraps a bigger and brighter 2026 holiday season as <b>two new events</b> join fan-favorite celebrations at 11 theme parks across the United States, Canada and Mexico plus holiday getaways at select Six Flags resorts. Special holiday offers, including <b>new free Senior Admission</b>, make it easier than ever for families to celebrate together across generations.</p>\n    ",
+      "ticker": [
+        "NYSE:FUN"
+      ],
+      "title": "Six Flags expands the holiday cheer with more parks, more events and more ways for families to celebrate in 2026",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261104DA88453",
+      "body": "\n<p><i>Company's growing lineup of winter celebrations brings festive entertainment, seasonal flavors, thrilling rides and resort getaways to more guests</i></p><p><i>New, free Senior Admission plus limited-time Black Friday offers give families more ways to spend time together</i></p><p><span class=\"legendSpanClass\">ARLINGTON, Texas</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813728-1&amp;h=3592890621&amp;u=http%3A%2F%2Fwww.sixflags.com%2F&amp;a=Six+Flags+Entertainment+Corporation\" target=\"_blank\" rel=\"nofollow\"><b>Six Flags Entertainment Corporation</b></a><b> (NYSE: FUN)</b>, North America's largest regional amusement park operator, unwraps a bigger and brighter 2026 holiday season as <b>two new events</b> join fan-favorite celebrations at 11 theme parks across the United States, Canada and Mexico plus holiday getaways at select Six Flags resorts. Special holiday offers, including <b>new free Senior Admission</b>, make it easier than ever for families to celebrate together across generations.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"Six Flags unwraps a bigger and brighter 2026 holiday season as two new events join fan-favorite celebrations at 11 theme parks across the United States, Canada and Mexico plus holiday getaways at select Six Flags resorts. Special holiday offers, including new free Senior Admission, make it easier than ever for families to celebrate together across generations.\"><iframe id=\"PlayMedia_1\" src=\"https://mmx.prnewswire.com/media/MS2008087/Six-Flags-Holiday-Events-B-roll-2025.mp4?id=OA3056524\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\n    </div>\n<div id=\"divReleaseHighlight6f12\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Six Flags unwraps a bigger and brighter 2026 holiday season with two new events and special holiday offers.</div><p><b>Holiday in the Park, WinterFest, Knott's Merry Farm </b>and <b>Christmas in the Park</b> transform Six Flags parks into winter wonderlands filled with millions of lights, elaborate décor, live entertainment, seasonal food and beverages, visits with Santa Claus and select roller coasters and family rides.</p><p>\"Six Flags parks have always been places where families and friends make memories together, and there is something especially meaningful about doing that during the holidays,\" said Kelly Daugherty, Six Flags' director of entertainment. \"This year, we're bringing the season to life across more of our parks while introducing an entirely new Holiday in the Park experience at Great Adventure and Over Georgia, and creating even more ways for families across generations to enjoy Six Flags together. Whether guests come for the rides, lights, entertainment, food or simply to spend time together, there are more ways to celebrate with Six Flags this holiday season.\"</p><p><b>New for 2026: two reimagined Holiday in the Park events and new family entertainment</b></p><p>Two familiar holiday traditions return in a completely new way this season. <b>Six Flags Great Adventure</b> and <b>Six Flags Over Georgia</b> debut reimagined versions of <b>Holiday in the Park</b> as the first phase of a multiyear transformation of the event. Each park will introduce three new, immersive holiday lands, expanded entertainment, interactive experiences, festive food and plenty of opportunities to enjoy the parks from daytime into a sparkling holiday night.</p><p>The redesigned celebrations will surround guests with themed environments featuring elaborate lighting and décor, music, seasonal characters and live entertainment. Programming will include nightly tree-lighting spectaculars, carolers, spirited street entertainment, live musicians, indoor mainstage productions and other holiday performances.</p><p>Guests can also experience seasonal activities such as photos with Santa Claus, cookie decorating, gingerbread house building, festive photo opportunities and special tasting menus. Select thrill rides, family attractions and children's areas operate during the event, giving guests opportunities to experience their favorite rides against the backdrop of holiday lights.</p><p>The 2026 transformation builds on what guests have long loved about Holiday in the Park while creating a more immersive celebration designed to unfold from day into night. Plus, the events will expand with additional experiences over the coming years.</p><p>On the West Coast, entertainment takes center stage at <b>Six Flags Magic Mountain's Holiday in the Park</b> as it raises the curtain on <b>seven new live shows</b>. From high-energy musical productions and toe-tapping holiday performances to the loveable <i>Looney Tunes</i>, merry elves, playful comedy and festive surprises, the expanded entertainment lineup will bring the sights and sounds of the season to life throughout the park. A tree-lighting ceremony and other returning favorites round out the celebration, keeping the holiday spirit alive after the sun goes down.</p><p><b>Knott's Berry Farm's</b> beloved <b>Merry Farm</b> introduces a spectacular, new ice skating show in the Walter Knott Theater, \"<b>Snoopy's Christmas Follies</b>.\" This unforgettable production features a swinging vocal quartet performing beloved holiday classics, a dazzling line of high-kicking follies dancers, a company of world-class ice skaters, and, of course, Snoopy and the beloved Peanuts Gang. Overflowing with timeless Christmas tunes, breathtaking skating, spectacular showmanship, and heartwarming holiday magic, it's a festive celebration the whole family can enjoy.</p><p><b>More ways for families to experience Six Flags parks together</b></p><p>The holiday season is about spending time together, and Six Flags is introducing new ways to make those experiences more accessible for families across generations.</p><ul type=\"disc\"><li><b>New! Free Senior Admission:</b> New for the 2026 holidays, guests age 65 and older can receive free unlimited admission at their home park through the end of the 2026 operating season. This new benefit gives families another way to bring grandparents and extended family along for everything from a child's first coaster ride to a day together at the park. Interested guests must register online and activate at their home park by the end of the park's 2026 season. Information is available on the park's ticket page.<i> Canada's Wonderland tickets go live Nov. 10. Offer excludes Knott's Berry Farm and season pass-related benefits.</i></li><li><b>Limited-time Black Friday offer:</b> Guests at participating parks can <b>\"buy a day\" and get the 2027 spring and summer season included</b>, providing months of amusement park fun for the price of a single visit. Offer valid through Nov. 30. <i>Excludes Knott's Berry Farm and Canada's Wonderland. </i></li><li><b>Black Friday free bring-a-friend ticket:</b> Each new and renewing season pass, and new membership, will receive a bring-a-friend-for-free ticket. Offer valid through Nov. 30, and redemption dates vary based on park operating schedule, see each park website for details.</li></ul><p>Together, the offers provide more ways for families to experience a Six Flags park and extend the gift well beyond the holidays.</p><p><b>11 parks, four signature holiday celebrations</b></p><p>Across the Six Flags portfolio, 11 parks will celebrate the season in 2026:</p><p><b>Holiday in the Park</b></p><ul type=\"disc\"><li><b>New!</b> Six Flags Great Adventure, Jackson, NJ: Select dates November 21, 2026 - January 3, 2027</li><li><b>New!</b> Six Flags Over Georgia, Mableton, Ga.: Select dates, Nov. 21, 2026 to Jan. 3, 2027</li><li>Six Flags Magic Mountain, Valencia, Ca.: Select dates Nov. 26, 2026 to Jan. 3, 2027</li><li>Six Flags Fiesta Texas, San Antonio, Texas: Select dates Nov. 21, 2026 to Jan. 4, 2027</li><li>Six Flags Over Texas, Arlington, Texas: Select dates Nov. 22 to Dec. 30, 2026</li></ul><p><b>WinterFest</b></p><ul type=\"disc\"><li>Canada's Wonderland, Vaughan, Ont.: Select dates Nov. 21, 2026 to Jan. 3, 2027</li><li>Carowinds, Charlotte, N.C.: Select dates Nov. 27, 2026 to Jan. 3, 2027</li><li>Six Flags Discovery Kingdom, Vallejo, Ca.: Select dates Nov. 27, 2026 to Jan. 3 2027</li><li>Kings Island, Mason, Ohio: Select dates Nov. 27 to Dec. 31, 2026</li></ul><p><b>Knott's Merry Farm</b></p><ul type=\"disc\"><li>Knott's Berry Farm, Buena Park, Ca.: Select days Nov. 20, 2026 to Jan. 3, 2027</li></ul><p><b>Christmas in the Park</b></p><ul type=\"disc\"><li>Six Flags México, Mexico City, Mexico: Select dates Nov. 26, 2026 to Jan. 17, 2027</li></ul><p>Although each park puts its own spin on the holidays, guests will find many of the traditions that have made these holiday events annual favorites.</p><p><b>Millions of lights, thrilling rides and holiday traditions</b></p><p>When the sun goes down, the lights come on. Millions of colorful lights will illuminate participating Six Flags parks, transforming midways, buildings, trees and themed lands into sparkling holiday settings. Guests can enjoy select roller coasters, family rides and children's attractions, weather and conditions permitting, along with live entertainment ranging from tree-lighting ceremonies and carolers to musicians, dancers and large-scale productions.</p><p>Beyond the lights and rides, holiday traditions will fill the parks with even more ways to celebrate. Depending on the location, guests can visit Santa Claus, go ice skating, decorate cookies, make s'mores, sip hot chocolate, relax in heated igloos and discover interactive experiences throughout the park. Offerings vary by location and some may require an additional fee.</p><p>Seasonal food and beverages will round out the experience, with limited-time menus featuring holiday comfort foods, regional specialties, decadent desserts, hot chocolate and festive cocktails and mocktails. Inspired by flavors from Canada, California, the Great Lakes, Texas, the Southeast and Mexico, the offerings give each destination its own taste of the season.</p><p><b>Ring in 2027 at Six Flags</b></p><p>The holiday season doesn't end with Christmas. Guests can ring in 2027 with special New Year's Eve celebrations at select parks including Carowinds, Kings Island, Knott's Berry Farm, Six Flags Fiesta Texas and Six Flags Magic Mountain. From family-friendly festivities and early countdowns to spectacular fireworks displays and celebrations at midnight, Six Flags parks offer memorable ways for families and friends to say goodbye to 2026 and welcome the new year together.</p><p><b>Merry extended-stay offers this Black Friday</b></p><p>Six Flags' Black Friday offers include extended-stay holiday experiences. For those looking to turn their visit into a holiday getaway, guests who <b>book two nights at participating Six Flags resorts can receive a third night free</b>. Select resorts extend the celebration beyond the theme park gates with festive accommodations, seasonal activities and relaxing holiday escapes, including:</p><ul type=\"disc\"><li>Buena Park, Ca.<ul type=\"circle\"><li><b>Knott's Hotel, Buena Park, California</b><br></br>Located steps from Knott's Berry Farm, holiday packages will provide an easy way to turn a visit to Knott's Merry Farm into a Southern California holiday getaway, with select packages offering park admission and additional hotel benefits.</li></ul></li><li>Sandusky, Ohio<ul type=\"circle\"><li><b>Castaway Bay</b>: The Lake Erie-area indoor waterpark resort will offer holiday-themed activities, meet-and-greets with Santa and admission to its indoor waterpark.</li><li><b>Sawmill Creek Resort</b>: The 236‑room lodge and golf course will feature festive holiday décor.</li></ul></li><li>New Braunfels, Texas<ul type=\"circle\"><li><b>Schlitterbahn Waterpark &amp; Resort, New Braunfels, Texas</b><br></br>Guests can make the resort a home base for a holiday escape to the Texas Hill Country, with seasonal décor throughout the property. The resort remains open while the waterpark is closed for the season.</li></ul></li><li>Charlotte, N.C.<ul type=\"circle\"><li><b>SpringHill Suites at Carowinds </b>and<b> Carowinds Camp Wilderness, Charlotte, N.C.: </b>Guests can make the hotel or campground a homebase while enjoying the magic of the holidays at Carowinds' Winterfest.</li></ul></li><li>Doswell, Va.<ul type=\"circle\"><li><b>Kings Dominion KOA: </b>Visitors looking for RV and tent sites or cabins can plan a winter getaway with a stay at the park's nearby campground that offers easy access to nearby seasonal events and attractions. Kings Dominion closes for the season Nov. 29, and the campground remains open all year.</li></ul></li></ul><p>Earlier this year, Six Flags rolled out its new <b>Hotel Partner Program</b>, designed to make planning the perfect Six Flags getaway easier, faster and more seamless than ever before. The program makes planning an overnight or multi-day getaway easier by allowing guests to book park admission and accommodations with trusted hotel partners near select parks through SixFlags.com.</p><p><b>More parks, more holiday fun:</b> Six Flags' regional passes give passholders more ways to celebrate throughout the season, with access to four parks offering holiday events in the West Region, three in the East Region, and two each in the Midwest and Texas regions. Even if a passholder's home park is closed for the season, they can continue the fun at participating parks in their region, creating more opportunities to make Six Flags part of their holiday traditions.</p><p>For complete event dates, hours, tickets, Season Passes and details about each park's holiday celebration, visit <b>SixFlags.com</b> or the individual park and resort websites.</p><p><b>About Six Flags Entertainment Corporation</b></p><p>Six Flags Entertainment Corporation (NYSE: FUN) is North America's largest regional amusement-resort enterprise. The Company operates a premier portfolio of 20 amusement parks, 14 water parks, and nine resort properties across 13 U.S. states, Canada, and Mexico, as well as an amusement park in Saudi Arabia. Focused on its purpose of creating FUN, thrills, and a lifetime of memories, Six Flags provides immersive entertainment to millions of guests every year with world-class coasters, themed rides, and thrilling water parks powered by beloved intellectual property such as Looney Tunes®, DC Comics®, and PEANUTS®.</p><p>© 2026 SIX FLAGS ENTERTAINMENT CORPORATION</p><p>LOONEY TUNES and all related characters and elements © &amp; ™ Warner Bros. Entertainment Inc.</p><p>© 2026 Peanuts Worldwide LLC</p><p>For media assets, click here: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813728-1&amp;h=4267851251&amp;u=https%3A%2F%2Fsixflags-my.sharepoint.com%2Fpersonal%2Fkristin_fitzgerald_sixflags_com%2F_layouts%2F15%2Fonedrive.aspx%3Fid%3D%252Fpersonal%252Fkristin%255Ffitzgerald%255Fsixflags%255Fcom%252FDocuments%252FDocuments%252FPress%2520Releases%252C%2520Media%2520Kits%2520%2526%2520New%2520Cap%252FWinter%2520Holiday%252FSix%2520Flags%2520Holiday%25202026%2520Media%2520Kit%26share%3DcgpyxAZRs1PhS6rWNWkqTnTAEgUCVm%255Faea1rb0ACucPgHeSlnQ&amp;a=Six+Flags+Holiday+2026+Media+Kit.\" target=\"_blank\" rel=\"nofollow\">Six Flags Holiday 2026 Media Kit.</a> Please credit \"Courtesy of Six Flags\" when assets are in use.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1701306/Six-Flags-Entertainment-Corporation-Logo.jpg?id=OA3056527\" title=\"Six Flags Entertainment Corporation logo\" alt=\"Six Flags Entertainment Corporation logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA88453&amp;sd=2026-11-04\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/six-flags-expands-the-holiday-cheer-with-more-parks-more-events-and-more-ways-for-families-to-celebrate-in-2026-302928616.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/six-flags-expands-the-holiday-cheer-with-more-parks-more-events-and-more-ways-for-families-to-celebrate-in-2026-302928616.html</a></p><p>SOURCE Six Flags Entertainment Corporation</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA88453&amp;Transmission_Id=202611040700PR_NEWS_USPR_____DA88453&amp;DateId=20261104\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Six Flags Entertainment Corporation",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 4,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-04T14:49:36.877Z"
+    },
+    {
+      "company": [
+        "Causal"
+      ],
+      "date": "20261104T101000+0000",
+      "dateline": "LOS ANGELES, Nov. 4, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "DTA",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Meet Causal ONE, a new intelligence platform connecting audience discovery and media planning\n",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2027078/Screenshot-2026-10-28-135154.jpg?id=OA3057369&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2027078/Screenshot-2026-10-28-135154.jpg?id=OA3057369&p=publish"
+        },
+        {
+          "caption": "Causal IQ Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1786734/causal-iQ-Logo.jpg?id=OA3057368&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1786734/causal-iQ-Logo.jpg?id=OA3057368&p=publish"
+        }
+      ],
+      "release_id": "20261104LA88803",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>New platform helps marketers challenge audience assumptions, uncover growth opportunities, and translate insights into strategic media recommendations</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Causal, an award-winning provider of advanced digital advertising solutions, today announced the launch of Causal ONE, an intelligence platform designed to transform how marketers approach audience discovery and media planning.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2027078/Screenshot-2026-10-28-135154.jpg?id=OA3057369\" title=\"Meet Causal ONE, a new intelligence platform connecting audience discovery and media planning\r\n\" alt=\"Meet Causal ONE, a new intelligence platform connecting audience discovery and media planning\r\n\"></img>\n                </p>\n    </div>\n<p>Causal ONE brings brand intelligence, audience discovery, media strategy, and creative inspiration together in one connected experience. Starting with a brand's website, business objectives, geographic priorities, and targeting inputs, the platform combines brand research with Causal's performance data and benchmarking capabilities to identify relevant audiences and uncover opportunities that may otherwise go unexplored.</p>",
+      "ticker": [],
+      "title": "Causal Launches Causal ONE, a New Intelligence Platform Connecting Audience Discovery and Media Planning",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261104LA88803",
+      "body": "\n<p><i>New platform helps marketers challenge audience assumptions, uncover growth opportunities, and translate insights into strategic media recommendations</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Causal, an award-winning provider of advanced digital advertising solutions, today announced the launch of Causal ONE, an intelligence platform designed to transform how marketers approach audience discovery and media planning.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2027078/Screenshot-2026-10-28-135154.jpg?id=OA3057369\" title=\"Meet Causal ONE, a new intelligence platform connecting audience discovery and media planning\r\n\" alt=\"Meet Causal ONE, a new intelligence platform connecting audience discovery and media planning\r\n\"></img>\n                </p>\n    </div>\n<p>Causal ONE brings brand intelligence, audience discovery, media strategy, and creative inspiration together in one connected experience. Starting with a brand's website, business objectives, geographic priorities, and targeting inputs, the platform combines brand research with Causal's performance data and benchmarking capabilities to identify relevant audiences and uncover opportunities that may otherwise go unexplored.</p><p>\"Causal ONE represents an important step forward for our business and how we help clients approach audience strategy,\" said Farshad Fardad, CEO of Causal. \"We built it to challenge conventional thinking about audiences and give our teams and clients a more connected way to move from brand understanding to new opportunities. It brings together the expertise and innovation our teams have developed over the past two years in a single experience.\"</p><p>At the center of Causal ONE are Audience Blueprints, which provide a deeper understanding of potential audiences by explaining the signals behind them, what makes them distinct, and how they could be reached. Rather than stopping at audience identification, the platform enables users to prioritize audiences, explore channel opportunities, and connect those decisions in a strategic media plan.</p><p>Causal ONE also incorporates illustrative creative concepts, helping teams visualize potential campaign directions and make emerging strategies more tangible. By connecting audience intelligence with media recommendations and creative exploration, the platform gives marketers a more informed starting point for evaluating opportunities and developing activation strategies.</p><p>The initial experience was designed to bring greater value to the early stages of the media planning process, equipping Causal's teams with a research-led foundation for client conversations. Additional analytical capabilities extend the experience through pixel-based audience insights, live business data, and period-over-period reporting, providing further context for ongoing analysis and planning.</p><p>\"As a media planner, what I love about the platform is how beautifully it brings together human expertise and agentic technology,\" said Shana Atwood, Vice President of Strategic Planning. \"By turning our proprietary data into an intelligent starting point, we can get to recommendations faster, giving our teams more time to apply the context and nuance that technology can't replicate. Tech makes the recommendation faster and better, our people make it meaningful.\"</p><p>Developed through collaboration across Causal's technology, decision science, media planning, partnerships, and other teams, Causal ONE reflects the company's continued investment in connecting its capabilities into a more cohesive approach to audience intelligence and activation.</p><p>With Causal ONE, marketers can move beyond familiar audience definitions, explore new possibilities, and connect those discoveries to strategic media decisions.</p><p>To learn more about Causal ONE, visit causaliq.com/one</p><p><b><u>About Causal</u></b> </p><p>Causal is a leading programmatic audience development and activation solution. With a focus on innovation and data-driven strategies, Causal empowers the world's leading advertisers to reimagine audiences while exceeding media performance objectives. By leveraging unique data points and optimization methodology, Causal brings a human approach to data science and campaign activation. </p><p>To learn more, visit causaliq.com </p><p><b>Press Contact</b> <br></br>Sayeh Hirmand, Causal  <br></br><a href=\"mailto:shirmand@causaliq.com\" target=\"_blank\" rel=\"nofollow\"><b>shirmand@causaliq.com</b></a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1786734/causal-iQ-Logo.jpg?id=OA3057368\" title=\"Causal IQ Logo\" alt=\"Causal IQ Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA88803&amp;sd=2026-11-04\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/causal-launches-causal-one-a-new-intelligence-platform-connecting-audience-discovery-and-media-planning-302929068.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/causal-launches-causal-one-a-new-intelligence-platform-connecting-audience-discovery-and-media-planning-302929068.html</a></p><p>SOURCE Causal</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA88803&amp;Transmission_Id=202611040510PR_NEWS_USPR_____LA88803&amp;DateId=20261104\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Causal",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 5,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:digital advertising",
+            "summary:advertising",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-11-04T14:49:36.976Z"
+    },
     {
       "company": [
         "Factor4"
