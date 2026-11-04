@@ -1,11 +1,99 @@
 {
-  "generated_at": "2026-11-04T14:49:33.550Z",
+  "generated_at": "2026-11-04T21:09:24.799Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "engineering",
   "page_url": "https://www.mediajobsreport.com/engineering_news",
-  "count": 2,
+  "count": 3,
   "releases": [
+    {
+      "company": [
+        "Barksdale"
+      ],
+      "date": "20261104T171300+0000",
+      "dateline": "LOS ANGELES, Nov. 4, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MCT",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Temperature Transmitter BT1 Series by Barksdale Control Products",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2026785/Temperature-Transducer-BT1-Announcing-post-LinkedIn.jpg?id=OA3056600&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2026785/Temperature-Transducer-BT1-Announcing-post-LinkedIn.jpg?id=OA3056600&p=publish"
+        },
+        {
+          "caption": "Barksdale Control Product Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2026784/BdaleLogo-Crane-R-2026_RGB.jpg?id=OA3056597&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2026784/BdaleLogo-Crane-R-2026_RGB.jpg?id=OA3056597&p=publish"
+        }
+      ],
+      "release_id": "20261104SF88504",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>Compact stainless-steel temperature transmitter for hydraulic, mobile, oil and gas, and factory automation equipment</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Barksdale Control Products today announced the BT1 Temperature Transmitter, a compact RTD temperature transmitter for fast-response sensing in aggressive media and high-cycle environments. The BT1 comes with analog output options, and intrinsically safe CSA and ATEX for hazardous locations.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026785/Temperature-Transducer-BT1-Announcing-post-LinkedIn.jpg?id=OA3056600\" title=\"Temperature Transmitter BT1 Series by Barksdale Control Products\" alt=\"Temperature Transmitter BT1 Series by Barksdale Control Products\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Barksdale BT1 Temperature Transmitter: Fast-Response, Intrinsically Safe RTD Transmitter with Analog Outputs",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261104SF88504",
+      "body": "\n<p><i>Compact stainless-steel temperature transmitter for hydraulic, mobile, oil and gas, and factory automation equipment</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Barksdale Control Products today announced the BT1 Temperature Transmitter, a compact RTD temperature transmitter for fast-response sensing in aggressive media and high-cycle environments. The BT1 comes with analog output options, and intrinsically safe CSA and ATEX for hazardous locations.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026785/Temperature-Transducer-BT1-Announcing-post-LinkedIn.jpg?id=OA3056600\" title=\"Temperature Transmitter BT1 Series by Barksdale Control Products\" alt=\"Temperature Transmitter BT1 Series by Barksdale Control Products\"></img>\n                </p>\n    </div>\n<p>Built around a Class B PT100 element in a stainless-steel housing, the BT1 measures process temperatures from -40°C to 200°C (-40°F to 392°F). It is designed for drift-resistant performance and withstands 20 g vibration across three axes and a 1-meter free fall.</p><p><b>KEY FEATURES</b></p><ul type=\"disc\"><li><b>Fast response: </b>Compact stainless-steel construction for fast-response temperature sensing in aggressive media and high-cycle environments.</li><li><b>Flexible outputs: </b>Analog options for modern platforms, including 4–20 mA and voltage outputs.</li><li><b>Hazardous-location approvals: </b>Intrinsically safe CSA (C1D1) and ATEX (Ex ia) options.</li><li><b>Rugged design: </b>Reverse-polarity and overvoltage protection, with IP65 or IP67 ingress protection depending on the electrical connector.</li></ul><p><b>WHERE THE BT1 FITS</b></p><p>The BT1 is built for hydraulic and pneumatic systems, heavy mobile equipment, OEM factory automation, wellhead tubing, casing and BOP systems, fracking trucks, natural gas compressors and turbines, and mobile hydraulics.</p><p><i>\"Hazardous-area approval shouldn't mean overpaying. The BT1 extends our temperature portfolio with a cost-effective option customers can trust,\"</i> said Frieda Hovsepian, VP Sales and Marketing, Barksdale Control Products.</p><p>To review our BT1 Temperature Transmitter Data Sheet, please visit: </p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813782-1&amp;h=4078583641&amp;u=https%3A%2F%2Fwww.barksdale.com%2Fproducts%2Ftemperature%2Fbt1-temperature-transmitter%3Futm_source%3Dprnewsletter%26utm_medium%3Dnews%26utm_campaign%3Dbt1_press_release&amp;a=https%3A%2F%2Fwww.barksdale.com%2Fproducts%2Ftemperature%2Fbt1-temperature-transmitter%3Futm_source%3Dprnewsletter%26utm_medium%3Dnews%26utm_campaign%3Dbt1_press_release\" target=\"_blank\" rel=\"nofollow\">https://www.barksdale.com/products/temperature/bt1-temperature-transmitter?utm_source=prnewsletter&amp;utm_medium=news&amp;utm_campaign=bt1_press_release</a></p><p><b>ABOUT BARKSDALE CONTROL PRODUCTS</b></p><p>Barksdale Control Products, a subsidiary of Crane Company, is a global leader in precision fluid-control instrumentation. For more than 70 years, Barksdale has designed switches, transducers, regulators and valves for industrial automation, energy and transportation applications.</p><p><b>Media Contact:</b><br></br>Diego Cortes, Marketing &amp; Communications Specialist<br></br><a href=\"mailto:marketing@barksdale.com\" target=\"_blank\" rel=\"nofollow\">marketing@barksdale.com</a> | +1 (213) 468-4562</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026784/BdaleLogo-Crane-R-2026_RGB.jpg?id=OA3056597\" title=\"Barksdale Control Product Logo\" alt=\"Barksdale Control Product Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF88504&amp;sd=2026-11-04\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/barksdale-bt1-temperature-transmitter-fast-response-intrinsically-safe-rtd-transmitter-with-analog-outputs-302929544.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/barksdale-bt1-temperature-transmitter-fast-response-intrinsically-safe-rtd-transmitter-with-analog-outputs-302929544.html</a></p><p>SOURCE Barksdale</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF88504&amp;Transmission_Id=202611040900PR_NEWS_USPR_____SF88504&amp;DateId=20261104\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Barksdale",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "engineering"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "engineering"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 5,
+          "entertainment": 1,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "engineering": [
+            "transmitter"
+          ],
+          "entertainment": [
+            "summary:actor"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-04T21:09:27.925Z"
+    },
     {
       "company": [
         "The Media Technology Monitor (MTM)"
