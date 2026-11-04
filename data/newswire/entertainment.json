@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-11-03T19:25:41.415Z",
+  "generated_at": "2026-11-04T00:09:11.804Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 168,
+  "count": 169,
   "releases": [
+    {
+      "company": [
+        "Working Royals"
+      ],
+      "date": "20261103T195900+0000",
+      "dateline": "VANCOUVER, BC, Nov. 3, 2026",
+      "feed": [
+        "prnj_cnw",
+        "CNWCOMP",
+        "CNW",
+        "CNW_FOR_US_WEB"
+      ],
+      "geography": [
+        "BCO",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "MUS"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Holiday Album Cover",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2026556/Working-Royals-Working-Royals-Sign-with-Headwater-Music-Group.jpg?id=OA3055934&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2026556/Working-Royals-Working-Royals-Sign-with-Headwater-Music-Group.jpg?id=OA3055934&p=publish"
+        },
+        {
+          "caption": "2nd Annual Holiday Performance Poster",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2026554/Working-Royals-Working-Royals-Sign-with-Headwater-Music-Group.jpg?id=OA3055933&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2026554/Working-Royals-Working-Royals-Sign-with-Headwater-Music-Group.jpg?id=OA3055933&p=publish"
+        }
+      ],
+      "release_id": "20261103C8041",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Nov. 3, 2026</span> /CNW/ -- Vancouver and Toronto's own <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=505615227&amp;u=https%3A%2F%2Fworkingroyals.ca%2F&amp;a=Working+Royals\" target=\"_blank\" rel=\"nofollow\">Working Royals</a> are officially joining forces with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=1327370115&amp;u=https%3A%2F%2Fheadwatermusicgroup.com%2F&amp;a=Headwater+Music+Group\" target=\"_blank\" rel=\"nofollow\">Headwater Music Group</a>, with global distribution powered by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=3740165836&amp;u=https%3A%2F%2Fada-music.com%2F&amp;a=ADA%2FWarner\" target=\"_blank\" rel=\"nofollow\">ADA/Warner</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026556/Working-Royals-Working-Royals-Sign-with-Headwater-Music-Group.jpg?id=OA3055934\" title=\"Holiday Album Cover\" alt=\"Holiday Album Cover\"></img>\n                </p>\n    </div>\n<p><b>Pre-save our</b> <b>Focus Track: \"</b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=2321624802&amp;u=https%3A%2F%2Fourchristmas.lnk.to%2FZcmJ4a&amp;a=This+is+Our+Christmas\" target=\"_blank\" rel=\"nofollow\"><b>This is Our Christmas</b></a><b>\" </b>featuring <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=1768534572&amp;u=https%3A%2F%2Fhaleymcneil.com%2F&amp;a=Haley+McNeil\" target=\"_blank\" rel=\"nofollow\">Haley McNeil</a>.</p><p><b>Singles Arriving Nov 6, 2026! Full Album Nov 20, 2026.</b></p><p>\"This is Our Christmas\" featuring Haley McNeil. Haley says \"I had the chance to head out to Vancouver and spend some time recording with The Working Royals. Zach and Paul were amazing to work with, and I'm so happy with what we created together!\"</p>",
+      "ticker": [],
+      "title": "Working Royals Sign with Headwater Music Group / ADA Warner: Announce Two New Singles, Holiday Album, and \"Working Royals and Friends Holiday Revue\"",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261103C8041",
+      "body": "\n<p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Nov. 3, 2026</span> /CNW/ -- Vancouver and Toronto's own <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=505615227&amp;u=https%3A%2F%2Fworkingroyals.ca%2F&amp;a=Working+Royals\" target=\"_blank\" rel=\"nofollow\">Working Royals</a> are officially joining forces with <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=1327370115&amp;u=https%3A%2F%2Fheadwatermusicgroup.com%2F&amp;a=Headwater+Music+Group\" target=\"_blank\" rel=\"nofollow\">Headwater Music Group</a>, with global distribution powered by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=3740165836&amp;u=https%3A%2F%2Fada-music.com%2F&amp;a=ADA%2FWarner\" target=\"_blank\" rel=\"nofollow\">ADA/Warner</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026556/Working-Royals-Working-Royals-Sign-with-Headwater-Music-Group.jpg?id=OA3055934\" title=\"Holiday Album Cover\" alt=\"Holiday Album Cover\"></img>\n                </p>\n    </div>\n<p><b>Pre-save our</b> <b>Focus Track: \"</b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=2321624802&amp;u=https%3A%2F%2Fourchristmas.lnk.to%2FZcmJ4a&amp;a=This+is+Our+Christmas\" target=\"_blank\" rel=\"nofollow\"><b>This is Our Christmas</b></a><b>\" </b>featuring <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=1768534572&amp;u=https%3A%2F%2Fhaleymcneil.com%2F&amp;a=Haley+McNeil\" target=\"_blank\" rel=\"nofollow\">Haley McNeil</a>.</p><p><b>Singles Arriving Nov 6, 2026! Full Album Nov 20, 2026.</b></p><p>\"This is Our Christmas\" featuring Haley McNeil. Haley says \"I had the chance to head out to Vancouver and spend some time recording with The Working Royals. Zach and Paul were amazing to work with, and I'm so happy with what we created together!\"</p><p><b>About The Full Album, A Regal Holiday: Arriving Nov 20, 2026 </b></p><p>Recorded at Vancouver's legendary Warehouse Studios. A Regal Holiday bridges the band's signature melodic grit with timeless holiday nostalgia. The album pays homage to icons like Joni Mitchell, The Band, Gordon Lightfoot, and Donny Hathaway, featuring powerhouse guest spots from Haley McNeil, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=2140098742&amp;u=https%3A%2F%2Fjimisound.ca%2F&amp;a=Jimi\" target=\"_blank\" rel=\"nofollow\">Jimi</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=3072681817&amp;u=https%3A%2F%2Fwww.emmettjeromemusic.com%2F&amp;a=Emmett+Jerome\" target=\"_blank\" rel=\"nofollow\">Emmett Jerome</a>. Produced by Juno award winning producer <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=478984861&amp;u=https%3A%2F%2Fwww.kaplankrunch.com%2F&amp;a=Ben+Kaplan\" target=\"_blank\" rel=\"nofollow\">Ben Kaplan</a> (Mother Mother) and Ben Finkleman, the 10-song record celebrates the magic of collaboration and classic songwriting.</p><p><b>Celebrate Live: </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=3211111801&amp;u=https%3A%2F%2Fwww.hollywoodtheatre.ca%2Fevents%2Fworking-royals-friends-holiday-revue&amp;a=Working+Royals+%26+Friends+Holiday+Revue+2026\" target=\"_blank\" rel=\"nofollow\"><b>Working Royals &amp; Friends Holiday Revue 2026</b></a></p><p>To toast the new record and party with the hometown crowd, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=1659517330&amp;u=https%3A%2F%2Flossundays.ca%2F&amp;a=Los+Sundays+Tequila\" target=\"_blank\" rel=\"nofollow\">Los Sundays Tequila</a> and MRG present the Working Royals and Friends Holiday Revue 2026! Featuring <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=668711752&amp;u=https%3A%2F%2Fwww.ryangoldmouth.com%2F&amp;a=Ryan+Goldmouth%C2%A0\" target=\"_blank\" rel=\"nofollow\">Ryan Goldmouth </a>of Mother Mother, Emmett Jerome, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=992439659&amp;u=https%3A%2F%2Fwww.antoniolarosamusic.com%2F&amp;a=Antonio+Larosa\" target=\"_blank\" rel=\"nofollow\">Antonio Larosa</a>, Haley McNeil and very special surprise guests. In Support of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=170047294&amp;u=https%3A%2F%2Fmusicheals.ca%2F&amp;a=Music+Heals.\" target=\"_blank\" rel=\"nofollow\">Music Heals.</a></p><ul type=\"disc\"><li><b>When: Friday, December 18, 2026</b></li><li><b>Where: The iconic Hollywood Theatre, Vancouver, BC</b></li><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=2617647001&amp;u=https%3A%2F%2Fadmitone.com%2Fevents%2Fvancouver%2Fpro%2Fconcerts%2Fhollywood-theatre%2Fworking-royals%2Fworking-royals-friends-holiday-revue%2F6ad649402dd7cb0088c3ec5a&amp;a=TICKETS+%3A+Grab+yours+now+via+AdmitONE\" target=\"_blank\" rel=\"nofollow\"><b>TICKETS : Grab yours now via AdmitONE</b></a></li></ul><p><b>About Working Royals:</b></p><p>Forged between Vancouver and Toronto, Working Royals bring together veteran songwriters Zach Kellum, Ben Finkleman and Paul Meehan. With decades spent on stage, in the studio the trio combines seasoned craft with a passion for conjuring epic songs together.</p><p>Built on a shared love of timeless songwriting and collaboration, Working Royals create melodic, high-energy songs made to last. Since forming in 2025, the band has surpassed 3 million streams, with signature tracks including \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=1259476960&amp;u=https%3A%2F%2Fyoutu.be%2Fc7EREdXfmZM%3Fsi%3Dd8Il7wPZOUBfO63r&amp;a=Jenny\" target=\"_blank\" rel=\"nofollow\">Jenny</a>,\" and \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=2043416196&amp;u=https%3A%2F%2Fyoutu.be%2FcJWKJu4rAjo%3Fsi%3DInQ51dnjpFnOh2Rm&amp;a=Second+Wind\" target=\"_blank\" rel=\"nofollow\">Second Wind</a>\" showcasing the bands driving sound.</p><p><b>About Headwater Music Group:</b></p><p>Headwater Music Group is the Vancouver Island-based independent label system built to develop artists through licensing, not traditional record contracts. With artist-owned masters, global distribution through ADA/Warner, strategic label services and hands-on development, Headwater supports emerging Canadian talent through a growing network of genre-focused sublabels.</p><p>A Regal Holiday Track Listing:</p><ol type=\"1\"><li>Everyday will be like a holiday</li><li>This is our Christmas feat Haley McNeil</li><li>Christmas must be tonight feat Emmett Jerome</li><li>Song for a winters night</li><li>The Christmas</li><li>The Moment feat Haley McNeil and Jimi</li><li>A Holiday with you</li><li>Ready or not</li><li>Bells</li><li>River</li></ol><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813256-1&amp;h=3011755353&amp;u=https%3A%2F%2Fworkingroyals.ca%2F&amp;a=www.workingroyals.ca\" target=\"_blank\" rel=\"nofollow\">www.workingroyals.ca</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026554/Working-Royals-Working-Royals-Sign-with-Headwater-Music-Group.jpg?id=OA3055933\" title=\"2nd Annual Holiday Performance Poster\" alt=\"2nd Annual Holiday Performance Poster\"></img>\n                </p>\n</div>\n\n\n\n<p>SOURCE Working Royals</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C8041&amp;Transmission_Id=202611031459CANADANWCANADAPR_C8041&amp;DateId=20261103\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Working Royals",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "album",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-04T00:09:13.946Z"
+    },
     {
       "company": [
         "The Los Angeles Film School"
