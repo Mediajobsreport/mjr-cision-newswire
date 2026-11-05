@@ -1,11 +1,165 @@
 {
-  "generated_at": "2026-11-05T16:42:28.194Z",
+  "generated_at": "2026-11-05T22:22:58.554Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 132,
+  "count": 133,
   "releases": [
+    {
+      "company": [
+        "Zywave"
+      ],
+      "date": "20261105T180300+0000",
+      "dateline": "MILWAUKEE, Nov. 5, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "WIS",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "INS",
+        "FIN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Zywave_logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1257114/Zywave-Logo.jpg?id=OA3061279&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1257114/Zywave-Logo.jpg?id=OA3061279&p=publish"
+        }
+      ],
+      "release_id": "20261105CG90452",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>Producer Agent moves into Zywave Apex™ MCP, and new system connections help every renewal start ready</i></p><p><span class=\"legendSpanClass\">MILWAUKEE</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=1477736567&amp;u=http%3A%2F%2Fwww.zywave.com%2F&amp;a=Zywave\" target=\"_blank\" rel=\"nofollow\">Zywave</a>, a leading technology provider for insurance distribution, today announced the second set of updates in its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=518025755&amp;u=https%3A%2F%2Fgo.zywave.com%2Fzywave-fall-2026-launch-the-competitive-edge-built-in-webinar-registration.html&amp;a=Fall+2026+Launch\" target=\"_blank\" rel=\"nofollow\">Fall 2026 Launch</a>, helping producers win new business, agencies start every renewal ready, and carriers see how their distribution is performing.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1257114/Zywave-Logo.jpg?id=OA3061279\" title=\"Zywave_logo\" alt=\"Zywave_logo\"></img>\n                </p>\n    </div>\n<p>These updates build on the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=628374570&amp;u=https%3A%2F%2Fwww.zywave.com%2Fblog%2Fzywave-apex-ai-updates-deliver-sharper-prospecting-and-commercial-loss-data-in-leading-ai-tools%2F&amp;a=Zywave+Apex%E2%84%A2+AI+announcements+made+in+October\" target=\"_blank\" rel=\"nofollow\">Zywave Apex™ AI announcements made in October</a>. The expanded offerings include the full Producer Agent prospecting workflow and Loss Data connector in Zywave Apex MCP, robust new carrier analytics on quoting in MGA Hub, and deeper connectivity across the Zywave suite for both Partner Platform and Agency Matrix.</p>",
+      "ticker": [],
+      "title": "Zywave 2026 Fall Launch Connects Producers, Agencies and Carriers for Stronger Insurance Distribution",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105CG90452",
+      "body": "\n<p><i>Producer Agent moves into Zywave Apex™ MCP, and new system connections help every renewal start ready</i></p><p><span class=\"legendSpanClass\">MILWAUKEE</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=1477736567&amp;u=http%3A%2F%2Fwww.zywave.com%2F&amp;a=Zywave\" target=\"_blank\" rel=\"nofollow\">Zywave</a>, a leading technology provider for insurance distribution, today announced the second set of updates in its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=518025755&amp;u=https%3A%2F%2Fgo.zywave.com%2Fzywave-fall-2026-launch-the-competitive-edge-built-in-webinar-registration.html&amp;a=Fall+2026+Launch\" target=\"_blank\" rel=\"nofollow\">Fall 2026 Launch</a>, helping producers win new business, agencies start every renewal ready, and carriers see how their distribution is performing.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1257114/Zywave-Logo.jpg?id=OA3061279\" title=\"Zywave_logo\" alt=\"Zywave_logo\"></img>\n                </p>\n    </div>\n<p>These updates build on the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=628374570&amp;u=https%3A%2F%2Fwww.zywave.com%2Fblog%2Fzywave-apex-ai-updates-deliver-sharper-prospecting-and-commercial-loss-data-in-leading-ai-tools%2F&amp;a=Zywave+Apex%E2%84%A2+AI+announcements+made+in+October\" target=\"_blank\" rel=\"nofollow\">Zywave Apex™ AI announcements made in October</a>. The expanded offerings include the full Producer Agent prospecting workflow and Loss Data connector in Zywave Apex MCP, robust new carrier analytics on quoting in MGA Hub, and deeper connectivity across the Zywave suite for both Partner Platform and Agency Matrix.</p><p>Zywave product experts will walk through the full Fall 2026 Launch in a webinar on November 11 at 12:00 p.m. CST. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=2458010017&amp;u=https%3A%2F%2Fgo.zywave.com%2Fzywave-fall-2026-launch-the-competitive-edge-built-in-webinar-registration.html&amp;a=Register+now\" target=\"_blank\" rel=\"nofollow\">Register now</a> to reserve your spot.</p><p>\"Our mission at Zywave is to connect the entire insurance marketplace, so that carriers and brokers can transact more effectively and efficiently,\" said Eric Rentsch, Chief Product Officer and Head of Emerging Markets at Zywave. \"This Fall Launch delivers on that promise of continued innovation: from the first prospecting conversation to the renewal, and from the agency to the carrier, every connection we add makes the rest more valuable.\"</p><p><b>Producer Agent: from the right prospect to a booked meeting</b></p><p>Producer Agent is now available in Zywave Apex MCP, bringing the full prospecting workflow, from identifying the ideal customer profile to a booked meeting, into Claude, ChatGPT and other MCP-compatible AI tools. Producers spend less time on research and outreach and more time in front of qualified prospects, while keeping final approval on every email.</p><p><b>Loss Data connector for Zywave Apex MCP</b></p><p>Zywave's commercial loss data is now reachable through leading AI tools with the Zywave Apex MCP: Loss Data connector. Users can ask for a loss profile on a company or on companies like it, drawn from Zywave's verified record of reported loss events, or pull the case-level detail behind it, with no custom integration and no extra steps.</p><p>For carriers, it extends the value of Loss Insight beyond the data science team. An underwriter who needs a fast answer no longer must submit a one-off request; they can ask the AI assistant they already use and get a real answer grounded in Zywave's loss data. For brokers, it works the same way in renewal and prospect meeting preparation: a broker can pull a loss profile on the account before walking into the room, moving the discussion from reactive to advisory.</p><p><b>Every renewal starts ready with Partner Platform and Advisor Agent</b></p><p>Partner Platform now connects to Advisor Agent, feeding driver and vehicle data into personal lines quoting. Renewals start with policy data already in place, and advisors walk in with quotes already run – putting hours back into your team's day.</p><p><b>Agency Matrix connected to the full Zywave toolkit</b></p><p>Agency Matrix accounts and policy information now flow into Zywave core account management, powering marketing and content applications, Producer Agent, and Advisor Agent. Data entered once unlocks more value across the Zywave suite.</p><p><b>MGA Hub Carrier Analytics Dashboard</b></p><p>A new dashboard in MGA Hub brings quoting activity, agency performance, and class and state breakdowns into one place, giving carriers live visibility into their MGA distribution network.</p><p><b>Expanded Carrier Connectivity and Content</b></p><p>Zywave also expanded the platform's network of carrier connectivity, adding two carriers across 47 states in benefits quoting, 19 carriers across home and auto in 18 states through TurboRater and the Personal Lines Quoting API, and one carrier in commercial lines on MGA Hub. In addition, Content Cloud now covers hundreds of new assets in the third quarter, including relevant assets for benefits open enrollment and health care cost content, a cyber awareness infographic series and guidance on new California workplace laws.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=2458010017&amp;u=https%3A%2F%2Fgo.zywave.com%2Fzywave-fall-2026-launch-the-competitive-edge-built-in-webinar-registration.html&amp;a=Register+now\" target=\"_blank\" rel=\"nofollow\">Register now</a> to reserve your spot for the Fall 2026 Launch webinar on November 11 at 12:00 p.m. CST.</p><p><b>ABOUT ZYWAVE</b></p><p>Zywave is transforming the growth model for insurance. Its Apex™ AI platform helps carriers, brokers and agents take smarter, faster actions to win, retain and grow customers, supported by a global ecosystem of 15,000 customers and partners. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815674-1&amp;h=3911031222&amp;u=http%3A%2F%2Fwww.zywave.com%2F&amp;a=www.zywave.com\" target=\"_blank\" rel=\"nofollow\">www.zywave.com</a>.</p><p><b>MEDIA CONTACT</b></p><p>Ashley Paula-Legge<br></br>Big Valley Marketing for Zywave<br></br><a href=\"mailto:ashley.paulalegge@zywave.com\" rel=\"nofollow\">ashley.paulalegge@zywave.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG90452&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/zywave-2026-fall-launch-connects-producers-agencies-and-carriers-for-stronger-insurance-distribution-302931146.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/zywave-2026-fall-launch-connects-producers-agencies-and-carriers-for-stronger-insurance-distribution-302931146.html</a></p><p>SOURCE Zywave</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG90452&amp;Transmission_Id=202611051303PR_NEWS_USPR_____CG90452&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Zywave",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "producer"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-11-05T22:23:01.697Z"
+    },
+    {
+      "company": [
+        "Superpath"
+      ],
+      "date": "20261105T171500+0000",
+      "dateline": "MONTGOMERY, Ala., Nov. 5, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "ABA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "HVA",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Superpath Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2026466/Superpath_Primary_Dark_With_MultiColor.jpg?id=OA3055587&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2026466/Superpath_Primary_Dark_With_MultiColor.jpg?id=OA3055587&p=publish"
+        }
+      ],
+      "release_id": "20261105CL90397",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "SBS"
+      ],
+      "summary": "<p><b>Partnership combines specialized digital marketing expertise with trusted dealer services to help HVAC and plumbing companies build stronger brands and generate more revenue.</b></p><p><span class=\"legendSpanClass\">MONTGOMERY, Ala.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- Superpath, a digital marketing agency specializing in home service contractors, has announced a new strategic marketing partnership with JB Warranties, a leading provider of extended warranty programs and dealer business services for the HVAC and plumbing industries.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026466/Superpath_Primary_Dark_With_MultiColor.jpg?id=OA3055587\" title=\"Superpath Logo\" alt=\"Superpath Logo\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Superpath and JB Warranties Announce Strategic Marketing Partnership to Help Home Service Contractors Grow",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105CL90397",
+      "body": "\n<p><b>Partnership combines specialized digital marketing expertise with trusted dealer services to help HVAC and plumbing companies build stronger brands and generate more revenue.</b></p><p><span class=\"legendSpanClass\">MONTGOMERY, Ala.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- Superpath, a digital marketing agency specializing in home service contractors, has announced a new strategic marketing partnership with JB Warranties, a leading provider of extended warranty programs and dealer business services for the HVAC and plumbing industries.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2026466/Superpath_Primary_Dark_With_MultiColor.jpg?id=OA3055587\" title=\"Superpath Logo\" alt=\"Superpath Logo\"></img>\n                </p>\n    </div>\n<p>The partnership brings together two companies focused on helping contractors grow their businesses. Through this relationship, JB Warranties dealers will have access to Superpath's specialized marketing expertise, technology, and strategies designed to increase visibility, generate qualified leads, and turn more opportunities into booked jobs.</p><p>For nearly 20 years, Superpath has helped hundreds of home service companies build stronger brands and grow revenue. Its Search Everywhere philosophy helps contractors reach property owners across Google, social media, video platforms, AI-powered search tools, and other digital channels.</p><p>\"Contractors need more than another marketing vendor. They need experienced partners who understand their business and are committed to helping them grow,\" said <b>Ryan Files, Head of Sales &amp; Marketing at Superpath</b>. \"Our partnership with JB Warranties connects us with contractors who want to build stronger brands, generate more jobs, and better understand the return on their marketing investment.\"</p><p>Superpath also invests in proprietary technology developed for the trades. Its ION marketing intelligence platform helps contractors track leads, booked jobs, AI search visibility, and Google Maps performance. ION's Revenue Intelligence connects marketing channels to revenue, helping owners make smarter decisions about their advertising investments.</p><p>For JB Warranties, the partnership expands the business growth resources available to its dealer network. Beyond extended warranty protection, JB Warranties' Dealer Business Services division helps contractors access solutions that support revenue growth, operational efficiency, and long-term success.</p><p>\"Our Dealer Business Services division is focused on bringing meaningful solutions to the contractors we serve,\" said <b>Kevin Thornton, VP of Dealer Business Services at JB Warranties</b>. \"Superpath brings valuable experience in contractor marketing, along with technology that helps businesses measure results. This partnership supports our goal of helping dealers compete more effectively and grow.\"</p><p>Both organizations share a commitment to providing practical tools and experienced support that help contractors succeed in a changing marketplace.</p><p><b>About Superpath</b></p><p>Superpath is a digital marketing agency focused exclusively on home service contractors. With nearly 20 years of experience, Superpath helps HVAC, plumbing, electrical, and other service companies grow through SEO, paid advertising, video marketing, AI optimization, and proprietary technology. Its ION platform connects marketing performance to business results. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815622-1&amp;h=2315761910&amp;u=http%3A%2F%2Fsuperpath.com%2F&amp;a=Superpath.com\" target=\"_blank\" rel=\"nofollow\"><b>Superpath.com</b></a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815622-1&amp;h=2702381900&amp;u=http%3A%2F%2Fsuperpath.com%2F&amp;a=.\" target=\"_blank\" rel=\"nofollow\">.</a></p><p><b>About JB Warranties</b></p><p>JB Warranties is the North American leader in warranty programs for the Heating, Ventilation, Air Conditioning (HVAC), and plumbing industries. Our warranties ensure that homeowners are protected from unexpected repair costs when they make the decision to purchase a new heating or air conditioning system for their home. We take care of HVAC contractors and plumbers, as well as homeowners from coast to coast in all 50 states. Our exceptional customer service and reputation in the industry have allowed us to grow steadily since our founding in 2008, and we are proud to be the Nation's Leader in extended warranty as a result of our teamwork and dedication to our craft. Learn more about JB Warranties at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815622-1&amp;h=2733539056&amp;u=https%3A%2F%2Fjbwarranties.com%2F&amp;a=jbwarranties.com\" target=\"_blank\" rel=\"nofollow\"><b>jbwarranties.com</b></a>.</p><p><b>Superpath</b></p><p>Contact: Lauren Hawkins, Director of Marketing <br></br>888-355-7284 <br></br>400 Interstate Park Dr Ste 424 <br></br>Montgomery, AL 36109-5419</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815622-1&amp;h=3339056086&amp;u=https%3A%2F%2Fsuperpath.com%2F&amp;a=https%3A%2F%2Fsuperpath.com%2F\" target=\"_blank\" rel=\"nofollow\">https://superpath.com/</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL90397&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/superpath-and-jb-warranties-announce-strategic-marketing-partnership-to-help-home-service-contractors-grow-302931113.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/superpath-and-jb-warranties-announce-strategic-marketing-partnership-to-help-home-service-contractors-grow-302931113.html</a></p><p>SOURCE Superpath</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL90397&amp;Transmission_Id=202611051215PR_NEWS_USPR_____CL90397&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Superpath",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 6,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing agency",
+            "marketing",
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "actor"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-05T22:23:02.071Z"
+    },
     {
       "company": [
         "BILDTRAK"
@@ -10738,104 +10892,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-22T12:19:02.560Z"
-    },
-    {
-      "company": [
-        "Great American Media"
-      ],
-      "date": "20260921T180900+0000",
-      "dateline": "NEW YORK, Sept. 21, 2026",
-      "feed": [
-        "prncom_prnj",
-        "PRNUS",
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "FLM",
-        "TVN",
-        "ENT",
-        "ADV",
-        "MLM"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Great American Media has expanded its partnership with Minivela to support the development of Pure Flix Familia, its new streaming destination created for Latino families. From left, Great American Media President and CEO Bill Abbott, Minivela CEO and co-founder Manny Ruiz, and actor-producer and Minivela co-founder Carlos Ponce.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1992855/Bill_Abbott_Manny_Ruiz_Carlos_Ponce.jpg?id=OA2960996&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1992855/Bill_Abbott_Manny_Ruiz_Carlos_Ponce.jpg?id=OA2960996&p=publish"
-        },
-        {
-          "caption": "Great American Media",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1528323/Great-American-Media-Logo-600-pixels-Logo-Logo.jpg?id=OA2960994&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1528323/Great-American-Media-Logo-600-pixels-Logo-Logo.jpg?id=OA2960994&p=publish"
-        }
-      ],
-      "release_id": "20260921DA52877",
-      "status": "PUBLISHED",
-      "subject": [
-        "LIC"
-      ],
-      "summary": "<ul type=\"disc\"><li><b>Minivela's Manny Ruiz</b> will serve as creative and content strategy partner for Great American Media's new streaming destination for Latino families<br></br> </li><li>Actor-producer <b>Carlos Ponce</b> will support creative development, talent relationships and audience engagement</li></ul><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779085-1&amp;h=1153185855&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow\"><b>Great American Media</b></a> today announced it has tapped <b>Minivela</b>, the Latino media entertainment and production company co-founded by media entrepreneur <b>Manny Ruiz</b> and actor-producer <b>Carlos Ponce</b>, to support the creation and production of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779085-1&amp;h=2588217614&amp;u=http%3A%2F%2Fwww.pureflixfamilia.com%2F&amp;a=Pure+Flix+Familia\" target=\"_blank\" rel=\"nofollow\"><b>Pure Flix Familia</b></a>, Great American Media's new streaming destination created for Latino families.</p>\n    ",
-      "ticker": [],
-      "title": "Great American Media Expands Partnership with Minivela to Develop New Latino Family Streamer Pure Flix Familia",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260921DA52877",
-      "body": "\n<ul type=\"disc\"><li><b>Minivela's Manny Ruiz</b> will serve as creative and content strategy partner for Great American Media's new streaming destination for Latino families<br></br> </li><li>Actor-producer <b>Carlos Ponce</b> will support creative development, talent relationships and audience engagement</li></ul><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779085-1&amp;h=1153185855&amp;u=https%3A%2F%2Fwww.gacmedia.com%2F&amp;a=Great+American+Media\" target=\"_blank\" rel=\"nofollow\"><b>Great American Media</b></a> today announced it has tapped <b>Minivela</b>, the Latino media entertainment and production company co-founded by media entrepreneur <b>Manny Ruiz</b> and actor-producer <b>Carlos Ponce</b>, to support the creation and production of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779085-1&amp;h=2588217614&amp;u=http%3A%2F%2Fwww.pureflixfamilia.com%2F&amp;a=Pure+Flix+Familia\" target=\"_blank\" rel=\"nofollow\"><b>Pure Flix Familia</b></a>, Great American Media's new streaming destination created for Latino families.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1992855/Bill_Abbott_Manny_Ruiz_Carlos_Ponce.jpg?id=OA2960996\" title=\"Great American Media has expanded its partnership with Minivela to support the development of Pure Flix Familia, its new streaming destination created for Latino families. From left, Great American Media President and CEO Bill Abbott, Minivela CEO and co-founder Manny Ruiz, and actor-producer and Minivela co-founder Carlos Ponce.\" alt=\"Great American Media has expanded its partnership with Minivela to support the development of Pure Flix Familia, its new streaming destination created for Latino families. From left, Great American Media President and CEO Bill Abbott, Minivela CEO and co-founder Manny Ruiz, and actor-producer and Minivela co-founder Carlos Ponce.\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight2c79\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Great American Media expands its Minivela partnership to help build Pure Flix Familia for Latino families.</div><p><b>Minivela</b> will serve as Pure Flix Familia's programming, content and creative partner, working closely with Great American Media and Pure Flix leadership on original programming, content development, creator relationships, licensing, cultural strategy and audience engagement.</p><p>Ruiz and Ponce bring decades of experience working within the Latino community at the grassroots level, with deep track records across Hispanic media, entertainment, cultural marketing and storytelling that have connected them directly with Latino audiences, creators and communities.</p><p>\"Pure Flix Familia represents an important expansion of Great American Media's mission to serve families with trusted entertainment grounded in faith and shared values,\" said <b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4779085-1&amp;h=991236018&amp;u=https%3A%2F%2Fwww.gacmedia.com%2Fbill-abbott%2F&amp;a=Bill+Abbott\" target=\"_blank\" rel=\"nofollow\">Bill Abbott</a>, President and CEO of Great American Media</b>. \"Manny, Carlos and the Minivela team bring a strong creative instinct and a deep understanding of Latino audiences and a commitment to faith and family entertainment. They know this community because they are part of it. Their perspective will be invaluable as we build a distinctive programming strategy and develop authentic stories that resonate across generations.\"</p><p><b>Manny Ruiz</b>, CEO and co-founder of Minivela, will lead Minivela's work as programming, creative and content strategy partner. In this role, he will collaborate with Great American Media and Pure Flix executives to help identify original programming opportunities, cultivate relationships with Latino creators and producers, and advise on the platform's cultural and audience strategy.</p><p>\"This is an opportunity to work alongside Great American Media to build a streaming destination that understands Latino families and reflects their faith, values, experiences and aspirations,\" Ruiz said. \"Our focus will be on helping Pure Flix Familia develop authentic programming, meaningful creator relationships and a consistent content pipeline that can earn a lasting place in people's homes.\"</p><p><b>Carlos Ponce</b>, who co-founded Minivela with Ruiz, will play a key creative and audience-facing role in the partnership. Ponce will support the development of Pure Flix Familia's creative identity, help establish relationships with actors, writers, filmmakers and other creators, and contribute to audience-engagement initiatives. He is also expected to participate as on-screen talent in future Pure Flix Familia projects.</p><p>\"Authenticity begins by ensuring that the people and communities we hope to serve have a meaningful voice in the creative process,\" Ponce said. \"We will work directly with writers, actors, filmmakers and producers who know these families because they come from these families. That is how we can help create stories audiences recognize, trust and want to share.\"</p><p>Minivela will help develop original movies, series and mobile-first microdramas; identify potential content and acquisition opportunities; cultivate emerging and established Latino talent; and advise on programming, social media, community partnerships and audience-growth initiatives. The expanded relationship gives Minivela a broader leadership role in the development and operation of Pure Flix Familia.</p><p>Great American Media will retain responsibility for Pure Flix Familia's business operations and final approval over its brand, budget, programming, acquisitions and distribution.</p><p>The expanded partnership builds upon Great American Media and Minivela's previously announced development, distribution and marketing relationship that was initially only focused on producing mobile-first microdramas for U.S. Hispanic and Latin American audiences.</p><p><b>Pure Flix Familia is scheduled to launch in early October</b> with Spanish-language entertainment and will expand over time to include bilingual and English-language programming created and curated for Latino audiences. The service is part of Great American Media's broader strategy to grow its faith-and-family entertainment ecosystem and reach new audiences with programming families can confidently enjoy together.</p><p>Additional details about Pure Flix Familia's launch programming, subscription options, supported devices and availability will be announced separately.</p><p><b><u>ABOUT GREAT AMERICAN MEDIA</u></b><br></br>Great American Media is a leader in faith-and-family entertainment and one of the fastest-growing entertainment networks on television. Great American Media is home to a portfolio of brands that celebrate faith, family and country, including <b>Great American Family</b>, the flagship linear network featuring original Christmas movies, romantic comedies and beloved series; <b>Great American Pure Flix</b>, a leading faith-and-family streaming service; <b>Great American Faith &amp; Living</b>, the company's unscripted companion network; and <b>GFam+</b>, an app that allows viewers to watch Great American Media programming anytime and anywhere.</p><p>Established in June 2021 by Bill Abbott and a group of U.S.-based family offices, Great American Media programming is available through cable and satellite providers, Great American Pure Flix, YouTube TV and the GFam+ app.</p><p><b><u>ABOUT PURE FLIX FAMILIA</u></b><br></br>Pure Flix Familia is an operating entity within Great American Pure Flix and Great American Media dedicated to culturally relevant entertainment centered on faith and family. The streaming destination is being developed to serve Spanish-dominant, bilingual and English-dominant Latino audiences through original movies, series, mobile-first microdramas and thoughtfully curated programming that families can confidently enjoy together.</p><p><b><u>ABOUT MINIVELA</u></b><br></br>Minivela is a Latino-focused entertainment and production company co-founded by media entrepreneur Manny Ruiz and actor-producer Carlos Ponce. The company develops culturally relevant programming for U.S. Hispanic and Latin American audiences, with an emphasis on mobile-first storytelling, emerging creative formats and authentic relationships with Latino creators and communities.</p><p><b>MEDIA CONTACT<br></br></b>Victoria Quevedo<br></br><a href=\"mailto:media@crosswindpr.com\" target=\"_blank\" rel=\"nofollow\">media@crosswindpr.com</a><br></br>512.537.1414</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1528323/Great-American-Media-Logo-600-pixels-Logo-Logo.jpg?id=OA2960994\" title=\"Great American Media\" alt=\"Great American Media\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA52877&amp;sd=2026-09-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/great-american-media-expands-partnership-with-minivela-to-develop-new-latino-family-streamer-pure-flix-familia-302885049.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/great-american-media-expands-partnership-with-minivela-to-develop-new-latino-family-streamer-pure-flix-familia-302885049.html</a></p><p>SOURCE Great American Media</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA52877&amp;Transmission_Id=202609211409PR_NEWS_USPR_____DA52877&amp;DateId=20260921\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Great American Media",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "college": 0,
-          "advertising": 2,
-          "digital": 2,
-          "engineering": 0,
-          "entertainment": 9,
-          "management": 0,
-          "radio": 0,
-          "television": 2,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:MLM"
-          ],
-          "entertainment": [
-            "summary:production company",
-            "summary:entertainment",
-            "summary:actor",
-            "summary:producer",
-            "industry:ENT",
-            "industry:FLM"
-          ],
-          "television": [
-            "industry:TVN"
-          ]
-        },
-        "news_score": 2,
-        "excluded": false
-      },
-      "imported_at": "2026-09-21T18:20:38.406Z"
     }
   ]
 }
