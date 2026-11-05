@@ -1,11 +1,94 @@
 {
-  "generated_at": "2026-11-05T08:26:14.272Z",
+  "generated_at": "2026-11-05T16:42:28.194Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 54,
+  "count": 53,
   "releases": [
+    {
+      "company": [
+        "Awesome Motive Inc"
+      ],
+      "date": "20261105T141500+0000",
+      "dateline": "WEST PALM BEACH, Fla., Nov. 5, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "STW",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Welcome Drip and Sleeknote to Awesome Motive Family",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2028225/image1.jpg?id=OA3060725&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2028225/image1.jpg?id=OA3060725&p=publish"
+        }
+      ],
+      "release_id": "20261105PH90195",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "TNM",
+        "VEN"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">WEST PALM BEACH, Fla.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=1750870384&amp;u=https%3A%2F%2Fwww.wpbeginner.com%2Fwpbeginner-growth-fund%2F&amp;a=WPBeginner+Growth+Fund\" target=\"_blank\" rel=\"nofollow\">WPBeginner Growth Fund</a>, a leading investment fund specializing in B2B software businesses backed by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=962909952&amp;u=http%3A%2F%2Fawesomemotive.com%2F&amp;a=Awesome+Motive\" target=\"_blank\" rel=\"nofollow\">Awesome Motive</a>, is thrilled to announce its acquisition of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=1402471171&amp;u=http%3A%2F%2Fdrip.com%2F&amp;a=Drip\" target=\"_blank\" rel=\"nofollow\">Drip</a>, an email &amp; SMS marketing automation platform for small businesses, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=4054384602&amp;u=http%3A%2F%2Fsleeknote.com%2F&amp;a=Sleeknote\" target=\"_blank\" rel=\"nofollow\">Sleeknote</a>, a conversion optimization tool that turns website visitors into subscribers and customers.</p>\n<p>Drip gives small businesses, from content creators to online stores, everything they need to grow sales with email and SMS marketing, without the high costs. It comes with all the important features you would expect, including a drag &amp; drop email builder, visual email automation builder, dynamic segmentation, built-in SMS marketing, AI MCP, and more.</p>",
+      "ticker": [],
+      "title": "Awesome Motive Backed WPBeginner Growth Fund Acquires Drip &amp; Sleeknote, an Email, SMS, and Onsite Marketing Platform for Small Businesses",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105PH90195",
+      "body": "\n<p><span class=\"legendSpanClass\">WEST PALM BEACH, Fla.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=1750870384&amp;u=https%3A%2F%2Fwww.wpbeginner.com%2Fwpbeginner-growth-fund%2F&amp;a=WPBeginner+Growth+Fund\" target=\"_blank\" rel=\"nofollow\">WPBeginner Growth Fund</a>, a leading investment fund specializing in B2B software businesses backed by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=962909952&amp;u=http%3A%2F%2Fawesomemotive.com%2F&amp;a=Awesome+Motive\" target=\"_blank\" rel=\"nofollow\">Awesome Motive</a>, is thrilled to announce its acquisition of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=1402471171&amp;u=http%3A%2F%2Fdrip.com%2F&amp;a=Drip\" target=\"_blank\" rel=\"nofollow\">Drip</a>, an email &amp; SMS marketing automation platform for small businesses, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=4054384602&amp;u=http%3A%2F%2Fsleeknote.com%2F&amp;a=Sleeknote\" target=\"_blank\" rel=\"nofollow\">Sleeknote</a>, a conversion optimization tool that turns website visitors into subscribers and customers.</p>\n<p>Drip gives small businesses, from content creators to online stores, everything they need to grow sales with email and SMS marketing, without the high costs. It comes with all the important features you would expect, including a drag &amp; drop email builder, visual email automation builder, dynamic segmentation, built-in SMS marketing, AI MCP, and more.</p><p>Over 6,000 brands use Drip to turn first-time visitors into subscribers, buyers, and repeat customers. To date, Drip customers have earned over $1.5 billion in revenue attributed to their Drip emails. Together, Drip and Sleeknote help businesses reach customers wherever they engage with their brand: on their website, in their email inbox, or through SMS.</p><p>Drip works with Shopify, WooCommerce, BigCommerce, Stripe, Magento, and all other custom eCommerce platforms, so store data flows straight into email marketing. Drip MCP allows business owners to connect AI assistants like Claude and ChatGPT directly to their Drip account to analyze results and draft campaigns.</p><p>\"Email &amp; SMS are the only marketing channels that business owners truly own, and they're even more important in the AI era,\" said Syed Balkhi, Founder of WPBeginner and CEO of Awesome Motive. \"Small business owners deserve the same powerful personalization and automation that the biggest brands use, without the enterprise price tag. We are excited to welcome Drip and Sleeknote, so we can offer our small business customers the best email marketing platform for the AI era.\"</p><p>Over 30 million websites use the WPBeginner family of products like <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=4256122915&amp;u=http%3A%2F%2Foptinmonster.com%2F&amp;a=OptinMonster\" target=\"_blank\" rel=\"nofollow\">OptinMonster</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=863131483&amp;u=http%3A%2F%2Fwpforms.com%2F&amp;a=WPForms\" target=\"_blank\" rel=\"nofollow\">WPForms</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=2883692002&amp;u=http%3A%2F%2Fmonsterinsights.com%2F&amp;a=MonsterInsights\" target=\"_blank\" rel=\"nofollow\">MonsterInsights</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=1862518785&amp;u=http%3A%2F%2Faioseo.com%2F&amp;a=AIOSEO\" target=\"_blank\" rel=\"nofollow\">AIOSEO</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=4195039668&amp;u=http%3A%2F%2Fmemberpress.com%2F&amp;a=MemberPress\" target=\"_blank\" rel=\"nofollow\">MemberPress</a>, and others to build and grow their online presence. </p><p>\"We are excited to have Drip and Sleeknote join the WPBeginner family of brands. Our mission has always been to give small businesses a real chance to compete, and we're confident that the experience and resources Awesome Motive brings will help Drip and Sleeknote reach even more business owners for many years to come,\" said Mogens Møller, co-founder of Sleeknote and CEO of Drip.</p><p>Like the rest of WPBeginner family of brands, Drip and Sleeknote will continue to operate as an independent unit under Mogens Møller's leadership, and customers will see no change in service. Awesome Motive's in-house email marketing team will work closely with the Drip team on a roadmap that includes more AI-powered features, and tighter connections with popular tools like WPForms and MemberPress.</p><p><b>About WPBeginner Growth Fund</b></p><p>WPBeginner Growth Fund is a leading investment fund focused on B2B software businesses. Created by Syed Balkhi, the fund's portfolio boasts an impressive list of companies including MemberPress, BuddyBoss, Formidable Forms, FunnelKit, Wholesale Suite, and more. Learn more about WPBeginner Growth Fund at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=1652488389&amp;u=http%3A%2F%2Fwpbeginner.com%2F&amp;a=wpbeginner.com\" target=\"_blank\" rel=\"nofollow\">wpbeginner.com</a>.</p><p><b>About Awesome Motive</b></p><p>Awesome Motive is a technology management company behind popular web apps and business tools like OptinMonster, All in One SEO (AIOSEO), WPForms, and many more. Over 30 million websites use Awesome Motive tools to get more traffic, subscribers, and sales. Learn more about Awesome Motive at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=159651344&amp;u=http%3A%2F%2Fawesomemotive.com%2F&amp;a=awesomemotive.com\" target=\"_blank\" rel=\"nofollow\">awesomemotive.com</a>.</p><p><b>About Drip</b></p><p>Launched in 2012, Drip is an email &amp; SMS marketing automation platform built for small businesses, from content creators to online stores. More than 6,000 brands use Drip to send personalized emails and text messages, automate customer journeys, and grow repeat sales. Learn more about Drip at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=2586566951&amp;u=http%3A%2F%2Fdrip.com%2F&amp;a=drip.com\" target=\"_blank\" rel=\"nofollow\">drip.com</a>.</p><p><b>About Sleeknote</b></p><p>Sleeknote is a conversion optimization tool that helps businesses turn website visitors into subscribers and customers with targeted popups, slide-ins, sticky bars, and more. It works with all major email marketing services. Learn more about Sleeknote at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815419-1&amp;h=3418447727&amp;u=http%3A%2F%2Fsleeknote.com%2F&amp;a=sleeknote.com\" target=\"_blank\" rel=\"nofollow\">sleeknote.com</a>.</p><p><b>Media Contact:<br></br></b>Jeremy Roberts<br></br>561-408-1057<br></br><a href=\"mailto:426420@email4pr.com\" target=\"_blank\" rel=\"nofollow\">426420@email4pr.com</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH90195&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/awesome-motive-backed-wpbeginner-growth-fund-acquires-drip--sleeknote-an-email-sms-and-onsite-marketing-platform-for-small-businesses-302930844.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/awesome-motive-backed-wpbeginner-growth-fund-acquires-drip--sleeknote-an-email-sms-and-onsite-marketing-platform-for-small-businesses-302930844.html</a></p><p>SOURCE Awesome Motive Inc</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH90195&amp;Transmission_Id=202611050915PR_NEWS_USPR_____PH90195&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Awesome Motive Inc",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 4,
+          "digital": 1,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "summary:content creator"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-05T16:42:33.187Z"
+    },
     {
       "company": [
         "CAMP Digital"
@@ -4546,164 +4629,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-22T06:47:08.665Z"
-    },
-    {
-      "company": [
-        "Status Labs"
-      ],
-      "date": "20260921T130400+0000",
-      "dateline": "AUSTIN, Texas, Sept. 21, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS",
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "TXS",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ADV"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "www.statuslabs.com",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100&p=publish"
-        }
-      ],
-      "release_id": "20260921DA50913",
-      "status": "PUBLISHED",
-      "subject": [
-        "AWD"
-      ],
-      "summary": "<p class=\"prntac\"><i>The Austin-founded global reputation-management firm strengthens its position at the intersection of AI, search, and public trust with fast-growing GEO division</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Status Labs, the premier digital reputation management firm in The Millbrook Companies agency collective, is pleased to announce its No. 10 ranking on the 2026 Advertising &amp; Marketing Agencies list by the Austin Business Journal.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100\" title=\"www.statuslabs.com\" alt=\"www.statuslabs.com\"></img>\n                </p>\n    </div>\n",
-      "ticker": [],
-      "title": "Austin Business Journal Ranks Status Labs Among Top 10 Advertising &amp; Marketing Agencies",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260921DA50913",
-      "body": "\n<p class=\"prntac\"><i>The Austin-founded global reputation-management firm strengthens its position at the intersection of AI, search, and public trust with fast-growing GEO division</i></p><p><span class=\"legendSpanClass\">AUSTIN, Texas</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Status Labs, the premier digital reputation management firm in The Millbrook Companies agency collective, is pleased to announce its No. 10 ranking on the 2026 Advertising &amp; Marketing Agencies list by the Austin Business Journal.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS445146/Status-Labs-Logo.jpg?id=OA2956100\" title=\"www.statuslabs.com\" alt=\"www.statuslabs.com\"></img>\n                </p>\n    </div>\n<p>Status Labs was founded in Austin in 2012, at a time when online reputation management had yet to become an established industry. Fourteen years later, the firm remains headquartered in Austin while serving enterprise organizations, growth-stage businesses, family offices, and high-profile public figures in over a dozen countries through satellite offices in New York, Los Angeles, Miami, and London.</p><p>Its gradual expansion to new markets – and continued growth in the Austin market where the company and the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1094102591&amp;u=https%3A%2F%2Fwww.millbrookcompanies.com%2F&amp;a=Millbrook\" target=\"_blank\" rel=\"nofollow\">Millbrook</a> holdco originated –  can be attributed to a commitment to cutting-edge innovation, which most recently has been exemplified by Status Labs early entry and expertise in the burgeoning generative engine optimization vertical. </p><p>The firm has built its business around a question that has become central to modern corporate reputation: What do people find – and now, what are they told – when they seek information about an organization or individual?</p><p>That question has taken on new urgency with generative AI. AI platforms such as ChatGPT, Gemini, and Perplexity increasingly provide direct answers rather than a page of links, shaping how customers, investors, partners, journalists, and the public encounter a company for the first time.</p><p>Status Labs formally launched its Generative Engine Optimization, or GEO, offering in October 2025. The work itself began earlier, as the firm studied how emerging generative AI systems were interpreting, synthesizing, and recommending information about companies and public figures in 2023, before GEO was widely recognized as a service category.</p><p>Today, GEO is Status Labs' fastest-growing workstream, accounting for almost a quarter of new client engagements in the first half of 2026.</p><p>\"Status Labs was built on the understanding that reputations are increasingly formed online, often before a client has the opportunity to tell its own story,\" said Darius Fisher, CEO of Millbrook Companies and co-founder of Status Labs. \"As AI becomes a primary interface for information, that work has become more consequential. The question is no longer only where a company ranks in search. It is whether the answer someone receives accurately reflects who that company is.\"</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1144431956&amp;u=https%3A%2F%2Fstatuslabs.com%2Fwhitepapers%2Fai-and-the-future-of-reputation-management-2026&amp;a=Status+Labs%27+2026+AI+Reputation+Report\" target=\"_blank\" rel=\"nofollow\">Status Labs' 2026 AI Reputation Report</a> found that roughly 60% of searches now end without a click to a website. When AI systems assemble an answer, the report found, they draw heavily on earned media and other third-party sources—not simply the material a company publishes about itself. Visitors who arrive through an AI-generated answer convert at 4.4 times the rate of visitors from organic search.</p><p>For clients operating across markets, sectors, and public audiences, the consequence is practical: a company can have a strong website and a well-defined brand, yet still be inaccurately represented—or absent entirely—when an AI platform is asked who leads its category.</p><p>Status Labs' GEO practice combines AI-driven language-model diagnostics, semantic content mapping, and credibility-signal engineering. The firm audits how large language models interpret and summarize a client's business; structures priority messages so they remain intact through AI summarization; and strengthens the high-quality, corroborating sources that influence whether a model cites a company, represents it accurately, or overlooks it altogether.</p><p>\"A decade ago, a reputation challenge often appeared as a page of search results,\" Fisher said. \"Today, it may appear as a paragraph response assembled from sources a company did not create. We began preparing for that shift before there was a standard name for the work because the direction of the internet was already clear.\"</p><p>Status Labs is part of Millbrook Companies, which brings together earned media, owned content, search, and reputation strategy through Status Labs, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1964143351&amp;u=https%3A%2F%2Fwww.senseiadvisory.com%2F&amp;a=Sensei+Advisory\" target=\"_blank\" rel=\"nofollow\">Sensei Advisory</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1880731015&amp;u=https%3A%2F%2Fwww.blp.co%2F&amp;a=BLP\" target=\"_blank\" rel=\"nofollow\">BLP</a>.</p><p>The 2026 Advertising Agencies list is available via <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1377934431&amp;u=https%3A%2F%2Fwww.bizjournals.com%2Faustin%2Fsubscriber-only%2F2026%2F08%2F07%2Fsee-39-advertising-and-marketing-firms-creating-in-the.html&amp;a=ABJ\" target=\"_blank\" rel=\"nofollow\">ABJ</a>. To request a GEO consultation, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=1805928409&amp;u=https%3A%2F%2Fstatuslabs.com%2Fcontact&amp;a=StatusLabs.com%2FContact\" target=\"_blank\" rel=\"nofollow\">StatusLabs.com/Contact</a>.</p><p><b>About Status Labs <br></br></b>Status Labs is the world's leading digital reputation management, SEO, and generative engine optimization (GEO) firm for Fortune 500 companies, growth-stage businesses, family offices, and public figures. Founded in 2012 and headquartered in Austin, Texas, Status Labs is now part of Millbrook Companies alongside agencies Sensei Advisory and BLP. To learn more about Status Labs, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4777099-1&amp;h=3712819987&amp;u=http%3A%2F%2Fstatuslabs.com%2F&amp;a=StatusLabs.com\" target=\"_blank\" rel=\"nofollow\">StatusLabs.com</a>.</p><p><b>Media Contact:</b><br></br>Juliette Haas<br></br><a href=\"mailto:juliette@senseiadvisory.com\" target=\"_blank\" rel=\"nofollow\">juliette@senseiadvisory.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA50913&amp;sd=2026-09-21\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/austin-business-journal-ranks-status-labs-among-top-10-advertising--marketing-agencies-302883162.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/austin-business-journal-ranks-status-labs-among-top-10-advertising--marketing-agencies-302883162.html</a></p><p>SOURCE Status Labs</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA50913&amp;Transmission_Id=202609210904PR_NEWS_USPR_____DA50913&amp;DateId=20260921\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Status Labs",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 6,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "advertising",
-            "marketing",
-            "industry:ADV"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-21T13:19:01.432Z"
-    },
-    {
-      "company": [
-        "Quartile"
-      ],
-      "date": "20260921T100000+0000",
-      "dateline": "NEW YORK, Sept. 21, 2026",
-      "feed": [
-        "PRNUS",
-        "PRNUS_ONLY",
-        "PRNUS_NO_ELD",
-        "prncom_prnj",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ADV",
-        "SMD",
-        "MLM",
-        "ECM",
-        "AFI"
-      ],
-      "language": "en-US",
-      "multimedia": [],
-      "release_id": "20260921CG51911",
-      "status": "PUBLISHED",
-      "subject": [
-        "LIC",
-        "PDT"
-      ],
-      "summary": "<p class=\"prntac\">New technology partnership expands Quartile's AI-powered advertising capabilities into conversational discovery, combining advanced technology with the expertise of its customer strategy teams</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Quartile, the world's largest retail media optimization platform, today announced that it has become a technology partner supporting advertising in ChatGPT, expanding its capabilities into a new environment where consumers are increasingly using conversational AI (ChatGPT has more than 1B weekly active users) to discover products, evaluate options and make purchasing decisions.</p>\n",
-      "ticker": [],
-      "title": "Quartile Becomes a Technology Partner Supporting Advertising in ChatGPT",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260921CG51911",
-      "body": "\n<p class=\"prntac\">New technology partnership expands Quartile's AI-powered advertising capabilities into conversational discovery, combining advanced technology with the expertise of its customer strategy teams</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Sept. 21, 2026</span> /PRNewswire/ -- Quartile, the world's largest retail media optimization platform, today announced that it has become a technology partner supporting advertising in ChatGPT, expanding its capabilities into a new environment where consumers are increasingly using conversational AI (ChatGPT has more than 1B weekly active users) to discover products, evaluate options and make purchasing decisions.</p>\n<p>The partnership enables participating advertisers to access advertising in ChatGPT through Quartile's existing tools and workflows, providing brands with another opportunity to reach consumers during moments of product discovery.  ChatGPT Ads features clearly labeled ads that are visually distinct from ChatGPT responses, which are not influenced by ads.</p><p>This expansion also reflects the evolution of Quartile's experts + AI approach, combining advanced technology, automation, and data with the strategic expertise of experienced advertising professionals.</p><p>\"AI is creating entirely new ways for consumers to discover products, but technology alone does not create a successful advertising strategy,\" said Daniel Knijnik, CEO and Co-Founder of Quartile. \"Our experts + AI approach brings together the scale and speed of AI with the experience and judgment needed to turn those capabilities into meaningful business outcomes. Supporting advertising in ChatGPT is another step in that evolution.\"</p><p>As conversational AI changes how consumers research and make purchasing decisions, advertisers will need new ways to understand and engage with these emerging customer journeys. ChatGPT Ads are designed to provide relevant advertising during these moments of active discovery while maintaining a high-quality user experience built around transparency and trust.</p><p>Quartile's technology partner capabilities give brands a way to incorporate advertising in ChatGPT into their broader media strategies while leveraging the same technology and expertise they rely on across other advertising channels.</p><p>Quartile supports thousands of brands and manages billions of dollars in annual advertising spend across major commerce and digital advertising channels. Its technology and expertise have earned recognition from industry partners, including Amazon Ads and Walmart Connect, as well as customer-feedback platforms such as G2 and Trustpilot.</p><p>These recognitions reflect the core philosophy behind Quartile's approach: AI can provide the scale, speed and automation needed to navigate an increasingly complex advertising landscape, while experienced professionals provide the context and strategic judgment to turn those capabilities into action.</p><p>\"As advertising continues to evolve, our goal is to help brands understand not just what technology can do, but how to use it intelligently,\" said Knijnik. \"By bringing together data, AI, and a comprehensive view of their advertising strategy across channels, we can help our customers make smarter investment decisions and drive greater value from every dollar they spend.\"</p><p><b>About Quartile</b></p><p>Quartile, the world's largest retail media optimization platform, is a trusted partner for multichannel e-commerce success. Through patented AI technology and unmatched expertise, we fuel growth for 5,300+ brands and sellers worldwide and manage an annual ad spend exceeding $2 billion. The award-winning platform covers major marketplaces and ad channels for optimal reach. The result is unprecedented granularity, smarter budgeting, and bespoke solutions for retailers.  </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG51911&amp;sd=2026-09-21\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/quartile-becomes-a-technology-partner-supporting-advertising-in-chatgpt-302883747.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/quartile-becomes-a-technology-partner-supporting-advertising-in-chatgpt-302883747.html</a></p><p>SOURCE Quartile</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG51911&amp;Transmission_Id=202609210600PR_NEWS_USPR_____CG51911&amp;DateId=20260921\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Quartile",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 4,
-          "digital": 4,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "advertising",
-            "industry:ADV"
-          ],
-          "digital": [
-            "industry:MLM",
-            "industry:SMD"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-09-21T10:17:37.311Z"
     }
   ]
 }

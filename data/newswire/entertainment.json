@@ -1,11 +1,389 @@
 {
-  "generated_at": "2026-11-05T08:26:14.272Z",
+  "generated_at": "2026-11-05T16:42:28.194Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 171,
+  "count": 175,
   "releases": [
+    {
+      "company": [
+        "ASCAP - American Society of Composers, Authors and Publishers"
+      ],
+      "date": "20261105T153500+0000",
+      "dateline": "NEW YORK, Nov. 5, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MNH",
+        "MUS",
+        "HEA",
+        "ENT",
+        "MTC"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "ASCAP Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS768459/ASCAP-tagline-Logo-Logo.jpg?id=OA3059262&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS768459/ASCAP-tagline-Logo-Logo.jpg?id=OA3059262&p=publish"
+        }
+      ],
+      "release_id": "20261105NY89632",
+      "status": "PUBLISHED",
+      "subject": [
+        "NPT",
+        "PDT",
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><b>New ASCAP Member Benefit Offers Private, Intuitive Discovery of Mental Health Providers</b></p><p class=\"prntac\"><b>Cheryl \"Salt\" James (Salt-N-Pepa) and MILCK Join ASCAP's Nick Lehman for \"The Empathy Bridge: A Creator-to-Executive Conversation\" at jump.global Summit, Tuesday, Nov. 10</b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- The <b>American Society of Composers, Authors and Publishers (ASCAP) </b>today announced a major expansion of its industry-leading Wellness Program, launched in 2019, with a new mental health member benefit in collaboration with <b>Project Healthy Minds</b>, the leading mental health tech nonprofit dedicated to expanding access to mental health services across the United States. The initiative provides ASCAP songwriter, composer and music publisher members with confidential access to a comprehensive ecosystem of mental health services, therapy options and wellness tools to support creators at every stage of their careers.</p>\n    ",
+      "ticker": [],
+      "title": "ASCAP PARTNERS WITH PROJECT HEALTHY MINDS TO CONNECT MUSIC CREATORS WITH BROAD ARRAY OF MENTAL HEALTH SERVICES",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105NY89632",
+      "body": "\n<p class=\"prntac\"><b>New ASCAP Member Benefit Offers Private, Intuitive Discovery of Mental Health Providers</b></p><p class=\"prntac\"><b>Cheryl \"Salt\" James (Salt-N-Pepa) and MILCK Join ASCAP's Nick Lehman for \"The Empathy Bridge: A Creator-to-Executive Conversation\" at jump.global Summit, Tuesday, Nov. 10</b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- The <b>American Society of Composers, Authors and Publishers (ASCAP) </b>today announced a major expansion of its industry-leading Wellness Program, launched in 2019, with a new mental health member benefit in collaboration with <b>Project Healthy Minds</b>, the leading mental health tech nonprofit dedicated to expanding access to mental health services across the United States. The initiative provides ASCAP songwriter, composer and music publisher members with confidential access to a comprehensive ecosystem of mental health services, therapy options and wellness tools to support creators at every stage of their careers.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS768459/ASCAP-tagline-Logo-Logo.jpg?id=OA3059262\" title=\"ASCAP Logo\" alt=\"ASCAP Logo\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlightb5a3\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">ASCAP made history in 2019 as the first PRO to launch a dedicated wellness initiative for music creators.</div><p>Project Healthy Minds developed an intuitive discovery platform that connects individuals with a diverse range of mental health services. Through this new, first-of-its-kind PRO partnership, ASCAP members will have curated access to the platform and can privately connect with mental health service providers. Available services include:</p><div><table border=\"0\" cellspacing=\"0\" cellpadding=\"1\" class=\"prnbcc\"><tr><td class=\"prnpr2 prnpl2 prnvab prncbts prnbrbrs prnbbbs prnbsbls\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Care Category</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Services</b></span></p></td><td class=\"prngen3\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\"><b>Delivery Model</b></span></p></td></tr><tr><td class=\"prngen4\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Clinical Care</span></p></td><td class=\"prngen5\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Therapy and psychiatry</span></p></td><td class=\"prngen5\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Confidential virtual and in-person consultations</span></p></td></tr><tr><td class=\"prngen4\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Community Support</span></p></td><td class=\"prngen5\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Peer-led and expert-moderated support groups</span></p></td><td class=\"prngen5\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Safe group settings for shared creator experiences</span></p></td></tr><tr><td class=\"prngen4\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Daily Wellness</span></p></td><td class=\"prngen5\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">Self-care apps and digital tools</span></p></td><td class=\"prngen5\" colspan=\"1\" rowspan=\"1\"><p class=\"prnml4\"><span class=\"prnews_span\">On-demand mindfulness, meditation and habit tracking</span></p></td></tr></table></div><p>The announcement coincides with the <b>jump.global Summit</b> in Los Angeles, where Grammy winning artist and Rock &amp; Roll Hall of Fame Inductee <b>Cheryl \"Salt\" James</b> of multi-platinum hip-hop trio <b>Salt-N-Pepa</b> and Billboard #1 Protest Songwriter and Elle UK's woman of hope, <b>MILCK</b>, aka Connie K Lim, will take the stage alongside <b>ASCAP Executive Vice President and Chief Strategy &amp; Digital Officer Nick Lehman</b> on Tuesday, November 10, for <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4814875-1&amp;h=1606519381&amp;u=https%3A%2F%2Fsummit.jump.global%2Fschedule%2F&amp;a=%22The+Empathy+Bridge%3A+A+Creator-to-Executive+Conversation.%22\" target=\"_blank\" rel=\"nofollow\">\"The Empathy Bridge: A Creator-to-Executive Conversation.\"</a> In the session, Lehman and these two ASCAP members will explore ways for the music business to foster deeper empathy, bridge the divide between the creative and commercial sides of music, and prioritize creator well-being.</p><p>Over this weekend, in another intersection of wellness and music, ASCAP will bring members and staff to participate in the <b>Diplo Run Club 5K at Los Angeles State Historic Park</b> on November 8. ASCAP members can receive a 10% discount on the entry fee. Details are available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4814875-1&amp;h=4215014757&amp;u=https%3A%2F%2Fwww.ascap.com%2Fwellness&amp;a=www.ascap.com%2Fwellness\" target=\"_blank\" rel=\"nofollow\">www.ascap.com/wellness</a>.</p><p>Music creators encounter unique career pressures, from financial volatility and rigorous touring schedules to creative isolation. Because songwriting and composing rarely come with traditional employer benefits, ASCAP made history in 2019 as the first PRO to launch a dedicated wellness initiative. Today's collaboration with Project Healthy Minds builds on that momentum, following the successful rollout of a telehealth member benefit through MD Live for 24/7 urgent care consultations, plus dermatology and additional health care services.</p><p>\"Creativity thrives when creators are supported - in mind, body, and spirit,\" said Lehman. \"Music creators put their everything into the music we love, yet trying to find quality, affordable support shouldn't feel like everything is stacked against them in an opaque healthcare system. By teaming up with Project Healthy Minds, we are delivering direct access to vetted care - removing friction so our members get meaningful support, whenever and however they need it.\"</p><p>\"Songwriters have helped millions of people feel less alone, and this partnership makes sure they have that same support in return. We are thrilled to give ASCAP's members a simple way to find care, whether that's a therapist, a support group or a tool they can use on the road,\" said <b>Phillip Schermer, Founder and CEO of Project Healthy Minds</b>.</p><p>The partnership expands ASCAP's wellness benefits, which also include discounts and perks through partners such as <b>Aaptiv</b>, <b>Daily Burn</b>, <b>BetterHelp</b> and <b>Paramount Rx</b>, alongside telemedicine through <b>MD Live</b>.</p><p><b>How to Access the Benefit</b><br></br>All current ASCAP writer and publisher members can immediately take advantage of the new benefit at no additional cost. Members simply log into the <b>ASCAP Member Access</b> portal to access a unique landing page on Project Healthy Minds' site. From there they can browse available mental health services, take personalized assessments and connect directly with care providers.</p><p><b>About ASCAP<br></br></b>The American Society of Composers, Authors and Publishers (ASCAP) is a membership association of more than 1.1 million songwriters, composers and music publishers, and represents some of the world's most talented music creators. Founded and governed by songwriters, composers and publishers, it returns nearly 90 cents of every dollar collected to its members as royalties and has the lowest overhead rate of any U.S. PRO.  In 2025, ASCAP reported record-high financial results of $1.945 billion in revenues and $1.759 billion available in royalty distribution monies to its members. Over the last ten years, ASCAP has delivered a 6.7% compound annual growth rate for total revenues, and a 7.3% compound annual growth rate for total royalty distributions to members. ASCAP licenses a repertory of over 20 million musical works to hundreds of thousands of businesses that use music, including streaming services, cable television, radio and satellite radio and brick and mortar businesses such as retail stores, hotels, clubs, restaurants and bars. ASCAP collects the licensing fees, and identifies, matches, processes and pays royalties to its members for trillions of performances every year. The ASCAP blanket license offers an efficient solution for businesses to legally perform ASCAP music while respecting the right of songwriters and composers to be paid fairly. ASCAP puts music creators first, advocating for their rights and the value of music on Capitol Hill, driving innovation that moves the industry forward, building community and providing the resources and support that creators need to succeed in their careers. Learn more and stay in touch at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4814875-1&amp;h=2277351024&amp;u=http%3A%2F%2Fwww.ascap.com%2F&amp;a=www.ascap.com\" target=\"_blank\" rel=\"nofollow\">www.ascap.com</a>, on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4814875-1&amp;h=2785422199&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4691275-1%26h%3D1393273708%26u%3Dhttp%253A%252F%252Fwww.twitter.com%252Fascap%26a%3DX&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4814875-1&amp;h=3212611410&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4691275-1%26h%3D2802113897%26u%3Dhttp%253A%252F%252Fwww.instagram.com%252Fascap%26a%3D%25C2%25A0Instagram&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a> @ASCAP and on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4814875-1&amp;h=1177725619&amp;u=https%3A%2F%2Fedge.prnewswire.com%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D4691275-1%26h%3D4208898945%26u%3Dhttps%253A%252F%252Fwww.facebook.com%252Fascap%252F%26a%3DFacebook&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>.</p><p><b>About Project Healthy Minds<br></br></b>Project Healthy Minds is a Millennial &amp; Gen Z-driven mental health tech nonprofit dedicated to expanding access to mental health services across the United States for every community. Project Healthy Minds focuses on three programmatic areas: (1) destigmatizing mental health by mobilizing culture-makers; (2) expanding access to mental health services through the world's first free digital mental health marketplace; and (3) advocating for innovative workplace investments in employee mental health. Project Healthy Minds' programmatic initiatives have served more than 500,000 people. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4814875-1&amp;h=4028199561&amp;u=https%3A%2F%2Fwww.projecthealthyminds.com%2F&amp;a=www.projecthealthyminds.com\" target=\"_blank\" rel=\"nofollow\">www.projecthealthyminds.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY89632&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ascap-partners-with-project-healthy-minds-to-connect-music-creators-with-broad-array-of-mental-health-services-302930458.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ascap-partners-with-project-healthy-minds-to-connect-music-creators-with-broad-array-of-mental-health-services-302930458.html</a></p><p>SOURCE ASCAP - American Society of Composers, Authors and Publishers</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY89632&amp;Transmission_Id=202611051035PR_NEWS_USPR_____NY89632&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "ASCAP - American Society of Composers, Authors and Publishers",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prngen4{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 0.5pt solid\n}\n.prngen5{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 1pt; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt\n}\n.prngen3{\nPADDING-RIGHT:0.17em; PADDING-LEFT:0.17em; VERTICAL-ALIGN: BOTTOM; BORDER-TOP:black 0.5pt solid; BORDER-RIGHT:black 0.5pt solid; BORDER-BOTTOM:black 0.5pt solid; BORDER-LEFT:black 1pt\n}\n.prnml4{\nMARGIN-TOP:0em; MARGIN-RIGHT:0em; MARGIN-BOTTOM:0em; MARGIN-LEFT:0.33em !IMPORTANT\n}\n.prncbts{\nBORDER-TOP:black 0.5pt solid\n}\n.prnvab{\nVERTICAL-ALIGN: BOTTOM\n}\n.prnbrbrs{\nBORDER-RIGHT:black 0.5pt solid\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n.prnbbbs{\nBORDER-BOTTOM:black 0.5pt solid\n}\n.prnbcc{\nBORDER-COLLAPSE: COLLAPSE\n}\n.prnpr2{\nPADDING-RIGHT:0.17em\n}\n.prnbsbls{\nBORDER-LEFT:black 0.5pt solid\n}\n.prnpl2{\nPADDING-LEFT:0.17em\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 1
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:music publisher",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "management": [
+            "summary:executive"
+          ],
+          "tradeshow": [
+            "summary:summit"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-05T16:42:32.835Z"
+    },
+    {
+      "company": [
+        "Post Consumer Brands"
+      ],
+      "date": "20261105T150000+0000",
+      "dateline": "LAKEVILLE, Minn., Nov. 5, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "MIN",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ADV",
+        "HOU",
+        "ENT",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Kibbles 'n Bits Logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2027760/Kibbles-n-Bits-Logo.jpg?id=OA3059385&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2027760/Kibbles-n-Bits-Logo.jpg?id=OA3059385&p=publish"
+        }
+      ],
+      "release_id": "20261105DA89807",
+      "status": "PUBLISHED",
+      "subject": [
+        "PET"
+      ],
+      "summary": "<p class=\"prntac\"><i>Dogs will do anything for the bits. Now, Kibbles 'n Bits is turning that obsession into Hollywood-style action, complete with the return of its iconic jingle for the first time in more than 20 years</i></p><p><span class=\"legendSpanClass\">LAKEVILLE, Minn.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> <span>/PRNewswire/ -- Some dogs sit. Some dogs stay. These dogs will do anything for the bits.</span></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2027760/Kibbles-n-Bits-Logo.jpg?id=OA3059385\" title=\"Kibbles 'n Bits Logo\" alt=\"Kibbles 'n Bits Logo\"></img>\n                </p>\n    </div>\n<p>Kibbles 'n Bits™ just dropped a short action <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=2771105426&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwDR90j3O4AQ&amp;a=film+trailer\" target=\"_blank\" rel=\"nofollow\">film trailer</a> starring dogs. Yes, actual dogs. Humans are welcome to watch, too, but this one's for the four-legged crowd. And if you think your dog goes a little crazy for their favorite food, just wait until you see what these dogs are willing to do for the bits.</p>",
+      "ticker": [],
+      "title": "Kibbles 'n Bits Just Dropped an Action Movie Trailer. The Stars? Dogs.",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105DA89807",
+      "body": "\n<p class=\"prntac\"><i>Dogs will do anything for the bits. Now, Kibbles 'n Bits is turning that obsession into Hollywood-style action, complete with the return of its iconic jingle for the first time in more than 20 years</i></p><p><span class=\"legendSpanClass\">LAKEVILLE, Minn.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> <span>/PRNewswire/ -- Some dogs sit. Some dogs stay. These dogs will do anything for the bits.</span></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2027760/Kibbles-n-Bits-Logo.jpg?id=OA3059385\" title=\"Kibbles 'n Bits Logo\" alt=\"Kibbles 'n Bits Logo\"></img>\n                </p>\n    </div>\n<p>Kibbles 'n Bits™ just dropped a short action <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=2771105426&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwDR90j3O4AQ&amp;a=film+trailer\" target=\"_blank\" rel=\"nofollow\">film trailer</a> starring dogs. Yes, actual dogs. Humans are welcome to watch, too, but this one's for the four-legged crowd. And if you think your dog goes a little crazy for their favorite food, just wait until you see what these dogs are willing to do for the bits.</p><p>We're talking big-screen drama, wild plot twists and some seriously questionable decisions. Because dogs don't just love the bits. They live for them. And can you blame them? With a delicious combination of crunchy kibble and chewy, crave-worthy bits in a variety of shapes and flavors, Kibbles 'n Bits gives dogs plenty to obsess over. Plus, it delivers complete and balanced nutrition, so pet parents can feel good about what's in their bowl.</p><p>They'll sit for the bits. Stay for the bits. Speak for the bits. Heck, they'll dress up like a taco, act like a baby or find themselves on the wrong side of the law for the bits. And that's just scratching the surface.</p><p><b>Hollywood, But Make It Dog-Friendly<br></br></b>Inspired by the larger-than-life movies of the late '90s and early 2000s, the [:45] trailer, titled <i>The Heist</i>, gives classic Hollywood storytelling a ridiculous, dog-approved twist. Think high-stakes action, over-the-top suspense and a cast of four-legged stars with one thing on their minds: getting their paws on the bits.</p><p>When the trailer opens, we see a seasoned crew of dogs look to make one final score and get their paws on some Kibbles 'n Bits. They crave the bits so much they're willing to risk it all.</p><p>And Kibbles 'n Bits didn't just borrow Hollywood's biggest plotlines. The trailer brings together the nostalgic charm of the brand's original commercials with the bold, cinematic look of the late '90s and early 2000s. Think high-contrast lighting, vibrant color grading and stylized visuals that give every scene its own larger-than-life personality.</p><p>For humans, it's a nostalgic throwback to the blockbuster era. For dogs, it's a front-row seat to a whole lot of action starring their fellow four-legged friends.</p><p>Because when the bits are involved, everything else comes second. Including good judgment.</p><p>\"The idea was to take the way dogs crave Kibbles 'n Bits and treat it the same way characters in a heist movie crave whatever they're' after.\" said Joe Christenson, Director of Marketing at Post Consumer Brands. \"We wanted to build that parallel between a dog's desire and the kind of obsession that drives a high-stakes heist. We leaned into the drama of it all, making sure it felt like a true heist movie, with the tension and cinematic flair you'd expect from the genre.\"</p><p>And that's not all! The trailer brings back a fan-favorite blast from the past: the iconic Kibbles 'n Bits jingle, making its long-awaited return for the first time in more than 20 years! This new version gives the beloved melody a modern twist.</p><p><b>The Trailer Is Just Act One<br></br></b>The short action film trailer marks the first act of \"Do It for the Bits,\" a new campaign from Kibbles 'n Bits that takes dogs' craving for the bits to ridiculous new heights. Inspired by the idea that dogs will do absolutely anything for the bits, the campaign brings their obsession to life through playful movie parodies, over-the-top antics and a whole lot of four-legged mischief.</p><p>And the action doesn't stop when the trailer ends. Fans can follow along as the dogs' over-the-top antics continue across social media and influencer content. What will these dogs do next in their quest for the bits? Follow the action to <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=3771368838&amp;u=https%3A%2F%2Fwww.kibblesnbits.com%2F&amp;a=KibblesnBits.com\" target=\"_blank\" rel=\"nofollow\">KibblesnBits.com</a>, where the final spot will be revealed and the heist comes to an end.</p><p>\"At the heart of 'Do It for the Bits' is a simple insight: dogs will do just about anything for the bits they love,\" said Kathryn Budzien, Sr. Director, Creative &amp; Studio Operations at Post Consumer Brands. \"We wanted to take that truth and blow it up into something much bigger than a traditional dog food campaign. By putting dogs at the center of the storytelling and giving their obsession the Hollywood treatment, we're creating a playful world where anything can happen, all in the name of the bits. And the trailer is just the beginning.\"</p><p>And while the first act is playing out on-screen, the next one might be in real life.</p><p>Let's just say these dogs have big plans. And if there's one thing we've learned, it's that nothing gets between a dog and the bits.</p><p>Consider this your official warning: keep an eye on your dogs. And maybe your Kibbles 'n Bits.</p><p>Watch the short film trailer at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=3722069607&amp;u=https%3A%2F%2Fnam04.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fwww.kibblesnbits.com%252F%26data%3D05%257C02%257Ceanigon%2540postholdings.com%257C7fe298deca994f7c5f7508df337d9900%257Cbae0288803344699acbbfc4dddc5046c%257C0%257C0%257C639286287026024282%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3DEbmV6tlT81HNdQLwlD3fvXKj9fJjjlrVKoqf7rbiIXg%253D%26reserved%3D0&amp;a=https%3A%2F%2Fwww.kibblesnbits.com%2Fdo-it-for-the-bits%2F%C2%A0\" target=\"_blank\" rel=\"nofollow\">https://www.kibblesnbits.com/do-it-for-the-bits/ </a>and follow Kibbles 'n Bits on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=1731057748&amp;u=https%3A%2F%2Fwww.facebook.com%2FKibblesnBits%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=889690704&amp;u=https%3A%2F%2Fwww.instagram.com%2Fkibblesnbits%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=3798103222&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40kibblesnbits&amp;a=TikTok\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">TikTok</a> to see what happens next. More information about the brand can be found at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=3930709024&amp;u=https%3A%2F%2Fwww.kibblesnbits.com%2F&amp;a=https%3A%2F%2Fwww.kibblesnbits.com%2F\" target=\"_blank\" rel=\"nofollow\">https://www.kibblesnbits.com/</a>.</p><p><b>About Post Consumer Brands </b><br></br>Headquartered in Lakeville, Minn., Post Consumer Brands, a business unit of Post Holdings, Inc., is dedicated to providing people and their pets with delicious food choices for every taste and budget. The company's portfolio includes beloved brands such as Honey Bunches of Oats™, PEBBLES™, Grape-Nuts™ and Malt-O-Meal™ cereal and Peter Pan™ peanut butter, as well as Rachael Ray® Nutrish™, Kibbles 'n Bits™ and 9Lives™ dog and cat food. Post also provides private label solutions to customers in pet food, cereal, nut butters and granola. As a company committed to high standards of quality and to our values, we are driven by one idea: To make lives better by making delicious food accessible for all. For more information about our brands, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=1659615457&amp;u=http%3A%2F%2Fwww.postconsumerbrands.com%2F&amp;a=www.postconsumerbrands.com\" target=\"_blank\" rel=\"nofollow\">www.postconsumerbrands.com</a> and follow us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=81332564&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fpostconsumerbrands&amp;a=LinkedIn\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">LinkedIn</a> or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815046-1&amp;h=2761382006&amp;u=https%3A%2F%2Fwww.facebook.com%2Fpages%2FPost-Consumer-Brands%2F1919490918137560%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a> for the latest news.</p><p><a href=\"mailto:HoneymoonPostPet@wearehoneymoon.com\" target=\"_blank\" rel=\"nofollow\">HoneymoonPostPet@wearehoneymoon.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DA89807&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/kibbles-n-bits-just-dropped-an-action-movie-trailer-the-stars-dogs-302930318.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/kibbles-n-bits-just-dropped-an-action-movie-trailer-the-stars-dogs-302930318.html</a></p><p>SOURCE Post Consumer Brands</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DA89807&amp;Transmission_Id=202611051000PR_NEWS_USPR_____DA89807&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Post Consumer Brands",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 2,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "summary:film",
+            "movie",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-05T16:42:32.988Z"
+    },
+    {
+      "company": [
+        "Pipit, Inc."
+      ],
+      "date": "20261105T133100+0000",
+      "dateline": "VALPARAISO, Ind., Nov. 5, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "IDA",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "MLM",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Pipit's Discover Wave, where you choose what you want to hear across nine musical categories, from genre and mood to vocals, tempo, and more. Build your own Discover Wave, and as independent artists add new music that matches your wave, your discoveries keep growing.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2015341/Pipit-Discover-Wave.jpg?id=OA3024539&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2015341/Pipit-Discover-Wave.jpg?id=OA3024539&p=publish"
+        },
+        {
+          "caption": "Pipit™ - Where independent music is discovered, artists are supported, and fans become the algorithm.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2015343/Pipit-logo.jpg?id=OA3024542&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2015343/Pipit-logo.jpg?id=OA3024542&p=publish"
+        }
+      ],
+      "release_id": "20261105PH88946",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><b><i>Built exclusively for human independent artists, Pipit introduces customizable subscription models and direct-to-artist monthly funding</i></b></p><p><span class=\"legendSpanClass\">VALPARAISO, Ind.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- Pipit, a new independent-only music platform, officially opened to music fans today, challenging traditional streaming with a catalog that excludes generative-AI-created music and a discovery experience controlled by fans rather than black-box algorithms.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2015341/Pipit-Discover-Wave.jpg?id=OA3024539\" title=\"Pipit's Discover Wave, where you choose what you want to hear across nine musical categories, from genre and mood to vocals, tempo, and more. Build your own Discover Wave, and as independent artists add new music that matches your wave, your discoveries keep growing.\" alt=\"Pipit's Discover Wave, where you choose what you want to hear across nine musical categories, from genre and mood to vocals, tempo, and more. Build your own Discover Wave, and as independent artists add new music that matches your wave, your discoveries keep growing.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [],
+      "title": "Pipit Launches Music Platform Where \"The Fan Becomes the Algorithm\"",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105PH88946",
+      "body": "\n<p><b><i>Built exclusively for human independent artists, Pipit introduces customizable subscription models and direct-to-artist monthly funding</i></b></p><p><span class=\"legendSpanClass\">VALPARAISO, Ind.</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- Pipit, a new independent-only music platform, officially opened to music fans today, challenging traditional streaming with a catalog that excludes generative-AI-created music and a discovery experience controlled by fans rather than black-box algorithms.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2015341/Pipit-Discover-Wave.jpg?id=OA3024539\" title=\"Pipit's Discover Wave, where you choose what you want to hear across nine musical categories, from genre and mood to vocals, tempo, and more. Build your own Discover Wave, and as independent artists add new music that matches your wave, your discoveries keep growing.\" alt=\"Pipit's Discover Wave, where you choose what you want to hear across nine musical categories, from genre and mood to vocals, tempo, and more. Build your own Discover Wave, and as independent artists add new music that matches your wave, your discoveries keep growing.\"></img>\n                </p>\n    </div>\n<p>Unlike mainstream platforms that rely on passive listening and massive major-label catalogs, Pipit is designed specifically for intentional music discovery. Through customizable subscriptions starting at $3.99 a month, fans use nine distinct musical categories to build their own \"Discover Waves\" and choose exactly which independent artists receive their financial support.</p><p>At Pipit, fans do more than press play. They decide what music they want to discover, which human creators they want to back, and where the artist-support portion of their monthly membership goes.</p><p><b>Join for $3.99 and Support an Artist You Love</b></p><p>Pipit's Support membership starts at $3.99 per month. Fans choose an independent artist they want to support, and $2 of that monthly membership goes directly to that artist. During the paid month, supporters can stream that artist's catalog on Pipit as part of the relationship.</p><p>Beyond direct fan support, artists also earn $0.005 for every qualifying discovery stream through Pipit's discovery memberships. Streams of an artist's catalog by fans currently supporting that artist are included in their Support membership and do not generate additional per-stream royalties.</p><p>Each month, fans stay in control. They can keep supporting the same artist, or move their $2 monthly support to another artist they want to back. The model gives fans a simple way to turn listening into meaningful recurring support while giving independent artists a more predictable connection to the audiences they have already built.</p><p><i>\"As a songwriter and artist, I really appreciate Pipit's business model and how it puts the artist first,\" said Brandon Maddox, Grammy-nominated, award-winning songwriter, artist and performer. \"The support and customer service also showed me they're focused on creating a great artist experience.\"</i></p><p><b>Fans Choose What Their Subscription Includes (and Skip the \"Music Wallpaper\")</b></p><p>Pipit also offers custom memberships that let fans shape their monthly experience. Fans can choose how many Feathers, Pipit's $1 credits for supporting independent artists, they want included each month, from $2 to $8, and direct them to artists they discover and enjoy. Rather than paying into a subscription with little visibility into where the money ultimately goes, Pipit lets fans direct a portion of their membership.</p><p>Fans also choose their monthly discovery/streaming time instead of paying for unlimited listening they may never use. Pipit is designed around intentional music discovery, not hours of passive \"music wallpaper.\" By aligning streaming costs with the way fans actually listen, Pipit can offer lower-priced, more personalized subscriptions while keeping the focus on discovering and supporting independent artists.</p><p><b>Discover Wave: The Fan Becomes the Algorithm</b></p><p>Pipit's Discover Wave gives listeners direct control over music discovery. Pipit defines every song across nine musical categories: Genre, Flow/Journey, Mood, Sound, Vocals, Lyrics, Tempo, Studio/Production, and Region. Fans use those same categories to create their own Discover Waves.</p><p>Instead of receiving a black-box recommendation telling them what to hear next, listeners decide what matters and shape the discovery experience themselves. The fan becomes the algorithm. As new independent music is added to Pipit, songs that match a fan's existing Discover Wave can enter that discovery experience over time, keeping it fresh without taking control away from the listener.</p><p><b>Find Artists You Connect with Beyond the Music</b></p><p>Pipit's Backstage Pass helps fans &amp; artists discover each other based on more than sound alone. Artists and fans answer a series of questions about their interests, personality, and relationship with music. Pipit then creates a compatibility percentage match without revealing either person's individual answers.</p><p><i>\"I was attracted to Pipit because it felt like a game changer,\" said Elijah Beckham, who performs as Edubb302, an independent hip-hop artist from Wilmington, Delaware. \"It's a place built around discovering and sharing music while also connecting artists and fans. I think it can create more exposure, opportunity, partnerships, and collaborations for independent artists.\"</i></p><p><b>Discover on Pipit. Listen and Connect Wherever You Go.</b></p><p>Alongside its fan launch, Pipit is introducing <i>Pipit: Discover Indie Music</i>, a companion mobile app for iPhone and Android that brings independent music discovery and artist connections to fans wherever they go.</p><p>Pipit Player also brings the Social Feed to mobile, letting fans follow artist updates, view photos and videos, and like and comment on posts to stay connected with the artists behind the music.</p><p><b>No Major Labels. No Generative-AI Music.</b></p><p>Pipit is built exclusively around independent human artists, with no major-label artists or generative-AI-created music competing for fans' attention.</p><p><i>\"Pipit is about giving the fan a more active role,\" said Ray Shingler, co-founder of Pipit. \"You choose what you want to discover and which artists you want to support, while connecting with the people behind the music instead of having the entire experience decided for you.\"</i></p><p>Fans can join Pipit at indiepipit.com.</p><p><b>About Pipit, Inc.</b></p><p>Pipit, Inc. is a five-person technology company building an independent-only music platform centered on fan-driven discovery, direct artist support, and stronger artist-to-fan relationships. Pipit combines modern technology with the curiosity and participation of old-school music discovery, giving listeners greater control over what they hear while creating new ways for independent artists to build sustainable relationships with fans.</p><p><b>Media Contact</b><br></br>Ray Shingler<br></br>Co-Founder, Pipit<br></br>219 309-7048<br></br>indiepipit.com</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2015343/Pipit-logo.jpg?id=OA3024542\" title=\"Pipit™ - Where independent music is discovered, artists are supported, and fans become the algorithm.\" alt=\"Pipit™ - Where independent music is discovered, artists are supported, and fans become the algorithm.\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH88946&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/pipit-launches-music-platform-where-the-fan-becomes-the-algorithm-302929344.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/pipit-launches-music-platform-where-the-fan-becomes-the-algorithm-302929344.html</a></p><p>SOURCE Pipit, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH88946&amp;Transmission_Id=202611050831PR_NEWS_USPR_____PH88946&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Pipit, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-05T16:42:33.435Z"
+    },
+    {
+      "company": [
+        "United Airlines",
+        "Spotify"
+      ],
+      "date": "20261105T130000+0000",
+      "dateline": "CHICAGO, Nov. 5, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "ILL",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "AIR",
+        "TRA",
+        "ENT",
+        "PAV",
+        "MUS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "United Customers Can Now Stream Their Favorite Music, Podcasts and Videos from Their Spotify Accounts on Starlink-Enabled Seatback Screens",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2027842/United-x-Spotify-Image-1.jpg?id=OA3059601&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2027842/United-x-Spotify-Image-1.jpg?id=OA3059601&p=publish"
+        },
+        {
+          "caption": "How to login to your Spotify account on United's seatback screen",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2027864/Spotify-x-United-Demo-Video.mp4?id=OA3059656&p=thumbnail",
+          "type": "video",
+          "url": "https://mmx.prnewswire.com/media/MS2027864/Spotify-x-United-Demo-Video.mp4?id=OA3059656"
+        },
+        {
+          "caption": "United Airlines logo. (PRNewsFoto/United Airlines)",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS262736/UNITED-AIRLINES-LOGO-v1.jpg?id=OA3059599&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS262736/UNITED-AIRLINES-LOGO-v1.jpg?id=OA3059599&p=publish"
+        }
+      ],
+      "release_id": "20261105CG89795",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA",
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>United is the first airline to allow passengers to log in and stream their personal Spotify content on seatback screens; customers can watch video podcasts, live performances and music videos, or listen to music and audiobooks, right where they left off</i></p><p class=\"prntac\"><i>United's new functionality lets Spotify users watch and listen to popular artists and titles like On Purpose with Jay Shetty and </i><i>To All the Boys I've Loved Before: Full Cast Graphic Adaptation by Jenny Han </i><i>on the seatback screen from their own Spotify account, just as they would at home or on the go</i></p>",
+      "ticker": [
+        "NASDAQ-NMS:UAL",
+        "NASDAQ:UAL"
+      ],
+      "title": "United Customers Can Now Stream Their Favorite Music, Podcasts and Videos from Their Spotify Accounts on Starlink-Enabled Seatback Screens",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105CG89795",
+      "body": "\n<p class=\"prntac\"><i>United is the first airline to allow passengers to log in and stream their personal Spotify content on seatback screens; customers can watch video podcasts, live performances and music videos, or listen to music and audiobooks, right where they left off</i></p><p class=\"prntac\"><i>United's new functionality lets Spotify users watch and listen to popular artists and titles like On Purpose with Jay Shetty and </i><i>To All the Boys I've Loved Before: Full Cast Graphic Adaptation by Jenny Han </i><i>on the seatback screen from their own Spotify account, just as they would at home or on the go</i></p><p class=\"prntac\"><i>Spotify rollout will expand across half of United's fleet by next spring; airline is advancing inflight innovation as it expects to offer 219,000 seatback screens by the end of 2027 and complete fleetwide Starlink installation before the end of 2027</i></p><p><span class=\"legendSpanClass\">CHICAGO</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- United and Spotify today announced a first-of-its-kind way for travelers to enjoy their favorite Spotify content in the sky: streaming directly from their personal Spotify account on the seatback screen. Customers can scan a QR code to securely log in to access the full Spotify catalog, including over 100 million tracks, along with millions of podcasts, playlists, videos and albums directly from their screens*. Passengers can pick up their favorite content right where they left off and save new favorites to enjoy long after their flight.</p><p>United is the first airline to let customers access their own Spotify account directly from a seatback screen, creating a more personal and connected entertainment experience built around the content they love. Powered by Starlink Wi-Fi, the integration allows travelers to watch performance videos like <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815035-1&amp;h=4117966668&amp;u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F6pEiPFcQstIDPU5TOjuSdU%3Fsi%3Dd228d16aa370464c&amp;a=To+All+the+Boys+I%27ve+Loved+Before%3A+Full+Cast+Graphic+Adaptation+by+Jenny+Han\" target=\"_blank\" rel=\"nofollow\"><i>To All the Boys I've Loved Before: Full Cast Graphic Adaptation by Jenny Han</i></a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815035-1&amp;h=68221293&amp;u=https%3A%2F%2Fopen.spotify.com%2Fshow%2F5EqqB52m2bsr4k1Ii7sStc&amp;a=On+Purpose+with+Jay+Shetty\" target=\"_blank\" rel=\"nofollow\"><i>On Purpose with Jay Shetty</i></a> – streamed directly from their own Spotify account. Once logged in, customers can access their personalized recommendations, playlists and saved content, and discover new recommendations tailored specifically to their listening and viewing habits, delivering a seamless listening experience that moves with them wherever they travel.</p><p>\"Our customers are used to streaming entertainment that's tailored to them, and that level of personalization shouldn't stop when they board one of our planes,\" said Andrew Nocella, Chief Commercial Officer at United Airlines. \"Now, thanks to Starlink, they can watch and listen to their own Spotify content right on their seatback screen and pick up their favorites right where they left off. From video podcasts and live performances to music and audiobooks, our collaboration with Spotify gives customers more of what they love onboard and is helping us create an elevated experience for everyone who chooses to fly United.\" </p><p>\"Bringing personal Spotify accounts to United seatback screens is a major milestone, creating a new way to experience Spotify in flight,\" said Ian Geller, VP of Business Development at Spotify. \"With a quick QR code scan, passengers can bring their personalized Spotify experience to the screen in front of them — their recommendations, saved library, and favorite songs, podcasts, audiobooks, and videos — and enjoy it all on a big screen at 35,000 feet.\"</p><p>United introduced an exclusive collection of Spotify content on its seatback screens in June 2025, including more than 450 hours of audiobooks, video podcasts and music playlists. Since then, more than 2.3 million customers have enjoyed more than 1.9 million hours of Spotify content onboard. This new functionality builds on that by giving customers access to their personal Spotify account – from their saved playlists to tailored recommendations and more – directly from the seatback screen. The launch of the Spotify app integration builds on United's continued investment in personalization and the inflight experience.</p><p>United continues to invest in the inflight entertainment experience, in addition to Spotify, the airline gives customers access to more than 2,500 hours of premium entertainment content including Apple TV, HBO Max, A24 and Peacock. </p><p>United is also elevating the onboard experience with Starlink. Starlink Wi-Fi is now available on more than half of United's daily flights and enables MileagePlus® members to stream, work, shop and stay connected across multiple devices in the air. The airline expects to complete Starlink installations by the end of 2027, bringing a faster, more connected and increasingly personalized experience to more customers. In addition, United currently offers more than 181,000 seatback screens across its fleet – more than any other major U.S. airline and about 85% of its mainline fleet – and expects to have more than 219,000 screens, nearly its entire mainline fleet, by the end of 2027.</p><p><b>How It Works<br></br></b>Customers on eligible flights can open the Spotify app from the seatback screen and scan the displayed QR code with their phone's camera. If already logged in to Spotify on their phone, their account pairs seamlessly with the seatback screen through a single-click verification. If not, they can log in securely on their phone and their personal library will appear on the seatback screen, allowing them to:</p><ul type=\"disc\"><li>Resume music, videos, audiobooks and playlists where they left off and control playback</li><li>Browse their library and personalized recommendations</li><li>Save new favorites to their library</li><li>Enjoy Spotify directly on the seatback screen, bringing them even more of the content they love</li><li>Optionally use their phone as a companion remote, allowing them to browse, select titles and adjust playback right from their seat without leaning forward to touch the screen</li></ul><p>Customers may log out at any time during the flight and will be automatically logged out of their Spotify account at the end of the flight.</p><p>*Available content and features vary by Spotify plan and market.</p><p class=\"prntac\"><b>About United</b></p><p>At United, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815035-1&amp;h=32812674&amp;u=https%3A%2F%2Fwww.united.com%2Fen%2Fus%2Ffly%2Fcompany%2Fbrand%2Fgood-leads-the-way.html&amp;a=Good+Leads+The+Way\" target=\"_blank\" rel=\"nofollow\">Good Leads The Way</a>. With U.S. hubs in Chicago, Denver, Houston, Los Angeles, New York/Newark, San Francisco and Washington, D.C., United operates the most comprehensive global route network among North American carriers and is now the largest airline in the world as measured by available seat miles. For more about how to join the United team, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815035-1&amp;h=3645722276&amp;u=http%3A%2F%2Fwww.united.com%2Fcareers&amp;a=www.united.com%2Fcareers\" target=\"_blank\" rel=\"nofollow\">www.united.com/careers</a> and more information about the company is at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815035-1&amp;h=2804895931&amp;u=http%3A%2F%2Fwww.united.com%2F&amp;a=www.united.com\" target=\"_blank\" rel=\"nofollow\">www.united.com</a>. United Airlines Holdings, Inc., the parent company of United Airlines, Inc., is traded on the Nasdaq under the symbol \"UAL\"</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2932\"><p><img src=\"https://mmx.prnewswire.com/media/MS2027842/United-x-Spotify-Image-1.jpg?id=OA3059601\" title=\"United Customers Can Now Stream Their Favorite Music, Podcasts and Videos from Their Spotify Accounts on Starlink-Enabled Seatback Screens\" alt=\"United Customers Can Now Stream Their Favorite Music, Podcasts and Videos from Their Spotify Accounts on Starlink-Enabled Seatback Screens\"></img></p></div>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n                    <p title=\"How to login to your Spotify account on United's seatback screen\"><iframe id=\"PlayMedia_2\" src=\"https://mmx.prnewswire.com/media/MS2027864/Spotify-x-United-Demo-Video.mp4?id=OA3059656\" width=\"560\" height=\"325\" frameborder=\"0\" scrolling=\"no\"></iframe></p>\n                    <p>\n                        <img src=\"https://mmx.prnewswire.com/media/MS262736/UNITED-AIRLINES-LOGO-v1.jpg?id=OA3059599\" title=\"United Airlines logo. (PRNewsFoto/United Airlines)\" alt=\"United Airlines logo. (PRNewsFoto/United Airlines)\"></img>\n                    </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG89795&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/united-customers-can-now-stream-their-favorite-music-podcasts-and-videos-from-their-spotify-accounts-on-starlink-enabled-seatback-screens-302930102.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/united-customers-can-now-stream-their-favorite-music-podcasts-and-videos-from-their-spotify-accounts-on-starlink-enabled-seatback-screens-302930102.html</a></p><p>SOURCE United Airlines</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG89795&amp;Transmission_Id=202611050800PR_NEWS_USPR_____CG89795&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "United Airlines",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment",
+        "podcast"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment",
+          "podcast"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 4,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "podcast": [
+            "podcast",
+            "podcasts"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-05T16:42:33.676Z"
+    },
     {
       "company": [
         "Planet Classroom Network"
