@@ -1,11 +1,186 @@
 {
-  "generated_at": "2026-11-06T09:56:54.829Z",
+  "generated_at": "2026-11-06T17:22:41.149Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 18,
+  "count": 19,
   "releases": [
+    {
+      "company": [
+        "Lifeway Foods, Inc."
+      ],
+      "date": "20261106T170000+0000",
+      "dateline": "MORTON GROVE, Ill., Nov. 6, 2026",
+      "feed": [
+        "PRNUS_ONLY",
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "ILL",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FIT",
+        "FOD",
+        "REA",
+        "SPT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Colston Loveland and D'Andre Swift - Lifeway Muscle Mates",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2029394/Muscle-Mates-Bunk-Beds-2.jpg?id=OA3063499&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2029394/Muscle-Mates-Bunk-Beds-2.jpg?id=OA3063499&p=publish"
+        },
+        {
+          "caption": "Colston Loveland and D'Andre Swift - Lifeway Muscle Mates",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2029395/Muscle-Mates-Bunk-Beds-1.jpg?id=OA3063500&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2029395/Muscle-Mates-Bunk-Beds-1.jpg?id=OA3063500&p=publish"
+        },
+        {
+          "caption": "Lifeway Foods",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS219648/Lifeway-1986-Logo-v1.jpg?id=OA3063482&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS219648/Lifeway-1986-Logo-v1.jpg?id=OA3063482&p=publish"
+        }
+      ],
+      "release_id": "20261106DC91391",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">MORTON GROVE, Ill.</span>, <span class=\"legendSpanClass\">Nov. 6, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4816550-1&amp;h=1886797013&amp;u=https%3A%2F%2Flifewaykefir.com%2F&amp;a=Lifeway+Foods%2C+Inc.\" target=\"_blank\" rel=\"nofollow\">Lifeway Foods, Inc.</a> (Nasdaq: LWAY) (\"Lifeway\" or \"the Company\"), the leading U.S. supplier of kefir and fermented probiotic products, is bringing its partnership with Chicago football stars Colston Loveland and D'Andre Swift to a bigger stage.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2029394/Muscle-Mates-Bunk-Beds-2.jpg?id=OA3063499\" title=\"Colston Loveland and D'Andre Swift - Lifeway Muscle Mates\" alt=\"Colston Loveland and D'Andre Swift - Lifeway Muscle Mates\"></img>\n                </p>\n    </div>\n<p>On Sunday, November 8, Lifeway's humorous <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4816550-1&amp;h=2594062008&amp;u=https%3A%2F%2Fwww.instagram.com%2Flifewaykefir%2Freel%2FDUbC0UOjTrE%2F%3Fhl%3Den&amp;a=kefir+commercial\" target=\"_blank\" rel=\"nofollow\">kefir commercial</a> featuring the two athletes will make its Chicagoland television debut, expanding the reach of a fan-favorite campaign that first launched exclusively on social media. The broadcast debut will be followed by an all-new, social-exclusive campaign featuring the players promoting Lifeway Muscle Mates, the Company's high-protein probiotic kefir with creatine.</p>",
+      "ticker": [
+        "NASDAQ-NMS:LWAY",
+        "NASDAQ:LWAY"
+      ],
+      "title": "Lifeway® Kefir Commercial Makes Chicagoland Television Debut Sunday, November 8, With New Muscle Mates™ Social Media Campaign to Follow",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261106DC91391",
+      "body": "\n<p><span class=\"legendSpanClass\">MORTON GROVE, Ill.</span>, <span class=\"legendSpanClass\">Nov. 6, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4816550-1&amp;h=1886797013&amp;u=https%3A%2F%2Flifewaykefir.com%2F&amp;a=Lifeway+Foods%2C+Inc.\" target=\"_blank\" rel=\"nofollow\">Lifeway Foods, Inc.</a> (Nasdaq: LWAY) (\"Lifeway\" or \"the Company\"), the leading U.S. supplier of kefir and fermented probiotic products, is bringing its partnership with Chicago football stars Colston Loveland and D'Andre Swift to a bigger stage.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2029394/Muscle-Mates-Bunk-Beds-2.jpg?id=OA3063499\" title=\"Colston Loveland and D'Andre Swift - Lifeway Muscle Mates\" alt=\"Colston Loveland and D'Andre Swift - Lifeway Muscle Mates\"></img>\n                </p>\n    </div>\n<p>On Sunday, November 8, Lifeway's humorous <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4816550-1&amp;h=2594062008&amp;u=https%3A%2F%2Fwww.instagram.com%2Flifewaykefir%2Freel%2FDUbC0UOjTrE%2F%3Fhl%3Den&amp;a=kefir+commercial\" target=\"_blank\" rel=\"nofollow\">kefir commercial</a> featuring the two athletes will make its Chicagoland television debut, expanding the reach of a fan-favorite campaign that first launched exclusively on social media. The broadcast debut will be followed by an all-new, social-exclusive campaign featuring the players promoting Lifeway Muscle Mates, the Company's high-protein probiotic kefir with creatine.</p><p>\"Football brings people together, and as a company with deep roots in Chicagoland, we're excited to bring this campaign to an even wider audience,\" said Julie Smolyansky, President and CEO of Lifeway Foods. \"Colston and D'Andre bring incredible personality and energy to our brand, helping us connect with a new generation of consumers while showcasing how Lifeway Kefir and Muscle Mates can fit into active, everyday lifestyles.\"</p><p><b>About Lifeway Foods, Inc.</b></p><p>Lifeway Foods, Inc. is the brand that introduced kefir to generations of American consumers. For 40 years, Lifeway has defined authentic, real kefir in the U.S. market while building the expertise, consumer trust and scale that support its category leadership. The Company has been recognized as one of America's Growth Leaders by TIME, as Dairy Foods' Processor of the Year 2025, as one of Forbes' Best Small Companies and on Inc.'s 2025 Best in Business list in the Best Challenger Brands category. In addition to its drinkable kefir portfolio, Lifeway produces Farmer Cheese – a 40-year legacy line now expanding to mass retail – Kefir Butter, Muscle Mates™, a variety of cheeses and ProBugs<sup>®</sup> for kids. Lifeway products are sold across the United States, Mexico, the United Arab Emirates, Central America and the Caribbean. Learn more at lifewayfoods.com.</p><p><b>Contact:</b><br></br>Derek Miller <br></br>Vice President of Communications, Lifeway Foods<br></br>Email: <a href=\"mailto:derekm@lifeway.net\" target=\"_blank\" rel=\"nofollow\"><b>derekm@lifeway.net</b></a> </p><p>General inquiries:<br></br>Lifeway Foods, Inc.<br></br>Phone: 847-967-1010<br></br>Email: <a href=\"mailto:info@lifeway.net\" target=\"_blank\" rel=\"nofollow\"><b>info@lifeway.net</b></a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2029395/Muscle-Mates-Bunk-Beds-1.jpg?id=OA3063500\" title=\"Colston Loveland and D'Andre Swift - Lifeway Muscle Mates\" alt=\"Colston Loveland and D'Andre Swift - Lifeway Muscle Mates\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS219648/Lifeway-1986-Logo-v1.jpg?id=OA3063482\" title=\"Lifeway Foods\" alt=\"Lifeway Foods\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DC91391&amp;sd=2026-11-06\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/lifeway-kefir-commercial-makes-chicagoland-television-debut-sunday-november-8-with-new-muscle-mates-social-media-campaign-to-follow-302932198.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/lifeway-kefir-commercial-makes-chicagoland-television-debut-sunday-november-8-with-new-muscle-mates-social-media-campaign-to-follow-302932198.html</a></p><p>SOURCE Lifeway Foods, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DC91391&amp;Transmission_Id=202611061200PR_NEWS_USPR_____DC91391&amp;DateId=20261106\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Lifeway Foods, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "social media"
+          ],
+          "television": [
+            "television"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-06T17:22:43.753Z"
+    },
+    {
+      "company": [
+        "SoftwareExperts.org"
+      ],
+      "date": "20261106T110000+0000",
+      "dateline": "NEW YORK, Nov. 6, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SMD",
+        "AFI",
+        "CPR",
+        "STW",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [],
+      "release_id": "20261106PH89991",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 6, 2026</span> /PRNewswire/ -- Software Experts has recognized <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=291161648&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fhootsuite-plans-link&amp;a=Hootsuite\" target=\"_blank\" rel=\"nofollow\"><b>Hootsuite</b></a>'s Social OS and Hootsuite MCP in a new guide examining how AI social media management can connect publishing, customer service and social intelligence. Social OS brings content creation, reporting and customer interactions into a shared environment supported by live insights and conversational tools.</p>\n<p><b>AI Social Media Management</b></p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=291161648&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fhootsuite-plans-link&amp;a=Hootsuite\" target=\"_blank\" rel=\"nofollow\"><b>Hootsuite</b></a> - an AI-first social media management platform combining publishing, customer care, social listening, employee advocacy and analytics through Social OS, supported by the Wisdom AI teammate and Hootsuite MCP connections for working through compatible AI assistants.</li></ul>",
+      "ticker": [],
+      "title": "Improve Social Media Management With Hootsuite's Social OS and MCP: A Guide by Software Experts",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261106PH89991",
+      "body": "\n<p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 6, 2026</span> /PRNewswire/ -- Software Experts has recognized <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=291161648&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fhootsuite-plans-link&amp;a=Hootsuite\" target=\"_blank\" rel=\"nofollow\"><b>Hootsuite</b></a>'s Social OS and Hootsuite MCP in a new guide examining how AI social media management can connect publishing, customer service and social intelligence. Social OS brings content creation, reporting and customer interactions into a shared environment supported by live insights and conversational tools.</p>\n<p><b>AI Social Media Management</b></p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=291161648&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fhootsuite-plans-link&amp;a=Hootsuite\" target=\"_blank\" rel=\"nofollow\"><b>Hootsuite</b></a> - an AI-first social media management platform combining publishing, customer care, social listening, employee advocacy and analytics through Social OS, supported by the Wisdom AI teammate and Hootsuite MCP connections for working through compatible AI assistants.</li></ul><p>Hootsuite introduced Social OS and Wisdom on June 24, 2026, alongside Model Context Protocol (MCP) connectors designed to bring Hootsuite capabilities into external AI workflows. Purpose-built applications organize everyday social responsibilities within one connected system.</p><p>The Software Experts guide examines why the change matters for social media professionals. Social operations require coordinated publishing, service requests and performance analysis. Useful automation depends on actual account data and appropriate permissions.</p><p><b>Social OS Connects Publishing, Care and Social Intelligence</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=291161648&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fhootsuite-plans-link&amp;a=Hootsuite\" target=\"_blank\" rel=\"nofollow\"><b>Hootsuite</b></a> Social OS organizes social media work around Perch, Nest, Lumen and Parliament, with Wisdom being the core intelligence engine supplying an AI layer. Each application handles a defined task.</p><p>Perch focuses on content creation, planning and publishing. Teams can prepare posts, manage calendars, organize media and schedule content across connected accounts. Performance data helps marketers evaluate strategy, caption's content, and choose publishing times.</p><p>Nest addresses the service side of social media. Messages, comments and other customer conversations can be reviewed through a unified inbox. Assignment and triage features help care teams identify priority issues, organize responses and reduce the risk of important requests being overlooked. The shared workflow can clarify which conversations need attention.</p><p>Lumen focuses on social listening and intelligence. Monitoring conversations and sentiment can reveal changes in brand perception, developing topics and competitor activity. Insights from Lumen can inform content decisions before a trend has passed or help communications teams investigate a sudden increase in critical mentions.</p><p>Parliament covers employee advocacy. The application organizes approved content that employees and advocates can share through personal social channels. Participation reporting helps measure advocacy activity. The four applications connect publishing, response, research and amplification.</p><p><b>Hootsuite MCP Extends Social Media Workflows Into AI Chat</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=291161648&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fhootsuite-plans-link&amp;a=Hootsuite\" target=\"_blank\" rel=\"nofollow\"><b>Hootsuite</b></a> MCP uses Model Context Protocol, a standardized method for connecting AI assistants with software tools. An MCP server gives a compatible assistant access to permitted functions in a connected Hootsuite product. The result is conversational access to everyday tasks.</p><p>Perch MCP supports preparing posts, scheduling content and reviewing publishing performance. A marketing manager could request drafts for several connected channels, then review suggested posting times based on available performance data. Nest MCP supports identifying urgent inbox items, assigning conversations and using saved responses. Care teams can prioritize their queues more efficiently.</p><p>Lumen MCP brings listening requests into the same conversational format. A communications professional can request a summary of recent brand sentiment, examine emerging subjects or investigate notable competitor conversations. Parliament MCP supports advocacy-oriented workflows, including discovering approved posts and preparing shareable content. Advocates can also find and share approved material through AI chat.</p><p>Hootsuite provides connection instructions for supported AI assistants. Some integrations use prebuilt connectors, while other configurations require an administrator to add a remote MCP server. Access remains dependent on the connected Hootsuite account, available product capabilities and user permissions. MCP serves as a bridge to existing workflows rather than an independent replacement for social media management software.</p><p><b>Wisdom Adds Context to AI Social Media Management</b></p><p>Wisdom operates within Hootsuite Social OS as a social-first AI agent. The assistant draws on connected workflows and available social intelligence to explain performance, identify relevant conversations and generate content recommendations. While an external assistant reaches Hootsuite through MCP, Wisdom provides a conversational experience inside the Hootsuite environment.</p><p>A sudden engagement change can raise questions about timing and audience response. Wisdom can help surface relevant signals and translate findings into a campaign idea, draft post or next-step recommendation. Hootsuite says Wisdom draws on more than 15 years of proprietary social data and over 150 million monitored data sources.</p><p>Human review remains central to responsible use. Wisdom generates drafts and recommendations without independently bypassing publication decisions. For MCP-supported actions, established account permissions and approval practices remain important safeguards, particularly when customer messages or public-facing content are involved.</p><p><b>Practical Uses and Hootsuite Plan Options</b></p><p>The connected approach serves several professional functions. Social marketers can move from a listening insight to a planned post. Customer care teams can address priority requests. PR and communications teams can review emerging reputation concerns, while analysts can examine performance patterns and agencies can coordinate work across accounts.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=291161648&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fhootsuite-plans-link&amp;a=Hootsuite\" target=\"_blank\" rel=\"nofollow\"><b>Hootsuite</b></a> offers Standard, Professional, Advanced and Enterprise plans, with different levels of functionality. Standard includes management for up to 10 social accounts, content scheduling, AI-assisted creation and a shared inbox. Professional expands to unlimited social accounts, more automation and custom reporting. Advanced adds structured approvals and team assignments. Enterprise provides more extensive governance, listening and security capabilities.</p><p>Hootsuite offers a 14-day trial, while organizations considering broader deployments can request a demonstration. Product access and specific MCP functionality should be assessed against the selected plan and operational requirements.</p><p>The central development is the connection between everyday social tasks and conversational AI. Hootsuite Social OS supplies the operational tools, Wisdom helps interpret social information, and Hootsuite MCP brings authorized functions into external AI workflows to boost productivity. The guide offers a framework for evaluating AI tools for social media through practical workflows.</p><p>For a full review, visit the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4815226-1&amp;h=3014575210&amp;u=https%3A%2F%2Fsoftwareexperts.org%2Fimprove-social-media-management%2F&amp;a=Software+Experts+website\" target=\"_blank\" rel=\"nofollow\"><b>Software Experts website</b></a>.</p><p><b>About Hootsuite</b></p><p>Social media never slows down. Hootsuite is built to help organizations keep pace. Hootsuite Social OS is an AI-first operating system for social intelligence, publishing, employee advocacy, customer care and analytics. Wisdom, the built-in AI assistant, connects insights with content and workflow recommendations through conversational interaction.</p><p>With 18 years of expertise and more than 25 million users, Hootsuite helps businesses identify relevant signals, make informed decisions and act on emerging opportunities. To learn more, visit hootsuite.com.</p><p><b>About Software Experts:</b> Software Experts delivers in-depth news on the digital tools shaping today's consumer experience. As an affiliate, Software Experts may earn commissions from sales generated using links provided.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH89991&amp;sd=2026-11-06\"></img> View original content:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/improve-social-media-management-with-hootsuites-social-os-and-mcp-a-guide-by-software-experts-302930614.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/improve-social-media-management-with-hootsuites-social-os-and-mcp-a-guide-by-software-experts-302930614.html</a></p><p>SOURCE SoftwareExperts.org</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH89991&amp;Transmission_Id=202611060600PR_NEWS_USPR_____PH89991&amp;DateId=20261106\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "SoftwareExperts.org",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 6,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "social media",
+            "industry:MLM",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-06T17:22:44.671Z"
+    },
     {
       "company": [
         "RockWater"
@@ -1548,87 +1723,6 @@
         "excluded": false
       },
       "imported_at": "2026-09-23T13:16:31.000Z"
-    },
-    {
-      "company": [
-        "Swyzel"
-      ],
-      "date": "20260922T122000+0000",
-      "dateline": "TAMPA, Fla., Sept. 22, 2026",
-      "feed": [
-        "PRNUS",
-        "prncom_prnj",
-        "APPLE_NEWS"
-      ],
-      "geography": [
-        "FRD",
-        "USE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "SMD",
-        "CPR",
-        "TLS",
-        "ITE",
-        "MLM"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Swyzel.com - Social Learning Platform",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1993795/Logo-swyzel-outlined-square.jpg?id=OA2963284&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1993795/Logo-swyzel-outlined-square.jpg?id=OA2963284&p=publish"
-        }
-      ],
-      "release_id": "20260922PH53805",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p><i>New social learning platform aims to combat mindless scrolling with short-form learning, while giving everyday people and creators a simple way to share knowledge through free and paid content.</i></p><p><span class=\"legendSpanClass\">TAMPA, Fla.</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- Swyzel is a growing social learning platform that allows users to learn from others, create their own learning content, and earn money from paid content.</p>\n<p><b>Why Swyzel is different:</b></p><ul type=\"disc\"><li>While courses of all sizes can be created, Swyzel is focused on mini courses for short form learning that can take the place of some doom scrolling.</li><li>Focused on building a community that supports the creators who dedicate their time creating content so they can earn extra income.</li><li>Anyone can become a creator and begin earning right away.</li></ul>",
-      "ticker": [],
-      "title": "Swyzel Wants to Make Learning as Addictive as Social Media",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260922PH53805",
-      "body": "\n<p><i>New social learning platform aims to combat mindless scrolling with short-form learning, while giving everyday people and creators a simple way to share knowledge through free and paid content.</i></p><p><span class=\"legendSpanClass\">TAMPA, Fla.</span>, <span class=\"legendSpanClass\">Sept. 22, 2026</span> /PRNewswire/ -- Swyzel is a growing social learning platform that allows users to learn from others, create their own learning content, and earn money from paid content.</p>\n<p><b>Why Swyzel is different:</b></p><ul type=\"disc\"><li>While courses of all sizes can be created, Swyzel is focused on mini courses for short form learning that can take the place of some doom scrolling.</li><li>Focused on building a community that supports the creators who dedicate their time creating content so they can earn extra income.</li><li>Anyone can become a creator and begin earning right away.</li></ul><p>Research has linked heavy short-form video use with weaker attention spans, reduced cognitive abilities, and addictive usage patterns. Swyzel is designed to redirect some of that scrolling time toward quick learning sessions.</p><p>Unlike traditional online course platforms that often focus on lengthy courses, Swyzel is designed around shorter, more accessible learning experiences. It combats mindless scrolling by making learning feel more like the content people already enjoy consuming online, and providing content that can be explored in shorter periods of time.</p><p>Swyzel's approach is based on a simple idea: useful knowledge does not have to be boring. People can gain valuable knowledge from others in small doses while still being entertained.</p><p><b>How to Learn<br></br></b>For learners, Swyzel offers a growing library of practical information from people with expertise across a wide range of subjects. They can choose between free courses or paid courses starting as low as $0.99.</p><p><b>How to Create and Earn<br></br></b>Anyone can create a course on Swyzel, as long as the topic meets content guidelines. There is no waiting period or minimum follower thresholds like other platforms. Creators can start small and make a free course, or scale up to larger courses and charge $0.99 to $299. They can add text, images, and videos. It is a great option for beginners and content creators of all sizes. For established content creators, it is another way for them to monetize their following.</p><p><b>Visit </b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4780020-1&amp;h=4189765508&amp;u=https%3A%2F%2Fswyzel.com%2F&amp;a=https%3A%2F%2FSwyzel.com\" target=\"_blank\" rel=\"nofollow\"><b>https://Swyzel.com</b></a><b> to try it out!</b></p><p><b>Media Contact<br></br></b>Ryan Sanchez<br></br>Owner, Lead Developer<br></br>Swyzel. LLC<br></br>302-262-5132<br></br><a href=\"mailto:423228@email4pr.com\" target=\"_blank\" rel=\"nofollow\">423228@email4pr.com</a><br></br><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4780020-1&amp;h=4189765508&amp;u=https%3A%2F%2Fswyzel.com%2F&amp;a=https%3A%2F%2FSwyzel.com\" target=\"_blank\" rel=\"nofollow\">https://Swyzel.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH53805&amp;sd=2026-09-22\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/swyzel-wants-to-make-learning-as-addictive-as-social-media-302886136.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/swyzel-wants-to-make-learning-as-addictive-as-social-media-302886136.html</a></p><p>SOURCE Swyzel</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH53805&amp;Transmission_Id=202609220820PR_NEWS_USPR_____PH53805&amp;DateId=20260922\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Swyzel",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "digital"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "digital"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 6,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "social media",
-            "industry:MLM",
-            "industry:SMD"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-22T12:46:46.806Z"
     }
   ]
 }

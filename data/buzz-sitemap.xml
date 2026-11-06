@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.mediajobsreport.com/advertising_news?release=20260922NE51875</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/advertising_news?release=20260922NY53225</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/advertising_news?release=20260922NY53569</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
     <loc>https://www.mediajobsreport.com/advertising_news?release=20260923C2423</loc>
     <lastmod>2026-09-23</lastmod>
   </url>
@@ -525,10 +513,6 @@
     <lastmod>2026-11-05</lastmod>
   </url>
   <url>
-    <loc>https://www.mediajobsreport.com/digital_news?release=20260922PH53805</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
     <loc>https://www.mediajobsreport.com/digital_news?release=20260923PH54666</loc>
     <lastmod>2026-09-23</lastmod>
   </url>
@@ -597,6 +581,14 @@
     <lastmod>2026-11-05</lastmod>
   </url>
   <url>
+    <loc>https://www.mediajobsreport.com/digital_news?release=20261106DC91391</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/digital_news?release=20261106PH89991</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
     <loc>https://www.mediajobsreport.com/engineering_news?release=20260928CN57900</loc>
     <lastmod>2026-09-28</lastmod>
   </url>
@@ -611,22 +603,6 @@
   <url>
     <loc>https://www.mediajobsreport.com/engineering_news?release=20261105CN90122</loc>
     <lastmod>2026-11-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/entertainment_news?release=20260922C2304</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/entertainment_news?release=20260922CN53420</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/entertainment_news?release=20260922DA53557</loc>
-    <lastmod>2026-09-22</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/entertainment_news?release=20260922FL53048</loc>
-    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://www.mediajobsreport.com/entertainment_news?release=20260923C1329</loc>
@@ -1317,7 +1293,23 @@
     <lastmod>2026-11-05</lastmod>
   </url>
   <url>
+    <loc>https://www.mediajobsreport.com/entertainment_news?release=20261106C5743</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/entertainment_news?release=20261106CL91314</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
     <loc>https://www.mediajobsreport.com/entertainment_news?release=20261106CN91123</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/entertainment_news?release=20261106FL90547</loc>
+    <lastmod>2026-11-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mediajobsreport.com/entertainment_news?release=20261106NY90613</loc>
     <lastmod>2026-11-06</lastmod>
   </url>
   <url>
@@ -1399,10 +1391,6 @@
   <url>
     <loc>https://www.mediajobsreport.com/management_news?release=20261105DA89186</loc>
     <lastmod>2026-11-05</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mediajobsreport.com/podcast_news?release=20260922LA53817</loc>
-    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://www.mediajobsreport.com/podcast_news?release=20260923TO55415</loc>
