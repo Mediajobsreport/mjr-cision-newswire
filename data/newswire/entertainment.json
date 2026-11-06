@@ -1,11 +1,132 @@
 {
-  "generated_at": "2026-11-06T02:45:07.607Z",
+  "generated_at": "2026-11-06T09:56:54.829Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 176,
+  "count": 177,
   "releases": [
+    {
+      "company": [
+        "iQIYI"
+      ],
+      "date": "20261106T095500+0000",
+      "dateline": "BEIJING, Nov. 6, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CHN",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CPR",
+        "ENT",
+        "MLM",
+        "AFI",
+        "FLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "New “Visiting Shanghai after Sixty Years” – 1990s scene ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2028964/20261106034642EST_image_4.jpg?id=OA3062623&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2028964/20261106034642EST_image_4.jpg?id=OA3062623&p=publish"
+        },
+        {
+          "caption": "New “Visiting Shanghai after Sixty Years” – Nadou Pro canvas",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2028965/20261106034642EST_image_1.jpg?id=OA3062624&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2028965/20261106034642EST_image_1.jpg?id=OA3062624&p=publish"
+        },
+        {
+          "caption": "Original stills from “Visiting Shanghai after Sixty Years”",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2028966/20261106034642EST_image_3.jpg?id=OA3062625&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2028966/20261106034642EST_image_3.jpg?id=OA3062625&p=publish"
+        },
+        {
+          "caption": "New “Visiting Shanghai after Sixty Years” – 1930s scene ",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2028967/20261106034642EST_image_2.jpg?id=OA3062626&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2028967/20261106034642EST_image_2.jpg?id=OA3062626&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "5",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS608184/iQIYI-New-Logo-Logo.jpg?id=OA3062635&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS608184/iQIYI-New-Logo-Logo.jpg?id=OA3062635&p=publish"
+        }
+      ],
+      "release_id": "20261106CN91123",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Nov. 6, 2026</span> /PRNewswire/ -- iQIYI, China's leading online entertainment platform, is pioneering a new path in AI-powered film restoration through NadouPro, the company's AI platform built for professional film and television production. NadouPro has enabled the creative restoration of \"Visiting Shanghai after Sixty Years\", a short film lost for nearly 90 years. This shows how AI can restore films with almost no surviving original footage, bringing them back to life.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2028964/20261106034642EST_image_4.jpg?id=OA3062623\" title=\"New “Visiting Shanghai after Sixty Years” – 1990s scene \" alt=\"New “Visiting Shanghai after Sixty Years” – 1990s scene \"></img>\n                </p>\n    </div>\n",
+      "ticker": [
+        "Nasdaq:IQ",
+        "NASDAQ-NMS:IQ"
+      ],
+      "title": "iQIYI Revives 90-Year-Old Lost Film with NadouPro, Shortlisted for the AI Unit at the Golden Rooster Awards",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261106CN91123",
+      "body": "\n<p><span class=\"legendSpanClass\">BEIJING</span>, <span class=\"legendSpanClass\">Nov. 6, 2026</span> /PRNewswire/ -- iQIYI, China's leading online entertainment platform, is pioneering a new path in AI-powered film restoration through NadouPro, the company's AI platform built for professional film and television production. NadouPro has enabled the creative restoration of \"Visiting Shanghai after Sixty Years\", a short film lost for nearly 90 years. This shows how AI can restore films with almost no surviving original footage, bringing them back to life.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2028964/20261106034642EST_image_4.jpg?id=OA3062623\" title=\"New “Visiting Shanghai after Sixty Years” – 1990s scene \" alt=\"New “Visiting Shanghai after Sixty Years” – 1990s scene \"></img>\n                </p>\n    </div>\n<p>Completed by an eight-person team at the iQIYI-XMU Joint Laboratory of Film Restoration in just two months, the project has recently been shortlisted for the \"2026 Future Images AI Unit\" at the 39th Golden Rooster Awards. The Golden Rooster Awards are among China's most prestigious film honors, underscoring the project's industry recognition.</p><p><b>The Challenge: Building a Movie Without Footage </b></p><p>Traditional film restoration typically relies on surviving film materials, using digital technologies to repair damage and enhance image quality. However, with the original 1938 release of \"Visiting Shanghai after Sixty Years\" – one of China's earliest science-fiction works, which used comedy to imagine life sixty years into the future – there was almost nothing left to repair. All physical prints, reels, and scripts had been lost over the decades. Instead, the team had to generate the film from scratch using only production still-photos, posters, and newspaper clippings as conceptual guides.</p><p>\"NadouPro allowed us to step outside the conventional restoration mindset,\" said Zidong JIANG, Member of iQIYI-XMU Joint Laboratory and iQIYI's Director of AI Restoration Technology. \"With no surviving film prints to restore, we used AI to undertake a creative reconstruction of the film based on available historical materials.\"</p><p>Building a film from the ground up highlighted two major complexities in generative video: maintaining character consistency across scenes and achieving precise camera control. The team utilized NadouPro to address both.</p><p><b>Maintaining Continuity Through Digital Assets</b></p><p>The film spans two distinct historical eras – 1938 and 1998 – and features multiple characters. In generative video, ensuring characters retain the same appearance across different shots is historically difficult.</p><p>NadouPro solved this by acting as a centralized production hub. Rather than generating characters anew for every scene, the team used the platform to lock in permanent digital assets for each character's facial features, proportions, and costumes upfront. Subsequent shots drew from these foundational files, keeping character appearances perfectly consistent throughout the film.</p><p><b>Enabling Directorial Control with 3D Director Studio</b></p><p>Recreating acting performances from still photos required high precision. Rather than relying on trial-and-error AI generation, the team used NadouPro's 3D Director Studio to precisely control character positioning, composition, and movement, supported by tools for exploring different scenes, visual styles, and camera angles.</p><p>This control ensured filmmakers led the creative direction. The 1938 sequences drew inspiration from early black-and-white cinema with stable cameras and vintage lighting, while the 1998 scenes adopted a documentary style with natural light and handheld camera movement.</p><p>\"NadouPro helped us move from relatively random image generation toward shots with clear directorial intent,\" said Enji YANG, the Director of the new film. \"In the early stage, we still followed traditional methods: script analysis, character design, scene design, and storyboard planning. We always believe the audiovisual design of a film must come first, before considering how AI can realize it.\"</p><p>Aigong ZHANG, Chief Planner of the new film and Director of the iQIYI-XMU Joint Laboratory, noted that the project demonstrates how AI can integrate into a professional workflow. \"NadouPro shares something in common with the production of this short film: the organic integration of traditional filmmaking craftsmanship with AI.\"</p><p><b>Building on Years of AI Restoration Work</b></p><p>As one of the earliest long-form video platforms to invest in AI film restoration, iQIYI has been exploring the related technology since 2017. Its proprietary ZoomAI uses algorithms for scratch repair, super-resolution, noise reduction, and intelligent frame interpolation, helping shift restoration from manual frame-by-frame work toward automated processes.</p><p>Through its joint laboratory with Xiamen University, iQIYI has already brought a number of 4K classics back to screens. Building on this experience, iQIYI is now exploring new possibilities beyond traditional film restoration, using AI to creatively reconstruct and reimagine lost films based on surviving historical materials, bringing classic works back to audiences in new forms.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2028965/20261106034642EST_image_1.jpg?id=OA3062624\" title=\"New “Visiting Shanghai after Sixty Years” – Nadou Pro canvas\" alt=\"New “Visiting Shanghai after Sixty Years” – Nadou Pro canvas\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2028966/20261106034642EST_image_3.jpg?id=OA3062625\" title=\"Original stills from “Visiting Shanghai after Sixty Years”\" alt=\"Original stills from “Visiting Shanghai after Sixty Years”\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2028967/20261106034642EST_image_2.jpg?id=OA3062626\" title=\"New “Visiting Shanghai after Sixty Years” – 1930s scene \" alt=\"New “Visiting Shanghai after Sixty Years” – 1930s scene \"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS608184/iQIYI-New-Logo-Logo.jpg?id=OA3062635\" title=\"\" alt=\"\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN91123&amp;sd=2026-11-06\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/iqiyi-revives-90-year-old-lost-film-with-nadoupro-shortlisted-for-the-ai-unit-at-the-golden-rooster-awards-302931955.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/iqiyi-revives-90-year-old-lost-film-with-nadoupro-shortlisted-for-the-ai-unit-at-the-golden-rooster-awards-302931955.html</a></p><p>SOURCE iQIYI</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN91123&amp;Transmission_Id=202611060455PR_NEWS_USPR_____CN91123&amp;DateId=20261106\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "iQIYI",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 1,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "summary:entertainment",
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "television": [
+            "summary:television"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-06T09:56:55.932Z"
+    },
     {
       "company": [
         "Live Nation Entertainment"
