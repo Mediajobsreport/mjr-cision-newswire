@@ -1,11 +1,98 @@
 {
-  "generated_at": "2026-11-05T22:22:58.554Z",
+  "generated_at": "2026-11-06T02:45:07.607Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "television",
   "page_url": "https://www.mediajobsreport.com/tv_news",
-  "count": 16,
+  "count": 17,
   "releases": [
+    {
+      "company": [
+        "Fox News Network, LLC"
+      ],
+      "date": "20261105T222900+0000",
+      "dateline": "NEW YORK, Nov. 5, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "PUB",
+        "TVN",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "FOX News Media",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1648426/FOX-NEWS-MEDIA-Logo.jpg?id=OA3061908&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1648426/FOX-NEWS-MEDIA-Logo.jpg?id=OA3061908&p=publish"
+        }
+      ],
+      "release_id": "20261105NY90824",
+      "status": "PUBLISHED",
+      "subject": [
+        "CPN",
+        "SVY"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>'FOX News Democracy 26' Tops CBS News, CNN, MS NOW in Primetime, with 'Evening News' Delivering Lowest Rated Midterm Coverage of the 21st Century</i></b></p><p class=\"prntac\"><b><i>FOX News Channel's Total Day Coverage of the Midterm Elections Bests MS NOW and CNN</i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- FOX News Media's (FNM) midterm election primetime coverage (8-11 PM/ET) led cable news and bested CBS News, according to Nielsen Media Research's Big Data + Panel final numbers. Co-anchored by Bret Baier and Martha MacCallum, FNC's special election coverage <i>FOX News Democracy 26</i>, which was simulcast on FOX Business Network, averaged nearly 4.7 million viewers (FNC had 4.3 million viewers and FBN saw 346,000 viewers). In primetime (8-11 PM/ET), FNC delivered 4.3 million viewers and 771,000 in the 25-54 demographic, beating CNN (4.1 million viewers) and MS NOW (3.7 million viewers; 665,000 A25-54). During total day, FNC also outpaced CNN, averaging 1,918,000 viewers and 275,000 in the younger 25-54 demographic leading MS NOW (1.7 million viewers) CNN (1.6 million viewers). </p>\n    ",
+      "ticker": [],
+      "title": "FOX NEWS MEDIA'S MULTIPLATFORM COVERAGE OF 2026 MIDTERM ELECTIONS DOMINATES CABLE NEWS DELIVERING NEARLY 4.7 MILLION VIEWERS",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261105NY90824",
+      "body": "\n<p class=\"prntac\"><b><i>'FOX News Democracy 26' Tops CBS News, CNN, MS NOW in Primetime, with 'Evening News' Delivering Lowest Rated Midterm Coverage of the 21st Century</i></b></p><p class=\"prntac\"><b><i>FOX News Channel's Total Day Coverage of the Midterm Elections Bests MS NOW and CNN</i></b></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 5, 2026</span> /PRNewswire/ -- FOX News Media's (FNM) midterm election primetime coverage (8-11 PM/ET) led cable news and bested CBS News, according to Nielsen Media Research's Big Data + Panel final numbers. Co-anchored by Bret Baier and Martha MacCallum, FNC's special election coverage <i>FOX News Democracy 26</i>, which was simulcast on FOX Business Network, averaged nearly 4.7 million viewers (FNC had 4.3 million viewers and FBN saw 346,000 viewers). In primetime (8-11 PM/ET), FNC delivered 4.3 million viewers and 771,000 in the 25-54 demographic, beating CNN (4.1 million viewers) and MS NOW (3.7 million viewers; 665,000 A25-54). During total day, FNC also outpaced CNN, averaging 1,918,000 viewers and 275,000 in the younger 25-54 demographic leading MS NOW (1.7 million viewers) CNN (1.6 million viewers). </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1648426/FOX-NEWS-MEDIA-Logo.jpg?id=OA3061908\" title=\"FOX News Media\" alt=\"FOX News Media\"></img>\n                </p>\n    </div>\n<p>CBS News lagged behind in primetime seeing under 2.8 million viewers and 798,000 A25-54, its second lowest-rated primetime performance during an election night of the 21st century. Additionally, <i>CBS Evening News</i> delivered its lowest rated midterm coverage of a midterm election in the 21st century, with 3.8 million viewers and 686,000 A25-54. FNC defeated CBS with viewers by over 1.5 million.</p><p>FOX News Digital drove double-digit increases across the board with page views, media initiates, unique devices and total minutes spent compared to 2026 throughout Election Day. According to Emplifi and Comscore Social, FOX News saw 3.3 million social media interactions across Facebook, X, Instagram and TikTok, while according to Emplifi, FOX News secured 15.4 million YouTube video views.</p><p><b>*Big Data + Panel Data from Nielsen Media Research</b></p><p><b>8-11 PM/ET</b></p><p>NBC – 6.74 million P2+; 2.8 million A25-54</p><p>ABC – 5.19 million P2+; 1.7 million A25-54</p><p>FNC – 4.31 million P2+; 771,000 A25-54</p><p>CNN – 4.14 million P2+; 1,512,000 A25-54</p><p>MS NOW – 3.74 million P2+; 665,000 A25-54</p><p>CBS – 2.76 million P2+; 798,000 A25-54</p><p>FBN – 346,000 P2+; 77,000 A25-54</p><p><b>3 AM-3 AM/ET</b></p><p>FNC – 1.92 million P2+; 275,000 A25-54<br></br>CNN – 1.55 million P2+; 480,000 A25-54<br></br>MS NOW – 1.66 million P2+; 274,000 A25-54</p><p>FOX News Media operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Digital, FOX News Podcasts, FOX News Audio, FOX News Books, the direct-to-consumer streaming services FOX Nation, FOX News International and the free ad-supported television service FOX Weather. Currently the number one network in all of cable, FNC has also been the most watched television news channel for over 24 consecutive years, while FBN is the top business channel on cable. FOX News Media reaches nearly 200 million people each month and is also available to live stream on FOX One.</p><p class=\"prntac\">###</p><p><b>FOX News Media Contacts</b>:<br></br>Connor Smith: 212.301.3879 or <a href=\"mailto:Connor.Smith@FOX.com\" target=\"_blank\" rel=\"nofollow\">Connor.Smith@FOX.com</a><br></br>Sofie Watson: 212.301.3818 or <a href=\"mailto:Sofie.Watson@FOX.com\" target=\"_blank\" rel=\"nofollow\">Sofie.Watson@FOX.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY90824&amp;sd=2026-11-05\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fox-news-medias-multiplatform-coverage-of-2026-midterm-elections-dominates-cable-news-delivering-nearly-4-7-million-viewers-302931409.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fox-news-medias-multiplatform-coverage-of-2026-midterm-elections-dominates-cable-news-delivering-nearly-4-7-million-viewers-302931409.html</a></p><p>SOURCE Fox News Network, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY90824&amp;Transmission_Id=202611051729PR_NEWS_USPR_____NY90824&amp;DateId=20261105\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Fox News Network, LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "television"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "television"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 7,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "television": [
+            "fox news",
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-06T02:45:09.479Z"
+    },
     {
       "company": [
         "Vensure Employer Solutions"
