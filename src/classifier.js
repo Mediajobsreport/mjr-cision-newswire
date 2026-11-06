@@ -143,6 +143,7 @@ export function classifyRelease(release) {
   const codes = new Set(Array.isArray(release.industry) ? release.industry : []);
   const newsScore = NEWS_SIGNALS.reduce((sum, term) => sum + (primary.includes(term) ? 1 : 0), 0);
   const legalFundingPromotion = /\b(?:pre[- ]settlement funding|lawsuit funding|litigation funding|legal funding|settlement advances?|lawsuit advances?|plaintiff funding|plaintiff cash advances?|cash advances? for plaintiffs?)\b/i.test(`${primary} ${summary}`);
+  const constructionIndustryPromotion = isConstructionIndustryPromotion(`${primary} ${summary}`);
   const hardExcluded = legalFundingPromotion || EXCLUSIONS.some((term) => `${primary} ${summary}`.includes(term));
   const corporateNoise = CORPORATE_NOISE.some((term) => primary.includes(term));
   const scores = {};
@@ -197,8 +198,8 @@ export function classifyRelease(release) {
     const consumerDebtPromotion = /debt relief|debt settlement|unsecured debt|credit card debt|debt clear|personal loans/i.test(primary) && !/student loans|student loan relief|college debt|tuition debt/i.test(primary);
     const nonCollegeEducatorAward = /high school|k-12|secondary school|skilled trades educators|trade school educators/i.test(primary) && /educator|teacher|awards|honors/i.test(primary) && !/college|university|higher education|community college|postsecondary/i.test(primary);
     const unrelatedInsurance = /life insurance planning|life insurance coverage|insurance expert/i.test(primary) && !/student insurance|student health coverage/i.test(primary);
-    if (studentAudience && studentIssue && !corporatePersonnel && !commercialHousing && !housingProjectAnnouncement && !unrelatedInsurance && !consumerDebtPromotion && !nonCollegeEducatorAward) categories.push("college");
-    if (!corporatePersonnel && scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(studentText)) categories.push("college");
+    if (!constructionIndustryPromotion && studentAudience && studentIssue && !corporatePersonnel && !commercialHousing && !housingProjectAnnouncement && !unrelatedInsurance && !consumerDebtPromotion && !nonCollegeEducatorAward) categories.push("college");
+    if (!constructionIndustryPromotion && !corporatePersonnel && scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(studentText)) categories.push("college");
     if (scores.advertising >= 4 && primaryAdvertisingSignal(primary)) categories.push("advertising");
     if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
     if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
@@ -215,7 +216,7 @@ export function classifyRelease(release) {
     if (hasManagementEvent && (explicitMedia || classifiedMediaStory || (mediaIndustry && mediaTerm(primary)))) categories.push("management");
   }
 
-  const review = !excluded && !nonMediaEventPromoter(primary) && categories.length === 0 && newsScore > 0 &&
+  const review = !excluded && !constructionIndustryPromotion && !nonMediaEventPromoter(primary) && categories.length === 0 && newsScore > 0 &&
     (explicitMedia || (mediaIndustry && mediaTerm(primary)));
 
   return {
@@ -236,6 +237,13 @@ function normalizedPrimaryText(release) {
 
 function normalize(value) {
   return String(value).toLowerCase().replace(/&amp;/g, "&").replace(/\s+/g, " ");
+}
+
+function isConstructionIndustryPromotion(text) {
+  const constructionIndustry = /\b(?:construction|builders?|building contractors?|general contractors?|skilled trades?|craft professionals?|craft workers?|pipefitting|pipefitters?)\b/i.test(text);
+  const careerPromotion = /\b(?:careers?|employers?|employment|jobs?|training|workforce|campaign|recruit(?:ment|ing)?|apprentices?|next generation|investment)\b/i.test(text);
+  const mediaEducation = /\b(?:college|university|campus|student)\b.{0,80}\b(?:journalism|broadcast|radio|television|newsroom|media|communications program)\b|\b(?:journalism|broadcast|radio|television|newsroom|media|communications program)\b.{0,80}\b(?:college|university|campus|student)\b/i.test(text);
+  return constructionIndustry && careerPromotion && !mediaEducation;
 }
 
 function mediaTerm(text) {
