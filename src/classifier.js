@@ -144,7 +144,8 @@ export function classifyRelease(release) {
   const newsScore = NEWS_SIGNALS.reduce((sum, term) => sum + (primary.includes(term) ? 1 : 0), 0);
   const legalFundingPromotion = /\b(?:pre[- ]settlement funding|lawsuit funding|litigation funding|legal funding|settlement advances?|lawsuit advances?|plaintiff funding|plaintiff cash advances?|cash advances? for plaintiffs?)\b/i.test(`${primary} ${summary}`);
   const constructionIndustryPromotion = isConstructionIndustryPromotion(`${primary} ${summary}`);
-  const hardExcluded = legalFundingPromotion || EXCLUSIONS.some((term) => `${primary} ${summary}`.includes(term));
+  const competingEmploymentService = isCompetingEmploymentService(primary);
+  const hardExcluded = competingEmploymentService || legalFundingPromotion || EXCLUSIONS.some((term) => `${primary} ${summary}`.includes(term));
   const corporateNoise = CORPORATE_NOISE.some((term) => primary.includes(term));
   const scores = {};
   const reasons = {};
@@ -309,3 +310,11 @@ function consumerTelevisionProduct(text) {
   return /art tv|ai tv experience|tv lineup|television set|qd-mini|mini led|canvas art|tv-quality/i.test(text);
 }
 
+
+function isCompetingEmploymentService(text) {
+  // Evaluate the release subject, not incidental mentions in body boilerplate.
+  // Employer hiring, internships and labor research do not match these services.
+  const employmentService = /\b(?:job boards?|job[- ]search (?:platforms?|sites?|services?|engines?)|recruit(?:ing|ment) (?:platforms?|services?|agenc(?:y|ies)|firms?|solutions?|marketplaces?)|staffing (?:services?|agenc(?:y|ies)|firms?|platforms?|solutions?)|casting (?:services?|platforms?|agenc(?:y|ies))|talent (?:placement|recruitment|acquisition (?:platforms?|services?|solutions?))|employment (?:agenc(?:y|ies)|marketplaces?)|career (?:marketplaces?|platforms?)|hiring (?:platforms?|marketplaces?))\b/i.test(text);
+  const promotion = /\b(?:launch(?:es|ed|ing)?|introduc(?:e|es|ed|ing)|unveil(?:s|ed)?|debut(?:s|ed)?|expand(?:s|ed|ing)?|announc(?:e|es|ed|ing)|partner(?:s|ship)?|acquir(?:e|es|ed)|appoint(?:s|ed)?|names?|award|recogniz|rank|deliver|offer|new|nationwide|support|promot)\w*/i.test(text);
+  return employmentService && promotion;
+}
