@@ -330,3 +330,19 @@ test("actor does not match unrelated company names or contractors", () => {
     assert.deepEqual(result.categories, [], title);
   }
 });
+
+test("radio excludes two-way and land-mobile communications while preserving broadcasting", () => {
+  for (const title of [
+    "Haloid Poll: Majority of Public Safety and Commercial Radio Administrators Would Consider Starlink Integration With LMR Two-Way Radio Networks, but Disruption Unlikely",
+    "Company Launches Two-Way Radio Network",
+    "Land Mobile Radio Provider Expands Public Safety Coverage",
+    "Company Introduces Walkie-Talkie Radio System",
+    "Amateur Radio Club Launches New Program",
+    "Company Expands Push-to-Talk Radio Services"
+  ]) assert.ok(!classifyRelease({title, industry: ["RAD"]}).categories.includes("radio"), title);
+  for (const title of [
+    "Audacy Radio Stations Launch New Local Programming",
+    "Broadcast Radio Network Expands Coverage",
+    "Radio Stations Upgrade Two-Way Radio Communications for Newsroom Teams"
+  ]) assert.ok(classifyRelease({title, industry: ["RAD"]}).categories.includes("radio"), title);
+});
