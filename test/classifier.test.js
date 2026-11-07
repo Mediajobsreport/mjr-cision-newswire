@@ -299,3 +299,34 @@ test("engineering requires broadcast relevance rather than financial transmitter
     "Company Debuts Camera System at NAB Show"
   ]) assert.ok(classifyRelease({title}).categories.includes("engineering"), title);
 });
+
+test("management requires a primary leadership event at a media organization", () => {
+  for (const title of [
+    "FOX NEWS CHANNEL'S JESSE WATTERS TO HOST TOWN HALL WITH VICE PRESIDENT JD VANCE",
+    "#1 Bestselling Author Julia Cameron Set to Release Debut Book of Poetry with Andrews McMeel Publishing",
+    "Tractor Beverage Company Names Clay Lichterman SVP of Sales",
+    "JEFFREY STEELE TO BE HONORED WITH BMI ICON AWARD AT THE BMI COUNTRY AWARDS",
+    "FOX NEWS MEDIA EXPANDS PODCAST PORTFOLIO WITH NEW ORIGINAL SHOW",
+    "Work With Your Handz Joins CertainPath Partner Network as Recruiting Partner for Home-Service Contractors",
+    "Keyfactor Appoints Former CEO to Board of Directors",
+    "CampusWorks Names New CEO"
+  ]) assert.ok(!classifyRelease({title, industry: ["PUB", "ENT"], summary: "The announcement was made by the Chief Executive Officer and Vice President."}).categories.includes("management"), title);
+  for (const title of [
+    "Audacy Names New Vice President for Its Radio Stations",
+    "Universal Music Group Appoints Senior Vice President",
+    "Best Version Media Names Next CEO",
+    "Ansira Appoints Chief Media Officer",
+    "Creative Currency Acquires Launch Media",
+    "Hearst Media Production Group Promotes Executive Vice President",
+    "Monks Announces Executive Appointments",
+    "Television Station General Manager Resigns"
+  ]) assert.ok(classifyRelease({title}).categories.includes("management"), title);
+});
+
+test("actor does not match unrelated company names or contractors", () => {
+  for (const title of ["Tractor Beverage Company Names Sales Leader", "Keyfactor Appoints CEO", "Contractors Announce Partnership"]) {
+    const result = classifyRelease({title});
+    assert.equal(result.review, false, title);
+    assert.deepEqual(result.categories, [], title);
+  }
+});
