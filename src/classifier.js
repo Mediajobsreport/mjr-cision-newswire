@@ -203,7 +203,7 @@ export function classifyRelease(release) {
     if (!constructionIndustryPromotion && !corporatePersonnel && scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(studentText)) categories.push("college");
     if (primaryAdvertisingSignal(primary)) categories.push("advertising");
     if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
-    if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
+    if (scores.engineering >= 5 && primaryEngineeringSignal(primary)) categories.push("engineering");
     if (scores.entertainment >= 5 && primaryEntertainmentSignal(primary) && !nonMediaEventPromoter(primary)) categories.push("entertainment");
     if (scores.radio >= 5 && primaryRadioSignal(primary)) categories.push("radio");
     if ((scores.television >= 4 || (codes.has("TVN") && scores.television >= 2)) &&
@@ -278,7 +278,11 @@ function primaryDigitalSignal(text) {
 }
 
 function primaryEngineeringSignal(text) {
-  return /broadcast (engineering|engineer|technology|equipment|automation|system|fabric|distribution|monitoring)|media (technology|workflow|infrastructure)|video ai|streaming infrastructure|transmitter|master control|production switcher|playout|atsc 3\.0|nextgen tv/i.test(text);
+  // Financial money transmission is unrelated to broadcast RF equipment.
+  const technicalText = text.replace(/\bmoney transmitt(?:er|ers|ing)|\bmoney transmission\b/gi, "");
+  return /\b(?:broadcast (?:engineering|engineers?|technology|equipment|automation|systems?|fabric|distribution|monitoring)|media (?:technology|workflow|infrastructure)|video ai|streaming infrastructure|master control|production switcher|playout|atsc 3\.0|nextgen tv|audio consoles?|video codecs?|cloud production|remote production|studio technology)\b/i.test(technicalText) ||
+    (/\b(?:transmitters?|rf systems?|camera systems?|production technology)\b/i.test(technicalText) &&
+     /\b(?:broadcast(?:ing)?|radio|television|tv|fm|am|dab|drm|atsc|studio|film|video production|nab show|ibc)\b/i.test(technicalText));
 }
 
 function primaryEntertainmentSignal(text) {
