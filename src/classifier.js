@@ -289,6 +289,9 @@ function primaryEntertainmentSignal(text) {
 }
 
 function primaryRadioSignal(text) {
+  const twoWayCommunications = /\b(?:two[- ]way radio|land[- ]mobile radio|lmr|walkie[- ]talkies?|push[- ]to[- ]talk|public safety (?:radio|communications)|ham radio|amateur radio|tactical radio)\b/i.test(text);
+  const broadcastContext = /\b(?:broadcast radio|radio broadcast(?:ing)?|radio stations?|radio programming|radio listeners?|radio audiences?|radio newsroom|radio studio|fm broadcasting|am broadcasting|iheartradio|audacy|cumulus media|siriusxm)\b/i.test(text);
+  if (twoWayCommunications && !broadcastContext) return false;
   return /\bradio\b|iheartradio|audacy|cumulus media|townsquare media|urban one|radio one|beasley media|hubbard radio|salem media|k-love|air1|siriusxm/i.test(text);
 }
 
