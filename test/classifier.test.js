@@ -107,10 +107,10 @@ test("classifies a music-industry legal story as entertainment", () => {
   assert.ok(result.categories.includes("entertainment"));
 });
 
-test("classifies an advertising technology launch but not a generic campaign", () => {
+test("excludes generic marketing software and campaigns without a media connection", () => {
   const product = classifyRelease({ title: "Storiad Introduces the Author Marketing OS", industry: ["ADV", "SMD"] });
   const promotion = classifyRelease({ title: "AARP Launches Staycation Campaign", industry: ["ADV", "ENT"] });
-  assert.ok(product.categories.includes("advertising"));
+  assert.ok(!product.categories.includes("advertising"));
   assert.deepEqual(promotion.categories, []);
 });
 
@@ -231,3 +231,23 @@ test("uses a named media show found in the summary", () => {
   assert.ok(result.categories.includes("tradeshow"));
 });
 
+
+test("advertising feed requires media relevance", () => {
+  for (const title of [
+    "VUE Health Named Healthcare Advertising Agency of the Year 2026",
+    "1932 Cadillac Limousine and 1964 Chevy Impala Take Top-Lot Honors at Morphy's Automobilia, Petroliana & Advertising Auction Held October 4",
+    "Healthcare Advertising Agency Wins Workplace Award",
+    "Marketing Agency Names New Chief Executive Officer",
+    "Retailer Opens New Store",
+    "Company Launches SEO Strategy Service"
+  ]) assert.ok(!classifyRelease({title, industry: ["ADV"], summary: "We provide digital advertising and media buying services."}).categories.includes("advertising"), title);
+  for (const title of [
+    "Retailer Launches National Advertising Campaign Across Radio and Television",
+    "Brand Expands Podcast Sponsorship Campaign",
+    "Media Agency Wins National Retailer's Media Buying Account",
+    "Report Forecasts Advertising Spending Growth",
+    "Company Launches New Advertising Attribution Platform",
+    "Broadcaster Expands Ad Sales Partnership",
+    "Brand Launches Super Bowl Campaign"
+  ]) assert.ok(classifyRelease({title}).categories.includes("advertising"), title);
+});
