@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:32:13.108Z",
+  "generated_at": "2026-11-07T12:36:16.359Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "television",
@@ -330,14 +330,12 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "television",
-        "management"
+        "television"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "television",
-          "management"
+          "television"
         ],
         "review": false,
         "scores": {
@@ -520,13 +518,15 @@
       "websiteurl": [],
       "mjr_categories": [
         "digital",
-        "television"
+        "television",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
           "digital",
-          "television"
+          "television",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -719,12 +719,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "television"
+        "television",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "television"
+          "television",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -811,12 +813,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "television"
+        "television",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "television"
+          "television",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -1281,15 +1285,13 @@
       "websiteurl": [],
       "mjr_categories": [
         "television",
-        "podcast",
-        "management"
+        "podcast"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
           "television",
-          "podcast",
-          "management"
+          "podcast"
         ],
         "review": false,
         "scores": {

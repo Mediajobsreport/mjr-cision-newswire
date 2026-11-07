@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:32:13.108Z",
+  "generated_at": "2026-11-07T12:36:16.359Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
@@ -1074,12 +1074,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "advertising"
+        "advertising",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "advertising"
+          "advertising",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -1333,12 +1335,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "advertising"
+        "advertising",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "advertising"
+          "advertising",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -1511,12 +1515,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "advertising"
+        "advertising",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "advertising"
+          "advertising",
+          "management"
         ],
         "review": false,
         "scores": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:32:13.108Z",
+  "generated_at": "2026-11-07T12:36:16.359Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "podcast",
@@ -254,12 +254,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "podcast"
+        "podcast",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "podcast"
+          "podcast",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -2680,12 +2682,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "podcast"
+        "podcast",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "podcast"
+          "podcast",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -2775,12 +2779,14 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "podcast"
+        "podcast",
+        "management"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "podcast"
+          "podcast",
+          "management"
         ],
         "review": false,
         "scores": {
@@ -3147,13 +3153,11 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "entertainment",
         "podcast"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "entertainment",
           "podcast"
         ],
         "review": false,
@@ -3249,15 +3253,13 @@
       "websiteurl": [],
       "mjr_categories": [
         "television",
-        "podcast",
-        "management"
+        "podcast"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
           "television",
-          "podcast",
-          "management"
+          "podcast"
         ],
         "review": false,
         "scores": {
