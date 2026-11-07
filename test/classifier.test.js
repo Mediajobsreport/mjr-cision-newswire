@@ -251,3 +251,35 @@ test("advertising feed requires media relevance", () => {
     "Brand Launches Super Bowl Campaign"
   ]) assert.ok(classifyRelease({title}).categories.includes("advertising"), title);
 });
+
+test("excludes competing employment service promotions from every feed", () => {
+  for (const title of [
+    "Vensure Launches Fully Managed Background Casting Services, Delivering Reliable Nationwide Support For Film and Television Productions",
+    "Company Launches Job Board for Radio and Television",
+    "Recruiting Platform Expands Into Podcast and Digital Media Careers",
+    "Staffing Agency Announces New Film Production Services",
+    "Company Introduces Talent Placement Service for Student Media",
+    "New Hiring Marketplace Supports Advertising Agencies"
+  ]) {
+    const result = classifyRelease({title, industry: ["ENT", "TVN", "RAD", "ADV"]});
+    assert.deepEqual(result.categories, [], title);
+    assert.equal(result.excluded, true, title);
+    assert.equal(result.review, false, title);
+  }
+});
+
+test("preserves employer hiring, internships and workforce reporting", () => {
+  for (const title of [
+    "Audacy Radio Stations Announce Hiring for New Local Newsroom",
+    "University Launches Student Media Internship Program",
+    "Television Stations Expand Workforce Training",
+    "Report Finds Radio Industry Employment Growth"
+  ]) {
+    assert.equal(classifyRelease({title}).excluded, false, title);
+  }
+  assert.equal(classifyRelease({
+    title: "Gray Media Television Station Launches Local Newscast",
+    summary: "The company uses staffing services and a recruiting platform.",
+    body: "About the company: offers a job board."
+  }).excluded, false);
+});
