@@ -360,3 +360,21 @@ test("TV excludes shopping and retail livestream promotions", () => {
     "Company Acquires Television Shopping Network"
   ]) assert.ok(classifyRelease({title, industry: ["TVN"]}).categories.includes("television"), title);
 });
+
+test("college excludes unrelated career pipelines and field-specific scholarships", () => {
+  for (const release of [
+    {title: "Oklahoma Primary Aluminum and Tulsa Innovation Labs Host Workforce Development Workshop", summary: "Higher education leaders align curriculum and build employment pathways for college students."},
+    {title: "College Promise and Los Angeles Community College District to Convene National Leaders at 2026 Careers Institute", summary: "Higher education leaders connect college students to high-demand careers and regional workforce programs."},
+    {title: "Applications Open for Nursing Scholarships", summary: "College students pursuing nursing careers can apply."},
+    {title: "Engineering Scholarship Applications Open", summary: "Financial aid for university students pursuing a degree in engineering."}
+  ]) assert.ok(!classifyRelease(release).categories.includes("college"), release.title);
+});
+
+test("college retains scholarships open across majors and media career opportunities", () => {
+  for (const release of [
+    {title: "UCB opens applications for 2027 UCB Myasthenia Gravis Scholarship", summary: "Scholarships support patients, caregivers, and family members pursuing higher education."},
+    {title: "Applications Open for General College Scholarships", summary: "College students pursuing any career may apply for financial aid."},
+    {title: "University Launches Journalism Scholarship", summary: "College students pursuing careers in journalism receive financial aid."},
+    {title: "College Radio Launches Workforce Training Program", summary: "Students build broadcasting careers."}
+  ]) assert.ok(classifyRelease(release).categories.includes("college"), release.title);
+});
