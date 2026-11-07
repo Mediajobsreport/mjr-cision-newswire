@@ -266,7 +266,10 @@ function primaryAdvertisingSignal(text) {
     /\b(?:radio|television|tv|podcasts?|streaming|broadcast|digital media|paid media|paid social|billboards?|out[- ]of[- ]home|newspapers?|magazines?|super bowl|media partners?)\b/i.test(text);
   const agencyBusiness = /\b(?:advertising|marketing|media) agenc(?:y|ies)\b/i.test(text) &&
     /\b(?:media buying|media planning|media accounts?|media business|media budgets?|media spend(?:ing)?)\b/i.test(text);
-  return mediaBusiness || distributedCampaign || agencyBusiness;
+  const mediaOperations = /\b(?:advertising|advertisers?|ads|paid media)\b/i.test(text) &&
+    /\b(?:partnership|partners?|infrastructure|display networks?|rideshare|clear channel outdoor|audience|campaign delivery|study|research|report|intelligence|fraud|refunds|measurement|attribution|ad targeting)\b/i.test(text);
+  const adIndustryEvent = /\b(?:iab|interactive advertising bureau|advertising week|dpaa|video everywhere summit)\b/i.test(text);
+  return mediaBusiness || distributedCampaign || agencyBusiness || mediaOperations || adIndustryEvent;
 }
 
 function primaryDigitalSignal(text) {
