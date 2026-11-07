@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-07T12:36:46.538Z",
+  "generated_at": "2026-11-07T12:38:42.370Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "review",
   "page_url": null,
-  "count": 71,
+  "count": 70,
   "releases": [
     {
       "company": [
@@ -87,83 +87,6 @@
         "excluded": false
       },
       "imported_at": "2026-11-05T01:28:40.377Z"
-    },
-    {
-      "company": [
-        "Askey"
-      ],
-      "date": "20261104T135100+0000",
-      "dateline": "LAS VEGAS, Nov. 4, 2026",
-      "feed": [
-        "PRNUS_NO_ELD",
-        "PRNUS_ONLY",
-        "APPLE_NEWS",
-        "PRNUS",
-        "prncom_prnj"
-      ],
-      "geography": [
-        "NEV",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TCS",
-        "WIC",
-        "TLS"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Askey Logo",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1801817/ASKEY-LOGO-1-Logo.jpg?id=OA3056750&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1801817/ASKEY-LOGO-1-Logo.jpg?id=OA3056750&p=publish"
-        }
-      ],
-      "release_id": "20261104SF88545",
-      "status": "PUBLISHED",
-      "subject": [
-        "JVN",
-        "TDS",
-        "LIC"
-      ],
-      "summary": "<p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Askey<span> and </span>Icom<span> America have announced a formal partnership under which the two companies will jointly market each other's solutions, pairing </span>Askey's<span> private 5G network hardware with </span>Icom's<span> two-way radio terminals and dispatch systems. The combination gives wireless internet service providers a complete package to sell into the plants, utilities, counties, and event grounds in their footprint: a private cellular network and the push-to-talk radios that run on it.</span></p>\n    ",
-      "ticker": [],
-      "title": "Askey and Icom America Partner to Put Two-Way Radio on Private 5G Networks",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20261104SF88545",
-      "body": "\n<p><span class=\"legendSpanClass\">LAS VEGAS</span>, <span class=\"legendSpanClass\">Nov. 4, 2026</span> /PRNewswire/ -- Askey<span> and </span>Icom<span> America have announced a formal partnership under which the two companies will jointly market each other's solutions, pairing </span>Askey's<span> private 5G network hardware with </span>Icom's<span> two-way radio terminals and dispatch systems. The combination gives wireless internet service providers a complete package to sell into the plants, utilities, counties, and event grounds in their footprint: a private cellular network and the push-to-talk radios that run on it.</span></p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1801817/ASKEY-LOGO-1-Logo.jpg?id=OA3056750\" title=\"Askey Logo\" alt=\"Askey Logo\"></img>\n                </p>\n    </div>\n<div id=\"divReleaseHighlight1354\" style=\"border-top: 1px solid; border-bottom: 1px solid; border-color: Gray; color: gray; width: 200px; float: left; position: relative; margin: 5px 10px 5px 10px; text-align: justify;\" contenteditable=\"false\">Askey and ICOM America team up so WISPs can sell private 5G networks and the push-to-talk radios that run on them.</div><p>Icom, founded in Osaka in 1964 and represented in the Americas by Kirkland, Washington-based Icom America, builds land mobile, marine, aviation, and amateur radios, and supplies LTE and 5G radio terminals, gateways, and dispatch for public safety and industrial users. Askey, a member of the Asus group, manufactures the small cells, standalone 5G core, outdoor units, and devices that make up a private 5G network, managed through its All-In-One Management Platform (AMP). Under the partnership, each company's sales teams and channel partners will offer the other's products, with joint demonstrations beginning at WISPAPALOOZA 2026.</p><p>For a WISP, the pairing answers a question customers ask early: what do the people on site actually talk on? A sheriff's office, a public works crew, a grain cooperative, or a fairgrounds operator wants radios that work where public cellular does not, on a network it controls. With Askey radios on the tower and Icom radios in the trucks, a WISP can deliver both from one managed service.</p><p>\"Our customers don't buy a network, they buy what runs on it,\" said Minchul Ho, SVP of Private Networks at Askey. \"Icom has spent sixty years making radios that crews trust, and those radios now run on private LTE and 5G. Putting them on an Askey network means a WISP can walk into a county or a plant with the whole answer: coverage, voice, and one bill. That's a conversation our partners can win.\"</p><p>\"At Icom, our focus has always been on providing reliable communications solutions for customers operating in challenging environments. Through our partnership with Askey, we can combine their private 5G network infrastructure with Icom's proven push-to-talk radios, dispatch systems, and integration capabilities to deliver a complete end-to-end communications solution.</p><p>We see significant opportunities for WISPs to expand beyond traditional broadband services and offer private wireless networks with mission-critical voice communications to industries such as utilities, manufacturing, transportation, and public safety. Together, we can make private 5G solutions more accessible, practical, and commercially viable for these customers.\" said Jim Backeland, President, Icom America, Inc.</p><p>What the partnership delivers:</p><ul type=\"disc\"><li><b>One managed offering. </b>Private 5G coverage from Askey small cells with Icom 5GC, push-to-talk radios, dispatch, and gateways to existing analog and digital radio systems.</li><li><b>Built for the sites WISPs already serve. </b>Outdoor radios rated IP65 and 4x4 5 W per port for towers and yards; Icom terminals rated for field use with group, individual, and emergency calling.</li><li><b>Joint go-to-market. </b>Co-marketing, cross-referral between sales teams, and shared demonstrations, starting at WISPAPALOOZA.</li><li><b>Manufacturer-direct economics. </b>Askey hardware at pricing the company says runs 30 to 50 percent below incumbent private cellular vendors, as CapEx or as-a-service, backed by Tier 1, 2, and 3 technical support.</li></ul><p><b>About Askey Computer Corp.</b></p><p>Founded in 1989, Askey Computer Corporation, a subsidiary of ASUS, is a global leader in advanced networking and communications. Headquartered in Taiwan, Askey combines strong R&amp;D expertise with global manufacturing capabilities.</p><p>As a trusted partner to Tier-1 operators, we design and deliver high-performance 5G Private Networks and integrated solutions for Smart Cities and Industry 4.0, enabling reliable and scalable connectivity across diverse deployment environments. For more information, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813822-1&amp;h=2351415851&amp;u=https%3A%2F%2Fwww.askey.com.tw%2F&amp;a=www.askey.com\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">www.askey.com</a></p><p><b>About Icom America</b></p><p>Icom America Inc. is the U.S. subsidiary of Icom Incorporated, the communications equipment maker founded in Osaka, Japan in 1964. Icom America was established in 1979, is based in Kirkland, Washington, and represents Icom products across the Western Hemisphere (except Cuba) and in U.S. territories in the Pacific. It makes and supports two-way radio and communications solutions for land mobile, marine, aviation and amateur users. That includes push-to-talk radios, dispatch and turnkey systems for public safety, utilities and industrial customers. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4813822-1&amp;h=1959608543&amp;u=http%3A%2F%2Fwww.icomamerica.com%2F&amp;a=www.icomamerica.com\" target=\"_blank\" rel=\"nofollow\">www.icomamerica.com</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF88545&amp;sd=2026-11-04\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/askey-and-icom-america-partner-to-put-two-way-radio-on-private-5g-networks-302928787.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/askey-and-icom-america-partner-to-put-two-way-radio-on-private-5g-networks-302928787.html</a></p><p>SOURCE Askey</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF88545&amp;Transmission_Id=202611040851PR_NEWS_USPR_____SF88545&amp;DateId=20261104\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Askey",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
-      "mjr_classification": {
-        "categories": [],
-        "review": true,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 2,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "radio": [
-            "radio"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-11-04T14:49:36.344Z"
     },
     {
       "company": [
