@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:18:10.619Z",
+  "generated_at": "2026-11-07T12:18:24.643Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "count": 746,
@@ -3599,11 +3599,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 7,
@@ -9556,11 +9560,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 6,
@@ -11473,11 +11481,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 5,
@@ -20806,11 +20818,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 6,
@@ -25793,11 +25809,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 4,
@@ -26957,11 +26977,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 4,
@@ -29046,11 +29070,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 5,
@@ -30121,11 +30149,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 6,
@@ -30398,11 +30430,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 8,
@@ -33956,11 +33992,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 6,
@@ -37393,11 +37433,13 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
+        "advertising",
         "tradeshow"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
+          "advertising",
           "tradeshow"
         ],
         "review": false,
@@ -41234,11 +41276,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 8,
@@ -41804,11 +41850,15 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [],
-      "mjr_review": true,
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
       "mjr_classification": {
-        "categories": [],
-        "review": true,
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
         "scores": {
           "college": 0,
           "advertising": 4,
