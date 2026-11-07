@@ -144,6 +144,7 @@ export function classifyRelease(release) {
   const newsScore = NEWS_SIGNALS.reduce((sum, term) => sum + (primary.includes(term) ? 1 : 0), 0);
   const legalFundingPromotion = /\b(?:pre[- ]settlement funding|lawsuit funding|litigation funding|legal funding|settlement advances?|lawsuit advances?|plaintiff funding|plaintiff cash advances?|cash advances? for plaintiffs?)\b/i.test(`${primary} ${summary}`);
   const constructionIndustryPromotion = isConstructionIndustryPromotion(`${primary} ${summary}`);
+  const collegeScope = collegeScopeSignal(primary, summary);
   const competingEmploymentService = isCompetingEmploymentService(primary);
   const hardExcluded = competingEmploymentService || legalFundingPromotion || EXCLUSIONS.some((term) => `${primary} ${summary}`.includes(term));
   const corporateNoise = CORPORATE_NOISE.some((term) => primary.includes(term));
@@ -199,8 +200,8 @@ export function classifyRelease(release) {
     const consumerDebtPromotion = /debt relief|debt settlement|unsecured debt|credit card debt|debt clear|personal loans/i.test(primary) && !/student loans|student loan relief|college debt|tuition debt/i.test(primary);
     const nonCollegeEducatorAward = /high school|k-12|secondary school|skilled trades educators|trade school educators/i.test(primary) && /educator|teacher|awards|honors/i.test(primary) && !/college|university|higher education|community college|postsecondary/i.test(primary);
     const unrelatedInsurance = /life insurance planning|life insurance coverage|insurance expert/i.test(primary) && !/student insurance|student health coverage/i.test(primary);
-    if (!constructionIndustryPromotion && studentAudience && studentIssue && !corporatePersonnel && !commercialHousing && !housingProjectAnnouncement && !unrelatedInsurance && !consumerDebtPromotion && !nonCollegeEducatorAward) categories.push("college");
-    if (!constructionIndustryPromotion && !corporatePersonnel && scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(studentText)) categories.push("college");
+    if (collegeScope && !constructionIndustryPromotion && studentAudience && studentIssue && !corporatePersonnel && !commercialHousing && !housingProjectAnnouncement && !unrelatedInsurance && !consumerDebtPromotion && !nonCollegeEducatorAward) categories.push("college");
+    if (collegeScope && !constructionIndustryPromotion && !corporatePersonnel && scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(studentText)) categories.push("college");
     if (primaryAdvertisingSignal(primary)) categories.push("advertising");
     if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
     if (scores.engineering >= 5 && primaryEngineeringSignal(primary)) categories.push("engineering");
@@ -336,4 +337,22 @@ function managementMediaSignal(text) {
   // Media industry metadata and executives quoted in a release are insufficient.
   return /\b(?:media|broadcast(?:ing)?|radio|television|tv|podcasts?|newspapers?|journalism|newsrooms?|publishing|publishers?|record labels?|music|film studios?|movie studios?|production group|production company|advertising|adtech|ad sales|media buying|media planning|cumulus|audacy|siriusxm|iheartradio|tegna|nexstar|scripps|monks|ansira|qorvis)\b/i.test(text) &&
     !/\b(?:entertainment software|video game|gaming|crypto|cryptocurrency)\b/i.test(text);
+}
+
+function collegeScopeSignal(primary, summary) {
+  const lead = summary.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").slice(0, 1600);
+  const text = primary + " " + lead;
+  const mediaEducation = /\b(?:journalism|broadcast(?:ing)?|radio|television|student media|campus media|student newspaper|newsroom|filmmaking|film production|music industry|audio production|video production|mass communication|media studies|public relations|advertising|communication(?:s)? (?:students|majors|programs?|degrees?))\b/i.test(text);
+  if (mediaEducation) return true;
+  const scholarship = /\bscholarships?\b/i.test(text);
+  if (scholarship) {
+    // Eligibility tied to health, income or background is not a career restriction.
+    const unrelatedField = "(?:nursing|medicine|medical|healthcare|health care|dentistry|dental|pharmacy|pharmaceutical|engineering|computer science|cybersecurity|accounting|finance|law|legal|agriculture|construction|skilled trades|manufacturing|aluminum|hospitality|culinary|aviation)";
+    const fieldScholarship = new RegExp("\\b" + unrelatedField + "(?: students?| majors?)? scholarships?\\b|\\bscholarships? (?:for|in|to support) (?:aspiring |future |undergraduate |graduate )?" + unrelatedField + "\\b", "i");
+    const restrictedStudy = new RegExp("\\b(?:pursuing|studying|majoring in|enrolled in|degree in|degrees in|careers? in) (?:a |an |the )?(?:degree in |degrees in |careers? in )?" + unrelatedField + "\\b", "i");
+    return !fieldScholarship.test(text) && !restrictedStudy.test(text);
+  }
+  // Broad student life, affordability and safety remain eligible; generic
+  // workforce events and unrelated career pipelines do not.
+  return !/\b(?:workforce|career(?:s)? institute|career development|career pathways?|employment pathways?|talent pipelines?|job training|vocational|skilled trades|manufacturing|aluminum|foodservice|construction|nursing careers?|healthcare careers?)\b/i.test(text);
 }
