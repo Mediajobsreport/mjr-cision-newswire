@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:55:45.436Z",
+  "generated_at": "2026-11-07T12:18:10.619Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
@@ -74,11 +74,13 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
+        "advertising",
         "digital"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
+          "advertising",
           "digital"
         ],
         "review": false,
@@ -1028,13 +1030,11 @@
       "sub_title": [],
       "websiteurl": [],
       "mjr_categories": [
-        "advertising",
         "digital"
       ],
       "mjr_review": false,
       "mjr_classification": {
         "categories": [
-          "advertising",
           "digital"
         ],
         "review": false,
