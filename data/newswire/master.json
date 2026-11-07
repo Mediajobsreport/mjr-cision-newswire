@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:39:09.541Z",
+  "generated_at": "2026-11-07T12:41:19.603Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "count": 635,
@@ -30868,15 +30868,11 @@
       "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
       "sub_title": [],
       "websiteurl": [],
-      "mjr_categories": [
-        "television"
-      ],
-      "mjr_review": false,
+      "mjr_categories": [],
+      "mjr_review": true,
       "mjr_classification": {
-        "categories": [
-          "television"
-        ],
-        "review": false,
+        "categories": [],
+        "review": true,
         "scores": {
           "college": 0,
           "advertising": 0,
