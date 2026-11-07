@@ -346,3 +346,17 @@ test("radio excludes two-way and land-mobile communications while preserving bro
     "Radio Stations Upgrade Two-Way Radio Communications for Newsroom Teams"
   ]) assert.ok(classifyRelease({title, industry: ["RAD"]}).categories.includes("radio"), title);
 });
+
+test("TV excludes shopping and retail livestream promotions", () => {
+  for (const title of [
+    "JTV Deepens Strategic Partnership with TikTok Shop, Unveils Weeklong Grand Opening Event Featuring Expanded Live Programming, Creator Collaborations and Giveaways",
+    "QVC Announces Live Shopping Event and Giveaways",
+    "Jewelry Television Expands TikTok Shop Livestream Programming"
+  ]) assert.ok(!classifyRelease({title, industry: ["TVN"], company: ["Jewelry Television"]}).categories.includes("television"), title);
+  for (const title of [
+    "Gray Media Television Stations Launch Local Newscasts",
+    "Television Network Announces New Distribution Partnership",
+    "QVC Television Network Names New President",
+    "Company Acquires Television Shopping Network"
+  ]) assert.ok(classifyRelease({title, industry: ["TVN"]}).categories.includes("television"), title);
+});
