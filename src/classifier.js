@@ -200,7 +200,7 @@ export function classifyRelease(release) {
     const unrelatedInsurance = /life insurance planning|life insurance coverage|insurance expert/i.test(primary) && !/student insurance|student health coverage/i.test(primary);
     if (!constructionIndustryPromotion && studentAudience && studentIssue && !corporatePersonnel && !commercialHousing && !housingProjectAnnouncement && !unrelatedInsurance && !consumerDebtPromotion && !nonCollegeEducatorAward) categories.push("college");
     if (!constructionIndustryPromotion && !corporatePersonnel && scores.college >= 2 && /college radio|campus radio|student radio|college television|campus television|student television|student newspaper|student journalism|journalism school|school of journalism|broadcast journalism program|student media|campus media|media scholarship|journalism scholarship|broadcasting scholarship|media internship|journalism internship|student newsroom|college broadcasting|university broadcasting|college media|university media|communications students|journalism students/i.test(studentText)) categories.push("college");
-    if (scores.advertising >= 4 && primaryAdvertisingSignal(primary)) categories.push("advertising");
+    if (primaryAdvertisingSignal(primary)) categories.push("advertising");
     if (scores.digital >= 2 && primaryDigitalSignal(primary)) categories.push("digital");
     if (scores.engineering >= 5 && (primaryEngineeringSignal(primary) || (codes.has("BRD") && newsScore > 0))) categories.push("engineering");
     if (scores.entertainment >= 5 && primaryEntertainmentSignal(primary) && !nonMediaEventPromoter(primary)) categories.push("entertainment");
@@ -257,7 +257,16 @@ function explicitMediaSignal(text) {
 }
 
 function primaryAdvertisingSignal(text) {
-  return /advertising|advertiser|adtech|media buying|media agency|marketing agency|digital marketing agenc|direct marketing|marketing (platform|software|technology|system|os|audit)|performance marketing|influencer marketing|seo (agency|strategy)|ad buy|earned media|audience measurement|ad sales/i.test(text);
+  // Agency labels and ADV metadata alone do not establish news value for media.
+  const collectibles = /\b(?:auctions?|auctioneers?|automobilia|petroliana|memorabilia|collectibles?|antique signs?|vintage signs?|porcelain signs?)\b/i.test(text);
+  const vanityAwards = /agency of the year|agencies of the year|inspiring.*entrepreneurs|entrepreneurs.*to watch|top[- ]?10.*(?:women|entrepreneurs)|award[- ]winning agency/i.test(text);
+  if (collectibles || vanityAwards) return false;
+  const mediaBusiness = /\b(?:media buying|media buyers?|media planning|media plans?|media spend(?:ing)?|media budgets?|media accounts?|media agency|media agencies|ad buys?|ad spend(?:ing)?|advertising spend(?:ing)?|advertising budgets?|advertising revenue|ad revenue|ad sales|advertising sales|sponsorship sales|audience measurement|advertising measurement|ad measurement|ad attribution|advertising attribution|adtech|ad tech|advertising technology|advertising platforms?|programmatic advertising|addressable advertising|retail media|connected tv advertising|ctv advertising|ott advertising|audio advertising|radio advertising|television advertising|tv advertising|podcast advertising|video advertising|digital advertising|print advertising|out[- ]of[- ]home advertising|ooh advertising|advertising industry)\b/i.test(text);
+  const distributedCampaign = /\b(?:campaign|advertiser|advertising|sponsorship)\b/i.test(text) &&
+    /\b(?:radio|television|tv|podcasts?|streaming|broadcast|digital media|paid media|paid social|billboards?|out[- ]of[- ]home|newspapers?|magazines?|super bowl|media partners?)\b/i.test(text);
+  const agencyBusiness = /\b(?:advertising|marketing|media) agenc(?:y|ies)\b/i.test(text) &&
+    /\b(?:media buying|media planning|media accounts?|media business|media budgets?|media spend(?:ing)?)\b/i.test(text);
+  return mediaBusiness || distributedCampaign || agencyBusiness;
 }
 
 function primaryDigitalSignal(text) {
