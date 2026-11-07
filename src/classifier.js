@@ -212,9 +212,8 @@ export function classifyRelease(release) {
     if (scores.podcast >= 4 && primaryPodcastSignal(primary)) categories.push("podcast");
     if (namedMediaShow(`${primary} ${summary}`)) categories.push("tradeshow");
 
-    const hasManagementEvent = scores.management >= 4 && newsScore > 0;
-    const classifiedMediaStory = categories.some((category) => category !== "management" && category !== "tradeshow");
-    if (hasManagementEvent && (explicitMedia || classifiedMediaStory || (mediaIndustry && mediaTerm(primary)))) categories.push("management");
+    const hasManagementEvent = primaryManagementEvent(primary);
+    if (hasManagementEvent && managementMediaSignal(primary)) categories.push("management");
   }
 
   const review = !excluded && !constructionIndustryPromotion && !nonMediaEventPromoter(primary) && categories.length === 0 && newsScore > 0 &&
@@ -286,7 +285,7 @@ function primaryEngineeringSignal(text) {
 }
 
 function primaryEntertainmentSignal(text) {
-  return /entertainment|film|movie|motion picture|television (production|series)|reality series|emmy|actor|actress|producer|music|album|record label|recording artist|box office/i.test(text);
+  return /\b(?:entertainment|film|movie|motion picture|television (?:production|series)|reality series|emmy|actor|actress|producer|music|album|record label|recording artist|box office)\b/i.test(text);
 }
 
 function primaryRadioSignal(text) {
@@ -318,7 +317,17 @@ function consumerTelevisionProduct(text) {
 function isCompetingEmploymentService(text) {
   // Evaluate the release subject, not incidental mentions in body boilerplate.
   // Employer hiring, internships and labor research do not match these services.
-  const employmentService = /\b(?:job boards?|job[- ]search (?:platforms?|sites?|services?|engines?)|recruit(?:ing|ment) (?:platforms?|services?|agenc(?:y|ies)|firms?|solutions?|marketplaces?)|staffing (?:services?|agenc(?:y|ies)|firms?|platforms?|solutions?)|casting (?:services?|platforms?|agenc(?:y|ies))|talent (?:placement|recruitment|acquisition (?:platforms?|services?|solutions?))|employment (?:agenc(?:y|ies)|marketplaces?)|career (?:marketplaces?|platforms?)|hiring (?:platforms?|marketplaces?))\b/i.test(text);
+  const employmentService = /\b(?:job boards?|job[- ]search (?:platforms?|sites?|services?|engines?)|recruit(?:ing|ment) (?:partners?|resources?|platforms?|services?|agenc(?:y|ies)|firms?|solutions?|marketplaces?)|staffing (?:services?|agenc(?:y|ies)|firms?|platforms?|solutions?)|casting (?:services?|platforms?|agenc(?:y|ies))|talent (?:placement|recruitment|acquisition (?:platforms?|services?|solutions?))|employment (?:agenc(?:y|ies)|marketplaces?)|career (?:marketplaces?|platforms?)|hiring (?:platforms?|marketplaces?))\b/i.test(text);
   const promotion = /\b(?:launch(?:es|ed|ing)?|introduc(?:e|es|ed|ing)|unveil(?:s|ed)?|debut(?:s|ed)?|expand(?:s|ed|ing)?|announc(?:e|es|ed|ing)|partner(?:s|ship)?|acquir(?:e|es|ed)|appoint(?:s|ed)?|names?|award|recogniz|rank|deliver|offer|new|nationwide|support|promot)\w*/i.test(text);
   return employmentService && promotion;
+}
+
+function primaryManagementEvent(text) {
+  return /\b(?:appoints?|appointed|appointments?|names?|named|promotes?|promoted|promotions?|hires?|hired|joins?|joined|welcomes?|succeeds?|succession|retires?|retirement|resigns?|resignation|steps down|departures?|parts ways|leadership changes?|executive changes?|acquir(?:e|es|ed)|acquisitions?|mergers?|restructur\w*|layoffs?|bankruptc\w*|transitions? to)\b/i.test(text);
+}
+
+function managementMediaSignal(text) {
+  // Media industry metadata and executives quoted in a release are insufficient.
+  return /\b(?:media|broadcast(?:ing)?|radio|television|tv|podcasts?|newspapers?|journalism|newsrooms?|publishing|publishers?|record labels?|music|film studios?|movie studios?|production group|production company|advertising|adtech|ad sales|media buying|media planning|cumulus|audacy|siriusxm|iheartradio|tegna|nexstar|scripps|monks|ansira|qorvis)\b/i.test(text) &&
+    !/\b(?:entertainment software|video game|gaming|crypto|cryptocurrency)\b/i.test(text);
 }
