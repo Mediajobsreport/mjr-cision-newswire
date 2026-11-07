@@ -283,3 +283,19 @@ test("preserves employer hiring, internships and workforce reporting", () => {
     body: "About the company: offers a job board."
   }).excluded, false);
 });
+
+test("engineering requires broadcast relevance rather than financial transmitter terminology or metadata", () => {
+  for (const release of [
+    {title: "Alchemy Pay Secures Mississippi Money Transmitter License, Expanding U.S. Regulatory Coverage to 20 States", industry: ["FNT", "ICO", "BLN", "CPR", "FIN"]},
+    {title: "Company Launches New Industrial Transmitter"},
+    {title: "Company Launches New Platform", industry: ["BRD"], summary: "Our broadcast technology clients are growing."},
+    {title: "Crypto Company Expands Money Transmission Network", industry: ["BRD"], summary: "Uses a transmitter."}
+  ]) assert.ok(!classifyRelease(release).categories.includes("engineering"), release.title);
+  for (const title of [
+    "Company Launches New FM Radio Transmitter",
+    "Broadcaster Installs New Broadcast Automation System",
+    "Studio Introduces New Audio Console",
+    "Company Launches Video Codec for Remote Production",
+    "Company Debuts Camera System at NAB Show"
+  ]) assert.ok(classifyRelease({title}).categories.includes("engineering"), title);
+});
