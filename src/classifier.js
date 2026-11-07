@@ -313,7 +313,10 @@ function namedMediaShow(text) {
 }
 
 function consumerTelevisionProduct(text) {
-  return /art tv|ai tv experience|tv lineup|television set|qd-mini|mini led|canvas art|tv-quality/i.test(text);
+  const consumerDevice = /art tv|ai tv experience|tv lineup|television set|qd-mini|mini led|canvas art|tv-quality/i.test(text);
+  const retailShopping = /\b(?:tiktok shop|livestream shopping|live shopping|shopping livestream|home shopping|jewelry shopping|jewellery shopping|shop live|shopping network|jewelry television|jtv|qvc|hsn)\b/i.test(text);
+  const salesPromotion = /\b(?:grand opening|giveaways?|shopping events?|sales events?|product launches?|creator collaborations?|shopping experience|shopping programming|livestream programming|shop|retail promotions?)\b/i.test(text);
+  return consumerDevice || (retailShopping && salesPromotion);
 }
 
 
