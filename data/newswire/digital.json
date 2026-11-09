@@ -1,11 +1,96 @@
 {
-  "generated_at": "2026-11-09T06:38:02.653Z",
+  "generated_at": "2026-11-09T16:53:27.805Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 18,
+  "count": 19,
   "releases": [
+    {
+      "company": [
+        "CreatorDB"
+      ],
+      "date": "20261109T133000+0000",
+      "dateline": "SAN DIEGO, Nov. 9, 2026",
+      "feed": [
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "SMD",
+        "DTA",
+        "CPR",
+        "STW"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "CreatorDB Co-founders: Noah Hynam, Clayton Jacobs, Andy Chou",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2030349/20261109014302EST_image_1.jpg?id=OA3065780&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2030349/20261109014302EST_image_1.jpg?id=OA3065780&p=publish"
+        }
+      ],
+      "release_id": "20261109HK92348",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS",
+        "PDT"
+      ],
+      "summary": "<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SAN DIEGO</span>, <span class=\"legendSpanClass\">Nov. 9, 2026</span> /PRNewswire/ -- CreatorDB has launched its highly anticipated <a href=\"https://docs.creatordb.app/api-v3/introduction\" target=\"_blank\" rel=\"nofollow\">API Version 3</a>, widely regarded as the fastest and most cost-efficient REST API in the creator economy, and it's already changing how the industry builds. Behind it sits a dataset of tens of millions of influencer profiles. Each one pulls together performance metrics, past brand sponsorships, audience breakdowns, contact emails, related socials, growth trends and more. Profiles are updated daily providing users with the most up-to-date snapshot on potential creator partners.</p>\n    ",
+      "ticker": [],
+      "title": "CreatorDB: API &amp; MCP - Data Infrastructure for the New Creator Economy",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261109HK92348",
+      "body": "\n<p id=\"temp_ReleaseStart\"><span class=\"legendSpanClass\">SAN DIEGO</span>, <span class=\"legendSpanClass\">Nov. 9, 2026</span> /PRNewswire/ -- CreatorDB has launched its highly anticipated <a href=\"https://docs.creatordb.app/api-v3/introduction\" target=\"_blank\" rel=\"nofollow\">API Version 3</a>, widely regarded as the fastest and most cost-efficient REST API in the creator economy, and it's already changing how the industry builds. Behind it sits a dataset of tens of millions of influencer profiles. Each one pulls together performance metrics, past brand sponsorships, audience breakdowns, contact emails, related socials, growth trends and more. Profiles are updated daily providing users with the most up-to-date snapshot on potential creator partners.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2030349/20261109014302EST_image_1.jpg?id=OA3065780\" title=\"CreatorDB Co-founders: Noah Hynam, Clayton Jacobs, Andy Chou\" alt=\"CreatorDB Co-founders: Noah Hynam, Clayton Jacobs, Andy Chou\"></img>\n                </p>\n    </div>\n<p class=\"prntal\">On the other side of the deal, CreatorDB tracks 15,000 brands, so you can see exactly which creators each one is collaborating with. For years, teams rented that kind of visibility through all-in-one platforms and worked the way those platforms let them. Not anymore. Now the team owns the tool and plugs in the data, and a growing share of the industry's new software is being built in-house.</p><p class=\"prntal\"><b>CreatorDB: The Data Infrastructure for the Next Generation of Creator Economy Tools</b></p><p><i>AI coding tools have made in-house software realistic for almost any marketing team. CreatorDB's API and MCP server supply the creator data those tools run on, starting at $79 a month.</i></p><p>Marketing teams are building their own software now. Not buying it. CreatorDB's API and MCP server have become the data layer under a lot of those homegrown tools, and the setup is smaller than most people expect: one teammate who's comfortable with Claude, plus a CreatorDB API key. What comes out is an influencer discovery, intelligence dashboard, or a performance analytics tool shaped around how that team actually works, instead of a pricey SaaS license built around someone else's process. Travel marketers have found the dataset <span id=\"spanHghltfa9b\">particularly useful in providing visibility into</span> each country that <i>every </i>travel creator has visited recently. e-SIM and VPN companies, all hotly competing for the same pool of creators, have similarly found the data especially important in building out tools to detect markets that are emerging and currently underserved.</p><p>\"The bottleneck for in-house creator tools isn't engineering anymore. It's data,\" said Noah Hynam, Co-founder of CreatorDB. \"We make sure you have real data from day one and at a price point that dwarfs a SaaS subscription.\"</p><p class=\"prntal\"><b>Ask Claude about a creator. Get a real answer.</b></p><p>CreatorDB's MCP server plugs creator data straight into Claude, ChatGPT, or any other consumer AI assistant. Pull up a creator's audience breakdown or sponsorship history mid-conversation, then keep going: ask why engagement dipped last month, line them up against two others on your shortlist, have the assistant draft the brief. No code. No tab-switching.</p><p>And getting started in Claude takes a few clicks, since CreatorDB is listed in Anthropic's connectors directory.</p><p class=\"prntal\"><b>What people are building with it</b></p><p>AI-native creator economy platforms run on CreatorDB data. So do in-house teams at brands and agencies. A few examples:</p><ul type=\"disc\"><li><b>AI-native creator platforms.</b> Companies building discovery and matching products on top of CreatorDB's data.</li><li><b>Intelligence and analytics.</b> Get a <span id=\"spanHghlt3bbf\">bird's </span>eye view of the entirety of YouTube, TikTok, and Instagram's influencer marketing battlefield allowing unprecedented decision making direction.</li><li><b>Discovery agents</b> that take a campaign brief in plain English and hand back a ranked creator shortlist.</li><li><b>Vetting tools</b> that check audience fit and past sponsorships before anyone hits send on outreach.</li><li><b>Competitor sponsorship tracking:</b> which creators a rival brand is paying, and whether those placements are working.</li><li><b>Campaign dashboards</b> refreshed daily with how contracted creators are performing.</li><li><b>Outreach pipelines</b> that add business contact emails to a shortlist and push it into the CRM.</li></ul><p>Your imagination is the only limit to what is possible with the right tools, approach, and data.</p><p class=\"prntal\"><b>Why builders pick CreatorDB</b></p><p><b>Fractionalized profiles.</b> You call the data you need and skip the rest. Every creator profile is split into dozens of separate end points, so your tool can refresh fast-moving numbers (performance metrics, new uploads) daily while checking slower things like audience demographics, content categories or contact email once a month. Fresher data where it counts. Lower bills everywhere else.</p><p><b>Clear and transparent tiered pricing.</b> CreatorDB opts for usage-based pricing with a monthly credit allocation included in the subscription and then pay-as-you-go credits beyond that. The higher your subscription tier, the lower your per credit cost. This means a solo builder can start small and grow without renegotiating a contract. And at high volume, a simple creator profile runs just 2 cents.<br></br><a href=\"https://creatordb.app/pricing/\" rel=\"nofollow\">https://creatordb.app/pricing/</a></p><p><b>Deep data from proprietary models.</b> CreatorDB holds 4 U.S. patents on profile data enrichment methods, and it's built 20 custom models that complete each creator profile. Those models turn raw platform signals into clean, structured fields, which makes it unusually easy to get at the exact data point you're after.</p><p><b>No middleman.</b> CreatorDB runs its own data pipeline end to end. It doesn't call anyone else's API to serve you data. That keeps responses quick and costs down. Research shows that a significant number of creator economy APIs serve identical data which can only be the result of them all using the same (external) data source, increasing costs and reducing maximum throughput.</p><p class=\"prntal\"><b>Availability</b></p><p>The CreatorDB API and MCP server are live now. Developers can sign up at <a href=\"https://www.creatordb.app/\" target=\"_blank\" rel=\"nofollow\">creatordb.app</a>. Claude users can add CreatorDB straight from the connectors directory. Users of other providers can tell their AI to connect to CreatorDB's MCP server.</p><p class=\"prntal\"><b>About CreatorDB</b></p><p>CreatorDB is the data infrastructure for the next generation of creator economy tools. Its API and MCP server deliver patented creator and sponsorship data across YouTube, Instagram and TikTok, all from its own end-to-end data pipeline, to AI-native platforms and brands and agencies of every size.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=HK92348&amp;sd=2026-11-09\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/creatordb-api--mcp---data-infrastructure-for-the-new-creator-economy-302933093.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/creatordb-api--mcp---data-infrastructure-for-the-new-creator-economy-302933093.html</a></p><p>SOURCE CreatorDB</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=HK92348&amp;Transmission_Id=202611090830PR_NEWS_USPR_____HK92348&amp;DateId=20261109\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "CreatorDB",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 1,
+          "digital": 7,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:sponsorship"
+          ],
+          "digital": [
+            "creator economy",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-09T16:53:31.469Z"
+    },
     {
       "company": [
         "Lifeway Foods, Inc."
