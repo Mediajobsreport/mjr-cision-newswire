@@ -1,11 +1,103 @@
 {
-  "generated_at": "2026-11-10T07:46:35.098Z",
+  "generated_at": "2026-11-10T16:17:31.613Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "management",
   "page_url": "https://www.mediajobsreport.com/management_news",
-  "count": 48,
+  "count": 49,
   "releases": [
+    {
+      "company": [
+        "Shenzhen Media Group"
+      ],
+      "date": "20261110T114900+0000",
+      "dateline": "SHENZHEN, China, Nov. 10, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS"
+      ],
+      "geography": [
+        "CHN",
+        "ASA",
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "BRD",
+        "CPR",
+        "PUB",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/pQh1mbGgQ44/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=pQh1mbGgQ44"
+        }
+      ],
+      "release_id": "20261110CN93871",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Nov. 10, 2026</span> /PRNewswire/ -- Millions of dreams. One city. A future in the making.</p><p>The documentary <i>Shenzhen: People Who Build the Future </i>debuts today. Written and narrated by two-time Academy Award-winning filmmaker Malcolm Clarke, the film offers an intimate and compelling look at one of the world's most dynamic metropolises through his discerning voice and storytelling.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder7431\"><p title=\"\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pQh1mbGgQ44\" frameborder=\"0\"></iframe></p></div><p>Moving beyond familiar skylines and rapid economic growth, the film unpacks the city's true engine, embodied in seven individuals across generations. From early pioneers who laid the city's groundwork to tech dreamers pushing the boundaries of supercars and robotics, and from international educators to visionaries carrying Chinese culture to the global stage, their personal journeys define Shenzhen's unique pulse.</p>",
+      "ticker": [],
+      "title": "Two-Time Oscar-winner Malcolm Clarke Joins Hands with Shenzhen in New Documentary Shenzhen: People Who Build the Future",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261110CN93871",
+      "body": "\n<p><span class=\"legendSpanClass\">SHENZHEN, China</span>, <span class=\"legendSpanClass\">Nov. 10, 2026</span> /PRNewswire/ -- Millions of dreams. One city. A future in the making.</p><p>The documentary <i>Shenzhen: People Who Build the Future </i>debuts today. Written and narrated by two-time Academy Award-winning filmmaker Malcolm Clarke, the film offers an intimate and compelling look at one of the world's most dynamic metropolises through his discerning voice and storytelling.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder7431\"><p title=\"\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pQh1mbGgQ44\" frameborder=\"0\"></iframe></p></div><p>Moving beyond familiar skylines and rapid economic growth, the film unpacks the city's true engine, embodied in seven individuals across generations. From early pioneers who laid the city's groundwork to tech dreamers pushing the boundaries of supercars and robotics, and from international educators to visionaries carrying Chinese culture to the global stage, their personal journeys define Shenzhen's unique pulse.</p><p>Brought to life through Clarke's distinctive perspective and narrative voice, the documentary captures the resilience, grit, and imagination of a place where tomorrow is not merely envisioned, but actively built by hand.</p><p>The documentary is a joint project brought to audiences through a collaboration between Shenzhen Media Group and Malcolm Clarke, and is now available for worldwide viewing starting today.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN93871&amp;sd=2026-11-10\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/two-time-oscar-winner-malcolm-clarke-joins-hands-with-shenzhen-in-new-documentary-shenzhen-people-who-build-the-future-302934832.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/two-time-oscar-winner-malcolm-clarke-joins-hands-with-shenzhen-in-new-documentary-shenzhen-people-who-build-the-future-302934832.html</a></p><p>SOURCE Shenzhen Media Group</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN93871&amp;Transmission_Id=202611100649PR_NEWS_USPR_____CN93871&amp;DateId=20261110\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Shenzhen Media Group",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 4,
+          "engineering": 2,
+          "entertainment": 3,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM",
+            "industry:PUB"
+          ],
+          "engineering": [
+            "industry:BRD"
+          ],
+          "entertainment": [
+            "summary:film",
+            "industry:FLM"
+          ],
+          "management": [
+            "joins"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-10T16:17:38.667Z"
+    },
     {
       "company": [
         "Kia America"
