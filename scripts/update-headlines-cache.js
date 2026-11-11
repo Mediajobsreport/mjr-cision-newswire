@@ -112,9 +112,11 @@ async function collect(category) {
     console.warn(category + ": GDELT unavailable: " + e.message);
   }
   let articles = dedupe(await fromGoogle(cfg.fallback));
+  const entertainmentTopic = /\b(movie|movies|film|television|tv|streaming|actor|actress|singer|music|celebrity|hollywood|album|tour dates|gossip|red carpet|box office|casting|grammy|emmy|oscar|broadway|concert|podcast|netflix|disney|paramount|hbo|spotify)\b/i;
+  if (category === "all") articles = articles.filter(item => !entertainmentTopic.test(item.title));
   if (category === "entertainment") {
     const entertainment = /\b(movie|movies|film|television|tv|streaming|actor|actress|singer|music|celebrity|hollywood|album|tour|gossip|red carpet|box office|casting|scandal|relationship|grammy|emmy|oscar|broadway|concert|podcast|netflix|disney|paramount|hbo|spotify)\b/i;
-    const offTopic = /\b(crash|accident|bail|dui|metro station|shooting|homicide|murder|traffic|weather|election|senator|congress|court ruling)\b/i;
+    const offTopic = /\b(crash|accident|bail|dui|metro station|shooting|homicide|murder|traffic|weather|election|senator|congress|court ruling|football|eagles|giants|nfl|nba|wnba|nhl|mlb|atp tour|film room)\b/i;
     articles = articles.filter(item => entertainment.test(item.title) && !offTopic.test(item.title));
   }
   if (articles.length) return { articles, source: "Google News RSS fallback" };
