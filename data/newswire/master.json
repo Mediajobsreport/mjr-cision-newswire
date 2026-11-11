@@ -1,9 +1,408 @@
 {
-  "generated_at": "2026-11-11T09:03:46.595Z",
+  "generated_at": "2026-11-11T17:11:32.619Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 646,
+  "count": 650,
   "releases": [
+    {
+      "company": [
+        "Music, Inc."
+      ],
+      "date": "20261111T170400+0000",
+      "dateline": "SAN FRANCISCO, Nov. 11, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Introducing Notefinder",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/GX6OFmVXXmg/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=GX6OFmVXXmg"
+        }
+      ],
+      "release_id": "20261111PH95263",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA",
+        "PDT"
+      ],
+      "summary": "<p><i>Available on the web and iPad, and localized for 10 markets from day one.</i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- Notefinder launched today on the web and iPad, giving musicians a new place to find high-quality, fully licensed sheet music in the most popular formats.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"Introducing Notefinder\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GX6OFmVXXmg\" frameborder=\"0\"></iframe></p>\n    </div>\n<p><b>Licensed, publisher-quality arrangements</b></p><p>Every arrangement on Notefinder is professionally created and licensed from the publishers, so songwriters are paid on every purchase. Notefinder comes from sheet music publisher Music, Inc., which has licensing deals with more than 1,400 rights holders, including the majors. The catalog includes music by artists such as Adele, Coldplay, Olivia Rodrigo, Radiohead and Billie Eilish.</p>",
+      "ticker": [],
+      "title": "Introducing Notefinder, A Sheet Music Store And Free Ipad Score Reader",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261111PH95263",
+      "body": "\n<p><i>Available on the web and iPad, and localized for 10 markets from day one.</i></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- Notefinder launched today on the web and iPad, giving musicians a new place to find high-quality, fully licensed sheet music in the most popular formats.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"Introducing Notefinder\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GX6OFmVXXmg\" frameborder=\"0\"></iframe></p>\n    </div>\n<p><b>Licensed, publisher-quality arrangements</b></p><p>Every arrangement on Notefinder is professionally created and licensed from the publishers, so songwriters are paid on every purchase. Notefinder comes from sheet music publisher Music, Inc., which has licensing deals with more than 1,400 rights holders, including the majors. The catalog includes music by artists such as Adele, Coldplay, Olivia Rodrigo, Radiohead and Billie Eilish.</p><p>\"Low-quality sheet music doesn't meet the needs of the musician, respect the publisher or capture the artist's intent. We built Notefinder on a promise of quality and trust, from every score to the service as a whole,\" said Jonathan Kehl, CEO, Music, Inc.</p><p><b>A Rock Band format for cover bands</b></p><p>Notefinder's Rock Band format is made for cover bands and gigging musicians. Instead of a note-for-note transcription, each arrangement is designed for a typical cover band, with a full score and parts for vocals, guitars, keyboard, bass and drums at three levels, plus practical performance notes. It launches alongside Piano / Vocal / Guitar, Piano / Vocal and Solo Piano, with more formats coming soon.</p><p><b>Buy one score, or subscribe to them all</b></p><ul type=\"disc\"><li style=\"list-style-type: none;\"><ul type=\"disc\"><li style=\"list-style-type: none;\"><ul type=\"disc\"><li><b>Single score:</b> $4.99 as a PDF download to print and keep</li><li><b>Subscription:</b> $7.99 a month or $49.99 a year for the entire catalog, including interactive versions of every score, with a 7-day free trial <br></br>Interactive scores play back as you read, and muting the vocal part turns them into practice tracks for singers. Prices shown are for the US.</li></ul></li></ul></li></ul><p><b>A free score reader for iPad</b></p><p>The Notefinder iPad app is free, with no account or purchase required. Musicians can import their own PDFs, add scores from Notefinder, or both, and their whole library works offline.</p><p>\"The market has been missing a score reader that is free, dependable and able to work with the music people already own. With Notefinder, musicians can bring their own PDFs, use them offline and add to their library from a catalog they can trust, through a single purchase or a subscription,\" said Martin Keary, Chief Product Officer, Music, Inc.</p><p><b>Classical favorites for free</b></p><p>Popular works by Bach, Mozart, Beethoven, Chopin and other composers are free on Notefinder.</p><p><b>Localized for 10 markets</b></p><p>Notefinder is localized for the United States, Germany, France, Italy, Spain, Portugal, Brazil, Japan, South Korea and China.</p><p><b>Availability</b></p><p>Notefinder is available now at notefinder.com and on iPad (<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820281-1&amp;h=3025287501&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fnotefinder-sheet-music-reader%2Fid6810637456&amp;a=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fnotefinder-sheet-music-reader%2Fid6810637456\" target=\"_blank\" rel=\"nofollow\">https://apps.apple.com/us/app/notefinder-sheet-music-reader/id6810637456</a>). An Android app is coming soon.</p><p><b>About Notefinder</b></p><p>Notefinder is a sheet music store and score reader app from Music, Inc., offering licensed, publisher-quality arrangements on the web and iPad, localized for 10 markets.</p><p><b>About Music, Inc.</b></p><p>Music, Inc. creates high-quality arrangements of licensed sheet music in the most popular formats.</p><p><b>Media contact</b></p><p>Daniel Ray<br></br><a href=\"mailto:426852@email4pr.com\" rel=\"nofollow\">426852@email4pr.com</a><br></br>917.256.9258</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH95263&amp;sd=2026-11-11\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/introducing-notefinder-a-sheet-music-store-and-free-ipad-score-reader-302936653.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/introducing-notefinder-a-sheet-music-store-and-free-ipad-score-reader-302936653.html</a></p><p>SOURCE Music, Inc.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH95263&amp;Transmission_Id=202611111204PR_NEWS_USPR_____PH95263&amp;DateId=20261111\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Music, Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 1,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:music publisher",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "radio": [
+            "summary:radio"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-11T17:11:35.509Z"
+    },
+    {
+      "company": [
+        "Babe Ruth Birthplace and Museum"
+      ],
+      "date": "20261111T151900+0000",
+      "dateline": "BALTIMORE, Nov. 11, 2026",
+      "feed": [
+        "PRNUS_WEBMAX",
+        "PRNUS"
+      ],
+      "geography": [
+        "MLD",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "ENT",
+        "SPT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Former Orioles President Larry Lucchino (center), with former Orioles player and manager Frank Robinson (left) together in 1991.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032259/Babe-Ruth-Birthplace-and-Museum-Larry-Lucchino.jpg?id=OA3070895&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032259/Babe-Ruth-Birthplace-and-Museum-Larry-Lucchino.jpg?id=OA3070895&p=publish"
+        },
+        {
+          "caption": "Janet Marie Smith and Larry Lucchino overlooking a model of the future Orioles Park at Camden Yards.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032265/1990-JMS-and-LL-looking-at-Camden-Yards-model.jpg?id=OA3070901&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032265/1990-JMS-and-LL-looking-at-Camden-Yards-model.jpg?id=OA3070901&p=publish"
+        },
+        {
+          "caption": "Larry Lucchino, Janet Marie Smith, and former Maryland Governor William Donald Schaefer during the lease signing for the new Orioles Park at Camden Yards in 1992.",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032268/Lease-signing-Camden-Yards-Annapolis-Larry-Lucchino-JMS-Gov-William-Donald-Schaefer-1992.jpg?id=OA3070908&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032268/Lease-signing-Camden-Yards-Annapolis-Larry-Lucchino-JMS-Gov-William-Donald-Schaefer-1992.jpg?id=OA3070908&p=publish"
+        },
+        {
+          "caption": "Former Governor Schaefer and Larry Lucchino with Lucchino's parents, Dominic and Rose (Rizzo) in 1991. ",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032270/Babe-Ruth-Birthplace-and-MuseumFormer-Governor-Schaefer.jpg?id=OA3070919&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032270/Babe-Ruth-Birthplace-and-MuseumFormer-Governor-Schaefer.jpg?id=OA3070919&p=publish"
+        },
+        {
+          "caption": "The Babe Ruth Birthplace and Museum, located at 216 Emory Street, is dedicated to preserving, exhibiting, and interpreting the historic legacy of George Herman \"Babe\" Ruth and all Maryland Sports. ",
+          "seq": "5",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032255/Babe-Ruth-Birthplace-and-Museum-Logo.jpg?id=OA3070886&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032255/Babe-Ruth-Birthplace-and-Museum-Logo.jpg?id=OA3070886&p=publish"
+        }
+      ],
+      "release_id": "20261111PH94504",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT"
+      ],
+      "summary": "<p><i>Documentary made possible by the Lucchino Family Foundation in memory of former Orioles president Larry Lucchino, will debut at a private screening Nov. 14; public premiere set for Babe Ruth's 132nd birthday in February 2027</i></p><p><span class=\"legendSpanClass\">BALTIMORE</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819581-1&amp;h=3811909871&amp;u=https%3A%2F%2Fwww.baberuthmuseum.org%2F&amp;a=The+Babe+Ruth+Birthplace+and+Museum\" target=\"_blank\" rel=\"nofollow\">The Babe Ruth Birthplace and Museum</a> will debut a new documentary about the making of Oriole Park at Camden Yards, \"The Ballpark That Forever Changed the Game of Baseball,\" at a private screening Saturday, Nov. 14. The premiere will be held at the Camden Club in the B&amp;O Warehouse at Camden Yards. The film will premiere publicly on Feb. 6, 2027, coinciding with what would have been Babe Ruth's 132nd birthday, at the museum's newly renovated theater.</p>\n    ",
+      "ticker": [],
+      "title": "The Ballpark That Forever Changed the Game of Baseball: New Film from The Babe Ruth Birthplace &amp; Museum Takes Fans Behind the Scenes to See the Creation of Oriole Park at Camden Yards",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261111PH94504",
+      "body": "\n<p><i>Documentary made possible by the Lucchino Family Foundation in memory of former Orioles president Larry Lucchino, will debut at a private screening Nov. 14; public premiere set for Babe Ruth's 132nd birthday in February 2027</i></p><p><span class=\"legendSpanClass\">BALTIMORE</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819581-1&amp;h=3811909871&amp;u=https%3A%2F%2Fwww.baberuthmuseum.org%2F&amp;a=The+Babe+Ruth+Birthplace+and+Museum\" target=\"_blank\" rel=\"nofollow\">The Babe Ruth Birthplace and Museum</a> will debut a new documentary about the making of Oriole Park at Camden Yards, \"The Ballpark That Forever Changed the Game of Baseball,\" at a private screening Saturday, Nov. 14. The premiere will be held at the Camden Club in the B&amp;O Warehouse at Camden Yards. The film will premiere publicly on Feb. 6, 2027, coinciding with what would have been Babe Ruth's 132nd birthday, at the museum's newly renovated theater.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2032259/Babe-Ruth-Birthplace-and-Museum-Larry-Lucchino.jpg?id=OA3070895\" title=\"Former Orioles President Larry Lucchino (center), with former Orioles player and manager Frank Robinson (left) together in 1991.\" alt=\"Former Orioles President Larry Lucchino (center), with former Orioles player and manager Frank Robinson (left) together in 1991.\"></img>\n                </p>\n    </div>\n<p>The 20-minute film follows the ballpark from concept in the 1980s to Opening Day in 1992 through first-hand interviews, covering site selection, architectural choices and how the park got its name. It closes with the ballpark's legacy, highlighting how Baltimore's new retro park redefined ballpark design and ushered in a new era of stadium development across Major League Baseball. Those interviewed include Hall of Fame broadcaster Jon Miller; Orioles legend and Hall of Famer Cal Ripken Jr.; and Janet Marie Smith, who represented the Orioles on the ballpark design. The film is narrated by Orioles play-by-play broadcaster Kevin Brown.</p><p>Columnist George Will has ranked Oriole Park at Camden Yards among baseball's most significant developments since World War II, alongside Jackie Robinson's breaking of the color barrier in 1947 and the arrival of free agency.</p><p>The film was made possible by the Lucchino Family Foundation in memory of former Orioles president Larry Lucchino, whose vision and leadership helped bring Oriole Park at Camden Yards to life. As Orioles president from 1988 to 1993, Lucchino played a pivotal role in championing a new ballpark that would reconnect the team with downtown Baltimore and fundamentally change the way baseball stadiums were designed. Lucchino died in 2024.</p><p>His clear vision and constant mantra to build \"an old-fashioned ballpark with modern amenities\" guided the development of the ballpark from start to finish. The film includes archival interview footage of Lucchino, offering audiences the opportunity to hear directly from one of the key figures behind the ballpark's creation.</p><p>The Lucchino Family Foundation's support of the documentary reflects its commitment to honoring Larry's enduring contributions to baseball and ensuring that his legacy and impact on the game continue to be recognized by future generations.</p><p>\"Camden Yards was one of the defining accomplishments of my uncle's career, and its impact on baseball has been felt far beyond Baltimore,\" said David Lucchino, Trustee, the Lucchino Family Foundation. \"Larry believed in doing things differently, challenging convention and creating something that would stand the test of time. The ballpark helped change the way generations of fans experience the game, and we're proud that the Lucchino Family Foundation could help bring this film to life. It's an important opportunity to preserve the story behind Camden Yards and ensure that Larry's vision, along with the contributions of everyone who helped make it possible, is remembered for generations to come.\"</p><p>The film features interviews with Janet Marie Smith, represented the Orioles on the ballpark design; Hall of Fame broadcaster Jon Miller; and Orioles legend and Hall of Famer Cal Ripken Jr. Orioles play-by-play broadcaster Kevin Brown narrates. The film was produced by Baltimore's Aliceanna Collective.</p><p>Members of the Lucchino family, community leaders and representatives of Major League Baseball and the Baltimore Orioles are among those invited to attend the Nov. 14 screening.</p><p>\"The film captures the behind-the-scenes story of how Oriole Park at Camden Yards came to be,\" said museum spokesperson Mike Gibbons. \"It's widely considered the most important ballpark in baseball architecture since Yankee Stadium, 'the House that Ruth Built.'\"</p><p>The museum is planning additional private screenings ahead of the February public premiere. The renovated museum theater features an old-time scoreboard and a new playback system. The Babe Ruth Museum maintained full editorial control over the production of the film. The film was produced by Baltimore's Aliceanna Collective.</p><p><b>About the Babe Ruth Birthplace Foundation</b><br></br>The Babe Ruth Birthplace Foundation, Inc. is an independent, not-for-profit educational institution dedicated to perpetuating the historic legacy of Babe Ruth, Baltimore's Orioles, Ravens and Colts, and local and regional sports at the amateur, collegiate and professional levels, by preserving, exhibiting, interpreting and augmenting its collection for a diverse audience. For more information visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819581-1&amp;h=4067620684&amp;u=https%3A%2F%2Fwww.baberuthmuseum.org%2F&amp;a=baberuthmuseum.org\" target=\"_blank\" rel=\"nofollow\">baberuthmuseum.org</a>.</p><p><b>About the Lucchino Family Foundation</b><br></br>Established by pioneering baseball executive and philanthropist Larry Lucchino, the Lucchino Family Foundation carries forward his enduring commitment to healthcare, education and community enrichment. The Foundation supports organizations and initiatives that advance cancer research and treatment, expand educational opportunities for future generations, and improve the quality of life in communities, particularly those with the greatest need. Guided by Larry's values of hard work, excellence, family and service, the Foundation prioritizes meaningful, measurable impact while honoring his extraordinary legacy in professional baseball and his lifelong dedication to making a difference in the lives of others.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2032265/1990-JMS-and-LL-looking-at-Camden-Yards-model.jpg?id=OA3070901\" title=\"Janet Marie Smith and Larry Lucchino overlooking a model of the future Orioles Park at Camden Yards.\" alt=\"Janet Marie Smith and Larry Lucchino overlooking a model of the future Orioles Park at Camden Yards.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2032268/Lease-signing-Camden-Yards-Annapolis-Larry-Lucchino-JMS-Gov-William-Donald-Schaefer-1992.jpg?id=OA3070908\" title=\"Larry Lucchino, Janet Marie Smith, and former Maryland Governor William Donald Schaefer during the lease signing for the new Orioles Park at Camden Yards in 1992.\" alt=\"Larry Lucchino, Janet Marie Smith, and former Maryland Governor William Donald Schaefer during the lease signing for the new Orioles Park at Camden Yards in 1992.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2032270/Babe-Ruth-Birthplace-and-MuseumFormer-Governor-Schaefer.jpg?id=OA3070919\" title=\"Former Governor Schaefer and Larry Lucchino with Lucchino's parents, Dominic and Rose (Rizzo) in 1991. \" alt=\"Former Governor Schaefer and Larry Lucchino with Lucchino's parents, Dominic and Rose (Rizzo) in 1991. \"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2032255/Babe-Ruth-Birthplace-and-Museum-Logo.jpg?id=OA3070886\" title=\"The Babe Ruth Birthplace and Museum, located at 216 Emory Street, is dedicated to preserving, exhibiting, and interpreting the historic legacy of George Herman &quot;Babe&quot; Ruth and all Maryland Sports. \" alt=\"The Babe Ruth Birthplace and Museum, located at 216 Emory Street, is dedicated to preserving, exhibiting, and interpreting the historic legacy of George Herman &quot;Babe&quot; Ruth and all Maryland Sports. \"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH94504&amp;sd=2026-11-11\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/the-ballpark-that-forever-changed-the-game-of-baseball-new-film-from-the-babe-ruth-birthplace--museum-takes-fans-behind-the-scenes-to-see-the-creation-of-oriole-park-at-camden-yards-302936624.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/the-ballpark-that-forever-changed-the-game-of-baseball-new-film-from-the-babe-ruth-birthplace--museum-takes-fans-behind-the-scenes-to-see-the-creation-of-oriole-park-at-camden-yards-302936624.html</a></p><p>SOURCE Babe Ruth Birthplace and Museum</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH94504&amp;Transmission_Id=202611111019PR_NEWS_USPR_____PH94504&amp;DateId=20261111\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Babe Ruth Birthplace and Museum",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "management": [
+            "summary:president"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-11T17:11:35.662Z"
+    },
+    {
+      "company": [
+        "Leech Tishman"
+      ],
+      "date": "20261111T135000+0000",
+      "dateline": "NEW YORK, and LOS ANGELES, Nov. 11, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CLF",
+        "UWS"
+      ],
+      "industry": [
+        "LGL",
+        "ENT",
+        "SPT",
+        "MUS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Bryan M. Sullivan",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032372/Bryan-M-Sullivan.jpg?id=OA3071184&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032372/Bryan-M-Sullivan.jpg?id=OA3071184&p=publish"
+        },
+        {
+          "caption": "Zachary C. Hansen",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032375/Zachary-C-Hansen.jpg?id=OA3071188&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032375/Zachary-C-Hansen.jpg?id=OA3071188&p=publish"
+        }
+      ],
+      "release_id": "20261111PH94674",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER"
+      ],
+      "summary": "<p><b><i>Sullivan named Co-Leader of the firm's Entertainment &amp; Sports Industry Group</i></b></p><p><span class=\"legendSpanClass\">NEW YORK, and LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- Leech Tishman is pleased to announce the addition of two new partners, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2238741323&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpeople%2Fbryan-m-sullivan%2F&amp;a=Bryan+M.+Sullivan\" target=\"_blank\" rel=\"nofollow\">Bryan M. Sullivan</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=1121027728&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpeople%2Fzachary-c-hansen%2F&amp;a=Zachary+C.+Hansen\" target=\"_blank\" rel=\"nofollow\">Zachary C. Hansen</a>. The addition of Sullivan and Hansen further strengthens Leech Tishman's national <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2832525739&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Findustry%2Fentertainment-sports%2F&amp;a=Entertainment+%26+Sports\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Sports</a> Industry Group and expands its capabilities in sophisticated business transactions, complex commercial litigation, and strategic risk, and crisis management.</p>\n",
+      "ticker": [],
+      "title": "Leech Tishman Expands Entertainment &amp; Sports Industry Group with Addition of Bryan M. Sullivan and Zachary C. Hansen",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261111PH94674",
+      "body": "\n<p><b><i>Sullivan named Co-Leader of the firm's Entertainment &amp; Sports Industry Group</i></b></p><p><span class=\"legendSpanClass\">NEW YORK, and LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- Leech Tishman is pleased to announce the addition of two new partners, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2238741323&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpeople%2Fbryan-m-sullivan%2F&amp;a=Bryan+M.+Sullivan\" target=\"_blank\" rel=\"nofollow\">Bryan M. Sullivan</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=1121027728&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpeople%2Fzachary-c-hansen%2F&amp;a=Zachary+C.+Hansen\" target=\"_blank\" rel=\"nofollow\">Zachary C. Hansen</a>. The addition of Sullivan and Hansen further strengthens Leech Tishman's national <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2832525739&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Findustry%2Fentertainment-sports%2F&amp;a=Entertainment+%26+Sports\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Sports</a> Industry Group and expands its capabilities in sophisticated business transactions, complex commercial litigation, and strategic risk, and crisis management.</p>\n<p>Sullivan has been named Co-Leader of Leech Tishman's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2832525739&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Findustry%2Fentertainment-sports%2F&amp;a=Entertainment+%26+Sports\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Sports</a> Industry Group, alongside Los Angeles-based litigator <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2160370969&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpeople%2Fallen-b-grodsky%2F&amp;a=Allen+B.+Grodsky\" target=\"_blank\" rel=\"nofollow\">Allen B. Grodsky</a>. Practicing from the firm's New York, Los Angeles, and Washington, D.C. locations, Sullivan will also be a member of the firm's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2792251988&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpractice-group%2Fcorporate%2F&amp;a=Corporate\" target=\"_blank\" rel=\"nofollow\">Corporate</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=3908245305&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpractice-group%2Flitigation%2F&amp;a=Litigation\" target=\"_blank\" rel=\"nofollow\">Litigation</a> Practice Groups. Sullivan advises high-profile individuals, executives, investors, and companies on significant business matters, transactions, and litigation, serving as a strategic adviser on matters involving financial, commercial, and reputational interests.</p><p>Hansen joins the firm's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2832525739&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Findustry%2Fentertainment-sports%2F&amp;a=Entertainment+%26+Sports\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Sports</a> Industry Group, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=3908245305&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpractice-group%2Flitigation%2F&amp;a=Litigation\" target=\"_blank\" rel=\"nofollow\">Litigation</a> Practice Group and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=4037194030&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Fpractice-group%2Fintellectual-property%2F&amp;a=Intellectual+Property\" target=\"_blank\" rel=\"nofollow\">Intellectual Property</a> Practice Group, and will be based in the firm's New York and Los Angeles offices. As a trial lawyer, Hansen represents clients in high-stakes entertainment and sports disputes, as well as complex commercial litigation. He has experience representing high-profile individuals, professional athletes, sports agencies, entertainment companies, record labels, influencers, and Fortune 500 companies in state and federal courts.</p><p>\"We are thrilled to welcome Bryan and Zachary to Leech Tishman,\" stated Pete A. Fuscaldo, Leech Tishman's Managing Partner. \"Their complementary experience brings tremendous depth to our Entertainment &amp; Sports Industry Group, particularly in navigating high-stakes disputes, managing complex business relationships, and addressing sensitive legal and business challenges. Together, they strengthen our ability to deliver sophisticated, strategic counsel that helps clients manage risk, navigate an increasingly complex industry landscape, and pursue new opportunities, backed by the resources and reach of our national platform.\"</p><p>Leech Tishman's <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4819751-1&amp;h=2832525739&amp;u=https%3A%2F%2Fwww.leechtishman.com%2Findustry%2Fentertainment-sports%2F&amp;a=Entertainment+%26+Sports\" target=\"_blank\" rel=\"nofollow\">Entertainment &amp; Sports</a> Industry Group brings together a multidisciplinary team of attorneys who advise and represent a diverse range of clients, including internationally recognized actors, directors, producers, musicians, writers, influencers, professional athletes, entertainment and sports executives, and companies operating throughout these industries. Drawing on the firm's transactional, litigation, intellectual property, corporate, and regulatory capabilities, the group handles matters ranging from business transactions and intellectual property protection to dispute resolution, complex litigation, contractual disputes, defamation, publicity rights, and regulatory compliance.</p><p>\"The entertainment and sports industries are increasingly complex, with legal challenges that often intersect with broader business, financial, and reputational considerations,\" stated Sullivan. \"Leech Tishman's national platform and multidisciplinary capabilities create tremendous opportunities to provide our clients with comprehensive, strategic counsel. I'm excited to work alongside Allen and our colleagues across the firm to continue building a dynamic Entertainment &amp; Sports practice that meets the evolving needs of our clients.\"</p><p><b>ABOUT LEECH TISHMAN</b></p><p><i>Leech Tishman is a national, full-service law firm dedicated to assisting businesses, institutions, and individuals. Leech Tishman offers legal services in business restructuring &amp; insolvency, construction, corporate matters, healthcare, intellectual property, labor &amp; employment, litigation, real estate, and trusts &amp; estates. In addition, the firm offers a wide range of legal services to clients in the aviation &amp; aerospace, beauty &amp; wellness, cannabis, data privacy &amp; cybersecurity, energy &amp; natural resources, entertainment &amp; sports, and life sciences industries. Leech Tishman has offices in Chicago, Los Angeles, Miami/Fort Lauderdale, New York, Philadelphia, Pittsburgh, Sarasota, and Washington, D.C.</i></p><p><b>MARKETING CONTACT</b><br></br>Jessica Ames<br></br>Senior Marketing Coordinator<br></br><a href=\"mailto:426790@email4pr.com\" target=\"_blank\" rel=\"nofollow\">426790@email4pr.com</a><br></br>412.261.1600</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH94674&amp;sd=2026-11-11\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/leech-tishman-expands-entertainment--sports-industry-group-with-addition-of-bryan-m-sullivan-and-zachary-c-hansen-302935983.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/leech-tishman-expands-entertainment--sports-industry-group-with-addition-of-bryan-m-sullivan-and-zachary-c-hansen-302935983.html</a></p><p>SOURCE Leech Tishman</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH94674&amp;Transmission_Id=202611110850PR_NEWS_USPR_____PH94674&amp;DateId=20261111\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Leech Tishman",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-11T17:11:35.802Z"
+    },
+    {
+      "company": [
+        "CSTS Enterprises"
+      ],
+      "date": "20261111T120000+0000",
+      "dateline": "NEW YORK, Nov. 11, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT",
+        "TRA",
+        "SPT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Fans gathered on The Rooftop at Pier 17 for PremierX™: AFTER DARK, creating an unforgettable atmosphere overlooking the Brooklyn Bridge and Manhattan skyline.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032524/20261110210034EST_image_6.jpg?id=OA3071578&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032524/20261110210034EST_image_6.jpg?id=OA3071578&p=publish"
+        },
+        {
+          "caption": "PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032526/20261110210034EST_image_4.jpg?id=OA3071579&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032526/20261110210034EST_image_4.jpg?id=OA3071579&p=publish"
+        },
+        {
+          "caption": "PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032528/20261110210034EST_image_3.jpg?id=OA3071581&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032528/20261110210034EST_image_3.jpg?id=OA3071581&p=publish"
+        },
+        {
+          "caption": "PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032527/20261110210034EST_image_1.jpg?id=OA3071580&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032527/20261110210034EST_image_1.jpg?id=OA3071580&p=publish"
+        },
+        {
+          "caption": "CSTS Enterprises and PremierX™ branding were displayed throughout Pier 17 for the debut of PremierX™: AFTER DARK.",
+          "seq": "5",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032529/20261110210034EST_image_2.jpg?id=OA3071582&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032529/20261110210034EST_image_2.jpg?id=OA3071582&p=publish"
+        },
+        {
+          "caption": "",
+          "seq": "6",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2032525/20261110210034EST_image_5.jpg?id=OA3071583&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2032525/20261110210034EST_image_5.jpg?id=OA3071583&p=publish"
+        }
+      ],
+      "release_id": "20261111HK94846",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Fans gathered on The Rooftop at Pier 17 for PremierX™: AFTER DARK, creating an unforgettable atmosphere overlooking the Brooklyn Bridge and Manhattan skyline.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- CSTS Enterprises (\"CSTS\"), a New York-based sports, entertainment, integrated media and travel technology group, today announced the successful conclusion of <b>PremierX™: AFTER DARK</b>, the inaugural flagship event of its newly launched premium entertainment brand <b>PremierX™</b>, held on <b>The Rooftop at Pier 17</b> in New York City on October 30, 2026.</p>",
+      "ticker": [],
+      "title": "CSTS Officially Launches Global Entertainment Brand PremierX™ with Successful Debut at New York's Pier 17",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261111HK94846",
+      "body": "\n<p class=\"prntac\"><i>Fans gathered on The Rooftop at Pier 17 for PremierX™: AFTER DARK, creating an unforgettable atmosphere overlooking the Brooklyn Bridge and Manhattan skyline.</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 11, 2026</span> /PRNewswire/ -- CSTS Enterprises (\"CSTS\"), a New York-based sports, entertainment, integrated media and travel technology group, today announced the successful conclusion of <b>PremierX™: AFTER DARK</b>, the inaugural flagship event of its newly launched premium entertainment brand <b>PremierX™</b>, held on <b>The Rooftop at Pier 17</b> in New York City on October 30, 2026.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1802\"><p><img src=\"https://mmx.prnewswire.com/media/MS2032524/20261110210034EST_image_6.jpg?id=OA3071578\" title=\"Fans gathered on The Rooftop at Pier 17 for PremierX™: AFTER DARK, creating an unforgettable atmosphere overlooking the Brooklyn Bridge and Manhattan skyline.\" alt=\"Fans gathered on The Rooftop at Pier 17 for PremierX™: AFTER DARK, creating an unforgettable atmosphere overlooking the Brooklyn Bridge and Manhattan skyline.\"></img></p></div><p>Set against the iconic Manhattan skyline, AFTER DARK delivered an unforgettable Halloween weekend celebration for fans on The Rooftop at Pier 17. The venue's open-air waterfront provided a fitting backdrop for the debut of the global entertainment brand built around premium, culturally relevant experiences.  </p><p>Headlined by <b>Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt</b>, the event featured an international lineup spanning music, culture and entertainment. The positive response from fans, artists and partners positioned PremierX™ as an emerging global entertainment brand, highlighting the growing demand for a new generation of premium live experiences that seamlessly blend music, culture and lifestyle.</p><p>\"The success of AFTER DARK marks a defining milestone for CSTS and reinforces our position as a leading experience company,\" said <b>Abel Zhao, Group CEO and Executive Director of CSTS Enterprises.</b> \"It marks the official arrival of PremierX™ on the global stage and validates our vision of building iconic experiences that resonate across cultures and borders. This milestone is just the beginning as we continue to shape the future of live entertainment worldwide through PremierX™.\"</p><p>\"AFTER DARK was designed to introduce audiences to the spirit of PremierX™ — bold, immersive and culturally connected,\" said <b>Jason Liu, Regional Director of CSTS USA.</b> \"The response from attendees, artists and partners demonstrates the growing demand for premium live experiences that bring together music, culture, lifestyle and global audiences under the CSTS platform.\"</p><p>With its panoramic skyline views and distinctive waterfront setting, The Rooftop at Pier 17 has become a premier destination for concerts, cultural experiences, brand activations and special events.</p><p>\"The Rooftop at Pier 17 is designed to bring people together through music, culture and unforgettable live experiences,\" said <b>Tyler Jones, Senior Vice President of Operations at Seaport Entertainment Group</b>, which operates the venue. \"Its one-of-a-kind setting made it a natural home for PremierX™: AFTER DARK, reflecting the kind of dynamic, globally minded events that make The Rooftop such a special destination.\"</p><p>As CSTS continues to expand its portfolio at the intersection of entertainment, sports and travel, the successful launch of PremierX™ represents a significant milestone in the Group's evolution as a creator of world-class entertainment IPs and destination experiences. Building on the momentum of New York, PremierX™ will continue its international expansion with future events, partnerships and cultural experiences planned across North America, Asia and Europe.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder9199\"><p><img src=\"https://mmx.prnewswire.com/media/MS2032526/20261110210034EST_image_4.jpg?id=OA3071579\" title=\"PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.\" alt=\"PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.\"></img></p></div><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder6872\"><p><img src=\"https://mmx.prnewswire.com/media/MS2032528/20261110210034EST_image_3.jpg?id=OA3071581\" title=\"PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.\" alt=\"PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.\"></img></p></div><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder6493\"><p><img src=\"https://mmx.prnewswire.com/media/MS2032527/20261110210034EST_image_1.jpg?id=OA3071580\" title=\"PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.\" alt=\"PremierX™: AFTER DARK featured performances by Swae Lee, Lil Xan, Armani White, DJ Soda and Nate Wyatt on The Rooftop at Pier 17.\"></img></p></div><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder5672\"><p><img src=\"https://mmx.prnewswire.com/media/MS2032529/20261110210034EST_image_2.jpg?id=OA3071582\" title=\"CSTS Enterprises and PremierX™ branding were displayed throughout Pier 17 for the debut of PremierX™: AFTER DARK.\" alt=\"CSTS Enterprises and PremierX™ branding were displayed throughout Pier 17 for the debut of PremierX™: AFTER DARK.\"></img></p></div><p><b>About CSTS Enterprises </b></p><p>CSTS Enterprises is an integrated media, entertainment, sports, and travel technology group. Headquartered in New York City, the company develops and partners with intellectual properties and brands to deliver compelling experiences that connect with audiences across the world. In addition to its own initiatives, including <b>Generation C</b><sup>TM</sup> and <b>PremierX™</b>, it collaborates with international IPs including FIFA World Cup, UEFA European Championship, and Formula 1.</p><p>CSTS integrates experiential marketing, travel, data, and technology to deliver seamless end-to-end audience experiences. The company engages consumers across physical events and digital channels, executing at scale worldwide, turning complex activations into coordinated, measurable outcomes.</p><p><b>About The Rooftop at Pier 17®</b></p><p>The Rooftop at Pier 17 is New York City's most scenic concert venue, pairing world-class entertainment with the Lower Manhattan skyline and Brooklyn Bridge as its iconic backdrop. The Rooftop's annual Seaport Concert Series launched in summer 2018, and is going on its eighth year of bringing live music to one of New York City's most vibrant neighborhoods. Operated by Seaport Entertainment Group, the 1.5-acre rooftop also serves as a unique event space and community amenity accommodating a wide array of cultural, culinary, and other entertainment experiences. </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder0\">\n                    <p>\n                        <img src=\"https://mmx.prnewswire.com/media/MS2032525/20261110210034EST_image_5.jpg?id=OA3071583\" title=\"\" alt=\"\"></img>\n                    </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=HK94846&amp;sd=2026-11-11\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/csts-officially-launches-global-entertainment-brand-premierx-with-successful-debut-at-new-yorks-pier-17-302936203.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/csts-officially-launches-global-entertainment-brand-premierx-with-successful-debut-at-new-yorks-pier-17-302936203.html</a></p><p>SOURCE CSTS Enterprises</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=HK94846&amp;Transmission_Id=202611110700PR_NEWS_USPR_____HK94846&amp;DateId=20261111\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "CSTS Enterprises",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-11-11T17:11:35.944Z"
+    },
     {
       "company": [
         "Hispanic Scholarship Fund"
