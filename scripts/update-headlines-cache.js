@@ -6,7 +6,7 @@ const OUTPUT_DIR = path.join(process.cwd(), "data", "headlines");
 const CONFIG = {
   all: {
     query: "sourcecountry:us sourcelang:english",
-    fallback: "when:1d United States news"
+    fallback: null
   },
   entertainment: {
     query: 'sourcecountry:us sourcelang:english (movie OR film OR television OR streaming OR actor OR actress OR singer OR music OR celebrity OR Hollywood OR album OR tour OR gossip OR "red carpet" OR "box office" OR casting OR scandal OR relationship)',
@@ -87,7 +87,7 @@ async function fromGdelt(query) {
 }
 async function fromGoogle(query) {
   const url = new URL("https://news.google.com/rss/search");
-  url.search = new URLSearchParams({ q: query, hl: "en-US", gl: "US", ceid: "US:en" }).toString();
+  url.search = new URLSearchParams(Object.assign(query ? { q: query } : {}, { hl: "en-US", gl: "US", ceid: "US:en" })).toString();
   const response = await timedFetch(url);
   return parseRss(await response.text());
 }
@@ -108,7 +108,12 @@ async function collect(category) {
   } catch (e) {
     console.warn(category + ": GDELT unavailable: " + e.message);
   }
-  const articles = dedupe(await fromGoogle(cfg.fallback));
+  let articles = dedupe(await fromGoogle(cfg.fallback));
+  if (category === "entertainment") {
+    const entertainment = /\\b(movie|movies|film|television|tv|streaming|actor|actress|singer|music|celebrity|hollywood|album|tour|gossip|red carpet|box office|casting|scandal|relationship|grammy|emmy|oscar|broadway|concert|podcast|netflix|disney|paramount|hbo|spotify)\\b/i;
+    const offTopic = /\\b(crash|accident|bail|dui|metro station|shooting|homicide|murder|traffic|weather|election|senator|congress|court ruling)\\b/i;
+    articles = articles.filter(item => entertainment.test(item.title) && !offTopic.test(item.title));
+  }
   if (articles.length) return { articles, source: "Google News RSS fallback" };
   throw new Error("No articles returned for " + category + " from GDELT or Google News");
 }
