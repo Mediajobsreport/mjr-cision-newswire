@@ -52,10 +52,13 @@ function parseRss(xml) {
     const date = Date.parse(tag("pubDate"));
     let domain = "";
     try { domain = new URL(url).hostname.replace(/^www\./, ""); } catch (_) {}
+    const sourceMatch = item.match(/<source\b[^>]*url=["\']([^"\']+)["\'][^>]*>([\s\S]*?)<\/source>/i);
+    let publisherDomain = domain;
+    if (sourceMatch) { try { publisherDomain = new URL(decodeXml(sourceMatch[1])).hostname.replace(/^www\./, ""); } catch (_) {} }
     if (validArticle(title, url)) articles.push({
       title: title.replace(/\s+-\s+[^-]+$/, "").trim(),
       url,
-      domain,
+      domain: publisherDomain,
       seendate: date ? new Date(date).toISOString().replace(/[-:TZ.]/g, "").slice(0,14) : ""
     });
   }
@@ -86,7 +89,7 @@ async function fromGdelt(query) {
   })).filter(x => validArticle(x.title, x.url));
 }
 async function fromGoogle(query) {
-  const url = new URL("https://news.google.com/rss/search");
+  const url = new URL(query ? "https://news.google.com/rss/search" : "https://news.google.com/rss");
   url.search = new URLSearchParams(Object.assign(query ? { q: query } : {}, { hl: "en-US", gl: "US", ceid: "US:en" })).toString();
   const response = await timedFetch(url);
   return parseRss(await response.text());
@@ -110,8 +113,8 @@ async function collect(category) {
   }
   let articles = dedupe(await fromGoogle(cfg.fallback));
   if (category === "entertainment") {
-    const entertainment = /\\b(movie|movies|film|television|tv|streaming|actor|actress|singer|music|celebrity|hollywood|album|tour|gossip|red carpet|box office|casting|scandal|relationship|grammy|emmy|oscar|broadway|concert|podcast|netflix|disney|paramount|hbo|spotify)\\b/i;
-    const offTopic = /\\b(crash|accident|bail|dui|metro station|shooting|homicide|murder|traffic|weather|election|senator|congress|court ruling)\\b/i;
+    const entertainment = /\b(movie|movies|film|television|tv|streaming|actor|actress|singer|music|celebrity|hollywood|album|tour|gossip|red carpet|box office|casting|scandal|relationship|grammy|emmy|oscar|broadway|concert|podcast|netflix|disney|paramount|hbo|spotify)\b/i;
+    const offTopic = /\b(crash|accident|bail|dui|metro station|shooting|homicide|murder|traffic|weather|election|senator|congress|court ruling)\b/i;
     articles = articles.filter(item => entertainment.test(item.title) && !offTopic.test(item.title));
   }
   if (articles.length) return { articles, source: "Google News RSS fallback" };
