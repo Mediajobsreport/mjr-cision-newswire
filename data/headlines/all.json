@@ -1,31 +1,43 @@
 {
-  "updated": "2026-11-11T23:15:12.856Z",
+  "updated": "2026-11-12T03:58:18.494Z",
   "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
     {
-      "title": "Nvidia stock slides after NYT report alleges Jensen Huang had a second affair — with an employee",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NaFFJVUxuMG1NR25FakxCNU9rUnpXUEl0UVE4ZTJUS0VUN2lEWjlsQVVJRTdMUWt1Vkd1RUsxcjZKa3JCaWFWN0JYbXk0TWpUM3M4SVQ1OGlJaTNQYWJsRnZVczF4NVpyeUZIQTVUQnRYVS0xX2RSQWhGWGs?oc=5",
-      "domain": "cnbc.com",
-      "seendate": "20261111220648"
+      "title": "Mississippi elects Democrat Scott Colom as state's first Black US senator since Reconstruction",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVhWcG5USS14S1FTbUdWOGtpYjRXSWdoUlJ4Ym95VXFGdnQtdVgyY3pMcjFScHpQc0c3a202TWJVcHp6YjFobDFfRl9Ga01PSGdaTEhZREZXRmtKUFBQY1JWQ0NmTHM2aVZnUVdNS3lPZG5RbDVVdHZFZnBkNmlwNU1Sc21GV1RvY0dwVHlyekd0UFg5aUZlNU1nYkJQZE1Y?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261112013000"
     },
     {
-      "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
+      "title": "SS United States updates: Ship completes final voyage, sinks to gulf floor to become artificial reef",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdmxyLV9wNkFXeVk2UDEyWk0tdEM0RHlyRER2RWlEYUFxWlBWSGg0cEpFbUptSFk4cVVyY2JWYUk5Q09jQmlOeHR6blI3SGxqaDZJNEZJUFU5SWZVN1g1SV9GcUR2WFZXRUN3TmQzbkJhZnp3WDNTLUFhVG9RNk1mZmRqX2NPRXotbVFOOU00RVNCb1htbnRxdEtWLXJTTm5DOXp2NTVaT2FIQ09pbk1Ra0hKcmtkVERzbGt3RFZLM2tPVllscENZMEZlX2kyZEpMQmd5bk16eXlnY21JeWF2MQ?oc=5",
+      "domain": "abc7ny.com",
+      "seendate": "20261112033600"
+    },
+    {
+      "title": "Hegseth's group reprimanded for making noise at Tomb of the Unknown Soldier",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGNTeFpRQXBVOTU0QjlKdnl3Ri1EeG5oZ1RQNllEU2kzYVVUR2tKTVFxdnVwWFpfbFZzV25QeXFzWFc2YktKMVJTR0NZVEsyWnlsZXhEWmVFZ1hzVE50UkJpZEVXcWh1eVBVQXQ1Z3JOVTh6b25YNUp6c0prdmN0Q1h0bWRTRnhZZjMxMQ?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261112013358"
+    },
+    {
+      "title": "Dangerous search for survivors continues after deadly building collapse in Brooklyn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZkdYZk4zZ1NacXpLb25ncXd1WXJTX3c5aFlhM2lGYzRoSjFiZTlVeTItS0ZPSUwwOTJkdk1XaUxCYU5QbGpVTXN1YUpVUjIwT1FJNWhMdEJIUV8xTERyYmFzTFZLVDVBaUZRc2sydHpxWVNobG9qS2tGcGhxWHc?oc=5",
+      "domain": "cnn.com",
+      "seendate": "20261112033700"
+    },
+    {
+      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOURyZ0lrSVFQZHl4Z0FMa1hYRFFZM3dmd1UzYWxVbWpkaWo4dHFEY3V1cHdPakstSGZSX3RsWWRVaUVJbWR6c00zaGFpNk9EZDQ1UGxCWXhvR3ROWjNjLWg3M3lEdldLMmdQRGNlN0ZJTTZydXA5eEFIY1NrY05adXNnRktCV2wtaFVmZE04el9YRmxVMEUwNFl1OGN3QTc5R2FnaXJ3?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261112002137"
+    },
+    {
+      "title": "White House warns congressional Democrats: Investigating us may be a crime",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3NwVERMZkt4QjlkRkc3UXFKa1E4eHRYNmZhdkhCUHV6MEltcjFMZ0ppZFlPdWE0aE9fVVpNQmttSVIyWnY5eExkUGZCdFFOS2xReS12aDRzLVh2QVk0M3d0Zm1UUnNGWVNwYjB4VkllRUNacktDNWQ1dUdJaE1LdTNmcTZmdjJDMU1WdFdTOHVEZTE5MEVnRkJadVg4dHRKVF9ra08wUzFyNGsxZlhfWDhYQ0R0SFRhZ2JsV3l3M2hSdw?oc=5",
       "domain": "nbcnews.com",
-      "seendate": "20261111221534"
-    },
-    {
-      "title": "Read the letter the White House's top lawyer sent Rep. Garcia over threats to investigate Trump",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRGNSekRGSnRPV25RMzRuQS1jYjJTY3lwZlhJSmoxZ3BOeGV0V2lGVFpfdUFlWVphMmtRNVJiUUxoZ251dEFPVUxrOWVXcXBPZ2s2cjZsdjB0dVAxSmNDMHhkcWpMeUJoX184U0hEQlphcGhicElqd3BYekh3S0xVUHJJRkxYWGF5UnBqdnBJeWMtYVBUM19rTV9jV1Q1TkRraDRLWW9IZEVFa1dpOGFjUHF4THhJQkVqdUFuS215cUxXeHkyV1lpUDdFQdIB0AFBVV95cUxNRW1GeG1aa0g1ZDhyVkxEV3BqRnRPVU9FUkphb2VkSzc0R0Q4aS1Lckt5SWtpd3ZhTHFOUzdWTkhwQXBwNVY2T001Tk54SEE1WnhGbFZ3NnNERnA1alBHWkMtU3h6U2cwazNnYjdBdFVtaU8zNTN3RjVWUDJiZ2V1MmE0a3BUSGRZclJiOWRNSk1TNXNqRk9lZUlBUjBJdTlnaDBZUTJMS3NNRjVQRkxibW8zMEo1VG55clY3dGEtNEE2Q3VPNjFCLVJIY2pvc1hi?oc=5",
-      "domain": "pbs.org",
-      "seendate": "20261111192731"
-    },
-    {
-      "title": "All Mississippi Senate ballots are in. Now the count enters the final phase.",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNenJDcEtyRWhOS0Y2bWVhZWFIaENFT1RzTHJZT015QWRXWWppdzRoeDBhYTIwcmFnTjViZUJoUFZHZnczU2xmX2xpVVBKVWY4eWIySHN1VXF1d0wyMmJpaWNBa2JOSzFIYS1FOXJxZDZoMWFGcEg4aWxPc25YWE1xZE9vQl9NS096RmNjMlpLaHQ1Wm00SGg0RTVFc1IwLVgxSzlaRHRVM2RtQk02X2xsaHo5RXBoczRxbmd1LWpYS2JMTVgx?oc=5",
-      "domain": "washingtonpost.com",
-      "seendate": "20261111203328"
+      "seendate": "20261111190557"
     },
     {
       "title": "Trump wants to arm his DC arch. Experts see a threat.",
@@ -34,64 +46,52 @@
       "seendate": "20261111191200"
     },
     {
-      "title": "Brooklyn building collapse: 1 dead, several injured in Flatbush, NY",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg?oc=5",
-      "domain": "abc7ny.com",
-      "seendate": "20261111225246"
-    },
-    {
-      "title": "Marco Rubio reportedly spent over $1.2m of taxpayer money traveling to son’s football games",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckhYWHpiay1aUUQ1azdyUFBLeGZsZkZTbF9RZzJ4aVJraTlsYkJvNjNZZnI5TTV3el9mMWxIYlFHY0dpU0czOHl3NFczcEFXQ3YxUUpWV3NxbWtmX2hEX090TU9zOGdHem16WC1sbUNTWmdmMEpQR0x6bU8zWFhyVXdwX2FaWVVhTXAxWV9wd252MjdPeTZnc0dOQ1hQckpXMHc?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261111174100"
-    },
-    {
-      "title": "The Moderates Who Chose Democrats. For Now.",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEoxeWFzbGpneGVpNV9IX3I2U0d0dl9lZE9TWGMwWkVEcGh4YWF1NzNFUVBVeWI3NUc3bjU5Q2FNdnJKS3JxNDBUSUdfYVRnaHYzNlBxVGx3MmxlZkxtSGphSVhiWV9mRlVKeDRjZHd5SDBIQlJZbDlPVXUtWG04RUlubllJN2ZTdW13Y2tOZw?oc=5",
+      "title": "An 8-Year-Old Was Separated From Family and Taken by ICE at a Check-In",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XRGZZZUFQcEdFNUxaTkwxNlVqeVFrdXNxdDlSYmJtck9xYXJMYUppRnk4OE1tNnpJWWk3akJZUzhiYS1uVnhFajJjRlN6MVlDVTRURDNTWVZ0dVZIWVdhRDF0eHlLN0ZRVjJsSnZTWE55aHc?oc=5",
       "domain": "nytimes.com",
-      "seendate": "20261111160444"
+      "seendate": "20261111220056"
     },
     {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtdDJ1amh3VkZuY1d4SEV0amx1RWU5Q3FYa0R0VDBxNU5vcTFtOUVzajh0U2dhUzVxeWpUQkNWX0FPM1NHMmpqQ0dUblA4UjBuYXVWaWwwQmkzekE?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261111180458"
+      "title": "Ole Miss students speak out after alleged racial harassment in viral video: \"It's still hurtful\"",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdEQ0d2I3OS1Hem9wVmxuU2d1VkFFY0NrVmtMTnpHd0xvQmJXWVdoWlVmWlFTVzQzVm1RUzRQODVmS2xYTzQ2SGxwVG5Ka3NmMU1HQzNIbFgtTzdYcE8yYnRfbXJVQnRONkpLVDE2ajUyZU9abWJPclM4MTVHSWhBRA?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261111171000"
     },
     {
-      "title": "Housing protests sweep Madrid and Barcelona after Spain’s workers' strike, with clashes erupting",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5",
+      "title": "OSU abuse survivors blast Jim Jordan’s election as House minority leader",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNTlEaVFRcHdmNnh3Y1RQdDlOUTJqa1hPb1Q1cjJTdHh0cEdQd01DNndMb2NDeXFiTUtWcWp0NlFldVB3NENEdmRhYVVjcEpnaTJRLUVkbHVIQ3h2MHNVcktibV9nbnBRZ29tY1MzajduVkpXUjgxZWN5LXZyRFhsVXVRSWpRM1Fjd29pVERzcTc2UmI3TkF3bllZeFBrckx0dk05bmt4LU5EbWRTeXlocmxlUDc2Q2c?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261112002000"
+    },
+    {
+      "title": "Russia and Ukraine agree to a large prisoner exchange as talks end with no major breakthrough",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGJLX21sUk93S0w1eDdOMEtDdC1ETk4zZ0E4d1dna2xHaWxFSXIxdGFFYVV0Wm5pWlc1Uk5YczNsa09FcGJtMHpKU1VnTkVJejR2YTJxR0ZFQXE3dndEcS0teGNKbHJBS3R1N1lHbUxuR3hOQ3hyZ2s5elFlbkFBVTJMNmE3TW1vN2x5dDl2VzBvWWpiWU5WRGxBLWJTNVZBUUE?oc=5",
       "domain": "apnews.com",
-      "seendate": "20261111214300"
-    },
-    {
-      "title": "Iran attacks shipping navigation systems on Oman's Didamar island, sources say",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFB3XzM5cVFXcFdvTWhfdVJSY21DLVNHRE81YXh1Ykt3MlY0M29GY05FbFEwd2hMT3lTR1duaVV6UGdac003SWM2cTJpb1FqX2UzdnZqNW5YSEpEOGd2dmZ2VW5XOTZzcGlSNGl5dENGNFQ4c2JGYU9yaXV2RU84QXVRQVVtR3EtYmpaNXRKM3d2ZHJVdzlzOWxrMktEVVZYZzJVeVVzcmtMM0JLYmxsZVQ5YlRWN2tRd0UyM2dUXy04eW5PWlE?oc=5",
-      "domain": "reuters.com",
-      "seendate": "20261111175902"
+      "seendate": "20261111194300"
     },
     {
       "title": "Pope Leo returns to Peru, his adopted homeland",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpuTEFWN2VuSlF3TnN5Z2MyeUg4dmt5WmVYNHBIUjJLMDNaMnh2OXVibjZUT3BGZmtXT1lTSnFhX1M4dU8wYVpsNi1XX3Y5SXRObkkxSmdCQU53OFMtTkxVcTBIVEo1UE5RUHZmVnpCNV9FblhuM3QxdlVILS1pWWJ2dzEzYmRLMUoybmpneFlPeW1YYUE?oc=5",
       "domain": "washingtonpost.com",
-      "seendate": "20261111180000"
+      "seendate": "20261112023247"
     },
     {
-      "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGdCeFJuSW5EWTJkTy1ERGxfeVdsRDRDMFBQcmM3UXB2dlhWQlhMQ1ZGdEdxd05BcTZyZDI0RVpWb3F5XzB2a2tIOWwwQWF3Y05pU3JVd3pCTUFqMWFXM1VUcmtEaGhhcWh6MHZQYzU0U1hJejMxOElDLWZwYzlubFk4TG9zYUkwSHZaUXlvTnI1WF9qemV2TXd5TXluNmtZc015dFNXbDVqcnFlOGhlTQ?oc=5",
-      "domain": "bloomberg.com",
-      "seendate": "20261111211502"
+      "title": "Eisenkot unveils agenda to reverse Netanyahu’s policies as Israel’s new parliament is sworn in",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1pwamowLTNQNERPRUUyTzRWWGxYVGo1MnRlYjl0UGR3OEhtclpFSXRmRjc1YThpTUJJcWlVWHVJVnVNajQ5dHJCd08tTXdtQW5Ya3YtODVhUVVvLVE2SUYxLXpUOW5QVWFZVVU0UHFfTWoydGh2MG93NlFBTUt2Mjk2VXVHYkc5b0NJOGdZR21hZTFOWVFSY0xWcVJ0bWZ4MHZ6el9QRmJWalZaOGdya1B5cmRwNDJvTkE?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261111024800"
     },
     {
-      "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5",
-      "domain": "cnbc.com",
-      "seendate": "20261111212200"
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXZ1NybUZGQng4MHhRbExhYmp1and6OHMyMEVCYjVTZ0JJRmVxcGJLNU1xRW45MjJqazZOZzBLNnpKSGFQbVEzcGVuNFVNRUxUZTRPQkhBay1HLTQ?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261111232204"
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDJtSXdwdkJWUlI4SlRWMzhQNlFKTG00LW4xVW9tZ1pLcFUtRzBQYklOMWRvZVZ4a3AwOTliX2hvcWpjYTN2eGR4NWp2M1BiMGNUMl9SZUxqQnpOWDU0QnRpUkdyX1FVSkVaRDFSUmw1R1pQWFFEMzNfVDN1MjY3QUNn?oc=5",
-      "domain": "cbsnews.com",
-      "seendate": "20261111193738"
+      "title": "Nvidia board weighs fate of CEO Jensen Huang after affair with alleged Chinese spy",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHgyQ1hDQlhOb0JIMEptNHA2VFpUZDFuYWl5R0RwSlpjYXNIMnJ1M0dVNnFlSUxkOVF5RFE3MUNPZWtKTkR1M3pNTEI2cC15ZGhvN240YTd0QTNYZEowNFNobjdSNm1WY1RlRXoyMUdaUE41TGtzWUNGeTFENG1PY3BNa1c5MHczSzJ4V1VZbjVISmZKOHpwNFFhOVdCZnRjSWtuM0c5WTVZa0lmS3o3YnJ5Q1pvZXo3LWtfRmV3?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261112034300"
     },
     {
       "title": "Why is gasoline suddenly under $4 a gallon?",
@@ -100,22 +100,10 @@
       "seendate": "20261111195914"
     },
     {
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBta1JjdkRnS1lUdVI4MGh3WFg2cTdsaldzMERhTk5TbEtqb2hwNnBYekhhdFlTVGMxVFZGa0NkOTBlYVFqbEZVbms4VG5TM2E1V2NCMzA5MkdXQWxmVHhFb04ybUI3ZzNQUGdwREFoM0dvQmpoOU5yUlpqbmxsdVU?oc=5",
-      "domain": "theverge.com",
-      "seendate": "20261111140000"
-    },
-    {
-      "title": "Intel’s Gonna Have a Hard Time Beating AMD’s Next-Gen Gaming CPUs",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qT1dUdlpGZE1aX2laMWd1a3REOTQ5TEo3WHFkVXFZZlR3bzJ2Z0l0OVJiRGdhOWtTU3hOYWpUd1hFbzBnc1ZFbzMwanZKZjVvRUh2VFUyRWlYM2NrcG90NA?oc=5",
-      "domain": "gizmodo.com",
-      "seendate": "20261111184000"
-    },
-    {
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblFqMFc1UlNBTDg5ZnBmRXJkdHMtQXBqMkRaVHdKalpuWVNOWkdqSExPaGJOdDYyczZrZjk0QmhqNGlrT0dTQnNDc0NuV2haME82MjZhRTJMMzVwc25Rc2pKWmk3aFdOdmN5bDNKSXZhM000WTdvRTYtRkxIaHNZV1dSUG9saFFUSG01X1lnSDRiOE5zcUR0N1VBdnJPc0NR?oc=5",
-      "domain": "arstechnica.com",
-      "seendate": "20261111170426"
+      "title": "AI stocks rebound, and Wall Street nearly returns to where it was before last week’s sell-off",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYi1oYnVxUmZHNlhJVXBPYk9ITmFxZzBzUWNfUDZPT2tsR0R4SExvcmJzM3I1ZEh0WHV0bHM2amVtQmMzWnpwRWVFRjluOTdETUt2UGtPbUUzamNLcVJ5UHk3Qm5ZMmNlNm16X21EZkZxaktKT3RIUEc4SlJCbnJDbzhxOXFkNVI0ZVFab3JBOGxtSXM?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261111214200"
     },
     {
       "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI",
@@ -124,52 +112,58 @@
       "seendate": "20261111171119"
     },
     {
-      "title": "7 Takeaways From the Coachella 2027 Lineup",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XT0UyUWNTRy1NaThwNVFSV0tVNWlNQkdsZ0hkMVhMRmZmYlcza3g2elZFUHd4aTFJeUZkY1IyWEpveW5PdDRfXzhvQzBLaHRKMTZFOWRDaUpWYmNkeTJEOTFhR3pnYlR5cDJRcUdqOUVNLTFnSG9tN256dw?oc=5",
-      "domain": "pitchfork.com",
-      "seendate": "20261111192340"
+      "title": "Google Wallet rolling out digital Google Home keys with supported locks on Android",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zcUQ3a0kybVBQMnMyaS1UaWVzUmdLMEVzMUdQUl9YVlpMUWlpOGw2OHJHTFFHSTRZZDJfNnNBRWdGLUNLV01UZ3dvS3BnRG1wVUdZSXpGeWw3RUEweVNZT0l0cDBJckJ1?oc=5",
+      "domain": "9to5google.com",
+      "seendate": "20261111185800"
     },
     {
-      "title": "Jenna Dewan says she’s ‘bummed out’ following shocking ‘DWTS’ elimination",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdHdXQjBlSGdQM2c0RjlzMFZ1X1dVX0ZxeW5EMXFlWlJsLWxZTGc1R2g5eTJDRWJhZEd2MTFoa2Y1YmNOWU42UXZ2U0hHMTBMUHpGQVpXMG45QjJBTFVzd2h4cjJoTV9OZlQyMk5nWEhwWGxsTERldzQ1aTB6WGx4bktXbWg1VUg5WFE?oc=5",
-      "domain": "ew.com",
-      "seendate": "20261111150858"
+      "title": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5",
+      "domain": "forbes.com",
+      "seendate": "20261111152243"
     },
     {
-      "title": "'Below Deck' star Joao Franco shared troubling post about his 'moral compass' just weeks before shock arrest over fatal brawl",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOVGJoRU9WV2s2R04yelpuTGJ0TTdnakI2N1JQNXI0WmFqYktQMTJwT2FRSW1hclczWlRRUy13WXhiOW5OdTl5UEhFSU9JbXY1ajhmcW1ta0ZzYnc4enJ2SXVNRWNGd05oeTVRWWpnc1J2bGpIMl9oRmZRZTczMnNrYW5uem41TUZQTzZOT2kzR0lIN0kzcnI2VTlFY2Q3YXNRcFFEazJrRzB3SXhteTgyX2tkdmxIVEliZ195ZTFfeVNMaEFXZEk1cmJUbXkycXdIa0lYZnFPWHFGazJLRTRid1U3aF9XZWdEbFJ6alF2dWJkTktvMDMzOWJUVQ?oc=5",
-      "domain": "pagesix.com",
-      "seendate": "20261111215000"
-    },
-    {
-      "title": "Kevin O’Connell: Too early to commit wholeheartedly to Kirk Cousins starting Sunday",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOVlLeFd2Yzh6RGlVSUNRTkNZZUlZS3d4VC1kX0dqeDVfSFJlaUozNVAwMWx0V2hFWkswdXFKLXlfQzNVV2VBWjd6VlpYcVpGaXQ4ekpaRldjQWxNemE2dm1lNUR4RzlnTWJzVHJVLS10N1lDa3lsZDF6dmtYQzI1eHVzOTd2Q1lOaGtLQzhtS1FGbDlGRnlIVVRtVXloRzEweGM0UmlxMVZoZ1lraHdyYldfRUNpemJ2dEJ1TWFhVXRSWHFsZ1poMVZZTjU5WU9mTGQ2T0hzV3NqREE?oc=5",
-      "domain": "nbcsports.com",
-      "seendate": "20261111201733"
-    },
-    {
-      "title": "Pochettino expected to coach USMNT games vs. Haiti amid Man United talks - source",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUUhFYzZrcmxpTjNfQ2pvQXNVMVhnVmJGQ2tOUDU5QmRhS1NRXzFCTjRPWldwdjNwX0dnNkNaSUFNWGZHRTRNRVROd09oQkVqejF1aXhpZFczLXZQVGFNc1dhR3ExMkRNNFZjMUZEVXdxaXZUZ2ZCb2c2MTJqZm1hdHVRYy0tOExXVkpPMnR4VTRlQ05XOWtObzZMdURuVzBESTBYdmNXNA?oc=5",
-      "domain": "espn.com",
-      "seendate": "20261111183000"
-    },
-    {
-      "title": "Former New York Jets coach Rex Ryan charged after allegedly running over feet of two pedestrians with truck",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGVLMmNRWjJRcnRBUlRDZWd2VV92TkZiVFNxeUxHelFsZVZzeHduNW82Z3MzWXp6SkdvSTZESTdaM0xhUjNBelFoYzdlNjFfWl9RTS1YWFFEZDh4eUJqb1pOdTRsM0RhQnp3cE9QN3FzODV5eDIxVXlxamd4Qk0xX0VNeW1BZjZuZlVmWTFqLXdkVzB3R3c?oc=5",
-      "domain": "nbcnews.com",
-      "seendate": "20261111191048"
-    },
-    {
-      "title": "NFL Fantasy 2026 Start 'Em, Sit 'Em: Wide receivers for Week 10",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHRYclpIMmg0S3h1cVBET1Z6V2xZMkxsT1JBaW9BZklSajN0SGQ1QmFMelNoN0F0UzN4eElzSjQ4T3lsV3R0MWdPNkUyX0ZmWjlTaGhzek5CaUVZUGxUSXhwOFpYa2VGeDB6Z1FCQk1Ea0lLb00xcFpfOTg3MlpsZUw2QkZGZ1U2MWZzUQ?oc=5",
-      "domain": "nfl.com",
-      "seendate": "20261111182304"
-    },
-    {
-      "title": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUx3emZucklDV3E3dVVDQVZPTmhYSXdDRFB5Q1dMUFBJUThuekNpX3JvU2VjazctZFdqSXZQMHV0ZDIwd1N5TFhpcldsVFBIWHdrbFJ1a19oY2VyZGl1QlViNGo4NVl4UXhkaVpnb1U2dkNhSGJVWTF1Mk9hMS1rVFJKM0tMQzFsUHQ4dEFFaTJZbWZYdnZ0bXBSX1dvRU1WVHhQVUhqWjJyRm9IckppUXlGZXFLc29fVkZyVWZn?oc=5",
+      "title": "Apple's touchscreen MacBook Pro does not like to be taken apart",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckxnMGo2bVlla2ZFMUc4ZG96REJZQVlpREhOTmY2bXFiQk1Yb09vQUdfY3ZnMHU1Z28zbjVHX25PV3VrVEhJM1Bjc3J3bzF1Znh4UGx5ZVp5RzRJbUVvNGFIaW9fVV9od0pGYjNTSmJKeFpZUHozd3VjV3RhRzY2QVRNSmhFbURFcEV1MXUydWY0NGo3ci1KbEtVNC0tZWRrOHZNMVJvX2ZhRmxaNEpzWHNyQ2JubE12ay1rR2Fua0o?oc=5",
       "domain": "theregister.com",
-      "seendate": "20261111141320"
+      "seendate": "20261111153400"
+    },
+    {
+      "title": "‘VisionQuest’ Creator Terry Matalas Tells All About That Supersized Finale and Post-Credits Surprise",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPclo0ejlKRTFNaG01cWMxa2NyWUgxTGt0cWVLR00xampNX2JlaWdMckNyU216NmZIOHp1cG56eVd6bURmRHhVd25Fd3Flc29nVWJqUHh1c3lqX0hOUGdnS1o5RnFqNVNLakh5aWR1aUo1OWtLT0FpZWwwbnBXNkZ5VmhQY0hHS2ZibE9HWG9aQzlmZ3BBYTZPVDZTaXBjWEU2VnljLUVXandTYVk2QmJR?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261111224213"
+    },
+    {
+      "title": "Brewers’ Jacob Misiorowski rolls to unanimous selection in NL Cy Young race",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8yTW5BaWtnUzk4YWJpLThJQjdlSXY1bTFsU2VJQnE1eDNCYUpocDkwUVR0RUZEVTh2MGhIbWZDRjM?oc=5",
+      "domain": "bbwaa.com",
+      "seendate": "20261112010449"
+    },
+    {
+      "title": "Manchester United makes formal contact with U.S. Soccer over Mauricio Pochettino move",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMHdIWm1PT0RfSjZaTFk1SkxDVXQ0T3B1VklCMHVQU3lrcEJZbXpYc3ZkWUJ6SGl2NTZGeEdmSEhWQnRuMEpmZThOTll6c1JiODBuZkN5LWhlSl9qbU1VWjVOSmt5LWpEWkxBNWI4SXItVFlqcHpEUV8tTV9KR19JU3ZzT0tCQk1IemY1SThSaEY4N3BtRzBrMFJBb2FwY203SWFNYXR5cXdNaXV5WldvYWNQZ1RTdjZMQ1lBT2UwVmdzN3ZLM3pBS0VvRkJRbnUyZEstSzB2dFozM2ZhWGZBT3ZlRFp3RTA?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261111212331"
+    },
+    {
+      "title": "Former NFL coach Rex Ryan turns himself in after allegedly hitting Nashville pedestrians",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkRvMTltb1ZaWl8zY0loM0x5cktzSDdsSEQ5TjBNVUUwY0NBaDVzdS1abGF5V283YkRwSnR4LTg0cGJJRXdWR3ZvX19Sa3cyM3NVSzl2Q0lpWVRvN3Q5NndrU2lWRDQ0RWRpM21CMy14NEE0SkZyN3Y0OG9MX2FwSno4MU1oekh3QTZSMWtZZ19mREF1blFB?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261111223000"
+    },
+    {
+      "title": "MMA stars Merab Dvalishvili, Usman Nurmagomedov brawl at hotel in Abu Dhabi",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOTVweWZCRmlyQ1BtOWp3N0xmeW9oNjRIWlhCbXphMnF1bDM5TF9CNExUZGR5dnoyVXI3dlAtM2kyaGh4ZHdGbVhDOFdEM3dhWnBnMWM5RlY4QzAxNENyR2c2V2hDQkdQZXV1M29YYzFtZVFyamVib3E2VjU2M0g5ck1yZUJjR2RZVU5keWdES0RqYmFMQ0FJVVFEaEZsSVpYX3VuMG53?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261111224600"
+    },
+    {
+      "title": "Spot a fireball during tonight’s Northern Taurid meteor shower",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QOWV1emtKalVxcFVmUXIzOWFpM0hrVEhyUjY4X0ZUcUhFV2pxVEtNellrNGsxZDlxSXpXUk51ZUgwSHA3dUdza1NuMWF3UUpwZ1p5S3E5U0wwWkFiX0RwamZsSFJzXzAtQ0d1b0E0amtFYjU0bi1N?oc=5",
+      "domain": "cnn.com",
+      "seendate": "20261111230015"
     },
     {
       "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
@@ -178,40 +172,40 @@
       "seendate": "20261110110000"
     },
     {
-      "title": "‘Brilliant fireballs:’ meteors to shoot across Idaho night sky. Here’s when to watch",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmt2OFlsLThwX285cFpBamdyenI2S3VNUl8xOVdZWGdiazFoWjcwNS1qNkFUVTJNSE9tcU1uVmg2VDQ1YmhSaHhtZ1BRYjFTWi1FU2VVcmNVdTZXY0lKS1VZdm5HSjBzMW5Pcl9wd2c1TGdzQmlQMW1lTkRPNE5CRmRVZ3BfWjVRRl9xX3RZSWJDc1YxVThHSkZVejhEYk9fbzdObXpIOFB5d2FaQUhYN1NhektBWmp6U1E?oc=5",
-      "domain": "eastidahonews.com",
-      "seendate": "20261110203000"
+      "title": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeUx3emZucklDV3E3dVVDQVZPTmhYSXdDRFB5Q1dMUFBJUThuekNpX3JvU2VjazctZFdqSXZQMHV0ZDIwd1N5TFhpcldsVFBIWHdrbFJ1a19oY2VyZGl1QlViNGo4NVl4UXhkaVpnb1U2dkNhSGJVWTF1Mk9hMS1rVFJKM0tMQzFsUHQ4dEFFaTJZbWZYdnZ0bXBSX1dvRU1WVHhQVUhqWjJyRm9IckppUXlGZXFLc29fVkZyVWZn?oc=5",
+      "domain": "theregister.com",
+      "seendate": "20261111141320"
     },
     {
-      "title": "Robot builds structure in space for the first time in technological breakthrough",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmh5bEZUOUdYd2pWTVBzQk1CY2c1d3J5MWtSQ0gwMzFZV3J6ZzF3NkdsdUd6VlBvam9EMWZZT0dnbDg4eFZkQkk1UjBqNlB4WjcwRlZnMW9YamptbW41UnR0eU9jR3B4amxpVkpLUHhLenRxaXNCRkh2LWszN0lOaTFoU2s5bUhESjlvaGlqYw?oc=5",
-      "domain": "nypost.com",
-      "seendate": "20261110180800"
+      "title": "Iconic first image of black hole holds up to scrutiny",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0MDI0NVpKVGpOZ0RsaTF2b25LeXpBbEdTRENsS25oeF9wbS1kVUNyaVFJNDVaTVNQcnUwS3BTcjNRcWhJdnUza3E3UUkxdFRJSjhJaGE5RnpBeW5LT3Z3?oc=5",
+      "domain": "nature.com",
+      "seendate": "20261111184308"
     },
     {
-      "title": "‘A tremendous step backwards’: US could lose measles elimination status under RFK Jr’s leadership",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQlJTZU90X3plSHJFUlZnYjRPZkRQNGFPX2R6MDNzTWhRVG1ackVYUVNVazVnZlNzQTF6LVZ6R0JaQ0s3bG9PRUwxZlZ1bm9Sb0VoYlk0ZmpQNk9GdG8zdmZYcDRWdlhtallrWWF5Yld0ajdjUUxKTC1NTzdxdGw4OGtMc0JYc2hmR2dHOHNPUEtMcVk?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261111204000"
+      "title": "CDC chief: No measles response change if elimination status lost",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOWxQNjBLRkh0VHN4VWczVG1WTW14NUYzeXV0SW1pRnJrdnVkVHVuTWppeW9iVmhieVJQLWZvdlR0aTd1QTRac01GNVJkN0NaMXVXR1VIY3pYNHZXbTJ1d3YtZlZBUXF0cmJxRHJ0aVJ6TWlkbXV4dHRiVGF5UDZvM01ZY3VldlZsX2lNd2wzMNIBlAFBVV95cUxQdWxkTy13bEZxaGRxc0lmZW9CWU83bWpNeFBqVENIc2dVbnZKeEo1TTJJRzRSRXlyVzVwbk0tb3N4UzAyM1htdThtZ21RN21PVDVqQ1FhTlM2djdZTzZLRzdPUzBNNkZnelhQcGc0R0tLR2QzSWlMa2F2VHg4ai1EdjZFOTBJSi1IR1gteHFGa0lwZ1FI?oc=5",
+      "domain": "thehill.com",
+      "seendate": "20261111175900"
     },
     {
-      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51N250eUlqeDFJZElKOHFCTktKcW9XbXdxeHBlMV9XNnhXRzczUFh0REVEQ1d0TTRwRm9zdXpxaXJnakJfcjJWelB6dzdCVXd5TGFJTHc3SUgwQVpxSmU2V2JENkhoN1RDcHQ5eXZmY1pRMXM?oc=5",
-      "domain": "npr.org",
-      "seendate": "20261111091601"
+      "title": "Map shows central Iowa locations where you may have been exposed to measles",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeDZhOE55WmlqVHhHNjVjVmcxYnRTVU5oOE5OclJZa2pLMlJsMDhKdzdDVURGcld3VGE2MkUxbmhpUy1STkpGY1NxcmltamhBdE1lc2tuZlFUV1lkYzZVQW1MVEhvVTF4NGRvdjJNMUdmN2FtTTFHekpOSmtCTlF6S09qd2VoUmliTXNQa19CcUYyQzJsMGtBWXFn?oc=5",
+      "domain": "kcci.com",
+      "seendate": "20261112002000"
+    },
+    {
+      "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2xZQ19zQXZleUxGQlZ5WWRFcFJUSGI2ZVJ0MnJPU2RfZ0l6REFwbWFWVm5RdFQxYnRKd2Zsb0FmNDlhYWdQSlV2ZFhiNmx6RzdsZUZLVWJ5cFdBb0xIVWEydTlRSmg1cUthejlNQ2JzQUYwQk9EcVFodXdtMURQOHZmVHM2RW8?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261111221027"
     },
     {
       "title": "Validation of clinical and preclinical obesity across global cohorts",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92dTR0Z05SeS1TbmxlUmNOZy0wUGRnWXlyTzVJNWFfVnpHdDlDNnJPY01XM0VORlpnRDNHTzg2eURXWXRwYmxLWm8wQnNTaXotbmRjaE5pRmZIVkRheDA4?oc=5",
       "domain": "nature.com",
       "seendate": "20261111221449"
-    },
-    {
-      "title": "New weight-loss drug wipes out chronic knee pain in some patients, researchers say",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbkJSQlJhZVhsX3Flbm1oVkpqQTV6aXJEbEZ4ejNmVDQyaWpwYm85RkRWaUh0ZWh2UW85dDBOeXhvRG1lWTIyQnBjSVNfVVVhX0ozeW5ONzVoQ1VxUDE3dDFMYUJlRHRMRTE5am5BRDRjUXVqcXVHeEtUd2pFY3pEeWM0emN1ak1aQlVENDdEbHRXLUJ0bUh0ODRMVFXSAaIBQVVfeXFMT3pUVm5tSkNvemRKcFBpaWpFNmdBWmhySVZhbUNTdktCbGR3VUg4bVFQTlBOODkwYXpXN2lwYV9YX29KSG9LWFRaYlMzMmV1V2xsVlR4bTNOd25yUDBWVUJITXpOMGk5TXdKWE4wMEkyZTlOMWVTTHlkc0UybEhlR3FZbkJNRXI2dHc1QWgyU1JCVHRNU0IwRTBTdlJOenNaZ1Z3?oc=5",
-      "domain": "foxnews.com",
-      "seendate": "20261111211040"
     }
   ]
 }
