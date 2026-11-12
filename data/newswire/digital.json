@@ -1,11 +1,168 @@
 {
-  "generated_at": "2026-11-12T12:45:48.504Z",
+  "generated_at": "2026-11-12T20:42:35.099Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 22,
+  "count": 23,
   "releases": [
+    {
+      "company": [
+        "Local Media Consortium"
+      ],
+      "date": "20261112T140000+0000",
+      "dateline": "NEW YORK, Nov. 12, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_WEBMAX"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "PUB",
+        "AFI",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "LMC",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS917451/Local-Media-Consortium-Logo.jpg?id=OA3073360&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS917451/Local-Media-Consortium-Logo.jpg?id=OA3073360&p=publish"
+        }
+      ],
+      "release_id": "20261112FL95698",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><i>97% use AI assistants, yet only 16% have embedded AI into repeatable business processes </i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- Local media organizations have rapidly embraced artificial intelligence tools, but significant opportunities remain to apply AI to the audience growth and revenue-generating activities most critical to long-term sustainability, according to new research released today by the Local Media Consortium (LMC).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS917451/Local-Media-Consortium-Logo.jpg?id=OA3073360\" title=\"LMC\" alt=\"LMC\"></img>\n                </p>\n    </div>\n<p>Findings from the organization's AI Readiness &amp; Digital Tech Stack Assessment, conducted by Stellis AI, show that 97% of responding organizations use at least one AI assistant, yet only 16% have incorporated AI into a repeatable business process. At the same time, 78% of priority work is still completed manually or not at all. The findings suggest the industry's challenge is no longer whether to adopt AI tools, but how to turn experimentation into measurable business results.</p>",
+      "ticker": [],
+      "title": "Local Media Widely Adopts AI, but Major Revenue and Audience Opportunities Remain Untapped, LMC Study Finds",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261112FL95698",
+      "body": "\n<p><i>97% use AI assistants, yet only 16% have embedded AI into repeatable business processes </i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- Local media organizations have rapidly embraced artificial intelligence tools, but significant opportunities remain to apply AI to the audience growth and revenue-generating activities most critical to long-term sustainability, according to new research released today by the Local Media Consortium (LMC).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS917451/Local-Media-Consortium-Logo.jpg?id=OA3073360\" title=\"LMC\" alt=\"LMC\"></img>\n                </p>\n    </div>\n<p>Findings from the organization's AI Readiness &amp; Digital Tech Stack Assessment, conducted by Stellis AI, show that 97% of responding organizations use at least one AI assistant, yet only 16% have incorporated AI into a repeatable business process. At the same time, 78% of priority work is still completed manually or not at all. The findings suggest the industry's challenge is no longer whether to adopt AI tools, but how to turn experimentation into measurable business results.</p><p>\"The conversation in local media has shifted from whether organizations should explore AI to how they can implement it in ways that deliver meaningful results for long-term sustainability,\" said Fran Wills, CEO of the Local Media Consortium. \"This research shows that many organizations have moved beyond initial experimentation with AI tools, but there remains significant opportunity to integrate AI into core business processes that support audience growth, revenue generation and operational efficiency.\"</p><p>The assessment found a median AI readiness score of 32.5 out of 100, indicating that many local media organizations remain in the early stages of building the structures needed to scale AI adoption.</p><p><b>Key Findings</b></p><ul type=\"disc\"><li>97% of responding organizations use at least one AI assistant. Top three AI tools used by local media companies include ChatGPT (76%), Claude (59%) and Gemini (59%).</li><li>Only 16% have embedded AI into a repeatable business process.</li><li>78% of priority work is still performed manually or not done at all.</li><li>80% of respondents naming a metric said audience growth or revenue generation is the primary outcome they most want AI to improve.</li><li>The median AI readiness score was 32.5 out of 100.</li><li>46% cited \"scattered efforts that don't compound\" as their biggest obstacle to AI adoption.</li><li>Market intelligence (92%), new revenue development (90%) and advertiser sales (87%) were the business functions most likely to be completed manually or not done at all.</li><li>Tasks most often done by hand include:<ul type=\"circle\"><li>Drafting personalized outreach to local businesses (37% manual or not done, 6% automated)</li><li>Identifying underserved local audience segments and unmet information needs (37% manual or not done, 3% automated)</li><li>Monitoring and managing AI crawler access and content monetization terms (31% manual or not done, 6% automated)</li><li>Spotting local businesses advertising elsewhere but not with us (31% manual or not done, 6% automated).</li></ul></li></ul><p>Researchers found little relationship between the number of AI tools an organization uses and its level of automation. Instead, local media organizations with stronger AI readiness were significantly more likely to report successful adoption and greater workflow automation.</p><p>The assessment also revealed a readiness gap between larger and smaller organizations. Organizations with more than 100 employees reported higher readiness scores and nearly twice the level of automation in priority work compared with organizations employing fewer than 100 people, suggesting that capacity and resources remain important factors in successful AI adoption in small and midsized community newsrooms across the country.</p><p>\"Across industries, the most successful AI adopters are using it to drive growth, not just reduce costs, and local media leaders are clearly focused on that same outcome,\" said Trent Gillespie, CEO of Stellis AI. \"The challenge isn't access to new tools. It's building the organizational readiness to turn experimentation into consistent business results.\"</p><p><b>From Insight to Action</b></p><p>The findings are expected to inform future training, resources and strategic partnerships through LMC's Digital On-Demand Services (DODS) program. As publishers move from experimentation to implementation, LMC is exploring expanded collaborations with consultants, technology providers and fractional service organizations that can help local media companies put AI to work and accelerate transformation efforts – efficiently and affordably.</p><p>\"This initiative is about more than understanding where publishers are today,\" said Liz Hayes, program manager for DODS. \"We're identifying what publishers need next and building the support network to help them move forward, connecting them with trusted experts who can turn AI potential into measurable business results.\"</p><p><b>About the Assessment</b></p><p>The AI Readiness &amp; Digital Tech Stack Assessment was developed through LMC's AI Accelerator program to help local media organizations evaluate AI readiness, identify implementation opportunities and prioritize future investments. The survey of LMC member companies was conducted between July 22 and September 21, 2026. Participating organizations receive customized insights and recommendations to support planning and adoption efforts. The assessment was implemented by Stellis AI, which provided the assessment framework and analysis for participating organizations and industry-wide findings. The project is supported through funding from the John S. and James L. Knight Foundation as part of the News Media Help Desk, an online resource created by the LMC and The Reynolds Journalism Institute that guides newsrooms toward strategic decisions that ensure the long-term future of local media.</p><p><b>About the Local Media Consortium</b></p><p>The Local Media Consortium delivers more than $60 million in annual economic value through digital partnerships and strategic initiatives on behalf of more than 150 local media companies in top markets across the United States, Canada and Puerto Rico, and includes more than 5,000 newspaper, radio, TV and online-only news outlets. By harnessing the combined volume and scale of its members, the LMC reduces costs and increases revenue with technology and service providers. The aggregated LMC audience footprint spans 200 million unique monthly visitors, and its member companies serve more than nine billion pageviews to consumers. More information is available at LocalMediaConsortium.com.</p><p><b>Media Contact</b><br></br>Thatcher+Co.<br></br><a href=\"mailto:lmc@thatcherandco.com\" rel=\"nofollow\">lmc@thatcherandco.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL95698&amp;sd=2026-11-12\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/local-media-widely-adopts-ai-but-major-revenue-and-audience-opportunities-remain-untapped-lmc-study-finds-302937253.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/local-media-widely-adopts-ai-but-major-revenue-and-audience-opportunities-remain-untapped-lmc-study-finds-302937253.html</a></p><p>SOURCE Local Media Consortium</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL95698&amp;Transmission_Id=202611120900PR_NEWS_USPR_____FL95698&amp;DateId=20261112\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Local Media Consortium",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-12T20:42:42.444Z"
+    },
+    {
+      "company": [
+        "Gracenote"
+      ],
+      "date": "20261112T140000+0000",
+      "dateline": "NEW YORK, Nov. 12, 2026",
+      "feed": [
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "MLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Gracenote, a Nielsen company",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS942053/Gracenote-A-Nielsen-Company-Logo-v2.jpg?id=OA3072991&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS942053/Gracenote-A-Nielsen-Company-Logo-v2.jpg?id=OA3072991&p=publish"
+        }
+      ],
+      "release_id": "20261112NY95450",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p><i>Gracenote's 2026 State of Play report signals a rising retention risk: More than half of all streaming viewers surveyed say they would be likely to cancel a service if they cannot find programming that interests them</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- Gracenote, Nielsen's content intelligence business, today released its fifth annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820450-1&amp;h=919624181&amp;u=https%3A%2F%2Fgracenote.com%2Finsights%2F2026-state-of-play%2F%3Futm_source%3Dpress%26utm_medium%3Dpress-release%26utm_campaign%3D2026-gn-state-of-play__%26utm_content%3D____11-12-2026&amp;a=State+of+Play+report\" target=\"_blank\" rel=\"nofollow\">State of Play report</a>. Its six-country study finds that 78% of streaming viewers ages 18 to 24 want a single program guide that consolidates everything available across the services they use, up from 58% in 2025.</p>\n    ",
+      "ticker": [],
+      "title": "78% of young adults want a single program guide across their streaming services, up from 58% last year",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261112NY95450",
+      "body": "\n<p><i>Gracenote's 2026 State of Play report signals a rising retention risk: More than half of all streaming viewers surveyed say they would be likely to cancel a service if they cannot find programming that interests them</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- Gracenote, Nielsen's content intelligence business, today released its fifth annual <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820450-1&amp;h=919624181&amp;u=https%3A%2F%2Fgracenote.com%2Finsights%2F2026-state-of-play%2F%3Futm_source%3Dpress%26utm_medium%3Dpress-release%26utm_campaign%3D2026-gn-state-of-play__%26utm_content%3D____11-12-2026&amp;a=State+of+Play+report\" target=\"_blank\" rel=\"nofollow\">State of Play report</a>. Its six-country study finds that 78% of streaming viewers ages 18 to 24 want a single program guide that consolidates everything available across the services they use, up from 58% in 2025.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS942053/Gracenote-A-Nielsen-Company-Logo-v2.jpg?id=OA3072991\" title=\"Gracenote, a Nielsen company\" alt=\"Gracenote, a Nielsen company\"></img>\n                </p>\n    </div>\n<p>Among all streaming viewers surveyed, 72% share that preference, up from 66% a year ago. More than one in four respondents (27.3%) say they often or always miss a specific show, movie or sports event because they cannot find it, compared with 24.7% a year ago. Separately, 19% say they often or always start their search without a particular program in mind, find nothing to watch and do something else instead.</p><p>For streaming services, the stakes extend to subscription decisions. More than half of respondents (51.6%) say they would be very or somewhat likely to cancel a service if they cannot find programming that interests them, compared with 48.5% last year. More broadly, 87.4% say user experience is very or somewhat important when deciding which services to keep, up from 84.2%.</p><p>\"Viewers want one place to look, even when there are many places to watch,\" said Ryan Moore, chief business officer at Gracenote. \"That starts with recognizing the same program across services and having accurate information about where to watch it. Gracenote provides that content intelligence, helping platforms guide viewers to the programming they want — even when it's on another service.\"</p><p><b>Additional findings include:</b></p><ul type=\"disc\"><li><b>Live sports draw subscription interest, but viewers struggle to find events.</b> Nearly two-thirds of respondents (65.5%) say they would be very or somewhat likely to subscribe to a service for its live sports offering. Separately, nearly 52% say they frequently do not know which channel or service carries a specific sports event.</li><li><b>Just one streaming subscription is increasingly the exception.</b> The share of respondents paying for only one service fell to 20.7% in 2026 from 24.5% in 2025, while more than half pay for three or more.</li><li><b>Subscription overload pushes viewers toward free streaming.</b> Nearly 35% of respondents say they spend more time watching free ad-supported streaming TV because they find the subscription landscape overwhelming.</li><li><b>Too much choice sends viewers back to familiar titles.</b> Nearly half of respondents (46.8%) say the volume of streaming content and services prompts them to rewatch shows and movies they have already seen instead of seeking something new.</li></ul><p>Download Gracenote's 2026 State of Play report, \"<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820450-1&amp;h=1278735417&amp;u=https%3A%2F%2Fgracenote.com%2Finsights%2F2026-state-of-play%2F%3Futm_source%3Dpress%26utm_medium%3Dpress-release%26utm_campaign%3D2026-gn-state-of-play__%26utm_content%3D____11-12-2026&amp;a=Amid+Fragmentation+Frustrations%2C+UX+Is+the+Future+of+Streaming\" target=\"_blank\" rel=\"nofollow\">Amid Fragmentation Frustrations, UX Is the Future of Streaming</a>.\"</p><p><b>Methodology</b></p><p>The consumer findings in this release are based on an online survey conducted Aug. 11-19, 2026, among 3,000 adults ages 18 and older who stream video through a connected device or smart TV, with 500 respondents each in Brazil, France, Germany, Mexico, the U.K. and the U.S. Overall figures reflect the combined six-country sample. Year-over-year comparisons reference the 2025 survey.</p><p><b>About Gracenote</b></p><p>Gracenote is the content intelligence business unit of Nielsen. We standardize the way the global media and entertainment ecosystem indexes content and associated metadata, allowing it to flow between creators, distributors, platforms and advertisers. By providing unmatched depth across 58M titles and 80K+ channels and catalogs, we power the modern search, discovery and navigation experiences that connect people to the TV, movies, music and sports they love — in 70+ languages across 80+ countries. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820450-1&amp;h=48613266&amp;u=https%3A%2F%2Fgracenote.com%2F%3Futm_source%3Dpress%26utm_medium%3Dpress-release%26utm_campaign%3D2026-gn-state-of-play__%26utm_content%3D____11-12-2026&amp;a=gracenote.com\" target=\"_blank\" rel=\"nofollow\">gracenote.com</a> and follow us on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820450-1&amp;h=271682616&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fgracenote%2F&amp;a=LinkedIn\" target=\"_blank\" rel=\"nofollow\">LinkedIn</a>.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY95450&amp;sd=2026-11-12\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/78-of-young-adults-want-a-single-program-guide-across-their-streaming-services-up-from-58-last-year-302937126.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/78-of-young-adults-want-a-single-program-guide-across-their-streaming-services-up-from-58-last-year-302937126.html</a></p><p>SOURCE Gracenote</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY95450&amp;Transmission_Id=202611120900PR_NEWS_USPR_____NY95450&amp;DateId=20261112\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Gracenote",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-12T20:42:42.590Z"
+    },
     {
       "company": [
         "Digital Information Resources, LLC"
@@ -1889,90 +2046,6 @@
         "excluded": false
       },
       "imported_at": "2026-10-02T18:35:29.066Z"
-    },
-    {
-      "company": [
-        "Inox Solar Americas LLC"
-      ],
-      "date": "20260928T161200+0000",
-      "dateline": "GREENVILLE, N.C., Sept. 28, 2026",
-      "feed": [
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "PRNUS_NO_ELD",
-        "APPLE_NEWS",
-        "PRNUS"
-      ],
-      "geography": [
-        "NCR",
-        "USE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ALT",
-        "EUT",
-        "GRE",
-        "ENV",
-        "MFG",
-        "OIL",
-        "UTI"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Inox Solar Americas ",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1981323/Inox-solar-americas-logo-clear.jpg?id=OA2974051&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1981323/Inox-solar-americas-logo-clear.jpg?id=OA2974051&p=publish"
-        }
-      ],
-      "release_id": "20260928SF58186",
-      "status": "PUBLISHED",
-      "subject": [
-        "TNM"
-      ],
-      "summary": "<p>Transition to Inox Solar Americas digital platforms will maintain continuity for Boviet Solar customers, technical support and warranty inquiries</p><p><span class=\"legendSpanClass\">GREENVILLE, N.C.</span>, <span class=\"legendSpanClass\">Sept. 28, 2026</span> /PRNewswire/ -- Inox Solar Americas LLC, a U.S.-based solar technology and manufacturing company specializing in the production of advanced PV cells and high-performance PV modules for the U.S. solar market, today announced that the Boviet Solar website, social media platforms, and other external brand touchpoints will begin a gradual transition to the Inox Solar Americas brand as part of the ongoing integration of Boviet Solar's U.S. business and operations into Inox Solar Americas.</p>\n    ",
-      "ticker": [],
-      "title": "INOX SOLAR AMERICAS ANNOUNCES GRADUAL TRANSITION OF BOVIET SOLAR WEBSITE AND SOCIAL MEDIA PLATFORMS",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20260928SF58186",
-      "body": "\n<p>Transition to Inox Solar Americas digital platforms will maintain continuity for Boviet Solar customers, technical support and warranty inquiries</p><p><span class=\"legendSpanClass\">GREENVILLE, N.C.</span>, <span class=\"legendSpanClass\">Sept. 28, 2026</span> /PRNewswire/ -- Inox Solar Americas LLC, a U.S.-based solar technology and manufacturing company specializing in the production of advanced PV cells and high-performance PV modules for the U.S. solar market, today announced that the Boviet Solar website, social media platforms, and other external brand touchpoints will begin a gradual transition to the Inox Solar Americas brand as part of the ongoing integration of Boviet Solar's U.S. business and operations into Inox Solar Americas.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1981323/Inox-solar-americas-logo-clear.jpg?id=OA2974051\" title=\"Inox Solar Americas \" alt=\"Inox Solar Americas \"></img>\n                </p>\n    </div>\n<p>Earlier this year, Inox Solar Americas acquired Boviet Solar's U.S. PV module manufacturing and PV cell manufacturing assets in Greenville, North Carolina, as well as its U.S. commercial operations. The acquisition established the foundation for Inox Solar Americas' growing U.S. solar manufacturing and commercial platform.</p><p><b>GRADUAL BRAND TRANSITION</b></p><p>The brand transition will be implemented in phases across website content, social media channels, company and product information, marketing communications, trade shows, industry events, customer-facing materials, and other external brand touchpoints, progressively transitioning from Boviet Solar to the Inox Solar Americas brand.</p><p>During the transition period, customers, partners, and other industry stakeholders may continue to see both the Boviet Solar and Inox Solar Americas names across certain websites, social media platforms, product materials, technical documentation, trade shows, industry events, and other communications.</p><p>The transition will be managed progressively to maintain continuity and access to important product, technical, and customer information while establishing Inox Solar Americas as the company's U.S. solar manufacturing and commercial brand.</p><p>The transition represents another important step in the integration of Boviet Solar's U.S. business into Inox Solar Americas and the continued development and expansion of the company's U.S. solar manufacturing platform.</p><p>Additional updates regarding the Boviet Solar brand transition and related platforms, materials, and communications will be provided as the integration progresses.</p><p><b>CONTINUED SUPPORT FOR BOVIET SOLAR CUSTOMERS</b></p><p>Existing Boviet Solar customers and partners requiring customer service, PV module technical support, warranty assistance, product information or other product-related support can continue to submit inquiries through <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4784235-1&amp;h=271677897&amp;u=https%3A%2F%2Finoxsolar.us%2Fcompany%2Fcontact-us&amp;a=inoxsolar.us%2Fcompany%2Fcontact-us.\" target=\"_blank\" rel=\"nofollow\">inoxsolar.us/company/contact-us.</a> Inquiries submitted through the website will be directed to Boviet Solar's Global team for review and follow-up.</p><p><b>INOX SOLAR AMERICAS</b></p><p>Inox Solar Americas, founded in 2026 in the United States, is a leading solar technology and manufacturing company specializing in advanced monocrystalline PV cells and high-performance Gamma Series™ monofacial and Vega Series™ bifacial PV modules. Inox Solar Americas' photovoltaic solutions are engineered to meet the needs of residential, commercial, industrial, community solar, and utility-scale applications, delivering exceptional efficiency, reliability, and long-term value.</p><p>Inox Solar Americas acquired Boviet Solar's U.S. PV manufacturing assets in Greenville, North Carolina, USA, including 3.0 GW of annual PV module manufacturing capacity and 3.0 GW of planned annual PV cell manufacturing capacity, expected to come online in 2027. Through localized manufacturing, resilient supply chains, operational excellence, and efficient logistics, Inox Solar Americas is helping strengthen the U.S. solar supply chain and meet growing domestic demand.</p><p>Inox Solar Americas is part of the broader renewable energy platform of Inox Clean Energy and the INOXGFL Group, headquartered in India. Backed by the group's financial strength, business stability, manufacturing capabilities, technological innovation, and industry expertise, Inox Solar Americas is committed to delivering high-quality, reliable, and sustainable solar solutions to customers across the U.S. solar energy market.</p><p>For more information, visit: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4784235-1&amp;h=975825965&amp;u=https%3A%2F%2Finoxsolar.us%2F&amp;a=inoxsolar.us\" target=\"_blank\" rel=\"nofollow\">inoxsolar.us</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4784235-1&amp;h=1266288556&amp;u=https%3A%2F%2Finoxclean.com%2F&amp;a=inoxclean.com\" target=\"_blank\" rel=\"nofollow\">inoxclean.com</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4784235-1&amp;h=342207845&amp;u=https%3A%2F%2Fwww.inoxgfl.com%2F&amp;a=inoxgfl.com\" target=\"_blank\" rel=\"nofollow\">inoxgfl.com</a>.</p><p><b>MEDIA INQUIRIES:</b><br></br>Songül Atacan<br></br>Head of Global Brand and Marketing<br></br>Inox Solar Americas | Boviet Solar USA<br></br><a href=\"mailto:songul.atacan@inoxsolar.us\" target=\"_blank\" rel=\"nofollow\">songul.atacan@inoxsolar.us</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=SF58186&amp;sd=2026-09-28\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/inox-solar-americas-announces-gradual-transition-of-boviet-solar-website-and-social-media-platforms-302891697.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/inox-solar-americas-announces-gradual-transition-of-boviet-solar-website-and-social-media-platforms-302891697.html</a></p><p>SOURCE Inox Solar Americas LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=SF58186&amp;Transmission_Id=202609281212PR_NEWS_USPR_____SF58186&amp;DateId=20260928\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Inox Solar Americas LLC",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "digital"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "digital"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 7,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "digital": [
-            "social media platform",
-            "social media"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-09-28T22:03:25.564Z"
     }
   ]
 }

@@ -1,11 +1,189 @@
 {
-  "generated_at": "2026-11-12T12:45:48.504Z",
+  "generated_at": "2026-11-12T20:42:35.099Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 23,
+  "count": 25,
   "releases": [
+    {
+      "company": [
+        "Cineverse Corp."
+      ],
+      "date": "20261112T140000+0000",
+      "dateline": "LOS ANGELES, Nov. 12, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "TLS",
+        "ENT",
+        "MLM",
+        "CPR",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Courtesy of Cineverse",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1040385/Cineverse-2025-Logo-v1.jpg?id=OA3074154&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1040385/Cineverse-2025-Logo-v1.jpg?id=OA3074154&p=publish"
+        }
+      ],
+      "release_id": "20261112LA96048",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC"
+      ],
+      "summary": "<p class=\"prntac\"><i>Since Being Acquired Earlier this Year, IndiCue is Driving Millions in Additional Revenue for Cineverse</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=3651495843&amp;u=https%3A%2F%2Fwww.indicue.com%2F&amp;a=IndiCue\" target=\"_blank\" rel=\"nofollow\"><b>IndiCue</b></a>, less than nine months after being acquired by entertainment technology company and studio <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=3300248590&amp;u=https%3A%2F%2Fwww.cineverse.com%2F&amp;a=Cineverse\" target=\"_blank\" rel=\"nofollow\"><b>Cineverse</b></a> (Nasdaq: CNVS), is generating strong revenue and signing new customers. This includes today's announcement that IndiCue and performance advertising agency <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=2999731564&amp;u=https%3A%2F%2Fwww.cannellamedia.com%2F&amp;a=Cannella+Media+DTC\" target=\"_blank\" rel=\"nofollow\"><b>Cannella Media DTC</b></a> are working together to bring a performance-driven approach and direct buying path into streaming inventory. </p>\n    ",
+      "ticker": [
+        "NASDAQ-NMS:CNVS",
+        "NASDAQ:CNVS"
+      ],
+      "title": "IndiCue Brings its DSP to Cannella Media, Powering its Performance+ CPA-Based CTV Business and Direct Programming Media Buying",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261112LA96048",
+      "body": "\n<p class=\"prntac\"><i>Since Being Acquired Earlier this Year, IndiCue is Driving Millions in Additional Revenue for Cineverse</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=3651495843&amp;u=https%3A%2F%2Fwww.indicue.com%2F&amp;a=IndiCue\" target=\"_blank\" rel=\"nofollow\"><b>IndiCue</b></a>, less than nine months after being acquired by entertainment technology company and studio <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=3300248590&amp;u=https%3A%2F%2Fwww.cineverse.com%2F&amp;a=Cineverse\" target=\"_blank\" rel=\"nofollow\"><b>Cineverse</b></a> (Nasdaq: CNVS), is generating strong revenue and signing new customers. This includes today's announcement that IndiCue and performance advertising agency <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=2999731564&amp;u=https%3A%2F%2Fwww.cannellamedia.com%2F&amp;a=Cannella+Media+DTC\" target=\"_blank\" rel=\"nofollow\"><b>Cannella Media DTC</b></a> are working together to bring a performance-driven approach and direct buying path into streaming inventory. </p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1040385/Cineverse-2025-Logo-v1.jpg?id=OA3074154\" title=\"Courtesy of Cineverse\" alt=\"Courtesy of Cineverse\"></img>\n                </p>\n    </div>\n<p>Through this partnership, IndiCue will provide Cannella Media with a demand-side platform (DSP) to power Performance+, Cannella's pay-for-performance DTC CTV business and facilitate direct, programmatic media buying.</p><p>Cannella helps brands grow through accountable advertising across television, streaming, digital, and audio. Drawing on more than $8 billion in proprietary media marketplace data, Cannella provides media buying, analytics, creative, and campaign execution for advertisers and agencies. Its Performance+ business offers true cost per acquisition (CPA) campaigns, while its broader agency capabilities support clients across multiple media buying models.</p><p>IndiCue's offerings span ad serving, SSP, DSP, and server-side ad insertion capabilities. Together, IndiCue and Cannella will:</p><ul type=\"disc\"><li>Support Cannella's Performance+ CPA campaigns and broader agency media buying through an integrated technology stack connecting advertisers with streaming inventory.<br></br><br></br></li><li>Offer a highly customizable platform that lets streaming partners respond dynamically to performance signals and improve ad yield across the fragmented CTV landscape.<br></br><br></br></li><li>Draw on IndiCue's integration with Cineverse's Matchpoint platform to support end-to-end ad monetization across advertisers, agencies, and publishers.</li></ul><p>This partnership builds upon IndiCue's momentum as a customizable CTV monetization platform. In the first quarter of fiscal 2027 (i.e., April through June 2026), IndiCue, as the Company's advertising technology and services revenue stream, accounted for more than half of Cineverse's total revenue, averaging more than $5 million per month.</p><p>\"Performance advertisers want CTV that works like digital: measurable, accountable, and built to scale,\" said Cineverse Executive Vice President, Product &amp; Monetization, John Marchesini. \"IndiCue already powers both sides of the supply chain for Cineverse and other publishers. With Cannella Media DTC bringing agency demand, we're offering direct to consumer brands a direct path to the audiences they're trying to acquire.\"</p><p>\"Cannella has always focused on making media investments accountable, including true CPA advertising where clients pay only for results,\" said Rob Medved, CEO of Cannella Media DTC. \"Our partnership with IndiCue expands our CTV capabilities, giving us greater access, flexibility, and control to deliver measurable performance. It also creates opportunities to strengthen relationships with existing clients, attract new advertisers, and grow our broader agency business.\"</p><p>Founded in 2023, IndiCue has rapidly scaled to more than 45 live clients, with additional publishers currently being onboarded. IndiCue's customer base includes major media companies such as IMAX, Freecast, Loop Media, KTSF, and Dial Up Media, as well as many independent FAST and AVOD platforms and other streaming content distributors.</p><p><b>About Cannella Media DTC</b> </p><p>Cannella Media DTC is a performance-driven advertising agency helping brands grow through accountable media investments across linear, CTV, digital, and audio. Backed by more than $8 billion in proprietary media marketplace data and advanced attribution technology, Cannella combines strategic media buying, creative, analytics, and campaign execution to deliver measurable results.</p><p>Its Performance+ business offers true CPA advertising, where clients pay for results, alongside a full suite of agency services supporting a range of media strategies and buying models.</p><p>Cannella also develops and operates targeted FAST channels, including lifestyle networks RVTV (Recreational Vehicle Television), and Wine Watches &amp; Whiskey, connecting brands with engaged audiences through curated, passion-based content.</p><p><b>About IndiCue</b></p><p><b>IndiCue </b>is a next-generation CTV monetization and engagement platform, built for media owners, publishers, and streaming platforms that want full control over their Connected TV advertising. IndiCue combines independent ad serving, advanced monetization, and smart server-side ad insertion (SSAI) into a single, unified solution. Its modular stack – CTV Ad Server, SSP, and DSP – enables deep customization and operational independence. Its mission is to provide publishers with the tools, control, and transparency they need to own their CTV revenue streams end-to-end. By aligning technology, data, and monetization around the publisher, IndiCue helps streaming businesses build sustainable, high-performing CTV strategies for the long term. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=3680515563&amp;u=http%3A%2F%2Fwww.indicue.com%2F&amp;a=www.indicue.com\" target=\"_blank\" rel=\"nofollow\">www.indicue.com</a>.</p><p><b>About Cineverse </b></p><p><b>Cineverse </b>(Nasdaq: CNVS) is an entertainment technology company and studio. Fiercely innovative and independent, Cineverse develops and invests in technology and content that drives the future of the industry.  Core to its business is <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=141766325&amp;u=https%3A%2F%2Fwww.matchpoint.tv%2F&amp;a=Matchpoint%C2%AE\" target=\"_blank\" rel=\"nofollow\"><b>Matchpoint®</b></a> – a growing tech ecosystem designed to prepare, distribute, monetize, and continuously improve content across any platform. Matchpoint helps studios large and small operate at scale and improve performance and efficiency in an increasingly fragmented distribution environment. Additionally, Cineverse distributes a vast library of premium films, series, and podcasts, across theatrical, home entertainment, and streaming; operates dozens of digital properties that super serve passionate fandoms around the world; and works with leading brands to connect them with audiences they value. From award-winning technology to the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=3976673583&amp;u=https%3A%2F%2Fwww.boxofficemojo.com%2Frelease%2Frl2221441025%2F&amp;a=highest-grossing+unrated+film+in+U.S.+history\" target=\"_blank\" rel=\"nofollow\">highest-grossing unrated film in U.S. history</a>, Cineverse has created a playbook that marries tech and content to redefine the next era of entertainment. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820942-1&amp;h=389980784&amp;u=https%3A%2F%2Fcineverse.com%2F&amp;a=cineverse.com\" target=\"_blank\" rel=\"nofollow\">cineverse.com</a>.</p><p><b>Investor Contact:<br></br></b><a href=\"mailto:investorrelations@cineverse.com\" target=\"_blank\" rel=\"nofollow\">investorrelations@cineverse.com</a></p><p><b>Media Contact:<br></br></b><a href=\"mailto:cineverse@lippingroup.com\" target=\"_blank\" rel=\"nofollow\">cineverse@lippingroup.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA96048&amp;sd=2026-11-12\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/indicue-brings-its-dsp-to-cannella-media-powering-its-performance-cpa-based-ctv-business-and-direct-programming-media-buying-302937818.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/indicue-brings-its-dsp-to-cannella-media-powering-its-performance-cpa-based-ctv-business-and-direct-programming-media-buying-302937818.html</a></p><p>SOURCE Cineverse Corp.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA96048&amp;Transmission_Id=202611120900PR_NEWS_USPR_____LA96048&amp;DateId=20261112\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Cineverse Corp.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 10,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 3,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising agency",
+            "media buying",
+            "summary:advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "summary:entertainment",
+            "industry:ENT"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-12T20:42:42.737Z"
+    },
+    {
+      "company": [
+        "Interactive Advertising Bureau (IAB)"
+      ],
+      "date": "20261112T133000+0000",
+      "dateline": "NEW YORK, Nov. 12, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MLM",
+        "CPR",
+        "AFI",
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS906902/IAB-Logov1.jpg?id=OA3073462&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS906902/IAB-Logov1.jpg?id=OA3073462&p=publish"
+        }
+      ],
+      "release_id": "20261112NY95692",
+      "status": "PUBLISHED",
+      "subject": [
+        "SVY"
+      ],
+      "summary": "<p class=\"prntac\"><i>New Framework Classifies How AI Shapes and Completes Conversions, Defines Who Is Eligible to Make a Claim and What Evidence Is Required, and Calls on the Ecosystem to Help Narrow the Measurement Gap</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820615-1&amp;h=139416725&amp;u=http%3A%2F%2Fiab.com%2F&amp;a=Interactive+Advertising+Bureau+(IAB)\" target=\"_blank\" rel=\"nofollow\">Interactive Advertising Bureau (IAB)</a>, the leading trade organization for the digital advertising industry, today released the AI-Era Attribution Blueprint, a new framework that gives the industry a shared way to classify AI's role in a conversion and evaluate which parties can claim credit for it. The release comes as ad buyers name comparing AI-driven and traditional customer journeys as their top measurement challenge (45%), and 44% rely on branded search and direct traffic as proxies for AI influence they can't track, according to <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820615-1&amp;h=545217379&amp;u=https%3A%2F%2Fwww.iab.com%2Finsights%2F2026-outlook-study-september-update%2F&amp;a=IAB%27s+2026+Outlook+Study%3A+September+Update\" target=\"_blank\" rel=\"nofollow\">IAB's 2026 Outlook Study: September Update</a>.</p>\n    ",
+      "ticker": [],
+      "title": "IAB Releases AI-Era Attribution Blueprint, Giving the Industry a Shared Way to Account for AI's Role in Purchases",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261112NY95692",
+      "body": "\n<p class=\"prntac\"><i>New Framework Classifies How AI Shapes and Completes Conversions, Defines Who Is Eligible to Make a Claim and What Evidence Is Required, and Calls on the Ecosystem to Help Narrow the Measurement Gap</i></p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820615-1&amp;h=139416725&amp;u=http%3A%2F%2Fiab.com%2F&amp;a=Interactive+Advertising+Bureau+(IAB)\" target=\"_blank\" rel=\"nofollow\">Interactive Advertising Bureau (IAB)</a>, the leading trade organization for the digital advertising industry, today released the AI-Era Attribution Blueprint, a new framework that gives the industry a shared way to classify AI's role in a conversion and evaluate which parties can claim credit for it. The release comes as ad buyers name comparing AI-driven and traditional customer journeys as their top measurement challenge (45%), and 44% rely on branded search and direct traffic as proxies for AI influence they can't track, according to <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820615-1&amp;h=545217379&amp;u=https%3A%2F%2Fwww.iab.com%2Finsights%2F2026-outlook-study-september-update%2F&amp;a=IAB%27s+2026+Outlook+Study%3A+September+Update\" target=\"_blank\" rel=\"nofollow\">IAB's 2026 Outlook Study: September Update</a>.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS906902/IAB-Logov1.jpg?id=OA3073462\" title=\"\" alt=\"\"></img>\n                </p>\n    </div>\n<p>\"As AI takes on more of the purchase journey, from sparking interest to completing the sale, the clicks and referrals that attribution depends on are thinning out or disappearing,\" said Caroline Giegerich, VP, AI, IAB. \"AI-influenced sales are sometimes reported as search or direct traffic, which can send the next marketing investment to the wrong channel. The AI-Era Attribution Blueprint works alongside existing attribution systems, defining the additional credit claims AI creates and the evidence each one requires.\"</p><p>The AI-Era Attribution Blueprint asks who or what created the intent, made the decision and completed the purchase, then classifies each conversion as Human-Owned, AI-Assisted or AI-Executed. That pathway determines which parties are eligible for a decision claim or a contributory claim, if any, and what evidence each claim requires. A claim is not credit; it is the right to be evaluated for credit.</p><p><b>A Call to Action for the Industry</b></p><p>Much of the evidence needed to support those claims is either not captured or sits inside AI platforms. The AI-Era Attribution Blueprint calls on each part of the ecosystem to help narrow that gap:</p><ul type=\"disc\"><li>Brands can estimate the share of their conversions in each pathway.</li><li>AI platforms can disclose whether recommendations are paid or organic and what sources informed them, and can label AI-originated traffic consistently.</li><li>Agencies can apply a single  claim-and-evidence standard across platforms, separating platform-reported claims from independently verified ones.</li><li>Publishers can identify the contributory claims their content creates and the evidence needed to support them.</li></ul><p>\"Attribution has never given us a complete view of how influence becomes an outcome, and AI adds new dimensions to the challenge,\" said David Cohen, CEO, IAB. \"The AI-Era Attribution Blueprint is honest about what the industry can't yet substantiate, and we're inviting everyone in the ecosystem to apply it and help make AI's role in commerce more observable, verifiable, and measurable.\"<br></br><br></br>As an industry convener, IAB will bring brands, agencies, AI platforms, retailers, and publishers together to share what they're learning as more data becomes available, and to keep moving the industry forward in narrowing these measurement gaps.</p><p>The AI-Era Attribution Blueprint was developed by the IAB AI-Era Attribution Blueprint Working Group, a cross-industry team of brand, agency, publisher, AI platform, and measurement leaders. It builds on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820615-1&amp;h=98422104&amp;u=https%3A%2F%2Fwww.iab.com%2Fguidelines%2Fmeasuring-visibility-in-the-ai-era%2F&amp;a=IAB%27s+Measuring+Visibility+in+the+AI+Era+playbook\" target=\"_blank\" rel=\"nofollow\">IAB's Measuring Visibility in the AI Era playbook</a> by extending that work from how brands show up in AI platforms to how that presence connects to sales.</p><p><span>To access the AI-Era Attribution Blueprint, visit </span><span><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4820615-1&amp;h=419293056&amp;u=https%3A%2F%2Flinkprotect.cudasvc.com%2Furl%3Fa%3Dhttps%253a%252f%252fwww.iab.com%252fguidelines%252fthe-ai-era-attribution-blueprint%252f%26c%3DE%2C1%2C1LoPp6gXhzU-ALisfZkNMFXlUCFQ1cmP7iRX6jZx9U9D4OAsnrTMNrC-ahFlry4c1dxC4gYQM_aJQFViT3NWU_Wq5cItefZC-yrzwqpa4c9Hs9642A3FC7w%2C%26typo%3D1&amp;a=https%3A%2F%2Fwww.iab.com%2Fguidelines%2Fthe-ai-era-attribution-blueprint%2F\" target=\"_blank\" rel=\"nofollow\"><span>https://www.iab.com/guidelines/the-ai-era-attribution-blueprint/</span></a></span><span> </span></p><p><b>About IAB<br></br></b>The Interactive Advertising Bureau (IAB) empowers the media and marketing industries to thrive in the digital economy. Its membership comprises more than 700 leading media companies, brands, agencies, and the technology firms responsible for selling, delivering, and optimizing digital ad marketing campaigns. The trade group fields critical research on interactive advertising, while also educating brands, agencies, and the wider business community on the importance of digital marketing. In affiliation with the IAB Tech Lab, IAB develops technical standards and solutions. IAB is committed to professional development and elevating the knowledge, skills, expertise, and collaboration of the workforce across the industry. Through the work of its public policy office in Washington, D.C., the trade association advocates for its members and promotes the value of the interactive advertising industry to legislators and policymakers. Founded in 1996, IAB is headquartered in New York City.</p><p><b>Media Contact <br></br></b>Kate Tumino Dougherty<br></br>551-265-2825<br></br><a href=\"mailto:iab@kcsa.com\" target=\"_blank\" rel=\"nofollow\">iab@kcsa.com</a> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY95692&amp;sd=2026-11-12\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/iab-releases-ai-era-attribution-blueprint-giving-the-industry-a-shared-way-to-account-for-ais-role-in-purchases-302936939.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/iab-releases-ai-era-attribution-blueprint-giving-the-industry-a-shared-way-to-account-for-ais-role-in-purchases-302936939.html</a></p><p>SOURCE Interactive Advertising Bureau (IAB)</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY95692&amp;Transmission_Id=202611120830PR_NEWS_USPR_____NY95692&amp;DateId=20261112\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Interactive Advertising Bureau (IAB)",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 8,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertising industry",
+            "summary:digital advertising",
+            "advertising",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-12T20:42:43.037Z"
+    },
     {
       "company": [
         "bluemedia"
