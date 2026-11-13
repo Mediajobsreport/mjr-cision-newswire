@@ -1,9 +1,98 @@
 {
-  "generated_at": "2026-11-12T20:42:35.099Z",
+  "generated_at": "2026-11-13T01:29:51.622Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 669,
+  "count": 670,
   "releases": [
+    {
+      "company": [
+        "BPC Music Group"
+      ],
+      "date": "20261112T212300+0000",
+      "dateline": "HOUSTON, Nov. 12, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "TXS",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "B2K Eclipse",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2029298/B2K-Eclipse.jpg?id=OA3076254&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2029298/B2K-Eclipse.jpg?id=OA3076254&p=publish"
+        },
+        {
+          "caption": "BPC Music Group",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1127075/BPC-MUSIC-GROUP-Logo.jpg?id=OA3076251&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1127075/BPC-MUSIC-GROUP-Logo.jpg?id=OA3076251&p=publish"
+        }
+      ],
+      "release_id": "20261112CL96897",
+      "status": "PUBLISHED",
+      "subject": [
+        "BLK",
+        "DEI"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>The Boys 4 Life Tour Paired Arena Tickets with B2K's First Studio Album in Nearly 24 Years, Which Hit No</i></b><b><i>. 1 on Apple Music Upon Release</i></b></p><p class=\"prntac\"><b><i>B2K's First Studio Album Lands Playlist Covers on </i></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4821793-1&amp;h=1975106611&amp;u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DRDCLAK5uy_mj4hCBtv24qsXcCcVZjBq-6LO7DkJVqPE&amp;a=YouTube+Music\" target=\"_blank\" rel=\"nofollow\"><b><i>YouTube Music</i></b></a><b><i> and </i></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4821793-1&amp;h=746520702&amp;u=https%3A%2F%2Faudiomack.com%2Faudiomack-rnb%2Fplaylist%2Fverified-rnb&amp;a=Audiomack\" target=\"_blank\" rel=\"nofollow\"><b><i>Audiomack</i></b></a></p><p><span class=\"legendSpanClass\">HOUSTON</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- <b>BPC Music Group</b> bet its inaugural album release on <b>B2K</b>, the platinum-selling R&amp;B quartet that hadn't released a studio album in nearly 24 years. Working with <b>Black Promoters Collective</b>, the label paired B2K's new album, <b><i>ECLIPSE</i></b>, with tickets to the nationwide <b>Boys 4 Life Tour</b>, selling <b>138,000 ticket-and-album bundles</b>. That momentum carried into release week. <i>ECLIPSE</i> reached <b>No. 1 on Apple Music</b> upon its November 6 release, and B2K landed playlist covers on <b>YouTube Music</b> and <b>Audiomack</b>, an exclusive <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4821793-1&amp;h=405214448&amp;u=https%3A%2F%2Frollingout.com%2F2026%2F11%2F07%2Fb2k-opens-healing-lessons-and-eclipse%2F&amp;a=Rolling+Out\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" aria-invalid=\"true\"><b>Rolling Out</b></a> cover and a slate of new-music placements.</p>\n    ",
+      "ticker": [],
+      "title": "B2K'S ECLIPSE SURPASSES 100,000 TICKET-AND-ALBUM BUNDLE SALES AHEAD OF RELEASE",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261112CL96897",
+      "body": "\n<p class=\"prntac\"><b><i>The Boys 4 Life Tour Paired Arena Tickets with B2K's First Studio Album in Nearly 24 Years, Which Hit No</i></b><b><i>. 1 on Apple Music Upon Release</i></b></p><p class=\"prntac\"><b><i>B2K's First Studio Album Lands Playlist Covers on </i></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4821793-1&amp;h=1975106611&amp;u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DRDCLAK5uy_mj4hCBtv24qsXcCcVZjBq-6LO7DkJVqPE&amp;a=YouTube+Music\" target=\"_blank\" rel=\"nofollow\"><b><i>YouTube Music</i></b></a><b><i> and </i></b><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4821793-1&amp;h=746520702&amp;u=https%3A%2F%2Faudiomack.com%2Faudiomack-rnb%2Fplaylist%2Fverified-rnb&amp;a=Audiomack\" target=\"_blank\" rel=\"nofollow\"><b><i>Audiomack</i></b></a></p><p><span class=\"legendSpanClass\">HOUSTON</span>, <span class=\"legendSpanClass\">Nov. 12, 2026</span> /PRNewswire/ -- <b>BPC Music Group</b> bet its inaugural album release on <b>B2K</b>, the platinum-selling R&amp;B quartet that hadn't released a studio album in nearly 24 years. Working with <b>Black Promoters Collective</b>, the label paired B2K's new album, <b><i>ECLIPSE</i></b>, with tickets to the nationwide <b>Boys 4 Life Tour</b>, selling <b>138,000 ticket-and-album bundles</b>. That momentum carried into release week. <i>ECLIPSE</i> reached <b>No. 1 on Apple Music</b> upon its November 6 release, and B2K landed playlist covers on <b>YouTube Music</b> and <b>Audiomack</b>, an exclusive <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4821793-1&amp;h=405214448&amp;u=https%3A%2F%2Frollingout.com%2F2026%2F11%2F07%2Fb2k-opens-healing-lessons-and-eclipse%2F&amp;a=Rolling+Out\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" aria-invalid=\"true\"><b>Rolling Out</b></a> cover and a slate of new-music placements.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2029298/B2K-Eclipse.jpg?id=OA3076254\" title=\"B2K Eclipse\" alt=\"B2K Eclipse\"></img>\n                </p>\n    </div>\n<p><b>Stream or purchase</b> <b><i>ECLIPSE</i></b> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4821793-1&amp;h=2929153542&amp;u=https%3A%2F%2Fvyd.co%2FEclipseclean&amp;a=%5BALBUM+SMART+LINK%5D\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"><b>[ALBUM SMART LINK]</b></a></p><p><b>B2K and BPC Music Group</b> call the approach <b>\"newstalgia.\"</b> The tour brought <b>Omarion, J-Boog, Lil' Fizz and Raz-B</b> back together in front of fans who grew up with their music. By including <b><i>ECLIPSE</i></b> with tour tickets, B2K gave those fans a way to discover the new album through the same live experience that brought them back to the group's biggest hits. The collaboration carried into the studio, with tour co-headliner <b>Bow Wow</b> joining B2K on \"Boyfriend.\"</p><p>For <b>BPC Music Group</b> founders <b>Gary Guidry and Troy Brown</b>, both partners in Black Promoters Collective, the campaign put an established sales tactic to work in the streaming era. The two companies used the arena tour as a direct channel for selling new music, reaching fans at the moment they bought their tickets. The <b>138,000 bundles</b> measure the reach of that offer and give the label another way to gauge the success of a release alongside chart performance, playlist support and media coverage.</p><p>\"We chose B2K for our first album release because we believed the connection they built with their fans could carry new music nearly 24 years later. The Boys 4 Life Tour gave us a way to make that music part of an experience fans were already excited about. That's what we mean by newstalgia. We want to broaden what a successful release looks like in the streaming era, and for B2K that starts with the fans who showed up,\" said <b>Troy Brown, Co-Founder, BPC Music Group</b>.</p><p>During release week, <i>ECLIPSE</i> and its tracks were available across <b>more than 32 digital music services</b>, including <b>Apple Music, Spotify, Amazon Music, YouTube Music, Pandora, Qobuz and Beatport</b>. B2K appeared on the covers of <b>YouTube Music's</b> <b><i>Grown Folks Choice</i></b> and <b>Audiomack's </b><b><i>Verified: R&amp;B</i></b>. The album appeared in <b>Rated R&amp;B's \"9 Essential New R&amp;B Releases,\" Billboard's \"Friday Music Guide\"</b> and more. <b>Rolling Out</b> marked the group's return with its exclusive <b>B2K Cover Experience</b>.</p><p><b>WHAT THE PRESS IS SAYING ABOUT B2K'S</b> <b><i>ECLIPSE</i></b></p><p class=\"prnml40\">\"With their album 'Eclipse' and single 'Mileage,' the group is embracing its signature sound while bringing a more mature perspective to the genre they helped define.\"<br></br>— <b>EBONY</b></p><p class=\"prnml40\">\"B2K's reunion means more than releasing new music … the bandmates bring their individual experiences and personal growth to their new music, inviting their longtime fans along for the ride.\"<br></br>— <b>theGrio</b></p><p class=\"prnml40\">\"A smooth collection of songs that drifts between slow-burn intimacy and slinky grooves, with romance at its core.\"<br></br>— <b>Rated R&amp;B</b></p><p class=\"prnml40\">\"ECLIPSE aims to seamlessly blend the group's signature vocal harmonies and brotherhood with a contemporary R&amp;B edge.\"<br></br>— <b>YouKnowIGotSoul</b></p><p class=\"prnml40\">\"B2K is making a comeback!\"<br></br>— <b>HotNewHipHop</b></p><p>Lead single <b>\"Mileage\"</b> reached <b>No. 1 on Apple Music's R&amp;B Songs and R&amp;B Videos charts</b> and climbed to <b>No. 23 on Billboard's Mainstream R&amp;B/Hip-Hop Airplay chart</b>. B2K followed with <b>\"Lil Freak\"</b> and released <b>\"Co-Sign,\"</b> written and produced by <b>The Underdogs</b>, alongside the album. Ahead of release, B2K performed a medley of new music and signature hits on <b>NBC's</b> <b><i>TODAY</i></b> on November 4.</p><p><b>About BPC Music Group</b></p><p>Founded by Black Promoters Collective partners Gary Guidry and Troy Brown, BPC Music Group is an independent record label that brings live entertainment and recorded music together. B2K's <i>ECLIPSE</i> is the label's inaugural album release.</p><p><b>Media Contact</b><br></br>Tresa Sanders | TreMedia<br></br><a href=\"mailto:tresa@tre-media.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">tresa@tre-media.net</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1127075/BPC-MUSIC-GROUP-Logo.jpg?id=OA3076251\" title=\"BPC Music Group\" alt=\"BPC Music Group\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL96897&amp;sd=2026-11-12\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/b2ks-eclipse-surpasses-100-000-ticket-and-album-bundle-sales-ahead-of-release-302938423.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/b2ks-eclipse-surpasses-100-000-ticket-and-album-bundle-sales-ahead-of-release-302938423.html</a></p><p>SOURCE BPC Music Group</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL96897&amp;Transmission_Id=202611121623PR_NEWS_USPR_____CL96897&amp;DateId=20261112\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "BPC Music Group",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prnml40{\nMARGIN-LEFT:3.33em !IMPORTANT\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 8,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "album",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-13T01:29:52.918Z"
+    },
     {
       "company": [
         "National Institute on Retirement Security"
