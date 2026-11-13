@@ -1,367 +1,205 @@
 {
-  "updated": "2026-11-13T16:37:51.540Z",
-  "source": "GDELT",
+  "updated": "2026-11-13T22:19:38.484Z",
+  "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
     {
-      "title": "Trump Pushes for Nvidia to Hire Former Apple Chief Tim Cook to Replace Jensen Huang",
-      "url": "https://www.breitbart.com/politics/2026/11/12/trump-pushes-for-nvidia-to-hire-former-apple-chief-tim-cook-to-replace-jensen-huang/",
-      "domain": "breitbart.com",
-      "seendate": "20261113T004500Z"
+      "title": "A dozen taken to hospital after tanker collides with cruise ship on Mississippi River",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOblFENF9fYW4zU0tVWVZabUIxUXhLNTVzVEFGYml3d1k5QVdreDE1SndOazB6THRKamlfdi03MmRKVFZsc09ZU1cyU3IybkRhM1J1aEo1TTBBQVc0RTBwYmFVYUozMnNTY0tQcHZNWHJYWHdHd1UzMUdPaVFoVGlmalYwdmM?oc=5",
+      "domain": "wdsu.com",
+      "seendate": "20261113220500"
     },
     {
-      "title": "Breitbart Business Digest : It a Huang - derful Life",
-      "url": "https://www.breitbart.com/economy/2026/11/12/breibart-busiess-digest-its-a-huang-derful-life/",
-      "domain": "breitbart.com",
-      "seendate": "20261113T004500Z"
+      "title": "Bessent blames Lutnick's department for Nvidia chip sales to Megaspeed",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVk1tMWk0N1FhdDBYZEFVWlJOYzhoM0ppOVFaYjN1czdmdmNidVplRTYxVHdLNktGVmJ1VG9yYVA3N2dvSWFKVFlwT3l4RWtCWm5UQ2NmSUtFcFU?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261113195357"
     },
     {
-      "title": "14 Charged in Horrific Texas Railcar Human Smuggling Scheme that Killed 7 Illegal Aliens , Including 14 - Year - Old",
-      "url": "https://www.breitbart.com/border/2026/11/12/14-charged-in-horrific-texas-railcar-human-smuggling-scheme-that-killed-7-illegal-aliens-including-14-year-old/",
-      "domain": "breitbart.com",
-      "seendate": "20261113T004500Z"
+      "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1oydGg0dGktdzQ5Q0QxX1VQRVZJQUdkZUdwNnRHTGxxZWpjeWJGNlM4cV9CVkxjbko3NXlKcm9qeVBra2lON3k2Y1p5X28tNXo4aGdZUDFUaUoxT0tZcFNnNUNtRnFINTJwVzhDb0lNeWdiRTdBZjRYVVpCc3QzemtWWVBPVG1pQlE?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261113200900"
     },
     {
-      "title": "29 Hygiene Tips You Shouldve Learned As A Kid",
-      "url": "https://www.buzzfeed.com/jeremyhayes/hygiene-tips-not-everyone-learns",
-      "domain": "buzzfeed.com",
-      "seendate": "20261113T004500Z"
+      "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNckRfNzZZdUhzQ1c0WkhoOHlUcGRqVWduNHo4NXNoeDBKQjRTNnVKMEpaU1NROWx2X01COVc3eS1ETEdpVUtKbVJGX0VBVERjVUZSN2VYLURlODNlbEVnWDdRRGI3THpHYmxaTURjRkJ5UFBTR3JzcDZIOUp4Vml1ejNDb2hRaXh3ZGI0OURmOUxXOUZpd3lRdzlaOThnVDlCUlZWNmRB?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261113124200"
     },
     {
-      "title": "3 Best Exercises for Building Muscle and Supporting Longevity",
-      "url": "https://www.aol.com/articles/3-best-exercises-building-muscle-160000000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "Scott Colom: the Democrat who conquered the reddest of red states",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdhQXV4elFzWU5fUmF5TlFGMFpoeUt0emJ4dmZadVdHZ3Rrb3ZsdmZ2cjFLbzFtbmlaQW44ZGlrWjZ3X0VtZm10Z3lRY29nMk9LVUxJaUJTVzRBeHZWM0F4ZWZQZnRIMklIMGtpcUhYRUNNWFVvamZtX04wQUVhclpFcUs?oc=5",
+      "domain": "ft.com",
+      "seendate": "20261113170850"
     },
     {
-      "title": "Indiana Dad Accused of Biting Children During Basketball Game at Birthday Party",
-      "url": "https://www.aol.com/articles/indiana-dad-accused-biting-children-224227000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "Weekend storm brings season’s first widespread freeze to millions across U.S.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS3NDMGdEenFZanZtcmRoTVBubU96X092MmlIcVBwZTNFN2QxQy1WWWJyeC15SUVpMkxKUXIzS3ozZTBwR0RDMmxjcE5ONEVwcklfSERpYUg4eEVBNXlQTmxVSmJuX1h1VFc4bUMyZUx1aFJjeXJNNFozckNxUEJqeElod01TUEdiMzVES0d2eUktcGl5Y1NCVFZUeG0wdFpEQXltd0t1ZWNIYnhyRTJhVDhSRQ?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261113171712"
     },
     {
-      "title": "No tip , no way : The tip - fatigued folks fed up with tipping culture Im done",
-      "url": "https://www.aol.com/articles/no-tip-no-way-tip-172507000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "Dad, girl killed in Brooklyn building collapse stayed home in fear of ICE, cousin says",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTG4zWW1BamRwR0FlaUNJQmhWY01VdFYtS3ZGajFTbmlvTUVmanNtdHJQc0xsbjJMM0hmNllDQnZvQ1RQNXVQN2lleXc3WGdNal95ZXh1OGdKZFYyN0hKMFdERVoyVVRJQUFTd3FtNG1GajBfYk5aeXRCRXVVTkhsSWRpT3VIdXRqeDdwaThXYXZWR0dPZ2kzaFg2OXB3OWRxYUxJQnpDWFJiX3FiN29XTQ?oc=5",
+      "domain": "gothamist.com",
+      "seendate": "20261113175100"
     },
     {
-      "title": "Dan Hicks celebrated daughter marathon accomplishment in last social post before sudden death",
-      "url": "https://www.aol.com/articles/dan-hicks-celebrated-daughter-marathon-162208000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "Condo manager says DC gym shooter confessed in phone call, noting dispute over living conditions",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHR2M2V6Z2IyZ1NYNDZSMk14V1lXeGNqOVdaZkRzb0J5WUdFT0sxLS12dEtiSUozdEU5bVJaQUpUN3VwbGxYV2U2NEI3NHZOX2oxR25RbUFjb0JqVGYtZ1l5MUpFOWNXRHRkZTg2QTJuUUJ3d0czemtycGVxU3RRT25sbEhZY3czWThCMw?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261113152500"
     },
     {
-      "title": "White House sends CFTC , SEC role picks to Senate for approval",
-      "url": "https://www.aol.com/articles/white-house-sends-cftc-sec-234025000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkdmbHFDTlhNWTE4YlJsdHg2NkF2OG9UNmllbGIyNGl0bFJjNHlWWldaeWl5SDRydUJ4QW9DbzlLMnVlZkV2dDJqNTZ1VGpZNDJZTVhGU2hVUHY1aW50cEFOVkxZU0o3OTBtSzJMX1FLVEQ5QmRtMkVJZm9kczZmaUktWk1NVkxEbjBr?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261113183125"
     },
     {
-      "title": "Navy has quietly fired some commanders and other officials , drawing congressional pushback",
-      "url": "https://www.aol.com/articles/navy-quietly-fired-commanders-other-232023000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261113142910"
     },
     {
-      "title": "FBI says US has seized $1 . 2 billion worth of cryptocurrency stolen from Binance",
-      "url": "https://www.aol.com/articles/fbi-says-us-seized-1-232626000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "US Army officer involved in alleged Russian spying scheme identified: Reports",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEw1Z2g3UFNXUThRcHRlYmcySkpxLWlLNG1aOGdOandjNDdwVnBHOFEtblZTaFpmWXp0RWZYUndrTk1kdTRYLTJYRXE5TmF0RlJxcHkyZW5UZjk1djNWMHhYLXg1ZmxicU1kc3lYdmFJNnBRdGRXcnRFNkxyUHhKZkZvZVJhSUd4VGJvRVJkd9IBlAFBVV95cUxQeEZTZEFQMkR6M2ZVSXhIOUdKbmVRRnNraG5iM1M2ekRuMlBCRUdFNE9vUkFLSzFHV1c5ZGppWjJqYnBHaWE1cTBYeTdYSmUwczFGemdiOXNubGlSUXcxWDMwYXVKN01TMjAzSHFManVnTFFaMnZuSXFRR1Y4aThobEthN1k4OXhfS09pM1NqTW5mMWxM?oc=5",
+      "domain": "thehill.com",
+      "seendate": "20261113003900"
     },
     {
-      "title": "Reunion for Jim Harbaugh and Jesse Minter comes with both the Chargers and Ravens spiraling",
-      "url": "https://www.aol.com/articles/reunion-jim-harbaugh-jesse-minter-235828000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "Mossad chief holds Iran war talks in Washington as Trump resists Netanyahu - Report",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOWg3RWxKN0tfTV9nRG1PQnBwbzNaWGtMcmRqbGpBM2F3aE5vRVdnLWFualktd1A3SzRXc09RSlBVU0NYSUYxU0RXb084NnRrTDBDdmdydVcwMGlNVWFOOHpBckFiZWE0NXRiZVBsTjB2bWs4OWJhQ2l3RHh0SEhzN0t0QkhweU5jVGlEdkFDVXhJWXhJYUNZdko0M3pGWXA2b3h3bXdjX18xWTlpYWxTd0drbWFSd2NKa1hjLTYwQ2J4Y2ppRThLaWRxZHJGTHNNakIwZ3NCeHdnamtPcUc5RlV0bDhJcFFBMVVpYldVVzBZbUE?oc=5",
+      "domain": "timesofindia.indiatimes.com",
+      "seendate": "20261113153900"
     },
     {
-      "title": "5 Overnight Train Journeys in the U . S ., With Comfortable Cabins , Dining Cars , and Incredible Scenery",
-      "url": "https://www.aol.com/articles/5-overnight-train-journeys-u-220000000.html",
-      "domain": "aol.com",
-      "seendate": "20261113T004500Z"
+      "title": "Man dies after eating crude bomb disguised as traditional Indian sweet",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoUVBLWlJER2ZaakRjdEc5cFhSN0NUT2NlZWJFM2pnb014aVJIRGc3alhRc2t3WU04Ul9jSXlOSTJJOHNWWm1KWEt2WjNpQWw1MFRFQmtMeG1yLURqcThhMVppQkJ6NFVxYkk3VDJJS2xjdTgzNmtOVjlhUQ?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261113113622"
     },
     {
-      "title": "San Antonio Spurs vs . Golden State Warriors - November 13 , 2026 | Live Scores , Updates , Odds , Injury News and Recaps",
-      "url": "https://bleacherreport.com/game/golden-state-warriors-vs-san-antonio-spurs-2026-11-13-20-30",
-      "domain": "bleacherreport.com",
-      "seendate": "20261113T004500Z"
+      "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXBvOHJYRmdHTG5FaUpvVVRoRFZaLUlWeXNHQ01ZZi1ReXBJRUVIUnNCN0g5blRzNjdCUE9VNGJPQnI2S29obU9SdmpLTU5mMEhJRDVsQTNKM093b3Z6NzhTTF92NDI1T3lIZmZCQzNHSHo1bHpYbExlM05WR0F0cmduSHpwTnc?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261113195201"
     },
     {
-      "title": "Indiana Pacers vs . New York Knicks - November 13 , 2026 | Live Scores , Updates , Odds , Injury News and Recaps",
-      "url": "https://bleacherreport.com/game/new-york-knicks-vs-indiana-pacers-2026-11-13-19-00",
-      "domain": "bleacherreport.com",
-      "seendate": "20261113T004500Z"
+      "title": "Microsoft 365 Outage Continues: Tech Giant Has No Timeline For Recovery, Says It’s ‘Deeply Sorry’",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNd0ZWZFJCWmp3MUlFMFFrRExhTldkeEs1aEt2bVJDend6Y24yck5wUHlsNF9yNERkQWNsY25va25DMnpMWFE2QmtZVy1CQnlVMjZTNlBFM1g1ak5kWjJEclk2V0IycmFKRHg1RjU2M1RVaHhwTEJUM2hZa0FXaUZRWVRZd0tpTThCZkoxeTJxZERQSFZBb1M3SWptclpVVUVxUEtzSUFTMWxLcmM4VURJbXNCQ1NZQm9fTzBnOS00eGRiV2NRVUo3Rl94QnR2TnlfMGM5dUYxRmZuVDQzZzBWRE0zb2w?oc=5",
+      "domain": "forbes.com",
+      "seendate": "20261113202800"
     },
     {
-      "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
-      "url": "https://www.nature.com/articles/d41586-026-03705-9",
-      "domain": "nature.com",
-      "seendate": "20261113T004500Z"
+      "title": "Why Apple's HomeView Relies So Heavily On Your iPhone",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUlOMXcxbzZCcXNia1lGVzh5NHJ2VHpIOGJiT2piQ0FiZG5uMU5QQTlwM0lZVUpnR1VXMVB3X1g3RmpCUDVHU1FIZVNyLTE0aF8yZGFYV3haMXFDVXh6MkpwVkViOTl2NGtoSmVla2oxbGp6N2Ezby1YbExLQm1adEdFR0RIUFlxS016cHpKTQ?oc=5",
+      "domain": "engadget.com",
+      "seendate": "20261113140000"
     },
     {
-      "title": "Gleb Savchenko Takes Joshua Tree Off Market .. Doesnt Want to Part Ways",
-      "url": "https://www.tmz.com/2026/11/12/gleb-savchenko-takes-house-off-market/",
-      "domain": "tmz.com",
-      "seendate": "20261113T004500Z"
+      "title": "Gmail’s Material 3 Expressive settings redesign is starting to reach Android users",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUVDRnZZem9GcXV3RkwxaTl6b2NSRm5kQ2xCNWNheklSeElOM3MwamNQVm9hS1dDVEJ3a2REZmpXcFZKcjFIbWVOZTNRS1RFazlYSC1CVFlSSF9sNlptVHZ2TlJZbzFJakJxVGc0clhka0xJYTZKMlpfbHk5VXlkVHBscnJ6SUNNaXVRTHVxRFFRVW9DX3FXbU5NWQ?oc=5",
+      "domain": "androidauthority.com",
+      "seendate": "20261113125600"
     },
     {
-      "title": "Orville Peck Duets With Ex - NFL Star Carl Nassib Amid Raider Kiss Speculation",
-      "url": "https://www.tmz.com/2026/11/12/orville-peck-duets-with-carl-nassib/",
-      "domain": "tmz.com",
-      "seendate": "20261113T004500Z"
+      "title": "The Motorola Signature 27 Is A Beast",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZSU85cFB0UDcyUmdJTm5xU2xRN3p6RnRQZnFhczA4WVUyTFNkRkNSSXVma2hQWHVrS01keTlsLUJvZlNfMkk0N0ZnNWxZOUpmbzlFdmdwVUYzUEFmM25tZXUtN1VzUWdoQW9fcFpVR0k3Zw?oc=5",
+      "domain": "engadget.com",
+      "seendate": "20261113140000"
     },
     {
-      "title": "Yella Beezy : No Conjugal Visits , One Shower Per Day After Murder Conviction",
-      "url": "https://www.tmz.com/2026/11/12/yella-beezy-jail-rules-after-mo3-murder-conviction/",
-      "domain": "tmz.com",
-      "seendate": "20261113T004500Z"
+      "title": "Russell Brand Accused of Predatory Behavior by Several More Women: “I Begged Him to Stop”",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTi1hbno1UEYzNnhuUkNnV2FKd0R0WmdKUjNBY0FHaHVFLURZQXNMdDNxQUlRdUlaTVh3ZjkxVlVOeUw4MTJaSUlXazk2WkkxOFViYjdTOWFqejlZZDVYX1ZQNlc3YUZoTWwzUEE2dkUzUU01MkNIZkxwRUFwamw3M3J0LUpfcGttanNianRVcWc2UE95ZURaNVBnRGRpbmZaR05PWlR2WE9aZjlDZmJfMW1nUlNOUFdrYzB4QUdrcw?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113163157"
     },
     {
-      "title": "Ol Dirty Bastard Family Gets Emotional Ahead of Wu - Tang Rock Hall Honor",
-      "url": "https://www.tmz.com/2026/11/12/old-dirty-bastard-family-talks-legacy/",
-      "domain": "tmz.com",
-      "seendate": "20261113T004500Z"
+      "title": "Avril Lavigne Announces Birth of First Child, a Baby Girl — See the Pics",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN3FNeUlUcXkzZExudnl4Z3JQRm1MMVlXTDBoVUZCSmNfNU1wTWtXV0MwRnE0M2ZMNi0zb1ROZ2pqU3pXckYycG5veGxDbl9iUnlfa3pTM2VOeFk1QjBnT2cxSUtiWjdOeEg5REI2cUozdXJCOFFON0ZqTGpFa0k3Zmhsd19uTmN6NTlrZw?oc=5",
+      "domain": "today.com",
+      "seendate": "20261113171002"
     },
     {
-      "title": "Savannah Guthrie Extends Contract With NBC News",
-      "url": "https://variety.com/2026/tv/news/savannah-guthrie-extends-contract-today-nbc-news-1236946710/",
-      "domain": "variety.com",
-      "seendate": "20261113T004500Z"
+      "title": "Taylor Swift to not only attend 2026 CMAs, but also perform",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWVmSnVGM3lqU21KeVJzSF9DdnZkX2lhUklxSWt0UUtIWk9YY1JBWm5QaEZqTXJHenY2T2ZNT0dUTDRIV2tRU2VpclVpZTVGNS1sTHltaWFBTzh1RkU4R2hNVVhrWWluTkNZbVZGRlZZU3ZhS3Q5UEtWVmVzNTRIUmFBd0tHUzgyTTdHUURTMmhWNTU3TTRrdm5IZE9ObVItalJFNdIBqgFBVV95cUxPV2NvV3ozMHpBUmFnYnlIOFBrdWozYWNVMU8tYUZMenM0WXdlMGxtTDdOZ0ZRRUZWdkd3ekpKMW8ycEJqRy1PbDNXV2lmelFvOUh3VzZGWnllYTkxdU15N0VCc21UQ2RzYzlxZXRuSEoxR0RHdHVRVERGUW52OXcyd0VhY2hOWWNWYXNFZkUzb3RZU2RSQW1faXJ0Ulp2eFJzWlgwMFdoNnRHUQ?oc=5",
+      "domain": "goodmorningamerica.com",
+      "seendate": "20261113133200"
     },
     {
-      "title": "Michael John Roberts Dead : Director on Bojack Horseman Was 48",
-      "url": "https://variety.com/2026/tv/news/michael-john-roberts-dead-bojack-horseman-1236946676/",
-      "domain": "variety.com",
-      "seendate": "20261113T004500Z"
+      "title": "Fantasy Football Start 'Em, Sit 'Em: Justin Boone's Week 10 lineup advice",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2ZzLUdQekZkdGpJS1JWejhOS0RTX0dGRjgzclZuVzY5dXd5NWdQOERnYUFNTGpZTHc5a29yQ3h6UXl6TjZJTjdNRlU2NTBHWkFjTXFWNE03emc3YmhrcDlWX1VxWFJueHdPWlM0cF8xaUlMaWx6ZEdsNExNa0hIZU9qV0tFYjdqMzBZRzFIekxGdGQzR1VOZFczUmhSYjA2WnBJd245akR1NVdaYXVjN0JIQWQ3WFFiU0JtRWlTVnFxUQ?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261113165052"
     },
     {
-      "title": "Frontier is now offering first - class seats starting at $129",
-      "url": "https://www.latimes.com/travel/story/2026-11-12/frontier-airlines-first-class-seats-deal",
-      "domain": "latimes.com",
-      "seendate": "20261113T004500Z"
+      "title": "Self-learning AI releases NFL picks, score predictions for every Week 10 game",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMllkYTJrNnhJZHdpSWhWQzlHMkhWU2JfSXptYjZVeE1hQzlsMmJndk84WDJmTUFqeFFuMUhvM1pJR25qZkVyMDhKU2VpOWtGbHVoalo4RnI3cmxTM2tycVFNMVc2VmlUYzdFN2h3aWh2ajU0RV9qeE8tcUdXRk93UU5YdGtQUFZqVjJDS2tWWUFnSVNaY2syYzY4cHB3QQ?oc=5",
+      "domain": "cbssports.com",
+      "seendate": "20261113164249"
     },
     {
-      "title": "Democrat Midterm Wins Encourage Activists at Climate Change Convention",
-      "url": "https://www.theepochtimes.com/business/democrats-midterm-wins-encourage-activists-at-climate-change-convention-6124411",
-      "domain": "theepochtimes.com",
-      "seendate": "20261113T004500Z"
+      "title": "College football Week 11 top 10 games: Texas-LSU, USC-Indiana and more",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMGgwRkpMQmZSMWM0VVBJRlY4VDZKZ3g4RGVPVnhYWEExZlFKa1pPb2JrZ1pRcjBubXlEbWphNFh5bms5NERkeHItMGthU0tIZkFpUll3SzNRN3BCSGRqcFpLTUI4RFVyU2xoYTlKX1pDcTBZaElLcDZEOVB6S0MxVEtUVjBJb05ab3R5bV9qU1I?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261113110057"
     },
     {
-      "title": "Dolly Parton Final Recording Premieres On iHeartCountry Рђћ How To Listen",
-      "url": "https://kiixcountry.iheart.com/content/2026-11-12-dolly-partons-final-recording-premieres-on-iheartcountry-how-to-listen/",
-      "domain": "kiixcountry.iheart.com",
-      "seendate": "20261113T004500Z"
+      "title": "Cam Skattebo stayed in his stance instead of pushing Jameis Winston’s tush on key play",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTmR4WEk3cGw5WGhOUml5NHhfcm16U2hFLTZNVUJVT2czRDk2Y0lJWnhHRTBWT20xV2FGbmk1YVpVcUN3MXVFV0FRa29tMXFTTnFmR0NFU0tXNWYtOWtCajJ1dHpjN3h6MjI1UXBGQ1dnVzhNVlJrdkstQ0JfNDRESmxid0RodmVVMGlCODZ6dVpNZDNUcFB3NUhYVUZvelFTalE0OW1VQ3prbXdUYVhOckRXdDljZkxiVVpFTndKLTZhMlM1ejBpVXRoWjNONFJFaS1OemVQT241Q2VaVENudw?oc=5",
+      "domain": "nbcsports.com",
+      "seendate": "20261113185811"
     },
     {
-      "title": "Cancer Society Unveils New Prostate Cancer Screening Guidelines",
-      "url": "https://wflaorlando.iheart.com/content/2026-11-12-cancer-society-unveils-new-prostate-cancer-screening-guidelines/",
-      "domain": "wflaorlando.iheart.com",
-      "seendate": "20261113T004500Z"
+      "title": "South African Fossil Reveals New Species of Early Sauropodomorph Dinosaur",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94dFd0MFRodjZuNW1kZFVTRmtPT0FfT24wTm0tQ2l1VndNQW1sT1ZGRmlOdjJWdWJCUlhOdTRLTEdPeEMyWTAwZ0dKMndKUkprWERZQ0VkRjV4VkdWV0w5SjdIbnFzTVoxeElrYnpiTmI?oc=5",
+      "domain": "sci.news",
+      "seendate": "20261112183158"
     },
     {
-      "title": "Nvidia CEO Jensen Huang Resigns Amid Scandal | Newsradio WFLA Orlando",
-      "url": "https://wflaorlando.iheart.com/content/2026-11-12-nvidia-ceo-jensen-huang-resigns-amid-scandal/",
-      "domain": "wflaorlando.iheart.com",
-      "seendate": "20261113T004500Z"
+      "title": "Space telescope Euclid sets the new standard for cosmology",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmtpTjdTeEJHWUZCS1pTSHNZMGVLM0R4S1VmeXNWamlheWZKSlhrSHktZ0JiMXpmdnBxbk1DckZPYjhkdkFRQ3A2Q1dyM1NlMVdRZHBDdFg2ZkYzZTF3WVJhc2hCcnIyLThfZTJQSWVXMDQ0VlNkNjVwVklJdUk3a3Rn?oc=5",
+      "domain": "phys.org",
+      "seendate": "20261112210001"
     },
     {
-      "title": "iHeartRadio Rewind : Wrap Up 2026 With iHeartRadio Top Alternative Artists & Songs",
-      "url": "https://alt1073.iheart.com/content/2026-11-12-iheartradio-rewind-wrap-up-2026-with-iheartradios-top-alternative-artists-songs/",
-      "domain": "alt1073.iheart.com",
-      "seendate": "20261113T004500Z"
+      "title": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDRmRElSOGJjYjJmVFFTVzFhNHZJd2tpUEhzZ1liak9lT1hCeVB3bU1RN0xzMW9oVlZYRnM0WDE5V2ZWV1BVNV9OZFZ6bWxTRk9BZGVkODZIdkZFV3lsQXFNbGVlWjRFS2I1aTQ0N3djQ3BOY29JZzBtcS1QWXR6SXBIQnpXWm1sVnc?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261109185600"
     },
     {
-      "title": "Nvidia CEO Jensen Huang Resigns Amid Scandal",
-      "url": "https://1061fmtalk.iheart.com/content/2026-11-12-nvidia-ceo-jensen-huang-resigns-amid-scandal/",
-      "domain": "1061fmtalk.iheart.com",
-      "seendate": "20261113T004500Z"
+      "title": "Nasa asks public to ‘light up the world’ for Voyager 1 milestone",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWkxYmJWQVBSOTFtZ1REZXoxZ19PSVpSNmFKbmx3TEdzNHlDdUdlaDVrZ29XMTdhOG8zY19PWkZKVFBTVkFmTFJkM0tCNlhwNVZKX05uaS0ydWhweHBHTUhJYW9LbEhaVFBPUXQ0UHdNWkNDd3pNWGMzeWs1dUMxMjdtYm9LNGszYk5OZHYwWlJCVW9XUXpCbVNkSmZ4LVc1UDlvQklXZmo1RkE?oc=5",
+      "domain": "telegraph.co.uk",
+      "seendate": "20261111185500"
     },
     {
-      "title": "The Biggest Financial Secrets We Keep Hidden | Big I 107 . 9",
-      "url": "https://bigi1079.iheart.com/featured/scotty-page/content/2026-11-12-the-biggest-financial-secrets-we-keep-hidden/",
-      "domain": "bigi1079.iheart.com",
-      "seendate": "20261113T004500Z"
+      "title": "Regular prostate cancer screening recommended under new American Cancer Society guidelines",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyTHV5NldlVDg1OWp1aGhOSVQ1US1uejlzbnFKUlhCcnBoWjltZ1dQNEJnZTJoaTY2MHZ1Q1RhUG5rRWpaT1N5b0FUOEtScXB0Q1ZSb21fUWtJeXBFX3pVeDZxSVpUdDByUGVHbks3dmlrd0dO?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261112221300"
     },
     {
-      "title": "FULL SHOW : Angie Martinez Unreleased Tupac Shakur Interview Set For Release After 30 Years + Donne | The Breakfast Club",
-      "url": "https://thebreakfastclub.iheart.com/featured/breakfast-club/content/2026-11-12-51-the-breakfast-club-full-show-angie-martinez-unreleased-tupac-shakur-inte/",
-      "domain": "thebreakfastclub.iheart.com",
-      "seendate": "20261113T004500Z"
+      "title": "Measles cases nationwide top 5,400 as outbreaks spread across the US - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUJzZmtiTDZkanRDY2dTbXZKZmxMVWFxaUVmS3g0dlRtbF8tbDVhUFdrUEhWRkRwYm9LY0R2TDBOTkFVRENFWHk1R2VESlJySktqRFA2bTZUelRacjBmTERqVXNWX1dQdmpzM0ZobUEtaExpbC1kQkNTNGtoZEUxTWNFRlctMlV3OVA5V1hpdWhYcnpncGFBZ3E4dzZXNG1Y?oc=5",
+      "domain": "abcnews.com",
+      "seendate": "20261113215944"
     },
     {
-      "title": "A Behind - the - Scenes Look at Esquire Party for the 20th Anniversary of the Big Black Book",
-      "url": "https://www.esquire.com/style/mens-fashion/a74415403/big-black-book-20th-anniversary-party/",
-      "domain": "esquire.com",
-      "seendate": "20261113T004500Z"
+      "title": "Caught Between Killers: Ebola on One Side, Islamic State on the Other",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5udms4RHB4TFMtWldCTl93aks3SkV5OTBieXM2a2hDNmJWX2FSSHlrcGkwZEpYTTVUX09zckl2VWdSUXhhbjVvM3U5ZmtqMkNZdG9KbDdMUWVYX1ByUzJER2FGVjRyd25zVWk0amR4Z3pmUFBXQ1JlUA?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261113100206"
     },
     {
-      "title": "$750K grant helps veterans build farming businesses | University of Hawaiʻi System News",
-      "url": "https://www.hawaii.edu/news/2026/11/12/veterans-farming-grant/",
-      "domain": "hawaii.edu",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Truly remarkable : Democrats rack up another red - state win as Trump pick falls",
-      "url": "https://www.rawstory.com/midterm-elections-2026-2678385726/",
-      "domain": "rawstory.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "The Best Early Black Friday Apple Deals to Shop Now 2026",
-      "url": "https://www.harpersbazaar.com/fashion/trends/a74391680/apple-black-friday-deals-2026/",
-      "domain": "harpersbazaar.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Mary Lovelace ONeal Never Wavered in Her Expressive View of the World",
-      "url": "https://www.harpersbazaar.com/culture/art-books-music/a74398897/mary-lovelace-oneal-marianne-boesky-requiem/",
-      "domain": "harpersbazaar.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "The Rock & Roll Hall of Fame ceremony is this weekend . Who getting in and who showing up ? – WTOP News",
-      "url": "https://wtop.com/national/2026/11/the-rock-roll-hall-of-fame-ceremony-is-this-weekend-whos-getting-in-and-whos-honoring-them/",
-      "domain": "wtop.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Hegseth awards soldier who scolded him and his aides at Tomb of the Unknown Soldier – WTOP News",
-      "url": "https://wtop.com/national/2026/11/hegseth-awards-soldier-who-scolded-him-and-his-aides-at-tomb-of-the-unknown-soldier/",
-      "domain": "wtop.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "You cant deny what people are feeling : Voters in reliably red Fauquier County on the election blue wave – WTOP News",
-      "url": "https://wtop.com/virginia/2026/11/you-cant-deny-what-people-are-feeling-voters-in-reliably-red-fauquier-county-on-the-elections-blue-wave/",
-      "domain": "wtop.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Is Outlook down ? Widespread outage hits Microsoft email and other apps – WTOP News",
-      "url": "https://wtop.com/national/2026/11/is-outlook-down-widespread-outage-hits-microsoft-apps/",
-      "domain": "wtop.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Thousands of bills filed every Texas legislative session but few become a law",
-      "url": "https://abc13.com/post/thousands-bills-filed-every-texas-legislative-session-few-become-law/20036949/",
-      "domain": "abc13.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Rockets guard Marcus Smart suspended 3 games after throwing punch during game vs . Warriors , ESPN reports",
-      "url": "https://abc13.com/post/rockets-guard-marcus-smart-suspended-3-games-throwing-punch-during-game-warriors-espn-reports/20036893/",
-      "domain": "abc13.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Woman charged with manslaughter in connection with deadly shooting on Cinnamon Lane in Baytown , police say",
-      "url": "https://abc13.com/post/woman-charged-manslaughter-connection-deadly-shooting-cinnamon-lane-baytown-police-say/20036757/",
-      "domain": "abc13.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Star Wars 50th anniversary merchandise : Grab fan - favorite gear now to join the celebration",
-      "url": "https://abc13.com/post/star-wars-50th-anniversary-merchandise-grab-fan-favorite-gear-now-join-celebration/20036185/",
-      "domain": "abc13.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Ray Gunn Trailer : Sam Rockwell & Scarlett Johansson Untangle A Murder In Brad Bird Retro - Futuristic Noir",
-      "url": "https://comicbookmovie.com/tv/netflix/ray-gunn-trailer-sam-rockwell-scarlett-johansson-untangle-a-murder-in-brad-birds-retro-futuristic-noir-a230964",
-      "domain": "comicbookmovie.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "VisionQuest Creator Considered Bringing Robert Downey Jr . Back ... As Tony Stark",
-      "url": "https://comicbookmovie.com/tv/marvel/vision/visionquest-creator-considered-bringing-robert-downey-jr-back-as-tony-stark---spoilers-a230955",
-      "domain": "comicbookmovie.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Patience , Subjects - Robert Downey Jr . Shares Avengers : Doomsday Tease ... Is The New Trailer Imminent ?",
-      "url": "https://comicbookmovie.com/avengers/avengers-doomsday/patience-subjects---robert-downey-jr-shares-avengers-doomsday-tease-is-the-new-trailer-imminent-a230968",
-      "domain": "comicbookmovie.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Gatto Trailer Finds Mark Ruffalo Mobster Cat Facing His Mortality In Pixar Next Movie",
-      "url": "https://comicbookmovie.com/disney/gatto-trailer-finds-mark-ruffalos-mobster-cat-facing-his-mortality-in-pixars-next-movie-a230967",
-      "domain": "comicbookmovie.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Brabus 800 Porsche 911 Turbo S Cabriolet",
-      "url": "https://uncrate.com/brabus-800-porsche-911-turbo-s-cabriolet/",
-      "domain": "uncrate.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Lectric XP4 750 Limited - Edition eBike",
-      "url": "https://uncrate.com/lectric-xp4-750-limited-edition-ebike/",
-      "domain": "uncrate.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "ELEHEAR AI Hearing Aid",
-      "url": "https://uncrate.com/elehear-ai-hearing-aid/",
-      "domain": "uncrate.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Vintage Watches : The Modern Guide",
-      "url": "https://uncrate.com/vintage-watches-the-modern-guide/",
-      "domain": "uncrate.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "What a bunch of f * cking idiot : Dana White reacts to Usman Nurmagomedov attacking Merab Dvalishvili",
-      "url": "https://www.mmafighting.com/ufc/520756/what-a-bunch-of-fcking-idiots-dana-white-reacts-to-usman-nurmagomedov-attacking-merab-dvalishvili",
-      "domain": "mmafighting.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Godzilla vs . Kong Actress Kaylee Hottle Final Screen Role to Be Finished by Her Sister",
-      "url": "https://www.thewrap.com/creative-content/movies/kaylee-hottles-sister-jasmine-to-finish-final-movie/",
-      "domain": "thewrap.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Michael John Roberts , BoJack Horseman and F Is for Family Animator - Director , Dies at 48",
-      "url": "https://www.thewrap.com/media-platforms/tv/michael-john-roberts-dead-obit-bojack-horseman-animator/",
-      "domain": "thewrap.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Donald Trump Jr . exits advisory role at prediction market Kalshi",
-      "url": "https://www.clickondetroit.com/tech/2026/11/12/donald-trump-jr-exits-advisory-role-at-prediction-market-kalshi/",
-      "domain": "clickondetroit.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Jury seated for trial of ex - boyfriend accused of murdering Ashley Elkins",
-      "url": "https://www.clickondetroit.com/news/local/2026/11/12/jury-seated-for-trial-of-ex-boyfriend-accused-of-murdering-ashley-elkins/",
-      "domain": "clickondetroit.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Darth Vader light saber used in I am your father duel sells for nearly $5 million",
-      "url": "https://www.clickondetroit.com/entertainment/2026/11/12/darth-vaders-light-saber-used-in-i-am-your-father-duel-sells-for-nearly-5-million/",
-      "domain": "clickondetroit.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "What lurking beneath Metro Detroit ? The race to prevent the next major water main break",
-      "url": "https://www.clickondetroit.com/news/local/2026/11/12/inside-glwas-underground-mission-to-prevent-the-next-water-main-break/",
-      "domain": "clickondetroit.com",
-      "seendate": "20261113T004500Z"
-    },
-    {
-      "title": "Dearborn police clear former Hyatt , Edward Hotel of human trafficking claims after search",
-      "url": "https://www.clickondetroit.com/news/local/2026/11/12/dearborn-police-clear-former-hyatt-edward-hotel-of-human-trafficking-claims-after-search/",
-      "domain": "clickondetroit.com",
-      "seendate": "20261113T004500Z"
+      "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTlaLWFBTzhOQWNFT3A1X2ZVSDJXMHp4d3VfUnljWmhPcW8wSHMtNG9tZmIxM3RISDYyd195QTVMRzlGYWlKR0h0NlhhWGZxUU9Md0Z2U2o4Q05lUUpCWGxEU3Rld2VseFlhSk5ZaGFITVREUVJoVWNURk5sRFVRVDY4UU9XU0F6U0cyM3VnclhkcGRnUnUzZTBIVWhYT0hRQzk5T0FaNmtvZjZ6dUxFS19WWFFRZDlN?oc=5",
+      "domain": "nypost.com",
+      "seendate": "20261113093200"
     }
   ]
 }
