@@ -1,313 +1,367 @@
 {
-  "updated": "2026-11-14T02:33:50.194Z",
-  "source": "Google News RSS fallback",
+  "updated": "2026-11-14T09:40:47.973Z",
+  "source": "GDELT",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Avengers Endgame: Encore: Streaming Details, Story, Cast & What To Watch Next | Explore Disney+",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qVThpMmphVy1IZ1MxQm1kQkJBcXkzR1pJbjJnOXRCZjlpbXRsWnJBZHVuVDFiOGJPbzlnNGEzUE9qRVZ0ejRUVy1NeVpiYUo1N3pSMnhoVFpQNlZfNEFsX3BIMUN0VUVRMHdoaHUwLWRxV1RpbWc?oc=5",
-      "domain": "disneyplus.com",
-      "seendate": "20261113231347"
+      "title": "Liam Neeson Is Headed To Minnesota For A New Hockey Movie",
+      "url": "https://1037theloon.com/ixp/150/p/liam-neeson-believe-13-filming-minnesota/",
+      "domain": "1037theloon.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Marvel Television’s ‘VisionQuest’ Ends on a Series High",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mNnJDSXA0d2JSRTl5OWY4THNsbmJ5WmEzNGVUdU5EYXBObm9GTFhiVmFFS2RLZE9Gdnd5V0RwZkVITW51MFRIUGh3QnQ0Ul9Wd3ZuV2drZG5aczY4eEMySUdwRmV6bjBOcTlNSHlFeC04RmFoTi1DNA?oc=5",
-      "domain": "thewaltdisneycompany.com",
-      "seendate": "20261113223237"
-    },
-    {
-      "title": "Remembering singer and actor Peggy King",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSm1hdDZSb05pb1hnak51OTZmVEg3UWN0ZkxKV0FzUU1aVm1UQ19QS2tXYXdLNlQ0eDdMU29oSU9ZSG9ZWHZjUjJDX2JuZWFTSlVEZ2Zfa0NyamJqNEVLNlUxN0lCZFpHUmV1Mi1iN0xXUjVFYVYybktUQm03OG8yelB3MGxFd3JlRVBfaw?oc=5",
-      "domain": "npr.org",
-      "seendate": "20261113133522"
-    },
-    {
-      "title": "Popular Hollywood French bistro among restaurants temporarily closed for health code violations",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVkxRdl9xcFotQzc4RTU1VlVWSGpKUjg0Nk1rNDFCLWNpV0JNcGN1VEZobTF0ZGRZVHEtT0h6a2o5RzNZOWtGVFJZa05YbnNBV19leHNsdGZqXzYwN212alZyYlhRX1BidjY2aVBJZDZuRDhxajIyVlp3QUIzRFJzVUhSLWdfeDZiOVHSAY8BQVVfeXFMTU92RmoteWJTYnduY092VEZBN2syYjZ1dTZEb1BjemZiVXJ3aVNJVTNzUmJPUGE2azVTdjlKZ1YtY04zTnlTWWlNV25pc3Juc0RFYUxKN19GQ1pxaE5kOGQ1QUR1NldsQlpTWGY4S0tpSjNzdnF0WVdNenZzS2hnQnAzYUZqVHZQVWNpZ1pBSUE?oc=5",
-      "domain": "ktla.com",
-      "seendate": "20261113224611"
-    },
-    {
-      "title": "Paul Beaubrun’s new album ‘Vertières’ connects Haiti’s fight for freedom to his own journey",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RR3F2RXNTTWRjX3A1czkzYXBTckZ6WFJrel9kckpPQ0tjTlgwTC15WEFFOGVpT0lzTlRkSmlSaFR1YVBOVm5kQ2xRNzltTU0zUktqU1AxalBPYXNIcHdvRXFiakk3TWMwQ0ZLYVVuMFhBb04ydjR6YzZYbWFfX28?oc=5",
-      "domain": "haitiantimes.com",
-      "seendate": "20261114005547"
-    },
-    {
-      "title": "AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEJ2bFcyOHB0TnFfYXV0cmNpY3R3akRzaEQ4U1JvVUZUUjF5V2FnQWc4SE1JMXlYOTlHTTlFYlI5ZC1jeFV5NkJLaDBMNVhMbU9Xd2xsd09FSmNYUGNkb1JObFg3ZU1fbnJfbl9mdlUwUzYxZzNQRDVBUUVWcnFwS2RuM21WZ0pUUjZCQzhQcDBDUXFyOXNFeUJTSFN0SUpGWk5PaDc0b0U?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261114013800"
-    },
-    {
-      "title": "Christian music singer Steve Camp dies at 71 after battle with heart failure",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWxrSE5VUVNpaU5tMjB0ajVFMlJIc0RmWnIwTUpNVEw1enh2akNkLXFTb2ZQaTdtTDVxbnBMOUVCdFBTNUo5LTFWZUFBZldfQ2psOTZZR2pfT0FZUFZjZUZFcmFzSjVpWDg0c1RPWWtyaDJ3Q3dIYmJsVi16QXJDdDVXMnA3ZDVRaGk2a2UzUkRpRXJVVW5ZalhpRnZTdUJMX0ZwdUdHbElfVVZ2RTBVODZLTm9tTl9NeHhictIB0AFBVV95cUxOS3BBYVJObGd6cHJ0SU94eUVXTURMd3dSX2JEd1ZwQ1d6SnhOUnhfRkt6eWpGVGdzVUxlZk15b1BGNWY1a2U1RVJvMDZYeWRwTEtaVkxCNW15RVh2bUxnb1ZPTUpsaElubV9LeS1tdF9kSHBiQ0NhMnlfeWRVaVFkOV9hTzJ6X3Zra2w1bWxMWEdreWJvYlF0cU02YW5oVDdGYTg1RHNiQXlfbDRKZ19VempWWGYzNFlmRDc3NVN1alBEd1YtWnBqVlR0Q3hvbjRU?oc=5",
-      "domain": "cleveland.com",
-      "seendate": "20261114004200"
-    },
-    {
-      "title": "Album Review – Joe Ray McDonald’s “Harvester” -",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0tRk50TWFWQ1o0SnJyaXFBWUFDZE13Z0pIWmw0RjRIaVpIbWk5MTlvOWZ3dW50UlBrdG9KUUpRS1VZUlNkOERSeFh0Y3I4NzNELU1vVS1iWTdBZUppeF9nalpDaHJHM0FZUzN5RTNkbFJrU1pDQW1ITG1RUVE?oc=5",
-      "domain": "savingcountrymusic.com",
-      "seendate": "20261113193725"
-    },
-    {
-      "title": "KPop Demon Hunters Announces Golden World Tour Dates — Here’s How to Get Tickets",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanJZMDRJdnNyZlR0cFFQQXgzNnNteDlsbUFqS3NOT0Y4aE5JeTNBMFZHV1RfbHR5SWZjaGtPTGw4dzBNNWZqVnVkem5OX1NCM0FEWHJjbU1BTFJmSFBiUjg3VlBnLWN2eDBZcUptcm0yd2VPZjgteVlWTXViX3ZSeDd4bzBUWm5qYUZr?oc=5",
-      "domain": "netflix.com",
-      "seendate": "20261113130147"
-    },
-    {
-      "title": "Noir-vember: 10 classic film noir movies to die for on KPBS+",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeXBxRk1hZ0xHTWNkWkswRHF5b29OVk5tTUpyTm1sbk50Y0hPczBWZkRYNDdUSXpRS3pyVl8zdklGSVVMSEQ5SWQ4SFNISERtR09iNHVQa1FuS1FWU25lZ0xyRGkxbThVZExOaDhJVHdnakFldEdOdDB5YjY1aWx5Y0VoWlRBV3p0TWg0Y19qbjhDRmdSdHhMcGRlNUc2RVBZSmdSR2tFZGFjU3Bw?oc=5",
-      "domain": "kpbs.org",
-      "seendate": "20261114013600"
-    },
-    {
-      "title": "TwinkieTown Movie Night: 61*",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IYllid05lTWpQVHdVQ2hCR1FnNlNOZDNjbm5JTVVrTTIwOVVqR2tQNF94cEh6ZGJGVnZJNy0xdEM4R3p3MURZT3BKeXpwbTh4RWQ5VFJvTF8ydUpNV3NSZl9VSUlBQWw3elBDdXEzdkJ2UURMVVg0?oc=5",
-      "domain": "twinkietown.com",
-      "seendate": "20261114003000"
-    },
-    {
-      "title": "Deftones Announce 2027 Tour — Here’s How All the Presales Work & How To Get a Code",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQU0zVmZxRWpscFRJY3lwVWJXWVZlRGhJS3dsT1VtQVdWNnVQRXVtOThQU0JsalhhVGhXVDkzbmI5emZrV2cyUlVXTkxhQnRVOF9LY3N3bXZ4cGR2Wm01SXdSVzBONHRXNnZNRnlWalNfSHVKMGlBNWpDQkJrMXZ5SFFJd3p6T1JrcTlnYUJB?oc=5",
-      "domain": "grimygoods.com",
-      "seendate": "20261114013440"
-    },
-    {
-      "title": "FAA Ground Stoppage Could Impact One Of Hollywood’s Busiest Weekends",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaldkMFNsM1VPVmFmZ0wweGJpOFpLSGYzd1FrSmMtcmxsb0l3NHhiWGN5TmtQYXhGdm1sbDFvbWs2N21ZbVA4T3NTSVBGRm1YOWtvUzZSWDYyeDA5LTlROGFJYXNRZzk4bW8xYWtBaGszUHBYSTlhRG9HUFJwMG12emdyT243bERZdUJ6Ml9hNTRhSGQtbHFv?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261114011100"
-    },
-    {
-      "title": "More than just streaming: TwitchCon drives $60M economic boost in San Diego",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGZlWFpVNjlxVkUycFh0UkVPZGFCYmtsM25YcjQ5VGFWaG9aUWJBQmpGREJvTFBfbzF6WUlyOHRkNm1SV2FSaFl0VGtqV1RFSUtDUVZVQzJaTXdORzVnV0hnOE9yUUhFcTZncGw4MExwWGJ6RFlYT1VER3hBb0RfM0ZCZGNVR0RROXNFOUQyUzM4RS1kN1YtZm8zVmNSVlk3TFlEUkJHcHVndGNZSWdiVUgtU3pZZnY0MU02V2JIUURFN29DWXFpcg?oc=5",
-      "domain": "kpbs.org",
-      "seendate": "20261114015800"
-    },
-    {
-      "title": "Hollywood Still Faces Weekend Disruptions After FAA Lifts Flight Ground Stop",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2VsT20xdXFkMFQ5XzVKX1d1akhCY1dvMU1VbTNBSDRURFVZY3ZTZWlkd2dqdXFNSFMtTFFsUjB6Z3o2cVVzdXY0VFlFVFVhUkx1OVhuOE8td1hPeW54TmMyMXRvdFZLZkZnQ3NFdXZyeGg3UzV2cW9CbGRwYW9wRGFqTl9oMzl0VEg0cmU5bFdNOTd4VkVuQ1FVakNPSENJQXc?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261113225100"
-    },
-    {
-      "title": "Johnny Depp Pic ‘Ebenezer’ Opening To Spirited $20M+ U.S. – Box Office Update",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yTUtLOFNjM0VnYzlNTGZGWTdRYXVhNWE5ZWZ2blNsQVlnQXBGbjBiZzhHc1pzcmNCVnB2NVpUTnpoYi1rejVSdGY1cWc4cFRyN2xodzZpeFBJQ3lkLTRXYXoxRU5vakZjMkt4bw?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261113230200"
-    },
-    {
-      "title": "Amid Flight Halt, Trump Meets With Jon Voight to Talk U.S. Film Incentive: ‘Get This Done!’",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUc3YTFrQ1hoMENXRkVCRW85aVhiU0dwQTluNWtwN1lGV3AyMlBpVkZpdEd4MFVEeU5GWW9CSDBOMGpWLWV4QmZLVXJDa2VKV21wZmFjcnFPalpIRTJPN3ZYMTd1WGZkaUkzd21MMVRaRGRnRjhRdEVEeU1uTFl3am9scWhMSVhrMjRCV2ZRVUI3UnV4Y3owVEFlQ3NaTzJ1bWlqRTMzZFpiNUJxQ1E?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261113232800"
-    },
-    {
-      "title": "‘Who’s In The Band?’ Music Competition Series Lands Greenlight At ABC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2NrQlRDemxtSkx5NTg0TmNrd0NCWjRCSGZQZlh6NWxpZnJfNzFrdmxCcnNYUkVuVkVFYVk0Si0wMHdyWmV2THc2V1hDNzZBZ1hpTTJEenZDNnZTa3pfQUJUX0ZINDB1aEUwOHR2dmtDNHZoa2w0VnBlTEVfZDNoTEluUExaZHBaSjVPNEFkaEtkaDRvZ0ZILTZSZw?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261113210200"
-    },
-    {
-      "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMXBMTS1USWljVS1yM1R2TXdIUzBWX0p5cTRaakttUVhyeDNVay1sN3dTc3hrb0RqRHcwN1dVRVJCc2dQcUVOalhfUGJFbDRsTlFhZlN1ekczd296bUhES3hBRnpXMHk4X19RLTgyZUhid3JzaFZiRS1jN0IyUk9sdEhWalE2U3FiRUhFOU1US2E3dGtLak5CUHZuRnhvOWlUY3MxRGJJOEVmYmU4SnM5WTdhM2VNZw?oc=5",
+      "title": "Johnny Depp Ebenezer Comeback Grosses $1 . 5M in Box Office Previews",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-ebenezer-comeback-box-office-previews-rob-bank-1236754682/",
       "domain": "hollywoodreporter.com",
-      "seendate": "20261114001234"
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Looking Toward Home: Portland Taiko’s fall concerts feature music inspired by the Pacific Northwest",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeVpHUkpHeWQxcVlmX2dfS1BpOEMzdEJRbDBwUmdydnNlQzNDbTVneXZsR0lxQnc3QlpvYms2VVNJSnRLeXVfbmRkQml6VlMwMXNhTDhFWG56c3BqdkY0NFRINXJTOVJCamxIZC1sdXE0YkZuQXJDX01RVl84S3NnblNpV1VRNEZxR0tpN1o1dkFrTEh0NnpSS2VSNVNHSTR0MktjUmljazN4aDQ5b25WWUFrbnBUeVBMSVZVOG83UElRaVgt?oc=5",
-      "domain": "orartswatch.org",
-      "seendate": "20261113232042"
-    },
-    {
-      "title": "The best movies on Netflix streaming now (November 2026)",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXRzNkJEdC1xWUY3RllQMkZaY0pHSTVVUk1aWXY2SGdLWFZJTHlJM2xqbUFEVjhieTRrdnhxWk9oaHZJSXp3cGo5RGltclhqRGRUbGNTVHpYOXhfVzRYd2JTbmxTdlVKUkpRMkVsSmw2ekVhM1l3S0R1eHBZclRLeGJ1cU54dmdZWS1TZlZuMA?oc=5",
-      "domain": "boston.com",
-      "seendate": "20261113232000"
-    },
-    {
-      "title": "Pretty in Pink: 'Flamingo Flamenco' Directors Discuss the New Studio 100 Movie Taking Flight at AFM",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM3BSRVVFUlNURnN1UU9qVFgwSlFIS19LTm1qMVVOeTNMV1ZGS0NYOVhHWnBNQzlUQ1Zoa1JrOXdFcmV5UnhtU3dCekYyNjVUX1hpVmN1NE5jQl90N0E1ZVRJY0JkQmE1cUVvZ1lZU3h0Z1pnVUpNR2xOVlVqcWVDS0JtZDV6amJoTnRlR0pTY2d0VURtektTbE9EWTBlLUZ4cWd5U19hODV5Y2JwQTRhRmN0T1p6clpVdk9YbE5HcXE2Vlo2ZVJtcThTdndaZmdudHNxZURB?oc=5",
-      "domain": "animationmagazine.net",
-      "seendate": "20261113233831"
-    },
-    {
-      "title": "The Voice of Iran: Googoosh and Pink Martini Announce New Collaborative Album, Pishkesh",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSWpLV1NCbHl3dTdZZ0VVc1NUM2dXSUh4YTR0NVJPSzcxUVF6N25GSzlFbGZuREFsMWN5VXg4a0l1ckRDN0VOalBNMy14RS1jbGszZ1dQaXVhRjdIOXdrZ2tHbVpYVWlnOVhuYXB6ZnV1TGQzMGJBcmxBazZaZ0JYZFBoVlYwbk8wekRaUjBXM3lhT3NXTFZPeE50QzM0OHNhVmlsaVdJNjREVEZzSHNv?oc=5",
-      "domain": "lamag.com",
-      "seendate": "20261114014716"
-    },
-    {
-      "title": "KPop Demon Hunters Announces 2027 Global Arena Tour Dates In North America, U.K. & Europe",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaG9fUVprN3MxVHhTZHFMM05HSjhZZThxWnctLTA5Q05ORTRJQkFxbmhhbXZ1NlVySmQ1Y3lNQkFjQTR1eXVPODNINWo2aDlKNmlBZlQ4SVNKc054V3Y5YlF3UVl1NkEtUTFGV243aXE0NUIyaXp6ZWpvX3hEQ2dzN0pUZTdzandndFE?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261113144500"
-    },
-    {
-      "title": "Cuban jazz composer Zahili Zamora tells her story through music",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRThCcFdnU0w1TWd5Wl9abTJtdnlMU2hYZ3BLS004MDFOOFNNRDd0NjVqaDFyVjlmc2lpaVBTMDE3UURWamREZ2R4ekRGeUVJZFQzTW9ZZFY0WUpQc1Vic3duU1FIYmdQMGxBaWVJaldWbEttZWRCVHd0RjBTNHVWY0ZxN1NrNVFuXzRfbmtucThMYldBOG9lZUNFQQ?oc=5",
-      "domain": "kgou.org",
-      "seendate": "20261114022830"
-    },
-    {
-      "title": "Alex Warren announces 2027 world tour",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTUJwNUljS19PMjRjUmdGTGVNOE9kbE5iNnZjc183V3VsMzJmeVIwV3l2MGFKay1Fa3hrRS1XSzQ3aTB2QXo5ZUo4dFhHc0o4bUJtX210azhSVzlqdC1Sd2ZwR09fUmE1dEthNWk2TUZYRlk2QTlCMXJKSXhyZWEwcGpHSnBFS2pNb1c4LWZtNzdmMTkxU2IyWmdOTHV2VXlicXB5X3JNck1hZWlCaGpfRENFQ1I4QkU1WnFWa25lYXV4T00?oc=5",
-      "domain": "kvue.com",
-      "seendate": "20261114004509"
-    },
-    {
-      "title": "What makes a place ‘home’ for country music star Reba McEntire",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVItRlZxV3pQSlAxMDRycVB5TnVlN0NyZ0hjcko1bnVkQVdWYVNHUkJ6UXNQekZFalBxYVlXeTFROHVHeGVDVnBZU0cwTURBNkpWa2Z2bjN6SDFveHQyUUJEemxydlh3VzdFdjFENlZJa3lyMkFjN3J0MzNjcmpSZ1hHdC1oODRobVA1Ni1zYXlYNVNkVE1fVlpWcE9JSGtRaXdqUA?oc=5",
-      "domain": "realestatenews.com",
-      "seendate": "20261113235047"
-    },
-    {
-      "title": "Trump Stays Mum on FAA Grounded Flight Crisis, Questionably Touts Hollywood Business Bill Instead",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM1ZUR3hQYjh2TnJzYlYtNk9jUmxKd2dwVWVBTkdMQ3BEbFlObXY5dDNOR2JZVjJybEJIRGFNLVMwR29LV3Q2aXV3aWJSTkx2NEVKRlNTZG9paHVDU1NWcUN4M3p2RzQ0WGRkLVhjQUJCMGhWbUc2M29sQkJEN1h2ZGVzYXRJNHVaZmVvMEdITVU2MVNldWRyZU5kTUV6R1lKeDFPdTNXRWp3c28wd3pTa2QwWGdzNkVnYTh5TW9paw?oc=5",
-      "domain": "thewrap.com",
-      "seendate": "20261113235207"
-    },
-    {
-      "title": "Christian Cousins, former child actor who played Dominic in ‘Kindergarten Cop,’ dead at 43",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEVEWENtV0UxRFhKOXIxcUxySkF4WjRJTkk2V0JtMGhfXzV1Ql9nS1N3SUU2a1FzYzZiQ3FELVc2RXd4bzh2ME5rZXNZX1d3cWpwTzhQSTNRVGpVZWttSlI4dmZsVUtTSnc2T29TaU93TzhSc211YkdPdlIyS0JnXzlTaUozMGxtRmJ0TmdhOWx3TjQ5V2dXWldXaUpOVHJLRl9vMUJLcWlJdDNHMGNMcUhIOVlxNUdQOVVyTnlueUQxMURIVGc?oc=5",
-      "domain": "latimes.com",
-      "seendate": "20261114022700"
-    },
-    {
-      "title": "How to Become (and Stay) a Movie Star in 2026",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkhQc1IwUmV0ZUVtS293dDQ0MmQ1NGw0QWhxSkN6WXNreVBGNnJ1UHBtWm84cm1Sa2lfYi1xVWlNSEpoWlRaaUNqWUlnSkFjeUNVUVVJVE5Rb1pmOXJoSS1DLTdQZGZDdHdGMHlLWGNyWWdCc19xRFB3alN3SWplRHF5OTlweWFsTm1aQ2NFYXRicENTOFlmbnhBcmdEdw?oc=5",
+      "title": "How to Become ( and Stay ) a Movie Star in 2026",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/how-to-become-movie-star-2026-1236753065/",
       "domain": "hollywoodreporter.com",
-      "seendate": "20261113153038"
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "‘Two and a Half Men’ Hitting Free Streaming for the First Time via Deal With Pluto TV (EXCLUSIVE)",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWTF1TnV0Z3p0OEl1aVlVRW9lVW5TNUtKOWlhVFFxQnVBLTNuUTJWQjgwQVdoakZsQlRlVklRcDB3YzRlZ3hmNjZ4dlpoU01TTVp2V0JNZTczMEpiWTRQMzZ0aEZGNEpZY2h1MU5NZTNKYjVVc0lfY0FMeUt1WUt3dzU2RzhveW9lQzVCMTRGVko?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261113221400"
-    },
-    {
-      "title": "‘KPop Demon Hunters’ Golden World Tour Sets 2027 Arena Dates",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSHRwM0d1LThYYy01ck1hSkVTQWdHTnBHcG9NZm1DYnZ2RThPUjlKdWg2c29kUTRfYlpHT25DaG9ib3huaFU3ZHVmaF9QRUxJQ1lySEdHbTlTdkdSZlNHVkxtWldrQXFNc0VTNXJDcVdKZ2pPYmFsb1ZYYUhqdzlUNHF4V1RaUThWT3dEWGNlUy1YWXlZN19EWEVIWG5XUFhUcEFv?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261113135500"
-    },
-    {
-      "title": "5 must-watch movies & TV shows streaming right now",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSnJBRnlEeUp4OGR2TXFLNzVDM24wM05ibnd4TFpQOVJWSjF5Y3JWYXFOZTU5bjAtZ2pTMWtrVTM0TFVQNFVubzNPNlE1U1JLMnMxRjl5Q3pVZHltb3BEWFVUckZnTEs4VEtYVXB6aWNvbHJhTW50TjQ0ODFWcmhLeWVaUnFQQ1hDVncyNVpoQ0NQYjV4dWE2bVNERm53QWVNa2Ixa1VxbzdSTjl4MVdYMnpmZlFCckpMSmc?oc=5",
-      "domain": "boston.com",
-      "seendate": "20261114004513"
-    },
-    {
-      "title": "5 Takeaways From China’s Golden Rooster and Hundred Flowers Film Festival",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQzZQMGhRbjBxb1Jac2hWQURFQWdtWkNDRVhJcWpaY3lwaXRXd19Rb2cwM2RkMkFxbGtzTWhJZnhRT0ctQ2RSTnRWeUd0QkwzbG5LRUVMM1N0UnJNVHFvblF2UWtGLXVOcGM1dDdaSlkwaE83Sk9NdUI2c1U4VDk0MTNadEx5LWowWVpsQUpSSHJLX2xHMmtGbE1WYzlLbHJBVHV4R0t6QmhXTEpNWHVLd0x2QUVlSzRMMmdUb2hxNjhDUQ?oc=5",
+      "title": "Stephen King Interview on His Iconic Horror Novel Carrie",
+      "url": "https://www.hollywoodreporter.com/movies/movie-features/stephen-king-interview-horror-novel-carrie-1236753241/",
       "domain": "hollywoodreporter.com",
-      "seendate": "20261114021939"
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Symphony brings music to cancer patients",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZDhKSW80OXlOTk81MWRqY0l3eXFNSk5neXM2a0w0TVA2OVlWNjZJMURFOW9CUEhDU2VLR3JyVnBQTExtVk14NjU0NHpGbjdtMDBVQ1lWcWpkTndYb0dRMEFxLU9QNUJjbUNMXy0xWUlJdWtPdF9ibHExelNXaEtYT2FzRnZyMTRSeWhBNFRJRHVhS0NHNG55YVFQdTIzd1BxX29GLXV3MzMxSW4xZm9RYXZMQzFQRVpMMkZDbk5HYw?oc=5",
-      "domain": "wpsdlocal6.com",
-      "seendate": "20261114013512"
+      "title": "KPop Demon Hunters Golden World Tour announces Southern California dates – Pasadena Star News",
+      "url": "https://www.pasadenastarnews.com/2026/11/13/kpop-demon-hunters-golden-world-tour-announces-southern-california-dates/",
+      "domain": "pasadenastarnews.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "LA Lawmaker Pushes for Fast Passage of Federal Film Tax Credit",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVNFR2luLS1qZ1U4VWN2U2tDb1lzOVMtM21LM2ROY2xMYjNKS1dMcjh2R19KNTBwcXRCNFNiSWFhb1FIeUNmREtOalF6bXpyTWQ5QmhhNkc0VkpodUtpUHVlQVdyQktCaEtVaXdyLWdzMUd5VkNzRGNmbDg0ZGREb19NUmdwV3VVVTdUOEFzUU10VlVJbEowZlNPSk1pV3BWdDNWWHJPU24?oc=5",
-      "domain": "mynewsla.com",
-      "seendate": "20261114014308"
+      "title": "Renny Harlin , Launches Production Company Focusing on New Directors",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/renny-harlin-new-production-company-1236754153/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Putnam Museum hosts Saturday ‘Dynasty & Design’ gala to fund 2027 Hollywood fashion exhibit",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSjRyczhmMFpjbmw3ZFo1WmY2TDdacldfWkUyUVA3OTZubER2UnJQZXh5VFlVSUw0QUVFQXdRWTBtU1EtVHZVR3N0bWUyR0dLSmZUMHNlazJraGJIQlZHWjd2M29oNVVfR1FPaDc5d2tobGFJQS02Q3VyQ2g5Zm1JcmNLeEp4UkN1bm1oWjQxTmp6T0JreXZJTzRuU0tmZzlqVmxEX2FaTnFOLXBMTXEwOFFPX2NCeUJn?oc=5",
-      "domain": "kwqc.com",
-      "seendate": "20261114001100"
+      "title": "Friday the 13th Officially Sets Return With Legendary Director",
+      "url": "https://www.polygon.com/friday-the-13th-new-film-steve-miner/",
+      "domain": "polygon.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "50 years after iconic film, a gathering of 'Rocky' fans in Philadelphia breaks a world record",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRGlRS041RGdjR0Z5S2lpbVQ3Z1YwWlc5M2otcE9pSVhFN1ItbUJKSlA1Um04ZHlNT2dZcmNQdTZuVC1BRmctUW1LWXo2ZjdOWThqR3pYc09URGY2ZllMVXp2bFczUC1XYl9vcFdXS2dnVkp5NFNrQTk4YnFoNXo3YXBIX09oMnlpQzdDM3dlSGVicTJYeEh2X053TzJDSkp0ZGc4NGVudm1jS3BWMXpCUjRuYkVRVEtUdG5GckJ5RkVNLVQtQ0dDeVRvQkRSUQ?oc=5",
-      "domain": "ksltv.com",
-      "seendate": "20261114012200"
+      "title": "Russell Brand Accused of Predatory Behavior by Several More Women",
+      "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-sexual-allegations-women-prison-trial-report-1236754647/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "TwitchCon highlights live-streaming culture, bringing top content creators, gamers, more to San Diego",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVNRdTdid0VCQWw3akVvdW50SmRRbElSS3JETUFueUMtY081dDY3NENHeTR4MEZTNk5vM0Y2TzQ3d0JkUnVjZkdrWEYxZ2dYNlhLWDJJYWF0Z2MxTHFrMDdsaDNiOTFTci1IR2NoUDh6T1M3d0dDdDJXb3hXX0hxTjE3OUxqUkdOV0pBRUthTktfSkRnYVJiNXpHV0lpM1FKZFZrNktXMA?oc=5",
-      "domain": "timesofsandiego.com",
-      "seendate": "20261114002020"
+      "title": "3 new to Paramount+ movies to watch this weekend including an 80s classic comedy that features my favorite ever Eddie Murphy performance ( Nov . 13 - 15 )",
+      "url": "https://www.tomsguide.com/entertainment/paramount-plus/3-new-to-paramount-movies-to-watch-this-weekend-including-an-80s-classic-comedy-that-features-my-favorite-ever-eddie-murphy-performance-nov-13-15",
+      "domain": "tomsguide.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "YMCA Holiday Home Tour, Boutique & Pantry return to Redlands Dec. 5-6",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUmJLRjBrMkF1ODZMSzZ1ZDdfMWlWQ1ZoaU5kX0NlbVVhYWs3QXllbzJUeFZDNldMRmsyY2RGTmhmWjVSSkxqbk0tek1WS0l4ZVAtX21OSGtuYVVhY0docHdvN0lRYXpmb3NkLWRnTzlic3FIWl92eGl0RE0xVUlGYTh2NnlIOC1lN21uMlVZMHhqOUpaLUh4T3dUcUJGcVFUdm5VakRCbHVlN1U?oc=5",
-      "domain": "communityforwardredlands.com",
-      "seendate": "20261114002159"
+      "title": "Editor Joe Walker on Dune : Part Three , Villeneuve , McQueen and Bond",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/joe-walker-on-dune-part-three-villeneuve-mcqueen-james-bond-1236754607/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "U2 Gets On Its Boots for First All-New Full-Length Record in Nine Years, ‘Carnaval de Luz,’ With More Callbacks to Band’s ’90s Peaks Than ’80s Glories: Album Review",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaV9FejFfZE5zSk9ZZTRYX3FBR2F3U1ZLNzFJSXpGcDRLT0JDSmZZdlFEbkh5OWhiUm9PUkZkYWhFeFk5RW5xbXJLUXRnaVl1YzU3cUhWQWJ6TnRpUXpPVkp3SDhVcWpRUTZjZVNvZm9wTVBCQlBNLXF2em5ieWJ5SEktWUJMeTZlb3JVVDBKOGdmUQ?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261113160100"
+      "title": "KPop Demon Hunters world tour making stop in Pittsburgh",
+      "url": "https://www.wpxi.com/news/local/kpop-demon-hunters-world-tour-making-stop-pittsburgh/DVS3Z7J3CNEZTNJSL5RTEXR664/",
+      "domain": "wpxi.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "5 Best New Movies And Shows To Stream This Weekend On Netflix, Prime Video, HBO Max, And More (Nov. 13-15)",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGFSNkdPbXV6ZHdrNTduR0FISVVmUXZadEFERXFuNUU0QWYyVGNwSWtVb3ctQUpwYU0zeUlKZEhRODFvaV9Ib1g5VGtRNUZFV1BreWUyQ2pGZzVwVm9ENkllbnNNa19kMlVsRDBNOWdpMG9LVC12NWFLN2RrdWJGNk9NX3RnMmNSLWU5bXBndkxNRDE0U0Z5Q0FlUHNZU2dzeHlmRHphQ05jMUI0SzhRSnd2cU1NU3c?oc=5",
-      "domain": "slashfilm.com",
-      "seendate": "20261113230000"
+      "title": "U2 Explain How New Album Carnaval De Luz Subverts All Expectations",
+      "url": "https://rock107mb.iheart.com/content/2026-11-13-u2-explain-how-new-album-carnaval-de-luz-subverts-all-expectations/",
+      "domain": "rock107mb.iheart.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "PGA Tour highlights: 2026 Austin Championship, Round 2",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVUl6WFJKdEZkSzA2bEFabVB3elFiTnV5M1lxS3UtdzNWajc5X04tcXBFTTkwYnlTSzE3RGxDWkNtYzdEYjl5Vm1nR20yWnkwelNNbDB1akxLRmtqUl85c2I5WEVBVExyLTBJZC1Ua0tCOWFnR1FwUURfelhqZWU3ekZsUnVib0QzVHI5UTl6Tl96cERoWXNodVBfTQ?oc=5",
-      "domain": "golfchannel.com",
-      "seendate": "20261113231726"
+      "title": "Raul Malo Widow Is Suing His Mavericks Bandmates",
+      "url": "https://953thebear.com/ixp/204/p/mavericks-raul-malo-widow-wife-lawsuit/",
+      "domain": "953thebear.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Drake Finally Makes ‘Take Care’ Bonus Track ‘Hate Sleeping Alone’ Available Across All Streaming Platforms",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPanprVm1FN285dzNhazYtcVRscmJlbDZwN0F5czdLV3ZqOTlHRzl5d0Fad3BxWVlfeFVMaElaQ1dXZWw2bHh1b1NaYnZiZUJ5NWNFY3BpdW16b29jUUlJeTVOeUpRcXVTajNQS3hxbU9ZZmVyOTRwU0N4OWM4UUczTGRfVE9yNGhxTVJpZFowcUdscFNld3JlczBGR0hubWw0WUJzcWNZWEZuLUNhWlc5VzVn?oc=5",
-      "domain": "billboard.com",
-      "seendate": "20261113221557"
+      "title": "Mariah Carey Says It Time for 2026 Christmas Merch on Amazon",
+      "url": "https://foxy99.com/2026/11/13/mariah-carey-2026-christmas-merch-on-amazon/",
+      "domain": "foxy99.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Latest Music Industry Hires: SiriusXM, AIM, beatBread, BMI, Prescription Songs, PRG, TuneCore, USO, More",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZV9ZQ3VPTzRlV0hJY3RKdzNFU3NOTWVFSXIyaGF4cERRTmFfcnZIR2hwdjdKU2RxQUhzZUJkSTREeWRTQ1VvU1o0Mmd3TzRYcW1xRWVqdVoxMldCbGRXZlByQkNsOVViRjZwQUt3ckZMZ0ZwRWhueE02T012UEhQcUdTZw?oc=5",
-      "domain": "digitalmusicnews.com",
-      "seendate": "20261114020046"
+      "title": "Taylor Swift to Perform at the 2026 CMA Awards",
+      "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-perform-2026-cma-awards-1236754753/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Gamethread/How to watch Northwestern men’s basketball vs. DePaul: TV, streaming, radio, injury report, betting line",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2tZYlF3VzRhMlk0cWN3N0JDM0FfejNZZ1RsWWNNcVBmX1BJdlROcFFRbEtCWmVRNHRRSkV3ZXBfY1dEbkdLZzM0dXcwLTVaZ2RfOGd5VHoxU0ZhUGxTWmp6WVE1Mi1aVEpOcmVvek1DaDI3R3F5VWlYYnJMN1NuMmRVX2RUS3N4Z2FhSENkMjZUNXRZamhJUG40a3hFVmxzTkVkZVowVzVCOHk0R21SWlJEaElfcktjSEtnN1F2cVFBWmRzbXJJU0xuU24wZkN0ZmVQdlhTTVMtSVZXdDlaZ3VTRW5HSHdmeVU3T181U0ZVdV96aWdhcnREQ18?oc=5",
-      "domain": "insidenu.com",
-      "seendate": "20261113224425"
+      "title": "Pedro Almodóvar explores how good friends can get so angry in Bitter Christmas",
+      "url": "https://www.klcc.org/movies-tv/2026-11-13/pedro-almodovar-explores-how-good-friends-can-get-so-angry-in-bitter-christmas",
+      "domain": "klcc.org",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Santa’s Sleigh Tour in Naperville shortens schedule this year",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdDRFY05tSTdNNFpRWnFzX1pSOWwweC1rWGR1WG1TSWpjakY2d29aenlvR1l1cHFheXFERmlsUnFDdlAtbE9zUHRKYW5yUFJXMHlZQm1uZUE2Qk1WeVlGcDJ6NzhXTHRodnFoSGhNd1dJVlZNeFVmR1ZR0gF_QVVfeXFMTkdxUmk5dXBHZmx0T3NFSnR5bkE2RDVxZWU0VkFzQ0M0UTRmc3ZQTlpYTnpyWWRib0loNlFUamhiNlFud19FTjMtLVpBSjBRd09BQloxX1dNR0xPcGJta180dGtDdkI5TXcwRU5DUy1MU1JxZGFZNTh1RElIalhLcw?oc=5",
-      "domain": "nctv17.org",
-      "seendate": "20261113235348"
+      "title": "One Sweet Hour Irish Film : Elvis Impersonator , Monk , Brothers , Trauma",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/one-sweet-hour-irish-film-elvis-impersonator-monk-brothers-1236751654/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Review: Catherine Cho in Recital at the Music Guild in LA",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xdUJCdzZ3R0RKVFRwYUFGYzBOWWY4Q205a3kzcFVIdnhJanpxYXZhcEZSMFI5TG5nNmtUajhYZElqSmJNMGRwLXFHQ2xQMmV6U0F5a3Jwamp3M1h3QXNrYg?oc=5",
-      "domain": "violinist.com",
-      "seendate": "20261113220628"
+      "title": "After 8 nominations without a win , Glenn Close is overwhelmed by honorary Oscar",
+      "url": "https://www.dailygazette.com/the_recorder/ap/national/after-8-nominations-without-a-win-glenn-close-is-overwhelmed-by-honorary-oscar/article_4af08a82-f57e-59da-9851-918482d884cb.html",
+      "domain": "dailygazette.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Backyard Movie Critic (@backyardmoviecritic)",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aV2YtT3Z6UmNReXpaaFhvVGplR1k5U1ZYLUtPVEpsYTJ6VGJTeDQtaUhMejEzRVNQX1NXLXJLejdMR0hUd00yamdmRW5fWGx2MFIweTBtRkttSFBfNFRNYTVCWXRWWTZudXc?oc=5",
-      "domain": "substack.com",
-      "seendate": "20261114021846"
+      "title": "UK police launch sex offense investigation into children author and TV personality David Walliams",
+      "url": "https://www.click2houston.com/entertainment/2026/11/13/uk-police-launch-sex-offense-investigation-into-childrens-author-and-comedian-david-walliams/",
+      "domain": "click2houston.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "“Mohabat”: New Film Follows 12-Year-Old Afghan Boy After U.S. Drone Strike Kills His Father",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbkQ1X1FkUUZiUVNWQmFxOHhHVUtNRklFUWIwTERvajdBblhnLTBEOTVQdU0tT2ZtOUxsUGJDUlFDVzkyX2NVaXhIYWRPcnYyaUI0X0pxRldBM2Y3YlQwMTQxWWVvallrX2RMYzh4S3dLcWxKZjl5dFNDc0w?oc=5",
-      "domain": "democracynow.org",
-      "seendate": "20261113210609"
+      "title": "UK police launch sex offense investigation into David Walliams",
+      "url": "https://www.pressdemocrat.com/2026/11/13/david-walliams-sex-offense-investigation/",
+      "domain": "pressdemocrat.com",
+      "seendate": "20261113T180000Z"
     },
     {
-      "title": "Donalds, in Hollywood, talks gubernatorial transition: ‘Starting from the ground up’",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZjd0TTJvSVJTTkk3WTRSSVJiOXp4QXhvd041WDFSVVpqR2F0S0F6djA4LVNPTjdYM2dMRERUUHp4MmxUZzNTVGVxOWx6c0pyelo5cGZLd3VBRXlVcEx5dG5qVmUtY05OVUhZa2VlY1JJSERxNG1KbG9CaVdRMWcyV0VIWmp2d2RLTU9nektmdjBucVRqNk42RUZVZDhHSXJ6N3k0UDZiU1VVY1hMUHRsY3hZLUFsa0hQcFlaNnlBZVRJQ0FaNVQ4Qw?oc=5",
-      "domain": "local10.com",
-      "seendate": "20261113233556"
+      "title": "Taylor Swift performing at 60th annual CMA Awards in Nashville",
+      "url": "https://13wham.com/news/entertainment/taylor-swift-performing-at-60th-annual-cma-awards-in-nashville-tennessee-country-music-i-knew-it-i-knew-you-single-of-the-year-nomination",
+      "domain": "13wham.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Interview : Jazz great Rick Braun paying tribute to Chuck Mangione at Kodak Center",
+      "url": "https://13wham.com/news/good-day-arc-rochester/jazz-great-rick-braun-paying-tribute-to-chuck-mangione-at-kodak-center",
+      "domain": "13wham.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "New sexual misconduct claims emerge against Russell Brand",
+      "url": "https://www.wpxi.com/news/trending/6-more-women-accuse-russell-brand-sexual-misconduct/UQ3E4QKXTVFHJOLAOWGPLTPFJE/",
+      "domain": "wpxi.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "David Walliams Under Police Investigation Over New Sex Misconduct Allegations",
+      "url": "https://www.tmz.com/2026/11/13/david-walliams-under-police-investigation/",
+      "domain": "tmz.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "All 12 Friday the 13th Movies , Ranked",
+      "url": "https://www.polygon.com/friday-the-13th-ranked/",
+      "domain": "polygon.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "BigXthaPlug Scores First No . 1 on Top Rap Albums With Better Over Time",
+      "url": "https://foxy99.com/2026/11/13/bigxthaplug-scores-first-no-1-on-top-rap-albums-with-better-over-time/",
+      "domain": "foxy99.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Journey Quietly Replaced Deen Castronovo on Final Frontier Tour",
+      "url": "https://kmhk.com/ixp/295/p/journey-deen-castronovo-final-frontier-tour/",
+      "domain": "kmhk.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "38 Special Adds More Than Half Dozen Shows to 2027 Tour Schedule",
+      "url": "https://929thelake.com/ixp/295/p/38-special-2027-tour-dates/",
+      "domain": "929thelake.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Dolly Parton final song with U2 Torn released posthumously",
+      "url": "https://www.wpxi.com/news/trending/dolly-partons-last-recorded-song-released-listen-torn-with-u2/B6AZY7H4IRDOVJG5XYY6PVIQGA/",
+      "domain": "wpxi.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Dolly Parton last recorded song is released It a duet with Bono",
+      "url": "https://www.wpbf.com/article/dolly-parton-u2-torn-final-song/74421986",
+      "domain": "wpbf.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "The Best Grunge + Post Grunge Album of Each Year From 1987",
+      "url": "https://kmhk.com/ixp/366/p/best-grunge-post-grunge-album-of-each-year/",
+      "domain": "kmhk.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Gabby Windey on Reality TV Being Dead to Her , The Body Acting Debut",
+      "url": "https://www.hollywoodreporter.com/tv/tv-features/gabby-windey-the-body-peaked-reality-tv-dead-interview-1236754223/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Bruno Mars , Olivia Dean & More : The Top Pop Artists & Songs Of 2026",
+      "url": "https://hitscarolina.iheart.com/content/2026-11-12-bruno-mars-olivia-dean-more-the-top-pop-artists-songs-of-2026/",
+      "domain": "hitscarolina.iheart.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Dolly Parton final vocal recording to appear on U2 album",
+      "url": "https://kval.com/news/entertainment/dolly-partons-final-vocal-recording-to-appear-on-u2-album",
+      "domain": "kval.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Lionel Richie Returns to the Stage After Heart Procedure : Im Back !",
+      "url": "https://foxy99.com/2026/11/13/lionel-richie-returns-to-the-stage-after-heart-procedure-im-back/",
+      "domain": "foxy99.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Avril Lavigne Welcomes First Child + Posts Photos",
+      "url": "https://kmhk.com/ixp/366/p/avril-lavigne-first-child/",
+      "domain": "kmhk.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "22 New Rock + Metal Tours Announced This Past Week",
+      "url": "https://kmhk.com/ixp/366/p/new-rock-metal-tours-announced-nov-6-12-2026/",
+      "domain": "kmhk.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Taylor Swift To Return To CMA Awards Stage 13 Years After Her Last Performance",
+      "url": "https://bob949.iheart.com/content/2026-11-13-taylor-swift-to-return-to-cma-awards-stage-13-years-after-her-last-performance/",
+      "domain": "bob949.iheart.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO : Here what we know",
+      "url": "https://www.bostonglobe.com/2026/11/12/business/nvidia-ceo-resigns-heres-what-we-know/",
+      "domain": "bostonglobe.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Ford throws open the doors to its new Vault , unveiling 125 rare historic vehicles",
+      "url": "https://www.click2houston.com/business/2026/11/13/ford-throws-open-the-doors-to-its-new-vault-unveiling-125-rare-historic-vehicles/",
+      "domain": "click2houston.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Police Investigating David Walliams Over Alleged Sexual Offenses",
+      "url": "https://www.hollywoodreporter.com/news/general-news/david-walliams-met-police-investigation-sexual-offences-1236754735/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Christian Cousins Dead : Knots Landing , Kindergarten Cop Actor Was 43",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/christian-cousins-dead-knots-landing-kindergarten-cop-twin-1236754701/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Disney Plus Brings 3D Movies , Dolby Vision , and Atmos to Meta Quest",
+      "url": "https://www.ubergizmo.com/2026/11/disney-3d-movies-meta-quest/",
+      "domain": "ubergizmo.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "New movie being filmed in Jonesborough",
+      "url": "https://www.electric949.com/new-movie-being-filmed-in-jonesborough/",
+      "domain": "electric949.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Brandweek 2026 : Why Gopuff Would Rather Be Debated Than Ignored ft . Tyler Stewart",
+      "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-gopuff-would-rather-be-debated-than-ignored-ft-tyler-stewart/",
+      "domain": "adweek.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Fallout from the Nvidia scandal may dampen the exuberance around AI",
+      "url": "https://www.bostonglobe.com/2026/11/13/business/nvidia-fallout-jensen-huang/",
+      "domain": "bostonglobe.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Fans concerned after Megan Skiendiel performs from chair , in sunglasses post - concussion – NBC Connecticut",
+      "url": "https://www.nbcconnecticut.com/entertainment/entertainment-news/katseye-fan-concern-megan-skiendiel-concussion-tour/3795754/",
+      "domain": "nbcconnecticut.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Kim Kardashian Still Wants to Be a Lawyer After Failing Bar Exam",
+      "url": "https://clichemag.com/celebrity-news/kim-kardashian-still-wants-to-be-a-lawyer-after-failing-bar-exam/",
+      "domain": "clichemag.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Quiz : Can You Identify the Golden Girl Episode From Its Description ?",
+      "url": "https://www.mentalfloss.com/quizzes/movies-tv/identify-golden-girls-episode-description",
+      "domain": "mentalfloss.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Stephen King and Real - Life Serial Killers Shaped the Most Unhinged Thriller of 2026",
+      "url": "https://www.polygon.com/maika-monroe-victorian-psycho-interview/",
+      "domain": "polygon.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Bessent blames Lutnick Commerce Department for not restricting Nvidia chips to China",
+      "url": "https://www.click2houston.com/business/2026/11/13/bessent-blames-commerces-lutnick-for-not-restricting-nvidia-chip-exports-to-china/",
+      "domain": "click2houston.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Sound Stage : The JJ Lang Band",
+      "url": "https://13wham.com/news/sound-stage/sound-stage-the-jj-lang-band",
+      "domain": "13wham.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Camp Flog Gnaw 2026 : What fans need to know about set times , parking and more",
+      "url": "https://www.pasadenastarnews.com/2026/11/13/camp-flog-gnaw-2026-what-fans-need-to-know-about-set-times-parking-and-more/",
+      "domain": "pasadenastarnews.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Savannah Guthrie Renews Today Show Deal",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/savannah-guthrie-extends-today-show-deal-nbc-news-1236754721/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Gruv Launches Huge 4K Movie Black Friday Sale",
+      "url": "https://www.ign.com/articles/gruv-black-friday-sale-2026-4k-bluray",
+      "domain": "ign.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "The Big 4 of Live Classic Rock Triple Albums",
+      "url": "https://kmhk.com/ixp/295/p/top-live-classic-rock-triple-albums/",
+      "domain": "kmhk.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Commanders QB Sam Hartman chosen as The Bachelor",
+      "url": "https://www.wpxi.com/news/trending/commanders-qb-sam-hartman-chosen-bachelor/O2HC42UDFBFQFMV34DDCWMT4W4/",
+      "domain": "wpxi.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "New community to debut atop Sugarloaf Mountain in Minneola",
+      "url": "https://www.orlandosentinel.com/2026/11/13/tri-pointe-homes-set-to-debut-new-residential-community-atop-sugarloaf-mountain-in-minneola-2/",
+      "domain": "orlandosentinel.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "Warm 101 . 3 steps into Christmas as the Holiday Gift of Music returns to Rochester radio",
+      "url": "https://13wham.com/news/local/warm-1013-steps-into-christmas-as-the-holiday-gift-of-music-returns-to-rochester-radio",
+      "domain": "13wham.com",
+      "seendate": "20261113T180000Z"
+    },
+    {
+      "title": "DJI Mic 2 Wireless Microphone Combo Just Made Waiting for Black Friday Pointless , With a Charging Case Included at an All - Time Low",
+      "url": "https://gizmodo.com/dji-mic-2-wireless-microphone-combo-just-made-waiting-for-black-friday-pointless-with-a-charging-case-included-at-an-all-time-low-2000839468",
+      "domain": "gizmodo.com",
+      "seendate": "20261113T180000Z"
     }
   ]
 }
