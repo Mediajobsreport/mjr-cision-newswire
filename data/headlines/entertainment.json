@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T01:21:13.710Z",
+  "updated": "2026-11-15T01:23:09.189Z",
   "source": "Google News RSS fallback",
   "category": "entertainment",
   "articles": [
@@ -70,6 +70,12 @@
       "seendate": "20261114231452"
     },
     {
+      "title": "Richard Sterban, the Bass Singer for the Oak Ridge Boys, Dies at 83",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNVhlaGdiYURCa0l4bnk0dTNWb0NFZG5oRjVlUTdZa1Q3bVpaeFdnNWZwLVAxWjlhcHUxNzktRDBuLUY2MDd3aG1pVkoxQVMwaTNIcGdHWnJuNXp4VHJ1N0JSX0lzVTIzcjRxbUhoNnJhYUlneW9pQjlZTQ?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261115011307"
+    },
+    {
       "title": "Pope Leo’s homecoming tour puts the Church’s American footprint on display",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFp2M1pYT2Q1cDNRa3hXdllSV2Q4elhWdEFoU0wycXl4VTBsMEJhb1kyRk01c2JtZkpuSEhja0JlNGg1WnV1bVZFQkpIZ1JSRHVJa1Z5akJXTTVUbkVUX1hWdHA1aHVtMC1Oa2pHakJFSGpBNkdFSWFrOXFOek43THNNQm50ZnlWNUVUWFR3MHdqcUtqR2huSDFkZWlJTWR2VHFiSDBVWDgtZ2QwOGRQVg?oc=5",
       "domain": "latinamericareports.com",
@@ -94,12 +100,6 @@
       "seendate": "20261114215500"
     },
     {
-      "title": "Bowling for Soup returns to Fayetteville with Let’s Be Friends tour - Northwest Arkansas Democrat-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlcwZ2RCUFZnZ2libXZXV29ET2EtZTJjMWVTY3YteGY4U0tpeXBONDI3VE1kX1NLNTVxLW5vUjM0LWlfSVQ0OUNwQ0hMQWM5WUEwS216eDNTSldpRHk5c21FQnpKcV9XelV5bjZSelhodE9oM3lRalVOTTMzc3hneXhHUkx0ZU1BcmxnbFZjbFZBVzBWTFJWM3lkczUxano4bVZwZ3FBQ1JjNlNtWE9j?oc=5",
-      "domain": "nwaonline.com",
-      "seendate": "20261115010000"
-    },
-    {
       "title": "Inside the First AI Music Awards, a Chaotic Evening Attempting to Normalize Tech-Assisted Tunes",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUlxT0puLTlsaHQ1UkdmXzlPd1dwNkhNbS15Y0hSVDJESlRQWFU3LTVTR0d3dmlpeXlJcjVhYTktblN5VE5Dd3hlVnRkU0NnQkg5WTEzUF8xelBlQXBUMkJwWlJqb0NtbTk4cVY4RDQ0VDlrVUFwU1RkaXRMbHNyeHI5SDBaTENtdmhoalA1TmRFT0hSYkFEUDB6N3QySVVXWjZPQS0yVThqSlE?oc=5",
       "domain": "variety.com",
@@ -112,22 +112,28 @@
       "seendate": "20261114203742"
     },
     {
+      "title": "Bowling for Soup returns to Fayetteville with Let’s Be Friends tour - Northwest Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlcwZ2RCUFZnZ2libXZXV29ET2EtZTJjMWVTY3YteGY4U0tpeXBONDI3VE1kX1NLNTVxLW5vUjM0LWlfSVQ0OUNwQ0hMQWM5WUEwS216eDNTSldpRHk5c21FQnpKcV9XelV5bjZSelhodE9oM3lRalVOTTMzc3hneXhHUkx0ZU1BcmxnbFZjbFZBVzBWTFJWM3lkczUxano4bVZwZ3FBQ1JjNlNtWE9j?oc=5",
+      "domain": "nwaonline.com",
+      "seendate": "20261115010000"
+    },
+    {
       "title": "How to Watch the Kids’ Choice Awards 2026 on TV and Streaming",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjhXWWlSLVU4dG9SeFRZMllaZ3ZRYW9LSVU3Z3RvUkhXWk5hZjBMZzcxamVJMVhVTWNNNDhvT0ZYMEswNnFXRWNkUzc4SjRLR3NUN3pGNlZRaWFTQzU3QldlVW8wWDk5LVFDZXNzZGY3VG9mbWI5MFRBMXcwVS1ERU55eUZpTnBxeGRRcFZhV2JZNndDaHR3?oc=5",
       "domain": "thewrap.com",
       "seendate": "20261115003000"
     },
     {
-      "title": "Why It’d Make Sense For Johnny Depp’s ‘Ebenezer’ To Break With Paramount’s Streaming Strategy",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkZ3YnB2ZFZLb0JsZkQ1RmxEVmJCUXFOSFRGQlY2eEd1dTFCTTBYTmpPcno1OXNTMV9JVms5YjZmMXJzUm9maUZDOE9uV2VodE05N3RfWUNhY2lwVEFpa2UxWW5IaGFMZHZSa3VYNk1oRkZzV0x4TjlubHdRSGtXSklXdW56MjlUZllNQmpmdWZKVnF6WG9wSUFTMERBZnJfT1d1Zk0xeEtZVlp2MmRkVnI3eV9pVEdkUGpteVhuaHlkNWgza2RxeHNLSDd4WUt4a1BaOHRTZw?oc=5",
-      "domain": "forbes.com",
-      "seendate": "20261114222912"
-    },
-    {
       "title": "LIVE! A Music Calendar: Emily Ann Roberts brings big country sound to River Valley - Northwest Arkansas Democrat-Gazette",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnQtUElFNC10aUEzQWFwMzBHOUFXc1N0d0hOdUR1eGxUTVhJLU1PLWpqZnNqcExWUkQxRm5aWXY0WmVFYU1ZUEhQZTZGUVFKZnBlekE2bTEtVlB3RFJyRmxmZ3oycnR4bk5GRTllNF9UcmR4REhqcV9lWXJaMTI2T0lZRjRwSkVUY1ViSUZacll6NzJP?oc=5",
       "domain": "nwaonline.com",
       "seendate": "20261115010000"
+    },
+    {
+      "title": "Why It’d Make Sense For Johnny Depp’s ‘Ebenezer’ To Break With Paramount’s Streaming Strategy",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkZ3YnB2ZFZLb0JsZkQ1RmxEVmJCUXFOSFRGQlY2eEd1dTFCTTBYTmpPcno1OXNTMV9JVms5YjZmMXJzUm9maUZDOE9uV2VodE05N3RfWUNhY2lwVEFpa2UxWW5IaGFMZHZSa3VYNk1oRkZzV0x4TjlubHdRSGtXSklXdW56MjlUZllNQmpmdWZKVnF6WG9wSUFTMERBZnJfT1d1Zk0xeEtZVlp2MmRkVnI3eV9pVEdkUGpteVhuaHlkNWgza2RxeHNLSDd4WUt4a1BaOHRTZw?oc=5",
+      "domain": "forbes.com",
+      "seendate": "20261114222912"
     },
     {
       "title": "Johnny Depp’s ‘Ebenezer’ Conjuring Up Box Office Victory in Star’s Return to Studio Fare",
@@ -154,6 +160,12 @@
       "seendate": "20261114221400"
     },
     {
+      "title": "Country music legend behind many iconic songs dies at 81. Here’s what we know",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYzBhMUdGcURNMUNlblhoTG5USWI4RTB0X3VxVVlzNENWVkF2eDNSUUdMVzEyVVZBeUNMRi1EVHM4VTRmckQ1SWM4SndJVDFSblZxNkN3OEw0VEI0bEVSR3dmLW04eUJUMzlBTmxOeFlPenZoMXB0NWYxUWtRNkR2cFhtOXViZG91QzJ2THRERVNRbXFUX0pWNm9ldjZVdTVlZmU3UXVnZFBZNzlYX19VanVpVkxuS1hhYTNYWkdsb0JURlNDZVHSAdoBQVVfeXFMT3FnVmNtaWxtWnFZb1NTdjlvZ1NWc1NadGk5U01EN2pSYU9kRkJ0UHo3dzhsX0xreW5taG9Nbm90LXhiTzJMOW40X0Y1RUhtaU5MWE0xTjNlZWJ0OG9TNXg2VjAtYnNLR1U1cjF4Rmh3SFVidTNzaERIeWlEcTd5Ny1ZZXhoRWJtbXV0SGZNNXlGTnc5MTJyaTRPZzBJSEd5THRMbUVXWDIzdGVHdVlWUllQR21LQVZKaU5fN1BiTWZUNmlMVHNhMGN3ZVhSQTQ3aUVTc1l3RHh4WWc?oc=5",
+      "domain": "pennlive.com",
+      "seendate": "20261114211300"
+    },
+    {
       "title": "Country music singer is retiring at 51: ‘I can’t do this anymore’",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXhqX1VVVkVUcVNIaExJb3JKN19mWmNYYjB5b3F6a1VzclppRFE5V2lXZVpManI4UUJJVTBKZC1oZldxYTJ6NE42bGUwOFBhMXY4dl9sblhWODhHczlMNkJHSUdhNGl6VkpncnNpTnJwSTJkeXJqNVJFVk1PNklCeVEtMnV0R2t0dDFpSGdIOTJBYWhqMlhOa0tYUlp1cFp3a25wZTBheEJ5STNzb3UyeDJSd9IBxwFBVV95cUxNM2tJZ0JkaERkZG5Pa3Q4MFdjRHd6OVd1aWthbHZ6TnJ0MWp2cVBybENZN0l3bzhUZGgwQWc3Z1lYVzFXTEpKVTgwRlpWZUVUQ2pfMS1wenZtZmFnR25pRUl5c3Nsd29wMHl5MXJOYlVaTTJma3ZKZmc0aEFDNDBCRFg2azRrSWl1elhJdC00VVF2dHdqWFNFODluUERSMFZ4ZklPR0xmVFo1eUQtSGprOFA0TTlzTE5sdmtJd3VSRExJZmFiMUlJ?oc=5",
       "domain": "pennlive.com",
@@ -178,16 +190,16 @@
       "seendate": "20261115000535"
     },
     {
-      "title": "‘Wildwood’ Filmmakers On Real-World Inspirations For The Film",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzdnMmZIb3hlTU1PZ0ZKNzRyTlpZVnBkd0FHV2Q2QzEydUVuR1hkd0hhUE1NaWxjM0ZqOWR3aEtjUU1kaWJoTFlXeXZBTzMzSU50SXV2QTJkdHc4d3FsSUxNNVpzcDNQUGJPV1JGZGpjMGpVVHd3UTcyN3pUZlZTaG5nRXhtYWFadnhkZ0FB?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261114213300"
-    },
-    {
       "title": "PGA Tour Champions highlights: 2026 Charles Schwab Cup Championship, Round 3",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQakIyZ2pKaFRTN0d6dk1OWWM4MTU1c1ZPbjdUSEhDZUk5T2ducWJyOVl3WVlqN2tSTDF5MWZFSEtEdW9PVVRpLUtLcjFJOXpTdHpHQmYwV2JxZ3A5ZXF2TTFwME54dm1rSmhNdmcyTmR2N2o5X0ZfaVlxUEwyMTZiVkdTRTVkaU5BU0dTWjZQeGJJUGRTdS01TDNoOXIzc3BIMG1nVUh5UmJoY2JrYk9uTmt6bjExTTMybnVlTTZmdENSampmQmc?oc=5",
       "domain": "golfchannel.com",
       "seendate": "20261115011917"
+    },
+    {
+      "title": "‘Wildwood’ Filmmakers On Real-World Inspirations For The Film",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzdnMmZIb3hlTU1PZ0ZKNzRyTlpZVnBkd0FHV2Q2QzEydUVuR1hkd0hhUE1NaWxjM0ZqOWR3aEtjUU1kaWJoTFlXeXZBTzMzSU50SXV2QTJkdHc4d3FsSUxNNVpzcDNQUGJPV1JGZGpjMGpVVHd3UTcyN3pUZlZTaG5nRXhtYWFadnhkZ0FB?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261114213300"
     },
     {
       "title": "ROAD SHOW: 10th annual DUSK Music Festival",
@@ -206,12 +218,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUN2ekx3VEhGdDBWZmt2bnl0N0w2TFpOMEFTYV9PTXBfbFgyRVFMN2h2MlExa1duMXVJc2FrU3ZxaVIwRW9BVEUzZ3dyTzh5aEROY05VTU9UbHVIQjVxWGRxSW10bXZmWTh1b2NsbWt3QThIQnM4MGdsbEZUMTdlaDdxMTZ4c3pPRDRuTjRBTHFQTWgyeHBB?oc=5",
       "domain": "wsmv.com",
       "seendate": "20261114233800"
-    },
-    {
-      "title": "Richard Sterban, the Bass Singer for the Oak Ridge Boys, Dies at 83",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNVhlaGdiYURCa0l4bnk0dTNWb0NFZG5oRjVlUTdZa1Q3bVpaeFdnNWZwLVAxWjlhcHUxNzktRDBuLUY2MDd3aG1pVkoxQVMwaTNIcGdHWnJuNXp4VHJ1N0JSX0lzVTIzcjRxbUhoNnJhYUlneW9pQjlZTQ?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115011307"
     },
     {
       "title": "Garrison Heritage Society raises money for Wiley Hotel upkeep with cemetery tour",
@@ -254,12 +260,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZkQ3RDB3NDZLYUhVQm5tUERVcGZaRHltMWhtRDBLYXkzMS1FYWRNZlM0NHdyVFJJVmJJakp6TEl3WU0zSXBrZ3RqUzFwcWk1VGd6bGJUTzhxUU1ZSVA5cENfdkJlbFkyTnU3Yk9jczBKeUJRVk1lZEdvX2xKb3FKLQ?oc=5",
       "domain": "deadline.com",
       "seendate": "20261114195000"
-    },
-    {
-      "title": "Country music legend faced ‘1% chance of survival’ amid multiple health concerns",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckRvb1VGbENsWHI0bmItZnVkamtIdHFfQXhwM09VaXpWbnpUSk5QOFcyY3h6VjVkRFM1akR0VlF4aFN0THZ0VGlPUk9hQTd4UV80SGhMMkdBY00xLXJSMFoybGttUFctMmdyMXpoa1JaOVVyVF9JMlBWeG9CNzRpSjBGaDlQeGxra2xHa1Jjc0daa3dHUjNQMmRTejgtVlhkMk90dmNsOFM2U0pnQmFMenNMbkfSAcgBQVVfeXFMUHhkekczbU9sUnAybTlMTVlUNlBJa283S3NpRGduTks4cmU1M2MybUV2a1QwZW5xTkhzTHFDb3lSZWhmRUpoNjV1Sl8yRWgwX0dKRG84Sk1UbDlTUVhMcVVnNFNuNjhidm1GUFJSc3dsNkFuemJsRkx3VVNTZ0pNeWhaT213MzdkUTNia0xEWDFiRGt5VWVhTUk5QUNMamJrTE5pNXZsUnBJWXJNRTZSSEw1ZEdHOVBORDUwcXJTLTNKWGp1VmxBSXo?oc=5",
-      "domain": "al.com",
-      "seendate": "20261114195200"
     }
   ]
 }

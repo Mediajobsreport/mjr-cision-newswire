@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T01:21:13.710Z",
+  "updated": "2026-11-15T01:23:09.189Z",
   "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
@@ -16,6 +16,12 @@
       "seendate": "20261114212215"
     },
     {
+      "title": "Stephen Miller faces first crisis as White House chief of staff",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUJGTmU0OUlnNHg1QVdVRUZsQVZkMWZ2MzhqRFBIMzFxOUNpN3AtUUl6a1lSZnNnZ3hpbUJUeFNqLS1mNlJtVHJtRk1UZFhNNmU1X0ZkS083UEF1S3F1TUJHS0tOaF9PalpmVEJMZjg2blpsRHVHeU05enVwakI2cFc0LXhmM3loeWotMkNyVGxsZEh5VVhxeDNZQzJtdnRlMGZaMGxiYXp3V0JnZWFwT2ZzYw?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261114180000"
+    },
+    {
       "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
       "domain": "nytimes.com",
@@ -25,7 +31,7 @@
       "title": "Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ3VUalFNYjlXZTE0S3d5TDlEUC1nMEZjMm44U09LTGZTY2VfWmtjX1FkSTU5VTRjdDBkak0xRHlLMlFzT0lWaWVVYUIzV0hWaGVFSm0wSE54RnNOaWhOcG1xMkZzSkVpVVQyUk1ZWlNMZ0NNZ3dab3lldHJ2TUVWRE55WUZmUnZIQ002d0RtcjRiWEJPNG1yUm01UjNCZDhzUkMxek5lcVJ1VEowRGN2alFmWmJaemVvTVE?oc=5",
       "domain": "washingtonpost.com",
-      "seendate": "20261115000604"
+      "seendate": "20261114225250"
     },
     {
       "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
@@ -34,16 +40,10 @@
       "seendate": "20261114222706"
     },
     {
-      "title": "Inside Stephen Miller’s aggressive first week as Trump’s chief of staff",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHFMOGVOUDhOREtMQjBGcXRVemE3dkw5N2ViVU9Gd09XOW00NjZqX3ctOHhqTVoxaS11OGNHRjAycjZ4RlZub05USmZDb1RFTkplUk54Y0hEc2stU0ZhWU1aakxJcGtMWGZtcmJldjhQbWE5cTVmbWdoal8tMHNsYg?oc=5",
-      "domain": "cnn.com",
-      "seendate": "20261114110015"
-    },
-    {
-      "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTG1LMERLMDNjTGtkbVlYZ09DLVhFTFhDZ1AyY2tZWkNQZDFFVEhGYVJwYmdBc1dza0NhTUlDeXlHeUpPRlA1a1g3UjY1VkY2aUpjMDlOOUFfc0dud1d0S1FaOS1PWHQ5dzcyVTRKendscUVvT3J6ZjJ3TUVzN24zYTJ6aDAwaXNsdXJHbGRhNkQ4VV9rWDd5dHdYbEQ4TEs1aTY4aXcwdThfalVQdFBnSG5SMNIBuAFBVV95cUxPNFp6OXo4T0pqbWR0c1hLMFBTT3lRZndmcUR5ZVZMcnZHT2RFQl9rUTZIMlFLTTlOcjhwT1o2TXRZVGN4eUJJLUFWNGoyU3lsWUEzOHlMNXBpcGw5Z2c3RUVnZXIwSmhvYXNuWnl4M0ktUEJzckxLWUtZdVJYM0kzZEF0S2lpRktpNkw5cXFxRWcwZXozd2ZrLUUtbXJBZ1E4WEZwc2wtWENDVmhaZnpkbk1zODZReXlK?oc=5",
-      "domain": "aljazeera.com",
-      "seendate": "20261114212230"
+      "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFp4d0xZSmlhdmlDRVJDazVic08xNEVjOFFsNk1BRVd5U3liOXR6ZjVUb0FCN3ZLc2pwMDBKOVRCSmdCN2hqbmpOaTJqZ2R0THcxc1dZZFZjTldfUTZNX1VacG1wOEdjM1dmclZVamJlMFNhMnBCMl90blNNQXFVbmg0RVpIelpCcmRwSjUzMy1JLVdPNk1sOUNDeWdQMTZ1YTV0NnNyZXdQSTQ?oc=5",
+      "domain": "bostonglobe.com",
+      "seendate": "20261114215319"
     },
     {
       "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
@@ -58,10 +58,10 @@
       "seendate": "20261114233306"
     },
     {
-      "title": "Can Chris Van Hollen Really Unseat Chuck Schumer?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGJGY0ttU2dURkxoUjhQQXpvWkNnZ1dFQjhaTWJzbDRkYmdESVhRbl8tM3p3RUlxU1d4VUxTZXVvVTJQd3l4bnJNSmdsS1BBdG91YjYzQXNiWHhiY3lmYkZYaEZVVHhSN05hVGctVk15X2tWejJFdWRYODBibXBTbS05eWJWNWV1dkMwVHE1dnNaZlo4YjdJS3Y4emFWV2tkWE1panVzcENfXzRCWXRQcVpB?oc=5",
-      "domain": "rollingstone.com",
-      "seendate": "20261114150000"
+      "title": "Engineers question city-approved plans after Brooklyn building collapse",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcFMycDdscjJvSkJpZEhyTjBRWlM4X2h1bE82UXIwNUJBQWZwLXl0T1dpQU1OMFozT0U5dmViRkVuLTRBakVRYVRTdm1oUk1FNXEwekQ2NVZ0Ukg3NUltcF9aRjBPSXRVOEIyV1JDU1paZ2VpU1Jjc2N5N0QtR09SeGdCQkU4M3hWOGVNMWVCMHQyaTRkYU8tcHBES1ZHM28?oc=5",
+      "domain": "gothamist.com",
+      "seendate": "20261114162500"
     },
     {
       "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
@@ -142,10 +142,10 @@
       "seendate": "20261114223714"
     },
     {
-      "title": "Shane Gillis Breaks Silence on Backlash Over His Controversial Saturday Night Live Monologue",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnJvcDkxa01iMmw1aG1mTy1xUERvLWZYSmh4cHlvazV4WHQzTURWRjF1dWcwVXd2LXF6QzZPbnd2WE12akh2cFFnVWJoRFZMa1IyX0dfTFR2dTRyeHlOdWhieTc2dVVaMEdoejNwUEk5dG9zQTFsd3AzZmlqazhPcDBKa3JWSWlLcUEybi1oMlY4RFRkRkxrZ29Raw?oc=5",
-      "domain": "eonline.com",
-      "seendate": "20261114141500"
+      "title": "‘Grand Theft Auto VI’ Soundtrack: See the Full 34-Song Tracklist",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU5JZ2Vhb1FldGJ4WTJrVHRZTkpHTXk4VHQ2UnVMY1ZRUDBiV0h1T1VFZ1dPRjBCdmNRVUJRZ1ZaX2pfVDc2YXpGajFFQXpuYWFKWU9hblVqSHRqdm12YmVCNlZDbTJtMFFaY0ExZkxxbmpWTE1feWEyUkVQazd2ME0zamZxVHlQWHBwRFlfRmZhVU5yX0Q5enZ6ajg1cFJqcnR2aTNXWTFJOXM?oc=5",
+      "domain": "billboard.com",
+      "seendate": "20261114210209"
     },
     {
       "title": "UFC 334: Live results, analysis for Gane-Hokit, Harrison-Nunes",
