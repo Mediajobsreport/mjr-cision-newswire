@@ -8,6 +8,16 @@ const CONFIG = {
     query: "sourcecountry:us sourcelang:english",
     fallback: null
   },
+  strange: {
+    query: 'sourcecountry:us sourcelang:english (bizarre OR quirky OR oddities OR "weird news" OR "world record" OR "unusual discovery")',
+    fallback: 'when:7d ("weird news" OR bizarre OR quirky OR oddities OR "Guinness World Records" OR "unusual discovery")',
+    timespan: "7d"
+  },
+  positive: {
+    query: 'sourcecountry:us sourcelang:english ("act of kindness" OR "good samaritan" OR "heartwarming" OR "reunited" OR "rescued" OR "surprise donation")',
+    fallback: 'when:7d ("act of kindness" OR "good samaritan" OR heartwarming OR "reunited" OR "rescued" OR "surprise donation" OR "pays off school lunch debt")',
+    timespan: "7d"
+  },
   entertainment: {
     query: 'sourcecountry:us sourcelang:english (movie OR film OR television OR streaming OR actor OR actress OR singer OR music OR celebrity OR Hollywood OR album OR tour OR gossip OR "red carpet" OR "box office" OR casting OR scandal OR relationship)',
     fallback: "when:1d (movie OR film OR television OR streaming OR actor OR actress OR singer OR music OR celebrity OR Hollywood OR album OR tour OR gossip)"
@@ -73,10 +83,10 @@ async function timedFetch(url) {
     return response;
   } finally { clearTimeout(timer); }
 }
-async function fromGdelt(query) {
+async function fromGdelt(query, timespan = "24h") {
   const url = new URL(API);
   url.search = new URLSearchParams({
-    query, mode: "artlist", format: "json", timespan: "24h", maxrecords: "100", sort: "hybridrel"
+    query, mode: "artlist", format: "json", timespan, maxrecords: "100", sort: "hybridrel"
   }).toString();
   const response = await timedFetch(url);
   const payload = await response.json();
@@ -103,15 +113,24 @@ function dedupe(articles) {
     return true;
   }).slice(0, 60);
 }
+
+function categoryArticles(category, articles) {
+  if (category !== "strange" && category !== "positive") return articles;
+  const unwanted = /\b(trump|biden|election|senator|congress|democrat|republican|politics|political|murder|homicide|dead|killed|fatal|death toll|war|airstrike|horoscope|zodiac|review|trailer)\b/i;
+  const strange = /\b(bizarre|quirky|oddities|oddity|weird|strange|unusual|guinness|world record|world's (?:largest|smallest|oldest)|mysterious|mystery|unexpected discovery)\b/i;
+  const positive = /\b(kindness|good samaritan|heartwarming|reunit(?:e|ed|es)|rescu(?:e|ed|es)|saved|saves|hero|heroes|donat(?:e|es|ed|ion|ions)|fundrais(?:er|ing)|generosity|pays off|paid off|grants? wish|wish comes true|helps? (?:famil|children|community)|adopt(?:ed|ion))\b/i;
+  return articles.filter(item => !unwanted.test(item.title) && (category === "strange" ? strange : positive).test(item.title));
+}
+
 async function collect(category) {
   const cfg = CONFIG[category];
   try {
-    const articles = dedupe(await fromGdelt(cfg.query));
+    const articles = dedupe(categoryArticles(category, await fromGdelt(cfg.query, cfg.timespan)));
     if (articles.length) return { articles, source: "GDELT" };
   } catch (e) {
     console.warn(category + ": GDELT unavailable: " + e.message);
   }
-  let articles = dedupe(await fromGoogle(cfg.fallback));
+  let articles = dedupe(categoryArticles(category, await fromGoogle(cfg.fallback)));
   const entertainmentTopic = /\b(movie|movies|film|television|tv|streaming|actor|actress|singer|music|celebrity|hollywood|album|tour dates|gossip|red carpet|box office|casting|grammy|emmy|oscar|broadway|concert|podcast|netflix|disney|paramount|hbo|spotify)\b/i;
   if (category === "all") articles = articles.filter(item => !entertainmentTopic.test(item.title));
   if (category === "entertainment") {
