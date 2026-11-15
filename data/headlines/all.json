@@ -1,229 +1,367 @@
 {
-  "updated": "2026-11-15T07:25:05.151Z",
-  "source": "Google News RSS fallback",
+  "updated": "2026-11-15T14:53:42.222Z",
+  "source": "GDELT",
   "category": "all",
   "articles": [
     {
-      "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTU1hZmdOTzU0Z2o1bHlDb01wcDNMU3h1R1B4RGpiRm9PamRydUF4cjd3dkV6ZmE1WVp1MU1WZXU0N1JnUVlqbjFYUjE3RWFuRm02Q1hYSEtkWUw2OF9EcFhYUWk4Rk5janRtaDNTWXJOYVFqTnc0UHJMNThxQzV3NjFHV1dxdWJNOV96eE9zbDJmS0dWNmFkaG1PRklTVGZ1c05LNGVpaWlMaGFFVGs1aA?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261115045500"
+      "title": "GitHub - IRS - Public / direct - file : Direct File",
+      "url": "https://github.com/IRS-Public/direct-file",
+      "domain": "github.com",
+      "seendate": "20261114T210000Z"
     },
     {
-      "title": "The Surf’s Way, Way Up as Huge Waves Pound the California Coast",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWENPZkdEZEVienRIMEVjQUg1X3hCZDYxZnRrdzNjVS1ySGV4VUJpc3ZnVUxpOUxqa0NYSFhMVVdDUGp4TkJyWU9YUlh6YVpSUkxCZ1locmI4NE1tVlhCT25TVXFPY1R3VFV2WENJMTVmVU5lWFVnMFRyWFlVUENPSjRDdVpQbWM?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115040159"
+      "title": "GitHub - Vaibhaav - Tiwari / deepseek - v3 - jax : DeepSeek V3 ( MLA , DeepSeekMoE , aux - loss - free balancing , MTP ) in 190 lines of pure JAX , trained on a MacBook Air . Write - up : vaibhaav . in / writing / deepseek - v3 - jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "domain": "github.com",
+      "seendate": "20261114T210000Z"
     },
     {
-      "title": "Democrat Mary Peltola is likely to win Alaska’s Senate race, as vote counting continues",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkxEOFFMTXBJUF9IamZfemJ4N3JEaXdvYTZvQWJybU5vZVRZZmRDRXhxN3dHOWpsS2R2WWZCcG9qVDNIZVhzWGI0cm9HYzZjVVBYZG90SlZkSF80Z2lBSUZYTjVoanZXSWVpRmRYRXY4OXdQYm4yTUNzVF9tWGhkS0lad29jUnVxMDhKVm01V0tIUERVaVFpQ2ZEbUxfRXZLalpJNmVlMnRjWWQzTmc?oc=5",
-      "domain": "nbcnews.com",
-      "seendate": "20261114205249"
-    },
-    {
-      "title": "How the White House plans to put Democrats on defense on oversight",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWG5qV0tWaHlXWDZ5dmJXM1Z1ZWxYZmg2UGV4aElsOGRUaUJON1lEUXJZekZEbWhzMGtSUkc5aE1TNGp3WXJWZ1h5a29XYU9VdEdXa0N0Q1lJLTNVVEhpa3NqYkwyTFo0cVVmLUJYa081N2RtaHJGNWg5NkxXcS1iRzZXNElXdw?oc=5",
-      "domain": "politico.com",
-      "seendate": "20261114191700"
-    },
-    {
-      "title": "Greene calls Duffy, Mullin press briefing ‘a shakedown for more money’",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbU41bDhxMDBaV3JBMmNiZTJNSE1GemVlWVQtUHRsNGIzVVlULVpFRllxck5CVU5UMXdqRVdnT0dFbTdBS2tQbk5FRmZrOGZPQUdZVnZvRmF2TnJwYndNTnZOYXc3RmNmakVOdUs3WTB2eEs4RGUwZmZ2UGM1WWI5cjI4YjJKT2kxdWs00gGQAUFVX3lxTFBVM1JiWFE1UjZiVGVESldxUG81UVN2Ti1TU0tZVW5jQWJLWTM5MWl6NDdPRlV0aDZtRkRNSDRHc1ItNkx5UEZUMWNMSVVGeWNXQndTTHJhbmF2YmphMHpteTJBQlF0ZmxoTlNMcnVHT0VXazhwVXFFdkZhT05JUFBtaVVBb3pkdEtTdmdFQllqQg?oc=5",
-      "domain": "thehill.com",
-      "seendate": "20261114135700"
-    },
-    {
-      "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXdmUW84QjZxYUtEc2NMZ0gwMlJ0LXNDOUt5TWw5VFlTeGpnN2FQc2NQNXAySUlsbjdRQm85dGoxQ29JLUc0X0prZ3RPcjViYm4zNld0cVdUcEk?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261114222706"
-    },
-    {
-      "title": "A beloved Oregon woman and her dogs disappear. How her community helped investigators solve the case.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHo4bEMyZzEwNXVvajRYRWhUTzY5aEVERzRPSzhGU0I4WGtPZ2w2OG1IQmFYQjJfSU8yU1ZZeEV2eV80TGVhY1VIRWp1QlBuZDBFbVU2Y3ZaWFBjUGpvMzhaMUdNU1kwWnJySzR0ejlLbnZuaGZFRjhvZFd2YXVxRzQ1VFhoa0IycU1SSkJqeGRwdG1KVlE?oc=5",
-      "domain": "cbsnews.com",
-      "seendate": "20261115040224"
-    },
-    {
-      "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzhXNjh2RVF3WldGNE9uTUZyNWFzeUo2aEZaRG1LcDNJX0VEbzhxa25oSmZycGZ2WUlNN2tnVEJ6eHRMSHhvb3J0MG9hZzlJQ3BCemoxSmFfVmRxbnQyYzNjWi16Uk1KZHN1ZDhDNGNEU2hJU0VDeWdzaU5CUGQxSDViM0hFWWdjWU5EXzFGWjMxMUR5R1dmRDUycVZXQkRjMGRUODR2ejZpT1BLUU5aMEZOdHRUWXpJbGVFVzdUVTAxWVI4U2k1T2dWd9IB0AFBVV95cUxOWTN6d3R3b3NBQURpSGhuSXAtN2YxS201bkpXQmZ2RkZlTUR3Q1RQb3Naa1RicVJ5ZElaU1Nxa3RNbDc1UzRKcGJPbElLczAzYl8xRHlvdmlHcXM1cjJveFZaMGZOQzh2R1lzMjNac0IteEt1TDR5bTdjLW45a3kxRnlrclZGYlNvajE0LXlpYk9Vd2lubjlLWG1RSkl2MzlMc19ZdGRWWUhYS19vS3NnMGxUT2lqZ2RKRERKd3VzVzVqcTRyMDFwV2RBaUhsVTdi?oc=5",
-      "domain": "pbs.org",
-      "seendate": "20261114184307"
-    },
-    {
-      "title": "After Her Baby Was Buried Alive, a Mother’s Painful Question: Why?",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tVzR2Y1dDY2N2TDFxLTJTdzVqTHdyanVxU1NsN2N6MjdQU3Z4UHpobzFLYUZTOEEzQW9UYU04ZlM1SkswNWZaT2ZhRG1jZHI2bkdoRk9NZ1JCZm05d1JPTFVzaENtOFFjLXZEUHM4a0JFQkZ1MUZUYUdqTnExeWc?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115025946"
-    },
-    {
-      "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmJYNUozVC1GX01ibDFuSlJTOUNVYU92dm45TGRJNHZpcVNRQ2tFbXJBbDczRHljY0RKT1ZWUzFpMExnRkJhQWtmOGRmUTNYZHJXOWdhaldrQmNxNWZsaUR5b21CR3NiRVpWRFQ4U2pZdkl1eDVPX2V1VkFtZVRtaEUyNi1zMkxTSkpDbG9PR0dkdWM?oc=5",
-      "domain": "npr.org",
-      "seendate": "20261114201234"
-    },
-    {
-      "title": "Fifth Canadian soldier dies of injuries from military training fire",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVic0tteXJQZFNLYUpUUDBUcnFSS2p4Z1lSbW04ZXljajhyVjRuTXNib0dvanhZMWxyUlFudTlZcXdGUkxKYkdKRHk5QWRwRWN2TjZ3bXRsTTZ4clhqSGwwLWhBZHRaZ0l4aHBld2swV255Y1VYZVVQSkprdXh2WEQ2Ny1laXA2aFdLTUlLTnZXY3pQOVRjaEVuUmpsUDNuUDQ0cXVuNDJvSHc?oc=5",
-      "domain": "nbcnews.com",
-      "seendate": "20261115015200"
-    },
-    {
-      "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5",
-      "domain": "aljazeera.com",
-      "seendate": "20261115061806"
-    },
-    {
-      "title": "U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PQ1hLMTNVb094dE1lVlNkWWdtNXVYQjFqUUQ0Q0xkR0s1VnFzUExZQVVlVEZLYTNIUWN3cWoxa1dIM0xkc0docFNONklpRTZ6UFlTb3hLeFJxWC1feVRscDJMSWZaazQ0YzQwRVNyTDNqYUdiMUszLQ?oc=5",
-      "domain": "cbsnews.com",
-      "seendate": "20261114220708"
-    },
-    {
-      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nSVEtNVRFaG5hcno2YnlYR1lwRDJhSXV2OGJNVGY3cU1aVzNPaHNjdUIxcHp5RXJ2RWVGQV9DRmR1cUx6ZkptMi1KSWlVeXhwWkp5S2xLZ2tCYzQ?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261115024945"
-    },
-    {
-      "title": "SpaceX’s Starship returns from orbit and is captured by launchpad arms in a dramatic first",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUy1hcVFMUVFOc0lrZWNVT3lvV1gzbVl1MHE0am1WaFBYRjlJWWtJNnEwZERmdGxLZHdLUFhhaUJoZ3BPeTZRZ0ZtNzBJcmFqTTVjcnBtb2pUblpLTm5nWXBnazdHZTBDNUM1cmJYTjlwNnk5TkllVEd4bnJQSGxJanU3OHBhMmpRRnN5b3F4Q1BQRV9ud001RHc3cEo0d1pJbWNZSnhMc0hZSV9RV3JmUW5KT2ZxY3JoRGc?oc=5",
-      "domain": "nbcnews.com",
-      "seendate": "20261114231100"
-    },
-    {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHZ3T21XRUxwQWdPcURMSUlDZFdycUdxWFJMdXo0anNPRS14VURoWFhHRkl4VHlZZ19QV2NsUEg4Z3RNUmlqWm40RUxwMDQ3MU1oZHUyaGcxc2tQRHM3VjdYS2NvT3Z1djFrV194SE1hT3lZV01PZmF0aUlkMlRmNklWcWlkelJWMHM3NGo4S1E?oc=5",
-      "domain": "finance.yahoo.com",
-      "seendate": "20261114214122"
-    },
-    {
-      "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
-      "domain": "apnews.com",
-      "seendate": "20261115053800"
-    },
-    {
-      "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
-      "domain": "coindesk.com",
-      "seendate": "20261115020100"
-    },
-    {
-      "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnQ3REtQVWdMM0ViRGFHRVBiektOamtSSmJIUjBOdWM2ZE5fTnJ6NmllbXhQT2NvUk81SnNXOGhYdDlVU2pzaFdQWjRqMF9iOEh3VkZDc3lLdDBvVHlhdDJqVElkTi1Wb2pNV3Qtd1JKNW04WVlObFppYmhmZklfMEtPQzRaSXlNRWVKSmZTUzI3VDFFLTVGcEpxMmIzb0RuV0NQU2Jocm9xTXdBR3JrdWhLeW9Id9IBuwFBVV95cUxOUGVJX2lkTkxZa2RfcXBFM3BCUEVRSmRpSDZGUENzaERNQTRlcUtVUV9Cd0NQc1Fwa3JzSTE4ZEJjU3k3cW5hdXc5UUdRN1l5ellmQXpDbzdFendNZ013bHNSenN3dXZpcDRIcTFURVplRDE0UGc1NFlPUUNSdXQ0ZGhTZGZjTGNFc0pTTXdvRG96UUtzaXhBTHBBOVpXV3FHQTZTUUZCNFhBNkRYN05IeWlidkliSFhuTVFn?oc=5",
-      "domain": "abc7.com",
-      "seendate": "20261113213657"
-    },
-    {
-      "title": "Brain Implants Give A.L.S. Patients the Voice to Speak and Sing",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GbVlXdWZLZFhINUJ5WEw5dC1sQWxtT0o2QjlWQl9QWXg0djVXLXdEWkVuV1E2V3BVZ2dhUmphQ0lIV1dFYjFGUnNGWmtvUWtBNzlwd21xbnNmYUQ0ZlhXbzFWWk9xZDZXLUNzelA4UHFWZWFONEtQeG1rZ2I?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261114170009"
-    },
-    {
-      "title": "‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUUlGemZpelhpOWZEOXBGT0tQWGp1SFlpSDdvZl9oclN0Z3dtLWFDMGFtZ1Z6a2Z3bkVkc0pFXzJ0UlEyUFBuRExRLUU1MzRGTG9QSlhPQUhpRkt0OWpxdzNxTUhvQWlKRkZVaTZMaFZfX0h3SVZKVFBVUG54bzRGczJYNUNGdnlEbEdpeHB1OURSdG13LWRYM1Q1ZEVkbzd5ZHNORlFESVNyRGstS0Ricm43N2FNTkNfdkJYSk5oMkExZllac3hpc2ZRckJYZndyQjJWbEFGeFY1Q0JwY1hDbG9ZRzVROWw0Ylotb0hoTjI?oc=5",
-      "domain": "forbes.com",
-      "seendate": "20261114140000"
-    },
-    {
-      "title": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOHhrWVpQZEY1RUtYRGZCOUEtUm9ZcGdnQkVMd1BIUDhjY2ZPUkw4N1RYZ0JLRjBsV0E1S0kzOFB3dWU0eXRIYmFqcXk1RU9VUG9td1VhcU9LNFhVS1hTcU84UzNTdXp5ekVjOGtfRDRNMExrQTU5WUNjLUxnOUJ1dDFmQThrN3ZYTlhTNHJyaDRoWmgxYll5UkU0R0vSAaIBQVVfeXFMUG1VNEVMTUwxcnpIaUFSajUzWHd4NFBhejlsSUVYTnJZdDlSVE5sU2ZKYU1ZNnBDNm9Zc2xxMWRpbFl0TmhoYUVzcHJYMlJVR3c2SVNCR2gtUlp3S2VRdlZFdG80aDFqWVU5UG9LMkp3aGl5X1JfQUNtY2tlZkxyakpyb2NnUGw0Z1FZOEdNalJqV3V4VkV2SFJjMUVyQ1VYdVZB?oc=5",
-      "domain": "techpowerup.com",
-      "seendate": "20261115003815"
-    },
-    {
-      "title": "Russell Brand: Alleged rape victim wants age of consent law changed",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTTZRQzV0bXRJS1dlRndvUGxSTGpkaHZQZzNDY01oQ0poMVJMOWlpWTdMVTRfQlowMVhsTWhHcTBsRVdpY3F6UjB0d2RsN3ViaTlCVDNUa3pHdkE?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261114223714"
-    },
-    {
-      "title": "‘SNL’ Icon Makes Surprise Return to Skewer Sex-Mad CEO",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVXBCTThkclVDdGVLb0RnbE1BRFU4aEpiZ0w1TEZDOXlVVks0Z0JqRjROWExsYW9VcC1qbmk0RDZCN2lMcTVvLUpjMUVlRTNra1dlT2tfNlIxcjYyVEQzXzF5NFFMRWZSMkc2Y096UDdTOVdKdE1ENjE4NWZPRHNRdnRzWm9qYjJnWURNWjZnbGd6M1h6WGsxdHA3RGJqMUhzdEJrakw0U2p1NHRDZkM2ZEtoTmVlUQ?oc=5",
-      "domain": "thedailybeast.com",
-      "seendate": "20261115052035"
-    },
-    {
-      "title": "Nickelodeon Kids’ Choice Awards: BTS, ‘Stranger Things’ & ‘KPop Demon Hunters’ Among Winners",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWEpCTERuS2NHQ2dLX01Wb2llRVdNcF9GUGlLZ1JMTUtNb09qVUdna2l3UGprNVpsZTdjY3l2ZUZKSlNfeDJidmVNQ1h5ZWtkeVBmTy0zWkc1NmtxWC1mZnNLMTl1OWJHd0hLQVE1dkU0UTF4TFdjRmRfSUdQM0FZRWE2Y0hLdw?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261115023000"
-    },
-    {
-      "title": "Arch Manning leads game-winning drive as Texas stuns LSU",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ21mcHlwMXBoSkxiVFJOQ2ctV0JUZEZEb092R0hqaVN6NThsRGV4dnZ3VTZlNDVhQTktUlZuRW94bW9tQVg3cHhmWGNLQjhVTUNoQmllN0trel9mcGdwY0NVVGxuM1VKRE5YRlc4eDRzQWM0ZU16VEVkUm13MWVhb25wWV9DUDBocElSOGd4bzRHZURWbDRzX1A5Mjl5TFpWOVFYM09yeTNzaXgwb1pDYQ?oc=5",
-      "domain": "espn.com",
-      "seendate": "20261115045500"
-    },
-    {
-      "title": "Main Card Results | Polymarket UFC 334: Gane vs Hokit",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rMkNyR3MyM0RuaXE0LVB0Y0tzUlRYblhWb1BxaUEyYnVYZzdpTVJodkRnMkQwdklYVTE4a1BJZjBCSExPRnZJU3FnUWI1TEFORnBpb1k3OV9yeXREMWpTWUlkdzVJUUh4VHpjbWZ2bC0zV0U?oc=5",
-      "domain": "ufc.com",
-      "seendate": "20261115055554"
-    },
-    {
-      "title": "No. 9 Indiana ends No. 18 USC's chances of making the College Football Playoff in 27-13 win",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaGR6U29yX1RxdXpSb0ZLMVItbWtIS25JcnJ0M1BIVGJWXzVTYmtyTGpmUUdkeFY3cDNqR3hTMmsycW5GcVVKdFpYUnFYS1lDb01BZkdNc09nY3o4VHF4UkJPODRoMXRWODJMVnF0emdyMy1RSC1FaEdSTms5dndmSFRoZ0hXNldYcENOMnM2YW1YY3kwbk1PcjFiU191RUdjaDlrTEZNdC0wY2pQMmc0R1kza29YZmJEODVxR01HYm9OdGtfXzNIejhxN0xqakVoTmVZYk5TZmZjRHNzWWVOMmNoeXJLRUN0OVBzM1hna0lJaFJGRmlwdUM0TQ?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115000300"
-    },
-    {
-      "title": "Jeremiah Smith sets another record, powers Ohio State to win over Northwestern",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjIwVWxJOVpFUEVtcHhwbVlTd0lfdmpMTEo4ZU42NHlEQTFydE9XdUFRVkpYbGYwUFZmV0lyY3lnU2U4ekQ0bXhWcnM5cnhvXzVKd2xyOWhWYW50YTAwb2V5RUVYRnFDWEx4WEo0alYxdGQ3dm80ZHJtTVg1ay1Tck40Umx6U1lkd0JUTklQS19qUDU5SzA5aGpSWVlJZWF4?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261114225802"
-    },
-    {
-      "title": "NASA's Voyager 1 closes in on a light-day in interstellar space for a new distance record",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ZXpoQlFPN0U5WUJIelllclVrX3FjWFZOc3ItU0NMZFBDSGhwLVZDM0VYbk5xNFViN2JReHM4VE9NMWVFRVhBOXQ0T2dVdGE0bmVvVWNKMjlEMGhHNlV5X2tJY2dKUlVXUzNNUUpLcjd0d3cyRnI0dnJn?oc=5",
-      "domain": "phys.org",
-      "seendate": "20261114183710"
-    },
-    {
-      "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVUxfc21OVTlJcGpFUHdzWGVtX1hVZ2s4QzdIX2NRYmNvODN6RTM1RnYwOWdQTmxyWTcwVmhfYW5sOFJSWTU0VlZBeVV6ZUVaUDFXTExlM2NZLWhEZS1RSzRMZlBoakV0REotWkJBTkF1UWtOWnN1UGhXTEtFekZkby1FUHg5eUwxSzk0TFQxdHdZX2lLd3RZempoUEp3T1RsaHMxdW1sX0h2NV9vQ2MtWTRTNExOaFpENno1YnlNc0hvaTAwWjhrOHlPemJpNHhBU2c?oc=5",
-      "domain": "space.com",
-      "seendate": "20261113170000"
-    },
-    {
-      "title": "ULA delays to Sunday Vulcan rocket launch of 40 Leo satellites for Amazon",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWlaY2dPeVpMRkdVZl9QVnNYLWI0ZlYxX2l1TGVSS1Uxa01zU3BkVjk0V1pIYmQ2NnFnUTFkelNtM3A2bDJCb0dKNWc1WU50X2pNWGh1NXEtRFNHTmgyeEZyUmZRWTQwMTJsZzMyVlc4RWZEN3VfV1E0QnFLWVdxc1FsQTRVcUhFQklCenhfZ3FxQjJld1pwWVdTeWhmUzFNU3lJd0RXTl8wZGl3M0d2cE9qeXk2eTVRUDBvQWY4V05HUQ?oc=5",
-      "domain": "spaceflightnow.com",
-      "seendate": "20261113122506"
-    },
-    {
-      "title": "See Jupiter and Mars make a spectacular close approach overnight Nov. 15-16",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYnYxR2dHU2tZMXMyS19oNWxHeUhyWHBWaWhDQ2J2SzdPYzNwV3dHdWk5OS1Hc0pUdGtRLWZUcGl4OXVrVVNqS3NfeEpxdmUxTnloRmZzVHRwLVJSRVJ3UlBoN2NyWWJ3azFpTTJCajV0Ykp2Uzd4TW1ZcHBGbHZua0lqSFBjRmJoSkhlYW8zcHp5UlVuRUJ6TERyZ0Y0a1pRZ0ZSRWpRUG5MUUE?oc=5",
-      "domain": "space.com",
-      "seendate": "20261114110000"
-    },
-    {
-      "title": "US has lost measles elimination status, global health authorities say",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMm5kN1UwLUQ1cF9CdGJNMHctVFlUQVlTSWtPRnBOb0pBR1RSaW5xcjdpTGpMU3hMQ0otbm9WSXd2WV8yMUVMX1lYVHdQQXd3V2ZWUFhyYzhuSVFSVU5XX3JIR1lscmFRQTNHZl8tNTJGaFhjdnIybFU2Nk5DelN6ZVBMUHIxTTRzem8zek9KRUp1bmdaVDhn?oc=5",
-      "domain": "npr.org",
-      "seendate": "20261114221502"
-    },
-    {
-      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhVGxjTnpfbGlWQm4xV2tOUTl2MDZXZjYyX3oybXlyR0dEUm1xQmMtcEdTQW1sMER6STJxRmZ5SmcxNUFYTlhqbGNFUy1IV3FtdkRNTzNSQml0Qnh1LXRfMzJ1SzFsSW84SEhnM2hRYw?oc=5",
-      "domain": "sciencedaily.com",
-      "seendate": "20261114125046"
-    },
-    {
-      "title": "New prostate cancer guidelines urge men to start screening at specific age",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM05QOGoyNzlBa1AtSmZjZFhjZEQ4b0t0TVN0UFowb19Pd19xSHdjM3FicE9yZ1V2MlpmY3NjOF84Ty1FbENwQUE5UEJzZ2lCdWZVS2hrdkFIbXJKSzVjMkVlYTJWV1pNZG9COW9NbUZmY1dWcXk5ZUFqcnBTUXpQcmJLWDVKQkNRSUsxMXoyc2pyeHBfcEJJVXNxeWhiQmp10gGmAUFVX3lxTE5DaVY2Z2dQVVlENklySFVvN21IdWJUNkkwOGJfLXpSWUVkaXJvaEVPWU5zLWZjdGpqOHBvRmZhT1dISmU1VmRMdlVlbDliSDV1OF9NMFRkVDkwSUhZdWNwYThtN2lqTU9KUVAybVhyR1BrMXBIY29NelFyU1RrMFgzWjJnVzVtRmRhWUR2S2YxQTlEb0JZbGxKZllMMnkyZUlOVXhhc1E?oc=5",
+      "title": "US reportedly loses its measles elimination status after 26 years",
+      "url": "https://www.foxnews.com/health/us-loses-longstanding-measles-elimination-status-cases-surge-nationwide",
       "domain": "foxnews.com",
-      "seendate": "20261114174819"
+      "seendate": "20261114T210000Z"
     },
     {
-      "title": "Pennsylvania, Wisconsin report additional deaths linked to measles",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLTZWOHI2bXl5ekN5VnJRblFQXzFOTjBuSFg3YjViRmdrX0JMS3FRY254ZnFpMGpraEg4MGFXN2FFSmJob0tWZ05qajREM1NpazU4LXA2bnVFQmo3VkdNVjFLbXhUeHk5aExiME1iNHppdGhSREVLdk9FSHVvRUhPLXRLZl96RHYwUl8xa2Z5WG1jWXo3cWZz0gGcAUFVX3lxTFB1bE5lLUJsVFhCdjQwR09PcWNfOUNPTmprNjdHenFoS0syYWhKS1J4d3VQSmwxckctaElRNVNBTjBuLVcyOG55QThhaVY2S29tOGhXaHJVX1ZiWGJiaU51TWF3NGFvTTBCdlR5Xy1SMURRT3ZTQV90UkNTNWFTcFZGR3RuUWQwSXpZTkt0TlVXTm9rRTRtMk0xVHgyNA?oc=5",
-      "domain": "thehill.com",
-      "seendate": "20261114163300"
+      "title": "Hugh Jackman and Sutton Foster enjoy beach day in Sydney",
+      "url": "https://www.foxnews.com/entertainment/hugh-jackman-sutton-foster-enjoy-romantic-beach-day-australia",
+      "domain": "foxnews.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Samuel Alito urges Americans to protect free speech and religious liberty",
+      "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
+      "domain": "foxnews.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "How John Travolta nearly missed his iconic dance with Princess Diana",
+      "url": "https://www.foxnews.com/entertainment/princess-diana-legendary-white-house-dance-john-travolta-almost-didnt-happen",
+      "domain": "foxnews.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Solve Sliver # 52 - November 15 , 2026",
+      "url": "https://www.buzzfeed.com/avalonlustick/sliver-november-15-2026",
+      "domain": "buzzfeed.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Find Your A24 Movie Based On Your Aesthetic",
+      "url": "https://www.buzzfeed.com/nocturnalsavannah/choose-a-rainbow-of-aesthetic-choices-and-well-tell-you-whic",
+      "domain": "buzzfeed.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Travelers face hundreds of delays , cancellations at Austin airport after FAA ground stop",
+      "url": "https://www.aol.com/articles/travelers-face-hundreds-delays-cancellations-024555000.html",
+      "domain": "aol.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "The world is facing a new credit crunch",
+      "url": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
+      "domain": "aol.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Thinking of Leaving Your Job in 2027 ? Here How It Could Cost You Your 401 ( k ) Match .",
+      "url": "https://www.aol.com/articles/thinking-leaving-job-2027-heres-062002000.html",
+      "domain": "aol.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Nvidia earnings along with the baggage top next week markets",
+      "url": "https://www.aol.com/articles/nvidia-earnings-along-baggage-top-023700000.html",
+      "domain": "aol.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "British trader to make $3 . 5bn from Anthropic float",
+      "url": "https://www.aol.com/articles/british-trader-3-5bn-anthropic-063000000.html",
+      "domain": "aol.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Bethany Wetlands Commission Approves Amity Road Subdivision , Reviews Ann Drive Fill Complaint",
+      "url": "https://patch.com/connecticut/bethwood/bethany-wetlands-commission-approves-amity-road-subdivision-reviews-ann-drive",
+      "domain": "patch.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Angel biggest takeaways from 2026 GM Meetings",
+      "url": "https://www.mlb.com/angels/news/angels-biggest-takeaways-from-2026-gm-meetings",
+      "domain": "mlb.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "FAA ground stop ends but passengers stuck at airport : NPR",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+      "domain": "npr.org",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Democrats gather in Denver to chart path ahead : NPR",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+      "domain": "npr.org",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Democrats celebrate hot male candidates after election wins : NPR",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
+      "domain": "npr.org",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Woke Michigan professor stunningly argues physical fitness leads to fascism : That racialized",
+      "url": "https://nypost.com/2026/11/14/us-news/woke-michigan-professor-stunningly-argues-physical-fitness-leads-to-fascism-thats-racialized/",
+      "domain": "nypost.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "More than 4K flights still canceled as FAA ground stop continues to snarl travel",
+      "url": "https://nypost.com/2026/11/14/us-news/more-than-4k-flights-still-canceled-as-faa-ground-stop-continues-to-snarl-travel/",
+      "domain": "nypost.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Manhattan Beach Pier closed as massive waves batter Southern California coast Meta",
+      "url": "https://nypost.com/2026/11/14/us-news/manhattan-beach-pier-closed-as-massive-waves-batter-southern-california-coast-meta/",
+      "domain": "nypost.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Grand Theft Auto VI release will see 18 % of US workers take off to game : data",
+      "url": "https://nypost.com/2026/11/14/tech/grand-theft-auto-vi-release-will-see-18-of-us-workers-take-off-to-game-data/",
+      "domain": "nypost.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Midterm blowout fuels Jon Ossoff , AOC runs and scrambles GOP field",
+      "url": "https://nypost.com/2026/11/14/us-news/midterm-blowout-fuels-jon-ossoff-aoc-runs-and-scrambles-gop-field/",
+      "domain": "nypost.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "I canceled my BritBox subscription after this tool showed me where to stream my favorite shows for free",
+      "url": "https://www.howtogeek.com/i-canceled-my-britbox-subscription-after-this-tool-showed-me-where-to-stream-my-favorite-shows-for-free/",
+      "domain": "howtogeek.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "A custom home screen widget is the easiest way to start vibe coding Android apps",
+      "url": "https://www.howtogeek.com/a-custom-home-screen-widget-is-the-easiest-way-to-start-vibe-coding-android/",
+      "domain": "howtogeek.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "The weird world of Kindle page - turner remotes",
+      "url": "https://www.howtogeek.com/weird-world-of-kindle-page-turner-remotes/",
+      "domain": "howtogeek.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Audacity 4 is finally here and it made editing audio easier than ever",
+      "url": "https://www.howtogeek.com/edited-song-in-15-minutes-with-audacity-4-new-split-tool-made-it-easy/",
+      "domain": "howtogeek.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "USB flash drives have gotten so expensive that you might as well buy an SSD",
+      "url": "https://www.howtogeek.com/usb-flash-drives-have-gotten-so-expensive-that-you-might-as-well-buy-an-ssd/",
+      "domain": "howtogeek.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Miss Fountain Valley pageant names titleholders for 2027",
+      "url": "https://www.latimes.com/socal/daily-pilot/news/story/2026-11-14/miss-fountain-valley-pageant-names-titleholders-for-2027",
+      "domain": "latimes.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Uber Technologies : Profits Are Compounding While The Stock Falls",
+      "url": "https://seekingalpha.com/article/4968349-uber-technologies-profits-are-compounding-while-the-stock-falls",
+      "domain": "seekingalpha.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Intel Stock : Wall Street Underestimating Its Comeback And Nvidia Opportunity ( NASDAQ : INTC )",
+      "url": "https://seekingalpha.com/article/4968345-intel-wall-street-may-be-underestimating-its-comeback-nvidia-opportunity",
+      "domain": "seekingalpha.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "The Best Velvet Dresses and Sets Under $100 for Holiday Parties",
+      "url": "https://www.eonline.com/news/1438093/the-best-velvet-dresses-and-sets-under-s100-for-holiday-parties",
+      "domain": "eonline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Top Chef Alum Leah Cohen Husband Ben Byruch Dead at 44",
+      "url": "https://www.eonline.com/news/1438121/top-chef-alum-leah-cohens-husband-ben-byruch-dead-at-44",
+      "domain": "eonline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Why Golden Bachelorette Joan Vassos , Chock Chapple Broke Up",
+      "url": "https://www.eonline.com/news/1438122/why-golden-bachelorettes-joan-vassos-chock-chapple-broke-up",
+      "domain": "eonline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Joe Jonas , Tatiana Gabriela Break Up",
+      "url": "https://www.eonline.com/news/1437911/joe-jonas-tatiana-gabriela-break-up",
+      "domain": "eonline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Dancing With the Star Jenna Dewan Addresses Val Chmerkovskiy Suspension",
+      "url": "https://www.eonline.com/news/1438124/dancing-with-the-stars-jenna-dewan-addresses-val-chmerkovskiys-suspension",
+      "domain": "eonline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Corporate Yield vs . Government Safety : Comparing Returns , Dividends , and Risk of VCLT and VGLT",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/14/corporate-yield-vs-government-safety-comparing-returns-dividends-and-risk-of-vclt-and-vglt/",
+      "domain": "fool.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "American Express vs . Mastercard : Which Financial Stock Is a Better Buy for 2027 ?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/14/american-express-vs-mastercard-which-financial-stock-is-a-better-buy-for-2027/",
+      "domain": "fool.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "5 Dividend Stocks With High Yields That Are Safer Than You Might Think",
+      "url": "https://www.fool.com/investing/2026/11/14/5-dividend-stocks-with-high-yields-that-are-safer/",
+      "domain": "fool.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Better Biotech ETF : First Trust FBT vs . Invesco PBE",
+      "url": "https://www.fool.com/coverage/etfs/2026/11/14/better-biotech-etf-first-trust-s-fbt-vs-invesco-s-pbe/",
+      "domain": "fool.com",
+      "seendate": "20261114T210000Z"
+    },
+    {
+      "title": "Taylor Swift Says Why Her Fav Albums Can Only Be Human - Made",
+      "url": "https://www.vulture.com/article/taylor-swift-rosalia-olivia-dean-praise.html",
+      "domain": "vulture.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Olivia Wilde Gets Why People Ask About Dont Worry Darling",
+      "url": "https://www.vulture.com/article/olivia-wilde-dont-worry-darling-reflection.html",
+      "domain": "vulture.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Bowen Yang Makes Surprise SNL Cameo as Jensen Huang",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/bowen-yang-snl-john-mulaney-ground-stop-microsoft-1236755542/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "How to Stream Elizabeth Holmes Partner Billy Evan CBS Interview Free",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-billy-evans-cbs-sunday-morning-interview-online-free-1236755562/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Arrow for a Stone Heart Tallinn Brazil Film With Indigenous Lens",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/arrow-for-a-stone-heart-film-brazil-indigenous-lens-tallinn-1236753851/",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Feeling the winter chill ? Thermal baths and scenic outdoor saunas worth visiting in Europe",
+      "url": "https://www.euronews.com/2026/11/15/feeling-the-winter-chill-thermal-baths-and-scenic-outdoor-saunas-worth-visiting-in-europe",
+      "domain": "euronews.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Hope springs eternal in award - winning photos showcasing nature resilience",
+      "url": "https://www.euronews.com/2026/11/15/hope-springs-eternal-in-award-winning-photos-showcasing-natures-resilience",
+      "domain": "euronews.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Zelenskyy questions SpaceX over reported Starshield speed restrictions",
+      "url": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions",
+      "domain": "euronews.com",
+      "seendate": "20261115T074500Z"
+    },
+    {
+      "title": "Penélope Cruz Wary Of Marital Blowback Starring With Javier Bardem In Bunker",
+      "url": "https://deadline.com/2026/11/penelope-cruz-bunker-interview-1237223831/",
+      "domain": "deadline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Scream Actor C . W . Morgan Cause Of Death Revealed",
+      "url": "https://deadline.com/2026/11/c-w-morgan-cause-of-death-1237223783/",
+      "domain": "deadline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Hulu & Secret Lives Of Mormon Wive Producers Sued For Defamation By Dakota Mortensen",
+      "url": "https://deadline.com/2026/11/mormon-wives-hulu-lawsuit-defamation-1237223830/",
+      "domain": "deadline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Skip Hinnant Dead : Electric Company Actor , Voice Of Fritz The Cat Was 86",
+      "url": "https://deadline.com/2026/11/skip-hinnant-dead-1237223791/",
+      "domain": "deadline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Mahershala Ali Your Mother Interview",
+      "url": "https://deadline.com/2026/11/your-mother-your-mother-your-mother-mahershala-ali-interview-1237223884/",
+      "domain": "deadline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Turturro , Maslany Talk The Only Living Pickpocket In New York",
+      "url": "https://deadline.com/2026/11/only-living-pickpocket-in-new-york-john-turturro-tatiana-maslany-1237223855/",
+      "domain": "deadline.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Martin Scorsese Oscar - Nominated Crime Masterpiece Joins Iconic Collection",
+      "url": "https://movieweb.com/the-irishman-criterion-collection/",
+      "domain": "movieweb.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Twin Peak Meets Sherlock In a New Thriller That Is a Masterclass in Mystery Storytelling",
+      "url": "https://movieweb.com/yaga-streaming-recommendation/",
+      "domain": "movieweb.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Robert Redford 110 - Minute Western Action Thriller Still Beats Tombstone at Its Own Game",
+      "url": "https://movieweb.com/butch-cassidy-sundance-beats-tombstone/",
+      "domain": "movieweb.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Ewan McGregor | MovieWeb",
+      "url": "https://movieweb.com/person/ewan-mcgregor/",
+      "domain": "movieweb.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Netflix Yellowstone Meets Nashville Thriller Comparison Scores Tulsa King Star Approval",
+      "url": "https://movieweb.com/heartland-yellowstone-nashville/",
+      "domain": "movieweb.com",
+      "seendate": "20261114T200000Z"
+    },
+    {
+      "title": "Ewan McGregor New A24 Psychological Thriller Officially Confirms 2027 Release Date",
+      "url": "https://movieweb.com/the-spot-ewan-mcgregor-release-date/",
+      "domain": "movieweb.com",
+      "seendate": "20261114T200000Z"
     }
   ]
 }
