@@ -1,0 +1,33 @@
+name: Refresh daily compliments
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 5 * * *"
+  push:
+    paths:
+      - "scripts/update-compliments.js"
+      - ".github/workflows/update-compliments.yml"
+permissions:
+  contents: write
+concurrency:
+  group: mjr-daily-compliments
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: node scripts/update-compliments.js
+      - run: |
+          git config user.name "MJR Daily Compliments"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/compliments.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Save daily compliments"
+            git pull --rebase
+            git push
+          fi
