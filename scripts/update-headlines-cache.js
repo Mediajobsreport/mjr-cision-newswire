@@ -122,7 +122,7 @@ function categoryArticles(category, articles, curated = false) {
   return articles.filter(item => {
     if (unwanted.test(item.title)) return false;
     if (category === "strange" && /\b(nfl|nba|nhl|mlb|football|basketball|quarterback|referee|kickoff|podium|f1|red card|playoffs|lakers|giants|browns|ravens|yankees|joestar|malkovich)\b/i.test(item.title)) return false;
-    if (curated && /\bgood news in history|this day in history|good news horoscopes|quote of the day|good news quiz\b/i.test(item.title)) return false;
+    if (curated && /\bgood news in history|this day in history|good news horoscopes|quote of the day|good news quiz|exploding whale\b/i.test(item.title)) return false;
     const stamp = String(item.seendate || "");
     const m = stamp.match(/^(\d{4})(\d{2})(\d{2})/);
     if (!m) return false;
