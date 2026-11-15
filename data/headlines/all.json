@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T01:25:03.732Z",
+  "updated": "2026-11-15T01:26:07.451Z",
   "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
@@ -16,28 +16,28 @@
       "seendate": "20261114212215"
     },
     {
+      "title": "Stephen Miller faces first crisis as White House chief of staff",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVUJGTmU0OUlnNHg1QVdVRUZsQVZkMWZ2MzhqRFBIMzFxOUNpN3AtUUl6a1lSZnNnZ3hpbUJUeFNqLS1mNlJtVHJtRk1UZFhNNmU1X0ZkS083UEF1S3F1TUJHS0tOaF9PalpmVEJMZjg2blpsRHVHeU05enVwakI2cFc0LXhmM3loeWotMkNyVGxsZEh5VVhxeDNZQzJtdnRlMGZaMGxiYXp3V0JnZWFwT2ZzYw?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261114180000"
+    },
+    {
       "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
       "domain": "nytimes.com",
       "seendate": "20261114221042"
     },
     {
-      "title": "Longtime White House Official Says Trump Goon Presser Is ‘Worst’ He’s Seen",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHBwM3dCUWhmS0lXTFZpcG56S3RTSkg1NGhqcjRoX1FsRTZJODhfSFVvMUhWTVllNlRUMGpWSFpTR3U0VE1HclpiaTYzMHFYWkFxWG9qYy0tQ2cxYXh5ZjZEdDVrQkVGZmo5cEhlRDlVSFJiUDZlMWthM0ctRU1EUHZwRlJDRENieW5OekFhZ3VxSDZZRlI0QVNERnVQemRpOEVz?oc=5",
-      "domain": "thedailybeast.com",
-      "seendate": "20261114205011"
+      "title": "Duffy’s briefing on ground stop disrupted by tech difficulties: ‘This is not operational?’",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ3VUalFNYjlXZTE0S3d5TDlEUC1nMEZjMm44U09LTGZTY2VfWmtjX1FkSTU5VTRjdDBkak0xRHlLMlFzT0lWaWVVYUIzV0hWaGVFSm0wSE54RnNOaWhOcG1xMkZzSkVpVVQyUk1ZWlNMZ0NNZ3dab3lldHJ2TUVWRE55WUZmUnZIQ002d0RtcjRiWEJPNG1yUm01UjNCZDhzUkMxek5lcVJ1VEowRGN2alFmWmJaemVvTVE?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261114225250"
     },
     {
       "title": "New Orleans port sues tanker owners over cruise ship collision for $1m",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXdmUW84QjZxYUtEc2NMZ0gwMlJ0LXNDOUt5TWw5VFlTeGpnN2FQc2NQNXAySUlsbjdRQm85dGoxQ29JLUc0X0prZ3RPcjViYm4zNld0cVdUcEk?oc=5",
       "domain": "bbc.com",
       "seendate": "20261114222706"
-    },
-    {
-      "title": "California’s battered beaches are getting giant waves",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3BBNkdyam5XMFJla1hkREdoc21tQnFuNzNudlYzcGdVOVZJbTZwOWhtUTFidkpYZ0N5ZEV1SC1FUFJ5RjZpbFUxdnBVRlU1X1ZabDhkR2lwT2UySkZTNHZIeDM5Mm9VeXA0UUM0VlRRcE9lUHZRM3ptaUh0bTBEcVp3QU5EMVJIT244eUJCdUVWQ0RPeVBONWJLLXhicFdlRXN6SEY0UkZNNi1Vc1pfR0pB?oc=5",
-      "domain": "washingtonpost.com",
-      "seendate": "20261114221640"
     },
     {
       "title": "US air travel should normalize by Sunday after ground stop triggers mass cancellations, FAA says",
@@ -52,16 +52,16 @@
       "seendate": "20261114110200"
     },
     {
+      "title": "Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUN0VnhBOExPSVlzSGp1d3N6ZDVobVZXY3p1cVB3UEl4RU42aFVjQnBoWnBBLW1scDZoc1pRd3RvdnlFWEw1dlNuVGVxZlZfWWJ4ank3YzNpWnRwTVh3SjBuZlJWNjU4U19fejJCMEpIR3NMZnJ6RXVxNC05VjI2VUFtNzNCTEY1ZWpVc1dpMlpEYzA?oc=5",
+      "domain": "sfchronicle.com",
+      "seendate": "20261114233306"
+    },
+    {
       "title": "Engineers question city-approved plans after Brooklyn building collapse",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcFMycDdscjJvSkJpZEhyTjBRWlM4X2h1bE82UXIwNUJBQWZwLXl0T1dpQU1OMFozT0U5dmViRkVuLTRBakVRYVRTdm1oUk1FNXEwekQ2NVZ0Ukg3NUltcF9aRjBPSXRVOEIyV1JDU1paZ2VpU1Jjc2N5N0QtR09SeGdCQkU4M3hWOGVNMWVCMHQyaTRkYU8tcHBES1ZHM28?oc=5",
       "domain": "gothamist.com",
       "seendate": "20261114162500"
-    },
-    {
-      "title": "Can Chris Van Hollen Really Unseat Chuck Schumer?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTGJGY0ttU2dURkxoUjhQQXpvWkNnZ1dFQjhaTWJzbDRkYmdESVhRbl8tM3p3RUlxU1d4VUxTZXVvVTJQd3l4bnJNSmdsS1BBdG91YjYzQXNiWHhiY3lmYkZYaEZVVHhSN05hVGctVk15X2tWejJFdWRYODBibXBTbS05eWJWNWV1dkMwVHE1dnNaZlo4YjdJS3Y4emFWV2tkWE1panVzcENfXzRCWXRQcVpB?oc=5",
-      "domain": "rollingstone.com",
-      "seendate": "20261114150000"
     },
     {
       "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
@@ -100,10 +100,10 @@
       "seendate": "20261114203300"
     },
     {
-      "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
-      "domain": "coindesk.com",
-      "seendate": "20261114224654"
+      "title": "Microsoft says services fully restored after hourslong global outage",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZHlYRjJoX0RfREJ3UFBlQ3pacWMwMjBXeGJETGNBTFIzbHZMd1o0UFpMR00tQ25kb0x3YlBjZk4wd25hQTVoQ0FQdTVydERxenNBbkx0YVU5VGtnMUJwcW0tc2FFZ0tsMk0wbFc4TjRHWFhid01xWmljT0tZMVFicUVWRk1ueWdscFMyZXdHWGVJWjdSQ1ozLWJGdXpNMFRQdFc2Mw?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261114092100"
     },
     {
       "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
@@ -124,10 +124,10 @@
       "seendate": "20261113235949"
     },
     {
-      "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYnQ3REtQVWdMM0ViRGFHRVBiektOamtSSmJIUjBOdWM2ZE5fTnJ6NmllbXhQT2NvUk81SnNXOGhYdDlVU2pzaFdQWjRqMF9iOEh3VkZDc3lLdDBvVHlhdDJqVElkTi1Wb2pNV3Qtd1JKNW04WVlObFppYmhmZklfMEtPQzRaSXlNRWVKSmZTUzI3VDFFLTVGcEpxMmIzb0RuV0NQU2Jocm9xTXdBR3JrdWhLeW9Id9IBuwFBVV95cUxOUGVJX2lkTkxZa2RfcXBFM3BCUEVRSmRpSDZGUENzaERNQTRlcUtVUV9Cd0NQc1Fwa3JzSTE4ZEJjU3k3cW5hdXc5UUdRN1l5ellmQXpDbzdFendNZ013bHNSenN3dXZpcDRIcTFURVplRDE0UGc1NFlPUUNSdXQ0ZGhTZGZjTGNFc0pTTXdvRG96UUtzaXhBTHBBOVpXV3FHQTZTUUZCNFhBNkRYN05IeWlidkliSFhuTVFn?oc=5",
-      "domain": "abc7.com",
-      "seendate": "20261113213657"
+      "title": "Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold “Like Nothing” Before Breath of the Wild",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUklWZzlXU1gzQ3NWX2x3dVpOYnE5OU5WVE5pTFFjRVZNTlYzbTY4NWNqMzIxeXNNYlZwWTNDNkJMRWoxX3Boa3U5OU9WVmRLdDVfQldvYzBWWGdlN0kzcXhmUENtbEZja3pJa1NyLVpwcFA2TW96WlRwemk0ZHhoeU9CSTM1RGoxZ2hHdmxDcjc4YS14eVhwbUlrYkhGcV9kd3d5d0pTanctVmhQOWdF0gG0AUFVX3lxTE1hVmpWRGZUZWswUWJEMGdZb1BVUzRDVVFNZWRPZUVQN1hVVWZGNDk3TXpneDZlRmljT3E0VU93d0dfQTNIVTVISlE2UmE5MXhRdzR3ZTBzMldxS1VtOFZ2ZFJIMEl3NVpyeEluM1VjWTFrWEsyanZwN3BFa3dzZF9rdFhTNHVYUHhCY1IyRE9UTHFzYS02NmVBeXRqYmVyMzA1ZUFuQ0Q4VDFZQUluY29WclJKUA?oc=5",
+      "domain": "wccftech.com",
+      "seendate": "20261113122410"
     },
     {
       "title": "James Gunn: Skydance Has Not Seen 'Superman: Man of Tomorrow'",
@@ -142,10 +142,10 @@
       "seendate": "20261114223714"
     },
     {
-      "title": "‘Grand Theft Auto VI’ Soundtrack: See the Full 34-Song Tracklist",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcU5JZ2Vhb1FldGJ4WTJrVHRZTkpHTXk4VHQ2UnVMY1ZRUDBiV0h1T1VFZ1dPRjBCdmNRVUJRZ1ZaX2pfVDc2YXpGajFFQXpuYWFKWU9hblVqSHRqdm12YmVCNlZDbTJtMFFaY0ExZkxxbmpWTE1feWEyUkVQazd2ME0zamZxVHlQWHBwRFlfRmZhVU5yX0Q5enZ6ajg1cFJqcnR2aTNXWTFJOXM?oc=5",
-      "domain": "billboard.com",
-      "seendate": "20261114210209"
+      "title": "Ex ‘Secret Lives of Mormon Wives’ Star Dakota Mortensen Sues Producers, Hulu for Defamation",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRnJWampCbFc2TEFkaDBOcG5icXZWdThXX2o3UzVqWUVmR19lNWR1Sms3X2hsOUNSUTMyNmZaX2FOemJzd3g2cEdkZHFVY19XdnprM1c3d29HQmgxWWJaQnZEenBoMzAxVmREaU12QUJwUXJGSVI2bW5YeHJuZ1ZMRXhnQ3NTUlR0Vy1HbVhuSzZkZlptb1NPOVlwcFkzcVMtQW1jdVM4TGtJYS1JbGc2ZGpSa29QZWM5T19aMU9rNFRwLXhqWEREaQ?oc=5",
+      "domain": "thewrap.com",
+      "seendate": "20261114202600"
     },
     {
       "title": "UFC 334: Live results, analysis for Gane-Hokit, Harrison-Nunes",
@@ -160,10 +160,10 @@
       "seendate": "20261114205541"
     },
     {
-      "title": "Lions scouting report vs New England Patriots for NFL Germany game",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEViQ0J1UnZnSnQzZUZhdmU4aUR1eGtSUTZmV19wdE9yNVIxWk04WkJwZHJESTRlWE5kYkRYYmNjRmh5VEVPRjUyUzZrM2pWLTN1VG1aVTZOcWRLR0hmc19VMmZYbHNoM0o4ZFBqcTVZeEloQjFXNnFqSEN0RkRNTllrMm5FVmtiM0h3QkV6dTl6bUMxaGRSekNBaXplUThoYlI4amVHbndjazltSnYza1RFVTF6SmFwQmRZ?oc=5",
-      "domain": "freep.com",
-      "seendate": "20261114100200"
+      "title": "Ohio State's breakthrough moment arrives in week 11 (51 chars)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaHA4N3F3ZUh5NHY3c1VVc3E4amJxbldQc1pqSTF1eUE1VUM1QWVfUExXUzV3VnJXd2Jza0Q0ay0tdGtWVVFMTTkxaE1iVzF0a25RTXNIVnVqbktpMU4wS0p6ZXB5eW9VWVk0UGp6WjNFSUJRaERFNFpQbTJMR3ZhSjN4NEZvOE5xOWVJTXZfSlBRVk5pY3RmRnQ3Y00tTHU1YUtueWNVWE02aWgwQzFnVUx0UFo5VlNmMkhDXzJ1ZXhxQQ?oc=5",
+      "domain": "cleveland.com",
+      "seendate": "20261114202100"
     },
     {
       "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
