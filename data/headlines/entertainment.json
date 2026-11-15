@@ -1,103 +1,61 @@
 {
-  "updated": "2026-11-15T14:53:42.222Z",
+  "updated": "2026-11-15T20:04:13.822Z",
   "source": "Google News RSS fallback",
   "category": "entertainment",
   "articles": [
     {
-      "title": "These 10 DP World Tour golfers earned PGA Tour cards for the 2027 season",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeGVtN2J0V09SRzU3eVNaUmk4a3dsMG1ndUFQcDM0U1B6cnZfbTdkZHVZM3pjSFNMSmFYRDJkcm1ObXRuaEVOYmpUVEp1Q3BnVnFycy1SdXJKOHl2WW9HaUhYdlE3OE5fRVNQQUxPT01UMXhpQS1CdGRoYmFpTW03VGg3OWNyUUtzLUVwZERKb0dWcG8xRWJfMTFEeFNtMUUybWtvaDZnVUdLRWcxNkt0M2FtTkpTekZIRldreTZKSGNjR3M?oc=5",
-      "domain": "golfweek.usatoday.com",
-      "seendate": "20261115123800"
+      "title": "Pitch Perfect: The 20 Best Music Schools in the World",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU1QmcyZkU0aGpaZUNxMGFSR1RyZEhJSkIxbDZVdUdaSl92VkwtUXRPWFcwd1pVU0hFZnU3TXZuaW5nT2xKWm4xZkhyaXVHdng2YTM5WERpV0NGX19RTDVQbjMyS0xuZmlsa21YM0J3NjJCYlFtLWhURHRxdE5mOEc5ZS1MUlRablF3aFR6TDZ1U3dSWnc?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261115180029"
     },
     {
-      "title": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MWFA0LXRfYmRaY29meXpnYkZuekV4Z2owblVNTjVVUnFLVlNpdlVOT19ZLVFScG9GYXVPeXh0MDE1TE55LXYyZDhucEc3NFB1ZHJNX1ZSWkFSal9sM0hrQVpXdUZWWHJoYTRuXy1oV09WZ19aOWE1MDdn?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261115104700"
+      "title": "Why Verizon Traded Nerdy Pitchmen for Hollywood Heartthrobs",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUxGMVRBODd2UU1abHFmQ1p4dXpBLTdVT2RQeHZPb0plODdnMFV0QnlZN05UWTk0OXhTMWx3Y29DTmtWdEFLd1BXQS1LQ3Y4ZEJsOU01eUNxdWVyX09nUTR1a1ZEZ0RhelUwdHQweENkRFY1WUxOOGt2ekVSRW5iUVoySnF3a2pVUFRBNXRxdFNnSm51bUo4S0FaTEUtUU5XZkttQW1B?oc=5",
+      "domain": "wsj.com",
+      "seendate": "20261115180033"
     },
     {
-      "title": "Country music mourns after legendary hit maker dies at 81: ‘Rest in peace brother’",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1ZMaXE4VjlKc3B2anZrTmdnYXBKU05KSFRVcEFtYmF1aEw4WUpwZ2tpM1ZPT0JGeWNOZENZTDZDM3VCVWJPTVMybkszNmNmR1Q2dWVfS3NVLTVFNWJ2X2xsSVNJRzFjY1JnUEVGQlEyWEIxMmFrVWdkTTlHaWxaLU5Bb0lTSVdtUXFIc3ljbTloNjlic1hDTS13RFU1SXA5cURaRTVkSDdSbFBNM0VTVW8xNGVCRk9fZVhDQ0paUHZkbTRHYUlUSTY5VdIB3wFBVV95cUxQM0JrTnNZaHlJYzFWeEdfS1dGTnVrQTJLMWNYSDZka0JCdDdjSGZJdzduV1c2UnBsSjZnXzk1T29RalBNZ0dnWFNYUkJtVDlncThtUkhhOFc4RXRWcVY5dVhnc0FtSno1S2RTeVE1dHhaMnh3V3VUVEFJTDlvckY4UDRqdW82NTZBWkRKejZGMmk1VnluRDFKekJ1MWdSU0x3VnZWNlRyV0pOQ19jT1hicHlHbFRhVnFnNzM3Zkc1bGRoeDB3SFZHRUtQajdDbHV0d3Zpai1sTF8zM3FMSnlN?oc=5",
-      "domain": "pennlive.com",
-      "seendate": "20261115100000"
-    },
-    {
-      "title": "DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlpBc2x1SzlWMFhTQTFndDBMT01qTnBhMWtBLTg3TkprT2NRdVhyeHVEZW4yX0xPMnVaakdKbkQ3ZDRwaHlfMEpZZVphZEo4bUpOcmtMOFl1QVFEU1VzcHZIc05lbFowS2xXcHBReHVJTjE2U2lvSVFTVVZBZkt6aXQ5MW9kYUNiY2N5ZGhHTzBhR1NqbTFWeTJYOG82X1ptYnJPeEtrYWFSUEhqRkRraDB0YlN4YkFGLUNraUxEVF9PUkVMZ0tvc2VyYXpzVTF3eWt2MTUxNmN6ay1EZHpGbjdidWhiLXd1X3l0NU9UYUY5VlNjNXc?oc=5",
-      "domain": "skysports.com",
-      "seendate": "20261115134115"
-    },
-    {
-      "title": "Which 10 golfers earned a PGA Tour card through the Race to Dubai rankings?",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0lObmQ2VjRzRlMweDc1SzZGdUdOV3VHS1J5TTNBSXBwRVhHOVg1OElDakdZdFlEbmpTaXc5Q2h3UWhsTVhfTC1aVDVJa1FsREpEUS1QMmJJNFRiR25TT21McjZNOFJuX2RKNWtNTGJqcS0wRU5oSW4yQXpBVnI1N0lFbXdpajBpUGxGeTBBSHVRcWNRdTE4S1A0d1BkcTFaZWdvV0w4a2RydnppdkJWMWZJVWdRTXZmNnA4?oc=5",
-      "domain": "todays-golfer.com",
-      "seendate": "20261115125115"
-    },
-    {
-      "title": "Opinion | Television Is Terrible at Getting Middle-Aged Women Right",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEVmdFJubVlhZEQ4RWVzS3BNZzV2UFBFWV9uRVljTl9HaWV2ajJGWW9sSGc0Uk93eFVOa3diQWZXR25oWE1HNDQ1c0hCYlNpTWtWbFo4Vjd5S0tfX2JXRFl2ekdsZG0yc3FEdnZobEJTMUh6ZXo2by1HWnZOSnFwb0RxbGxnUzVYMDJHTGFSc2Z4a1Rp?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115140005"
-    },
-    {
-      "title": "GTA VI Release Is A Bigger Threat To Streaming Than To Movie Theaters",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZTFLaW94Y25LSVl4MVNYcDRlM2VvYnRPaEtkWHpVTUhFanRNMnF5NkZJSnY1ZzVzZ25TeFkyQnM3MDlTR1FQMzFiQ0o3OGI4QnpaVDl0aUhaVVo5UVB5OEJPXzlPU0VNTFB3LU90VkVkNW1jOTJVRVVmbmxFV3NmVnZ4bDBNaFBaOTZKdFFuaXVmak9uWHQyRHRiZXUtRzVxSDRIU09zci1OWlNsZW1EaU92ZE93NE83SFJ0SGZQYw?oc=5",
-      "domain": "forbes.com",
-      "seendate": "20261115140221"
-    },
-    {
-      "title": "Seville European Film Festival Prizes: ‘You Don’t Belong Here,’ ‘Falling House,’ ’Adult Supervision’ Win Big",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmVlRDdZWld6WVBYOWZoQ0wzUXdLNXkweEQwZWdORFRnLVpQa2MwZDdvT0Z1d0ZueWYxNGp3WENNbUpsdVVWNGZ1Z2thOXNUYlB4cGpDU2NGR2JnamFqdlZVdFVGNjV5aGxnRURwQXR0bU1UMzBqclhYTVFXRmI5c2lFN2IwamluYU4wNkR0R1FzVDFfRjNNZXRsS2tjZ3VfaGJUcWRmTDZKWVE?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261115125200"
-    },
-    {
-      "title": "'You have to be delusional': Los Angeles film students are prepared for a shrinking Hollywood - The Spokesman-Review",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOV9aa2lGUF9TZWV0LU5qM0dfMkotbG9OTUJhODYwczhUZU9KQW9IZXBxc1dtbFcwN0tzSDFVbDNJbEkzTEhYZ2lEMUJnTHZEeEs1VUJTM19YelVTYnNpY0hhUVNlWGtZc1lhc3ZiNzlTUjhtbXJ2ejFWQTFmRzMxSXBVVzBzNHpXM29GNVlpZTZKeUpjNVdWS3NmZ3EyQQ?oc=5",
-      "domain": "spokesman.com",
-      "seendate": "20261115113000"
-    },
-    {
-      "title": "Daily Poll for November 15, 2026: When Should Christmas Music Start Playing?",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ0plMGZSUkMtcFdfUkRBa3VGREJYTkEyQWZ5ajNvU2kxVmJScHhQNmt0MHdSSndDbktFSFlBS3RuRFVrS0Y1b09wdFNXZUNRSGNqcHFfYVBDOW50QlVIVkFDbC1XQmpSUHlsaGE5VzVueldBbDV3aHZjYmdRUHBSWTE0NTNOdUhoaFVOZ29UU3Q5aHpjMDZQQnNNQVkwZGMtSXppektBMFotRkxZTEJVVWFQWHNUOWNodVE?oc=5",
-      "domain": "wausaupilotandreview.com",
-      "seendate": "20261115125500"
-    },
-    {
-      "title": "‘Cunk on Cinema’ gives the history of film (and Hollywood) the Cunk treatment",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVzl0aFJSUnNlN0JvQkhtU3FDeHNjdzdBV1dZRnpoOElfT1loeHdGdWpESGlidUJTX01DWUJHaGhUSmR0UnFRSnY2dldxNFk4Zi1xMEJzNlg3MDNRQ1hIQnhnWWVIM2ROQmdTR0xvd3B5TTNjSFkxWk1FNThwOXFsMjJ5WDBKNkZjcFRsbU02TmtBSWZaSU9wTEdMYjJfMmNNcG5JaDNKa0pxdw?oc=5",
-      "domain": "latimes.com",
-      "seendate": "20261115110000"
-    },
-    {
-      "title": "DP World Tour Championship: Rory McIlroy claims Race To Dubai as Tyrell Hatton wins tournament",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ub1lIbUQ3a3ZUMzVzMnlLMV9qMjYxY3o2X0pIbXpQSVFmNDFiOVJBRTljelh2SVI1RDRGYjVjSXpFYlpHUG5GT05GOGhZb1BRbmNrMFRUelhqVFZMbW1scjNzNA?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261115121404"
-    },
-    {
-      "title": "The PGA Tour is Changing Almost Everything. Except The Dress Code Rule I've Wanted Changed For Years",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORERNNk91Q0NSTnBVZ0dUdHJIRXF1N19aNnZUXzl1YWQ2UTdzcXNBU1lBS0hETjl6LXMxY0VuRnVfN01fNTNaSmpOdkdDengxN3hhRzJWcTZRcURlWWE2OHZaUHZCRF9ZOEhOaFZNLWxsRk9GRHVnQV9tTno0dE9MTmlvSE1BTjBpQUtqTXRLYlc4X1p2bE9OS0ZDT0JzYm5zNDRudktDdTZ6U3dyMmt0SGxoeGVCMExsWkUweGdVQjJldkktbE1yQzUzbjNoLVk?oc=5",
-      "domain": "mygolfspy.com",
-      "seendate": "20261115140303"
-    },
-    {
-      "title": "What channel is Packers vs Vikings on today? Time, TV, streaming",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbURjcXNxQmFsTnBUNVhrOWhaaVVySEVnR1E5dWNGZXZndTVoWERBSUpFS1B5dlA4VzhIaWNKR045bDAyMlFyWWFROUhFeTVHeTRQNjJrblVFaDVOMDktenZYRHdOQ253NE42XzlsZUJ1bDRpR2xUUGpqcHdqZU5LYXdDc1pDb0k0YUlOaDZQb0tZRGJsMDVEWW5QN1pFbWlFLVRUdktqSGlrV0hsSGlVbFVlYm9PclU5aS1Sb1lGVzEwWDNqNnlKQ2FyMWhCOGFq?oc=5",
-      "domain": "jsonline.com",
-      "seendate": "20261115135300"
+      "title": "2026 DP World Tour Championship prize money payouts for each player in Dubai",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3hRQi1TTUk1MEQxSHF0RTVBREtEOVNMQVQ1S3lHMTRDYXdWTG5fQnA5OTdXRm9LR1ZMektJdzdMb3h2WVFGMnFEdUhlVXlCUjZUbzRyUnVEM2tMVzhsdFkwdVpiRTItZUZVYndTM2l5OEg0NlVmNnQ0X2hhMmRsMURITmlsaEE?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115173047"
     },
     {
       "title": "Meet the 10 DP World Tour grads, including Eugenio Chacarra, Patrick Reed and a former grocery deliveryman",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTY0QXlMTzBKX3ZGbS1neHlLQlppUjF2V19BR0Nza0JjRThmcWtEOEhiS3duQmhXTWlGS2ZXeUpZM1NSSTZZTHJ0elhHUUt5LWxzTHlBSVZxM3RWSzI1QS1WUkpGS2xNcVlfNU91T0dUZXBCX1lweHNxQjVlaGw1eml4YmxhVWxGMUVkcm12UmtGNXZ5V3gwMTFSYkE0dXZfbGF1MUloWk41eW1tWXhIMnZrbXlQdTY2czdPUG5wRW1ndGx5cnExYmRQRndsM1ZqWHNYSFdkc1J4aGtZemR0QkdpTkxtZw?oc=5",
       "domain": "golfchannel.com",
-      "seendate": "20261115140837"
+      "seendate": "20261115140912"
     },
     {
-      "title": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlNhWk5pSFNqTUFqUWN1YTYwMHV1aEpNQUQ4cjcyNVJhZ1lBSmM1RW52b09ZVjEzMkpZdHY4WlhoZlc1czE3U1JjSXVhV2pSTFUtLTM0cjM2UjJGMktVeWc3a0xfZ1RVbUtCcy1uYWx3c3hUT0FkcjhyOUZ0cnNyRDNEUjBOdVk2bGVUNkd0R2N5YWpJVHl0VHBCLVRndTRBZ1hydzd4bUk2MUFORE1XNUtlbWl4Qm1hTXg1OHln?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261115124100"
+      "title": "Chiefs' Chris Jones explains why opinions 'are like buttholes' on national television",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0Y4YVBoY3B0OVo1Q3liX1VjXzBrbDdobHFUMUFOcVdUTy1JcnVQT0NoUzA4ejhDTVU0RzVCSktGcU1GYi1QNnBGVmR5bUVSNnlBVDc0R3RPY3VWQnc4LVROUHRvbTFwSVlGWjVaamlNOGZvcGgySl9yWTRmTmRlVF9XT3B0MVpCSmVpc1lfZHBCdmVid3ExQTIxTmU2N0hnQ0NMTlVRMkp0NEkwdVMzWHB4ZWx3YmZuZVE?oc=5",
+      "domain": "foxnews.com",
+      "seendate": "20261115180645"
+    },
+    {
+      "title": "Meet the 10 players who earned 2027 PGA Tour cards through Race to Dubai",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUmFmTDNqNVItVnNIekREbl9TVWc1c01jUTR2V0Rwb3IwTTdmekc2c3E5dUtqTUJXcnZQdmYzd3hoRzNpbDBlTldIM1p4OU9mUzBUTjlOSHhuTHlYdDVqQnBSb3VUZ3kwbDRUdl9UTVVMY3BRT1RjMTdRQmFZM0VGWlplQkZySlJFZzdETk51V1oxcEIyVWVLMHppdVdCUGNDSTFna2NSWDNyR1Z4aEUzdGNYbHVfQkpxSFFPemZwRnlrWWhQRUVBMDZZRXpyU2RKZVpQZ3ZnTTEyeW4zdUNpQ3J6Sy1md1FuSmpPYm5HSXo?oc=5",
+      "domain": "pgatour.com",
+      "seendate": "20261115114957"
+    },
+    {
+      "title": "Phil Collins Says at Rock Hall Induction “The Door’s Not Closed” to New Music and Performing Live",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oM1k2SEhBRE5SSFFuSDVoN3hET29QaFl2MUpKMUdLLUJWakdfNlpXLUJHQjFmSG4tLUtNbjVja1lHLXA5dUFHaEVWRnlzNGZBZGFQbFhpUVRuYnVnUXhLZUpudks4Y1ktcGFjV05Lczk5cnV3NFU4Sg?oc=5",
+      "domain": "consequence.net",
+      "seendate": "20261115181517"
+    },
+    {
+      "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1NjMWFneGFIM0c1dnNMeXdBMEhQR1V4SF90MWYtdUJCeEVZbV84Z1Z6cE5Xa2NYd09wUWxlOHoyemVjWC11TnpzWVVBZTBBSmo3QTF5YjBaRzJabnVLYjJwZ2hRUkxHcnhYMTVTR2FMYjNrUHFNcklCYUZ3T013WmRBR1NxSHkzX3VoTTRXUDFmTEticWdhcEpHV2pkVXJ4aGFnVDRHbnJQZFRhUEpUZ1VJRTIyQm44WGxjOW1vZGl1a3VI?oc=5",
+      "domain": "pcgamer.com",
+      "seendate": "20261115180000"
+    },
+    {
+      "title": "What channel is Packers vs Vikings on today? Time, TV, streaming",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbURjcXNxQmFsTnBUNVhrOWhaaVVySEVnR1E5dWNGZXZndTVoWERBSUpFS1B5dlA4VzhIaWNKR045bDAyMlFyWWFROUhFeTVHeTRQNjJrblVFaDVOMDktenZYRHdOQ253NE42XzlsZUJ1bDRpR2xUUGpqcHdqZU5LYXdDc1pDb0k0YUlOaDZQb0tZRGJsMDVEWW5QN1pFbWlFLVRUdktqSGlrV0hsSGlVbFVlYm9PclU5aS1Sb1lGVzEwWDNqNnlKQ2FyMWhCOGFq?oc=5",
+      "domain": "jsonline.com",
+      "seendate": "20261115180600"
     },
     {
       "title": "Country music world rocked by deaths of 2 legends: ‘This loss is lasting’",
@@ -112,70 +70,70 @@
       "seendate": "20261115111200"
     },
     {
-      "title": "Bella Music Foundation Brings \"Harmony Beyond Sight\" National Concert Series to Carnegie Hall",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZnIyVzRqLVc5WmdILV9aT0c0dThBSDBzcjZvel9MYzdiOTBGMWZvVFVPa0RXQjJfWlQwTTZ2UkxRVGdNVnh1d3Z2YTNqN0pFeFZTdHpkbDhNSG43dGR1czRjWHQtZ2xmMG1NUER5eUZleEJUYnBKVEVDTFhRSW8xUXNGLUF0UV8zZUU2bUNhZDROam5KZWVwZFhiOE91RTgzSWd5T05NVTNIZEtwVW82dWRaZVVPeEtzQm15TWVMSVZIZ2Y1clRuOXBJNGJBMFIwUlk4Ri1SUDNra3hG?oc=5",
-      "domain": "newjerseystage.com",
-      "seendate": "20261115133719"
-    },
-    {
-      "title": "Clarksburg History Museum tour examines Civil War officer",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTdybXNZTmVoNmh1S0taa2Q1bjlPejBQOFA3MENaYkp0bXd6SzZzZEpxTUtEaHBqZ3ZJYTZrY3RpYTd6eDllZ3JqRHd2YlNxZHUtSjhSRDZJbXlkY01fMGVfMk9sM1dtN1NYYkNJZ25nRkdFeFc5am5hNWhicUFEbU5nZDNjRE9Rclg0eGNwOU1kcUFnOG9iRVpxU2Y?oc=5",
-      "domain": "wsmv.com",
-      "seendate": "20261115143900"
-    },
-    {
-      "title": "Ska punk band returning for first concert in 6 years, singer says",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkJOZ3VqcmNtRjkzTDQtR3NvUkZTcHVzS1E3OUI3S3NNZURxa2I0N1dybVd6eDVNYlFNbTh1LTRaeHVtajlCQ202Zk1rZTlCVElOSWU1MDB0MW5ZMHRtUjcwcU5GcmpkMUpYYldPMVVPbFpUVW10YTBoZS1hTWtMVjNNMXhVVHQ4T3ZZTGY4MnRpQTU0cHI3WjNzLXo2U0pZRFp0X1VZV1FydWV2ang5X1Fzekl1RjDSAcsBQVVfeXFMUDRTZk0zaGdIaWZrbllWbU1XOWtwUDc3cVliTGZSa1kzZVQyRmo2c0pVSTZud0hxQTBHS2tLcEhzcWIyd1ZfUU81MDM4Tk5tWGpvVFd2Q2hMNmdWT1FHNm55aVBBYmIwcDQ5OUFHcDNxX3hJQW43WFRpTXF5dG9vbk1aS1E5Rm5hUVVmMTJUY3ZVbEhMcWxJb1BRZDFHLUlGc1d2X09VN3BrdUJIY3RLX1lCYWV6NGNZdUZsckNodlhOYXpabXFZaHl4dk0?oc=5",
-      "domain": "syracuse.com",
-      "seendate": "20261115100000"
-    },
-    {
-      "title": "Louis York's new album reflects a decade of Nashville influence",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazItaHUycXJndkZTU19QUjlhYzl2ZFNfbzVOTkM2T3JqNWg2ek4xaUVLekxaX0c1ZmpCV3Y5eW5meXB5Mmp3enlSSDh2cUVCU09qM29oZ3ZoYWFOWDB0ekF0ZU5qdmZ5RmdBR0VNc05ET2pRQ2tkejBKN1MtUDVpWTVTUi1ic0RwUWJkbk5wNzR4N2VXd1FpeUpETmYyYzBaT2JpdVNLZkhoS0U?oc=5",
-      "domain": "tennessean.com",
-      "seendate": "20261115141800"
-    },
-    {
-      "title": "Review: Talking Heads’ 'Fear of Music' comes alive in its newly unearthed parts",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHptb0NMSTBCMDZSaXVyLWRCaXR1RDN5ZE9ONE1hX2JJT0l4ZW1HTHJ0YUVENU1xNlZXanVzZGt3dnpXd3B5c2ZWRUY1RWstcEE5VUR1UWswVlQ1cWk5UjNLSHRHbVNNZGVUUFVoeWtWbjhYZFlHWmhfZW91X1lfQzNKenNrQW1hZGJRd19BZWE3UWYwbUE?oc=5",
-      "domain": "pastemagazine.com",
-      "seendate": "20261115140229"
-    },
-    {
-      "title": "McIlroy claims season-long title on European tour for record-tying 8th time as Hatton wins in Dubai",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWnZWWU9VR0xlaDBQUzdjaHhXaFNBaWktMlhlRGR2dDhGVzN1YkRqN1psSjlST0VucWRyWWs1WEc0S3lib3oweWNMOWpXY1NfcFFXY1pxaS1hajlMa2xNM2NtQU1NMm1adnBrNEJRei0xRDJ0Rzl1dHJXdGV6dW9FekNzSGNVM0gyTUoyOGxnQjhTSmdGVnBTQVdpWE9OQmF3Tk9oalROSjBsRFB6Q1pjWnhvOGdZVnlOQk9FVFVpZFBwQUJheXdwVkJFQUpPYTF3?oc=5",
-      "domain": "nbcsports.com",
-      "seendate": "20261115132209"
-    },
-    {
-      "title": "DP World Tour Championship and Race to Dubai Prize Money Payouts: How much every player earned",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTzAwV0hmZm5BS09qSUlfRDJLZ0hrMEc2X2FlS29NZ05YRjhlMF9nbE5xME51anAyT0ozRkNKbWFCbVU5UnoySVYzZHBZNGk4SHBVTGtEaXZna0RrOC1FUl9nQWVUX3BpeXNCM25ORllBckVIclJ4b1pZR2hoUkFJZ3NsbjRrSEJ1VUdJcFhka2ticEFvUkVWc25EUzMwODN4dURFTnV2azNacU1vcTh2RFlCV0JuZDdYNXF4eEZ3?oc=5",
-      "domain": "golfmagic.com",
-      "seendate": "20261115132126"
-    },
-    {
-      "title": "Tour Lake County wins seven OTA awards, extending three-year streak - News-Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXFTMU1acXU0ZmZkMUV2WXNYSjc4X3ZIaTJoRGxPQkw0QTkzenJ2dmhuTUdCbGd4Y0Z4QVp3eUM4NHQ3MGRHUGV1QnAyLTJWMW5UdWpRV0R3LXJrMFZ0ejdIR0VhcDhpakJLTG5nNzFKTldmMWg4Wm1nVHZBZndmdEdDcjVpUm84T1pZSnpyaVlQWG9paDVYSmFSeGNQNndsWmtrdUU0UDMxdw?oc=5",
-      "domain": "news-herald.com",
-      "seendate": "20261115143109"
-    },
-    {
-      "title": "Here are the 10 DP World Tour players who earned 2027 PGA Tour cards in the Race to Dubai points standings",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVGF3WU94NzB3azJCRXZSMlB4ZXFsejBReC1zNWlhNFZKa2dNcXhYR2lVWHRXdFU5YVJDc3dvbElYek52bUphOHh2bGx4SzRXckdEU0VnMGlHOWtnRUtGWktKdTIyU1Y2Nk1JYlI1QVpCdU9sZnREMm0weTljZw?oc=5",
+      "title": "Why Is PGA Tour Austin Championship Delayed Today? When Will Play Resume?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDR0ZXlfVlZIWDdWcjJoTmhidnJlQW9RbVJQLUMyZmZNS0NfRUc3RVdDZjJIOUpxeDF2RGF2dXlfelZkaVZzREg5dzRoR3pNSDM5OVdSZVhkS3BaWXJCWGo1QVpzbHBHcko5NmRrcEE3NFlhTDN1Ui1aNVVENnB4SFRyUVFfVzhj?oc=5",
       "domain": "sports.yahoo.com",
-      "seendate": "20261115134250"
+      "seendate": "20261115173726"
     },
     {
-      "title": "Mass Communication: KRCC marks 75 years of music, news and community",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQU5kbVdJOHBVLXJtajRYZ3Zvb2lBVlFnZkhUTVJzMGdXRzMxeGlqTTZqRE1rdl84UmFSX0lFRFdjZTQ5WVkyaEszT0UydTc5aXQyMEs3SUNXOU5Hc3lySWVSTWRRR2tESy1CdTZkQXl2RXdPQnctLVQtTnZuTlluWWwwQWJYRFJYN2tLbVljdXFJN05LZnZsRWlSWHJ6TTg?oc=5",
-      "domain": "gazette.com",
-      "seendate": "20261115140000"
+      "title": "Ebenezer Box Office: Johnny Depp Movie Leads Over How to Rob a Bank",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDFhRExKRHpidEN0V3lEMWowaXJhT05NNktlRmk3RUVWQVJMS2ZtRXE5NmJUQXc3aDJBYlFERkZRRGp4eUF6OXg5bFhhS2Z3VG92M0lrdmlVWVpFbmJEV1VocDV3NzNpSjRqX19YYmphU2doRUk1MEtJdHJvSklCeU9tQlgteG13b0lPWkNHbDd4NjVnOHpxSmFoc1Q2b0x4QXZ4M3dqWGR3aXJVcG9RbjhjRlJKLTF5T1E?oc=5",
+      "domain": "variety.com",
+      "seendate": "20261115162000"
     },
     {
-      "title": "How to watch UConn vs. Louisville women’s basketball: TV channel and streaming options for November 15",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaE5PV2ZGVFF6QXNUWnRRaGxfdlpRSUhJTFAyalhGRWRoeGNmOVdSRDRCT1ljVVBsWjkzV05WS1NzMjJoT1JUc2ZxMGlldGlWU210UW1ZWkpsUWNoZ1hXMFpITFdxWThDM3R0SjdZTDI3MVlmLU9qRkZFbXF6THNVM0dJUllBYk9vUXZJa1RGSU5MMFRlN2lZZnVieGJpNzUy?oc=5",
+      "title": "Bryson DeChambeau Shifts Focus To Course Design As Tour Decision Looms",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXZaaWVac0Vzc3JQT0RPSDFvR0JDYU9KdzBLYUxmTVExZlNRUy15X0tqMVl6T1l3V01GZjFaRzMyS2RjdzZUSzlONENWVUp5Vk5EV1Jxc09GbzFTNmEwRmoxYTA2VTE4alhJd1RqUTVidGtMazg5TkpDWnRBbTdfVDB6UUpXX2psUV9WUW9kMA?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115191152"
+    },
+    {
+      "title": "How Folds of Honor Friday came to life on the PGA Tour",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXo5cG5fVlA4UTd0RXdWbzVWMndYckVtVXhFTWw2RVg1WWJsRkdCUk5saEJTVlFCVGk0UGd6Ry1ZOUZPaUQ0Yk9JcURXOC1yYzV4UmZ6eEVDSTF5dGRfbWlnU1JfV2F5anVzU1BwdVRvZmFVb3RuS1ZSbko1dlV2WTlEdw?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115190355"
+    },
+    {
+      "title": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MWFA0LXRfYmRaY29meXpnYkZuekV4Z2owblVNTjVVUnFLVlNpdlVOT19ZLVFScG9GYXVPeXh0MDE1TE55LXYyZDhucEc3NFB1ZHJNX1ZSWkFSal9sM0hrQVpXdUZWWHJoYTRuXy1oV09WZ19aOWE1MDdn?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261115104700"
+    },
+    {
+      "title": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORF9XTi1kQ0d0SkdCQmNHQV9KeHRZbnl0NFVNM2UxOGZoZzN3NkdLLUoxdDM3UEMxUHVVUW9kc3JjYmt4SnEyTHM1VDVHQjlwQWc0ZUM2SjgyOHMzYThDN0Zna21kU1VURlpKbEVKYjl3UFhVdGNJYTQ1Sm1tc2xodVU2Vmc5WnY5bndQazc4U282dnRFU0hSaWdKSHg?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261115180000"
+    },
+    {
+      "title": "‍‍‍[!LIVESTREAMs!]Tv] Turkey-France Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWTV2SFpac0ZaVUxSWXNuajhseU1vcDZscmtSeEQ5QUF0cnZ6NFNfU1lhWmpsUkxOMFVCODZZaWU5YU9ISzZvczZLZjZYaFh1eXRoVjdzdlA2N0dmM3FkMXN0SWZEcHJibl9EUjlFUXU0eV9tODJhUGQ2dVBNNm5jWURpS1RnaENyY1htaWFfS1BzV0pydTJLMjU1eFpndUlxdzJpT2JpTFdNOTd6VjJlVl9pekdLb1BHQlJlcVlKaUp4eUZvY0kyRXIyRkRYT19wb0hrRFhsYTlzNkgxV1pybE9qd2dsVHBvQUZCMzR4c3hvMldGeWVNM2I0OVN2UENkN0NWc0VGWU9wdGRUSGxMMEhKZDdoa3BseEE?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115191744"
+    },
+    {
+      "title": "Opinion | Television Is Terrible at Getting Middle-Aged Women Right",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMEVmdFJubVlhZEQ4RWVzS3BNZzV2UFBFWV9uRVljTl9HaWV2ajJGWW9sSGc0Uk93eFVOa3diQWZXR25oWE1HNDQ1c0hCYlNpTWtWbFo4Vjd5S0tfX2JXRFl2ekdsZG0yc3FEdnZobEJTMUh6ZXo2by1HWnZOSnFwb0RxbGxnUzVYMDJHTGFSc2Z4a1Rp?oc=5",
       "domain": "nytimes.com",
-      "seendate": "20261115143928"
+      "seendate": "20261115140005"
+    },
+    {
+      "title": "Niemann Eyes DP World Tour Return As LIV Struggles",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQlNRYXlDWHhSWV9QeGV1OHhnYWNUajVJZ2FoZElqUHp4T3pzUFZpM1VyVEpLOEowSC0yZ2V0VEp5RWMzeE9HQVNvZnM4OHF2bHROd1VPS200ajk2Z0hhdGIzbnZQNlV5RUtfU09yRXl1T0tQZjZHRjlzV3RaXzFOeg?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115183906"
+    },
+    {
+      "title": "'Ebenezer' box office – How did Johnny Depp comeback film perform?",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGRoN2hQVHdWQWNaMF9ENWw5STlMaERoMVEyQmFkN0ZXZWYtSGdjVlJKeHBaSTlMWjBMQ2NJSkFXUzlUMlVyZm5IQXdZQm1sZlJTN0t0eXlpYmxpaHRKSzVLTnRYSjlvZlp2b1BUcDkxQ0xmYjd6LVZTd09VODU2RFhpbnRFNGZ5QUdFaFo4XzRpNzhHMXZWR1RVczNmSGotLVdGS2hkdUNaa2MxSnJpY3JRWHZNd21vX1ppS2ZGdUg?oc=5",
+      "domain": "usatoday.com",
+      "seendate": "20261115183200"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] Czech Republic Croatia Match 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUENFNFR6alFOWkJ3QjJKNjBpN0M4S1BxTlBpY2VsYUVBa2I2aUI4NjhDekV0bXJxVnppdGZXTkw5VXBpUzN0a0FwWHdwNktLTzB4dFhkTkNZTHJSTUVaY2RUV0dPeFYwa2RSeXMyeS1LdHdqNzBXMlVHR2FWSUZ0Sm53VlVMTlBuRVVkNU9nMDFnd2hhQVVuWHB6OExmaVUzWldTUVdKSmQyeHNiRGd6QVpCODVlWm5uUXlsOEUwTjRGZHQxc1lOVWwycmx6TVAweExuZWd4YWVPSF9OVnZXTVphVmpFRTRYVVFNRTZlUTF5Q21NbnJhcGZmejJWZjNPNjJ2THByV1pGVWdna1JQZnRGLVBPajZfVGc?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115195512"
     },
     {
       "title": "Richard Sterban of The Oak Ridge Boys and ‘Elvira’ Bass Singer Dies at 83",
@@ -184,154 +142,94 @@
       "seendate": "20261115132630"
     },
     {
-      "title": "The Right Way To Transfer Your Spotify Playlists And Songs To Apple Music",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmpnVGVKbHVLcGJZbkF1aWNreHBLUHZPX19pblo2NVMwMkFnRzlVX1BWaWM4bXJOc1hENUxGMXhBRlRBTmlyMnJBXzBEY3NCSm8xaWJ5U2NfMGZkVkdhLXZnRmNBYm95SGhraXhEaF9SMDRMdWpZa0RmQVZIVlptTHJPd2FIa3N6VjJDSl82Y0s?oc=5",
-      "domain": "engadget.com",
-      "seendate": "20261115131500"
+      "title": "Phoebe Bridgers is set to bring The Lost Tour to Orlando in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0c5bDAyRVp1bFFnTm4tVEZFSGp5ZnNydnhTcnAyemY0ZFJRdzRvTXpGVGNOSUd1NlNBRDUyODc1MnJ3d3MtS1NVS0ZmTmVsSUxMSzFKYlJnZmZKaHQwUC1RS2VhMzhOTzBpTFJwNmYxbkhZWE13eTlOSk5JRVNqd2NYUno3RTR3cnF2QWNEVlJvUzlRV2FVOWFkN21haTZheTFHRE5ZR0c?oc=5",
+      "domain": "yahoo.com",
+      "seendate": "20261115191818"
     },
     {
-      "title": "Gaza War Documentary 'NAZA' Nominated for Three European Film Awards",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNMlA2WnBJaHpNYWMyM2JkYlVjbl9GU2RjNFRDNGdJeldkcUpDRmo4MGd4TTE3RS0tXzk2VG52Z1p5RjVYZ1VXSHA2VEV3TmltWVEyZ0pRR0hnbGVlSVhZenJiMnBZclhzNUc2d0ZRMVF2NkJhUGlaSGhKU1VleGozNEVLcTE5VzRPaGxKTkxGek0tMzVpVklUdm41VjVxVk5OSGczcEpFMEQwZXlaLUlQRVg1dWRQMVhPdjl4Zms0ODZpQkhmS2FQVjV3UV9LaWxBbEVOcWlpbS1fMTU2RktLamlQaWFySEdLR0FuQkVvSVpqcWlvQ1E?oc=5",
-      "domain": "haaretz.com",
-      "seendate": "20261115121400"
+      "title": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0QzZ0VjTkhEQU1qYktBcGhyb3NVSlZGZ0JnMlZDbll1Mk9QOExoOXVhVXJxellqQVVhVkhiOWl4UEFsakZjWkdOeHFENUloNzBpWkdOQXpWV2tXTzJkZWVtRE1aMTYtQVZPbHVjNXdrUHhiTWhqTFlUc3lOWjhOMUxjeFRseWZuZVdsc3Q2NTEtOE1NVlE?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261115173700"
     },
     {
-      "title": "How to watch Seahawks vs. Raiders: TV channel and streaming options for November 15",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2tDZC1uc1lDWlh3a2V0aEtjY1VNQkwzNjJBVkUwcVBaYXNNMjJhUmRwbUFqQUZmWFpWU0p0RS11OVhOR1UwR1NDUmVXMzVZb3dsaEhTMXVvV3lHZURRVjlzMGEtVjFpUERMeWJSaVZjZ2xXaTNQSW9OQ3hSNDQwcThVMm1vTzJOdkNMSzlScTZBdW1CdXlFcUdGU1c3SkFL?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115133150"
+      "title": "Patrick Reed Returns To PGA Tour After Family Struggles Abroad",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1B6WmlleVRYNHZVRWV4YWt5OGZGdzB6RnVKa0Z6eXc4OVhSWnFOSTZyZXdmbWFMMEIyb1FGOVNYUzBPU1lwYjBqN0NwRUE0UmZySWljRU1TakxKdjIwNWtCUFJDN0lPRWlNUVBDUE03RWREMDdNcWZzX3VnRmloQTZGb3A?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115182209"
     },
     {
-      "title": "How to watch 49ers vs. Cowboys: TV channel and streaming options for November 15",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOczE3MS1wNmsyREFrWlk0Q0ZKTzVjVlotWkJxMDFhaEJ2YmhscHFvN2lJeVM4a3dIUzdzUF8zaWJmNVhCQUpEOGpYVTMzQ0FCQWR2Nzh1YmoyT3ZsbEV3VVpfZC1nSVRTT2ZvSmN4NVM5Ym9GWVdSc0N3cjZ0N3M4bUF3SHZmVVVsd0dtV2dYdzVQRTNsdXcySXhMc1U?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115135559"
-    },
-    {
-      "title": "Legendary country music group, haunted by tragedy, faces death again: ‘Only two left’",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSFZXVWpuYkdCNHdmRGd0TTFxU1NLdzF0T1VRSGExcWFRMFZiMnppTHJzOFJublFFNmRhb3FxU3NkdXhqUTNXdlp3TTV0cE1qd3ZXQW5KdlctOVlnRktsUmJKSm84WG5NQ0ktcXZnbjhma0RzU2QtN25tSzlTQk5LNjVkU2lwZ2VERG5YM09BZ1ZYU3BnbUl1eVhmTXF4LWNMSG1xN1Y5RTJCYUpHc3FaYzhQaEY2VEZscUhXNE9NWGg1YVBydmtpOUNWb3bSAeABQVVfeXFMT0tTblUyX3UwcVVveE9Rbk4wdUhZZTFTWlUzbXBqWW9xREtSRVI2aC1vcDRHajlWNUVFb29Jc0t4a3NaOHQ5OGMtVHFibjlTZGtxMmMzaVVRZTdfU213RHN3YlNRay1idm41SzJvbkpyMkJ0bExDamExZVlpMUJOb19qQ1k1a2tVbnhRbUlTMnRhOFlLX1hGMjZJeFotaXk4eHhWV0FyZ2Z2WGcyeFVDbDNWdGFLdU9GSHc3Ylk1SnJ2WGp6b2ZhS2xvYU9SeEM0U1dPWmpRejNpYVZSTUtvM2E?oc=5",
+      "title": "Country music mourns after legendary hit maker dies at 81: ‘Rest in peace brother’",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1ZMaXE4VjlKc3B2anZrTmdnYXBKU05KSFRVcEFtYmF1aEw4WUpwZ2tpM1ZPT0JGeWNOZENZTDZDM3VCVWJPTVMybkszNmNmR1Q2dWVfS3NVLTVFNWJ2X2xsSVNJRzFjY1JnUEVGQlEyWEIxMmFrVWdkTTlHaWxaLU5Bb0lTSVdtUXFIc3ljbTloNjlic1hDTS13RFU1SXA5cURaRTVkSDdSbFBNM0VTVW8xNGVCRk9fZVhDQ0paUHZkbTRHYUlUSTY5VdIB3wFBVV95cUxQM0JrTnNZaHlJYzFWeEdfS1dGTnVrQTJLMWNYSDZka0JCdDdjSGZJdzduV1c2UnBsSjZnXzk1T29RalBNZ0dnWFNYUkJtVDlncThtUkhhOFc4RXRWcVY5dVhnc0FtSno1S2RTeVE1dHhaMnh3V3VUVEFJTDlvckY4UDRqdW82NTZBWkRKejZGMmk1VnluRDFKekJ1MWdSU0x3VnZWNlRyV0pOQ19jT1hicHlHbFRhVnFnNzM3Zkc1bGRoeDB3SFZHRUtQajdDbHV0d3Zpai1sTF8zM3FMSnlN?oc=5",
       "domain": "pennlive.com",
-      "seendate": "20261115130000"
+      "seendate": "20261115100000"
     },
     {
-      "title": "Four townhomes coming to 1155 N. Heliotrope Dr. in East Hollywood",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmtxdGNETW5PTFRfeUlfZ01PZjhTQmZJX012XzVjRFVTQ0x0TnhZQjhGVnRsYldBbDd3LUdpZzM0V0RobnlWdkFaVm1lLWZJdlh5SGZQTWltSjRqMDRPZDV1a3lFQXNhcVVlQUthYm5KRVhWZ3FBN05tLU5mUXpxMTlsUzVVVXlxaTFVSU1xb1I?oc=5",
-      "domain": "la.urbanize.city",
-      "seendate": "20261115141500"
+      "title": "Patrick Reed earns PGA Tour card for 2027 four years after leaving for LIV Golf",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHZVa2NfbUFEWlRVajI2WlU1SXd5aldnemd0TVVMRWtydlIweXd1LXFnWU42bmNlSUJXdTJpbHdIR0dpcmtoZVJVVzhTRXI2YWh3MDNQdG9SOEJXRFhfVWd4YjhkWVZXMXlzS19wTmF5RkJjaEFCbEJzSk9VSUJUUjZR?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115185057"
     },
     {
-      "title": "Hatton overcomes nerves, wins first DP World Tour Championship",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSzNhMnBiWkxVNFBxeTVBSmdWWUFqY0pZR1h5a1ZvTlo3dHZQRFhpYjVZVDZiWHRKMF9xd2N4LVFNMmI1dmktMnpNOGNVa1RDM3ltZFJPX1Z0RW9VTFVOMURVZlViWDVvb1VZUEtEbXR6ZGJkTC1pdHRxYy1peUstbXhFM0hySWtCWUxsZUxHYTlWTXFUVnBYbzdydGpJQWlzczNrMmZOVGNuaExrNFE?oc=5",
-      "domain": "golfchannel.com",
-      "seendate": "20261115132954"
+      "title": "DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlpBc2x1SzlWMFhTQTFndDBMT01qTnBhMWtBLTg3TkprT2NRdVhyeHVEZW4yX0xPMnVaakdKbkQ3ZDRwaHlfMEpZZVphZEo4bUpOcmtMOFl1QVFEU1VzcHZIc05lbFowS2xXcHBReHVJTjE2U2lvSVFTVVZBZkt6aXQ5MW9kYUNiY2N5ZGhHTzBhR1NqbTFWeTJYOG82X1ptYnJPeEtrYWFSUEhqRkRraDB0YlN4YkFGLUNraUxEVF9PUkVMZ0tvc2VyYXpzVTF3eWt2MTUxNmN6ay1EZHpGbjdidWhiLXd1X3l0NU9UYUY5VlNjNXc?oc=5",
+      "domain": "skysports.com",
+      "seendate": "20261115134546"
     },
     {
-      "title": "Film Review: Miami Hurricanes 36 - Duke Blue Devils 25",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVlVCVDVrRk80SlJ6RXV1aFZFYTFsQnFPUkctU3pRblYzcVZrY1JiT3ctWWY1ZVQyalZGNEZYX21UMF9IdWhJaHJUUTdHZnkxRDNITktNQzNHZXJkWDhwSWIzX2J5YmFFMFpiVjl3Um5CNmRpb3Y3b1ZMOC1oSmVuZEpyV2M1a2VUUTRBd0EtYzU3TTY4azdFVEdsTm9YWE56dU5yZ1YxTGNlXzJTd0Z0bw?oc=5",
-      "domain": "stateoftheu.com",
-      "seendate": "20261115141031"
+      "title": "'Rory Had a Big Advantage': PGA Tour Pro Calls Out Major Points Imbalance in Race to Dubai Title Battle",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUU85MGhWa1VhcFgwaUJJMmJyQzgtMC1wSTcxSDZXZzFQM2VTQ2lZd05wQUQ0M0xMdWhrLU93cElSR3RhSlc1TDdHZTlMS3lLZF9xdzFOdG9aTm81d3Nlcm1RcENCYktXNExkUlM3dVZvUzZJNVdwYnAwbjIwaFVGRQ?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115185219"
     },
     {
-      "title": "Los Angeles hosts 38th Israel Film Festival",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wTXc1WkR4UmY1YXNQZF9nZHNPQ3p6QnZvTnF2SnFLYmplRmN2cW9GSVRaVml6dDZ0RVBucXNXRW1qWGwyLXdjdlh0Z3R5bHdPXzBRMk9IeVZIX0xyekpKTGJwNkdYTTg?oc=5",
-      "domain": "jpost.com",
-      "seendate": "20261115132934"
+      "title": "He’s 19, just won $1 million and made PGA Tour history. But Blades Brown hasn’t forgotten what matters most",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mYzZkY3RQX01VTXBnb2RqZ0IzZWltRW1ESHJlX09mS0xud3FOWFhGZm9ab2ZvdDVzaEJteVEtRlpEWGNNUjNWNDVnNGVNd0RDald3WW85dVdnTl9YLUNDNDFCMTdCcFAxNWs1WW5ncTRORTg?oc=5",
+      "domain": "cnn.com",
+      "seendate": "20261115160015"
     },
     {
-      "title": "McIlroy wins season-long Race to Dubai title on European tour for record-tying 8th time | Sports | 2news.com",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRkFHODNtbUlLSjVGc3duZXNyYk40YzVZRTJFYlVHZTM0ZmFYcGZKYmw1d21vUVhEd2JXVHk1SGdjdnFEbEpWcGpqZm5HcVBKcnYtTlI4YmVsOG10TTNnSksxcVlQYkU2LUk2eGpNa3ZTQTlKUUlGNXk0aVU2ZjZuS3FoSVQwVHZLUTh4Nlc5b3ZRUzRMVE44S0JvM2pSeXNvSi1WYmF5VVVkZnRpSmpaVjVKTWVvaGhTakdfVVR2SUN4OGt1eWJpckhBUHNFSmpucld2aWd6SUFscnBrSkhDdUxkUFVUSkQwbzYwTW0ydGo?oc=5",
-      "domain": "ktvn.com",
-      "seendate": "20261115122618"
+      "title": "John Yesha – John (Album Review)",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YR3U3b0U3d01IVm9SMFdoWWdhWUlXME1adnlYZy1NV0s4NmRTMUtaRm5HLW91eExrSzBPSXQ3VFZQRVVXMEJhdDZlemswVUVOeEtJeTZxV2ZmS09CQ1lLYzl4dHI1a2F4Rmo5VjVoOThJb2hfWlY1aw?oc=5",
+      "domain": "ratingsgamemusic.com",
+      "seendate": "20261115193223"
     },
     {
-      "title": "How to watch Rams vs. Cardinals: TV channel and streaming options for November 15",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXdyNHBVUFpQSkhVREV6M1BPbzNfc2t4bTRWekV4cmh6VUNUdFNtdHNKbS1BR3hXME4telhGM0hSNF9VdVdaTVZxU3lsSnhTV0VTdlpmRTdPSnN3WllRTXhuTDdaZTBhRjRhcy1pUzgzUUh3NWxsMUQybGR0VTJJVlJHUFNmRHdPbUZRRTRuMmcyZENxZTdJYTVhTl9odw?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115133436"
-    },
-    {
-      "title": "Iconic country music legend dead after pancreatic cancer battle; Here’s the latest",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWdfYVdYSXJMUnFVcWxVVm9OX3ZSaDEwUlBlTXJSUFRUeDA2djN2V25EMFNJTUFfYmloSVdta0FsV01TajJaUDJwOHZ5YTY4UmRMZDAtVlFnVlZKeERBNDZwYjVONDFaOUItY3B3dXVQUTk5Z2NNODdrRG1ua2gzRWNNbEpON1RaVzZIS0FiV1llNVZPaS1QV3Q5SW5uZVhoalZtcWYxZzJ5X1hTTFZPeVBJSlFUc3ct0gHMAUFVX3lxTFB5WlBjdld3Sm9PWk9Remd6dGpRR185bm5WZGRWbFhRZnpUbE8wX0IzWU1oSGVRY2ZpaFcxMTJmQlFLenFCMG9OT2RXNXpWWktuTmN5VGJOUXFKY185dER5ODczeHNXWjRkZE11ZC1XeF9OQ3k3Y2VYY1Q2WlhDeXdFNDNPMjY3S3E4ZklsWTZJVmNHdTdYTUV2SFZlMmJCOWF2OTZKNjNvdFFodXBxUUszZURseVZNeW9XSVJqSEZGYjByd1MtdnlPcmV4bg?oc=5",
-      "domain": "al.com",
-      "seendate": "20261115110300"
-    },
-    {
-      "title": "These ‘90s Stars Suddenly Left Hollywood. Here’s Why",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpdmdfWlAzejBCQlVJU3ppRnp4M0hWdmhXWFNVUFdPWFdsaWFLblVzRWhSb3ZIdDlTa2ZmajI0WDhNUUdLS1hVQndNdThYTHdsSUZPcDZCMFpQTmdCN1Z4VGtSUFc0VzQ?oc=5",
-      "domain": "people.com",
-      "seendate": "20261115110000"
-    },
-    {
-      "title": "How to watch Marshall vs. Duke women’s basketball: TV channel and streaming options for November 15",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1EyQmM5MmthMHZGQjJwSE5fT1RyTXlVNVhVS2FIVDBTa09RclR5dmtMWjBnQTRyS1FEVzh1OGM0aXlLUEpTdWxOTnYxYlNMTklwSmkzRkV3bEsxUXBOcXd2a2ZfUnFWeFBRN1FwVDE2cTNzMWZ1anRlSjllQjRmU0hmZC0tcTR1bDR1djU0aXAtNEVtSXZyYWpaYmY?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115125017"
-    },
-    {
-      "title": "Next Week In Music | November 16-22 • 8 New Books",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaENuR0pKQ2p4RHlRQjRvUVNEeHFsLUF4elphWXlGVjhGWHhhbVgwdVNiSEFmRlRyMkh3ZHg3NExJVG42R2FfajRPSkZjT1VXYmVQOVZLUkFxZ0dBN2hKWkVpNEpycnV1eWxzclV3Z05FVFZIUGlYVm9iS29PTmc1VDd6ejFKUQ?oc=5",
-      "domain": "tinnitist.com",
-      "seendate": "20261115123058"
-    },
-    {
-      "title": "Holiday lights, live music and Santa to downtown Lee’s Summit",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR0NFOXI3bVdGbGc1amNhZjRJVGJ5dWFmYkxjSFd4NlZKdjdaeUJoQU1fOTY5TVlQSEtrU0I0NHpxUzlSWTlwSVhFNG85bjRKMHlneVRYMzlTWmN6QTB0TlVNU0V1ejJ6UDJkZDZGZ0ZfTUs5Q3BrOTJOMGQ4cHVJSlhTRkROTHlaQVNHTjlsRWlJMjd0WWJJ?oc=5",
-      "domain": "kctv5.com",
-      "seendate": "20261115140700"
-    },
-    {
-      "title": "How to watch Texas vs. Baylor men’s basketball: TV channel and streaming options for November 15",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1JZX3dOMTFTaHNrQ2Nzb0lHTlpyYm81VFdxcVE3SUhDVHQyVm82TDBjYkkzWTY4dmVjVXBNOVk5b1RvaExzYzYtSjJJbWEyM1c2SVFFX1BZS1RhWVpFb3lNdEhwODVFZExhemozM2FXSHpvUkJwN2FIWFlEcGQ3YlZnNnRSaWNrMkJhYjdBX05rZWxtRE9IX0Vpdw?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115125042"
-    },
-    {
-      "title": "How to watch Texans vs. Browns: TV channel and streaming options for November 15",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzJjbk9oUmMzcXRCTUdldGtNRU4tcW1tUHItV1FHUWxCVTF4YzF5MC1kelYwZHdHeS1oMW1obE5mUHdBTW13SWoyVnIwaU95dkhsZy1aaXFVc1NTVUFaaWVrcEtmTDd3ZU1lYWFCbGxONWFqdE83RW1teUZGT0lRWF9ZdHlWMzNtZXFiYk1vNXJoMEViTFIwSWw1MkE?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115124551"
-    },
-    {
-      "title": "Liam Neeson’s New Action Thriller Officially Finds Redemption on Streaming",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yOE9HaGhDSkIzbVFzRWhFZndkaXJpUG5CZV9GLXlUZlBtMm5rMENmU1hFWGtBNW5fNzJRVllZV0FqVHZjWGw5dzNBM0IwdEQtQzVlcFJOOXM1dkhSOW9BbmNlYXlFejN5d2VnZHJuTkN2cjcyVlJRMmNVZTFOQ2s?oc=5",
+      "title": "‘The Penguin’ Star’s Divisive Sci-Fi Remake Is Officially a Surprise Streaming Smash",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0NpTXdzMVd0djRjTThqYThpTEp0VkxDOEZwUmFkdWhRZjdCdGl1R2d2QW9rV0lBOF9nR0hkcEcyUy1qYkRsb014Rm9CaWR4a3dkcTJwOXJuRWN6V01EUTFEUjlKT3VzeVBHa1JZQ1JJSi1MdFVyOFNWc3VRbllEX1V1azh4WHkxV3U0YW5LSE9tSHR5SmVOclJDdw?oc=5",
       "domain": "collider.com",
-      "seendate": "20261115133012"
+      "seendate": "20261115193012"
     },
     {
-      "title": "‘Looking away was never a choice for me’: How Hollywood’s love affair with Israel turned sour",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnFZa2FUOTRXU1phT19icWRBb3RSc3BPM3FpalJVeWVrelJsbnRLVEhYYzg2QXJObUdQazZiMGs1MXNwRXJNRjBHaGxBalZSck5UQ0JBYkFWa014ZXcySDlFWEtMbHFEUHlSdFNoWExEQzA4OGhkUnhGcTNZS0lwM2FxWGk0Y3BGUExPQVZSMW1lVUhkeklRT00xMFp4NzRndEpzVURROU1zWU5QZ1NmaA?oc=5",
-      "domain": "middleeasteye.net",
-      "seendate": "20261115094100"
+      "title": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlNhWk5pSFNqTUFqUWN1YTYwMHV1aEpNQUQ4cjcyNVJhZ1lBSmM1RW52b09ZVjEzMkpZdHY4WlhoZlc1czE3U1JjSXVhV2pSTFUtLTM0cjM2UjJGMktVeWc3a0xfZ1RVbUtCcy1uYWx3c3hUT0FkcjhyOUZ0cnNyRDNEUjBOdVk2bGVUNkd0R2N5YWpJVHl0VHBCLVRndTRBZ1hydzd4bUk2MUFORE1XNUtlbWl4Qm1hTXg1OHln?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261115124100"
     },
     {
-      "title": "UI Study: Men Who Dish Dirt At Work Pay A Higher ‘Gossip Penalty’ Than Women",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0JzM3R4OTVNVTdkRl91aUhGSXZJQm1ueXJCNllxYkJ1SU0wcnpQekxpd0Q4UGZmbmNrVUY3cEVCYjlGLWxwN1N3azJMX1JXYnpialJtR2RveTBrMnpjSEpnZUJMV244cHlzeEpaOVZwU25yQ1JPYVNOQ3lnbDlFYTdNWmNjam9ZMmxTNHBuODE5dlNkcmJPdHF2ODFRd1p4Y1FN?oc=5",
-      "domain": "kiwaradio.com",
-      "seendate": "20261115141835"
+      "title": "‍‍‍~[Streaming-] Italy vs Belgium 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ On TV",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONm45NXJrSzV2RGkyUDVrZC0xVFZVZFNWcUNmcUkxNlBTUzdIZ2haS1UtaGlKaC0yVDJ4dnBPaGtweE5DVXhWZ1pzelNoX0tXbHRITS1ZVVFGSklSNGo3WXhBUjlvWUV0eGVOX2VfbW5HTjhzMExaZ3VLREtnYTVwSlkzb0VBOTJ0U3p0akdyZlNpbzByMU9teVF2cnJCX1pCMEpsdmg4WTVhbGRpVC13TDdOZ2tPNXppVWxXUlREbS1UNGNwaGRvTVFUcUgzdWFYMjRHcEVPOFNzREo1SGQ0Wk5ZTURseUUyRUo1M19KY3lscTZCbEUzSzdCcEw4SU5sTXpzd2dOajNvU1R5UGhJSTNlVVVoS0gyakI2OWtpMENPMzhzbWlVMmxR?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115193856"
     },
     {
-      "title": "Joel Kinnaman's John Wick Meets Die Hard Action Movie Is Officially Streaming For Free",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0YyeUhuYU5UbXlLLU04bG52VHpBRk01VUJjSU1mVnNTQXpUY0tiZGJZT0JtSGptdnlkYkVMUW9zYTFUMEVlWHkzdzNycng0TTVZYlIyNjRiTTN0YW5XUnZYdW80UHBDVkhXQ1FfQk1CRmw4b1ZWc2VETHV2OGpzMWhR?oc=5",
-      "domain": "screenrant.com",
-      "seendate": "20261115141618"
+      "title": "Op-Ed: It Was a Music Video So Good, MTV Couldn't Say No",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQklNQ2J6SUprVzRjR3FJVVN3V1RCUHhwZ19idTFGZF94eklGSXJ2QWFyOEFxczRTaGFKMS1yLWYwdFJkd3BuY3I3N19oOE9nYktjaFJzZk9SNG4wb0tDZzlBMWRqWFpEdGpJdmFVM081ZDJLZFdsS1VIY3RjZXpwcmQ3NDRCS1N1OF9fTDhqaXluQQ?oc=5",
+      "domain": "newser.com",
+      "seendate": "20261115171500"
     },
     {
-      "title": "Filipino singer Carmelle storms to victory in Eurovision Asia debut in Bangkok",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45Wmw0b0p6ckY0ZHBhWkh1NzEwTDg3TnVIRnZXWkhxcGd1UXVnTzI0WlVvbmd6eFF2VFlIdVJzYmVvSDB0ejVMRjM2aW1KSklMQl92TkEyU0c3TklIWm5zYw?oc=5",
-      "domain": "gasiantimes.com",
-      "seendate": "20261115145237"
+      "title": "The PGA Tour is Changing Almost Everything. Except The Dress Code Rule I've Wanted Changed For Years",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORERNNk91Q0NSTnBVZ0dUdHJIRXF1N19aNnZUXzl1YWQ2UTdzcXNBU1lBS0hETjl6LXMxY0VuRnVfN01fNTNaSmpOdkdDengxN3hhRzJWcTZRcURlWWE2OHZaUHZCRF9ZOEhOaFZNLWxsRk9GRHVnQV9tTno0dE9MTmlvSE1BTjBpQUtqTXRLYlc4X1p2bE9OS0ZDT0JzYm5zNDRudktDdTZ6U3dyMmt0SGxoeGVCMExsWkUweGdVQjJldkktbE1yQzUzbjNoLVk?oc=5",
+      "domain": "mygolfspy.com",
+      "seendate": "20261115140303"
     },
     {
-      "title": "Country music community mourns Richard Sterban of celebrated quartet The Oak Ridge Boys",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxORGVCaWV1Wml5aGYydmlaaGVJSzJMQk53bUQ2Wi0xNWt5ekZqc1RvdXNIVHhBbGt3eEJSTElvem5Md2xodkt3YUg1VmJTX3RpX1FYLVNFTW9ZVHJqNThaSFpQeFQtVmEtX3R1Y2tYc0JlaGpyUEdPYkxKNGRRTGhhR3Ewa1VDbUdjVmNuTVJuSUJ1YWFBMHpjVEFpaElmWE96c1YtLTY3NGFRc0VNQTJHV1c3Uk4tcVlCeHBXWGRQOFhlc2ljTm84TjM4ZFIzeGFiUlctd1lkMXhObUFrOG9CQ1dyMzNRTVZsSXF3aHZIU3Z4MlRROEdCWXFQZWRiMlFsUFR3YVgwWmtDZTdwNXFnYWpn?oc=5",
-      "domain": "wbir.com",
-      "seendate": "20261115113400"
-    },
-    {
-      "title": "Richard Sterban, the Bass Singer for the Oak Ridge Boys, Dies at 83",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nNVhlaGdiYURCa0l4bnk0dTNWb0NFZG5oRjVlUTdZa1Q3bVpaeFdnNWZwLVAxWjlhcHUxNzktRDBuLUY2MDd3aG1pVkoxQVMwaTNIcGdHWnJuNXp4VHJ1N0JSX0lzVTIzcjRxbUhoNnJhYUlneW9pQjlZTQ?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261115011307"
+      "title": "Film review: Pressure and coverage looks vs. Washington",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRU1QeEFDRVZZblJVNmtkU2d0eE9zUUE1VHVOYTc0Sk9lS1FwdFpPOGsxMkNtY2ZCZnVTNXdKaXNfS3pOVzlHNFRtYlZZNFUxTzVpN2w2NXI5TjlrRWtudUpTNE9ybnptLWFXSFhieW5LNVA0dG9NR3hxTGllVTFhTXBxNEVLN1A3SHlGcE9KOHpDOXpEdmN5MGpycUNFVWo4RERLN0J3RHY5LTJQY1NiRTdQWQ?oc=5",
+      "domain": "bigblueview.com",
+      "seendate": "20261115160000"
     }
   ]
 }
