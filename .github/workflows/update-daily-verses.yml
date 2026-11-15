@@ -1,0 +1,33 @@
+name: Refresh daily Bible verses
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 5 * * *"
+  push:
+    paths:
+      - "scripts/update-daily-verses.js"
+      - ".github/workflows/update-daily-verses.yml"
+permissions:
+  contents: write
+concurrency:
+  group: mjr-daily-verses
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: node scripts/update-daily-verses.js
+      - run: |
+          git config user.name "MJR Daily Verses"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/daily-verses.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Save daily Bible verses"
+            git pull --rebase
+            git push
+          fi
