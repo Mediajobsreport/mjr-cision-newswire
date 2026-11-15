@@ -114,16 +114,36 @@ function dedupe(articles) {
   }).slice(0, 60);
 }
 
-function categoryArticles(category, articles) {
+function categoryArticles(category, articles, curated = false) {
   if (category !== "strange" && category !== "positive") return articles;
-  const unwanted = /\b(trump|biden|election|senator|congress|democrat|republican|politics|political|murder|homicide|dead|killed|fatal|death toll|war|airstrike|horoscope|zodiac|review|trailer)\b/i;
+  const unwanted = /\b(trump|biden|election|senator|congress|democrat|republican|politics|political|putin|murder|homicide|stabbing|stabbed|dead|killed|fatal|death toll|war|airstrike|horoscope|zodiac|review|trailer|jojo|anime|gacha|opinion|column|home lists|game codes)\b/i;
   const strange = /\b(bizarre|quirky|oddities|oddity|weird|strange|unusual|guinness|world record|world's (?:largest|smallest|oldest)|mysterious|mystery|unexpected discovery)\b/i;
   const positive = /\b(kindness|good samaritan|heartwarming|reunit(?:e|ed|es)|rescu(?:e|ed|es)|saved|saves|hero|heroes|donat(?:e|es|ed|ion|ions)|fundrais(?:er|ing)|generosity|pays off|paid off|grants? wish|wish comes true|helps? (?:famil|children|community)|adopt(?:ed|ion))\b/i;
-  return articles.filter(item => !unwanted.test(item.title) && (category === "strange" ? strange : positive).test(item.title));
+  return articles.filter(item => {
+    if (unwanted.test(item.title)) return false;
+    if (category === "strange" && /\b(nfl|nba|nhl|mlb|football|basketball|quarterback|referee|kickoff|podium|f1|red card|playoffs|lakers|giants|browns|ravens|yankees|joestar|malkovich)\b/i.test(item.title)) return false;
+    if (curated && /\bgood news in history|this day in history|good news horoscopes|quote of the day|good news quiz\b/i.test(item.title)) return false;
+    const stamp = String(item.seendate || "");
+    const m = stamp.match(/^(\d{4})(\d{2})(\d{2})/);
+    if (!m) return false;
+    const age = Date.now() - Date.UTC(+m[1], +m[2]-1, +m[3]);
+    if (age > 8 * 86400000 || age < -86400000) return false;
+    return curated || (category === "strange" ? strange : positive).test(item.title);
+  });
 }
 
 async function collect(category) {
   const cfg = CONFIG[category];
+  if (category === "strange" || category === "positive") {
+    const feed = category === "strange" ? "https://rss.upi.com/news/odd_news.rss" : "https://www.goodnewsnetwork.org/category/news/feed/";
+    try {
+      const response = await timedFetch(feed);
+      const articles = dedupe(categoryArticles(category, parseRss(await response.text()), true));
+      if (articles.length >= 6) return { articles, source: category === "strange" ? "UPI Odd News" : "Good News Network" };
+    } catch (e) {
+      console.warn(category + ": dedicated feed unavailable: " + e.message);
+    }
+  }
   try {
     const articles = dedupe(categoryArticles(category, await fromGdelt(cfg.query, cfg.timespan)));
     if (articles.length) return { articles, source: "GDELT" };
