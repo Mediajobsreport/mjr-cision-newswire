@@ -14,8 +14,8 @@ const CONFIG = {
     timespan: "7d"
   },
   positive: {
-    query: 'sourcecountry:us sourcelang:english ("act of kindness" OR "good samaritan" OR "heartwarming" OR "reunited" OR "rescued" OR "surprise donation")',
-    fallback: 'when:7d ("act of kindness" OR "good samaritan" OR heartwarming OR "reunited" OR "rescued" OR "surprise donation" OR "pays off school lunch debt")',
+    query: 'sourcecountry:us sourcelang:english ("act of kindness" OR "good samaritan" OR "heartwarming" OR "reunited" OR "rescued" OR "surprise donation" OR "pet adoption" OR "animal recovery" OR "conservation success")',
+    fallback: 'when:7d ("act of kindness" OR "good samaritan" OR heartwarming OR "reunited" OR "rescued" OR "surprise donation" OR "pays off school lunch debt" OR "pet adoption" OR "animal recovery" OR "conservation success")',
     timespan: "7d"
   },
   entertainment: {
@@ -118,7 +118,7 @@ function categoryArticles(category, articles, curated = false) {
   if (category !== "strange" && category !== "positive") return articles;
   const unwanted = /\b(trump|biden|election|senator|congress|democrat|republican|politics|political|putin|murder|homicide|stabbing|stabbed|dead|killed|fatal|death toll|war|airstrike|horoscope|zodiac|review|trailer|jojo|anime|gacha|opinion|column|home lists|game codes)\b/i;
   const strange = /\b(bizarre|quirky|oddities|oddity|weird|strange|unusual|guinness|world record|world's (?:largest|smallest|oldest)|mysterious|mystery|unexpected discovery)\b/i;
-  const positive = /\b(kindness|good samaritan|heartwarming|reunit(?:e|ed|es)|rescu(?:e|ed|es)|saved|saves|hero|heroes|donat(?:e|es|ed|ion|ions)|fundrais(?:er|ing)|generosity|pays off|paid off|grants? wish|wish comes true|helps? (?:famil|children|community)|adopt(?:ed|ion))\b/i;
+  const positive = /\b(kindness|good samaritan|heartwarming|reunit(?:e|ed|es)|rescu(?:e|ed|es)|saved|saves|hero|heroes|donat(?:e|es|ed|ion|ions)|fundrais(?:er|ing)|generosity|pays off|paid off|grants? wish|wish comes true|helps? (?:famil|children|community)|adopt(?:ed|ion)|recovery|conservation success|endangered species comeback)\b/i;
   return articles.filter(item => {
     if (unwanted.test(item.title)) return false;
     if (category === "strange" && /\b(nfl|nba|nhl|mlb|football|basketball|quarterback|referee|kickoff|podium|f1|red card|playoffs|lakers|giants|browns|ravens|yankees|joestar|malkovich)\b/i.test(item.title)) return false;
