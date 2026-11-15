@@ -1,0 +1,33 @@
+name: Refresh daily Prep fun
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "29 5 * * *"
+  push:
+    paths:
+      - "scripts/update-prep-fun.js"
+      - ".github/workflows/update-prep-fun.yml"
+permissions:
+  contents: write
+concurrency:
+  group: mjr-daily-prep-fun
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: node scripts/update-prep-fun.js
+      - run: |
+          git config user.name "MJR Daily Prep"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/prep-fun.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Save daily Prep features"
+            git pull --rebase
+            git push
+          fi
