@@ -1,8 +1,80 @@
 {
-  "updated": "2026-11-15T20:04:13.822Z",
+  "updated": "2026-11-16T00:06:05.182Z",
   "source": "Google News RSS fallback",
   "category": "entertainment",
   "articles": [
+    {
+      "title": "The new album from the band Sylvie is like stepping into a time machine",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOThPS0xHUDZycW14LTh5bFRPTGZFanJDWEdsd2dheC1ncWNqZnZSejlDdHB6dkE3NmtIYmFPdzY0WTVHYUNNZUw3aXdReU1xRk8xMXQwMGVYcWllRGdYdEw4aVlpSW5BVEE4VHNnUUQ2M1huMlhIVUlrbWZfSXNDNXlpUjdDaEFVNVZKWTRJSVdUNlZwb0Y1bnlXYVVMOWU3X1hhYVlyelFHcXMwZzcyT08tdFg3cVk?oc=5",
+      "domain": "npr.org",
+      "seendate": "20261115221125"
+    },
+    {
+      "title": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MWFA0LXRfYmRaY29meXpnYkZuekV4Z2owblVNTjVVUnFLVlNpdlVOT19ZLVFScG9GYXVPeXh0MDE1TE55LXYyZDhucEc3NFB1ZHJNX1ZSWkFSal9sM0hrQVpXdUZWWHJoYTRuXy1oV09WZ19aOWE1MDdn?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261115201100"
+    },
+    {
+      "title": "Savannah Christmas soirée to spotlight local talent, expand music opportunities in 2027",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX0wxQkFkMGpTSWFpZGFtdmFESnB5WnpiZmkzWVd5LXVCaWo2X29PY2hud3dnVkJydVFNcWt3UjRSQWpySElSN0VDdFJrSDNZRkp1aUx4bC0zMjZac2VrYW5yOUo3WnlZNHZhb1hnejFoQzR2S2Jqc05qZkg5djd5YW0wMHh3UWRhaENJM29yc3FSaUNmaDJ3MGR3SVRBMWVRamN1Qkk2YnQ3aGsxU2tzdE13?oc=5",
+      "domain": "wtoc.com",
+      "seendate": "20261115221100"
+    },
+    {
+      "title": "The Music Behind The 12 Dates of Christmas",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNU4xejR2M09DVWVySHJ6X3BkWVpiZ0daMFdVY2hWT1hnel90SVY1WTF3alh1eDI1Z1FnLUdzZGpBdzF0NVV4ZEVXYVU0Z2RCM2RNbm1ONDZwU2pQTzJHcVVjQW5MNUNvV2hWT0lzdzBtYVQyRWFwMEJmTmpMa0FTbHpOUk9raXpBOGdROUtrdDZHUkZkVUVVQlJiMUdwTWFqa2ZYUWhTcTQ5cS1zUmc?oc=5",
+      "domain": "capsulenz.com",
+      "seendate": "20261115231342"
+    },
+    {
+      "title": "CME Group Tour Championship field: The 60 players who qualified for LPGA finale",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3hDZVdhT09hX0RfU210NXZSY3FNRGo4TmhoZkxYa3Ffc3ZJOG5hQWlCN2hIR3BNR1A2YU1oZmRFM3pzRXNSNkEyTTdnTGlWWGNUZlhCUGF3V29IQmdaSmZjM2VnaURVaVBlZ2xINm1vV2tFQUo0RnVjSERwSG5kYmZJOEg1WFpiR2czZDZhTEhpSXItTkFaamhkZWxiRHI2dno5ZGdzdTJEM0s2WVU4MGduMk8yek0?oc=5",
+      "domain": "golfchannel.com",
+      "seendate": "20261115233154"
+    },
+    {
+      "title": "4 takeaways from John Malkovich: Why the actor says, unlike theater, \"there's no momentum in movies\" and more",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdFZPMVVIQTU2NUZBVXJOMkVPc3NTOXlDQm9QdjBUVDJEYy1DbE1jUGM4c0VKcHE4ZDIyRUNja1dBWllSWVhyZGlQbVhCLWJyZVJTVWpKSVA5VzhwS0pQR0N6aFJMUkktTEZ6UUQybzlsd0ZnWEloeEZJRUZUMHh6am5pZk1YdG9QUmc?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261116000012"
+    },
+    {
+      "title": "‘Club Kid’ Rocks Limited Expansion As ‘Paper Tiger’ Scores James Gray’s Best Per-Screen Debut — Specialty Box Office",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWE1dlRmWkN1b25qQ2t0TjNkcGhTQjJHWHN3ZTQzY0pxekVlN3d2REMxb2U5XzAtLWtzdEFkV0xRcUI2SVhRRVJCSG9maW5CZi1DWVhRQTJBOGk1eUwybEdEN3NnazFmQko1Rmg5Mnp3M0FHUGVVcU9rcVFsa3B0ektKUzNDZEdKU1Fabnc3NXc5WU1zdHl1alRiY2tOeDN2NFc5aA?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261115210100"
+    },
+    {
+      "title": "Survey: Where is the best place to watch a movie in the Triangle?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVh0R04zNGZHbHl5ck9YT3NGbllpbE9MTy1xSl9mUXJqZkpxTzJUeVQ2U3lHa2hrdXBib21yR2lUTm1kR01VYUw5TEREU2d1ZHcxZTNCSnNldVJ4MzFnWXpBdk1hck9zaUVUc0s2TkxMUGFNOTg3ck5qLW83ZlFadzhzOE9hTG5ZdWM0aHFER0UzTEF5clRFeE1NUWplNl9ndWlnck5oX0tTUjBUMjdB?oc=5",
+      "domain": "axios.com",
+      "seendate": "20261115233408"
+    },
+    {
+      "title": "‍‍‍[LIVESTREAM]TV!!] Montreal Alouettes Grey Cup Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNZXExaFJCSHhUQ3JjWms0dWlxTTZxTDRUWDZ6NU53aHdsZGlVd0xELTRlOG9NM1dtWlRTU3FSR1p6Y25ab1BVYUwxNDk4NDV1VUdWOFRBMDNhU1FVMm81UzAwZDhIT0lpajVrRnJxdGM5bU1ROHcxTENVcjdDWnhNRUo5TW5Oc0pmdy1YUG50UGZJYXRlWnBOSS1jem5FX3BpbU1nd0xQYVF2UWJiMFZtMXVEV3VIWm55Z2NzMWNXcVk4bjdmcVZaTGhITGtoQ1pmVzZTYmFtUlhTYlZEVm5sbVpxa0I1am1qUm42aWZUVVVSQVk1VUcxdjZ4OWF2LU1BWkdlX1IxZ1B4X3RRcjFFZngzb2lybEhtRmc?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115235241"
+    },
+    {
+      "title": "Meet the 10 players who earned 2027 PGA Tour cards through Race to Dubai",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUmFmTDNqNVItVnNIekREbl9TVWc1c01jUTR2V0Rwb3IwTTdmekc2c3E5dUtqTUJXcnZQdmYzd3hoRzNpbDBlTldIM1p4OU9mUzBUTjlOSHhuTHlYdDVqQnBSb3VUZ3kwbDRUdl9UTVVMY3BRT1RjMTdRQmFZM0VGWlplQkZySlJFZzdETk51V1oxcEIyVWVLMHppdVdCUGNDSTFna2NSWDNyR1Z4aEUzdGNYbHVfQkpxSFFPemZwRnlrWWhQRUVBMDZZRXpyU2RKZVpQZ3ZnTTEyeW4zdUNpQ3J6Sy1md1FuSmpPYm5HSXo?oc=5",
+      "domain": "pgatour.com",
+      "seendate": "20261115145253"
+    },
+    {
+      "title": "Lindy Duncan's long-awaited first LPGA Tour win comes at The Annika",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdmR2UmFtaldRNXZSRWozVUx0VVZ6V29rWUp5R2hVQk9nTnhab3pOQjItYVVReXpsdlM4ZEJnSUZKSXNUSzJRb1dVeW9wOWx3ZWFiUVY5NkJ6V05fT3QtNXBmeDZFRU53UWFNMWc0RTlSU0tWQzA5UTVySmRCS2tPbDNud1FCejQ?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261115215600"
+    },
+    {
+      "title": "VHS pop-up store opens at Little Theatre during Anomaly Film Festival - 13WHAM-TV",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMnZwaGM4VUItX2VqVG5fRW1LYjZaVU56RVVpN2tYbDhPVnNyVVFTeVVqNHZaOEtwM2V4MjVmY3gxdDVkbHNxbkxkdGhFUldKa1VLOThpZUdzVkFZMk92aE82RmhPUEZZMkx5VnlzWGtmN3ZHRXhRcWNHUzFQZndLYU9GUWlJcVlxa19EZmtsNEZZX0VNUUhwYmVlU3BScEFvcnhfUWlPYzNVeERKVGlVUnpLb2hWVUFjQVJVYUJmcFduS2pfZ25sTWxKcEpabTlpVldoQ0phSUtEQ0ZRYWxYZEpMUFB2N0R4ZGRoUzhYOUNnRExBWXR4aU9VNWMwUFdaWTM5SVZWWWQ?oc=5",
+      "domain": "13wham.com",
+      "seendate": "20261115233654"
+    },
     {
       "title": "Pitch Perfect: The 20 Best Music Schools in the World",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWU1QmcyZkU0aGpaZUNxMGFSR1RyZEhJSkIxbDZVdUdaSl92VkwtUXRPWFcwd1pVU0hFZnU3TXZuaW5nT2xKWm4xZkhyaXVHdng2YTM5WERpV0NGX19RTDVQbjMyS0xuZmlsa21YM0J3NjJCYlFtLWhURHRxdE5mOEc5ZS1MUlRablF3aFR6TDZ1U3dSWnc?oc=5",
@@ -10,106 +82,136 @@
       "seendate": "20261115180029"
     },
     {
-      "title": "Why Verizon Traded Nerdy Pitchmen for Hollywood Heartthrobs",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOUxGMVRBODd2UU1abHFmQ1p4dXpBLTdVT2RQeHZPb0plODdnMFV0QnlZN05UWTk0OXhTMWx3Y29DTmtWdEFLd1BXQS1LQ3Y4ZEJsOU01eUNxdWVyX09nUTR1a1ZEZ0RhelUwdHQweENkRFY1WUxOOGt2ekVSRW5iUVoySnF3a2pVUFRBNXRxdFNnSm51bUo4S0FaTEUtUU5XZkttQW1B?oc=5",
-      "domain": "wsj.com",
-      "seendate": "20261115180033"
-    },
-    {
-      "title": "2026 DP World Tour Championship prize money payouts for each player in Dubai",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd3hRQi1TTUk1MEQxSHF0RTVBREtEOVNMQVQ1S3lHMTRDYXdWTG5fQnA5OTdXRm9LR1ZMektJdzdMb3h2WVFGMnFEdUhlVXlCUjZUbzRyUnVEM2tMVzhsdFkwdVpiRTItZUZVYndTM2l5OEg0NlVmNnQ0X2hhMmRsMURITmlsaEE?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115173047"
-    },
-    {
-      "title": "Meet the 10 DP World Tour grads, including Eugenio Chacarra, Patrick Reed and a former grocery deliveryman",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTY0QXlMTzBKX3ZGbS1neHlLQlppUjF2V19BR0Nza0JjRThmcWtEOEhiS3duQmhXTWlGS2ZXeUpZM1NSSTZZTHJ0elhHUUt5LWxzTHlBSVZxM3RWSzI1QS1WUkpGS2xNcVlfNU91T0dUZXBCX1lweHNxQjVlaGw1eml4YmxhVWxGMUVkcm12UmtGNXZ5V3gwMTFSYkE0dXZfbGF1MUloWk41eW1tWXhIMnZrbXlQdTY2czdPUG5wRW1ndGx5cnExYmRQRndsM1ZqWHNYSFdkc1J4aGtZemR0QkdpTkxtZw?oc=5",
-      "domain": "golfchannel.com",
-      "seendate": "20261115140912"
-    },
-    {
-      "title": "Chiefs' Chris Jones explains why opinions 'are like buttholes' on national television",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0Y4YVBoY3B0OVo1Q3liX1VjXzBrbDdobHFUMUFOcVdUTy1JcnVQT0NoUzA4ejhDTVU0RzVCSktGcU1GYi1QNnBGVmR5bUVSNnlBVDc0R3RPY3VWQnc4LVROUHRvbTFwSVlGWjVaamlNOGZvcGgySl9yWTRmTmRlVF9XT3B0MVpCSmVpc1lfZHBCdmVid3ExQTIxTmU2N0hnQ0NMTlVRMkp0NEkwdVMzWHB4ZWx3YmZuZVE?oc=5",
-      "domain": "foxnews.com",
-      "seendate": "20261115180645"
-    },
-    {
-      "title": "Meet the 10 players who earned 2027 PGA Tour cards through Race to Dubai",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUmFmTDNqNVItVnNIekREbl9TVWc1c01jUTR2V0Rwb3IwTTdmekc2c3E5dUtqTUJXcnZQdmYzd3hoRzNpbDBlTldIM1p4OU9mUzBUTjlOSHhuTHlYdDVqQnBSb3VUZ3kwbDRUdl9UTVVMY3BRT1RjMTdRQmFZM0VGWlplQkZySlJFZzdETk51V1oxcEIyVWVLMHppdVdCUGNDSTFna2NSWDNyR1Z4aEUzdGNYbHVfQkpxSFFPemZwRnlrWWhQRUVBMDZZRXpyU2RKZVpQZ3ZnTTEyeW4zdUNpQ3J6Sy1md1FuSmpPYm5HSXo?oc=5",
-      "domain": "pgatour.com",
-      "seendate": "20261115114957"
-    },
-    {
-      "title": "Phil Collins Says at Rock Hall Induction “The Door’s Not Closed” to New Music and Performing Live",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oM1k2SEhBRE5SSFFuSDVoN3hET29QaFl2MUpKMUdLLUJWakdfNlpXLUJHQjFmSG4tLUtNbjVja1lHLXA5dUFHaEVWRnlzNGZBZGFQbFhpUVRuYnVnUXhLZUpudks4Y1ktcGFjV05Lczk5cnV3NFU4Sg?oc=5",
-      "domain": "consequence.net",
-      "seendate": "20261115181517"
-    },
-    {
-      "title": "Are you more of an ambient music enjoyer or theatrical atmosphere appreciator?",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1NjMWFneGFIM0c1dnNMeXdBMEhQR1V4SF90MWYtdUJCeEVZbV84Z1Z6cE5Xa2NYd09wUWxlOHoyemVjWC11TnpzWVVBZTBBSmo3QTF5YjBaRzJabnVLYjJwZ2hRUkxHcnhYMTVTR2FMYjNrUHFNcklCYUZ3T013WmRBR1NxSHkzX3VoTTRXUDFmTEticWdhcEpHV2pkVXJ4aGFnVDRHbnJQZFRhUEpUZ1VJRTIyQm44WGxjOW1vZGl1a3VI?oc=5",
-      "domain": "pcgamer.com",
-      "seendate": "20261115180000"
-    },
-    {
-      "title": "What channel is Packers vs Vikings on today? Time, TV, streaming",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbURjcXNxQmFsTnBUNVhrOWhaaVVySEVnR1E5dWNGZXZndTVoWERBSUpFS1B5dlA4VzhIaWNKR045bDAyMlFyWWFROUhFeTVHeTRQNjJrblVFaDVOMDktenZYRHdOQ253NE42XzlsZUJ1bDRpR2xUUGpqcHdqZU5LYXdDc1pDb0k0YUlOaDZQb0tZRGJsMDVEWW5QN1pFbWlFLVRUdktqSGlrV0hsSGlVbFVlYm9PclU5aS1Sb1lGVzEwWDNqNnlKQ2FyMWhCOGFq?oc=5",
-      "domain": "jsonline.com",
-      "seendate": "20261115180600"
-    },
-    {
-      "title": "Country music world rocked by deaths of 2 legends: ‘This loss is lasting’",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmx5N2tkM09tX0Z5ZHViRzhvaW9XM1g2M1FQNUR5TW5PQTBmVTh4TTVDTjhPUEFZVUVPc1VtZHJfZWtLMUdXdlpDUGI1VzJ0WUpUOTk5ekNhS3BuNHJRclVtUnQ1RDVFVU5icnF3bHE2eVpLNHNpZm16dWg4YnZxUmpfQTFtUUV2TzRmWTZiVDBrUkJCTVktMUR2VVlzdVRpanJpSG9iczIwTWpmcjhWT2J1MWNDS0Uwa196TlN4a9IB0wFBVV95cUxPdWlQTWtlblQ1RjF5X21jMEVPZDlPRldqZmJsR2J0eVM3US10X21YdUdwQ2lzM1J5OWNIN0lqaFgtZWRkZ1hqNmdzOWc2OVJLRDEyb1NJMHh6eEswWlhYVjRhaTNlTWNqaldqQWFGT1JkS0xtOHlnRUhwcHNCYjU0eEQycHd4UkxjRlZQMGRONC1HTWd2SHVkaDdVbV9tcFlVZ2VGWHk5M0g2OGd2aWE2WlNuck5SZWxidnliU3JjZTFLUnBlWTBKdFNJcS1jdkNGRllB?oc=5",
-      "domain": "pennlive.com",
-      "seendate": "20261115113000"
-    },
-    {
-      "title": "Singer found dead in woods after telling husband she was going for walk",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONk9weTFPcV8xdHlyUTBYdEtOUjRJbnVnZ1ZxN0k0NWxrMXE4RllLSzZER2NUYjM5Q2lkeTA1SDUyRGNpNnhMbkxNSm5ObmU5Uk94bDh0REFwYnBSWUE4ekx5N2x4VDhxQjMzVndoekJQUFlwRHNJNGZsdDJQVjQ3Mld6UzA4VktfdkpnQmFnWFZ6N0lIXzl0SFEyenN5b0RmeWlsbWVpbFByOHFYYXFHcVdMMmtaSzZxNUxtbVdCVmFoQQ?oc=5",
-      "domain": "cleveland.com",
-      "seendate": "20261115111200"
-    },
-    {
-      "title": "Why Is PGA Tour Austin Championship Delayed Today? When Will Play Resume?",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcDR0ZXlfVlZIWDdWcjJoTmhidnJlQW9RbVJQLUMyZmZNS0NfRUc3RVdDZjJIOUpxeDF2RGF2dXlfelZkaVZzREg5dzRoR3pNSDM5OVdSZVhkS3BaWXJCWGo1QVpzbHBHcko5NmRrcEE3NFlhTDN1Ui1aNVVENnB4SFRyUVFfVzhj?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115173726"
-    },
-    {
-      "title": "Ebenezer Box Office: Johnny Depp Movie Leads Over How to Rob a Bank",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDFhRExKRHpidEN0V3lEMWowaXJhT05NNktlRmk3RUVWQVJMS2ZtRXE5NmJUQXc3aDJBYlFERkZRRGp4eUF6OXg5bFhhS2Z3VG92M0lrdmlVWVpFbmJEV1VocDV3NzNpSjRqX19YYmphU2doRUk1MEtJdHJvSklCeU9tQlgteG13b0lPWkNHbDd4NjVnOHpxSmFoc1Q2b0x4QXZ4M3dqWGR3aXJVcG9RbjhjRlJKLTF5T1E?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261115162000"
-    },
-    {
-      "title": "Bryson DeChambeau Shifts Focus To Course Design As Tour Decision Looms",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYXZaaWVac0Vzc3JQT0RPSDFvR0JDYU9KdzBLYUxmTVExZlNRUy15X0tqMVl6T1l3V01GZjFaRzMyS2RjdzZUSzlONENWVUp5Vk5EV1Jxc09GbzFTNmEwRmoxYTA2VTE4alhJd1RqUTVidGtMazg5TkpDWnRBbTdfVDB6UUpXX2psUV9WUW9kMA?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115191152"
-    },
-    {
-      "title": "How Folds of Honor Friday came to life on the PGA Tour",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbXo5cG5fVlA4UTd0RXdWbzVWMndYckVtVXhFTWw2RVg1WWJsRkdCUk5saEJTVlFCVGk0UGd6Ry1ZOUZPaUQ0Yk9JcURXOC1yYzV4UmZ6eEVDSTF5dGRfbWlnU1JfV2F5anVzU1BwdVRvZmFVb3RuS1ZSbko1dlV2WTlEdw?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115190355"
-    },
-    {
-      "title": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MWFA0LXRfYmRaY29meXpnYkZuekV4Z2owblVNTjVVUnFLVlNpdlVOT19ZLVFScG9GYXVPeXh0MDE1TE55LXYyZDhucEc3NFB1ZHJNX1ZSWkFSal9sM0hrQVpXdUZWWHJoYTRuXy1oV09WZ19aOWE1MDdn?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261115104700"
-    },
-    {
-      "title": "Box Office Global: Johnny Depp's 'Ebenezer' Richer Abroad with $42M Bow",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORF9XTi1kQ0d0SkdCQmNHQV9KeHRZbnl0NFVNM2UxOGZoZzN3NkdLLUoxdDM3UEMxUHVVUW9kc3JjYmt4SnEyTHM1VDVHQjlwQWc0ZUM2SjgyOHMzYThDN0Zna21kU1VURlpKbEVKYjl3UFhVdGNJYTQ1Sm1tc2xodVU2Vmc5WnY5bndQazc4U282dnRFU0hSaWdKSHg?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261115180000"
-    },
-    {
-      "title": "‍‍‍[!LIVESTREAMs!]Tv] Turkey-France Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWTV2SFpac0ZaVUxSWXNuajhseU1vcDZscmtSeEQ5QUF0cnZ6NFNfU1lhWmpsUkxOMFVCODZZaWU5YU9ISzZvczZLZjZYaFh1eXRoVjdzdlA2N0dmM3FkMXN0SWZEcHJibl9EUjlFUXU0eV9tODJhUGQ2dVBNNm5jWURpS1RnaENyY1htaWFfS1BzV0pydTJLMjU1eFpndUlxdzJpT2JpTFdNOTd6VjJlVl9pekdLb1BHQlJlcVlKaUp4eUZvY0kyRXIyRkRYT19wb0hrRFhsYTlzNkgxV1pybE9qd2dsVHBvQUZCMzR4c3hvMldGeWVNM2I0OVN2UENkN0NWc0VGWU9wdGRUSGxMMEhKZDdoa3BseEE?oc=5",
+      "title": "‍‍‍+*∇#[+[!LIVESTREAMs!]TV!] the grey cup 2026 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPUU9wQnpBR2hZTFFob0diYnVoblB3aTRpclMxUzFrUWVVUk5WTkFfWkFaTjVtdTZ3RlZUTkJzOVExVHNBaHl4clJqcDhlaURmdUYwdmVwRFhJWnV4VzJFUTdmd2lkbXNYc29BQjExT1Y5RXR0TnNsaGp0X0daVnNPZ2pYdWtkRVpCYTdKbF9UVllSX2ZFVkxJLXhYVGZkZWVtczVtNmtkNFlRNWlobnFkT0FTY0VEYlk4OXREb21aUWh3RjMwYTNkWWk2OFlxR2xzSldCWV9RVnNWWWxqS044YkxldWR6SEdhalIxRzVGVndoRWd6TElUNE90TWRWNzVxNFp1aERuMzZ4djh1d0xPVFNJeGFwenJhVEE?oc=5",
       "domain": "ub.edu",
-      "seendate": "20261115191744"
+      "seendate": "20261115231117"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] Grey Cup Halftime Show 2026 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWXRpYXZZempocWVJM0tuZ0ctNDNiS3dfQ0tjS1cyZ2ItMXlEOG0zbVVhUHpOanhrTjFZRVhsNEZ4NjlYdWV5amFWUlRKaUI0SXVyRUdPUmxMNU9Bc3NxNjJrcUlYRmVuUWxDWUhPc0x2dUNiZEFFa29SU1FPNjU3bFhEMENwRmotMGItcGdYaDBjdHVRX3NkcHlVbFItY19TSE50ZWlNSE5qZXFzaEM3dXFyM3BGa1A1SU1vY0dVa2VnTElnT1hfd2hvblBuZUdYcjA3anJ0Zy0zQUFDeWVBVlJLVTBWUTNKc1JOdHM4VEJOd0RhNGhmQU9ybzdBSXpoRENFY3RqYXh1YURCWVdpMXpXN21RMVBWWkE?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115234229"
+    },
+    {
+      "title": "Lima Symphony Orchestra showcases American music in Sunday afternoon concert",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUTdKNlVEVVFzeDhmV2tPUnNUYzJZdVNYMVhudUVtNUloanNTZDRXZDlHYUt3YVk3M2ZMSWpnVmZGV0xwMTVjQndoQk9nWE1UbEl3Qm1LU1hOY01ObXVpYmtkRDhKaXFJUkFMbm5yYVROQi15YlFxNW9DUlRTNmV2SDVXb0QzNDhpa0Z5WC1YSkRySlNJS0VmWWFCdjJIU0ZZbzBBWGRUZy1LWVM5OERuZFhNS29yZTlVelHSAc4BQVVfeXFMTzFNUzEyaUp3cVpkbEZpMmFuVEU1V3dmdHJLOHpxQTctdFhaMm80Ml8zeDRIWUJtUWpJX19Qd1V4X1ZldHpxMWZKLTNpN0hMTEt3OUJJWnc5clhRQnlRM1ZDQXl4Z25IZGlWMFdTSXI4c2VnYXZjaEh4UFllZUgwZ1A2dHNMWVEwNS1GQnYtQ3NaUl95RFRPSzA1ZFZSX3hYY0tTaVZNS3Zjd2JjcFdNN0ZtZzRmc3lFdm9TZHUyTW5XenhnaDhZVnZNY2hmeHc?oc=5",
+      "domain": "hometownstations.com",
+      "seendate": "20261115221900"
+    },
+    {
+      "title": "\"@!^[LiVe Grey Cup]! Grey Cup Live Streaming - UB",
+      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMVh6ZHRrdmxtemU1eHNrSWpBdzVLNGNFS1lFZnNjdGZEQlV0MlVvLU40S21NMUQtSkE4WDFWc2FnbkEzdF9NRl9ZTGs2QV9yZUF0RHQtNDJuc2txazgtLWIzTzdFLXJKZEhTLWdWXzgyU3p2WF84cVFpVWFtdlQ3MFdwM1VGQTRES0FBQzFrQjRFMXhLcDVZaHBuaGJZS1BxWlFJX3oxMXBsMFYzYlhHMGpZR1B2eGNkWFlCTUxEWkZ3WVNKcXd4bEF0TEl1ZWFBeEtPSlVBb3R1UURGdDBhOG52NzdpeFo3dHNTRVBrWWgwb01MQmhwX3FzdFU5VlZERlpnQVFEX3l5YjhVZ3FzWWpmTVVUcGd6dEZIXzMzZ2FtZXp5R3JIWDdQZXJYMVFpb19tYUVXNmpaVGVSeWxYTEc5N2tCenM0S1JPeHdfRG0ya24td1VNelBUdmwwSVBJRWc?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115235424"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] CFL Grey Cup 2026 Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWkIwdTNINmo3YUlVOHhxWGpFWXM3Q1htSm5vNjlyTElNd2ptY05uZHF1Q1V5cTBKaUhBcmE3Z2pHcWFwdTIyYWxDQWdYVWduX0g2NVhqNHlmTVo0ZzhJaGhGWGpFRkNPZEh1QzdfdS1HSUZpUnVlVDJtRlpXV3JzNWlFTTRuNlJvVW5CaEotcUdHZmZhOUQ3RXN5VW1KemszR3pXR0drSHB4WVZyZmhKNGkyWjFwYlpNS25CLV82S0VHek1YV2p0cExmb0l5VDFzTFNvam1uOEo2MTdfYnhkRllTSWRXRHR6TTNTRUM2akRnMldOMVZnVmR6bVlaSnlfc0k5eUxaVVhsM2c2MzFkQnpneGh1OTViWHc?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115234218"
+    },
+    {
+      "title": "++[WEB!!NOWFREE] What Time is 2026 Grey Cup Free Live Streaming - UB",
+      "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOYXR0WEFzVkd5YjkyYTJ5WmtHd1dZbGtXVzZDUTdkVTVBYkx2NG5menJ6d1dRVW1yWl9TMW1YOUJ5d1otc3ZMMktPMW9vemFPdlFfT1hEVUg1Y3p1TmhDWWd1My1NdFczRy15dmo1blFXbElqbEgzcFhtSzdjOWVpTzJSQi1tdGhmYUpaS1lTd05KbUpKc1JDQ3hWSEVMRTZwZm5ZdjllUlQyNDRMNTI2ZkM3dmNocW5welhnZWladjRNR2MxYm9taG9UeVVWYUF5dTlEaFNseG5DWDFDZ1RhRGZwdVJtOG1ZV25fWTBWWkF5ZnlTVlQ1SU4yOEZHLXByRlM0MHg0b1EzNlpDVlRjLXdMNmN6UzYyYTBrOGNGVHB5ekd5bG5LdnVhS3h6a2JvZnJaa3ZCaU9tSEpFVFU4emYtS0FjSmd5Zm81M2Y0TktHZE1USWJIeUJSMmxaekxmaWJoQk1Uc2VZZw?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115232334"
+    },
+    {
+      "title": "Former Oklahoma State Star Eugenio Chacarra Earns PGA Tour Card",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYU1pcjVFcjhwY3RwZ3duMmR3ZzdZZzlHVmhuN1NPMmcyWk1McnhpaV9sbUg2Z3N4WHdPWDF6cl9kUVdDMjE0VG5rNmQzUUV2VDA1THdkbTFTRVgzeE4zWXJPMmZoVk9qdDlsSGNvcVZoY1lBVUNCaTNaeTdLeXJYRnRtNF9ldGVpVUxr?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115231808"
+    },
+    {
+      "title": "2026 Charles Schwab Cup Championship prize money payouts at PGA Tour Champions season finale",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUGhfMDNNaTNpX2ltZVJxS0E3REwzQXBaZVR1UG9XNXNaX0FVUzZLLTFtUWQxb3VfUW1UdUYwSTJVWnl2dGxLc1R6bzZMWURYVmJ3UEQtclZoRUlpNTl4Ukt3T3F6RnNyOXA2X0twaUpiTi1lSnkzanJRSlRiWDQ3MjdoNVNENmZoeUtCSVVKWQ?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261115220050"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] Elks vs Alouettes Grey Cup final Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNNVJyZ1hHUURGd0ExTHNveXVSZ3JUTEZJNlFoTjZPdWd3OVBvVGZ3QWFYLTZnTk9WOTc4Ym9BT2FpaFhYT3RNUmtNYWpRY2c4cHdKbGk4d1FaMjJnN1dDMUtzTVVDd2pIdHJPdFNSS2RXU1ZnTzZGYWNqeUViUUZZekplaW5aYWdYUVYxVFNmRkVWZTlnQ29TMGtxNXEtN1l0Z2MyX3ZjajhZSzVIbGdqYVBSVzBhQy1maWFta1dnc19MOVAtQlU1MHQ5NDRXOF81d3lvZGtDa1BUZXhQbEFIbUN3SFg2Q3d6SW5qWkdXd3JjODhxRnRTLVdKR1pCRjdpZ3Y0bl9NcHFlLWNFOEItSkdOZjlud1F6M3c?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115231737"
+    },
+    {
+      "title": "VIDEO: Megan Khang’s Bid to Keep LPGA Tour Card Comes up Short",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTJsLXJMUHlqTkY5WF9MdFh4a3Y5RWZBNWtMU1d3U2dmbE5uajc4R0RiVXRYWkVrT0hGdFdVUUowRjN4VFFSMHJVYlVvN1lWcDFFeFdVczR3V0cxa3VIOFd5RWMzTWYtZU5xRUJXRjU1MDI4b2ZIdzM2a1I3NHZPdGItODdHcGdtRUpTSGxfeXhtV0otNWRkQTB6QQ?oc=5",
+      "domain": "golfnewsri.com",
+      "seendate": "20261115233704"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] Grey Cup Calgary 2026 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNGdnUEY3UEIyX3dXaW0wNGdYTmF2aTFTZF9qR2JzME4xblAteXRnQ3poMnNFZWxiN1Y3Uk9GdGRNM1laaF9Zd3pSbWNxMlRnMFRlRlZDRTBhd0EybXFoRktzS2ZLM2VfQmtXT3B0NXlMZF9Cd3dmamNMS1lIal9MMkw3MG1UZUx4VFJkZGFYWjVfT1lIMXBMbVFndWhvaVJNV0h3aGVrdFE4UTY5bkEtekRUUEJ1X3drR05sVDBwVVRFT0VuN0FPakdoZXUzbndjbFMwOWp4cmN0Y0ZlOUo5b2NVeHJQQWRZWXMxNE5pSHdfUl9HTHN0SlM1ME1YdkQybG4ydHFLanBfZlZ3Q0VQNmZCQWEzdHlxTGc?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115234227"
+    },
+    {
+      "title": "Country music world outraged after CMA Awards snub legends from attending red carpet",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdTBwMmplZm1JVUFtYmRuaXpYYXZKdG93UUNlTzJmdndFdk4tNjhIcDB0TThnbmtrSi1za2tJbmpHOU9KRzZQczJSTE9UNmpidS1pZzRqVlFtc2ZjZndvWEFWZTcxSEtSNnF2cE1ZeDAzLUZrbUhqaUpuVG5jcWtMemJ6Ylc2U1l4WmVtZkZUWnZ0eHlvR2xNSzdSQmZNVThSQmVkZTN0M0RpSXFJYkRDSFRMb3Rqel8yVk5DR0wzbXcwazJjRTV1cg?oc=5",
+      "domain": "nypost.com",
+      "seendate": "20261115235900"
+    },
+    {
+      "title": "Somerville residents show off their feline friends at second annual cat tour",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXJNTmM0YjJld3BVVkcyaW4taVlocHZzWXMxbHg5aDU2UF84T2xiU1pVWEFiU1dZTU50dkM0VFpUcnVCdzVPdXR3RmxjTTgzWlB3S1ltRnE3ZFFLZUNYbG5FbHR1WnBjSEdmOUV2c3g0VVBWYVdxWXJBbHNjYVZmMy1nVzdrcVNQV0tzUlpVZHdCUldKTERoYVpTTl83azhXT0lIUGE4d3R4a05jMFV1Q3F3bWVGSW1fU3dmNzF5ZGExM21relFBUlFScjk?oc=5",
+      "domain": "boston.com",
+      "seendate": "20261115235100"
+    },
+    {
+      "title": "Green plays with tour front-runners today on the final round of The Annika Tournament",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmdmTnNyamRXUDFaclVySk9pOXpsNC1pYzRVOVI2MG9Cc0Z2OVp5MG5JNmUtWUdkQndHcHR6SHpVeHRUcHdLQ0R4MFFWaEdQdzZMME0zMk9XMXlSRWlkdmQtZjV5NmQ1ZUZ2ZzBkX0w2dE55UGRsLXoxMmJTd29jd3htNDlwQVFiV0VELVd1Z0ZpUWVzSWZmdDNrZlpWTVk?oc=5",
+      "domain": "orleanshub.com",
+      "seendate": "20261115222219"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] 2026 Grey Cup Game 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOaFlXdkxIc0ttbGplS1BEeFRhQmpUakVXRF8yOVlmN3REdEd4bW5nVHczMEJVelFWT3cwWVhvdURSVTEwNzlwczQ3cTRCNHhhbjYwQ3FXWDA0Z1JfRXc1LXZmMVlSWEZzNnpVQnRRcS1jZ3FXQUNIZG85U2M4QXpPTk5NMHFiQW4xeVo0MVpjRlNDQWh3YXFHaGRZLXpYMS1KZUladlp1WWNvdkRWMngtTzhPeE11WFNJYTl1Y05yazh4cXRwaDN5N0JVQW0wUzItREdINTZGVWR0VC00c3hIYXlrbGpFVUNkQzVQTzZjellSZnlZUDRSUU15TnJrNjVvXzJpNEFLMHZqSnZQLW5uc1RZYm1IWTlZSmc?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115231731"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] 113th Grey Cup Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOckhtOElxM09KMWRCYmZrQ1dNamRoMmpHRnd2aUFBNzRNQ0dPeU1XaGx3MVhvOVYxUkMxbm9nVElVMHk5R2pvWjBDYy1LcU9LSE1nV1l4VGFIMUJjdmRudWpPQlZKQ1g3TXVEY0pwakFUakhoSkJ2SEpwb25Ga3VPQXh4dG90YzJTV3I0VjduNTNMZzlwUEdqUW95ZFJncU1RXzRON3RpMTA2NnVvSUNLWEN4Wm12OEdrNmZBS2QzX1FxS1ZFZGVkYllYV2NKVjhlLXNzX05jdlZMdHVOZ3NCMkF3Tkd1NmYwZWVSMkFYVEhWaFpMbnJQbmRpT2NTUVFXMVhpMEZJaE1uLWdONnZ6djVNR1hHTlc5Z0E?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115230325"
+    },
+    {
+      "title": "~!@[Streaming-TV]@!! Coupe Grey 2026 Grey Cup En Direct Streaming Gratuit TV streaming - UB",
+      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPYXZmQW1HVUQtLU83Um1vS2tWdUktQ2dLTjRZWGpOQTdCN0tlcEtYM3VWVENXSXZXZWtOeFJET1hWcHRuOHJ3SC1WQ21vUjd1VGFhanhqMTc4QkZKX09OTFdtalpCTnd6a25maC1MMC1VaFZVd29xd3pUMFBudTdKei03alNjVEdybkthaUI2Z1JiQmdMRHJYZDdiZ3hHMGxMZHAtOFRIWkVET2hISXBibmlPRHBNWjF4dzJ3TFdnVXE3Rl9DQ2JNcnVaQ25FMTF5em5fT0VzamZDeU14VUZpN3FkZnA4Z3d3b3FITTlfNVQzbUF0NzR2TVF3X1ZjTXVjbE50M0N0OWtjSXNSNFhrRDVWdVIwdWJRN3VpdTdyR2ljdmJpQkFiZF9kSlk4WGZvNmhLQ1BEMmMwS1doVUhtRkhSb1VsMkNWeDFqMEVEMXBhLU40ZFFwVi1kM3lwNHpkZ2d5QlZB?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115225827"
+    },
+    {
+      "title": "India’s film industry hopes a $420 million mythological epic can be a global hit",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNXdXWVdTdzRJZkduc3pHWXJUYjdiRDNINTRZekhmcGItSXA5c1FNSjRwSk1USlRUemU1NGZkRHZ1SENuQldKQ1h3ZmM0TzZqVUhMb1NKX0dQbTgxenBzSjhGVDFEZ1VGXzk4WWxPWXNwNW1HWm9uM05uY1owU3pwN2NBWQ?oc=5",
+      "domain": "fortune.com",
+      "seendate": "20261115210000"
+    },
+    {
+      "title": "‍‍‍ [WATCHLIVE]TV!] 113th Grey Cup Game 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026 - UB",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQQnljVzl1RHN6eDZqeEFzZGd3dUExRTFqTDFrMS0xa3h6UEs4SzZ6R1RSamJHd0F0RndVX0JMd2R3Yzh2bW9CNHpZakg4X3JJcVVLQm4wQzZGcERQdjB5ZlV0X2ZEa1ZrVl9UdGdvOVlMQjdUUlA5MUtkOXhUUmlqVUFKRW9lS1JkcnptVjd6bkVmaWFPdGo4bWVlUEVWcXoycExpeG0yVy03RWtFZTJmYUpKZXBpakQzRmFwRG1tX1lFS2VvaFhyQndMeUREeDd6cVhtbEtyaWJUenozdHRxcVpHcGdsS05lNkJOaGNEdXp5NGRVRmFPRC1VY09nWXlZcTNtUnFqNUFyaUUzSktOQTZ5ZmZXN0FIS3c?oc=5",
+      "domain": "ub.edu",
+      "seendate": "20261115231515"
+    },
+    {
+      "title": "Local 10 catches up with star of new film ‘How to Rob a Bank’",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2VaeGVoVXlLb04yZ2lHTkJPTnJtTHV6VnZRc2dBZWZwaklsVUtRRVJOanoxQndCclFmdFZnU2dqMmlXdTdfeGdYSFNGVDB6dE9tMDE1d2xSSHc0ZTM1TUxmZWhaSGZONDdnWUs2ZGREV1B4SDVnMzlvRTZkc0lfMndOZGc4RVowVXExbnBfNFVNNmRjakRiVDdiQmY3MlR5WGlFYmlIU2k5VXRHTHc?oc=5",
+      "domain": "local10.com",
+      "seendate": "20261115234619"
+    },
+    {
+      "title": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc1BaeUFaSGFDZGxDUWhzUVZ3NkN1T0ZweDhGa1dEVTBLZnZFaUNZWW9iZjZrZ0t2N1hsMjJGVUg1b1N5ZVBRcjJDTWFXTzFJcV9pdVdvNXJCZDNySW1iZXQ4ajdld3Y2YkJiX2N5SzFNMHNrUThQLTNqMlBULWNUSGg5a3ZNZUJMT0IyNkgyeWFVaVJzYVBkOHFLNjkwOERMeDNZXy1ZeEgtUFM0QWVrVWdhZEdRdWM?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261115182051"
+    },
+    {
+      "title": "Johnny Depp’s 1984 Horror Classic Has Been Ranked His Best Movie by Rotten Tomatoes",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMzNGVXBtYjFZY3JrVmd0SHNUajdtVHFXUjk0LXVLbnl6XzhPRnU4ekNJeEpYaERqQXpkVHIxY2t0U1hVUFJGYmsyYkJUMGVYMk5DSTRCR2hFcWZtRTBqVEt1ekFqT0RkekNaUTA2VVMxSllUMzVHLXVSTlNzWTFOQnZnUE1LZFhjUkphLWM5RHRqbFNhWWxXWks3MUlRai1lRE5HcTROY1hlQ045aUpOOENLdWxTNmQ4bDdVMS1CQnM0bGJZbWVMcGl2YWZEOEozSXlGV19GT24?oc=5",
+      "domain": "mensjournal.com",
+      "seendate": "20261115231944"
     },
     {
       "title": "Opinion | Television Is Terrible at Getting Middle-Aged Women Right",
@@ -118,118 +220,10 @@
       "seendate": "20261115140005"
     },
     {
-      "title": "Niemann Eyes DP World Tour Return As LIV Struggles",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQlNRYXlDWHhSWV9QeGV1OHhnYWNUajVJZ2FoZElqUHp4T3pzUFZpM1VyVEpLOEowSC0yZ2V0VEp5RWMzeE9HQVNvZnM4OHF2bHROd1VPS200ajk2Z0hhdGIzbnZQNlV5RUtfU09yRXl1T0tQZjZHRjlzV3RaXzFOeg?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115183906"
-    },
-    {
-      "title": "'Ebenezer' box office – How did Johnny Depp comeback film perform?",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUGRoN2hQVHdWQWNaMF9ENWw5STlMaERoMVEyQmFkN0ZXZWYtSGdjVlJKeHBaSTlMWjBMQ2NJSkFXUzlUMlVyZm5IQXdZQm1sZlJTN0t0eXlpYmxpaHRKSzVLTnRYSjlvZlp2b1BUcDkxQ0xmYjd6LVZTd09VODU2RFhpbnRFNGZ5QUdFaFo4XzRpNzhHMXZWR1RVczNmSGotLVdGS2hkdUNaa2MxSnJpY3JRWHZNd21vX1ppS2ZGdUg?oc=5",
-      "domain": "usatoday.com",
-      "seendate": "20261115183200"
-    },
-    {
-      "title": "‍‍‍ [WATCHLIVE]TV!] Czech Republic Croatia Match 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 15 November 2026",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUENFNFR6alFOWkJ3QjJKNjBpN0M4S1BxTlBpY2VsYUVBa2I2aUI4NjhDekV0bXJxVnppdGZXTkw5VXBpUzN0a0FwWHdwNktLTzB4dFhkTkNZTHJSTUVaY2RUV0dPeFYwa2RSeXMyeS1LdHdqNzBXMlVHR2FWSUZ0Sm53VlVMTlBuRVVkNU9nMDFnd2hhQVVuWHB6OExmaVUzWldTUVdKSmQyeHNiRGd6QVpCODVlWm5uUXlsOEUwTjRGZHQxc1lOVWwycmx6TVAweExuZWd4YWVPSF9OVnZXTVphVmpFRTRYVVFNRTZlUTF5Q21NbnJhcGZmejJWZjNPNjJ2THByV1pGVWdna1JQZnRGLVBPajZfVGc?oc=5",
-      "domain": "ub.edu",
-      "seendate": "20261115195512"
-    },
-    {
-      "title": "Richard Sterban of The Oak Ridge Boys and ‘Elvira’ Bass Singer Dies at 83",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNclRVNnY5VE8zWnh5bUY3SkM1TVltdlZzaDBjaWgyU21CbGRRa3pVYVk1a1ZOa2FpX2VuZU1UUXpqbkh6OC1ZbEFWMnNTRWw5Q2NHbFVCYzJzLUsyQ3Y0MkFDUmpMSlFSN3NaLVNxb0Z3X3JORmtOZ1FsaG1PdXNsQzRLNkZFQ0tjV1hpUjNzQUFqTkpBb25rRlpvNWFjSzNT?oc=5",
-      "domain": "people.com",
-      "seendate": "20261115132630"
-    },
-    {
-      "title": "Phoebe Bridgers is set to bring The Lost Tour to Orlando in 2027",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0c5bDAyRVp1bFFnTm4tVEZFSGp5ZnNydnhTcnAyemY0ZFJRdzRvTXpGVGNOSUd1NlNBRDUyODc1MnJ3d3MtS1NVS0ZmTmVsSUxMSzFKYlJnZmZKaHQwUC1RS2VhMzhOTzBpTFJwNmYxbkhZWE13eTlOSk5JRVNqd2NYUno3RTR3cnF2QWNEVlJvUzlRV2FVOWFkN21haTZheTFHRE5ZR0c?oc=5",
-      "domain": "yahoo.com",
-      "seendate": "20261115191818"
-    },
-    {
-      "title": "Johnny Depp film ‘Ebenezer’ gets actor first No. 1 opening in 8 years",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0QzZ0VjTkhEQU1qYktBcGhyb3NVSlZGZ0JnMlZDbll1Mk9QOExoOXVhVXJxellqQVVhVkhiOWl4UEFsakZjWkdOeHFENUloNzBpWkdOQXpWV2tXTzJkZWVtRE1aMTYtQVZPbHVjNXdrUHhiTWhqTFlUc3lOWjhOMUxjeFRseWZuZVdsc3Q2NTEtOE1NVlE?oc=5",
-      "domain": "apnews.com",
-      "seendate": "20261115173700"
-    },
-    {
-      "title": "Patrick Reed Returns To PGA Tour After Family Struggles Abroad",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1B6WmlleVRYNHZVRWV4YWt5OGZGdzB6RnVKa0Z6eXc4OVhSWnFOSTZyZXdmbWFMMEIyb1FGOVNYUzBPU1lwYjBqN0NwRUE0UmZySWljRU1TakxKdjIwNWtCUFJDN0lPRWlNUVBDUE03RWREMDdNcWZzX3VnRmloQTZGb3A?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115182209"
-    },
-    {
-      "title": "Country music mourns after legendary hit maker dies at 81: ‘Rest in peace brother’",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc1ZMaXE4VjlKc3B2anZrTmdnYXBKU05KSFRVcEFtYmF1aEw4WUpwZ2tpM1ZPT0JGeWNOZENZTDZDM3VCVWJPTVMybkszNmNmR1Q2dWVfS3NVLTVFNWJ2X2xsSVNJRzFjY1JnUEVGQlEyWEIxMmFrVWdkTTlHaWxaLU5Bb0lTSVdtUXFIc3ljbTloNjlic1hDTS13RFU1SXA5cURaRTVkSDdSbFBNM0VTVW8xNGVCRk9fZVhDQ0paUHZkbTRHYUlUSTY5VdIB3wFBVV95cUxQM0JrTnNZaHlJYzFWeEdfS1dGTnVrQTJLMWNYSDZka0JCdDdjSGZJdzduV1c2UnBsSjZnXzk1T29RalBNZ0dnWFNYUkJtVDlncThtUkhhOFc4RXRWcVY5dVhnc0FtSno1S2RTeVE1dHhaMnh3V3VUVEFJTDlvckY4UDRqdW82NTZBWkRKejZGMmk1VnluRDFKekJ1MWdSU0x3VnZWNlRyV0pOQ19jT1hicHlHbFRhVnFnNzM3Zkc1bGRoeDB3SFZHRUtQajdDbHV0d3Zpai1sTF8zM3FMSnlN?oc=5",
-      "domain": "pennlive.com",
-      "seendate": "20261115100000"
-    },
-    {
-      "title": "Patrick Reed earns PGA Tour card for 2027 four years after leaving for LIV Golf",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHZVa2NfbUFEWlRVajI2WlU1SXd5aldnemd0TVVMRWtydlIweXd1LXFnWU42bmNlSUJXdTJpbHdIR0dpcmtoZVJVVzhTRXI2YWh3MDNQdG9SOEJXRFhfVWd4YjhkWVZXMXlzS19wTmF5RkJjaEFCbEJzSk9VSUJUUjZR?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115185057"
-    },
-    {
-      "title": "DP World Tour Championship: Rory McIlroy snatches Race to Dubai title as Tyrrell Hatton claims big win in season finale",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMlpBc2x1SzlWMFhTQTFndDBMT01qTnBhMWtBLTg3TkprT2NRdVhyeHVEZW4yX0xPMnVaakdKbkQ3ZDRwaHlfMEpZZVphZEo4bUpOcmtMOFl1QVFEU1VzcHZIc05lbFowS2xXcHBReHVJTjE2U2lvSVFTVVZBZkt6aXQ5MW9kYUNiY2N5ZGhHTzBhR1NqbTFWeTJYOG82X1ptYnJPeEtrYWFSUEhqRkRraDB0YlN4YkFGLUNraUxEVF9PUkVMZ0tvc2VyYXpzVTF3eWt2MTUxNmN6ay1EZHpGbjdidWhiLXd1X3l0NU9UYUY5VlNjNXc?oc=5",
-      "domain": "skysports.com",
-      "seendate": "20261115134546"
-    },
-    {
-      "title": "'Rory Had a Big Advantage': PGA Tour Pro Calls Out Major Points Imbalance in Race to Dubai Title Battle",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUU85MGhWa1VhcFgwaUJJMmJyQzgtMC1wSTcxSDZXZzFQM2VTQ2lZd05wQUQ0M0xMdWhrLU93cElSR3RhSlc1TDdHZTlMS3lLZF9xdzFOdG9aTm81d3Nlcm1RcENCYktXNExkUlM3dVZvUzZJNVdwYnAwbjIwaFVGRQ?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261115185219"
-    },
-    {
-      "title": "He’s 19, just won $1 million and made PGA Tour history. But Blades Brown hasn’t forgotten what matters most",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mYzZkY3RQX01VTXBnb2RqZ0IzZWltRW1ESHJlX09mS0xud3FOWFhGZm9ab2ZvdDVzaEJteVEtRlpEWGNNUjNWNDVnNGVNd0RDald3WW85dVdnTl9YLUNDNDFCMTdCcFAxNWs1WW5ncTRORTg?oc=5",
-      "domain": "cnn.com",
-      "seendate": "20261115160015"
-    },
-    {
-      "title": "John Yesha – John (Album Review)",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YR3U3b0U3d01IVm9SMFdoWWdhWUlXME1adnlYZy1NV0s4NmRTMUtaRm5HLW91eExrSzBPSXQ3VFZQRVVXMEJhdDZlemswVUVOeEtJeTZxV2ZmS09CQ1lLYzl4dHI1a2F4Rmo5VjVoOThJb2hfWlY1aw?oc=5",
-      "domain": "ratingsgamemusic.com",
-      "seendate": "20261115193223"
-    },
-    {
-      "title": "‘The Penguin’ Star’s Divisive Sci-Fi Remake Is Officially a Surprise Streaming Smash",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON0NpTXdzMVd0djRjTThqYThpTEp0VkxDOEZwUmFkdWhRZjdCdGl1R2d2QW9rV0lBOF9nR0hkcEcyUy1qYkRsb014Rm9CaWR4a3dkcTJwOXJuRWN6V01EUTFEUjlKT3VzeVBHa1JZQ1JJSi1MdFVyOFNWc3VRbllEX1V1azh4WHkxV3U0YW5LSE9tSHR5SmVOclJDdw?oc=5",
-      "domain": "collider.com",
-      "seendate": "20261115193012"
-    },
-    {
-      "title": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlNhWk5pSFNqTUFqUWN1YTYwMHV1aEpNQUQ4cjcyNVJhZ1lBSmM1RW52b09ZVjEzMkpZdHY4WlhoZlc1czE3U1JjSXVhV2pSTFUtLTM0cjM2UjJGMktVeWc3a0xfZ1RVbUtCcy1uYWx3c3hUT0FkcjhyOUZ0cnNyRDNEUjBOdVk2bGVUNkd0R2N5YWpJVHl0VHBCLVRndTRBZ1hydzd4bUk2MUFORE1XNUtlbWl4Qm1hTXg1OHln?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261115124100"
-    },
-    {
-      "title": "‍‍‍~[Streaming-] Italy vs Belgium 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ On TV",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONm45NXJrSzV2RGkyUDVrZC0xVFZVZFNWcUNmcUkxNlBTUzdIZ2haS1UtaGlKaC0yVDJ4dnBPaGtweE5DVXhWZ1pzelNoX0tXbHRITS1ZVVFGSklSNGo3WXhBUjlvWUV0eGVOX2VfbW5HTjhzMExaZ3VLREtnYTVwSlkzb0VBOTJ0U3p0akdyZlNpbzByMU9teVF2cnJCX1pCMEpsdmg4WTVhbGRpVC13TDdOZ2tPNXppVWxXUlREbS1UNGNwaGRvTVFUcUgzdWFYMjRHcEVPOFNzREo1SGQ0Wk5ZTURseUUyRUo1M19KY3lscTZCbEUzSzdCcEw4SU5sTXpzd2dOajNvU1R5UGhJSTNlVVVoS0gyakI2OWtpMENPMzhzbWlVMmxR?oc=5",
-      "domain": "ub.edu",
-      "seendate": "20261115193856"
-    },
-    {
-      "title": "Op-Ed: It Was a Music Video So Good, MTV Couldn't Say No",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQklNQ2J6SUprVzRjR3FJVVN3V1RCUHhwZ19idTFGZF94eklGSXJ2QWFyOEFxczRTaGFKMS1yLWYwdFJkd3BuY3I3N19oOE9nYktjaFJzZk9SNG4wb0tDZzlBMWRqWFpEdGpJdmFVM081ZDJLZFdsS1VIY3RjZXpwcmQ3NDRCS1N1OF9fTDhqaXluQQ?oc=5",
-      "domain": "newser.com",
-      "seendate": "20261115171500"
-    },
-    {
-      "title": "The PGA Tour is Changing Almost Everything. Except The Dress Code Rule I've Wanted Changed For Years",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORERNNk91Q0NSTnBVZ0dUdHJIRXF1N19aNnZUXzl1YWQ2UTdzcXNBU1lBS0hETjl6LXMxY0VuRnVfN01fNTNaSmpOdkdDengxN3hhRzJWcTZRcURlWWE2OHZaUHZCRF9ZOEhOaFZNLWxsRk9GRHVnQV9tTno0dE9MTmlvSE1BTjBpQUtqTXRLYlc4X1p2bE9OS0ZDT0JzYm5zNDRudktDdTZ6U3dyMmt0SGxoeGVCMExsWkUweGdVQjJldkktbE1yQzUzbjNoLVk?oc=5",
-      "domain": "mygolfspy.com",
-      "seendate": "20261115140303"
-    },
-    {
-      "title": "Film review: Pressure and coverage looks vs. Washington",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRU1QeEFDRVZZblJVNmtkU2d0eE9zUUE1VHVOYTc0Sk9lS1FwdFpPOGsxMkNtY2ZCZnVTNXdKaXNfS3pOVzlHNFRtYlZZNFUxTzVpN2w2NXI5TjlrRWtudUpTNE9ybnptLWFXSFhieW5LNVA0dG9NR3hxTGllVTFhTXBxNEVLN1A3SHlGcE9KOHpDOXpEdmN5MGpycUNFVWo4RERLN0J3RHY5LTJQY1NiRTdQWQ?oc=5",
-      "domain": "bigblueview.com",
-      "seendate": "20261115160000"
+      "title": "Meet the 10 DP World Tour grads, including Eugenio Chacarra, Patrick Reed and a former grocery deliveryman",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSTY0QXlMTzBKX3ZGbS1neHlLQlppUjF2V19BR0Nza0JjRThmcWtEOEhiS3duQmhXTWlGS2ZXeUpZM1NSSTZZTHJ0elhHUUt5LWxzTHlBSVZxM3RWSzI1QS1WUkpGS2xNcVlfNU91T0dUZXBCX1lweHNxQjVlaGw1eml4YmxhVWxGMUVkcm12UmtGNXZ5V3gwMTFSYkE0dXZfbGF1MUloWk41eW1tWXhIMnZrbXlQdTY2czdPUG5wRW1ndGx5cnExYmRQRndsM1ZqWHNYSFdkc1J4aGtZemR0QkdpTkxtZw?oc=5",
+      "domain": "golfchannel.com",
+      "seendate": "20261115140912"
     }
   ]
 }
