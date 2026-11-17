@@ -19,7 +19,8 @@
         "2026-11-27": "I was going to tell a time-traveling joke. but you guys didn’t like it.",
         "2026-11-28": "What do you call a bear caught in the rain? A drizzly bear.",
         "2026-11-29": "Why did the frog sit on the lily pad? Because it was toad-ally comfortable.",
-        "2026-11-30": "Why did the grape refuse to fight? Because it didn’t want to get crushed."
+        "2026-11-30": "Why did the grape refuse to fight? Because it didn’t want to get crushed.",
+        "2026-12-01": "How do bees get to school? They take the buzz."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -50,7 +51,13 @@
         "Why don’t birds use social media? Because they already tweet enough.",
         "What do you call a dog on the beach? A hot dog.",
         "Why did the cow in the pasture get promoted at work? Because he is OUT-STANDING in his field!",
-        "Why did the math book look sad? Because it had too many problems."
+        "Why did the math book look sad? Because it had too many problems.",
+        "What’s the most patriotic sport? Flag football.",
+        "What did one elevator say to the other elevator? I think I'm coming down with something!",
+        "Why didn’t the melons get married? Because they cantaloupe.",
+        "What is a child guilty of if they refuse to nap? Resisting a rest.",
+        "Why was the belt arrested? Because it held up some pants!",
+        "What do you call a snowman party? A snowball."
       ]
     },
     "would-you-rather": {
@@ -71,7 +78,8 @@
         "2026-11-27": "Would you rather have a song written about you or have a sandwich named after you?",
         "2026-11-28": "Would you rather have friends drop by unexpectedly or have every visit planned a week ahead?",
         "2026-11-29": "Would you rather have a clock that runs on compliments or have a lamp that runs on laughter?",
-        "2026-11-30": "Would you rather have a house that is always tidy or have a garden that is always in bloom?"
+        "2026-11-30": "Would you rather have a house that is always tidy or have a garden that is always in bloom?",
+        "2026-12-01": "Would you rather spend a day learning to make cheese or spend a day learning to make cider?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -102,7 +110,15 @@
         "Would you rather make a great first impression or be someone people like more over time?",
         "Would you rather spend a rainy day in a museum or spend a snowy day in a cabin?",
         "Would you rather have a holiday home near a forest or have a holiday home near a market square?",
-        "Would you rather spend a month traveling by bicycle or spend a month traveling by train?"
+        "Would you rather spend a month traveling by bicycle or spend a month traveling by train?",
+        "Would you rather spend a day on a working farm or spend a day on a working fishing boat?",
+        "Would you rather have a job with a short commute or have a job with long lunch breaks?",
+        "Would you rather have a ladder to your roof or have a staircase to a secret basement?",
+        "Would you rather be able to undo one accidental send a day or be able to recover one deleted file a day?",
+        "Would you rather be able to summon a chair anywhere or be able to summon a cup of tea anywhere?",
+        "Would you rather have every cake you bake lean slightly or have every pizza you make turn out square?",
+        "Would you rather open presents one at a time or open them all at once?",
+        "Would you rather be the person who chooses the restaurant or be the person who chooses the film?"
       ]
     },
     "excuse": {
@@ -123,7 +139,8 @@
         "2026-11-27": "I accidentally started rearranging the books by height.",
         "2026-11-28": "I thought I'd already done the thing I was imagining doing.",
         "2026-11-29": "I couldn't find the return label in all the packaging.",
-        "2026-11-30": "I thought the countdown was decorative."
+        "2026-11-30": "I thought the countdown was decorative.",
+        "2026-12-01": "I needed to get the label off without leaving the sticky bit."
       },
       "pool": [
         "I was almost done when I decided to start properly.",
@@ -155,7 +172,14 @@
         "I couldn't find the tab with the important thing in it.",
         "I had to untie a knot that became more committed as I worked.",
         "I was waiting for the automatic door to acknowledge me.",
-        "My umbrella chose that moment to become a satellite dish."
+        "My umbrella chose that moment to become a satellite dish.",
+        "I was trying to read the tiny writing on the thermostat.",
+        "I had to pick up all the coins I dropped while being efficient.",
+        "I needed to finish labeling the leftovers before forgetting what they were.",
+        "I had to remember the name of someone who remembered mine.",
+        "I was waiting for the queue to reveal what it was for.",
+        "I had to see whether the plant was leaning.",
+        "I couldn't find the address in a conversation full of thumbs-up reactions."
       ]
     },
     "fact": {
@@ -176,7 +200,8 @@
         "2026-11-27": "Measurements of Enceladus's slight wobble helped reveal that its underground ocean is global.",
         "2026-11-28": "Red pandas leave scent trails using glands on the bottoms of their feet.",
         "2026-11-29": "Theophilus Van Kannel patented a revolving door in the United States in 1888.",
-        "2026-11-30": "Ganymede has a thin atmosphere containing oxygen, far too tenuous to breathe."
+        "2026-11-30": "Ganymede has a thin atmosphere containing oxygen, far too tenuous to breathe.",
+        "2026-12-01": "Sloth bears can delay implantation of a fertilized egg, extending the time between mating and birth."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -208,9 +233,13 @@
         "Neptune has clumps within its rings called arcs, with names including Liberty, Equality, and Fraternity.",
         "A prehensile-tailed porcupine is born with its eyes open and is already able to climb.",
         "January takes its name from Janus, the Roman god associated with doorways and transitions.",
-        "Triton was discovered just 17 days after Neptune."
+        "Triton was discovered just 17 days after Neptune.",
+        "The melody of The Star-Spangled Banner originally belonged to a British song called To Anacreon in Heaven.",
+        "The Sun's equator rotates faster than its poles.",
+        "A comet can have two distinct tails: one of dust and one of electrically charged gas.",
+        "A naked mole-rat colony's tunnels can extend for several kilometers."
       ]
     }
   },
-  "updated": "2026-11-16T13:50:45.020Z"
+  "updated": "2026-11-17T14:42:36.115Z"
 }
