@@ -1,13 +1,127 @@
 {
-  "updated": "2026-11-16T16:50:06.014Z",
+  "updated": "2026-11-17T00:36:38.966Z",
   "source": "Google News RSS fallback",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN19xZThFWDloRnBBOUFPUDlzTEd5Q1VmZHJvYmVsME95UTMyMm5RVFBVNVVHV0EzSXdkaFZBOHZZenhuQlhSTFVTbFk5OFlEMklDNUg4cVNfRElCRkVnLTlXbXB1R3JDR1BEbENkYWV5OE04cDVuWjhWWFhVd3haRjFTS1UwdXJEbDFPOQ?oc=5",
-      "domain": "variety.com",
-      "seendate": "20261116150100"
+      "title": "British actor Robert Pattinson named as new James Bond",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
+      "domain": "reuters.com",
+      "seendate": "20261116225602"
+    },
+    {
+      "title": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUE41a3lwYTE2RjR3UUYwSGplLXBHdVJLYW5QVFllSWg1OTh0UXZCNE1pcXM2Yl9NSjdONjByYTB4dzRKUFZtUElkbDQ0T3ljR0xERzl0UE9jTFNPaTdrV0xfZDlVVF9uUE9iTzZDMHlqVVlyNkpPZzRLUGplaHJZWTMwMTlDbmVHNFQ2SG5fOUhUNWdPOUlQZWN1djJSY0dm?oc=5",
+      "domain": "time.com",
+      "seendate": "20261116225948"
+    },
+    {
+      "title": "Pope Leo XIV wraps up demanding, emotional Latin America tour",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUo2OEZLa0hLaFJOMVV3VVg5b0xOWW5zaWZvdFRnU25QQnNfb0JEekg2cnRXUWhrVHJndFo1MDJ0bmZsTlVOVFRGenY5VW9TY1c0Rkc4RkEtQUJBUnZ3MndSNnIyck5jdlNpMWdxanhJdWhnSTN0eXNHd3V4V3hobXFhX3c4dkh6MVprUWNzZHUzWE9IOFF2NFB1ZDFZZHhEMjlOdFRiSVQ?oc=5",
+      "domain": "npr.org",
+      "seendate": "20261116220631"
+    },
+    {
+      "title": "PGA Tour approves revamped developmental system for top amateurs",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPelRMUE1mb3B3eFVJSnpWU2RfYnJTUGRUUXhKV0xoX2MxVkMtT2hOZjcwcjhFanBTNFJWMnV4M1pSX3U5b1BxeGxzQjRkMmhHaGQwVlpWWmtjYzlZOU40SFRvajBnQ2Z2QmdaMDRTWV9pM21HcmFQLTVZWkJMdTlZeXRYVjZ5U1dzMVhaWDZQLUp1ZXNNRmdWSEhlNA?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261116215700"
+    },
+    {
+      "title": "Must-Hear New Music: Ethel Cain for the Film Werwulf, Boys Noize & More",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFJWR21Nczd4S1RMOTk3NWVKNlp0RFJIQjMtbGQ5anhKX2ZCdEk2OHF6S2s5dC1xdGp6X2FHVHoxU2JDUTBXbFlBcDl2M0tTT2tnbFBVeWRocTNZMGlWSW0zbUpPaF9nRTI3ak5nLU14enNTNjdCcnE2NVFabE5zRm9SenJoNDhKTXp1aHJjVHU1ZWtxSXJyUkktX0Q?oc=5",
+      "domain": "grimygoods.com",
+      "seendate": "20261116233930"
+    },
+    {
+      "title": "Grammy Nominations 2027: See the Full List",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnlxVDVDdXpNaVFVY25mb3UtNzNkaGFKdm1ZTFUxTms2WXNQOE1KM2xtcGhHMGthR185clhSZVFKSGdWMWs3RjRrbEZLYWFxcHdoSU13WmVzeVFMVFdPWGNTNUcxRlpMb0tzYU84SFVXMG5LNmJUTEFVWUozeEdSZQ?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261116214208"
+    },
+    {
+      "title": "With new PGA Tour U benefits finalized, 2027s now have weeks to decide futures",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY0N0OEEydHJUSVg4LWctNWhuUjkyMlE1NF9DZGNkRWJtZko3ZV85dDQ2YU1hQkVKMlVkc1VPV0ZIWGwtSi1xd09fYnV6ZmhzQ09pRVpuU3hiYURWNUtuaUVta2FBblRyQnZ5T1dMVThFSUNOTjlHcDVtc2FDWXhJTHlFRHJkZE96NXJUYTdINUdUTWItOGlndXpTNlNFVXJPQjNLMklxRmw5elZEUy1vRTNDWVlDUExyS2Iw?oc=5",
+      "domain": "golfchannel.com",
+      "seendate": "20261117000006"
+    },
+    {
+      "title": "Scary music sounds sweet in the hands of horror movie fan Bobby Guard",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYk9rNWpqcEVLMkk4dnk0b1JGUm5lblVWaXh3MUlWRXFrNjc3Y3FXTzFMYkFNZmJBU0daX1Ffa01YeFFyLXJxY3FRTWE5NnZNVVVseTJ3a2FGdE83eFJFcWJxTWs5d3FXdk9UVDcybzlxNFJFV0w4UzVRTWVZQTFZalpJU1piUQ?oc=5",
+      "domain": "westword.com",
+      "seendate": "20261116220938"
+    },
+    {
+      "title": "Inside the viral Vans Warped Tour Southwest flight that took off just before the FAA’s grounding",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUEhhQlBNM1RNRjZEUjFqV1E5cHN0N0hKd2VCWFN6YkZ1c2Fyc0lER19JUHNaYWxiYl9wTXlCZDFoX243NnRFLU5QS2lDcWsyeVAxLW5HcnlINGFpQ2pmdWM1N2VOTl9HY1Vsc0xwY1NfN2xPdVdBYXAzdjFXeFAtMUtTczJQcmJuTHlsMVIyQUVkT184Q1dhejBWTXUtYTBqVHJqcTVVWmJCanZ2Y254djVkZWc1VmF4RnRqNTliNFZmNUw4c0lyamFSUGU3aFhkOHVhd3RTaUFKY2dSeDIwVkdnVmJKZnQy?oc=5",
+      "domain": "latimes.com",
+      "seendate": "20261116222203"
+    },
+    {
+      "title": "Robert Pattinson As Bond Or Bond Villain: What Did The Actor Say Years Ago?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQak1vWkRXalhEQjY5aDZBS2tuTlFSUEN6NkJ5bXpra2dVbVBPMDU5NGtqdWZ3ZjRXa0FiRk0xMVJKUkx4azBKcE5NTzVEODBiRy0zekFwd2RkT1RnWjBITGVUajF1QlhYRnhKd2Ntcjh1UXgxUkNkTjFuWVNXVkotdWg0RmRhcDFPRmtSRjhjclhjcnkzLUJMOGdWWUx5N1k?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261116212300"
+    },
+    {
+      "title": "TV on the Radio to Headline Music Hall of Williamsburg’s Final Shows",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbVJNdFA4RWNaY3F6a2ZhTjljWUxORmtPMVZlbzBLMHNpQ2V3cFYzRXpEXzFtTm1BYXVrT0cyaU0zMEtWLVBZREk4VkNzdVdWNVpnRHdMQ29sQ1BmZUpoZnp3ZmJEV3lyaE94czM3MnJKQkxzT3ZKNGVqd2Z4M1R5TVY0YmRHMjZXMjJGX19BSUhidFpnYm1uMlYzanc?oc=5",
+      "domain": "pitchfork.com",
+      "seendate": "20261116214850"
+    },
+    {
+      "title": "PGA Tour outlines pathway details for developmental system",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3E0ZGp3WDM3YW5sZzBqMlJoZW0tZEd3RmhnbXV4SlZLOEx2aEpld3BVc2hfZXRCaGFkWk9BUmNvRDd1c3dSM1lyelJxdkVWbHY5dTl4UmVOV3RBNmJWcW5PX1huVkVZN1FJQkNITnJSamFEX3ZwNnJxMVd1MlFOQnF1S2dKRHlRU1drNl9TYkk2WjBZVjBCNWFHTkU1OU9FMFE?oc=5",
+      "domain": "golfchannel.com",
+      "seendate": "20261116223806"
+    },
+    {
+      "title": "maxon’s posthumous debut album is frozen in time",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdGJHcGJ0dFZtWU9NeVEzV1NDdGszQS1jM1o1TDZZbmNvSFQxalB1WGpoNmFRNzJLZDlXcVNXOUl3UWFxN1B0aTJvWnJGM1R5YU45Umt3aTN4bFZOUmY5T0syTko1MU1sTXVUakUwVG1vSE0xdjg1WUN5bnlUdEVyNmhuZDlYSnptUFpoczI0RGJtUjJ0OFE?oc=5",
+      "domain": "thefader.com",
+      "seendate": "20261116225041"
+    },
+    {
+      "title": "PGA Tour makes changes to its feeder system as it wraps up work on new competition model - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb2NCZ1RTNS1ZTUxwenVRaWRaZ2ZISm1vbm5HVWI0dEJjVFpvdm5BRVBjblphNXdvVFRvQy1pemsySDB5bi00UkU4VmJkVXc4QnF0Zzh4VnJzNXhjVHNxSm9UQWJfdF94ODhqc3VkdENSWHh0MTNPdWlYRmFEaWpxMUtOTDFMeEc1UXhaVlQwRksweWFf0gGaAUFVX3lxTE1PbktIelZCblpuQWV3S2dOa3RjcW04N2pMM1NSVzh1Y2N6ZjlVOFpzSDduRkxkS2JuNHh5UmNVOHhHaGhKbXZSTEdpSS1aSXBHcGhFNlpMZTlQZVVJR0JyNV9vd1NDYVJkS2tNU2ZKV2wwcXpwZldSZThQQVg0VktpMkNSdG0tclBLdV9GUmxvd1h5V1JkZkNLaWc?oc=5",
+      "domain": "abcnews.com",
+      "seendate": "20261116234902"
+    },
+    {
+      "title": "Toukie Smith, Actress, Model and Former Partner of Robert DeNiro, Has Died",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EUV92QXhFTlh1dS1JNXNrS0RTWXBkSVRHRXhNV19wX3JnTmZxOEh1anhsLWlIRTZtMy1HbTBYNksyTUxMdU5VcVpGdnMyRzNBUTh5Tlhnc1Y4QnpCYjc3SG5WRy1qT3pNalZmc1FwRDh4UC1PTUtaLTNBM183dw?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261116161541"
+    },
+    {
+      "title": "‘The ‘Burbs’ Actor Kapil Talwalkar Signs With Innovative Artists Entertainment",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcnB2RWVicDZSMmJuR0Q2Q1hscjh6OGhWVTZ4SmQtaWYyTlQ3cTAtMWlPQ2R2Vzh0akk1MzczSFZsSjh2aFRhMWdWZlN5UERNVmNSaDljNWtiRlJ4R1dYVlgwSnl1ejhGTFlVMU43SWRzT1BpbGFmYTk5dzA5V3A2eA?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261116220200"
+    },
+    {
+      "title": "Film Streams upgrading its Omaha theaters next year",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEs1NnhST21abFd0VmZ5ampkWV83d0E1QlNsZk1WM0x4VE5ncFJfS3FxYndJN080YThaQVJKYkRld21ZRHJwYjVwYXJaYWRzSFFOLWFDRlFFTnBBRDB3QXJld044c1ZXZXEyeVlubHFINDc4VVJ6dTlIT3I3QWQzZ3BJNkZ0RklaS0lTWQ?oc=5",
+      "domain": "wowt.com",
+      "seendate": "20261116223000"
+    },
+    {
+      "title": "Silver Bells at Christmas: Music, Faith & A Love Story Worth Rewatching",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQODVaVGU2VWFacFBCYjdudW5WSmVOVDFNZElOTmVwZ2JhLUZjNTVGMnQwM1RmV3N4Q3NPZldZVC1xSDViN3NpNmUyMVV2U1gtRkVFYzlCMHJSTElfcExJMjl2RFdELVl2djl1QmVVYVF1bDJucG1EMU43Z1VrQVJLcGN4NHJnVW52Nkx4aUU1NkxlTVFGTE04SHRnTVZ3RDhoMFhMZ0JIa2p4blh2Y0HSAb4BQVVfeXFMUFVYdEVSaFV2ZmgwY3RGYVRZbFUzdmlITUV1RXJXc3R2by1FZkd0aUluaXNrNC1Xa0hhNW0zRUpxeHVSZEdnSkltSGY1ZEc5RThwSGtnTDdvVHBqOEZabmxXU1E0SlY1ekZNbWVpX3JSa3ZYeXNKSk91Uzd2cURKZHlXYm1SV0h4TVFYLWxUVC1nRzRmalhJWk1uRi1FY3MydDFheFRLTm9PV2NNZXp4M1hKdTMwSERhaGhjZ2ZjZw?oc=5",
+      "domain": "pureflix.com",
+      "seendate": "20261116231825"
+    },
+    {
+      "title": "Winslow singer-songwriter Bella Ann releases holiday EP Nov. 27",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSDZueDdPZndPTkJLTFpHMUhLcVpVRURndW5nWVZvTHdwWnN5eVBubGNOMEJrSko3ZV9ROVRZY1l4TFk5alo4S1owblNBcTJ1ejNnT0Nma1lOT3hWMVlua2U3RExsMWpfZW1oX0Nia0hleG54Zy0wNnRTbUR1dDlremVGYkNNenJsT0s3S0Y1RGt6MU9YaEVleW1n0gGuAUFVX3lxTFAzQzRfcnBaYmFvcUdtUU1OOUdIUHBUZ2c0RDlISEtSN09Wb2hHQWJjaTVTUk90MzRMbUZ5ZWNaa2dNWDlNeG1vQjN2bkNvcDVyRWg2OVRnZ29YVW0yTW5nMFIwWjJhME1WNlM3cnBGNjFuRTl5T0NqVGdYU0ZiSkJ2d3FVM0xFUnUzS0lVZ0t4eHlSY1ZhZ0F4enE3dlRuOTRfTTQ0X2dHZW1PRkVjdw?oc=5",
+      "domain": "wabi.tv",
+      "seendate": "20261116231800"
+    },
+    {
+      "title": "Video tour shows rare plants and wildlife at Point Pinole Regional Shoreline",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXdMa013bmw2RDdETmNpc2plYUVtV2ZucXB6dGg2Zy1RbkRoVlhNLU9hWDFaZFJUVkpGVEQwMUJWTzlUWUNESnF3YVFJMl9POEpPQlg5SXRPTlB0blpQQTByMlBLT2dQVGktb2xJbzUxRjlCVXRNV2ZvWWt5VV9hdlcwc1ljQmVvWVBIaC1lNndqMjJWcEhpR191Q0xCcnljWXVKQkphVk4tcnBrUGJYNWFUS0VLZ3V5d2NZVDdyeHN0MFE3RkE?oc=5",
+      "domain": "richmondstandard.com",
+      "seendate": "20261117001240"
     },
     {
       "title": "Joe Dean, former grocery delivery driver from England, earns PGA Tour card",
@@ -16,286 +130,106 @@
       "seendate": "20261116145700"
     },
     {
-      "title": "British actor Robert Pattinson named as new James Bond",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllicENrQVpJdklkNVZHUnZ5cURLZ1gwU1N3WXZJRG5QNE9MTXJ0RU1VdEFQSWNadnFZRGxKT0pJcWMyWUhFYk5aRVFSbS16SjBrbVY4Y3c4VjZqdVJLQWtPM0M1aGZIUkFXaXE3QU9jUm1qdmV4TzBZQkFRLTBTQTJoODRVemdMeFhsMEJJeWFlODNvdnVfLWhmZFp4QQ?oc=5",
-      "domain": "reuters.com",
-      "seendate": "20261116162052"
+      "title": "How old was every James Bond actor when they played 007?",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNFhYSWFNTDZMX3NRQ09KTEVpZ0hfcXRXVUxwNjdzRUR0WUFhYnNLMXBGa2NKODAyLUZ6My1rU3FZSEtWdlJSV1VPS2JsRWpjOUQ1V05uWE1EbmhlelllYXhONTA1YU9NczFEbWN1V2hFR3JuWmxPVHRPQ3ZfQXE0SjJRYTAyUQ?oc=5",
+      "domain": "ew.com",
+      "seendate": "20261116223000"
     },
     {
-      "title": "Grammy Nominations 2027: See the Full List",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnlxVDVDdXpNaVFVY25mb3UtNzNkaGFKdm1ZTFUxTms2WXNQOE1KM2xtcGhHMGthR185clhSZVFKSGdWMWs3RjRrbEZLYWFxcHdoSU13WmVzeVFMVFdPWGNTNUcxRlpMb0tzYU84SFVXMG5LNmJUTEFVWUozeEdSZQ?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261116161423"
+      "title": "Hollywood reacts to Robert Pattinson being cast as new James Bond",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSWFRbVVtWnlQMy16Zzh2T2pmbTUtNThTVURWbmxudUF0c2xDQlN0UFRCWktmcXdpS0R0RGI2djlVSjJQeU5jNXNGWEZYTHhtdDlOYWNfRWQ?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261116193334"
     },
     {
-      "title": "New James Bond actor announced: Here’s who will play 007",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84X19xNWcxbkticVByLWQ2X01KcXlTNXBZRWxYOUQ5dlhVY0wzUEJCS25YZ3kwb3pGODZKNng0dUFYRUhQTkdoZVE1eFVmeTlIZ0ZEb2steXpOSE9PaUpiOWc4X09OSWRuSUV5WlZiOA?oc=5",
-      "domain": "livenowfox.com",
-      "seendate": "20261116152500"
+      "title": "Richard Sterban dies at 83; esteemed singer was integral part of country-gospel group The Oak Ridge Boys",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZmhLaHVIVEJmaUd6WmtxOVhfSTVXN0NGYV91Mm9PYVlibXQzTXB0UTQ1b2toZlJqUHQyUFVhZC16WTdvOTJ6UDdRWVVVeHBsUmFFdGxaLUlyRHZuTHNkTjN6dWd5NmY5WEJ2QkczVUFWTVprR2JsNXA4aU9XMkQ5ajJhTFlnQXMyVVE?oc=5",
+      "domain": "mercurynews.com",
+      "seendate": "20261116225351"
     },
     {
-      "title": "Album Review: Love Ghost – thirteen",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yTlhFaU1LTzhTVlc1VjMweGtJMDRiMnkzMWNTS05COU9YbE4zMl9qMnZiRlVNY0FTUHQxUjQxd3RiN052bUpfY2ZJaEVlc3d4U2N4WElMRGpHRFo2MjRRSnR3VWFhekJHLXFMa2pBeDZRUkhpRVVOcEFR?oc=5",
-      "domain": "newnoisemagazine.com",
-      "seendate": "20261116155437"
-    },
-    {
-      "title": "RAYE and Rosalía lead the 2027 Grammy nominations",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHJFTnJnVHE3dER5N0xuM3RZRmIzSnpJeWU5blRHelhLYUZsUlZXZDhQeFFzSjFjUWpyQ2xSeUJvRGhNMzNuZi05d1RTZWlKUGRIZGRDVWFFRmpvMlhqWVo4bDYyZzl0TlFfYWV3TDM1NkZnQXZidl9weVBGX3dnRUJ5dDZHaWpTZkE?oc=5",
-      "domain": "npr.org",
-      "seendate": "20261116134740"
-    },
-    {
-      "title": "Brewers manager Pat Murphy announces Wisconsin tour celebrating World Series championship",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSllkVjRBNEhaX29oUWdRZV9ScTRnNjlnWUFiRG1OOFJPMFBDS1NfNmszZGhLMmJLV2FZZEpSN3FjblRZR0FrVWFnN2tidmlIbHNaYjhKQlFiT1lpUk40WUZ2dF9lVjl5Y29NQ3dvdWhwYnhZVE9kS3RWYWtNZ2FTazAxQ3dHWGxsSjhsUXp4QjJIYVVXak1sYkpfV284QVJJUk1SZDhvY1k4NmtrOUMtcEhack15djdsSkJGNkkxaHZqN1BDSlE?oc=5",
-      "domain": "wisn.com",
-      "seendate": "20261116132224"
-    },
-    {
-      "title": "Kanye West’s Bully Up for Best Rap Album Grammy",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckl0YndZb2k4SExKdzdEa0ZMS2VOU0ItbGVEa3BNS0pDUUdtZkdnQjRsNmNBb2RIT1F3RkotbmNGSnUwdEJnLWpLelk0VUZXT01Xa0MtZjl4cW5TLXRQMTVscHhRdEtJanpaUS1JVTczdDRpVHJyTDVDSldqSFpyUw?oc=5",
-      "domain": "pitchfork.com",
-      "seendate": "20261116135454"
-    },
-    {
-      "title": "Album Of The Year Grammy Nominees 2027 Include Rosalía, Phoebe Bridgers, Taylor Swift",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmR5Z25ESVJMX2tDYUt3d2ExTVhaNmRlRjBXSVVRXzBkUHgzUzFvSEphT0lXZFhUdXg1czJxWEpsb2ljUHp3X1NIWGxwQlZFR3pyZW5jc3Z2b1FqWjQxQlRaZlI4SjV0UzNIN2VkajlKQUx6YnRiWXZoUU5nUGwzdWpGbVRSQWdDcllxM0M5dk1FT01kc2ZXMjJWLXR4MTZ1aURLUEJ2Q0NvN0xEVVRHMEFQX3hEZkFVTEE?oc=5",
-      "domain": "stereogum.com",
-      "seendate": "20261116135800"
-    },
-    {
-      "title": "LPGA Q-Series 2026 Preview: Who’s Chasing a Tour Card | News | LPGA | Ladies Professional Golf Association",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcE5jejFWYmtoeDZPbXI4QWIza1lkUnNfRHMwVGVBbG5xZGNoREthOVlnZlFaSjZzbVJZdDJwWEREWk5iMG05UVFxMzJJb3VwNHRqRVFTSDhIOWhrd0hwSE8wTUxRU09qWW13TWNkUUozM0xDaFlZdUVwQlJGZXhBSXBFelpnX2VEbUE?oc=5",
-      "domain": "lpga.com",
-      "seendate": "20261116151900"
-    },
-    {
-      "title": "Azareye'h Thomas Interception Film Breakdown",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVl9xSmFSOUJ3Y2NjMWFBZllYNUN5bkQ5VzVTSUx5LUJ4OGtHLVhPLVU1YzgwUXg1Tm9uVEgtMzJUSEJFRzhzdHMxR242TW1WeU5XWG9RSFk4NUFIY0dGWkIwSzVmRGFKeUdTRUdfVm5WOWRubmhQTTdJREEwSDRLMkJJWXhucV9jZFNSN05BUS0yZ2trekE?oc=5",
-      "domain": "newyorkjets.com",
-      "seendate": "20261116160631"
-    },
-    {
-      "title": "Culture Syllabus 101: Music that moves",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5aGxFS2w5NDlBRWhMSm5vb1BJZE9tTi1XYkY1cjJDSzA5Q3JtRTBEQVVUTHA0LVFTaW9lWGhpU2czeWNrMnRsQjdFRHByVHVRVmlUSXJjWUhFQ3hwbm1ZU2VTMVBrUzFzRUI3T2ZnVEE3dHR4eXcwTEM2MmtyclE?oc=5",
-      "domain": "ucsdguardian.org",
-      "seendate": "20261116164258"
-    },
-    {
-      "title": "Taylor Swift Ties Grammy Record for Consecutive Album of the Year Nominations",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNGN1aGNraDJBZ1pZYTJIdHY4X3VVZVlIWUxlN1B4cFBlUGljRlQ4em5mNU96Qkt0OFdJVkkzM0RMcjAzRHdfVlBGaHJtVU90MGtJcE9OQ0pvaElsdHNaazA4d3NzNmc3Y0VnTDJET3RQWEQ4NGJjM0liUXZEUC1CX3gwLUhzQzVPX01Fb3NaTld6RXlQWVdfUUdQenFlZw?oc=5",
+      "title": "‘NAZA’ Filmmakers Grateful for ‘Light Being Shone’ on Their Film Through Awards Conversation but Prioritize Impact: It’s a ‘Small Cog in a Machine of Resistance’",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX2lGZEYzOUw0enZWMllybUx5dF92YlZZQVNZblEzU0xQb3pJOHVfbjRyS0dQbTZWYWJQbThNVkxvS09WNklXbmFpckxtUzJNVDlKaVFnQWRIdEE3U002cVNKdFcxcWxxanpDdDRzSUdVZXZWdlBib01CaVp0ekNRUjNPUzV2N2JFVV95aTBrRFFmUGU3Q3BJLVVLUzB6eWVK?oc=5",
       "domain": "variety.com",
-      "seendate": "20261116135100"
+      "seendate": "20261116223200"
     },
     {
-      "title": "‘I have to sell my bum on OnlyFans to go on tour’: Kate Nash on fame, feminism and fighting the music business",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUUyeFZrWTBUMTI0WnpzdE1fT2pNWVVuQ1dUOE41cE5HVkI0RVA4R1dOdXNYaUwtVUdodDctMnVGa3htTUVVcm14X29Tc2dybGVtQmJSOGtVNndxdTU2OGduSFpIUm91QzY5MG1MeFVfb1lUMV9jQ05oM1hYYllyTTJYdDFsdWV2V01Ucm41TDdTc3gwV0xMRA?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261116140200"
+      "title": "Robert Pattinson as James Bond Proves That IP Is No Longer the New Movie Stars",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFRSVjNzVC11UDhLSUhtRXJWNHFoZDEySlBBN1RsUGNkdnYzR01TZTdpWUZVWkZ0RlBWbVFaMXRvYjlLWm00U2lwWUJ0Y2hhOS1Gd0JTMi1PYTVZUHdBRkkzT2xQbzAwQTFpeXhQUjA1RUYyWG05LWEtN2tNN1R6aEkxa3k5NF96bVBTcXBETnVNdGdmLUpQMEt5b195ZDdFcHNNOHF0TWcwcWtvNmxyeVFxSWRLdw?oc=5",
+      "domain": "indiewire.com",
+      "seendate": "20261116210000"
     },
     {
-      "title": "My Response to The Strokes Music Video",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcjhQNGU4UWFRTHB3SjRNVTVjS1lTQXcyeExtclYzLUNGY0NiYmNDSmpnUkM2TW9fb01JTVNFYjN1OW53ak84dVd0WkZCLWxWMktSSTdoa2RZZXRuamZ1dHl0QWZGd2RZNHNQeUhWQ3k3UEFjbWJRaVFPUENzRXRIdXFTc0Y3M3hmazlrLXpR?oc=5",
-      "domain": "theneedledrop.com",
-      "seendate": "20261116140950"
+      "title": "Disney actor says he and co-star quietly leaned into stepsibling romance onscreen",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTm9tOGlvdkhFX05sMXpscEE0REM0NHd6RjBnVnZUZjQ4cXpuOHlQaGdMNG1MQ0pNZENjSHdvczIyTUNwMmVtOGNLRTMtYkZmdFlTN3kzbHNWMElNWUR5ZmlpbmFXbVd4d1hTWFRtdnQxbUd3eXdMZUxicVIwY1V2UnR5bmY3TGZPeURBN0pLNGVvRmctdFY2NWY3cG9pQS1saVFGVzJWaFVzcVJVdXNYcGtCV1FvZUNJTTZPX0tHLUNhdlRWMXFZejBhNDF2d9IB4gFBVV95cUxPM25mYlVPcERqNGRiaGYxOHNTT1JkaE5hMXh2MVBYejB0SmVXWHl3RWw0V0hWSi1YbUV2RVM4X0pNeVlJSEVjaktwMnlrcFJnZGlxLUdtOGhGaDNLanUtWXlVQkIwWkV1WEZ2MnNtcDM1bTNjMXQtLXJzTmRtaUFfLUJ1QThmdlVyV0lCYTFtRGRiSEJWZmN3YmF1bmw0X2hJYk5WNFJBV2FzRjZ1dVlFai01dnNDU0RsOGJsZjgyZHJqVFg0LWpSRC1jb1hxT0RfSmFMZ1VROS1TQVVzblNReFRn?oc=5",
+      "domain": "syracuse.com",
+      "seendate": "20261116213900"
     },
     {
-      "title": "How to Film and Edit a High Energy Event Sizzle Reel",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2EwT0RYd2UxT0I0aUkzcFBrNnF1Zm5KRGI3c0lQbVY0VzBPRU5mc0lMa2ttY3NWcWZOZE5Bd1F4bll4aF9rbVF1LTRiTDRueVl6OWJtYUQ0Wm42a295Ulpuc3FSWnc0bThrZkkwSndRS19jN0RwbW5TaHFqek01VmRVdFRFRDE1Y2lYRERkQQ?oc=5",
-      "domain": "petapixel.com",
-      "seendate": "20261116150421"
+      "title": "Tiger Woods-led PGA Tour path overhaul is official. Here are the biggest changes",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNmdSTjl2dngwRjZkbXVNWTJldVNZaUtfS1lqT1EzUGw2WGU5TWpuajQ2WlhoQm55NU96bVZOTG5CaGNVeE5wODZKU3dCOTRxSHRPSkx5Mnd5ZmRDMVJuOW13UUdsQmp2Y2hDa28zMjg1QzR5OXQ4bDFYRlhVQ195UHV3YkNmX3Q0QTNuRVRQWjVWQXpkczJXeEZNZVFJazdGUElfMlR5dFhNaVdENWJXUmFVck9ON21qVWk0LVYzT1htanhUN2NnM3NzRzF0aC1WM0tXWHdHV3d2dU9IWmI5UVJjN0lGay1kci1vOA?oc=5",
+      "domain": "golfweek.usatoday.com",
+      "seendate": "20261116221200"
     },
     {
-      "title": "Photos: Highlights from Pope Leo’s historic, 12-day tour of South America",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDZUanZ5VHY1clo3UlZyOURxV2pBb2dTUnRXZHRfdVZzLU5sc0NyVENBeTdDN3ByVmZIak1UQ1A2d0dOTUFGcGstNHp4clNWLUp2M2U3TUVscFp5YnR6U2JtYkV1U2VDU1VQeDhILUVMQ1V5SzFIS1hBZkJicjk4cXhsYnJWUlY0eGlFbGJJMXhuTmFSNVFmTlRmZ2lsYmRFUDdYVGhhWE95ZnBkV21nVVB3aks3bXItLVE?oc=5",
-      "domain": "nbcnews.com",
-      "seendate": "20261116160233"
-    },
-    {
-      "title": "'HERSHEY' movie holds special premiere at Milton Hershey school ahead of film's release",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDU0WVdLaFQxeWEyYlZ4MDFiS1hfcjFXb01tVmduQUxjTE8tVWZIN05CeXJsZHFLMTJ5dVNtcGtXa3llQUpfWDc0QW9Lb0RMWWZ5V2ZuWU9LV21XenZyWVk4dFZCT1JMeGxaNUktS01rSl9Xd0dZLWJuUG1XbnF2d3lSVy1ZWTBGcENhSFB6b1RvTkFyRDV6M2JjSzBaSGlPTHEtb9IBqgFBVV95cUxQYWk3S3JfeDhvSEg0RXVvUmR3UzNxNG5GNGs5WnIyTUwyUlRtX1U0bURBRzVzVTJ4alFsMDNQMFZ5QTRhamZFZ08wZEtYRVBuSEJDOUlLZUpQT0NFRTV1U3Ffb0xNZkZkRk9senhqX1ZkWWdHQnJuX0lDRXQ2bWgwWjV1eU5YWnkzT0lLamJTOVd3cUxCWjhscTJRUDEybGRyT1JMd0g0aVVYZw?oc=5",
-      "domain": "6abc.com",
-      "seendate": "20261116155724"
-    },
-    {
-      "title": "Heavy metal royalty Megadeth announces Columbus stop on expanded farewell tour",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemJRZkk3VkQtOUpRMzY4M1pZaG9fZHgxVU1sU2IxcjhaVS1PWkpiY2w1Z0RnSm1CVUU3T3BZV0RVX1N4eXBMX2ZwaGI4QnVxTVV4NHk5eGl3VDNJMDhLYmF6d2lCVzY5NFprUnBxV2tKVmRFREJBR3VNMWphdFRaekM3REJYcjJ4dzM3YmFDeVZ1Uy02RXFoVTBVT2hjVmdEaWFpZUo4V2t4NDJZUXRaT0ZFekNLbTUzYjRXMVV6Qnd2QQ?oc=5",
-      "domain": "10tv.com",
-      "seendate": "20261116160600"
+      "title": "PGA Tour Boards approve Future Competition Committee's final set of recommendations",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORTFiWUhabkVMemFIR3JYNG0wYXlpSktBNXZnT3pnZjV2NnVScVlyQWJ1WGpkeTlKUjZfZkZwcFphUkVQbDhUODlnWmlrRXdmNGV6NlZfRUZzZjB6Q1FvVjB1VW1ObktsN2ZDcDJ0NnZRbjE5eV8xeTdFTDNSSEtFOFlwQzJOVWoxY3hqLTdIYVZmWEU1LWZ3TnBZOUFra0tJd3NKR2dKX0xWRklkaVg4NFRMSnB4QXNNZkJEUm00aTFHamtsak43WnRFYzIwRFpaVkE?oc=5",
+      "domain": "pgatour.com",
+      "seendate": "20261116180903"
     },
     {
       "title": "Raye and Rosalia lead nominations for music's Grammy Awards",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeUNOOHZZRTFXR1hRUXJQQzAzY1RlNVM2UmNtam12RFJTLTAtOFpkSTBRV09yaHd6dXloZmVvRFNWcHI5UDlNT0pkMFV3NzNpWmE3X2ZjcUxodGhTSHFLelBydVBKQzhMYmFXSHJFck94LXRnWE1FZ1Rmazd3U2tTTmpmcktxLXlaTHNTY3UwY1FzeWY2MjRVVGtTVTBVbFJSNzBUaUpwT21Gd0hiOGdkU3ZxNnlmUi1u?oc=5",
       "domain": "reuters.com",
-      "seendate": "20261116150943"
+      "seendate": "20261116203432"
     },
     {
-      "title": "Jesús López, Legendary Latin Music Executive, to Become a Chairman Emeritus at Universal Music Group",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1g0dnc2Umk4MVBORWNkNkFEclBTRnQyQWktLTE2WHFYdGR5UXdNSk04b2h1Y0J5cFJIU1dHeE1yRFJXdUJ2bC1xNEpuZlpqRXVHOUtzOGxoS19sWmNuQW4xR1pGeGsybjhMYl9WZThOVTNtTVEyWDBXTFZROE91Y3VaOVJqQWtGNU5nVlZaaHhId2VNSXRyY1JldE82LTQx?oc=5",
+      "title": "Beloved TV star dies at 86",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVHlGZWlIOEFGREtsdmVKam5Cb2dvVDVuMEcxMWNvQmVldnUwaW5vVWxfd2l2TUNQd1I4aFBCbHVFWlNibVlkMnd4dFJyUTNubGNhcDU2SEJoUDJ0bE1wSkNFV0RDbG5xck16a3ZBeWpsQW5xU19KNXVKV1lMQkpaMzFweXRoaTUxZGVwa190b1F3bkNwVHlSb3RLTFdLR0U?oc=5",
+      "domain": "cleveland.com",
+      "seendate": "20261116191400"
+    },
+    {
+      "title": "Westlife Announces 2027 North America Dates For Anniversary World Tour",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMWd2b2R4U0pqeVQyUU5aN0dQTUppSHhWSTlSR0hvYVU4QlZMSldVTGZzLS1QQzY3NkhJNXprUTlDUEhvZzdXZVA0Mm5LVUlBZXlSYXhYYmxkVUtyVW9YTWRkTUFhZ25MRUlpTmprMjFhTVpCT25XanA4MTlqLTA3a2hJNjExU3lJWlFPSVkyWUhhem5JVjNsR2pUVUpxb3ljMXR2QnR6LWFFQzRTaUdUNnlVYTFEQVQxN3B4X3BrUmd3UQ?oc=5",
+      "domain": "forbes.com",
+      "seendate": "20261117002944"
+    },
+    {
+      "title": "Ex-Chiefs WR Marquise 'Hollywood' Brown clears waivers, becomes FA",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlFRcUhFcWJuTGpXWkZnYWQ4aEtBRzE5YTd1VzQwdk51aFRKQzdnTWllQkd2MXFtN0JHV2pkWGxNc05QYlNfNUpVeW0xaWZOZGgwTXkxSXYyT1hNWFdvWHFjNUY0b1ZESi14NTZCNUNKSk1yN250UEF5Q2plR1BpUHdfc2F1RFU?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261116224230"
+    },
+    {
+      "title": "Robert Pattinson Is Officially James Bond: Meet the New 007 Actor",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN19xZThFWDloRnBBOUFPUDlzTEd5Q1VmZHJvYmVsME95UTMyMm5RVFBVNVVHV0EzSXdkaFZBOHZZenhuQlhSTFVTbFk5OFlEMklDNUg4cVNfRElCRkVnLTlXbXB1R3JDR1BEbENkYWV5OE04cDVuWjhWWFhVd3haRjFTS1UwdXJEbDFPOQ?oc=5",
       "domain": "variety.com",
-      "seendate": "20261116150800"
-    },
-    {
-      "title": "Megadeth Announce 2027 North American Farewell Tour with Anthrax & Kerry King",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVUxXR3pSRlRTUGxJZGlGQmUyRkFuVnRqOGhzOE9MR0lyVndGY0VmZS1vTUdhUEtWOUp2MlAtb1htdUFpZ2VSeXFraTdRa19MX2RDZ2x0bzNzZy1XMXp4TldXZUFfdVRjazJBNmZtS2wtay1mUUtvSG9OUnhEeFlHcg?oc=5",
-      "domain": "consequence.net",
-      "seendate": "20261116155240"
-    },
-    {
-      "title": "Movie Review: ‘Wild Horse Nine’",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yWkJXVFFHVXpPSHRiMHIyOTFkN1ZsaWR4MmFHeGpiMGlYTWNzbUVMTzhnbGppYXQ1eWpRNk5kTVhYVk5aMUdwX1dHc003NUZWdlc2ejNGSnNEeXFNTk5FdjVNOTk4ZFk?oc=5",
-      "domain": "catholicreview.org",
-      "seendate": "20261116155115"
-    },
-    {
-      "title": "Album Review: Satanic Planet – ‘Dead Deities’",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWNHQTI4ZW1ZeUZ1cURDVTBvYjdCcE9JVVotV2R3el9GZDFsalRud0cwX0lqQTRzM1ZxY200N0ZLTjM0bWpaZXlhV2NRMjE3ZGhGQUE2WlhlRG9veVptdjBtSkhFc1F0eGkxcExnekowdEZRbHVKNGIzV0RMdzdVbQ?oc=5",
-      "domain": "metalinsider.net",
-      "seendate": "20261116152040"
-    },
-    {
-      "title": "Now on Tour: New Scotty Cameron Blade and Mid-Mallet Putters",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUVnNHRwM0Q5bnFjU1JnNmF6RlR1Z0pIX0stMDg5Z2t4Ym9hcEUyQUZyWC1QclpHeVNmcWdxZmdPbVRUX09wRWpnLWNyYy0xVm1DdGxkVmNFSmd4QzJoc2IxbTN0eEZZWEpOeVVoaTZJYWsxMHBWdjVXbVJwd0ppcU4zekJ3ZnhHS0xJeldJSS1wb1B2MUFtWEtESG1PUnRLWmRNWDNVZTlOQQ?oc=5",
-      "domain": "mediacenter.titleist.com",
-      "seendate": "20261116130000"
-    },
-    {
-      "title": "Robert Pattinson named new James Bond actor",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZjR5ZXg2RlV2TktXSjBNTEZsbFR0YWRrNXFpYXJacFpzYS1MT2pHcU9TNXB3eVNGUkh3cVZ1SkpCT1FTZi1ES2FYUDNlamVmbHhtemJadmFNMzZ1blpQcFpkMHdsSGVGWEhjdUFicFc0VWd0UVJfaVNGdEFPTmtheXpkc3NDYUQyTk5hRy1IZ19DNGRZdndLX0VfZ2sxZnpO0gGoAUFVX3lxTE52NmtfUU94SXlYRTJ3NF9UdnFEVlZvVjVZT01NNV9aQ2dBQ3MyRnNXYWhHcE1LUVRBV3RNSXZTbXlBb1JKbzh1UFpoRnZ0UFZOYXN1YU9HLVNsOXlqTjZncHVmNlhWTEVtbktKNDVCdk9RS2RWQVQ0SE9sYmJuZDNsMkwzQUhDNU5zdUtrVE5BYU9lWDZuN2pLQ0U4YXA2c3BjZ1J4WlpXQQ?oc=5",
-      "domain": "nbclosangeles.com",
-      "seendate": "20261116151838"
-    },
-    {
-      "title": "HAAM Music Monday, powered by FVF Law: Troy Campbell connects Austin to the world",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGFTZEV6V0Y2VUlSRTVrQzZZMS1lQWZMNjlwa0pnMXNkN1IweUpfYTFpMDRCdWFwZHlKRlY5MkVwbGhtQ1NMekk4MlZXSDdsU3ZoaFZLNTFUcWd6NzJ6WmZKSTdDX0NVTkt0OVBaRmlzcW9FcmNKU2ppejlJaVdlRUEwN2JSQW9Ta2xRNXdQeUJzeHNmMmZvWEhpOFpaeVFYV3k0MDFvLW91cnI2LTQzMnpyYW9LU0RNTFFkb2tXMVMtZw?oc=5",
-      "domain": "cbsaustin.com",
-      "seendate": "20261116164728"
-    },
-    {
-      "title": "2027 Grammy Nominations: Raye, Rosalía Lead a Women-Dominated General Field",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPczFsYWFadGlISWxuUWYwV2RRMlBzR1hpX1ZwRG1jQ0VmLWJMdmR2blhZZEt2dkJlMGpUTDJZY3BOS1laTFJxS0pJdVByOTVudGtDS1ctb2IzTjhSQUpwakMzeVhaVTJud0poWGZ1OWpRSTY2Sy0xa0ZZN0JNWDloNXMtUloyT3JYVnU1RjhXQ3M4dk0?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261116134951"
-    },
-    {
-      "title": "The Next Generation Of Scotty Cameron Putters Hits The PGA Tour",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGZRWkg1YjhYV2xZVlhpZy1WTkVjMldGUlF6Tk1MWVYwejNraVVxaXdrUUNOeE5ySm52WkRmQ29kdmNBZE5UTmhmWjQ1VVRmMS1JRzh0M21wMmp2Wl9WLV9SUlVLeDhMcGFGc1lJUXZkb1dnS1hHNnNKMUVGNEtSblA3cllFUlljTmZ2SllickNqYUFCSklKZ3dhUHdWU3Qz?oc=5",
-      "domain": "mygolfspy.com",
-      "seendate": "20261116161845"
+      "seendate": "20261116150100"
     },
     {
       "title": "Pope Leo ends South America tour that drew millions with one final vast crowd",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYlBGeldkZGNHM2lkbHVJNkxacnNNWC1BMWpLSlNRLW13YnVTVnBCeFdVMnJyUjV2N21zUWJqZDY0X0FPYmRCS2RXc2o4WVB1cnowWlVJRFNQRTFYbGNvbUtfQlZ4NTJiN0ZUWWtGeDZuemVhQkpBWWZXTlpQak1uSVdHaTgyZEJRTE84OVFlOHRobnpYbnpyTEgxVWplMWJYT0NnYkYzbHBkRkEwcDhaNW1KZm5rZmFLaVhvSWRSQXA5SEdMUTRj?oc=5",
-      "domain": "reuters.com",
-      "seendate": "20261116163459"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdEhOQjhuU0ZORURjWEs4cGhxb183cXBtcEpPenl0RXRSbTFIeXBUTHFITVF4U3pWNFJYSHRLUktYalJMNWdDdXdhcEtxOW9BT1pqc1ZuMVphV0RvNExzNlpTUVBEeVBhZTBHc1Vzb3dka0dCYXdFeERkQVJCdHRKYWlucFlJOVhsRUdUdjhxa0xCd0dvNmJVaVJYcmhvTkFrdjZjS0tvY3h3YzFiaWpZM3FrQU9XbW1yWi1lOUk0ZnNPd01QaU5JTGlHQjI?oc=5",
+      "domain": "unionleader.com",
+      "seendate": "20261116233730"
     },
     {
-      "title": "Killer tunes: how Grand Theft Auto conquered the music world",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0tMcGJ0bHlIeHZQTE81RFFXQkRCbTMzZ2tIYXNVVFJkdzZqVFRLS1hOcWM4cnFrTkxLdGM2cmhsYV84R2V4TjRHX2RKbkJzV0NUQWRqWE03UkhXd29kS1lsUmZyM0oxb0xHV2V2UEZwVVppS1gzc0E2YWRwVm05V2VabklNZEdGSTdGRmswSWcxQzBjTjlSTHRnWHkyc3ZlTTNyVkln?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261116160800"
+      "title": "Megadeth expands farewell tour to include North Little Rock stop in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVduOUdSX1FsaGxQMnhhX0sySG5veDhwdzRZVlBOc2lWV3k0TkI1SmFobElUVGZkMGRjUXRRZUtHZUR4SURLbURRV0JMTG1oeEdRRnJxQUIwbzR4cmpUel9sazdXbTNXenFpNlhGdmQwYzk2aEU1WlJjMFEwVGIxdmZvQ1haWER6dlRGQW1CSW9jajFJaTBRTW84N1E0cUZ2M0E?oc=5",
+      "domain": "katv.com",
+      "seendate": "20261116235136"
     },
     {
-      "title": "Ruthie Foster & Pat Metheny Earn 2027 Grammy Nominations",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQVcxV1JqQWt2WWZKS0QyX0Ytd2tMclFBQlg3VzJUdURHa1FNRHdrQU8xNmo1cURkYVpSR3dhQnlqYkJwOS0tN2tfRG1DSWh1dkNYT2FoWmNVOG1PbTFtS0MwdEpoYjFScXM3Vk5UeVJXS0gxa2x5TVB5V1NJb0s1UTYxMW5DUQ?oc=5",
-      "domain": "primarywave.com",
-      "seendate": "20261116164727"
+      "title": "PGA Tour CEO Issues Warning to Former LIV Golf Players Over Potential Return",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOazJxQVE5d01Za2JYdTNmUVhZLWRqYVl6ZDh3NDFLMVJRQjlVR2t0cGJsYU0xQktHTHUxZFRqa0RVemxQMmJ3djFXNXJhMS1zb3JZUzg0TW02MkhGSEczUEJxVGh0NWFfRG9OTG5jUVFJSnE1dE9YclIzZ0llTHZZOUh3?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261116235106"
     },
     {
-      "title": "‘Star Wars’ actress Tina Simmons dead after 60-year career",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYWtFWGpEQlNMNEcyQWJpTUJTMlJta3QyN1JTT1p1TGNMNU1OdERmeVhHbHBCa3JreFVmb2JSS005aWlLdWthRnRGOXhSU2ZneUVUUVNEN2cxVk9HR256ejVvTmpfMi1rLWthanAxYUN5ZWtYUXc3cUwybzMzVmM4UUZFSUFGd2c3SUE?oc=5",
-      "domain": "pagesix.com",
-      "seendate": "20261116134500"
-    },
-    {
-      "title": "Toukie Smith Has Died. She Was an Actress, Model and ‘T.C.B.’ in N.Y.C.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EUV92QXhFTlh1dS1JNXNrS0RTWXBkSVRHRXhNV19wX3JnTmZxOEh1anhsLWlIRTZtMy1HbTBYNksyTUxMdU5VcVpGdnMyRzNBUTh5Tlhnc1Y4QnpCYjc3SG5WRy1qT3pNalZmc1FwRDh4UC1PTUtaLTNBM183dw?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261116161540"
-    },
-    {
-      "title": "Hollywood legend mourns death of beloved co-star",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGNnaHJuRTNWeUtGbDVhX2lPeEJZVjZPSm9zbEQ0UG93dUNjS3UwMEkwaVRzV3E1aVk5bjNFOVc1a25vNkdLNU43TGt0QzZteHkyMDFMbTZ1Wno5Slprd1lFVk53VnN1dnVFQ0puQ0xMSzJNRXhpckZCZGJvVGpzRG9oZ3FaSXlsQmdPckttZDhWUjBXWmsweUtaeXBETzU1VlBB?oc=5",
-      "domain": "cleveland.com",
-      "seendate": "20261116151800"
-    },
-    {
-      "title": "Dual Oscar Winner Christopher Hampton Calls Glenn Close Honorary Oscar “the Least They Can Do,” Says AI Is Just “a Super Google”",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWtfc3ZnWENWUXdhVFljWVIwOENHc3FkZGcxV0dOdzBPcmx6WEozZm5qLWJxYVI4MVhzcS1vV1JGZndVU3E1di1iNHZ4bTVRZjlNNGc5cUVoenFyQktaMmRGMVlhRm85UksxMFZwU1FNa2RWeW5BM1h1N1dZMGJ6aVc5TkFuaFh4X0haZWlGcGhkd2lydG12dExmTmZQRUFUbGF6Sk1fTUJsZXNCV2JIUA?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261116162759"
-    },
-    {
-      "title": "Grammys: Michael J. Fox, Tim Curry, ‘Wicked: For Good,’ ‘The Pitt’ Among Hollywood Nominees",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd0tvbWNtZ2pETWxpWWRwYW96bm41dmJCLWJkQjNFYUFKSjlLS0E3ZUcyU3ZKV1Zhb0NVZ0Rfa3VhMVFjdzJhTFh2Y0pvR0dkTEgwTVpDLWJkQ0ZoSjh6NHBMT3c4MVRxQ0lJYjNyYm9KdFlvMDVhOEdmc3djMEo4R29EakVtaXVvT1VpYW90cHJZUjhDWkRWdS00OENmWUZnUUppR3g2dTU2YTRnRkQyU09RY21KUWc?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261116145123"
-    },
-    {
-      "title": "Presley Gerber’s Hollywood Hills Home Hits the Market for $3.6 Million—Nearly Two Months After His Death",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmhBc2E5c1VpQ0lzUmN0ckRJc0N0RWptUmtTQjBzVHQ0bkh0SERrTW1wY2lCbUNZbGVUbDhVVG82SkR3MllpeDIycUFIR1h3U3JnUDN1Y1pKaWRBSm9kUk9KMk90ZUxYdmJPSUVtQjFkT2dZaTFlR19hc3NqMnJlMXJBaUtkX0FzREZVUEFlY1liQlkzdXdta3ZOMXpIMG9WU2xnN0V0UlNSSzhPa0xKa2RQWkZkVC1nZ1Bv?oc=5",
-      "domain": "realtor.com",
-      "seendate": "20261116151630"
-    },
-    {
-      "title": "PGA Tour Champions, Principal Financial Group announce three-year extension of Principal Charity Classic",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQY3ZoNHFBVHJTMFpNZm5mcTBBeEJwOUwyc2YzLTFKTGJfbEZ5UVo1dGo5UTVCOTNYU09fMEk1TjFpYXR5NTNUVV81TU9rb09zNEpKamRGekpScElLRHl0TmRPdFNVbi1UNUNmZkNUUmpBMU5hMVNRazBmaWN1Z01JbTVzaHFRaWJ1RlF1T3c0elg3aUN2ZG1SUHVTSkJyeDM1YTlLYVpvZExDMy1xT1FmWFFKTFFNd1J5YUlRWUpmdDItdktSc2ZtXzlVVEpQNXhJbjdsQ3MtMENXSVUtcWU2Wk5oamtrMUZkX1NvYXcxdmxKLXN2RHJrMVhHQTN6YS1wRTMtMW1POA?oc=5",
-      "domain": "pgatour.com",
-      "seendate": "20261116143957"
-    },
-    {
-      "title": "Jesús López Steps Down As Head of Universal Music Latin Operation",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSS1mUUlDamRralZ3NzdJcnNhS0hBa09lOWNHRTVkSzQ5XzVuSThBX2Jid2QxaDRlVmZWQUE4RmNoSnJqU1JETjY0dkh1Y1hobVhWUlRhcW0yZTZ3SElIN0NsdnpyRE9ZdHFMNm5vdjNPTi04Q1VUS05iZDBRQm5XNDZlMG1BZlpYYTBmRnZB?oc=5",
-      "domain": "billboard.com",
-      "seendate": "20261116150049"
-    },
-    {
-      "title": "Celebrating Pine Islanders: Kendra Singer - www.pineisland-eagle.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQVlkWjQxeGVKSjdMTFVWemhydENBTURQbmVGdVBLZ3U1WU9YUlNBak9KeTk4a09DaExLenItcC1YZnlWR2staUlmaUFNbkwyNVVmZi1WZnRLb0dwWjhNNzd2R0ttSi1sQlVtMmd1US1sLU5fQjdVMXJsYm9BYzYtMnIxRW9MNEF1THlHdHZ5VGI?oc=5",
-      "domain": "pineisland-eagle.com",
-      "seendate": "20261116164058"
-    },
-    {
-      "title": "Megadeath bringing farewell tour to Simmons Bank Arena in 2027",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYkpMRHhXLV96WVNZZ1Q5NXdoWUJ2ck1FV09Yblk2eVluQ3N6dWRkRktOU1RNbUEtemkyZm9TTHBHN0wzVnlVaWpKaDF2NTBVaUpOckNiLTJJWkNUUlVZQ1Z6bTNITGtpbXJ0aWVZSzh0SnNBSUJtWjZQbG55MWdGTFlZOTNPbWxHdHdWNEtsQTc4ejlyZ3BjZzVKUGdvSTlQU3ZVNEN3?oc=5",
-      "domain": "kark.com",
-      "seendate": "20261116163033"
-    },
-    {
-      "title": "The Coach x Spotify Tabby Tour brings music and self-expression to UNC Charlotte",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLXFsMzlUbXNMWlVyZDU1M2hzaWlvTTFnak1Uc2Y4S1hIeVd0aXpJalRRRWVvZE5zRDlMNjVzVGM3MDdfemI4Z0dvNW1MRl9Ebi01NG9GLW9HNHhlaExISHlBeVRqS1Z4NmJCbEUxY3NSVzQyLTNiRFctNTByemFJNnRrMTEwRGZvSk9fY1hFelluNV9fbHJhR3ZkeUtLaERBTTVTWjZTazE5dGVFQVpaekE3RmVWdi1ldFVmWDZ5TWN0Tlp4WXI5dGpnNXd2a2JGbWUydVUtN2ZrZXJNSmpNeTByOHdMbjIxcmNadTVGZ1VWN1Fo?oc=5",
-      "domain": "ninertimes.com",
-      "seendate": "20261116153000"
-    },
-    {
-      "title": "Casting James Bond Was Easy. Finding the Perfect Villain Is Hard",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnJjc0k4ajBDdms0aUp2SUhfR0o5aTNZRERmbnJRRUZWaXZ0NFNqMDRlaG9qRVZoWk03LTBlV0h4Q2FVNEQtdE5idFJqaGJrVHdkSEI5a3lEeTJMckpxajQ5Wl96cUlqN3dJeUxSQ3J1TmN3WGNqMDkyc0JBVktTekFrZjBDTDJzWER5Ml8xR3hCOUtSLUNoOUhTb0tkdmw2?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261116160059"
-    },
-    {
-      "title": "Melodic Music Monday: November 16",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUVpPRUsxWXpTNUE4eGFsdFYwS0NtZXp6ZlRYX1hWdmd0UENPaldlb1VLakE0aFBHNzNjdDJNYWZoQVJab2NaenJrbnRfYU16bERzdXkycjdSN1ppczh4WmxDOGZrLVpyRzB5dXJuQnZUbnkwakhrTDM1bk55d1R2VDlsWUJVR2gyakY4STh0VQ?oc=5",
-      "domain": "melodicmag.com",
-      "seendate": "20261116161401"
-    },
-    {
-      "title": "Watch: Rob Thomas Reveals The Singer Who Was Supposed To Sing On Santana's 'Smooth'",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUQyaDJsQ2NZcEtyZWZVY29RQ2FGUHJ5UTRELWtzbzRBcEZqelBYa1ZITlhENTBxYUE1M2pSRHAza3JzUlAzY0NqQmRXUUx2SU1rQ1U0X05NMkJHV3ZsOERWbzRYRkI0eGp1Zktra2xNdHJycU0xMDRKNnNCNzE1eWtkOGVsSDE0NmU3eUh4ak5OWl9OeEhpWVVXRW5QYXgtcFIwNnA3Zlk3NmVRMzBFeFd5ZHJhNjBUSF9Zb3ZEblZmQ2hmLXc?oc=5",
-      "domain": "alt987fm.iheart.com",
-      "seendate": "20261116161100"
-    },
-    {
-      "title": "Robert Pattinson named next James Bond, becoming seventh actor to play 007",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQkF1eW15Wl9rbGlzMW5mTFloZTVnYm9udDdMbUNKbk5GclV1Zkx6eks5TGNpNDFyY2tQdW4yX3VfbDIza29pZ0VmYzE1a3ltWEZXTnBHQ1VXQk1vcnFxelR0MFJmUDk5bEdnTkJrUnlSbXdxZkswZEJka2dwZDNYTDY3Wnk4eVJXLWIyUXhxU2FnNXladXNtX202TDdQbHlBY0toQzVGZ1Zna1cyWXhkMEl0bmUyM29SN2xzdlU4MUc0T2hQTjlvbjdZdWdrdkRGVXY0Z0owYlZaaGZOR0JxZjlzNXJ2QnR3Q0ZtLVNVQ3pZU2FHaHBOcWxNV0djem1E?oc=5",
-      "domain": "thenationaldesk.com",
-      "seendate": "20261116152427"
-    },
-    {
-      "title": "Megadeth, Anthrax and Kerry King Announce 2027 North American Tour",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pRVRURG9PN3NScjc1ODA0bVNoOUZrVzB5ZjljYW5Jd1BBaXEzTHcyZFlLYlE4SG5ESHRyS0dBTTFqa1ZCODZidmVlb3ZKTlp3ZGNvWURzRFhoaDg5NjF3ZE5taEhGREhX?oc=5",
-      "domain": "ultimateclassicrock.com",
-      "seendate": "20261116162047"
+      "title": "Driver killed after car slams into tour bus in Marion County, FHP says",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUVBajR0Q1ByUHB1R1VITGlkSTgwX0FXc3ZwUFU4VFZWeEVCajRkTnVVdjJCdGtkcXUwZ3d2dE5tRS1tX1BxOEc3ZzNPc245bFEtaGxCSUw4X2xiU043ZVZ4aFczRVFDQ2xlOGJZanMzV01jdjZZVDJNN0RvNW1rZkdZb0g0RGcwQlVPYUxQZw?oc=5",
+      "domain": "wesh.com",
+      "seendate": "20261116174600"
     }
   ]
 }
