@@ -103,6 +103,12 @@
       "text": "Now faith is assurance of things hoped for, proof of things not seen.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "2026-12-01": {
+      "reference": "Psalms 19:14",
+      "text": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
   "passages": {
@@ -207,7 +213,13 @@
       "text": "Now faith is assurance of things hoped for, proof of things not seen.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "Psalm 19:14": {
+      "reference": "Psalms 19:14",
+      "text": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
-  "updated": "2026-11-16T14:00:29.761Z"
+  "updated": "2026-11-17T14:55:11.827Z"
 }
