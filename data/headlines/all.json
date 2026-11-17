@@ -1,367 +1,223 @@
 {
-  "updated": "2026-11-17T00:36:38.966Z",
-  "source": "GDELT",
+  "updated": "2026-11-17T08:42:39.522Z",
+  "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
     {
-      "title": "Challenging TV And Movie Trivia Quiz",
-      "url": "https://www.buzzfeed.com/harrisonberger/daily-trivia-november-16-2026",
-      "domain": "buzzfeed.com",
-      "seendate": "20261116T081500Z"
+      "title": "Trump Administration Divide on China Policy Breaks Into Public View",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNFBkeWJNdWI0X24zalBrRVZwNWVrRENBYUM0NEpiNDZvX3g4Rk9xdkloYy1sRDI3aWFOaVl4cFVwX0JuaU5Eai1DeGRHLUJuZmhndVRoN3BkbEstWlItVHNvNkJtRHFNdGpOSV91V0VVZ2hQdDJjZ3V5c0t2RTRGSm1IMHA?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261117034850"
     },
     {
-      "title": "Corporate reputation management : A guide for modern teams",
-      "url": "https://blog.hootsuite.com/corporate-reputation-management/",
-      "domain": "blog.hootsuite.com",
-      "seendate": "20261116T081500Z"
+      "title": "Peltola expands lead over Sullivan in latest ballot drop",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQllDWGk0S2VIdjVoc2drVXg3NmNzMHBLckhVQlhodHg1TE1wNkVhdWhYbXQtQi13VURrbW00cXIzQ0VyRGFqaWRSS2UzdVNMeWg4M2ZJdVRrd2R3cldLRnhhSG9aYXAtUXB1a0FwRG53X2RmZG1OcDl3T1Bod3liUXhHSzJ2d9IBiwFBVV95cUxOZ1lOOXU5RVVyMHlBXzAxQWhlRjlMMzhBSGlTMXVWUnNrOHRlQ1dxU05ocTdWRzBTMWdyWGRFUUphcFFsd3lzTmRLQXBvM3lKRUVuajNTRmdaQklqMndxS2t2ZUZjb1dBeWF5b3prSWpueEtzN3hqNGlhWDJReFJxMnpSanBiX3owdnR3?oc=5",
+      "domain": "thehill.com",
+      "seendate": "20261117034900"
     },
     {
-      "title": "Travel Products That Improve Trips With Dogs",
-      "url": "https://www.theepochtimes.com/bright/travel-products-that-improve-trips-with-dogs-6125406",
-      "domain": "theepochtimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5",
+      "domain": "cnn.com",
+      "seendate": "20261116225928"
     },
     {
-      "title": "Is Autumn Glow the Next Winx ? Inside the Making of a Racing Superstar",
-      "url": "https://www.theepochtimes.com/world/is-autumn-glow-the-next-winx-inside-the-making-of-a-racing-superstar-6124601",
-      "domain": "theepochtimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "Karoline Leavitt Reveals What She’s Seen in Closed-Door MAGA Clashes Between Howard Lutnick and Scott Bessent",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYjhKb0lNZWJuNnZpYWJvYnU2WTMtaEM3ckF5dXJLWjJLcGgtLWEzcEVwYThmNUs3ZXJJdzB2VXBESzJ1bmt2TmdsbUVjeTY4aWlQRnlKR1RndGhCNkFWbzdaZ2JIR3BzSTZwbGluOGJEWEZQVUU0ZWdVRnZJd2ZIaVRwX291djMxazN5SV9yakVIWXFQNzUyRktxbFdEMjUzcHVva3VjVEl4OVZLNDV2TWwtLWlZS1d2N2tWcXVKbFNiaVlWQTdPZmgwd0JTTHpqYkRjbQ?oc=5",
+      "domain": "thedailybeast.com",
+      "seendate": "20261116173930"
     },
     {
-      "title": "FEMA , FCC To Test Emergency Alert System Nationwide | NewsRadio 1450 / 1370 WKIP",
-      "url": "https://1450wkip.iheart.com/content/2026-11-16-fema-fcc-to-test-emergency-alert-system-nationwide/",
-      "domain": "1450wkip.iheart.com",
-      "seendate": "20261116T081500Z"
+      "title": "Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN19iSlJyallMZlZCWmp3NlFWRWlYa3FIcVVZM2hPMzU2MVI0TnVlZ0hSZFI2N2RZLUQySGdpTmJlaG13X1FpZjU3enhtT2p6RkNuVjN1SllNRzZSYXBYcU9SbkwwOVdPLTRnamFubWVYX19JU2pCVXZLRkd1TVFSSnNRbEY1Q3ZFbnJEUlZSemp0a3RGc2o4UUhTb2dhRVk0ZWd1MF85VHk0d2IwZW93dThfQTA?oc=5",
+      "domain": "kyivindependent.com",
+      "seendate": "20261116222030"
     },
     {
-      "title": "Clancy Back In Court For Possible Retrial Decision",
-      "url": "https://600kcol.iheart.com/content/2026-11-16-clancy-back-in-court-for-possible-retrial-decision/",
-      "domain": "600kcol.iheart.com",
-      "seendate": "20261116T081500Z"
+      "title": "What is happening on Nov. 17? What to expect as FEMA prepares for nationwide test",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeGdLdTNyR0RMOGZJN2JpeEFfeXJfRXBXWG1OU3FPZkVrelVvUnVSaUF0SjVmRzMweXhjbXZlVUpianQ3TU9FUW1HWjM4Q3FxTDlLX3FwbUZtQXRFOWp5dEhxc0RiY1hMWFl4Mm43UnFpeTJQQWMwUFNWOWh3RlNYb2F4a3kzLUVqV0JZc0NFTjA3ZEFrenludXJBLUY5VHJMeEJpSnRCbTVWQWJ3emgtMzZIRlpuOVZ6NE11NmVGdG5HSHFn0gHMAUFVX3lxTFBDRTZPOGdvLVdOQm5mX3VQZUtTZjBhQ2FxbVJ1S2JaTXZmT3pNTFpGRE9FLUo0WWNsX1hKQnBGUVBab3VUVEd5NWFqeGxTQXZ2ZUNWNk1QelNGOFVISlBja05tR2FtRFRuUEI1bERSby1ncUp1R2J4X1NPblNCSUJEcmdoajZ0N0pmVXNWZ3k5Z2s4Wm9wM3ZxbkZxb29SekFsQmVCM2VXT1B0OEdfQUJ5VU4tQ19CQVF0WGNES056aFVJWUM5T2JtSGYxRg?oc=5",
+      "domain": "nbcchicago.com",
+      "seendate": "20261116143358"
     },
     {
-      "title": "FEMA , FCC To Test Emergency Alert System Nationwide | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-      "url": "https://newstalk1400online.iheart.com/content/2026-11-16-fema-fcc-to-test-emergency-alert-system-nationwide/",
-      "domain": "newstalk1400online.iheart.com",
-      "seendate": "20261116T081500Z"
+      "title": "Trump administration's $50B air traffic demand hits GOP turbulence in the Senate",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejVnalQxVlRtempGWUFsVUtDY2I0a2VjT0k4RTRwZGVJQ1JvZ0RxS1lTSGh3TmNkYi0wUXQ5LTcxLUQxaDJ2RFFnTXY5eWR3YnYxRXNnZldISUxEdHlNVVJiUXNWd283MDUyOV9XX3ppRFlEZ3IwWmphdVJoVU9XOTg4SDl4YWg2ZXBhbFNfMm9KVFBwZ3I0RVNnVDY?oc=5",
+      "domain": "politico.com",
+      "seendate": "20261117023100"
     },
     {
-      "title": "Airlines Still Playing Catch - Up After FAA Ground Stop | NewsRadio 1450 / 1370 WKIP",
-      "url": "https://1450wkip.iheart.com/content/2026-11-16-airlines-still-playing-catch-up-after-faa-ground-stop/",
-      "domain": "1450wkip.iheart.com",
-      "seendate": "20261116T081500Z"
+      "title": "NYPD SRG disbanded: Mamdani, Tisch on NYC protest unit",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcGNVVk40aXN4dlBjQUhaSnFvQkxvUWxOZXY3dHBycWRheDh3cEFsQXVWMU81R2xrUzlNTndnRE5YWjQwWEtfUFB3bkZBUzRwQjlVSjU5bHFKaUF3STdBaUxndUN1V2s1R1lldXhGbnZEN29vRHJsTmhlbVdIR0cwSFprdDNsQjc1YkJGSDQ4QmV2dDNlTktiV29UOWdSNm5HYnpTa0ZURUwtdk81ZGppNHJnd3Q5R0tXTWlndmpwSlB0RWZvSWVYX2V4TFRGcTc5TUY2U1RBTHA2VE5N0gHiAUFVX3lxTE9wWER3dDRBZXZLb1pXUWl2cHNLRkVtc2diU29Xd3pneXJBMm4xTWVfQVMxVm9jR2lVYW8waEtLTG9KNHFIamdyOUJIc1JzRm9ZSGE3RDIzVFVYUWJ4Z3p6bXlpRmRHdTF5Ulp5QjFXUGdTdjZzcjdxLVFrSlV6a2tZRnl0cExva1FGenBTblRXOXRGRjhPamZGc0dmOEE1R0tpWG9rdFd6SHR1cTE2ZEl1NnBuYmhGejNqZDl2cjRKU2VxNlRxcUdEdWVxeTBhQTBWdlFKNGVScUh4SmhvenJ4cUE?oc=5",
+      "domain": "abc7ny.com",
+      "seendate": "20261116185500"
     },
     {
-      "title": "Clancy Back In Court For Possible Retrial Decision | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-      "url": "https://newstalk1400online.iheart.com/content/2026-11-16-clancy-back-in-court-for-possible-retrial-decision/",
-      "domain": "newstalk1400online.iheart.com",
-      "seendate": "20261116T081500Z"
+      "title": "Whip List: Schumer faces challenge from Van Hollen for Senate Democratic leader",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblgzekd6NlRjOGMwdTgwc1lBZWpNRXlydy1BdklydEpibzNhVjEzT1FDamhINE9TV2xiTnozUkhOZV9wY3NrajJRaEppREc4dDc5cnQ1bHBXX2JiNFU3OFU1dzcybzRHS2I5bjI1OVJmeTk2ZHNiczQtU2RrbmxNam1YMzlQbktEc2hKRA?oc=5",
+      "domain": "thehill.com",
+      "seendate": "20261116233300"
     },
     {
-      "title": "Trail Blazers vs . Timberwolves Time , TV & Stream – Nov . 16",
-      "url": "https://kxno.iheart.com/content/2026-11-16-trail-blazers-vs-timberwolves-time-tv-stream-nov-16/",
-      "domain": "kxno.iheart.com",
-      "seendate": "20261116T081500Z"
+      "title": "Band of baby sea turtles swims into ocean after historic California nesting",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQX1Vrdm5Fc3pBOElXTTBDZnhDU3l5dERxT1VHSzFza1VNVkNBaFFoOXZoYzR4NXY0UmlKSGFyeVhINGUzRFlSbVVjWkhVWVVweG1BbXhjSy1kaDJ3bXBRVjFoVExaQ0ZhVGVjNW9FMktkaEdpLVZ6SlhhQ3h3RWJlY2kwd21UQnN3WHc?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261117012700"
     },
     {
-      "title": "FEMA , FCC To Test Emergency Alert System Nationwide",
-      "url": "https://1440wgig.iheart.com/content/2026-11-16-fema-fcc-to-test-emergency-alert-system-nationwide/",
-      "domain": "1440wgig.iheart.com",
-      "seendate": "20261116T081500Z"
+      "title": "Apec and Asean summits live: protests await Trump in Manila, as Xi greets leaders in Shenzhen",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT2RNWmRCdkl4Z3YzQUduTWxkV3F0ZU9TN2NyeEhaZy1EZ2swMG00Y0pfOUVUeWMxZk5zTzZuTkR4RmZrMkdObEJuWHJ0ZDc5RXhzdmpGY1JIM21fZlJ4Q05QckVQTVBTWk9mSklUSXlmUnFuaDB0cVBjYzF5V2RSc05saGJkZUYtMDU3bzhtU25PZjNhTm1IYjdDYS04eW9FbVFReEdWc0hELXlPVGRrX1YyN2F6TEJ4ZjBSSllueU5LUEVmeEFScjR3?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261117081000"
     },
     {
-      "title": "Florida voters push for lower property taxes may force local governments to rely more on the state",
-      "url": "https://fortune.com/2026/11/16/florida-property-tax-cuts-amendment-3-towns-budget-holes-fee-revenue-state-bailout/",
-      "domain": "fortune.com",
-      "seendate": "20261116T081500Z"
+      "title": "Japan scrambles fighters after suspected Russian military planes enter airspace",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYmtCLVRFdzBjenpMLTgyYlNERFZYUHRJdVJxZ1FLcjg0OW5STExmTUtwMkppRU5lY1UycnJHV01jXzBCSWdVOFdpbURCYlNzRWtzeG1KT2JkMEgzbkVxX3cxN0V5bmJ4TUZJbGV0eUxvNTRDNUdEZDJ0YkdLb01ubTBSMDI1UUJGNmh2MFJmNzJnTDVmQWc?oc=5",
+      "domain": "japantimes.co.jp",
+      "seendate": "20261117074334"
     },
     {
-      "title": "China once feared becoming roadkill for Western automakers , but now the tables have turned",
-      "url": "https://fortune.com/2026/11/16/china-evs-tariffs-europe-reversal-wto-tesla/",
-      "domain": "fortune.com",
-      "seendate": "20261116T081500Z"
+      "title": "Papua New Guinea prime minister tells Xi it 'wasn't easy' to close Taiwan office",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHIwN2lBcDlldHBCekdRZ3c1Rk4yOGFXUkNwSVRPNng5TU1uVkI3a3dqdEwzaHZ4VFVaY2FUNUVZa3ZTUDRTTF90RTlmZFp6ZG5IMWZ1TDZUM2NCcVNoRWNpR19PU1MzSDhkT05uSFFBQTBuMTNXcEZlTUgyTHJtRUZqaEJzTjdfM2dNTGlRMnZEMDIzVnhwZVYxaWVxZ0IxVlJuSUpNRHBQQTYxREhsVXFMT09WUDQ3Y3J3QW1GYWs?oc=5",
+      "domain": "reuters.com",
+      "seendate": "20261117052500"
     },
     {
-      "title": "A Parent Guide to Helping Your Child Navigate Puberty | University of Utah Health",
-      "url": "https://healthcare.utah.edu/healthfeed/2026/11/parents-guide-helping-your-child-navigate-puberty",
-      "domain": "healthcare.utah.edu",
-      "seendate": "20261116T081500Z"
+      "title": "Photos: Highlights from Pope Leo’s historic, 12-day tour of South America",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaDZUanZ5VHY1clo3UlZyOURxV2pBb2dTUnRXZHRfdVZzLU5sc0NyVENBeTdDN3ByVmZIak1UQ1A2d0dOTUFGcGstNHp4clNWLUp2M2U3TUVscFp5YnR6U2JtYkV1U2VDU1VQeDhILUVMQ1V5SzFIS1hBZkJicjk4cXhsYnJWUlY0eGlFbGJJMXhuTmFSNVFmTlRmZ2lsYmRFUDdYVGhhWE95ZnBkV21nVVB3aks3bXItLVE?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261116160233"
     },
     {
-      "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
-      "domain": "oilprice.com",
-      "seendate": "20261116T081500Z"
+      "title": "Chase Bank outage sparks issues for customers at several major US banks",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUdtOWppRUF4RGN4cm10aU1PRTZZaWRVVGpoUFJjRFpFeW9BV3hEYm9zV0NMQ0djNDhIY2V6Mm9Zb3pWOXp0cHVjVUljQUdxeFhqdnhJRDRHNklJb0tWOWRoc1dNc1VoLW80Rm1tVl9vaHBjTTBFTGM1T1pIUzVUUW9JN1Q2Vm9aMGRaamdNalRnUQ?oc=5",
+      "domain": "independent.co.uk",
+      "seendate": "20261116215300"
     },
     {
-      "title": "New Hope Launches A$250 Million Hybrid Raise Ahead of Malabar Deal",
-      "url": "https://oilprice.com/Company-News/New-Hope-Launches-A250-Million-Hybrid-Raise-Ahead-of-Malabar-Deal.html",
-      "domain": "oilprice.com",
-      "seendate": "20261116T081500Z"
+      "title": "Trump administration moves to block China from indirect access to American AI technology",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONGJmTGhQa3FRRDZtX3BqVk9SNlc1aHZ1QXZiUXdHMmlmZmdyUjFKS0hrREM1OFRrVDVjUGpSWnZfVTEtdlozVHVDc0h5Rld1cGVKQTFGYzVZOGJMdDNheWdEcFRhakxCVW1xcnQ3VHBzS2lRdWNPTGdtUkNxNVRnT1JUVzVKNzRXUlNuLUtBOVk2REZnZjMySER5NmhfNTliRjZsZ3B5TElrN0JU?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261117074900"
     },
     {
-      "title": "Federal Register :: Veterans Day , 2026",
-      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026",
-      "domain": "federalregister.gov",
-      "seendate": "20261116T081500Z"
+      "title": "Nvidia set to issue earnings report, days after Jensen Huang stepped down - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0NjVnJURjhVb29vT04zN056SkZWOEc5SnpQalpDNHpTdm5MR0k3bV8yRW1HRWNYdmM5ZzBEWUFRNEVVQy1CS0hzSU8zbW8wbVozOHJDSkE4MHg0QnpVZl9pQUw5Y0xMcElzVmtKcHpMY2gxZkMzUkQzNEdBUklpSXdVRDhKbHhWMVMyTExjQkJiNmFkcDZET2x0d1A1RGvSAaQBQVVfeXFMTmtkUk1nN05uYUhjWXFYZmhLaUV0Q1ZsRXQtMW9MMXp5Mk1jM2UtNDdXQ0hyTmdVQVF3WUdaakU5VVdGS2haNmZuTlYtcG1keVAtOHpCQldVUVVpUlN4S2lzQjg1QUNGMGZkaUtSLXI5SktDcHhLRGd1MGtmMVVYU092b2lXUnRNU2pnZ0NndlJqMUViUWF4ZHB6ZVhfUEdseVY3U04?oc=5",
+      "domain": "abcnews.com",
+      "seendate": "20261116222256"
     },
     {
-      "title": "Flagship Pioneering Commits Initial £100 Million to London Company - Creation Lab",
-      "url": "https://econotimes.com/Flagship-Pioneering-Commits-Initial-100-Million-to-London-Company-Creation-Lab-1777515",
-      "domain": "econotimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGFwOTNlbFZZc1BjNzRlMncxb0hoMF9CM0ppM0t1QWhhTk9wSDJzeXRmSi1LWE9aVk1IS1BzR05FNXkyZ2JRanROWjNLMHl4MEV1VHBOWjdaa2VnVUtGXzg5X2JNeGxYdnZHWVI2MXNWNHNORVR0Q3RXOWx2NnFmaElITmFWdUh4MnMwNVVwVQ?oc=5",
+      "domain": "theverge.com",
+      "seendate": "20261116225459"
     },
     {
-      "title": "APEC Reviews China Trade Framework Before Shenzhen Leader Meeting",
-      "url": "https://econotimes.com/APEC-Reviews-China-s-Trade-Framework-Before-Shenzhen-Leaders-Meeting-1777507",
-      "domain": "econotimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkNnb0JyWWVtVWhWbGRSd1QxRDRSZld4aGtaTU82Vzk1Z1hBUzRNd0I2TkFCSmlGaWE2WGRaN09jX1hIZ3p0VXRKZTBoYWg0RVZpVTFOQXBSd0dTc1NGU1ZFMTYzRVNyLUxtRXpEbTk4TTZvZ2RMUkJ5ckI0dTdOY1lXaEtCYnNIVXlwTjE2U2E3RW9EOW9sNzFTeXpDdktmM05iU0N3?oc=5",
+      "domain": "theverge.com",
+      "seendate": "20261116192440"
     },
     {
-      "title": "Jordan Bans Telegram , Citing Cybercrime and Public Security Risks",
-      "url": "https://econotimes.com/Jordan-Bans-Telegram-Citing-Cybercrime-and-Public-Security-Risks-1777519",
-      "domain": "econotimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc?oc=5",
+      "domain": "techcrunch.com",
+      "seendate": "20261116210102"
     },
     {
-      "title": "Vingroup Chairman Pham Nhat Vuong Estimated Wealth Rises $683 Million in a Day",
-      "url": "https://econotimes.com/Vingroup-Chairman-Pham-Nhat-Vuong-s-Estimated-Wealth-Rises-683-Million-in-a-Day-1777517",
-      "domain": "econotimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "Apple Plans to Release These 18 New Products Next Year",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CeEV3UFdkWlR4NWNSTU11RHMzNE5kb2Z0Z1gyR3FxdDVtdEg1d2ltdFlhSzF4ZERqaWcyMkhzaGVKS1NoWGVqNnNKX0ZHRmloaWNONGV4d3B4cllsclZnLXR5VUJQSTE3YVVjRmQ0bnJ3X25tTl9fWA?oc=5",
+      "domain": "macrumors.com",
+      "seendate": "20261116224046"
     },
     {
-      "title": "Euro Trades Near $1 . 1025 With $1 . 1000 Test in UOB View",
-      "url": "https://econotimes.com/Euro-Trades-Near-1-1025-With-1-1000-Test-in-UOB-View-1777509",
-      "domain": "econotimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "James Bond Fans Already Complaining About Robert Pattinson: “Not Alpha Male”",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWlpGNDZPWWwzb01mbmVBNXh4cWduTGFWMmg0aXlxcTFfTHlYQ05xWS1YcE9vdmd0WG9jR2JIakotR3o3UWNwN29GOG5PMzhmRFBOQlBUcHRqS05vZ3hlWTl3azFXVExsUWtPQzNUR0c0cG9Hc1JDSG9KU0laaHpvSndwMUpUQTI3MEFWbzE4ZHNYNlpxa1MwcmtDdHNQVFBObWZCNzZQOA?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261116233529"
     },
     {
-      "title": "Power Grid Profit Rises 8 %; Market Trackers Show Shares Down 3 . 4 % Over Three Months",
-      "url": "https://econotimes.com/Power-Grid-Profit-Rises-8-Market-Trackers-Show-Shares-Down-3-4-Over-Three-Months-1777521",
-      "domain": "econotimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "Grammys Snubs and Surprises: Harry Styles Shut Out, Raye’s Huge Year and Noah Kahan Only Gets One Nomination",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQk5KQUQ3YVhsVF82dm1YU01BelpfcFM5Y0ZHZHFPSWdvUXQyYVJNbHoxd3V0bUo1Vm5HSnpWX2Y5b1FtenEySzdFYTNudVJCd3FtNkZaZUtIU0FqQkZIVVc3STNmSDhlMHhzR0pLdTlSSmd0NHktczVqa25FZ2YyOEduekk4a21iYTJnWUpSMk9XeTM0MWk4b0tkbWtjUEw3?oc=5",
+      "domain": "variety.com",
+      "seendate": "20261116142000"
     },
     {
-      "title": "Upbit Operator Dunamu Reports 18 . 6 Billion Won Third - Quarter Loss",
-      "url": "https://econotimes.com/Upbit-Operator-Dunamu-Reports-18-6-Billion-Won-Third-Quarter-Loss-1777518",
-      "domain": "econotimes.com",
-      "seendate": "20261116T081500Z"
+      "title": "Ray Tintori, filmmaker and boyfriend of ‘SNL’ alum Heidi Gardner, has died at 43",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPakFwLTNKcDFRZWZVTzRwQWNOc3RBVnVORTNadHAzUEsxcFpaZGEtRUZESHFlU0QxSGlCZ2p4Mmp2d1NxaFRkN3UzVW94YV93ZGxOVC1GVG5zMnZOakJ4TV83eHJRbWlTUGdSZUtSMThhSHQxeHpvekdoa240d082djdnSkJoMy1WS0tsRXJOMGlDS010Q3JTUC14eTFZejkyaXp3MzJLeDNhRDZWVDMtOXV0U1JfRTdtcVVKYjgxNA?oc=5",
+      "domain": "latimes.com",
+      "seendate": "20261117032700"
     },
     {
-      "title": "Deadly shooting outside Lindstrom : Authorities release new details",
-      "url": "https://www.fox9.com/news/deadly-shooting-outside-lindstrom-authorities-release-new-details",
-      "domain": "fox9.com",
-      "seendate": "20261116T081500Z"
+      "title": "Lions' Aidan Hutchinson reportedly confirmed to have torn ACL, ending his 2026 season",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnRBM1dheE5NZVc4SmJyRTNsdWRtMWs5c1BURUFSN3V2VVFVRjg0elQ3WkFhamhsUzUwMU9CNTc1enI3amV3N1lITV9QUUpleUhVNWRXZTNCdFdKM3V2bVZOYjBST2FSenhHWGJaY3RaSHpNTzF2bXNhX1l6OUM1MF9NVGFlcFNITVEwZ0F0VGpwbFZRNmM4Mm1VVEo0VFZvODdPVExPa1NOWFN0eVc1cWVXbVg5ZFV4d18ybkUyNVMyTE9iN2JkLXAwdkFBeVp4?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261116232034"
     },
     {
-      "title": "Crash landing : Lions star injured by his own sack celebration",
-      "url": "https://www.fox9.com/news/crash-landing-lions-star-injured-his-own-sack-celebration",
-      "domain": "fox9.com",
-      "seendate": "20261116T081500Z"
+      "title": "B/R Experts Week 11 NFL Power Rankings",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdzBPYmxMa2JQRGc2cXUtWWZJY3dCUGI4dXM3eTk2YmZpckJUMXdtZDRhU3NPZ09Kem5qVEp6WjVDaVdRdDBMU2ZhS0l6Wk1Ja0h5YVcteVNsMjdMeW85MzBoa3Z1emNZN0ZDRGtsMjVFY3FwV05hamVBT0VFeTItNU11eERKME54VEE?oc=5",
+      "domain": "bleacherreport.com",
+      "seendate": "20261117031107"
     },
     {
-      "title": "RAIN TOTALS : Much - needed showers for November",
-      "url": "https://www.kbtx.com/2026/11/16/rain-totals-much-needed-blanket-rain-november/",
-      "domain": "kbtx.com",
-      "seendate": "20261116T081500Z"
+      "title": "Packers’ Micah Parsons Not Certain For Week 12; Latest On Kevin Zeitler",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU2Q2RFlhckt3eXBKaWRLOGdWWXozRkxwZ0JRRi1PV2dKUWdyQUhVM2t4bVlDSWl1VUJlY2p4TTlzTi1DZHVhUmNuQUJDVmFjaEI1QS1xbnJ4RWFUV0h3NmhDclFYVXd4N0pqSTM2Mk9KUUZ4cHktbG45R1ViRGw0YXMtS3ZhZXJrWjVnUFhDb2RpR2Jqekx0RXRzeEd1NERIX0t3dnFEUFlnbTRlS2R4dQ?oc=5",
+      "domain": "profootballrumors.com",
+      "seendate": "20261116211812"
     },
     {
-      "title": "Organizations host cleanup at Travis Midtown Park in Bryan",
-      "url": "https://www.kbtx.com/2026/11/16/organizations-host-cleanup-travis-midtown-park-bryan/",
-      "domain": "kbtx.com",
-      "seendate": "20261116T081500Z"
+      "title": "Rex Ryan politicks for job with Cowboys",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdTd1TTliVFVzLWpBaTU2UURoQVBlMzRSVk41bVotLUtJTmw1UzlQeUJDTjE2RE4yMHc1ZmowU2NOQXhkWXdDMFpBU2loNGFlbS1yM2RHc3VjWXBqa0ZWLXdZZ29wNGJLOTJOTHJWLTdNbmhfNXM0S3FqYVdFZDRFclNvN2ZYSUptbEtIaHg3aDJfemVMZ0FMNnBHZWIwLXZYN2VN?oc=5",
+      "domain": "nbcsports.com",
+      "seendate": "20261117035827"
     },
     {
-      "title": "Son Volt Turns Up The Volume With Lively , Career - spanning Rock Performance at Portland , OR Aladdin Theater ( SHOW REVIEW )",
-      "url": "https://glidemagazine.com/333199/son-volt-turns-up-the-volume-with-lively-career-spanning-rock-performance-at-portland-ors-aladdin-theater-show-review/",
-      "domain": "glidemagazine.com",
-      "seendate": "20261116T081500Z"
+      "title": "Leonid meteor shower 2026: When and where to see it from where you live",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWW1xeW5adXM1SlAyUVl5ZXg5SnNFdGdQV1FhRFgwWHEzZWZhdEVOMDR5ZlE3UjNsNHdlRklXZFFzZGtLTm1aVm9mVWFTcW1Ia3NIV3ZTNlpld1JpamZzeGl3U0pxZzJXN3JaQ3B4QXQydUZUVnRnV3U1NVNveGVhcDQ1V3oyVi1Ld3E3UGdDcktabFFvby0xOTFKTUZJQUpuc0lybXJOUVRHUEQ4WUZGR1JB0gG3AUFVX3lxTFBSWE84blFscDNhQzNBd0lwZXkxY01rTDl4Z3JhN21UdkVRcjBLb1NoQi0wQS1LUEJpX3o3bGhMNHNsWUdIU3NZLVJ2SzFEelZ3RDRad0daRnZucDNqWGpxbHVBRnU3YTl4aXEtbDVHYnBUU2Jub2tncmNnSEJEVzhZMGVWQUMyc1VXTWpiTEpjVzJKQ1hzS0NDcDBkZ2JrMXNWN1BUZG5UVDcybHl4UlB3NFE5N1AwWQ?oc=5",
+      "domain": "aljazeera.com",
+      "seendate": "20261117055302"
     },
     {
-      "title": "50 Years Later : As The Allman Brothers Band Drifted Toward Dissolution , Their Musical Chemistry Remained Undeniable On Wipe The Windows , Check The Oil , Dollar Gas",
-      "url": "https://glidemagazine.com/333183/50-years-later-as-the-allman-brothers-band-drifted-toward-dissolution-their-musical-chemistry-remained-undeniable-on-wipe-the-windows-check-the-oil-dollar-gas/",
-      "domain": "glidemagazine.com",
-      "seendate": "20261116T081500Z"
+      "title": "The first human-made object to travel one light-day from Earth: Make sense of NASA's Voyager 1",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY21ETU1ZUU1rMnhxT2JaV0EtT3dTeWF3a0tCRW5PUTRHendkZ2JOeGJSZmZ6YjZtX0pVWlBmd2dUU0pLWWVOYWVNMXN5RWtfclBLdXl1S2dUU2UzbFZVREY4ME5taW1hNU4xZVhaUXBWQmNjWElKak5nQmMtd3lKbWxyelc3MC16d0FWadIBjAFBVV95cUxQX193M2lUT3Z3VGZfbVFHWjFLZFhvN0s1THU3TTZpQTFmeG9EMTlTM1ZlTUhncUZvV1VDTmt1cG1LYkhlSWUwN1Nza0dsZV9PYmgyUU5wTFlLZ2pJTTc0WEs4WlN1OXZYZnQxZ3Y0aXZzWXBJUmhOZFdPbEl3UFVjdHpsdVNQbnhOLXJEZA?oc=5",
+      "domain": "dw.com",
+      "seendate": "20261116174330"
     },
     {
-      "title": "The fix is still in",
-      "url": "https://skepticalscience.com/fix-still-in.html",
-      "domain": "skepticalscience.com",
-      "seendate": "20261116T081500Z"
+      "title": "Scientists Are Stumped by This Strange Object in Space",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BZzAxQTdBUmY2R3dfR0k4dXV5V1cyODlNeHVrbHl0TExuWFVUR25LRFJhVXltbURhMHV4T1cya2tWbXc4MXlFcDBmdGZZRDAydjdHNDVRODVLbHhmVUlUQTNkTWpzT2pVVkhUMDVBYzM3VFBzX2M5RmRYc0o?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261117013738"
     },
     {
-      "title": "Dodgeball Lafayette brings players together for exercise and community",
-      "url": "https://www.wlfi.com:443/2026/11/16/dodgeball-lafayette-brings-players-together-exercise-community/",
-      "domain": "wlfi.com",
-      "seendate": "20261116T081500Z"
+      "title": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ29uN2J3RW1VN3RySTRzOVdiX21JSDEzTHpqNXROaWxNc1lfZjVxcEd5WXVxUmNyWk5faFpnU3lGRmhUQ0hUdjBjaVlQQkYyTDFTRWZxQmtScjdtVkdLbldqbDZ2NXJGejQwcXFTWUVyRUV0THRSNThINVJadzhhTzU4RG5PNWFLTGFqdFdLOFlUUmxWd0pCUlhQMmk?oc=5",
+      "domain": "finance.yahoo.com",
+      "seendate": "20261113194502"
     },
     {
-      "title": "Frost vs Freeze : How to Protect Your Plants",
-      "url": "https://www.wmtw.com/article/frost-freeze-plant-protection/74434905",
-      "domain": "wmtw.com",
-      "seendate": "20261116T081500Z"
+      "title": "U.S. loses measles-elimination status, erasing decades of progress",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3EtY1JzbmcwVS1OQWZ3dlAzWUNxSmNOOG9WNXRxMzY2R3l6WU1IcWFYQ0VPeXZqVnUzVnF6YUM0WWJYNkFOTU1iSWVZUGRMcnEtSUJETGxoOU9pZnBoMlBzMFBlVjdrRmFyZU8yRWJjU1oxdVFnXzNWQlkxMUsxeFlwSkVKRTR0Y2h5VTFB?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261117004100"
     },
     {
-      "title": "Sen .- elect Kurt Alme outlines priorities for Montana",
-      "url": "https://nbcmontana.com/news/local/sen-elect-kurt-alme-outlines-priorities-for-montana",
-      "domain": "nbcmontana.com",
-      "seendate": "20261116T081500Z"
+      "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUkM0VjZ6TVBKcGwzLURQWG4zNlFkMEJxeDhmTzdMdi1EZUFpbWhhMkM5eVNrdDkyNjUtVUNjc1VPanp5b0pJVjR3d0ZiTnUybm5GUXBnMjk5ZjBlaUJGX2JnLXJVSnZfODJwWGJrY0d6N1VSSDdsSkRfcHI4TjVxY2NQOV84Zzk3dUNjbVFvdnpLSThOUV9QNGZIODRMQTRTSE05dWF0VG0tNmRBdFFHdVlBdw?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261117071234"
     },
     {
-      "title": "Cornell Challah for Hunger Brings Students Together to Bake , Donate Proceeds",
-      "url": "https://www.cornellsun.com/article/2026/11/cornell-challah-for-hunger-brings-students-together-to-bake-donate-proceeds",
-      "domain": "cornellsun.com",
-      "seendate": "20261116T081500Z"
+      "title": "Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYUpSMXZXTnNrZ0Zmb19QYUMxblFRM2YtZnRHaFJpdHhVWS1Kbll2RVQzNlRpTU5QWEdtWkZqeW5GREVzME5ZQlRIOF9DWVV5TlNScDYzSDV5c0o4UTlrR3pFNU5uSzg0R25FVzZMVm1HWks1SVgxbFdfREVndTJtUDg1SUNoeDRneGltWjQ1ZDNweTBBUU1abzg4cUFGYndMbFhBRUpHczN1dU1EZVlFQXJMY002OWFZc1liUTJWNzI3V3kxM2RLMDhTdGJuQ2l6UGVMN2xXam1fcTIycHlhVG5iQlo5bFNWTW1lWQ?oc=5",
+      "domain": "theconversation.com",
+      "seendate": "20261115140041"
     },
     {
-      "title": "The Cornell Daily Sun",
-      "url": "https://www.cornellsun.com/staff/michelle-fanjoy",
-      "domain": "cornellsun.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "13th annual Kraftucky Expo wraps up biggest year yet",
-      "url": "https://www.14news.com/2026/11/16/13th-annual-kraftucky-expo-wraps-up-biggest-year-yet/",
-      "domain": "14news.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Caught between mom and marriage",
-      "url": "https://www.dailypress.net/life/features/2026/11/caught-between-mom-and-marriage/",
-      "domain": "dailypress.net",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Man has high praises for treatment center",
-      "url": "https://lufkindailynews.com/news/local/man-has-high-praises-for-treatment-center/article_0437a387-7741-5d80-9e55-79e785950a00.html",
-      "domain": "lufkindailynews.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Bishop to speak at interfaith service - Altoona Mirror",
-      "url": "https://www.altoonamirror.com/news/local-news/2026/11/bishop-to-speak-at-interfaith-service/",
-      "domain": "altoonamirror.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Toys for Tots Truck Drive with St . Cloud Toyota",
-      "url": "https://wildcountry99.com/2026/11/16/toys-for-tots-truck-drive-with-st-cloud-toyota/",
-      "domain": "wildcountry99.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Mankato bank names cannabis program manager in growing industry",
-      "url": "https://www.mankatofreepress.com/news/local_news/mankato-bank-names-cannabis-program-manager-in-growing-industry/article_248fff94-6765-40f3-b25b-dc91a6a24703.html",
-      "domain": "mankatofreepress.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Lydia Pense & Cold Blood - Powerhouse of Blues",
-      "url": "https://www.k-zap.org/events/lydia-pense-cold-blood-powerhouse-of-blues",
-      "domain": "k-zap.org",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Robert J . Huether - Altoona Mirror",
-      "url": "https://www.altoonamirror.com/obituaries/2026/11/robert-j-huether/",
-      "domain": "altoonamirror.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Taxiride Co - Founder Daniel Hall Dies at 48 , Leaving Behind Australian Rock Legacy",
-      "url": "https://www.superhits106.com/2026/11/16/taxiride-co-founder-daniel-hall-dies-at-48-leaving-behind-australian-rock-legacy/",
-      "domain": "superhits106.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Phil Collins Honored at Rock & Roll Hall of Fame With Emotional Speech and Star - Studded Tribute",
-      "url": "https://www.104thehawk.com/2026/11/15/phil-collins-honored-at-rock-roll-hall-of-fame-with-emotional-speech-and-star-studded-tribute/",
-      "domain": "104thehawk.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Fire Damages Velo Pro Cyclery in Santa Barbara",
-      "url": "https://keyt.com/news/2026/11/15/fire-damages-velo-pro-cyclery-in-santa-barbara/",
-      "domain": "keyt.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Ohio US Senator - elect Sherrod Brown could get an early start in Washington",
-      "url": "https://www.mariettatimes.com/news/2026/11/ohios-us-senator-elect-sherrod-brown-could-get-an-early-start-in-washington/",
-      "domain": "mariettatimes.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Backstage Country CMA Awards Week Host : Cody Johnson",
-      "url": "https://wkml.com/2026/11/16/backstage-countrys-cma-awards-week-host-cody-johnson/",
-      "domain": "wkml.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Glenn Close , Ridley Scott , others receive honorary Oscars for decades of work in film industry",
-      "url": "https://www.fox35orlando.com/news/glenn-close-ridley-scott-others-receive-honorary-oscars",
-      "domain": "fox35orlando.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Thunder get back to winning ; King skid now at 6 games | 95 . 3 The Score",
-      "url": "https://www.953thescore.com/2026/11/15/thunder-get-back-to-winning-kings-skid-now-at-6-games/",
-      "domain": "953thescore.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "GTA VI Soundtrack Tracklist Leaks Ahead of November 19 Game Launch",
-      "url": "https://www.allthehitsb951.com/2026/11/16/gta-vi-soundtrack-tracklist-leaks-ahead-of-november-19-game-launch/",
-      "domain": "allthehitsb951.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Sequoyah Motel Receives Perfect Score In First Half Of November Health Inspections",
-      "url": "https://chattooga1180.com/sequoyah-motel-receives-perfect-score-in-first-half-of-november-health-inspections/",
-      "domain": "chattooga1180.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Flight disruptions expected to last into Monday",
-      "url": "https://www.wlrn.org/npr-breaking-news/2026-11-15/flight-disruptions-expected-to-last-into-monday",
-      "domain": "wlrn.org",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Ariana Grande Cancels Seth Meyers Appearance Due to Scheduling Conflict",
-      "url": "https://www.z96.com/2026/11/16/ariana-grande-cancels-seth-meyers-appearance-due-to-scheduling-conflict/",
-      "domain": "z96.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Opinion : CT voters gave us a mandate . Let meet the moment .",
-      "url": "https://ctmirror.org/2026/11/16/ct-voters-gave-us-a-mandate-lets-meet-the-moment/",
-      "domain": "ctmirror.org",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "BTS , ROSÉ and Bruno Mars Among Big Winners at 2026 Kid Choice Awards",
-      "url": "https://www.z96.com/2026/11/16/bts-rose-and-bruno-mars-among-big-winners-at-2026-kids-choice-awards/",
-      "domain": "z96.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "NMU , KBOCC enter into new articulation agreement",
-      "url": "https://www.dailypress.net/news/local-news/2026/11/nmu-kbocc-enter-into-new-articulation-agreement/",
-      "domain": "dailypress.net",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Could everything be broken ? Grounded jets , Microsoft outage , AI chaos make some wonder",
-      "url": "https://www.timesleaderonline.com/news/local-news/2026/11/could-everything-be-broken-grounded-jets-microsoft-outage-ai-chaos-make-some-wonder/",
-      "domain": "timesleaderonline.com",
-      "seendate": "20261116T081500Z"
-    },
-    {
-      "title": "Hawks shrug off slow start , hand Bucks 10th straight loss",
-      "url": "https://www.953thescore.com/2026/11/15/hawks-shrug-off-slow-start-hand-bucks-10th-straight-loss/",
-      "domain": "953thescore.com",
-      "seendate": "20261116T081500Z"
+      "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONWdWQ1pwSURBT2NIcjhsRkpvZmNMbHlHeDM1STlUamVyMURWWkRDMWJ0Q1AtMGY4cHcxaldOSkROYzYyMjFVUXNfTEhpMnE3WDhkLWk5MUd6MFBJMDRwbWx3NDhGM1I4Y3A2VmhENkREYW5IcVZ0d0puMWZpVEZCdnVldHBuV2s3ZXRNNmNpQTVCNjl5eUlQcVczOEl6RURrdFZkd0JyQ1Judmtw0gGyAUFVX3lxTE1pelhfM2hCR3BubDlDcDVRYWhINlRJczFRWTVLbkpFWW50UTVBZWlISG5IZEVjZ2xSOWV6ZDc2MHBoVDVxRWt1d3E3SlFzVnBudWpaWGpIZVkyalRtWmJxakZIZWpmNFRfaV9hbTBoLUxPRDlRQzFGSWJuMWFzMkpGMGoyMVZHLTlHOVlodE84T01PeElJdVNfX0NMVGR6OG9fNm93UVB4S3lHZkFpamRFZ0E?oc=5",
+      "domain": "aljazeera.com",
+      "seendate": "20261115205535"
     }
   ]
 }
