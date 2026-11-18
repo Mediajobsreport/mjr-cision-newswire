@@ -1,11 +1,90 @@
 {
-  "generated_at": "2026-11-18T08:21:09.204Z",
+  "generated_at": "2026-11-18T17:28:08.363Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 25,
+  "count": 26,
   "releases": [
+    {
+      "company": [
+        "CallRail"
+      ],
+      "date": "20261118T125900+0000",
+      "dateline": "ATLANTA, Nov. 18, 2026",
+      "feed": [
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "prncom_prnj",
+        "APPLE_NEWS"
+      ],
+      "geography": [
+        "GGA",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1785962/CallRail-Logo.jpg?id=OA3086454&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1785962/CallRail-Logo.jpg?id=OA3086454&p=publish"
+        }
+      ],
+      "release_id": "20261118CL00813",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>Integration connects streaming TV, video, audio and display campaigns to inbound calls, texts and form submissions, giving advertisers greater visibility into campaign performance and ROI</i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825646-1&amp;h=2599382154&amp;u=https%3A%2F%2Fwww.callrail.com%2F&amp;a=CallRail\" target=\"_blank\" rel=\"nofollow\">CallRail</a>, the AI-powered lead engagement platform used by more than 225,000 businesses and 7,000 marketing agencies, today announced an integration with Amazon Ads to help advertisers better understand how their streaming TV, online video, audio, and display ads drive customer inquiries and business results.</p>\n    ",
+      "ticker": [],
+      "title": "CallRail Helps Advertisers Connect Amazon Ads Campaigns to Customer Leads and Optimize Ad Spend with New Integration",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118CL00813",
+      "body": "\n<p class=\"prntac\"><i>Integration connects streaming TV, video, audio and display campaigns to inbound calls, texts and form submissions, giving advertisers greater visibility into campaign performance and ROI</i></p><p><span class=\"legendSpanClass\">ATLANTA</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825646-1&amp;h=2599382154&amp;u=https%3A%2F%2Fwww.callrail.com%2F&amp;a=CallRail\" target=\"_blank\" rel=\"nofollow\">CallRail</a>, the AI-powered lead engagement platform used by more than 225,000 businesses and 7,000 marketing agencies, today announced an integration with Amazon Ads to help advertisers better understand how their streaming TV, online video, audio, and display ads drive customer inquiries and business results.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1785962/CallRail-Logo.jpg?id=OA3086454\" title=\"CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing.\" alt=\"CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing.\"></img>\n                </p>\n    </div>\n<p>The integration helps advertisers measure inbound calls, texts, and form submissions that may occur days after an ad is seen or heard, giving businesses and agencies a clearer view of which campaigns generate valuable leads. These customer interactions are automatically recorded as conversions in Amazon Ads, providing advertisers with more actionable insights into campaign performance and helping them make smarter decisions about where to invest their advertising dollars.</p><p>\"A click only tells you so much. If you're a roofer or a personal injury attorney, you want to know whether your advertising is actually bringing in customers,\" said Marc Ginsberg, CEO of CallRail. \"That's been difficult to measure with streaming and video ads, particularly when someone responds by picking up the phone. Our integration with Amazon Ads gives businesses a better way to see which campaigns are driving leads and where their advertising dollars are making an impact.\"</p><p>When a consumer who has seen an Amazon Ads ad later calls, texts or submits a form, CallRail sends a conversion signal to Amazon Ads, where it can be matched to an eligible ad impression and attributed to the corresponding campaign. The integration is built directly to Amazon Ads, requires no third-party tools, and allows advertisers to:</p><ul type=\"disc\"><li><b>Measure campaign performance: </b>See which ads generate inbound calls, with reporting across campaigns, creative, audiences, and geographic locations.</li><li><b>Optimize campaigns in real time: </b>See which ads and audiences drive high-intent leads and adjust campaign spending accordingly. </li><li><b>Consolidate conversion reporting: </b>View inbound calls, texts, and form submissions together within Amazon Ads, reducing the need to reconcile performance data across platforms.</li></ul><p>\"For local advertisers, a phone call is often one of the most valuable customer actions\", said Lily Tong, Director of Brand and Cross-Channel Measurement, Amazon Ads. \"The integration with CallRail helps advertisers see which Amazon Ads campaigns drive real-world calls, texts, and form submissions, and is designed to provide the closed-loop measurement they need to prove ROI and optimize with confidence.\"</p><p>The integration also supports Amazon's AI-driven campaign optimization, including Performance+ campaigns. By adding inbound inquiries alongside online conversions, it provides signals that can help inform automated bidding and audience optimization, particularly for businesses whose customer inquiries often happen offline.</p><p><b>About CallRail</b>  <br></br>CallRail is the lead engagement platform that makes it easy for businesses to attract more leads, convert more customers, and optimize their marketing. Serving more than 225,000 businesses worldwide, CallRail's AI-powered solutions help businesses attribute each call, text, chat, and form to their marketing journey, use insights from their conversations to better understand their buyers, and eliminate missed opportunities with AI that can handle lead interactions 24/7. </p><p>CallRail has grown from the G2 top-rated inbound call tracking solution to include Form Tracking, Premium Conversation Intelligence™ and Voice Assist. CallRail's award-winning platform integrates with thousands of leading marketing and sales software, and offers affiliate, agency, and technology partnership opportunities, helping businesses earn, grow, and build with CallRail. For more information, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825646-1&amp;h=3743769630&amp;u=https%3A%2F%2Fcts.businesswire.com%2Fct%2FCT%3Fid%3Dsmartlink%26url%3Dhttp%253A%252F%252Fwww.callrail.com%26esheet%3D54180049%26newsitemid%3D20250114793850%26lan%3Den-US%26anchor%3Dhttp%253A%252F%252Fwww.callrail.com%26index%3D6%26md5%3D34a60d2f0f3a3e470bdd0513b16b6c42&amp;a=http%3A%2F%2Fwww.callrail.com\" target=\"_blank\" rel=\"nofollow\">http://www.callrail.com</a>. </p><p><b>MEDIA CONTACT</b> <br></br>Madelyn Santaloci<br></br>Trevelino/Keller<br></br><a href=\"mailto:msantaloci@trevelinokeller.com\" target=\"_blank\" rel=\"nofollow\">msantaloci@trevelinokeller.com</a>  </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL00813&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/callrail-helps-advertisers-connect-amazon-ads-campaigns-to-customer-leads-and-optimize-ad-spend-with-new-integration-302943134.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/callrail-helps-advertisers-connect-amazon-ads-campaigns-to-customer-leads-and-optimize-ad-spend-with-new-integration-302943134.html</a></p><p>SOURCE CallRail</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL00813&amp;Transmission_Id=202611180759PR_NEWS_USPR_____CL00813&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "CallRail",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "advertising"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "advertising"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 5,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "advertiser",
+            "summary:marketing",
+            "industry:ADV"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T17:28:15.028Z"
+    },
     {
       "company": [
         "The Advertising Research Foundation"

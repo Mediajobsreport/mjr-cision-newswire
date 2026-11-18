@@ -1,11 +1,399 @@
 {
-  "generated_at": "2026-11-18T08:21:09.204Z",
+  "generated_at": "2026-11-18T17:28:08.363Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "entertainment",
   "page_url": "https://www.mediajobsreport.com/entertainment_news",
-  "count": 150,
+  "count": 154,
   "releases": [
+    {
+      "company": [
+        "Consumer Technology Association"
+      ],
+      "date": "20261118T150600+0000",
+      "dateline": "ARLINGTON, Va., Nov. 18, 2026",
+      "feed": [
+        "CNWCOMP",
+        "CNW",
+        "prnj_cnw"
+      ],
+      "geography": [
+        "VIR",
+        "USE",
+        "USA",
+        "NAM",
+        "NEV",
+        "UWS"
+      ],
+      "industry": [
+        "MUS",
+        "CSE",
+        "CPR",
+        "ENT",
+        "AFI"
+      ],
+      "language": "en",
+      "multimedia": [
+        {
+          "caption": "Robert Kyncl, CEO, Warner Music Group (WMG)",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2038366/Robert-Kyncl-CEO-Warner-Music-Group.jpg?id=OA3086609&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2038366/Robert-Kyncl-CEO-Warner-Music-Group.jpg?id=OA3086609&p=publish"
+        },
+        {
+          "caption": "(PRNewsfoto/Consumer Technology Association)",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1596331/CES.jpg?id=OA3086608&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1596331/CES.jpg?id=OA3086608&p=publish"
+        },
+        {
+          "caption": "Warner Music Group (WMG) Logo",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2038367/WMG_Logo_Black.jpg?id=OA3086610&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2038367/WMG_Logo_Black.jpg?id=OA3086610&p=publish"
+        }
+      ],
+      "release_id": "20261118C2336",
+      "status": "PUBLISHED",
+      "subject": [
+        "FVT",
+        "TDS"
+      ],
+      "summary": "<p class=\"prntac\"><i>Kyncl will preview music's next chapter of creation and interactivity in the first-ever official CES keynote by a music-company leader</i></p><p><span class=\"legendSpanClass\">ARLINGTON, Va.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /CNW/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=4248812964&amp;u=https%3A%2F%2Fwww.cta.tech%2F&amp;a=Consumer+Technology+Association+(CTA)%C2%AE\" target=\"_blank\" rel=\"nofollow\">Consumer Technology Association (CTA)<sup>®</sup></a>, the owner and producer of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=3896079961&amp;u=https%3A%2F%2Fwww.ces.tech%2F&amp;a=CES%C2%AE\" target=\"_blank\" rel=\"nofollow\">CES<sup>®</sup></a>, welcomes Robert Kyncl, CEO of Warner Music Group (WMG), as a keynote speaker at CES 2027. Kyncl will deliver his keynote on Jan. 6 at 2 pm in the Palazzo Ballroom at the Venetian, becoming the first music-industry leader to keynote the world's most powerful tech event. This keynote signals the transformation of WMG into a cutting-edge company protecting and empowering artists and songwriters worldwide through a combination of proprietary, industry-leading technology and strategic partnerships with platforms launching AI-powered products that will allow fans to interact with music in new ways.</p>\n    ",
+      "ticker": [],
+      "title": "Warner Music Group CEO Robert Kyncl to Cover the Future of Music at CES 2027",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118C2336",
+      "body": "\n<p class=\"prntac\"><i>Kyncl will preview music's next chapter of creation and interactivity in the first-ever official CES keynote by a music-company leader</i></p><p><span class=\"legendSpanClass\">ARLINGTON, Va.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /CNW/ -- The <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=4248812964&amp;u=https%3A%2F%2Fwww.cta.tech%2F&amp;a=Consumer+Technology+Association+(CTA)%C2%AE\" target=\"_blank\" rel=\"nofollow\">Consumer Technology Association (CTA)<sup>®</sup></a>, the owner and producer of <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=3896079961&amp;u=https%3A%2F%2Fwww.ces.tech%2F&amp;a=CES%C2%AE\" target=\"_blank\" rel=\"nofollow\">CES<sup>®</sup></a>, welcomes Robert Kyncl, CEO of Warner Music Group (WMG), as a keynote speaker at CES 2027. Kyncl will deliver his keynote on Jan. 6 at 2 pm in the Palazzo Ballroom at the Venetian, becoming the first music-industry leader to keynote the world's most powerful tech event. This keynote signals the transformation of WMG into a cutting-edge company protecting and empowering artists and songwriters worldwide through a combination of proprietary, industry-leading technology and strategic partnerships with platforms launching AI-powered products that will allow fans to interact with music in new ways.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2038366/Robert-Kyncl-CEO-Warner-Music-Group.jpg?id=OA3086609\" title=\"Robert Kyncl, CEO, Warner Music Group (WMG)\" alt=\"Robert Kyncl, CEO, Warner Music Group (WMG)\"></img>\n                </p>\n    </div>\n<p>\"CES is where industries come together to show how technology is shaping what's next,\" said Kinsey Fabrizio, President and CEO, CTA. \"Music is such an important part of our culture and increasingly intersects with technology. I'm thrilled to welcome Robert Kyncl to the CES keynote stage to explore how innovation can create new opportunities for artists, creators and the industry while keeping human creativity at the center.\"  </p><p>WMG is a global music company bringing together artists, songwriters, entrepreneurs and technology to shape entertainment culture around the world. In 2026, TIME named Warner Music Group to the TIME100 Most Influential Companies list, recognizing its approach to AI and its work to ensure artists and songwriters are protected and can benefit as technology transforms the music industry.   </p><p>\"We've been on the frontlines developing, licensing and embracing technology to power human artistry and expand opportunities for artists, songwriters and fans,\" said Kyncl. \"CES is the epicenter of global innovation, and I'm excited to join the stage and share how we shape the future of music.\"</p><p>Throughout his career, Kyncl has helped drive some of the most significant shifts in the digital media landscape. Prior to joining WMG, he served as Chief Business Officer at YouTube, where he developed its creator ecosystem, as well as the rollout of its paid subscription services, including YouTube Premium, YouTube Music and YouTube TV. Earlier in his career, he spent seven years at Netflix, where helped pioneer the company's transition from DVD-by-mail to streaming film and TV content, playing a key role in its evolution into a global entertainment platform.</p><p>The keynote will be livestreamed on CES.tech,<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=1612068868&amp;u=https%3A%2F%2Fx.com%2Fces%3Flang%3Den&amp;a=%C2%A0X\" target=\"_blank\" rel=\"nofollow\"> X</a>,<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=125765961&amp;u=https%3A%2F%2Fwww.facebook.com%2FCES%2F&amp;a=%C2%A0Facebook\" target=\"_blank\" rel=\"nofollow\"> Facebook</a>,<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=558229992&amp;u=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCF1li8L8kClsAZd3r7zK7ZQ&amp;a=%C2%A0YouTube\" target=\"_blank\" rel=\"nofollow\"> YouTube</a> and<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=664116280&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fshowcase%2Fceslasvegas&amp;a=%C2%A0LinkedIn\" target=\"_blank\" rel=\"nofollow\"> LinkedIn</a>. </p><p>Warner Music Group joins Lenovo, Stellantis, Waymo and WPP as part of the CES 2027 <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=1858724104&amp;u=https%3A%2F%2Fwww.ces.tech%2Fattend%2Fkeynotes%2F&amp;a=Keynote+lineup\" target=\"_blank\" rel=\"nofollow\">Keynote lineup</a>. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=1166637877&amp;u=https%3A%2F%2Fregistration.experientevent.com%2FshowCES271%2FWizard%2FLanding&amp;a=Registration\" target=\"_blank\" rel=\"nofollow\">Registration</a> for CES 2027 is open now. CES 2027 will take place January 6-9 in Las Vegas. Details and programming updates are available at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=1023668439&amp;u=https%3A%2F%2Fwww.ces.tech%2F&amp;a=CES.tech\" target=\"_blank\" rel=\"nofollow\">CES.tech</a>.</p><p><b>About CES</b><b><sup>®</sup></b><b>:</b>  <br></br>CES is the most powerful tech event in the world – the proving ground for breakthrough technologies and global innovators. This is where the world's biggest brands do business and meet new partners, and the sharpest innovators hit the stage. Owned and produced by the Consumer Technology Association (CTA)®, CES features every aspect of the tech sector. CES 2027 takes place Jan. 6-9 in Las Vegas. Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=1023668439&amp;u=https%3A%2F%2Fwww.ces.tech%2F&amp;a=CES.tech\" target=\"_blank\" rel=\"nofollow\">CES.tech</a> and follow CES on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=3701133966&amp;u=https%3A%2F%2Fx.com%2Fces&amp;a=social\" target=\"_blank\" rel=\"nofollow\">social</a>.</p><p><b>About Consumer Technology Association (CTA)</b><b><sup>®</sup></b><b>:</b>  <br></br>As North America's largest technology trade association, CTA is the tech sector. Our members are the world's leading innovators – from startups to global brands – helping support more than 17 million American jobs. CTA owns and produces CES® – the most powerful tech event in the world. Find us at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=3279902500&amp;u=https%3A%2F%2Fwww.cta.tech%2F&amp;a=CTA.tech\" target=\"_blank\" rel=\"nofollow\">CTA.tech</a>. Follow us <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=4186164046&amp;u=https%3A%2F%2Ftwitter.com%2FCTATech&amp;a=%40CTAtech\" target=\"_blank\" rel=\"nofollow\">@CTAtech</a>.</p><p> <b>About Warner Music Group</b><br></br> Warner Music Group (WMG) brings together artists, songwriters, entrepreneurs, and technology that are moving entertainment culture across the globe. WMG's Recorded Music division includes renowned labels such as 10K Projects, 300 Entertainment, Asylum, Atlantic, Big Beat, EastWest, Elektra, Erato, Fueled By Ramen, Nonesuch, Parlophone, Reprise, Rhino, Roadrunner, Sire, Spinnin', Warner Records, Warner Classics, and Warner Records Nashville. WMG's music publishing arm, Warner Chappell Music, has a catalog of over one million copyrights spanning every musical genre, from the standards of the Great American Songbook to the biggest hits of the 21st century. Warner Music Group is also home to ADA, which supports the independent community, as well as artist services division WMX. Follow WMG on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=3337527682&amp;u=https%3A%2F%2Fwww.instagram.com%2Fwarnermusic%2F%3Fhl%3Den&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=2133282400&amp;u=https%3A%2F%2Ftwitter.com%2Fwarnermusic%3Fref_src%3Dtwsrc%255Egoogle%257Ctwcamp%255Eserp%257Ctwgr%255Eauthor&amp;a=X\" target=\"_blank\" rel=\"nofollow\">X</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=1268878736&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40warnermusic%3Flang%3Den&amp;a=TikTok\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">TikTok</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=3904036569&amp;u=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fwarner-music-group%2Fmycompany%2Fverification%2F&amp;a=LinkedIn\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">LinkedIn</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826145-1&amp;h=742668252&amp;u=https%3A%2F%2Fwww.facebook.com%2Fwarnermusicgroup%2F&amp;a=Facebook\" target=\"_blank\" rel=\"nofollow\">Facebook</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1596331/CES.jpg?id=OA3086608\" title=\"(PRNewsfoto/Consumer Technology Association)\" alt=\"(PRNewsfoto/Consumer Technology Association)\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2038367/WMG_Logo_Black.jpg?id=OA3086610\" title=\"Warner Music Group (WMG) Logo\" alt=\"Warner Music Group (WMG) Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY01316&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/warner-music-group-ceo-robert-kyncl-to-cover-the-future-of-music-at-ces-2027-302943990.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/warner-music-group-ceo-robert-kyncl-to-cover-the-future-of-music-at-ces-2027-302943990.html</a></p><p>SOURCE Consumer Technology Association</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C2336&amp;Transmission_Id=202611181000CANADANWCANADAPR_C2336&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": null,
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:producer",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T17:28:13.426Z"
+    },
+    {
+      "company": [
+        "The Hershey Company"
+      ],
+      "date": "20261118T150000+0000",
+      "dateline": "HERSHEY, Pa., Nov. 18, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "PSY",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "FOD",
+        "REA",
+        "FLM",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "A vintage-inspired poster highlighting the classic Hershey’s Milk Chocolate Bar, available at its original five-cent price on Nov. 25, 2026, at 9 a.m. ET at Hershey's Chocolate World locations in Pa. and N.Y., as well as online at Walmart and Amazon, while supplies last.",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2037812/5-Cent-Activation-Poster-1.jpg?id=OA3085088&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2037812/5-Cent-Activation-Poster-1.jpg?id=OA3085088&p=publish"
+        },
+        {
+          "caption": "A standard Hershey’s Milk Chocolate Bar in limited-edition, vintage-inspired packaging released ahead of the HERSHEY movie.",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2037814/Vintage-Inspired-HERSHEY-S-Milk-Chocolate-Bar.jpg?id=OA3085090&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2037814/Vintage-Inspired-HERSHEY-S-Milk-Chocolate-Bar.jpg?id=OA3085090&p=publish"
+        },
+        {
+          "caption": "Hershey's Kisses chocolates in limited-edition, vintage-inspired packaging released ahead of the HERSHEY movie.",
+          "seq": "3",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2037820/Vintage-Inspired-HERSHEY-S-KISSES-Milk-Chocolate-Candy-9-5-oz.jpg?id=OA3085113&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2037820/Vintage-Inspired-HERSHEY-S-KISSES-Milk-Chocolate-Candy-9-5-oz.jpg?id=OA3085113&p=publish"
+        },
+        {
+          "caption": "The Hershey Company Logo",
+          "seq": "4",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS926138/Hershey-Kiss-Logo.jpg?id=OA3085054&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS926138/Hershey-Kiss-Logo.jpg?id=OA3085054&p=publish"
+        }
+      ],
+      "release_id": "20261118PH00171",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p class=\"prntac\"><i>One-day offer on Nov. 25 revives a nostalgic piece of Hershey's history, alongside a vintage-inspired packaging collection</i></p><p><span class=\"legendSpanClass\">HERSHEY, Pa.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- For generations, <i>Hershey's</i> Milk Chocolate Bars have been part of the moments and memories people share. On Wednesday, Nov. 25, 2026, <i>Hershey's</i> is bringing back the bar's original five-cent price in celebration of <i>HERSHEY</i>, the upcoming movie that brings Milton and Catherine \"Kitty\" Hershey's story to a new generation.*</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2037812/5-Cent-Activation-Poster-1.jpg?id=OA3085088\" title=\"A vintage-inspired poster highlighting the classic Hershey’s Milk Chocolate Bar, available at its original five-cent price on Nov. 25, 2026, at 9 a.m. ET at Hershey's Chocolate World locations in Pa. and N.Y., as well as online at Walmart and Amazon, while supplies last.\" alt=\"A vintage-inspired poster highlighting the classic Hershey’s Milk Chocolate Bar, available at its original five-cent price on Nov. 25, 2026, at 9 a.m. ET at Hershey's Chocolate World locations in Pa. and N.Y., as well as online at Walmart and Amazon, while supplies last.\"></img>\n                </p>\n    </div>\n",
+      "ticker": [
+        "NYSE:HSY"
+      ],
+      "title": "Hershey's Celebrates Its Story with Five-Cent Milk Chocolate Bars Ahead of the HERSHEY Movie",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118PH00171",
+      "body": "\n<p class=\"prntac\"><i>One-day offer on Nov. 25 revives a nostalgic piece of Hershey's history, alongside a vintage-inspired packaging collection</i></p><p><span class=\"legendSpanClass\">HERSHEY, Pa.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- For generations, <i>Hershey's</i> Milk Chocolate Bars have been part of the moments and memories people share. On Wednesday, Nov. 25, 2026, <i>Hershey's</i> is bringing back the bar's original five-cent price in celebration of <i>HERSHEY</i>, the upcoming movie that brings Milton and Catherine \"Kitty\" Hershey's story to a new generation.*</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2037812/5-Cent-Activation-Poster-1.jpg?id=OA3085088\" title=\"A vintage-inspired poster highlighting the classic Hershey’s Milk Chocolate Bar, available at its original five-cent price on Nov. 25, 2026, at 9 a.m. ET at Hershey's Chocolate World locations in Pa. and N.Y., as well as online at Walmart and Amazon, while supplies last.\" alt=\"A vintage-inspired poster highlighting the classic Hershey’s Milk Chocolate Bar, available at its original five-cent price on Nov. 25, 2026, at 9 a.m. ET at Hershey's Chocolate World locations in Pa. and N.Y., as well as online at Walmart and Amazon, while supplies last.\"></img>\n                </p>\n    </div>\n<p>First introduced for five cents in 1900, the <i>Hershey's</i> Milk Chocolate Bar helped bring chocolate, once considered a luxury, within reach for more people. For one day only, a limited quantity will be available at that original price through select retailers and experiences, while supplies last, giving fans a sweet way to experience a piece of that history:</p><ul type=\"disc\"><li><b>Hershey's Chocolate World:</b> Visitors to the Hershey, Pa. and Times Square in New York, N.Y., locations can purchase a classic <i>Hershey's</i> Milk Chocolate Bar for five cents plus applicable tax during regular operating hours, beginning at 9 a.m. ET in Hershey and 10 a.m. ET in Times Square. Limit ten per person, while supplies last; no further discounts apply.</li><li><b>Walmart:</b> Starting at 9 a.m. ET, shoppers can purchase a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=937231158&amp;u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHershey-s-Milk-Chocolate-Candy-Bar-1-55-oz%2F38253413%3FclassType%3DREGULAR%26athbdg%3DL1600%26from%3D%2Fsearch&amp;a=classic+Hershey%27s+Milk+Chocolate+Bar\" target=\"_blank\" rel=\"nofollow\">classic <i>Hershey's </i>Milk Chocolate Bar</a> for five cents for online pickup when shopping at Walmart.com with a Walmart account. Fans shopping in store can also take advantage of the offer through the Ibotta app by purchasing a bar and uploading a photo of their receipt to receive cash back. Limit five per person, while supplies last; not available for Ship to Home; no further discounts apply.</li><li><b>Amazon: </b>Starting at 9 a.m. ET, shoppers can purchase a <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=1374684044&amp;u=https%3A%2F%2Fwww.amazon.com%2FHERSHEYS-Chocolate-Candy-1-55-Ounce%2Fdp%2FB005PZY56K%2Fref%3Dsr_1_4_us_f3_0o_weis%3Fcrid%3DCKQXHY9HBQE6%26dib%3DeyJ2IjoiMSJ9.crtEBC_DlD_RcZOiLE4nEnYbkIlzoi7DgkmfIUTWthVUw_d-NGhOJ3sodKL3BWlAvTcxoI3QgtYs_o_p92g_P7SgMn8udl68Cughmvw4hzBC8hQb1f2U3DgKrgwweHPk0MR-1aiTYWY7wmVGTLwY16gNG_UZi99qLQ3QfkTE5D_Ym8cvdgbpsqOM7Y9vFykMvwDkCgGtACZLPm3haD0MsNOASsUYWQoccgs9cgnpD5BWDHTUbGT83mGqd-TM077e6KZld7AwSu9WfN1uVJUma5_DbU8-JVdeWOIuUsZ7C44._V6ZmIf_20vKlj1CZKyIjpZgIfqnVyBk6fM7MOBvu1Q%26dib_tag%3Dse%26keywords%3Dhershey%2527s%2Bmilk%2Bchocolate%2B1.55%2Boz%26qid%3D1793651830%26sprefix%3Dhershey%2527s%2Bmilk%2Bchocolate%2B1.55%2Bo%252Caps%252C192%26sr%3D8-4&amp;a=classic+Hershey%27s%C2%A0Milk+Chocolate+Bar\" target=\"_blank\" rel=\"nofollow\">classic <i>Hershey's</i> Milk Chocolate Bar</a> for five cents from Amazon Grocery and get Same-Day Delivery for it (where available), including many major metropolitan areas like Philadelphia and Chicago. Fans can use the promotional code shared on <i>Hershey's</i> social media channels to receive free shipping at checkout for qualifying addresses only. Availability will depend on your delivery address. Tax is calculated based on the customers' total basket. Additional fees may apply for non-Prime members or expedited shipping. Limit two per person, while supplies last, quantities limited; no further discounts apply.</li></ul><p>The special offer celebrates a memorable part of <i>Hershey's</i> history on the day the<i> HERSHEY</i> movie arrives in theaters nationwide.</p><p>\"The five-cent bar gives fans a chance to experience a sweet piece of <i>Hershey's</i> story for themselves,\" said Samantha Siegal, Senior Marketing Director, The Hershey Company. \"Bringing it back on the day <i>HERSHEY</i> debuts in theaters gives fans a fun way to celebrate the brand's roots and the story that inspired it.\"</p><p><b>A Familiar Brand Story, Rediscovered </b></p><p>Behind one of America's most iconic chocolate brands is a history more than a century in the making. Yet while the brand is familiar to millions, fewer know the story of chocolate pioneer Milton Hershey and his wife, Catherine \"Kitty\" Hershey, whose vision built a company, a community, and an enduring legacy.</p><p>In addition to the five-cent offer, <i>Hershey's</i> launched a limited-edition, vintage-inspired packaging collection that brings elements of the brand's history back to shelves this fall.</p><p>Inspired by some of <i>Hershey's </i>earliest packaging, the vintage-inspired collection brings archival details back to shelves, including a historic wordmark, Milton Hershey's signature, and period-inspired typography. An on-pack QR code also invites fans to <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=672108560&amp;u=https%3A%2F%2Fwww.hersheylegacy.org%2F&amp;a=learn+more\" target=\"_blank\" rel=\"nofollow\">learn more</a> about the people, places, and ideas that helped shape <i>Hershey's</i>.</p><p>The packaging collection is available now for a limited time at participating retailers nationwide and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=3955432437&amp;u=https%3A%2F%2Fshop.hersheys.com%2Four-brands%2Fhersheys%2F032284112155.html%3Fsrsltid%3DAU7gw4W9aefvwmSMwKDwxaUn0A8LBpnOzwVQdZXjhpzFAAm32IqL8xWe&amp;a=shop.hersheys.com\" target=\"_blank\" rel=\"nofollow\">shop.hersheys.com</a> across a variety of <i>Hershey's</i> favorites, including <i>Hershey's</i> Milk Chocolate Bars and <i>Hershey's</i> <i>Kisses </i>chocolates, ahead of the <i>HERSHEY</i> movie debut in theaters nationwide on Nov. 25, 2026.</p><p>Fans can follow <i>Hershey's</i> on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=2432074663&amp;u=https%3A%2F%2Fwww.instagram.com%2Fhersheys%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=53970942&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40hersheys%3Flang%3Den&amp;a=TikTok\" target=\"_blank\" rel=\"nofollow\">TikTok</a> for additional information.</p><p><i>*Available at select locations and through select retailers, while supplies last. Additional terms apply.</i></p><p><b>FAQs</b></p><p><b>How can fans get a classic </b><b><i>Hershey's</i></b><b> Milk Chocolate Bar for five cents?<br></br></b>For one day only on Nov. 25, a limited quantity of classic <i>Hershey's</i> Milk Chocolate Bars will be available for <i>Hershey's </i>original five-cent price through special offers from Walmart, Amazon, and <i>Hershey's</i> Chocolate World locations in Hershey, Pa. (9 a.m. ET) and Times Square in New York, N.Y. (10 a.m. ET).</p><p>At Walmart, beginning at 9 a.m. ET, fans can purchase the bar for five cents online at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=3009634272&amp;u=https%3A%2F%2Fwww.walmart.com%2Fip%2FHershey-s-Milk-Chocolate-Candy-Bar-1-55-oz%2F38253413%3FclassType%3DREGULAR%26athbdg%3DL1600%26from%3D%2Fsearch&amp;a=Walmart.com\" target=\"_blank\" rel=\"nofollow\">Walmart.com</a> with a Walmart account or shop in store and access the offer through the Ibotta app by uploading a photo of their purchase receipt to receive cash back.</p><p>On Amazon.com, beginning at 9 a.m. ET, shoppers can purchase the bar for five cents from <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=1052290755&amp;u=https%3A%2F%2Fwww.amazon.com%2FHERSHEYS-Chocolate-Candy-1-55-Ounce%2Fdp%2FB005PZY56K%2Fref%3Dsr_1_4_us_f3_0o_weis%3Fcrid%3DCKQXHY9HBQE6%26dib%3DeyJ2IjoiMSJ9.crtEBC_DlD_RcZOiLE4nEnYbkIlzoi7DgkmfIUTWthVUw_d-NGhOJ3sodKL3BWlAvTcxoI3QgtYs_o_p92g_P7SgMn8udl68Cughmvw4hzBC8hQb1f2U3DgKrgwweHPk0MR-1aiTYWY7wmVGTLwY16gNG_UZi99qLQ3QfkTE5D_Ym8cvdgbpsqOM7Y9vFykMvwDkCgGtACZLPm3haD0MsNOASsUYWQoccgs9cgnpD5BWDHTUbGT83mGqd-TM077e6KZld7AwSu9WfN1uVJUma5_DbU8-JVdeWOIuUsZ7C44._V6ZmIf_20vKlj1CZKyIjpZgIfqnVyBk6fM7MOBvu1Q%26dib_tag%3Dse%26keywords%3Dhershey%2527s%2Bmilk%2Bchocolate%2B1.55%2Boz%26qid%3D1793651830%26sprefix%3Dhershey%2527s%2Bmilk%2Bchocolate%2B1.55%2Bo%252Caps%252C192%26sr%3D8-4&amp;a=Amazon+Grocery\" target=\"_blank\" rel=\"nofollow\">Amazon Grocery</a> and get Same-Day Delivery for it (where available), including many major metropolitan areas like Philadelphia and Chicago. Fans can use the promotional code shared on Hershey's social media channels to receive free shipping at checkout for qualifying addresses only. Availability will depend on your delivery address. Tax is calculated based on the customers' total basket. Additional fees may apply for non-Prime members or expedited shipping. Limit two per person, while supplies last, quantities limited; no further discounts apply.</p><p>At Hershey's Chocolate World, guests can purchase the bar for five cents plus applicable tax during regular operating hours. The offer begins at 9 a.m. ET at the Hershey, Pa., location and 10 a.m. ET at the Times Square location.</p><p>Offers are available while supplies last, with a limit of five bars per person through Walmart, two bars per person at Amazon, and ten bars per person at Hershey's Chocolate World. No further discounts apply.</p><p><b>Is the five-cent offer part of the</b><b><i> Hershey's</i></b><b> vintage-inspired collection?<br></br></b>The five-cent offer is on classic <i>Hershey's </i>Milk Chocolate Bars, not bars featuring the vintage-inspired packaging. It is a special one-day celebration tied to <i>Hershey's </i>history and the <i>HERSHEY </i>movie debut. The broader <i>Hershey's</i> vintage-inspired collection is available separately at participating retailers nationwide and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=3955432437&amp;u=https%3A%2F%2Fshop.hersheys.com%2Four-brands%2Fhersheys%2F032284112155.html%3Fsrsltid%3DAU7gw4W9aefvwmSMwKDwxaUn0A8LBpnOzwVQdZXjhpzFAAm32IqL8xWe&amp;a=shop.hersheys.com\" target=\"_blank\" rel=\"nofollow\">shop.hersheys.com</a> for a limited time.</p><p><b>What is </b><b><i>Hershey's</i></b><b> vintage-inspired collection? Which products are included?<br></br></b><i>Hershey's</i> vintage-inspired collection is a limited-edition collection, featuring vintage-inspired packaging across <i>Hershey's</i> favorites. Inspired by some of <i>Hershey's </i>earliest packaging, the designs bring archival details back to shelves, including a historic wordmark, Milton Hershey's signature, and period-inspired typography.</p><p>The <i>Hershey's </i>vintage-inspired collection includes <i>Hershey's</i> Milk Chocolate Bars (Standard Bar, King Size Bar, XL Bar, Giant Bar, 10.35-ounce Snack Size Pouch) and <i>Hershey's</i> <i>Kisses </i>chocolates (9.5-ounce <i>Hershey's Kisses </i>Pouch, 30-ounce <i>Hershey's Kisses </i>Pouch).</p><p><b>When and where will the </b><b><i>Hershey's v</i></b><b>intage-inspired collection be available?<br></br></b>The <i>Hershey's</i> vintage-inspired collection is available now for a limited time at participating retailers nationwide and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=3955432437&amp;u=https%3A%2F%2Fshop.hersheys.com%2Four-brands%2Fhersheys%2F032284112155.html%3Fsrsltid%3DAU7gw4W9aefvwmSMwKDwxaUn0A8LBpnOzwVQdZXjhpzFAAm32IqL8xWe&amp;a=shop.hersheys.com\" target=\"_blank\" rel=\"nofollow\">shop.hersheys.com</a>. Pricing is at the sole discretion of the retailer.</p><p><b>How is </b><b><i>Hershey's </i></b><b>vintage-inspired</b> <b>collection connected to the </b><b><i>HERSHEY</i></b><b> Movie?<br></br></b>The<i> Hershey's</i> vintage-inspired collection is inspired by the story featured in <i>HERSHEY</i>, the upcoming movie about chocolate pioneer Milton Hershey and Catherine \"Kitty\" Hershey. The movie debuts in theaters nationwide on Nov. 25, 2026.</p><p><b>Where can fans find updates about </b><b><i>Hershey's</i></b><b> vintage-inspired collection?<br></br></b>Fans can follow <i>Hershey's</i> on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=2432074663&amp;u=https%3A%2F%2Fwww.instagram.com%2Fhersheys%2F&amp;a=Instagram\" target=\"_blank\" rel=\"nofollow\">Instagram</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=53970942&amp;u=https%3A%2F%2Fwww.tiktok.com%2F%40hersheys%3Flang%3Den&amp;a=TikTok\" target=\"_blank\" rel=\"nofollow\">TikTok</a> for additional information.</p><p><b>What is the </b><b><i>HERSHEY</i></b><b> Movie about?<br></br></b>The <i>HERSHEY</i> movie tells the story of Milton Hershey and Catherine \"Kitty\" Hershey. It follows Milton Hershey's work as a confectioner and the growth of his chocolate business. The film also shows the Hershey's' decision to create a home and school for children, seeking greater opportunity, and the events that led them to place their fortune in its care.</p><p><b>What role does Angel play in the </b><b><i>HERSHEY </i></b><b>movie?<br></br></b>Angel is the movie's theatrical distributor. It is responsible for releasing <i>HERSHEY</i> in theaters and supporting the movie's marketing and publicity. Angel did not write, produce, or direct the movie.</p><p><b>Where can I learn more about the </b><b><i>HERSHEY</i></b><b> movie?<br></br></b><i>HERSHEY</i> is a Major Motion Picture informed by real people, events, and places. For more about the movie, the historical research behind it, and how documented events were adapted for the screen, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=1031254054&amp;u=https%3A%2F%2Fwww.hersheylegacy.org%2Fthe-hershey-movie%2F&amp;a=HersheyLegacy.org\" target=\"_blank\" rel=\"nofollow\">HersheyLegacy.org</a>.</p><p><b>About The Hershey Company<br></br></b>The Hershey Company (NYSE: HSY) is an industry-leading snacks company with a purpose to make more moments of goodness and a vision to lead next generation snacking. Hershey brings together more than 20,000 employees worldwide to deliver delicious, high-quality products across more than 85 brands in approximately 65 countries, generating more than $11.7 billion in annual revenues.</p><p>Hershey brings its full portfolio to market as ONE Hershey, spanning confection, salty, and functional snacking categories with beloved brands like <i>Hershey's, Reese's, Kisses</i>, KIT KAT®, <i>Jolly Rancher, Twizzlers </i>and <i>Ice Breakers</i>; salty snacks including <i>SkinnyPop, LesserEvil, Pirate's Booty</i> and<i> Dot's Homestyle Pretzels</i>; and a protein portfolio including <i>ONE </i>Brands and <i>Fulfil</i>.</p><p>For more than 130 years, Hershey has operated fairly, ethically, and sustainably. Founder Milton Hershey established Milton Hershey School in 1909, and that legacy of purpose endures today through the company's commitment to helping children succeed through equitable access to education.</p><p>To learn more visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=2720039804&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4657771-1%2526h%253D1750690542%2526u%253Dhttps%25253A%25252F%25252Fedge.prnewswire.com%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4552200-1%252526h%25253D2784993300%252526u%25253Dhttps%2525253A%2525252F%2525252Fc212.net%2525252Fc%2525252Flink%2525252F%2525253Ft%2525253D0%25252526l%2525253Den%25252526o%2525253D4486132-1%25252526h%2525253D546089927%25252526u%2525253Dhttp%252525253A%252525252F%252525252Fwww.thehersheycompany.com%252525252F%25252526a%2525253Dwww.thehersheycompany.com%252526a%25253Dwww.thehersheycompany.com%2526a%253Dwww.thehersheycompany.com%26data%3D05%257C02%257CCGalgano%2540hersheys.com%257Cb3c6272ddc0744c4b85c08deac47ec1d%257C90254b37ddd64784a73c67a28484e423%257C0%257C0%257C639137622093452442%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3Dwh9%252Bhm5bB%252Fkp2Lm7GD8iEcX%252BVxApHvZgZycmPh0LldU%253D%26reserved%3D0&amp;a=www.thehersheycompany.com\" target=\"_blank\" rel=\"nofollow\"><b>www.thehersheycompany.com</b></a>.</p><p>Follow:<br></br> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=620191508&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4657771-1%2526h%253D27211710%2526u%253Dhttps%25253A%25252F%25252Fedge.prnewswire.com%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4607724-1%252526h%25253D3061597206%252526u%25253Dhttps%2525253A%2525252F%2525252Fedge.prnewswire.com%2525252Fc%2525252Flink%2525252F%2525253Ft%2525253D0%25252526l%2525253Den%25252526o%2525253D4552200-1%25252526h%2525253D1101316798%25252526u%2525253Dhttps%252525253A%252525252F%252525252Fc212.net%252525252Fc%252525252Flink%252525252F%252525253Ft%252525253D0%2525252526l%252525253Den%2525252526o%252525253D4486132-1%2525252526h%252525253D500678694%2525252526u%252525253Dhttps%25252525253A%25252525252F%25252525252Fx.com%25252525252Fhersheycompany%2525252526a%252525253Dhttps%25252525253A%25252525252F%25252525252Fx.com%25252525252Fhersheycompany%25252526a%2525253Dhttps%252525253A%252525252F%252525252Fx.com%252525252Fhersheycompany%252526a%25253Dhttps%2525253A%2525252F%2525252Fx.com%2525252Fhersheycompany%2526a%253Dhttps%25253A%25252F%25252Fx.com%25252Fhersheycompany%26data%3D05%257C02%257CCGalgano%2540hersheys.com%257Cb3c6272ddc0744c4b85c08deac47ec1d%257C90254b37ddd64784a73c67a28484e423%257C0%257C0%257C639137622093475192%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3D1dYlFxThKbhPeTTeExbMVWftLy1339Fw9NvQrUcxirE%253D%26reserved%3D0&amp;a=https%3A%2F%2Fx.com%2Fhersheycompany\" target=\"_blank\" rel=\"nofollow\"><b>https://x.com/hersheycompany</b></a><br></br> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=2581273400&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4657771-1%2526h%253D3129404770%2526u%253Dhttps%25253A%25252F%25252Fedge.prnewswire.com%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4607724-1%252526h%25253D966198128%252526u%25253Dhttps%2525253A%2525252F%2525252Fedge.prnewswire.com%2525252Fc%2525252Flink%2525252F%2525253Ft%2525253D0%25252526l%2525253Den%25252526o%2525253D4552200-1%25252526h%2525253D1705278920%25252526u%2525253Dhttps%252525253A%252525252F%252525252Fc212.net%252525252Fc%252525252Flink%252525252F%252525253Ft%252525253D0%2525252526l%252525253Den%2525252526o%252525253D4486132-1%2525252526h%252525253D3245273459%2525252526u%252525253Dhttps%25252525253A%25252525252F%25252525252Fwww.linkedin.com%25252525252Fcompany%25252525252Fthe-hershey-company%2525252526a%252525253Dhttps%25252525253A%25252525252F%25252525252Fwww.linkedin.com%25252525252Fcompany%25252525252Fthe-hershey-company%25252526a%2525253Dhttps%252525253A%252525252F%252525252Fwww.linkedin.com%252525252Fcompany%252525252Fthe-hershey-company%252526a%25253Dhttps%2525253A%2525252F%2525252Fwww.linkedin.com%2525252Fcompany%2525252Fthe-hershey-company%2526a%253Dhttps%25253A%25252F%25252Fwww.linkedin.com%25252Fcompany%25252Fthe-hershey-company%26data%3D05%257C02%257CCGalgano%2540hersheys.com%257Cb3c6272ddc0744c4b85c08deac47ec1d%257C90254b37ddd64784a73c67a28484e423%257C0%257C0%257C639137622093490048%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3D1Git9zTxHaOyapYJr9PxUJ90TfzqH4SsTkJQdxSXxpo%253D%26reserved%3D0&amp;a=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fthe-hershey-company\" target=\"_blank\" rel=\"nofollow\"><b>https://www.linkedin.com/company/the-hershey-company</b></a><br></br> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=730584575&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4657771-1%2526h%253D2841786229%2526u%253Dhttps%25253A%25252F%25252Fedge.prnewswire.com%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4607724-1%252526h%25253D3081150639%252526u%25253Dhttps%2525253A%2525252F%2525252Fedge.prnewswire.com%2525252Fc%2525252Flink%2525252F%2525253Ft%2525253D0%25252526l%2525253Den%25252526o%2525253D4552200-1%25252526h%2525253D2189054673%25252526u%2525253Dhttps%252525253A%252525252F%252525252Fc212.net%252525252Fc%252525252Flink%252525252F%252525253Ft%252525253D0%2525252526l%252525253Den%2525252526o%252525253D4486132-1%2525252526h%252525253D3881796897%2525252526u%252525253Dhttp%25252525253A%25252525252F%25252525252Fwww.facebook.com%25252525252Fhersheycompany%2525252526a%252525253Dhttp%25252525253A%25252525252F%25252525252Fwww.facebook.com%25252525252Fhersheycompany%25252526a%2525253Dhttp%252525253A%252525252F%252525252Fwww.facebook.com%252525252Fhersheycompany%252526a%25253Dhttp%2525253A%2525252F%2525252Fwww.facebook.com%2525252Fhersheycompany%2526a%253Dhttp%25253A%25252F%25252Fwww.facebook.com%25252Fhersheycompany%26data%3D05%257C02%257CCGalgano%2540hersheys.com%257Cb3c6272ddc0744c4b85c08deac47ec1d%257C90254b37ddd64784a73c67a28484e423%257C0%257C0%257C639137622093504104%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3DOc6sEIMwq%252FWMFadaPC%252Fsaqln0XGTKbXY3ZJP0KOYu%252B4%253D%26reserved%3D0&amp;a=http%3A%2F%2Fwww.facebook.com%2Fhersheycompany\" target=\"_blank\" rel=\"nofollow\"><b>http://www.facebook.com/hersheycompany</b></a><br></br> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=547628030&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4657771-1%2526h%253D203750858%2526u%253Dhttps%25253A%25252F%25252Fedge.prnewswire.com%25252Fc%25252Flink%25252F%25253Ft%25253D0%252526l%25253Den%252526o%25253D4607724-1%252526h%25253D3343149510%252526u%25253Dhttps%2525253A%2525252F%2525252Fedge.prnewswire.com%2525252Fc%2525252Flink%2525252F%2525253Ft%2525253D0%25252526l%2525253Den%25252526o%2525253D4552200-1%25252526h%2525253D668923675%25252526u%2525253Dhttps%252525253A%252525252F%252525252Fc212.net%252525252Fc%252525252Flink%252525252F%252525253Ft%252525253D0%2525252526l%252525253Den%2525252526o%252525253D4486132-1%2525252526h%252525253D3445838932%2525252526u%252525253Dhttp%25252525253A%25252525252F%25252525252Fwww.youtube.com%25252525252Fhersheycompany%2525252526a%252525253Dhttp%25252525253A%25252525252F%25252525252Fwww.youtube.com%25252525252Fhersheycompany%25252526a%2525253Dhttp%252525253A%252525252F%252525252Fwww.youtube.com%252525252Fhersheycompany%252526a%25253Dhttp%2525253A%2525252F%2525252Fwww.youtube.com%2525252Fhersheycompany%2526a%253Dhttp%25253A%25252F%25252Fwww.youtube.com%25252Fhersheycompany%26data%3D05%257C02%257CCGalgano%2540hersheys.com%257Cb3c6272ddc0744c4b85c08deac47ec1d%257C90254b37ddd64784a73c67a28484e423%257C0%257C0%257C639137622093518349%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3D77MNnJEmRE7nlz0UVavdCODjnu7Wu9HFKm0oVFgi3B0%253D%26reserved%3D0&amp;a=http%3A%2F%2Fwww.youtube.com%2Fhersheycompany\" target=\"_blank\" rel=\"nofollow\"><b>http://www.youtube.com/hersheycompany</b></a><br></br> <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825006-1&amp;h=1537698042&amp;u=https%3A%2F%2Fnam11.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Fedge.prnewswire.com%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D4657771-1%2526h%253D3338325459%2526u%253Dhttp%25253A%25252F%25252Fwww.instagram.com%25252Fhersheycompany%2526a%253Dhttp%25253A%25252F%25252Fwww.instagram.com%25252Fhersheycompany%26data%3D05%257C02%257CCGalgano%2540hersheys.com%257Cb3c6272ddc0744c4b85c08deac47ec1d%257C90254b37ddd64784a73c67a28484e423%257C0%257C0%257C639137622093532111%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata%3DyxLISh2hQJp%252BCsiZ1p21YCfgLPiKOG3MY3TDPHjnubo%253D%26reserved%3D0&amp;a=http%3A%2F%2Fwww.instagram.com%2Fhersheycompany\" target=\"_blank\" rel=\"nofollow\"><b>http://www.instagram.com/hersheycompany</b></a></p><p><i>Pricing is at the sole discretion of the retailer.</i></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2037814/Vintage-Inspired-HERSHEY-S-Milk-Chocolate-Bar.jpg?id=OA3085090\" title=\"A standard Hershey’s Milk Chocolate Bar in limited-edition, vintage-inspired packaging released ahead of the HERSHEY movie.\" alt=\"A standard Hershey’s Milk Chocolate Bar in limited-edition, vintage-inspired packaging released ahead of the HERSHEY movie.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2037820/Vintage-Inspired-HERSHEY-S-KISSES-Milk-Chocolate-Candy-9-5-oz.jpg?id=OA3085113\" title=\"Hershey's Kisses chocolates in limited-edition, vintage-inspired packaging released ahead of the HERSHEY movie.\" alt=\"Hershey's Kisses chocolates in limited-edition, vintage-inspired packaging released ahead of the HERSHEY movie.\"></img>\n                </p>\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS926138/Hershey-Kiss-Logo.jpg?id=OA3085054\" title=\"The Hershey Company Logo\" alt=\"The Hershey Company Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH00171&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/hersheys-celebrates-its-story-with-five-cent-milk-chocolate-bars-ahead-of-the-hershey-movie-302942428.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/hersheys-celebrates-its-story-with-five-cent-milk-chocolate-bars-ahead-of-the-hershey-movie-302942428.html</a></p><p>SOURCE The Hershey Company</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH00171&amp;Transmission_Id=202611181000PR_NEWS_USPR_____PH00171&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "The Hershey Company",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "movie",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T17:28:13.912Z"
+    },
+    {
+      "company": [
+        "Universal Music Group N.V."
+      ],
+      "date": "20261118T143000+0000",
+      "dateline": "SANTA MONICA, Calif., Nov. 18, 2026",
+      "feed": [
+        "prncom_prnj",
+        "APPLE_NEWS",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "MUS",
+        "ENT"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Universal Music Group N.V. logo",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS992307/Universal-Music-Group-Logo.jpg?id=OA3088645&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS992307/Universal-Music-Group-Logo.jpg?id=OA3088645&p=publish"
+        }
+      ],
+      "release_id": "20261118LA01248",
+      "status": "PUBLISHED",
+      "subject": [
+        "PER",
+        "HSP",
+        "DEI"
+      ],
+      "summary": "<p class=\"prntac\"><b><i>First senior appointment by Felipe Holguin, Meyer brings deep creative experience and wide-ranging relationships across Latin music's artist community</i></b></p><p><span class=\"legendSpanClass\">SANTA MONICA, Calif.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Universal Music Group (UMG), the world leader in music-based entertainment, today announced the appointment of Ignacio Meyer as President of Universal Music Latin America &amp; Iberian Peninsula, effective immediately. Meyer will report to Felipe Holguin, who was named CEO of the division yesterday.</p>\n    ",
+      "ticker": [
+        "EuronextAmsterdam:UMG"
+      ],
+      "title": "IGNACIO MEYER NAMED PRESIDENT OF UNIVERSAL MUSIC LATIN AMERICA &amp; IBERIAN PENINSULA",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118LA01248",
+      "body": "\n<p class=\"prntac\"><b><i>First senior appointment by Felipe Holguin, Meyer brings deep creative experience and wide-ranging relationships across Latin music's artist community</i></b></p><p><span class=\"legendSpanClass\">SANTA MONICA, Calif.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Universal Music Group (UMG), the world leader in music-based entertainment, today announced the appointment of Ignacio Meyer as President of Universal Music Latin America &amp; Iberian Peninsula, effective immediately. Meyer will report to Felipe Holguin, who was named CEO of the division yesterday.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS992307/Universal-Music-Group-Logo.jpg?id=OA3088645\" title=\"Universal Music Group N.V. logo\" alt=\"Universal Music Group N.V. logo\"></img>\n                </p>\n    </div>\n<p>Meyer will bring his wide-ranging experience in creative strategy and artist development, along with his relationships throughout the creative community, to UMG's operations across Latin America and Iberia. Working with Holguin and UMG's local and global teams, he will draw on their complementary expertise and shared spirit of innovation to find new ways to support artists and connect their music with audiences around the world.</p><p>Holguin said: \"Artists are at the heart of how we're building this next chapter. Nacho combines creative sensibility and strategic vision with a deep understanding of how to nurture each artist's individuality, grow their audience, and heighten their impact across platforms. He'll add a powerful dimension to our leadership team as we invest in extraordinary artists and bring bold ideas to life. We know from experience how well we work together, and I'm delighted to welcome him to UMG.\"</p><p>Meyer said: \"Latin music is shaping culture around the world because its artists keep pushing boundaries by embracing new sounds, new technologies, and new ways to connect with fans. Their creative ambition is a force for the entire industry. Our role is to amplify that vision with the right support, fresh thinking, and UMG's global reach. I'm excited to work with Felipe and our teams to help artists build lasting careers and take their music even further.\"</p><p>Meyer has held leadership roles at TelevisaUnivision since 2011, spanning US networks and local media, radio, music and non-scripted entertainment, business development, and strategic partnerships. Most recently, as President, U.S. Networks &amp; Local Media, he led the business as Univision reclaimed its position as the No. 1 Spanish-language network in the United States and delivered the highest rated music award shows in the US amongst Hispanic audiences.</p><p>As Executive Vice President, Music &amp; Non-Scripted Entertainment, Meyer oversaw Univision's music business, cross-platform programming strategy and major live events, including the executive production of award-winning shows such as Premio Lo Nuestro, Premios Juventud, and the Latin GRAMMY Awards. His responsibilities also included artist-development efforts in the U.S. and globally, as well as strategic business development initiatives across music, music publishing, and sound design. He also led franchise development and corporate partnerships, direct-to-consumer initiatives, experiential marketing, and licensing. During his Univision tenure, Uforia launched U-LAB, a program that paired emerging artists with artistic mentorship and digital distribution.</p><p>Before joining Univision, Meyer founded and served as Managing Partner of strategic advisory firm Konexxion Enterprises. Earlier in his career, he began working with artists directly as a manager, served on the management team of IFPI Latin America (an industry body representing 1500+ recorded music companies), and helped establish The Latin Recording Academy as an independent organization dedicated to advancing Latin music and its creators around the world.</p><p>Access image <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826079-1&amp;h=1016047920&amp;u=https%3A%2F%2Fumusic.ent.box.com%2Ffile%2F2597882982894%3Fs%3Dwhsb05ayhuq5ut0rvyi83mn90sn0zdsz&amp;a=here\" target=\"_blank\" rel=\"nofollow\">here</a>:</p><p><b>About Universal Music Group</b></p><p>At Universal Music Group, we exist to shape culture through the power of artistry. UMG is the world leader in music-based entertainment, with a broad array of businesses engaged in recorded music, music publishing, merchandising and audiovisual content. Featuring the most comprehensive catalogue of recordings and songs across every musical genre, UMG identifies and develops artists and produces and distributes the most critically acclaimed and commercially successful music in the world. Committed to artistry, innovation and entrepreneurship, UMG fosters the development of services, platforms and business models in order to broaden artistic and commercial opportunities for our artists and create new experiences for fans. For more information on Universal Music Group visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826079-1&amp;h=1785900045&amp;u=https%3A%2F%2Fwww.universalmusic.com&amp;a=www.universalmusic.com\" target=\"_blank\" rel=\"nofollow\">www.universalmusic.com</a>. </p><p> </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA01248&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ignacio-meyer-named-president-of-universal-music-latin-america--iberian-peninsula-302943932.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ignacio-meyer-named-president-of-universal-music-latin-america--iberian-peninsula-302943932.html</a></p><p>SOURCE Universal Music Group N.V.</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA01248&amp;Transmission_Id=202611180930PR_NEWS_USPR_____LA01248&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Universal Music Group N.V.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment",
+        "management"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment",
+          "management"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:entertainment",
+            "music",
+            "industry:ENT",
+            "industry:MUS"
+          ],
+          "management": [
+            "president"
+          ]
+        },
+        "news_score": 2,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T17:28:14.233Z"
+    },
+    {
+      "company": [
+        "Kuddzoo"
+      ],
+      "date": "20261118T120000+0000",
+      "dateline": "NASHVILLE, Tenn., Nov. 18, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS_ONLY"
+      ],
+      "geography": [
+        "TNS",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "MEN",
+        "TLS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Founded by Kurt Ravenstein, Jon Townsend, Nikia Shanard and Chantal Reeder, KUDDZOO taps veteran entertainment attorney David Fritz as outside counsel and 40-year music industry executive Issy Sanchez as Chief Creative Officer of KUDDZOO Records, and unveils KUDDZOO Records",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2038466/Kuddzoo-Image.jpg?id=OA3086827&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2038466/Kuddzoo-Image.jpg?id=OA3086827&p=publish"
+        },
+        {
+          "caption": "Kuddzoo Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2038464/Kuddzoo-Logo.jpg?id=OA3086829&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2038464/Kuddzoo-Logo.jpg?id=OA3086829&p=publish"
+        }
+      ],
+      "release_id": "20261118LA00982",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT",
+        "VET",
+        "DEI"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">NASHVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- KUDDZOO, the creator-first app where fans back the creators they believe in, officially launched today along with its own label, KUDDZOO Records. Co-founders Kurt Ravenstein, Jon Townsend, Nikia Shanard and Chantal Reeder are joined by David Fritz of Boyarski Fritz LLP as outside counsel and longtime music executive Issy Sanchez as Chief Creative Officer of KUDDZOO Records.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2038466/Kuddzoo-Image.jpg?id=OA3086827\" title=\"Founded by Kurt Ravenstein, Jon Townsend, Nikia Shanard and Chantal Reeder, KUDDZOO taps veteran entertainment attorney David Fritz as outside counsel and 40-year music industry executive Issy Sanchez as Chief Creative Officer of KUDDZOO Records, and unveils KUDDZOO Records\" alt=\"Founded by Kurt Ravenstein, Jon Townsend, Nikia Shanard and Chantal Reeder, KUDDZOO taps veteran entertainment attorney David Fritz as outside counsel and 40-year music industry executive Issy Sanchez as Chief Creative Officer of KUDDZOO Records, and unveils KUDDZOO Records\"></img>\n                </p>\n    </div>\n<p>KUDDZOO is a full ecosystem where creators stream, post and build community, and where fans do more than follow. There's no algorithm deciding who gets seen. Fans back the creators they believe in with $1 a month that goes to the creator they choose, and daily rankings built on real activity spotlight the top creators for streams, posts and backers. The name is a nod to kudzu, the vine that grows faster than anything around it.</p>",
+      "ticker": [],
+      "title": "KUDDZOO Officially Launches the Creator-First App Where Fans Back the Creators They Believe In and Brings Music Business Heavy Hitters Into Its Leadership",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118LA00982",
+      "body": "\n<p><span class=\"legendSpanClass\">NASHVILLE, Tenn.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- KUDDZOO, the creator-first app where fans back the creators they believe in, officially launched today along with its own label, KUDDZOO Records. Co-founders Kurt Ravenstein, Jon Townsend, Nikia Shanard and Chantal Reeder are joined by David Fritz of Boyarski Fritz LLP as outside counsel and longtime music executive Issy Sanchez as Chief Creative Officer of KUDDZOO Records.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2038466/Kuddzoo-Image.jpg?id=OA3086827\" title=\"Founded by Kurt Ravenstein, Jon Townsend, Nikia Shanard and Chantal Reeder, KUDDZOO taps veteran entertainment attorney David Fritz as outside counsel and 40-year music industry executive Issy Sanchez as Chief Creative Officer of KUDDZOO Records, and unveils KUDDZOO Records\" alt=\"Founded by Kurt Ravenstein, Jon Townsend, Nikia Shanard and Chantal Reeder, KUDDZOO taps veteran entertainment attorney David Fritz as outside counsel and 40-year music industry executive Issy Sanchez as Chief Creative Officer of KUDDZOO Records, and unveils KUDDZOO Records\"></img>\n                </p>\n    </div>\n<p>KUDDZOO is a full ecosystem where creators stream, post and build community, and where fans do more than follow. There's no algorithm deciding who gets seen. Fans back the creators they believe in with $1 a month that goes to the creator they choose, and daily rankings built on real activity spotlight the top creators for streams, posts and backers. The name is a nod to kudzu, the vine that grows faster than anything around it.</p><p>\"<i>KUDDZOO was created as a platform for all creators to be seen and heard. It's a place where anyone can play without the game being tilted against them by anyone, including an algorithm. It doesn't matter if you're in Music City, LA or the panhandle of Oklahoma. It doesn't matter if you're signed to a label, an independent artist or just trying to build your career. If you're a creator who can get 1,000 fans to subscribe to you, we want to help you turn that into real, recurring income</i>,\" said Kurt Ravenstein, co-founder, President and CEO of KUDDZOO. \"<i>I'm honored to have an incredible team that shares a passion for uplifting artists and creators. Having David and Issy on the team, people who have looked out for artists their entire careers at the highest level, is humbling, and it represents what we're doing for creators in the entertainment industry.</i>\"</p><p>Ravenstein has spent 30 years building and disrupting businesses, from leaving a fifth-generation family farm and ranch to start his own management company at 25, to helping own and operate more than 50 senior living properties nationwide and turning around companies across healthcare, construction and insurance. Today he runs the Nashville-based music label Raven Entertainment and, with his partner, fashion designer Dara, leads the acclaimed design brand <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825818-1&amp;h=4014801901&amp;u=https%3A%2F%2Fwww.ladaradesigns.com%2F&amp;a=La+Dara\" target=\"_blank\" rel=\"nofollow\">La Dara</a>, whose custom pieces have been worn by Kid Rock, Carrie Underwood, Miranda Lambert and Tim McGraw.</p><p>Chief Operating Officer and General Counsel Jon Townsend is an attorney and entrepreneur with more than 12 years structuring businesses and protecting ownership. A songwriter with roots in music and ministry leadership, he brings a creative eye to the legal side.</p><p>Chief Brand Officer Nikia Shanard came up on Uptown Records' street promotion team and has spent 30 years building brands across music and fashion. He founded the creative and marketing company Toil &amp; Leisure and NiVe Entertainment Group, which gives independent artists label-level support while they keep ownership of their work. </p><p>A 2026 Billboard Top Music Lawyer, David Fritz has spent more than three decades as one of the industry's most trusted dealmakers, representing Marc Anthony, Alicia Keys, Joan Jett and Lil Tecca and serving as part of Napster's outside counsel. As KUDDZOO's outside counsel, he handles the company's legal and business affairs.</p><p>KUDDZOO Records extends the ecosystem into recorded music, giving artists who grow on the app a label home built on the same creator-first values. President Chantal Reeder, a KUDDZOO co-founder and founder of the Los Angeles music agency Illustrated Sounds, brings more than 18 years across music, film and technology, including roles at Rogers &amp; Cowan and as Vice President of Mosley Music Group and Mono Music Group. She leads the label alongside Chief Creative Officer Issy Sanchez.</p><p><span>Issy Sanchez has spent more than 40 years in music, from Atlantic and Columbia Records to 25 years running radio promotion for Cash Money Records, earning numerous Gold, Platinum and No. 1 plaques and a 2017 induction into the Legends of Vinyl Hall of Fame. He is president of Music IS Entertainment, which he has led since 1991.</span></p><p>KUDDZOO is available now on the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825818-1&amp;h=1416843613&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fkuddzoo%2Fid6820818498&amp;a=App+Store\" target=\"_blank\" rel=\"nofollow\">App Store</a> and Google Play. Creators and artists can sign up at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825818-1&amp;h=3671970979&amp;u=https%3A%2F%2Fkuddzoo.com%2F&amp;a=https%3A%2F%2Fkuddzoo.com%2F\" target=\"_blank\" rel=\"nofollow\">https://kuddzoo.com/</a> and start turning their fans into monthly backers.</p><p><b>About KUDDZOO</b></p><p>KUDDZOO is a creator-first app and ecosystem where creators stream, post and build community, and where real fans back the creators they believe in with $1 a month, with no algorithms in between. KUDDZOO and its label, KUDDZOO Records, are part of KUDDZOO Media Holdings.</p><p><b>Learn more at:</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825818-1&amp;h=93230611&amp;u=https%3A%2F%2Fkuddzoo.com%2F&amp;a=https%3A%2F%2Fkuddzoo.com\" target=\"_blank\" rel=\"nofollow\">https://kuddzoo.com</a></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825818-1&amp;h=2653705981&amp;u=https%3A%2F%2Fwww.instagram.com%2Fkuddzoo%2F&amp;a=https%3A%2F%2Fwww.instagram.com%2Fkuddzoo%2F\" target=\"_blank\" rel=\"nofollow\">https://www.instagram.com/kuddzoo/</a></p><p><b>Media Contact</b></p><p><a href=\"mailto:media@kuddzoo.com\" target=\"_blank\" rel=\"nofollow\">media@kuddzoo.com</a></p><p> </p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2038464/Kuddzoo-Logo.jpg?id=OA3086829\" title=\"Kuddzoo Logo\" alt=\"Kuddzoo Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA00982&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/kuddzoo-officially-launches-the-creator-first-app-where-fans-back-the-creators-they-believe-in-and-brings-music-business-heavy-hitters-into-its-leadership-302943244.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/kuddzoo-officially-launches-the-creator-first-app-where-fans-back-the-creators-they-believe-in-and-brings-music-business-heavy-hitters-into-its-leadership-302943244.html</a></p><p>SOURCE Kuddzoo</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA00982&amp;Transmission_Id=202611180700PR_NEWS_USPR_____LA00982&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Kuddzoo",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 1,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "summary:music industry",
+            "summary:entertainment",
+            "music",
+            "industry:ENT"
+          ],
+          "management": [
+            "summary:executive"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T17:28:15.196Z"
+    },
     {
       "company": [
         "Milton Hershey School"

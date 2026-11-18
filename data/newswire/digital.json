@@ -1,11 +1,200 @@
 {
-  "generated_at": "2026-11-18T08:21:09.204Z",
+  "generated_at": "2026-11-18T17:28:08.363Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 25,
+  "count": 27,
   "releases": [
+    {
+      "company": [
+        "AI Inspo"
+      ],
+      "date": "20261118T150000+0000",
+      "dateline": "SAN FRANCISCO, Nov. 18, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "CLF",
+        "UWS"
+      ],
+      "industry": [
+        "AFI",
+        "CPR",
+        "ADV",
+        "ITE",
+        "SMD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "AI Inspo introduces its all in one AI powered social media management platform for content creation, scheduling, account management, performance tracking, and social media growth.",
+          "seq": "1",
+          "thumbnailurl": "https://i.ytimg.com/vi/Rb-CFd_fSSM/hqdefault.jpg",
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=Rb-CFd_fSSM"
+        },
+        {
+          "caption": "AI Inspo dashboard",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2037442/20261116223840EST_image_1.jpg?id=OA3083894&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2037442/20261116223840EST_image_1.jpg?id=OA3083894&p=publish"
+        }
+      ],
+      "release_id": "20261118CN99710",
+      "status": "PUBLISHED",
+      "subject": [
+        "BFA",
+        "PDT"
+      ],
+      "summary": "<p><b>AI Inspo's AI agent unites personalized social media strategy, content creation, publishing, and performance analysis in one platform for creators, marketers, and businesses.</b></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- AI Inspo today announced the official launch of its <b>AI-powered social media agent</b>, a connected platform that brings strategy, content creation, publishing, and performance review into a single workflow. Designed for creators, marketers, and businesses, the agent combines two core capabilities: social media strategy and creative content creation. Together, they help users set priorities, turn plans into content, and use performance insights to shape what comes next.</p>\n    ",
+      "ticker": [],
+      "title": "AI Inspo Unveils an All-in-One AI Social Media Agent That Bridges Strategy and Execution",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118CN99710",
+      "body": "\n<p><b>AI Inspo's AI agent unites personalized social media strategy, content creation, publishing, and performance analysis in one platform for creators, marketers, and businesses.</b></p><p><span class=\"legendSpanClass\">SAN FRANCISCO</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- AI Inspo today announced the official launch of its <b>AI-powered social media agent</b>, a connected platform that brings strategy, content creation, publishing, and performance review into a single workflow. Designed for creators, marketers, and businesses, the agent combines two core capabilities: social media strategy and creative content creation. Together, they help users set priorities, turn plans into content, and use performance insights to shape what comes next.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p title=\"AI Inspo introduces its all in one AI powered social media management platform for content creation, scheduling, account management, performance tracking, and social media growth.\"><iframe id=\"videoMedia_1\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Rb-CFd_fSSM\" frameborder=\"0\"></iframe></p>\n    </div>\n<p>Managing multiple social platforms and accounts often requires moving among planning tools, creative software, publishing schedulers, and analytics dashboards. That fragmented process adds repetitive work and can make it difficult to turn insights into action. <a href=\"https://www.ai-inspo.com/\" target=\"_blank\" rel=\"nofollow\">AI Inspo</a> brings these activities into one workflow, allowing users to carry a strategy through publication and apply what they learn to the next round of content.</p><p>\"AI Inspo was built around the real-world needs of creators and marketers managing multiple accounts across social media platforms,\" said Dong Lin, CEO of QuVideo and Project Lead for AI Inspo. \"By bringing research, data analysis, and content creation together, we aim to reduce repetitive tasks and give users more time to focus on strategy, informed decision-making, and creativity.\"</p><p class=\"prntal\"><b>Two Core Capabilities Link Strategy to Creative Execution</b></p><p>The agent combines account analysis with trend discovery and content creation, helping users decide what to publish and develop ideas suited to their audience.</p><p>Its social media strategy capability assesses account performance and recommends next steps based on each user's goals and stage of account development. AI Inspo also finds trending topics relevant to the account and helps turn them into content ideas. This gives users a way to identify trends their audience may care about and connect those opportunities with their publishing plans.</p><p>Its creative capability helps users make trending ideas their own. Users choose a viral reference and add their topic; AI Inspo adapts the reference's format into ready-to-publish content built around that topic. By giving a new idea the structure of a high-performing post, the agent provides a concrete starting point for creation while keeping the user's subject at the center.</p><p>Users can take an idea from trend discovery through creation and publishing, then review how it performs. Those insights inform the next content brief and help users refine their choice of topics and formats over time.</p><p class=\"prntal\"><b>Personalized Guidance That Evolves with Each Account</b></p><p>An account's needs change as it develops. For a creator launching a new account, early priorities may include choosing a content direction and establishing a consistent production routine. As the account matures, attention may shift to refining formats or improving an existing strategy.</p><p>The agent remembers how users manage their accounts and create content, then tailors recommendations to their changing goals and workflows. That continuity lets users build on earlier work and receive guidance aligned with their current priorities.</p><p>Account context and performance insights help users judge which trends and formats deserve further creative effort.</p><p class=\"prntal\"><b>Ongoing Support for Consistent Content Production</b></p><p>Consistent social media activity calls for sustained planning, production, and review. Alongside its AI agent, AI Inspo provides ongoing user support and a <a href=\"https://discord.com/invite/44eqS9QgWr\" target=\"_blank\" rel=\"nofollow\">Discord community</a> where creators, marketers, and businesses can exchange ideas, seek guidance, and refine their social media workflows.</p><p>This combination supports AI Inspo's mission to make high-quality content easier and more affordable to produce. The workflow is designed to reduce routine work, leaving users more time for creative decisions and planning.</p><p>AI Inspo's AI-powered social media agent is now available. To learn more, visit the <a href=\"https://www.ai-inspo.com/\" target=\"_blank\" rel=\"nofollow\">official AI Inspo website</a>.</p><p class=\"prntal\"><b>About AI Inspo</b></p><p>AI Inspo is a flagship product from QuVideo for creators, marketers, and businesses. Its AI-powered social media agent combines personalized strategy, relevant trend discovery, content creation, publishing, and performance analysis in one platform. Users can adapt viral content formats to their own topics and refine their approach as their accounts develop.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2037442/20261116223840EST_image_1.jpg?id=OA3083894\" title=\"AI Inspo dashboard\" alt=\"AI Inspo dashboard\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CN99710&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/ai-inspo-unveils-an-all-in-one-ai-social-media-agent-that-bridges-strategy-and-execution-302943251.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/ai-inspo-unveils-an-all-in-one-ai-social-media-agent-that-bridges-strategy-and-execution-302943251.html</a></p><p>SOURCE AI Inspo</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CN99710&amp;Transmission_Id=202611181000PR_NEWS_USPR_____CN99710&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "AI Inspo",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntal{\nTEXT-ALIGN: LEFT\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 2,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "digital": [
+            "social media",
+            "industry:SMD"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T17:28:13.750Z"
+    },
+    {
+      "company": [
+        "Parks Associates"
+      ],
+      "date": "20261118T133300+0000",
+      "dateline": "MARINA DEL REY, Calif., Nov. 18, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "GAM",
+        "CPR",
+        "MLM",
+        "HOU",
+        "FIN",
+        "TVN"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Parks Associates: Top SVOD Base Tier Pricing Q4 2022 vs. Q3 2026",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2038779/Parks-Associates-SVOD-Base-Tier-Pricing-Q4-2022-vs-Q3-2026.jpg?id=OA3088606&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2038779/Parks-Associates-SVOD-Base-Tier-Pricing-Q4-2022-vs-Q3-2026.jpg?id=OA3088606&p=publish"
+        },
+        {
+          "caption": "Parks Associates",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2038780/Parks-Logo-RGB-transparent.jpg?id=OA3088609&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2038780/Parks-Logo-RGB-transparent.jpg?id=OA3088609&p=publish"
+        }
+      ],
+      "release_id": "20261118PH01253",
+      "status": "PUBLISHED",
+      "subject": [
+        "SBS"
+      ],
+      "summary": "<p class=\"prntac\"><i>Streaming Video Tracker finds lower-cost services and ad-supported tiers are moderating industry-wide pricing growth despite significant increases among leading streaming providers</i></p><p><span class=\"legendSpanClass\">MARINA DEL REY, Calif.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- This week at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=4057757131&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fevents%2Ffuture-of-video&amp;a=Future+of+Video\" target=\"_blank\" rel=\"nofollow\">Future of Video</a>, Parks Associates announced new findings from its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=1002319276&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fstreaming-video-market-tracker&amp;a=Streaming+Video+Tracker\" target=\"_blank\" rel=\"nofollow\"><i>Streaming Video Tracker</i></a> on historical and current price increases among video streaming subscription services. Across more than 300 US streaming services, the average base-tier, entry-level subscription price is <b>$11.08 per month. </b>The US average, which includes subscription video-on-demand (SVOD) services and virtual multichannel video programming distributors (vMVPDs), has increased just 8% since Q4 2022, when average base-tier pricing was $10.20.</p>\n",
+      "ticker": [],
+      "title": "Parks Associates: Average Base Monthly Subscription Streaming Service Price in the US Reaches $11.08, Up Just 8% Since 2022",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118PH01253",
+      "body": "\n<p class=\"prntac\"><i>Streaming Video Tracker finds lower-cost services and ad-supported tiers are moderating industry-wide pricing growth despite significant increases among leading streaming providers</i></p><p><span class=\"legendSpanClass\">MARINA DEL REY, Calif.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- This week at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=4057757131&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fevents%2Ffuture-of-video&amp;a=Future+of+Video\" target=\"_blank\" rel=\"nofollow\">Future of Video</a>, Parks Associates announced new findings from its <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=1002319276&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fstreaming-video-market-tracker&amp;a=Streaming+Video+Tracker\" target=\"_blank\" rel=\"nofollow\"><i>Streaming Video Tracker</i></a> on historical and current price increases among video streaming subscription services. Across more than 300 US streaming services, the average base-tier, entry-level subscription price is <b>$11.08 per month. </b>The US average, which includes subscription video-on-demand (SVOD) services and virtual multichannel video programming distributors (vMVPDs), has increased just 8% since Q4 2022, when average base-tier pricing was $10.20.</p>\n<p>While major streaming providers have implemented significant price increases, the growing availability of lower-cost services and more affordable ad-supported tiers has helped moderate overall industry pricing growth.</p><p>\"Consumers are seeing higher prices from many of the streaming services they use most, but the broader market tells a more nuanced story,\" said <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=4271032439&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fteam-detail%2Fjennifer-kent&amp;a=Jennifer+Kent\" target=\"_blank\" rel=\"nofollow\"><b>Jennifer Kent</b></a><b>, SVP and Principal Analyst, Parks Associates</b>. \"Lower-cost services, new bundles, ad-supported subscriptions, and specialized content offerings are creating more pricing options. Providers are competing on content, packaging, and price to deliver value.\"</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=2632469665&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fstreaming-video-market-tracker&amp;a=Parks+Associates%27+Streaming+Video+Tracker\" target=\"_blank\" rel=\"nofollow\">Parks Associates' <i>Streaming Video Tracker</i></a> identifies approximately 70 service profiles priced above the US average, including vMVPD offerings that carry significantly higher monthly fees. Approximately 200 services fall into lower pricing ranges, primarily between $2.99 and $9.99 per month.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=1452191300&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fott-tracker&amp;a=The+research\" target=\"_blank\" rel=\"nofollow\">The research</a> also tracks base-tier pricing changes among the 10 largest SVOD services by subscriber count from Q4 2022 through Q3 2026. YouTube Premium stands out as the only service in this group to introduce a lower-priced entry option, with its YouTube Premium Lite plan offering ad-free viewing for most videos without a YouTube Music subscription.</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=2632469665&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fstreaming-video-market-tracker&amp;a=Parks+Associates%27+Streaming+Video+Tracker\" target=\"_blank\" rel=\"nofollow\">Parks Associates' <i>Streaming Video Tracker</i></a> identifies 275 SVOD services, 141 AVOD services, and 60 FAST platforms in the US market, demonstrating the diversity of business models competing for consumer attention and advertising revenue. <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=1391964669&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fproducts%2Fconsumer-electronics-and-entertainment%2Ffrom-viewers-to-creators-opportunities-in-creative-entertainment&amp;a=The+firm%27s+consumer+research\" target=\"_blank\" rel=\"nofollow\">The firm's consumer research</a> shows 54% of US internet households subscribe to five or more SVOD services, while overall household video spending remains relatively stable.</p><p>\"Streaming providers face growing pressure to increase revenue per subscriber while limiting churn,\" Kent said. \"Consumers have more choices than ever, and providers must demonstrate why their services deserve a place in the household entertainment budget.\"</p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=2632469665&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fstreaming-video-market-tracker&amp;a=Parks+Associates%27+Streaming+Video+Tracker\" target=\"_blank\" rel=\"nofollow\">Parks Associates' <i>Streaming Video Tracker</i></a> provides ongoing analysis of the North American streaming video market, including service profiles, subscription pricing, business models, competitive positioning, and market developments.</p><p>For more information, to request a demo, or to schedule an analyst interview, contact <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=4197185524&amp;u=https%3A%2F%2Fwww.parksassociates.com%2Fteam-detail%2Fmindi-sue-sternblitz-rubenstein&amp;a=Mindi+Sue+Sternblitz-Rubenstein\" target=\"_blank\" rel=\"nofollow\"><b>Mindi Sue Sternblitz-Rubenstein</b></a><b> at 972-490-1113</b>.</p><p><b>About Parks Associates</b></p><p>Parks Associates helps companies identify new opportunities, refine strategy, and accelerate growth in connected technology markets through data-driven insights and industry expertise. With more than 40 years of experience, the firm delivers proprietary consumer and industry research, market forecasts, and strategic analysis that guide business decisions across personal, connected home, small business, and commercial technology ecosystems.</p><p>Parks Associates supports clients in navigating evolving markets including AI, security, smart home, broadband, entertainment, energy, multifamily, smart buildings, and connected health.</p><p>Learn more at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826083-1&amp;h=834847824&amp;u=http%3A%2F%2Fwww.parksassociates.com&amp;a=www.parksassociates.com\" target=\"_blank\" rel=\"nofollow\"><b>www.parksassociates.com</b></a>.</p><p>Media Contact</p><p>Mindi Sue Sternblitz-Rubenstein<br></br>Parks Associates<br></br>972.490.1113<br></br><a href=\"mailto:427327@email4pr.com\" target=\"_blank\" rel=\"nofollow\">427327@email4pr.com</a></p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH01253&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/parks-associates-average-base-monthly-subscription-streaming-service-price-in-the-us-reaches-11-08--up-just-8-since-2022--302943884.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/parks-associates-average-base-monthly-subscription-streaming-service-price-in-the-us-reaches-11-08--up-just-8-since-2022--302943884.html</a></p><p>SOURCE Parks Associates</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH01253&amp;Transmission_Id=202611180833PR_NEWS_USPR_____PH01253&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Parks Associates",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 0,
+          "television": 2,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:MLM"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "television": [
+            "industry:TVN"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T17:28:14.710Z"
+    },
     {
       "company": [
         "Duke Energy"
