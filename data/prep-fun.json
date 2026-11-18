@@ -20,7 +20,8 @@
         "2026-11-28": "What do you call a bear caught in the rain? A drizzly bear.",
         "2026-11-29": "Why did the frog sit on the lily pad? Because it was toad-ally comfortable.",
         "2026-11-30": "Why did the grape refuse to fight? Because it didn’t want to get crushed.",
-        "2026-12-01": "How do bees get to school? They take the buzz."
+        "2026-12-01": "How do bees get to school? They take the buzz.",
+        "2026-12-02": "You heard of that new band 1023MB? They're good but they haven't got a gig yet."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -57,7 +58,14 @@
         "Why didn’t the melons get married? Because they cantaloupe.",
         "What is a child guilty of if they refuse to nap? Resisting a rest.",
         "Why was the belt arrested? Because it held up some pants!",
-        "What do you call a snowman party? A snowball."
+        "What do you call a snowman party? A snowball.",
+        "What’s a computer’s favorite snack? Microchips!",
+        "My boss told me to attach two pieces of wood together... I totally nailed it!",
+        "Why do pancakes always do well at school? Because they stack up well.",
+        "What has one head, one foot, and four legs? A bed.",
+        "Why did the coffee file a police report? It got mugged.",
+        "Which state has the most streets? Rhode Island.",
+        "Why don’t vampires go to barbecues? Because they don’t like stakes."
       ]
     },
     "would-you-rather": {
@@ -79,7 +87,8 @@
         "2026-11-28": "Would you rather have friends drop by unexpectedly or have every visit planned a week ahead?",
         "2026-11-29": "Would you rather have a clock that runs on compliments or have a lamp that runs on laughter?",
         "2026-11-30": "Would you rather have a house that is always tidy or have a garden that is always in bloom?",
-        "2026-12-01": "Would you rather spend a day learning to make cheese or spend a day learning to make cider?"
+        "2026-12-01": "Would you rather spend a day learning to make cheese or spend a day learning to make cider?",
+        "2026-12-02": "Would you rather have a small flat in your favorite city or have a big house in a quiet village?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -118,7 +127,15 @@
         "Would you rather be able to summon a chair anywhere or be able to summon a cup of tea anywhere?",
         "Would you rather have every cake you bake lean slightly or have every pizza you make turn out square?",
         "Would you rather open presents one at a time or open them all at once?",
-        "Would you rather be the person who chooses the restaurant or be the person who chooses the film?"
+        "Would you rather be the person who chooses the restaurant or be the person who chooses the film?",
+        "Would you rather have a friend who plans every outing or have a friend who always agrees to your plans?",
+        "Would you rather have a garden full of vegetables or have a garden full of flowers?",
+        "Would you rather have a wall you can draw on or have a floor you can dance on silently?",
+        "Would you rather always have ripe tomatoes or always have ripe peaches?",
+        "Would you rather build a canoe or build a treehouse?",
+        "Would you rather be good at drawing faces or be good at drawing buildings?",
+        "Would you rather have every software update finish instantly or have every password reset work first time?",
+        "Would you rather spend a night listening to rain on a tent or spend a night listening to waves from a cabin?"
       ]
     },
     "excuse": {
@@ -140,7 +157,8 @@
         "2026-11-28": "I thought I'd already done the thing I was imagining doing.",
         "2026-11-29": "I couldn't find the return label in all the packaging.",
         "2026-11-30": "I thought the countdown was decorative.",
-        "2026-12-01": "I needed to get the label off without leaving the sticky bit."
+        "2026-12-01": "I needed to get the label off without leaving the sticky bit.",
+        "2026-12-02": "I was between snacks."
       },
       "pool": [
         "I was almost done when I decided to start properly.",
@@ -179,7 +197,14 @@
         "I had to remember the name of someone who remembered mine.",
         "I was waiting for the queue to reveal what it was for.",
         "I had to see whether the plant was leaning.",
-        "I couldn't find the address in a conversation full of thumbs-up reactions."
+        "I couldn't find the address in a conversation full of thumbs-up reactions.",
+        "I was trying to remember where I parked using landmarks that moved.",
+        "I had to move a spider somewhere with better prospects.",
+        "I was trying to get the shopping basket unstuck from the other baskets.",
+        "I needed to locate the scissors using another pair of scissors.",
+        "I was trying to keep a balloon out of the ceiling fan.",
+        "I needed to get a photograph without my own shadow in it.",
+        "I got distracted by someone carrying a cello on a bicycle."
       ]
     },
     "fact": {
@@ -201,7 +226,8 @@
         "2026-11-28": "Red pandas leave scent trails using glands on the bottoms of their feet.",
         "2026-11-29": "Theophilus Van Kannel patented a revolving door in the United States in 1888.",
         "2026-11-30": "Ganymede has a thin atmosphere containing oxygen, far too tenuous to breathe.",
-        "2026-12-01": "Sloth bears can delay implantation of a fertilized egg, extending the time between mating and birth."
+        "2026-12-01": "Sloth bears can delay implantation of a fertilized egg, extending the time between mating and birth.",
+        "2026-12-02": "Much of the ice sprayed by Enceladus falls back onto the moon as snow."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -237,9 +263,16 @@
         "The melody of The Star-Spangled Banner originally belonged to a British song called To Anacreon in Heaven.",
         "The Sun's equator rotates faster than its poles.",
         "A comet can have two distinct tails: one of dust and one of electrically charged gas.",
-        "A naked mole-rat colony's tunnels can extend for several kilometers."
+        "A naked mole-rat colony's tunnels can extend for several kilometers.",
+        "About 50 kilometers above Venus's surface, atmospheric pressure is similar to Earth's sea-level pressure.",
+        "Despite being called bearcats, binturongs are neither bears nor cats.",
+        "Uranus is wider than Neptune but has less mass.",
+        "Large raindrops flatten as they fall; they do not have the teardrop shape used in drawings.",
+        "Uranus's magnetic axis is tilted about 60 degrees from its rotation axis.",
+        "Prehensile-tailed porcupines can make sounds ranging from coughs and whines to barks and shrieks.",
+        "Fishing cats have a dense inner layer of fur that keeps water away from their skin."
       ]
     }
   },
-  "updated": "2026-11-17T14:42:36.115Z"
+  "updated": "2026-11-18T14:21:13.739Z"
 }
