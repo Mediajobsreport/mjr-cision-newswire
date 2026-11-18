@@ -1,9 +1,516 @@
 {
-  "generated_at": "2026-11-18T17:28:08.363Z",
+  "generated_at": "2026-11-18T23:31:32.896Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 715,
+  "count": 721,
   "releases": [
+    {
+      "company": [
+        "Network Media Group Inc.",
+        "Network Entertainment Group Inc."
+      ],
+      "date": "20261118T232300+0000",
+      "dateline": "VANCOUVER, BC, Nov. 18, 2026",
+      "feed": [
+        "CNW",
+        "prnj_cnw"
+      ],
+      "geography": [
+        "BCO",
+        "CAN",
+        "NAM"
+      ],
+      "industry": [
+        "FLM",
+        "OTC",
+        "ENT"
+      ],
+      "language": "en",
+      "multimedia": [],
+      "release_id": "20261118C4393",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /CNW/ -- <b>Network Media Group Inc. </b>(TSXV: NTE) (OTCQB: NETWF) (\"Network\" or the \"Company\") announces that, subject to applicable shareholder and TSX Venture Exchange approvals, the board of directors of the Company has approved the amendment of an aggregate of 1,863,333 incentive stock options (the \"Amended Options\") previously granted to certain directors, officers, employees, and consultants of the Company under the Company's 2024 equity incentive plan (the \"Option Amendments\"). Pursuant to the Option Amendments, the exercise price of the Amended Options has been amended to $0.05 per share. The expiration date of April 4, 2029, has not been amended.</p>\n",
+      "ticker": [
+        "TorontoVE:NTE",
+        "OtherOTC:NETWF",
+        "OTC-BB:NETWF",
+        "OTC-QB:NETWF"
+      ],
+      "title": "NETWORK MEDIA GROUP ANNOUNCES AMENDMENT TO STOCK OPTIONS",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118C4393",
+      "body": "\n<p><span class=\"legendSpanClass\">VANCOUVER, BC</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /CNW/ -- <b>Network Media Group Inc. </b>(TSXV: NTE) (OTCQB: NETWF) (\"Network\" or the \"Company\") announces that, subject to applicable shareholder and TSX Venture Exchange approvals, the board of directors of the Company has approved the amendment of an aggregate of 1,863,333 incentive stock options (the \"Amended Options\") previously granted to certain directors, officers, employees, and consultants of the Company under the Company's 2024 equity incentive plan (the \"Option Amendments\"). Pursuant to the Option Amendments, the exercise price of the Amended Options has been amended to $0.05 per share. The expiration date of April 4, 2029, has not been amended.</p>\n<p><b>About Network Media Group / Network Entertainment<br></br></b><i>Network Media Group is the parent company of Network Entertainment Inc. </i></p><p>Network Entertainment is a creatively driven production company that creates, finances, and produces award-winning film, television and digital content for audiences around the world. For more than two decades, Network has built a reputation for telling the stories of extraordinary and iconic international figures.</p><p>Network has earned international recognition for productions including <i>Facing Ali</i>, which was shortlisted for an Academy Award for Best Feature Documentary; <i>SIDNEY</i>, which premiered at the Toronto International Film Festival, was produced in partnership with <span>Oprah</span> Winfrey and was released globally on Apple TV+, earning a Critics' Choice Documentary Award for Best Biographical Documentary and a Black Reel Award for Outstanding Documentary Feature; and <i>Sly Lives! (aka The Burden of Black Genius)</i>, a Peabody Award-winning and Emmy Award-nominated feature documentary, directed by Academy Award winner Ahmir \"Questlove\" Thompson. The film debuted at the 2025 Sundance Film Festival and premiered shortly after on Hulu/Disney+. Also, <i>BRATS</i>, a feature documentary directed by Brat Pack member Andrew McCarthy in partnership with NEON and ABC News Studios, had its world premiere at the 2024 Tribeca Film Festival, went straight to #1 on Hulu upon its release, and won the 2025 ASCAP Award in the Top Streaming Film category; and recently, <i>Man In Motion: The Rick Hansen Story</i>, produced in partnership with Ryan Reynolds and his team at Maximum Effort, chronicled one man's extraordinary journey to break barriers and inspire global change. The film premiered at the 2026 Toronto International Film Festival, where it received an Honourable Mention for Best Canadian Feature Film.</p><p>Upcoming productions include a feature documentary on Jimi Hendrix, directed by acclaimed filmmaker Bao Nguyen in collaboration with Janie Hendrix and Experience Hendrix; and <i>Bernie</i> <i>Taupin: Timeless Flight – Life, Music, Elton &amp; Me</i>, directed by Matthew Miele.</p><p>For additional information on Network Entertainment Inc., visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826888-1&amp;h=601718860&amp;u=http%3A%2F%2Fwww.networkentertainment.ca%2F&amp;a=www.networkentertainment.ca\" target=\"_blank\" rel=\"nofollow\">www.networkentertainment.ca</a>.</p><p><i>Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.</i></p><p><b><i>Cautionary Statement on Forward-Looking Information<br></br></i></b><i>Except for historical information contained herein, this news release contains forward-looking statements that involve risks and uncertainties. These statements are necessarily based upon management's perceptions, beliefs, assumptions and expectations, as well as a number of specific factors and assumptions that, while considered reasonable by management of the Company as of the date of such statements, are inherently subject to significant uncertainties and contingencies that could result in the forward-looking information ultimately, perhaps materially, being incorrect. All forward-looking information in this news release involves known and unknown risks, uncertainties and other factors that are beyond the control of the Company and may cause the actual results, performance or achievements of the Company to be materially different from those expressed or implied by such forward-looking information. Except as required pursuant to applicable securities laws, the Company will not update these forward-looking statements to reflect events or circumstances after the date</i> <i>hereof.</i></p>\n\n\n\n<p>SOURCE Network Media Group Inc.</p><img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C4393&amp;Transmission_Id=202611181823CANADANWCANADAPR_C4393&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Network Media Group Inc.",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 2,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "entertainment",
+            "industry:ENT",
+            "industry:FLM"
+          ],
+          "management": [
+            "summary:board of directors"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T23:31:35.329Z"
+    },
+    {
+      "company": [
+        "Best Version Media, LLC"
+      ],
+      "date": "20261118T224100+0000",
+      "dateline": "BROOKFIELD, Wis., Nov. 18, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "WIS",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ADV",
+        "MAG",
+        "MLM",
+        "CPR",
+        "PUB"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Best Version Media celebrates the company's new office space in Brookfield, Wisconsin. From left to right: Vice President of Brand Delivery Katie Wold, CRO Kevin O'Brien, CEO Chris Laurence, Office Coordinator Diana Lazo, COO Chris Patheiger, CFO Mark Kammenzind, and General Counsel Brendan Rowen. (Photo Credit: Best Version Media)",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2039345/BVM-ribbon-cutting.jpg?id=OA3090282&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2039345/BVM-ribbon-cutting.jpg?id=OA3090282&p=publish"
+        },
+        {
+          "caption": "Best Version Media",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1420865/BVM-Black-v2-Logo.jpg?id=OA3089827&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1420865/BVM-Black-v2-Logo.jpg?id=OA3089827&p=publish"
+        }
+      ],
+      "release_id": "20261118CG02061",
+      "status": "PUBLISHED",
+      "subject": [
+        "CXP"
+      ],
+      "summary": "<p><i>New Brookfield, Wisconsin location accommodates recent new hires and provides the foundation for BVM's next chapter in omnichannel local marketing</i></p><p><span class=\"legendSpanClass\">BROOKFIELD, Wis.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Best Version Media (BVM), a leading neighborhood magazine publisher and omnichannel marketing solutions provider operating across the United States and Canada, today announced that it has relocated its corporate headquarters to 15800 W. Bluemound Road, Suite 400, Brookfield, WI 53005. The new, expanded facility replaces BVM's previous headquarters at 19355 Janacek Ct, maintaining its strong roots in Brookfield while providing the necessary space for its expanding operations.</p>\n    ",
+      "ticker": [],
+      "title": "Best Version Media Relocates Headquarters to Expanded Wisconsin Facility to Support Rapid Growth",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118CG02061",
+      "body": "\n<p><i>New Brookfield, Wisconsin location accommodates recent new hires and provides the foundation for BVM's next chapter in omnichannel local marketing</i></p><p><span class=\"legendSpanClass\">BROOKFIELD, Wis.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Best Version Media (BVM), a leading neighborhood magazine publisher and omnichannel marketing solutions provider operating across the United States and Canada, today announced that it has relocated its corporate headquarters to 15800 W. Bluemound Road, Suite 400, Brookfield, WI 53005. The new, expanded facility replaces BVM's previous headquarters at 19355 Janacek Ct, maintaining its strong roots in Brookfield while providing the necessary space for its expanding operations.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039345/BVM-ribbon-cutting.jpg?id=OA3090282\" title=\"Best Version Media celebrates the company's new office space in Brookfield, Wisconsin. From left to right: Vice President of Brand Delivery Katie Wold, CRO Kevin O'Brien, CEO Chris Laurence, Office Coordinator Diana Lazo, COO Chris Patheiger, CFO Mark Kammenzind, and General Counsel Brendan Rowen. (Photo Credit: Best Version Media)\" alt=\"Best Version Media celebrates the company's new office space in Brookfield, Wisconsin. From left to right: Vice President of Brand Delivery Katie Wold, CRO Kevin O'Brien, CEO Chris Laurence, Office Coordinator Diana Lazo, COO Chris Patheiger, CFO Mark Kammenzind, and General Counsel Brendan Rowen. (Photo Credit: Best Version Media)\"></img>\n                </p>\n    </div>\n<p>The move follows a period of accelerated growth for BVM as it successfully scaled its integrated digital marketing solutions alongside its core hyperlocal print publications. With BVM surpassing 82,000 digital campaigns managed to date and publishing over 1,300 print magazines each month, the company has experienced a significant increase in internal demand. This transition to a larger headquarters supports the growth trajectory BVM outlined following its 2025 acquisition by H.I.G. Capital, giving BVM the footprint required for recent new hires, ongoing recruitment, and expanded service offerings.</p><p>\"As we continue our rapid expansion and welcome top-tier talent to our team, we needed a headquarters that reflects our next chapter while keeping us rooted in the local community,\" said Chris Laurence, CEO of Best Version Media. \"This new space gives us a highly collaborative, flexible footprint that supports our new hires, nurtures our award-winning company culture, and positions us perfectly for the added opportunities that lie ahead as we help local businesses grow across North America.\"</p><p><b>What the new headquarters supports</b></p><ul type=\"disc\"><li><b>Accommodating a growing workforce.</b> The expanded square footage provides the physical infrastructure needed to comfortably house recent new hires and supports ongoing recruitment efforts across all BVM departments.</li><li><b>Fostering omnichannel collaboration.</b> An optimized workspace designed to enhance cross-functional teamwork between BVM's traditional print publishing teams and its rapidly expanding digital marketing divisions.</li><li><b>Commitment to the local community.</b> By remaining in Brookfield, Wisconsin, BVM reaffirms its dedication to the local economy and its philanthropic partnerships throughout Southeastern Wisconsin.</li><li><b>Scaling for the next chapter.</b> The new facility aligns with BVM's operational discipline and strategic vision, providing a robust foundation for supporting its network of independent Publishers and serving the 100,000+ businesses that have trusted BVM since 2007.</li></ul><p><b>About Best Version Media</b></p><p>Best Version Media is a leading neighborhood magazine publisher and omnichannel marketing solutions provider that operates across the United States and Canada. Founded in 2007 in Wisconsin, BVM specializes in creating hyperlocal print publications and integrated digital marketing services, fostering powerful community connections, brand storytelling, and local impact. Today, BVM produces over 1,300 print publications and manages tens of thousands of digital campaigns. A multi-year winner of the USA TODAY Top Workplaces and Glassdoor Employees' Choice Awards, BVM is dedicated to bringing communities closer together by sharing positive, local stories. To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826836-1&amp;h=3826679148&amp;u=http%3A%2F%2Fwww.bestversionmedia.com%2F&amp;a=www.bestversionmedia.com\" target=\"_blank\" rel=\"nofollow\">www.bestversionmedia.com</a>.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1420865/BVM-Black-v2-Logo.jpg?id=OA3089827\" title=\"Best Version Media\" alt=\"Best Version Media\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CG02061&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/best-version-media-relocates-headquarters-to-expanded-wisconsin-facility-to-support-rapid-growth-302944528.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/best-version-media-relocates-headquarters-to-expanded-wisconsin-facility-to-support-rapid-growth-302944528.html</a></p><p>SOURCE Best Version Media, LLC</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CG02061&amp;Transmission_Id=202611181741PR_NEWS_USPR_____CG02061&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Best Version Media, LLC",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 3,
+          "digital": 4,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:marketing",
+            "industry:ADV"
+          ],
+          "digital": [
+            "industry:MLM",
+            "industry:PUB"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T23:31:35.490Z"
+    },
+    {
+      "company": [
+        "Hagerty"
+      ],
+      "date": "20261118T201700+0000",
+      "dateline": "TRAVERSE CITY, Mich., Nov. 18, 2026",
+      "feed": [
+        "PRNUS",
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "MCH",
+        "UMW",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "AUT",
+        "TRN",
+        "ADV",
+        "ENT",
+        "FLM"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "From left: Randall Smith, Darren Martin, Liv Graves, Anthony Esposito, Jason Cammisa, Taylor Harris and Robert Sanders",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2039194/Hagerty-Motor-Film-Awards-2026.jpg?id=OA3089852&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2039194/Hagerty-Motor-Film-Awards-2026.jpg?id=OA3089852&p=publish"
+        },
+        {
+          "caption": "Hagerty New Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1786054/Hagerty-New-Logo.jpg?id=OA3089845&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1786054/Hagerty-New-Logo.jpg?id=OA3089845&p=publish"
+        }
+      ],
+      "release_id": "20261118DE01862",
+      "status": "PUBLISHED",
+      "subject": [
+        "AWD"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">TRAVERSE CITY, Mich.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Hagerty won Best Journalism Film, one of seven nominations for the company at the 2026 International Motor Film Awards, held Nov. 14 at the Petersen Automotive Museum in Los Angeles. Hagerty has now taken home Best Journalism Film five years in a row through the continued creative delivery of Jason Cammisa and his video team.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039194/Hagerty-Motor-Film-Awards-2026.jpg?id=OA3089852\" title=\"From left: Randall Smith, Darren Martin, Liv Graves, Anthony Esposito, Jason Cammisa, Taylor Harris and Robert Sanders\" alt=\"From left: Randall Smith, Darren Martin, Liv Graves, Anthony Esposito, Jason Cammisa, Taylor Harris and Robert Sanders\"></img>\n                </p>\n    </div>\n<p><b>2026 International Motor Film Awards Winner – Best Journalism Film<br></br></b>Hagerty's winning entry featured a fan-favorite three-car showdown viewed more than 2.8 million times on YouTube:</p>",
+      "ticker": [
+        "NYSE:HGTY"
+      ],
+      "title": "Five Wins in Five Years: Hagerty Earns Best Journalism Film at International Motor Film Awards",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118DE01862",
+      "body": "\n<p><span class=\"legendSpanClass\">TRAVERSE CITY, Mich.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Hagerty won Best Journalism Film, one of seven nominations for the company at the 2026 International Motor Film Awards, held Nov. 14 at the Petersen Automotive Museum in Los Angeles. Hagerty has now taken home Best Journalism Film five years in a row through the continued creative delivery of Jason Cammisa and his video team.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039194/Hagerty-Motor-Film-Awards-2026.jpg?id=OA3089852\" title=\"From left: Randall Smith, Darren Martin, Liv Graves, Anthony Esposito, Jason Cammisa, Taylor Harris and Robert Sanders\" alt=\"From left: Randall Smith, Darren Martin, Liv Graves, Anthony Esposito, Jason Cammisa, Taylor Harris and Robert Sanders\"></img>\n                </p>\n    </div>\n<p><b>2026 International Motor Film Awards Winner – Best Journalism Film<br></br></b>Hagerty's winning entry featured a fan-favorite three-car showdown viewed more than 2.8 million times on YouTube:</p><ul type=\"disc\"><li><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=2278790359&amp;u=https%3A%2F%2Fbit.ly%2F3UFxXeO&amp;a=%22Cammisa%27s+Ultimate+Lap+Battle+2025%22\" target=\"_blank\" rel=\"nofollow\">\"Cammisa's Ultimate Lap Battle 2025\"</a> – Randy Pobst sets a new production-car lap record at Sonoma Raceway, and Cammisa details how it happened in a three-way battle between the 2026 Chevrolet Corvette ZR1 (ZTK), the Ford Mustang GTD, and reigning champion, the 992.1 Porsche 911 GT3 RS. Directed by Anthony Esposito.</li></ul><p>\"Winning Best Journalism Film five years running says a lot about the dedication our team brings to creating great content for driving enthusiasts,\" said Marc Burns, Hagerty Chief Marketing Officer. \"Our job is to give the audience something irresistible to watch when they can't be behind the wheel, and Cammisa's Ultimate Lap Battle does just that.\"</p><p><b>2026 International Motor Film Award Nominees<br></br></b>Hagerty also earned six nominations, five for Best Journalism Film and one for Best Documentary Short. The five other Hagerty films nominated for Best Journalism Film were <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=3926263549&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr2I3a4PtZZc&amp;a=%22RetroSpective%22\" target=\"_blank\" rel=\"nofollow\">\"RetroSpective\"</a>, hosted by Cammisa and directed by Esposito as well as <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=3490921452&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7nZ1fji6gGc&amp;a=%22Prodrive+550%3A+Driving+the+Last+V12+Ferrari+to+Win+at+Le+Mans%22\" target=\"_blank\" rel=\"nofollow\">\"Prodrive 550: Driving the Last V12 Ferrari to Win at Le Mans\"</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=2900286893&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2jgRT_jXdD0&amp;a=%22HWA+Evo%3A+A+Legend+Reborn%22\" target=\"_blank\" rel=\"nofollow\">\"HWA Evo: A Legend Reborn\"</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=4155926073&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di9nzsTHY5E0&amp;a=%22Ford+Raptor+T1%2B+Meets+Ariel+Nomad+2%22\" target=\"_blank\" rel=\"nofollow\">\"Ford Raptor T1+ Meets Ariel Nomad 2\"</a>, and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=1444267545&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DV61zyDo1Bzo&amp;a=%22Ferrari+F355+Restomod+by+Evoluto%22\" target=\"_blank\" rel=\"nofollow\">\"Ferrari F355 Restomod by Evoluto\"</a>, hosted by Henry Catchpole and filmed by Glenn Winhall. The Best Documentary Short nomination was for <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=1542332455&amp;u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwSZDqnnPx_g&amp;a=%22Hagerty%27s+50+Years+of+the+Porsche+911+Turbo%22\" target=\"_blank\" rel=\"nofollow\">\"Hagerty's 50 Years of the Porsche 911 Turbo\"</a> featuring Cammisa and Catchpole with production by Esposito and Robert Dalrymple.</p><p>The International Motor Film Awards honor the best in automotive film, television and photography, from YouTube productions to Hollywood features. Hagerty's win follows the four Gold Telly Awards the brand earned earlier this year for its Cammisa-hosted shows.</p><p>Hagerty makes it easier and more enjoyable to be a driving enthusiast, and award-winning content is central to that purpose. Across video, digital, print and audio, the brand is a trusted voice for the 67 million American car enthusiasts. The Hagerty Drivers Club is the largest car club in the world, with nearly 1 million members, and its magazine is the most popular car magazine in the world, with 2.2 million readers. Hagerty's original video programming, including Cammisa's \"Icons,\" \"Revelations\" and \"Ultimate\" series and Catchpole's \"The Driver's Seat,\" has earned nearly 1 billion views, with new episodes on the Hagerty YouTube channel and streaming on Prime Video, Samsung TV Plus and Tubi.</p><p>To see more award-winning films, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=432203677&amp;u=https%3A%2F%2Fwww.youtube.com%2Fhagerty&amp;a=www.youtube.com%2Fhagerty\" target=\"_blank\" rel=\"nofollow\">www.youtube.com/hagerty</a>, and to stay up to date with Hagerty, sign up for the Never Stop Driving newsletter at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=372280712&amp;u=https%3A%2F%2Fwww.hagerty.com%2Fmedia%2Fnewsletter%2F&amp;a=www.hagerty.com%2Fmedia%2Fnewsletter\" target=\"_blank\" aria-invalid=\"true\" rel=\"nofollow\">www.hagerty.com/media/newsletter</a>.</p><p><b>About Hagerty, Inc. (NYSE: HGTY)<br></br></b>Hagerty is a company built by drivers for drivers, protecting 3.1 million vehicles in the United States, Canada and the UK. We make it easier and more enjoyable for car enthusiasts to drive and celebrate the machines they love through innovative vehicle insurance products, live and digital auctions, engaging media and events and the Hagerty Drivers Club, the world's largest membership community of car lovers.</p><p>For more information, please visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=3422701947&amp;u=https%3A%2F%2Fwww.hagerty.com%2F&amp;a=www.hagerty.com\" target=\"_blank\" rel=\"nofollow\">www.hagerty.com</a> or <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826634-1&amp;h=2119589499&amp;u=https%3A%2F%2Fnewsroom.hagerty.com%2F&amp;a=www.newsroom.hagerty.com\" target=\"_blank\" rel=\"nofollow\">www.newsroom.hagerty.com</a>. Never Stop Driving®.</p><p>Category: Financial<br></br>Source: Hagerty</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1786054/Hagerty-New-Logo.jpg?id=OA3089845\" title=\"Hagerty New Logo\" alt=\"Hagerty New Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE01862&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/five-wins-in-five-years-hagerty-earns-best-journalism-film-at-international-motor-film-awards-302944382.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/five-wins-in-five-years-hagerty-earns-best-journalism-film-at-international-motor-film-awards-302944382.html</a></p><p>SOURCE Hagerty</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE01862&amp;Transmission_Id=202611181517PR_NEWS_USPR_____DE01862&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Hagerty",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 2,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 6,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "industry:ADV"
+          ],
+          "entertainment": [
+            "film",
+            "industry:ENT",
+            "industry:FLM"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T23:31:35.660Z"
+    },
+    {
+      "company": [
+        "Palmetto Publishing"
+      ],
+      "date": "20261118T190100+0000",
+      "dateline": "CHARLESTON, S.C., Nov. 18, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_NO_ELD",
+        "PRNUS",
+        "PRNUS_ONLY",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "SCR",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "BKS",
+        "PUB",
+        "REA"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Coach Conqueror Book Cover",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2038057/Palmetto-Publishing-Coach-Conqueror-Book-Cover.jpg?id=OA3085761&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2038057/Palmetto-Publishing-Coach-Conqueror-Book-Cover.jpg?id=OA3085761&p=publish"
+        },
+        {
+          "caption": "Palmetto Publishing Logo",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1960932/Palmetto-Publishing-Logo.jpg?id=OA3085755&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1960932/Palmetto-Publishing-Logo.jpg?id=OA3085755&p=publish"
+        }
+      ],
+      "release_id": "20261118CL00487",
+      "status": "PUBLISHED",
+      "subject": [
+        "CHI",
+        "PDT"
+      ],
+      "summary": "<p>New children's book by Conqueror Roberts builds courage, confidence, and personal safety skills by making kids the heroes of their own stories.</p><p><span class=\"legendSpanClass\">CHARLESTON, S.C.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Palmetto Publishing announces the publication of COACH CONQUEROR<sup>®</sup>, Volume One, a children's superhero book by life coach, mentor, and longtime youth and juvenile justice professional Conqueror Roberts.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2038057/Palmetto-Publishing-Coach-Conqueror-Book-Cover.jpg?id=OA3085761\" title=\"Coach Conqueror Book Cover\" alt=\"Coach Conqueror Book Cover\"></img>\n                </p>\n    </div>\n<p>Most superheroes win with strength, speed, or flight. Coach Conqueror's power is different: he helps children find the courage and confidence they already have, then lets them use it.</p>",
+      "ticker": [],
+      "title": "Palmetto Publishing Introduces COACH CONQUEROR®, the Superhero Who Helps Children Discover the Hero Within",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118CL00487",
+      "body": "\n<p>New children's book by Conqueror Roberts builds courage, confidence, and personal safety skills by making kids the heroes of their own stories.</p><p><span class=\"legendSpanClass\">CHARLESTON, S.C.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Palmetto Publishing announces the publication of COACH CONQUEROR<sup>®</sup>, Volume One, a children's superhero book by life coach, mentor, and longtime youth and juvenile justice professional Conqueror Roberts.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2038057/Palmetto-Publishing-Coach-Conqueror-Book-Cover.jpg?id=OA3085761\" title=\"Coach Conqueror Book Cover\" alt=\"Coach Conqueror Book Cover\"></img>\n                </p>\n    </div>\n<p>Most superheroes win with strength, speed, or flight. Coach Conqueror's power is different: he helps children find the courage and confidence they already have, then lets them use it.</p><p>In ten stories, young readers meet children facing bullying, peer pressure, fear, self-doubt, and the wish to fit in. Coach Conqueror doesn't solve their problems for them. He listens, asks questions, and helps each child recognize their own strengths and choose what to do next.</p><p>\"Every child has greatness within them. Sometimes they simply need someone to help them discover it,\" said Conqueror Roberts. \"I wanted a superhero who doesn't just rescue children, but helps them find the courage and strength to overcome challenges themselves.\"</p><p>The stories show that real heroism lives in everyday choices: telling the truth, treating others with kindness, and doing what's right when it's hard. Each one carries a lesson in resilience, problem-solving, or responsible decision-making, and a reminder that a child's mistakes don't define their future.</p><p>COACH CONQUEROR<sup>®</sup> also helps children recognize unsafe situations, set healthy boundaries, and go to trusted adults for help. It teaches that children have the right to say no, ask questions, and speak up when something feels wrong.</p><p>Roberts brings more than 25 years in counseling, juvenile justice, and investigations to these lessons. That work showed him how much early education and open family communication protect children. The book handles these topics through encouraging stories, never through fear.</p><p><b>COACH CONQUEROR<sup>®</sup> is the foundation of a broader educational and motivational movement for children, families, educators, counselors, and communities.</b> The book is built to start conversations at home, in classrooms, and in counseling and mentoring settings.</p><p>At the heart of the movement is a simple message: Stop Coping, Start Conquering<sup>®</sup></p><p>Courage doesn't mean never feeling afraid. It means facing challenges, making responsible choices, and asking for help when it's needed.</p><p>COACH CONQUEROR<sup>®</sup>, Volume One, is available on <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825309-1&amp;h=3789901828&amp;u=https%3A%2F%2Fwww.amazon.com%2FCoach-Conqueror-One-Roberts%2Fdp%2FB0HPCC4B7Y%2Fref%3Dsr_1_1%3Fcrid%3D3BERCQU5C4XA6%26dib%3DeyJ2IjoiMSJ9.2wvimM7zDOMBZKtgIy9Zaw.pKes86GhsLUkw_wfgd3uWAiQkQ9eEmlrmkuOtDG8FF4%26dib_tag%3Dse%26keywords%3Dcoach%2Bconqueror%26qid%3D1794940390%26s%3Dbooks%26sprefix%3Dcoach%2Bconquero%252Cstripbooks%252C244%26sr%3D1-1&amp;a=Amazon.com\" target=\"_blank\" rel=\"nofollow\">Amazon.com</a> and <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825309-1&amp;h=3536165238&amp;u=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fcoach-conqueror-conqueror-roberts%2F1151799613%3Fean%3D9798318850233&amp;a=Barnesandnoble.com\" target=\"_blank\" rel=\"nofollow\">Barnesandnoble.com</a>. </p><p><b>About the Author</b></p><p>Conqueror Roberts is the creator and founder of COACH CONQUEROR<sup>®</sup>, a certified life coach, certified personal trainer, self-defense expert, and mentor. Since 1998, he has worked with children, adolescents, families, and adults facing behavioral and emotional challenges.</p><p>His career includes roles as a behavioral specialist, correctional counselor and officer, juvenile justice professional, law enforcement officer, investigator, and intelligence professional with the United States Department of Justice. He has also led training in crisis intervention and personal safety education.</p><p>Today Roberts carries his mission into life coaching, school and community programs, public speaking, and self-defense instruction.</p><p>\"Some people wear capes,\" Roberts said. \"My mission is to help people discover the hero within themselves.\"</p><p><b>About the Book</b></p><p>Title: COACH CONQUEROR<sup>®</sup> — Volume One<br></br>Author: Conqueror Roberts<br></br>Publisher: Palmetto Publishing<br></br>Scheduled Publication Date: November 3, 2026<br></br>ISBN-13: 9798318850240 / 9798318850233<br></br>Website: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4825309-1&amp;h=1322779199&amp;u=http%3A%2F%2Fwww.coachconqueror.org%2F&amp;a=www.coachconqueror.org\" target=\"_blank\" rel=\"nofollow\">www.coachconqueror.org</a><br></br>Author Availability: Media interviews, speaking engagements, educational discussions, school programs, and community presentations.</p><p>Every child has a hero within them. COACH CONQUEROR<sup>®</sup> helps them discover it.</p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1960932/Palmetto-Publishing-Logo.jpg?id=OA3085755\" title=\"Palmetto Publishing Logo\" alt=\"Palmetto Publishing Logo\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=CL00487&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/palmetto-publishing-introduces-coach-conqueror-the-superhero-who-helps-children-discover-the-hero-within-302943791.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/palmetto-publishing-introduces-coach-conqueror-the-superhero-who-helps-children-discover-the-hero-within-302943791.html</a></p><p>SOURCE Palmetto Publishing</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=CL00487&amp;Transmission_Id=202611181401PR_NEWS_USPR_____CL00487&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Palmetto Publishing",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [],
+      "mjr_review": true,
+      "mjr_classification": {
+        "categories": [],
+        "review": true,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 2,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "industry:PUB"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T23:31:35.818Z"
+    },
+    {
+      "company": [
+        "K & CO. MEDIA"
+      ],
+      "date": "20261118T180700+0000",
+      "dateline": "LOS ANGELES, Nov. 18, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "prncom_prnj",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "CLF",
+        "UWS",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "ART",
+        "MUS"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Singer-Songwriter Katana Natasha Unveils LEGACY. ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2039068/Katana-Natasha.jpg?id=OA3089405&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2039068/Katana-Natasha.jpg?id=OA3089405&p=publish"
+        },
+        {
+          "caption": "K& Co Media",
+          "seq": "2",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2039090/Logo-KCoMedia.jpg?id=OA3089478&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2039090/Logo-KCoMedia.jpg?id=OA3089478&p=publish"
+        }
+      ],
+      "release_id": "20261118LA01617",
+      "status": "PUBLISHED",
+      "subject": [],
+      "summary": "<p class=\"prntac\"><i>An upcoming original EP and collection of musical experiences. More than music.<br></br></i><i>A message that lives on.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- K &amp; Co. Media announces the development of LEGACY, an upcoming original EP and collection of musical projects by singer-songwriter <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826452-1&amp;h=1864238746&amp;u=https%3A%2F%2Fkatananatasha.com%2F&amp;a=Katana+Natasha\" target=\"_blank\" rel=\"nofollow\">Katana Natasha</a>. Extending beyond the album, LEGACY brings together creativity, connection and live experiences with a message of hope and lasting impact.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039068/Katana-Natasha.jpg?id=OA3089405\" title=\"Singer-Songwriter Katana Natasha Unveils LEGACY. \" alt=\"Singer-Songwriter Katana Natasha Unveils LEGACY. \"></img>\n                </p>\n    </div>\n<p><b><i>\"Music has always been a part of my life, but now I'm stepping into an exciting new season, making more room to create, write and fully express myself as an artist,\" </i></b>says Katana.</p>",
+      "ticker": [],
+      "title": "Singer-Songwriter Katana Natasha Unveils LEGACY, Her Most Personal and Purposeful Music Project Yet",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118LA01617",
+      "body": "\n<p class=\"prntac\"><i>An upcoming original EP and collection of musical experiences. More than music.<br></br></i><i>A message that lives on.</i></p><p><span class=\"legendSpanClass\">LOS ANGELES</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- K &amp; Co. Media announces the development of LEGACY, an upcoming original EP and collection of musical projects by singer-songwriter <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826452-1&amp;h=1864238746&amp;u=https%3A%2F%2Fkatananatasha.com%2F&amp;a=Katana+Natasha\" target=\"_blank\" rel=\"nofollow\">Katana Natasha</a>. Extending beyond the album, LEGACY brings together creativity, connection and live experiences with a message of hope and lasting impact.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039068/Katana-Natasha.jpg?id=OA3089405\" title=\"Singer-Songwriter Katana Natasha Unveils LEGACY. \" alt=\"Singer-Songwriter Katana Natasha Unveils LEGACY. \"></img>\n                </p>\n    </div>\n<p><b><i>\"Music has always been a part of my life, but now I'm stepping into an exciting new season, making more room to create, write and fully express myself as an artist,\" </i></b>says Katana.</p><p>The vision for LEGACY began with a personal reflection as a mother: What would she leave behind for her children and the world around her? For Katana, the answer was music and faith.</p><p>Having grown up singing in church, leading worship and performing, Katana's artistic experience spans music, television and commercial projects. Throughout her life, she has always found her way back to the piano, finding peace in song and strength in her faith. It is where she is reminded of who she is and the rich heritage that has shaped her.</p><p><b><i>\"I want to create music I am proud of, something my children and community can embrace and be inspired by. Songs that remind us of where we come from and continue to speak long after I'm gone.\"</i></b></p><p>Through LEGACY, Katana hopes to evoke emotion and encourage others to ask themselves:</p><p>What do you want to be known for? What will your legacy be?</p><p>LEGACY by <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826452-1&amp;h=1864238746&amp;u=https%3A%2F%2Fkatananatasha.com%2F&amp;a=Katana+Natasha\" target=\"_blank\" rel=\"nofollow\">Katana Natasha</a> will encompass three signature projects:</p><ul type=\"disc\"><li>The Album: A four-to-six-song inspirational EP featuring original music and showcasing Katana's distinctive vocal sound.</li><li>The Worship Experience: A professionally filmed, extended worship experience planned for YouTube, offering moments of reflection and renewal.</li><li>The Live Experience: An intimate, interactive album release event bringing together music, community and thought-provoking conversations.</li></ul><p>Katana is also collaborating with film producers and directors on projects in development, writing original songs and music for upcoming productions.</p><p>Now, brands and individuals have the opportunity to become part of the making of LEGACY. K &amp; Co. Media has created select brand partnerships and sponsorship opportunities designed to align participating brands with the project's message while showcasing them throughout the campaign. From the recording studio to the live stage, opportunities include strategic brand integration, media and publicity campaigns, social media promotion, behind-the-scenes content, digital storytelling and live-event engagement.</p><p><b><i>\"LEGACY is about creating something meaningful that will outlast me. I want to be remembered for my music, for lifting others up and for making a positive difference in people's lives. Through the making of this album and the pursuit of my own musical dreams, I hope to inspire others to pursue theirs. Ultimately, I want this project to encourage all of us to reflect on how we're living, the impact we're making while alive and what we will leave behind.\"</i></b></p><p><b><i>Live with purpose. Leave a legacy.<br></br></i></b></p><p><b><i>Artist Instagram:  @Katana_Natasha<br></br><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826452-1&amp;h=1533398140&amp;u=https%3A%2F%2Fkatananatasha.com%2F&amp;a=https%3A%2F%2Fkatananatasha.com%2F\" target=\"_blank\" rel=\"nofollow\">https://katananatasha.com/</a></i></b></p><p> <b>FOR PRESS, MEDIA &amp; PARTNERSHIP INQUIRIES:</b> K &amp; Co. Media | 559.341.7791 | <a href=\"mailto:info@kandcomedia.co\" target=\"_blank\" rel=\"nofollow\">info@kandcomedia.com</a> |  <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826452-1&amp;h=4232729360&amp;u=http%3A%2F%2Fwww.kandcomedia.com%2F&amp;a=www.kandcomedia.com\" target=\"_blank\" rel=\"nofollow\">www.kandcomedia.com</a></p>\n<div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039090/Logo-KCoMedia.jpg?id=OA3089478\" title=\"K&amp; Co Media\" alt=\"K&amp; Co Media\"></img>\n                </p>\n</div>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA01617&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/singer-songwriter-katana-natasha-unveils-legacy-her-most-personal-and-purposeful-music-project-yet-302944244.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/singer-songwriter-katana-natasha-unveils-legacy-her-most-personal-and-purposeful-music-project-yet-302944244.html</a></p><p>SOURCE K &amp; CO. MEDIA</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA01617&amp;Transmission_Id=202611181307PR_NEWS_USPR_____LA01617&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "K & CO. MEDIA",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n.prntac{\nTEXT-ALIGN: CENTER\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "entertainment"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "entertainment"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 7,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "entertainment": [
+            "music",
+            "summary:album",
+            "industry:ENT",
+            "industry:MUS"
+          ]
+        },
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T23:31:35.983Z"
+    },
+    {
+      "company": [
+        "Florida Polytechnic University"
+      ],
+      "date": "20261118T180500+0000",
+      "dateline": "LAKELAND, Fla., Nov. 18, 2026",
+      "feed": [
+        "prncom_prnj",
+        "PRNUS_NO_ELD",
+        "APPLE_NEWS",
+        "PRNUS"
+      ],
+      "geography": [
+        "FRD",
+        "USE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "CST",
+        "EDU",
+        "HED",
+        "FIN",
+        "CPR"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "A new residence hall, dining facility and expanded parking will support enrollment growth, enhance student life and advance Florida Poly’s mission to prepare the next generation of STEM leaders. (Rendering courtesy of Design Collective.)",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2039039/Florida-Poly-expansion-Residence-Hall-Exterior.jpg?id=OA3089327&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2039039/Florida-Poly-expansion-Residence-Hall-Exterior.jpg?id=OA3089327&p=publish"
+        }
+      ],
+      "release_id": "20261118FL01571",
+      "status": "PUBLISHED",
+      "subject": [
+        "RLE",
+        "PDT",
+        "FVT"
+      ],
+      "summary": "<p><span class=\"legendSpanClass\">LAKELAND, Fla.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Florida Polytechnic University is moving forward with a major campus expansion to accommodate its rapidly growing student population. The University's Board of Trustees approved plans on Wednesday, Nov. 18, for a new student residence hall, dining facility and additional parking on the Lakeland campus.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039039/Florida-Poly-expansion-Residence-Hall-Exterior.jpg?id=OA3089327\" title=\"A new residence hall, dining facility and expanded parking will support enrollment growth, enhance student life and advance Florida Poly’s mission to prepare the next generation of STEM leaders. (Rendering courtesy of Design Collective.)\" alt=\"A new residence hall, dining facility and expanded parking will support enrollment growth, enhance student life and advance Florida Poly’s mission to prepare the next generation of STEM leaders. (Rendering courtesy of Design Collective.)\"></img>\n                </p>\n    </div>\n<p>The expansion comes as Florida Poly experiences record enrollment and increasing demand for on-campus housing. The University welcomed more than 2,340 students this fall, a 35% increase over the past two years, and existing residence halls are at full occupancy. With enrollment projected to reach 3,000 students by 2030, the new facilities will help ensure the campus can keep pace with student needs.</p>",
+      "ticker": [],
+      "title": "Florida Poly advances major housing and dining expansion amid record growth",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261118FL01571",
+      "body": "\n<p><span class=\"legendSpanClass\">LAKELAND, Fla.</span>, <span class=\"legendSpanClass\">Nov. 18, 2026</span> /PRNewswire/ -- Florida Polytechnic University is moving forward with a major campus expansion to accommodate its rapidly growing student population. The University's Board of Trustees approved plans on Wednesday, Nov. 18, for a new student residence hall, dining facility and additional parking on the Lakeland campus.</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS2039039/Florida-Poly-expansion-Residence-Hall-Exterior.jpg?id=OA3089327\" title=\"A new residence hall, dining facility and expanded parking will support enrollment growth, enhance student life and advance Florida Poly’s mission to prepare the next generation of STEM leaders. (Rendering courtesy of Design Collective.)\" alt=\"A new residence hall, dining facility and expanded parking will support enrollment growth, enhance student life and advance Florida Poly’s mission to prepare the next generation of STEM leaders. (Rendering courtesy of Design Collective.)\"></img>\n                </p>\n    </div>\n<p>The expansion comes as Florida Poly experiences record enrollment and increasing demand for on-campus housing. The University welcomed more than 2,340 students this fall, a 35% increase over the past two years, and existing residence halls are at full occupancy. With enrollment projected to reach 3,000 students by 2030, the new facilities will help ensure the campus can keep pace with student needs.</p><p>\"Our University is seeing tremendous growth, and our campus must be ready to meet that demand. Our students deserve facilities that match the quality of the education they're receiving,\" said Dr. Devin Stephenson, president of Florida Poly. \"We're building a campus that reflects their ambition and potential while creating an environment where they can thrive. This investment is about meeting their needs today while preparing our University for the opportunities ahead.\" </p><p>The new six-story, 159,172-square-foot residence hall will add 600 beds for students. It will become the University's fourth housing building, following the opening of a 430-bed facility in fall 2024 that has already reached capacity. The new building will feature a mix of single- and double-occupancy suites, along with study rooms, collaborative spaces, a community kitchen and lounges where students can relax and connect.</p><p>Complementing the additional housing will be a 27,517-square-foot dining facility with seating for 740 people. Designed as a central gathering place, it will feature an outdoor patio, open kitchens and a variety of dining options, including made-to-order meals and a dedicated allergen station. The expansion will include approximately 500 additional surface parking spaces to help accommodate the growing number of students, faculty and staff on campus. </p><p>\"As Florida Poly continues to grow, so do the needs of its students and its campus,\" said Geoff Eisenacher, vice president of development at Gilbane Development. \"The University is making an important investment in its students by enhancing the campus experience for those here today while creating the capacity to welcome more students pursuing an education in STEM. Gilbane is proud to partner with Florida Poly as it plans for this continued growth and creates a more connected campus experience that will serve students for years to come.\"</p><p>The project will be developed through a public-private partnership (P3), with Gilbane Development leading the project's development, Gilbane Building overseeing construction, and Design Collective directing architecture and interior design. Construction is expected to begin in spring 2027, with completion anticipated in time for the fall 2028 semester.</p><p>\"Florida Poly's strategic growth demands housing and dining that keep pace with enrollment,\" said Anthony Barbar, CEO of Barbar &amp; Associates and the University's P3 advisor. \"This partnership aligns the University's long-term goals with a structure that delivers quality facilities and protects its interests. It was a privilege to advise the University's leadership team through this process.\"</p><p>The approved expansion is part of a broader effort to reshape Florida Poly's campus to meet the needs of its growing student body. Another major project on the horizon is the <u><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4826407-1&amp;h=4151840494&amp;u=https%3A%2F%2Ffloridapoly.edu%2Fnews%2F092526-florida-poly-unveils-designs-for-new-student-achievement-center%2F&amp;a=Student+Achievement+Center\" target=\"_blank\" rel=\"nofollow\">Student Achievement Center</a></u> (StAC), a 138,400-square-foot facility that will serve as a hub for student services, career resources and collaborative spaces. Groundbreaking is anticipated in early 2027. </p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=FL01571&amp;sd=2026-11-18\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/florida-poly-advances-major-housing-and-dining-expansion-amid-record-growth-302944243.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/florida-poly-advances-major-housing-and-dining-expansion-amid-record-growth-302944243.html</a></p><p>SOURCE Florida Polytechnic University</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=FL01571&amp;Transmission_Id=202611181305PR_NEWS_USPR_____FL01571&amp;DateId=20261118\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Florida Polytechnic University",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "college"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "college"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 0,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {},
+        "news_score": 0,
+        "excluded": false
+      },
+      "imported_at": "2026-11-18T23:31:36.135Z"
+    },
     {
       "company": [
         "ACME Media"
