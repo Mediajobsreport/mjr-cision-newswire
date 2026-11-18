@@ -1,13 +1,295 @@
 {
-  "updated": "2026-11-18T08:45:39.365Z",
+  "updated": "2026-11-18T17:43:03.218Z",
   "source": "Google News RSS fallback",
   "category": "entertainment",
   "articles": [
     {
-      "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXUxNTdjLXNjWkstaDZLVzBWQjhLYk9OYkxUS3F3NWRzbEZFWkRwbEY3WmJwS2xfeEtWS3VxbGlydzZCc1Z0UXdXX0xXd3R3YlFIVWp4VUE1WC1aYkp4X0tzb0thU0ZKdnVqc3k5aG0tbk55QnpBMW94bHF3V3hXVjctdW0zRldCdGc?oc=5",
-      "domain": "billboard.com",
-      "seendate": "20261118074258"
+      "title": "Nearness: Singer Lizz Wright’s Jazz Duo Prayer with Pianist and Forever Friend Kenny Banks Sr.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYW1xODVfRjBuaEx3OUExaUswbTBZMjMzRjZpQnE2ZTFIVXJpaVBrVFNYLWU5Rkdzbk1HajBkbURwb3pMdUJWTUNxdHFkb1liVWtSLXJrUnFEMFpKdm1NTDdCc1ZCS2xTYThWWlhWSTJROFZqdWluM3owOUEyYWdJcmZ0MXUyOUlFZjhrdEF4Q2xJMzlWMGVoRDA3Wkl1SkFXM0ZKTXFEd1RxYTZwVHdJd2k0cTZJekl6SU9qYlJUQWloQUVDcGExU3J3NkRGcm9NR1E?oc=5",
+      "domain": "jazztimes.com",
+      "seendate": "20261118152524"
+    },
+    {
+      "title": "Fire breaks out at former Cielo Hotel in Hollywood",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yZ0dRRll3NmVVcjVKM0EweW5rc1FfVTZTMGplUXZTMFRWVzlaX0luYXYxdVNVNXhQMXBtSjVBQ1JLVVNiWmpDQnhwU0V2eHAyWFVuaHdTaGhiSHd0blI2N1ZDOXFnekVIUmVpcnVFaHZQSHI1RUhVV21PX2XSAYIBQVVfeXFMTkFqOFNXaHBfZFE3ZWEtdGpjbUZNdU05TlZzWkU2VnlqSjZPOUM0NXNhLXVPZXFTU2pRb0JkSmVKTkxmQ0lDdGlZdXFYWVpLZ2V0b284dVl2RnVxTjA3RldkWHhnMEI1VmlHRFdpNjBpaU1CTTRDbUF0MWw1bmhEMjE0dw?oc=5",
+      "domain": "abc7.com",
+      "seendate": "20261118134921"
+    },
+    {
+      "title": "In This Cool Course, Music Tech Students Practice Making Concert Recordings with Top-Notch Performers",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDM5Y0loRFdVeTNDWmxSS3Y0bHNwOEdzVFVaSkNUUjlYTXNpXzA5eHJRdHpDWktHcUtUbkc1ZTByR2dZeTJpZUJrSktGUnNseVR5NkQ3aG8xU0s0RDkzR3ctWmFIRGQ2U0Y1dkg1YVdHV3JkSFZ2ZDJaWF9GWW5PYXVQNlEtMU9xdkZsQkZPZ0JVQnFBcDdWMy1GNkR3SWh3TkUwbVVjRllDb1cwLTFaQ2l6WUNvTE1WUVBxNVdvbzVLQW9TSUZidFpZZ3o?oc=5",
+      "domain": "nyu.edu",
+      "seendate": "20261118171120"
+    },
+    {
+      "title": "Meet The New ‘Friday The 13th’ Movie Cast",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBMm9aSXRSUFhSQkpKMEh2V3FZQVM0MEtESVYxbHdzSHZIeWh3MzdlY0RNTXdlcTVFTXAzcl9OSlB0VTAzTjYySE5veHk5cWJ1TzhZSEtvWVBueHN5UjZfUE9ZU3VFS1ppSl9vRFJGM2hySjdlSUE?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261118143700"
+    },
+    {
+      "title": "Glam Slam: Hollywood’s Top 26 Beauty Moments of 2026",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wWURPalMxMzdPbXpaTDY5RFNRSUQ3N2U0SldpR1E4TGx6NVZCcXpiUkh6bjRDN3VTNElSOWxfM1ZBM245c0lvejJIVm9qUml5cVd6TVhTdW9wLWhuT0kxdXU4RWZpWTNZekc5U1VSMWJJblViaEpDOEd1WGFyUQ?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261118143000"
+    },
+    {
+      "title": "The ‘Madden’ movie whiffed on the title character, even if it has redeeming qualities",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOenNpa0xBX3g0cV85NXBBMVJCRUNDT0hCQWJtaklxb0lOVjNoWERWVEQxNWRKOEl4TmVSanYyNW1MXzNyLXJieHg5NkM2Qy1JM0R4dnpSVjhqd0xJeEo3ZVdLUVhZMk9YanNEa3lrZGoxb0ZHMFVvLTRfaWZjbjJsTDg5b0o3OE80bTRneVVjWG0xQ1hX?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261118132351"
+    },
+    {
+      "title": "Newly reopened Forest Theater will host a music video festival this weekend",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOEotdlhFaFIwaEhucjNyWFE1VGpLeXVoakxZZjgzTVhXUV95NXlYbEhZUmtXNkhZTEhDSDhHcXhqTnZkR1o3aFBkekVDY1hpcnhWWWgyaXJFMFZBWjJ1UWpBdGhzQ0N1NUVkOENtSHlUTDFhOUxxbF9VUzRWcklzRExXUS1UdEhEcmFSNkFoc0pVOEdtR1VDNlkyeVRjX2NDUklzNnl3Qm16aE9z?oc=5",
+      "domain": "kera.org",
+      "seendate": "20261118172656"
+    },
+    {
+      "title": "Lucinda Williams Is Going on Tour in 2027",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wY0k0eU9FR2dUdndPNVZ2U3pmQVJ4eXBLdndNeE1mMkNyN0Z6d21PUjczbUphVkgzODBITFVPOW9SLXl5R0w1U2IyUHp6NEVNbm4tQkV0dXdvb3ZiT1hPY3NYNFhIQmpIdGJYWGdscUdlRXZmUDU1WlVR?oc=5",
+      "domain": "pitchfork.com",
+      "seendate": "20261118163546"
+    },
+    {
+      "title": "A \"Knight\" of music",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94QTUxTEtEUlBLQ01DNEl0NV9hSGVsOEg0eFh0YktnWHEyNHlWQ1pXS3pxNHdwODRVYTh6d2xmdThrbFQtTzltcnlFMy1WRjlWUmdCQloxbEF4MUZ5S2FF?oc=5",
+      "domain": "lynn.edu",
+      "seendate": "20261118162700"
+    },
+    {
+      "title": "Joanna Page says ‘inappropriate’ male actor whispered ‘awful stuff’ to her",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2NOcmg1R05nS3pCaGh5Ync1Q2o0NVhVeFdBQzFZRmxVQ05sUUJ6a3RuYk9jWWE3UkRMYTlSX2llaDR6dC0zekthNHZ3dHE2VE02aWtxRGcxaWRnUUVCbGc0M09Yb2JKSjE2aXJfcWo5eEZVZnVORDFZRE5qMzhUSzVSLWRmZERVQ0I3ckVIbXBiLVBaMTdGSDRnekVfNWtKVnpTOHBlckdNYW5mdGRFa2g2eTRqOEZxXzdLY3NpOFFuelNKNmNKS1FkbjV5ZlBYR1lsUQ?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261118145600"
+    },
+    {
+      "title": "New ‘Friday The 13th’ Movie Unveils Cast, Title & Release Date",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3pZcXJlMmJrTEhGM19HSy1SR3poaVRSVXVLa1VEYzJ4UnpJY1VJOHIySXF6UkN0NW92S2VVeEtxWnRTMF91NWRIYmFtaHdqbjZNUTlYbTk4dmpuaFdnRl9yRHhxdTVEeTFNdnRQbmJaY3pBSnEzaGZFejRXanZKM1BzWEo0MElnS1ZFb3dDTFVTZkEt?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261118140000"
+    },
+    {
+      "title": "A Visual Tour of President Trump’s Visits to Asia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2Yyc0l6TGRJMDRyS0pLSk0taklRSXc0VjNCUE10UXRrTUpsUW5jZXBORVlLLVloVjlZbENIa1U5ZkxrWmx2WHRFRFJJSTA3ODVZOTl3akVDRGwtWlVLLXdyUWwtOUZmY2lzRDBlSFFxbHMtQWhyNFl4dG96aElYSmtEY0Y?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261118144300"
+    },
+    {
+      "title": "Touché Amoré Share New Song, 2027 U.S. Tour Dates",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95ZWwyTU9jR0NWSHZubWUxQWlvX290eDNsQ0xlVWRYSTJLNlFwYzhIVmJaQXdCekU2MEhKX2tad2FSd1hMLV9YZGdpNmlJZE5NUE9WNk50ejgwbGlYY3Q4UkNZQmRqMzlGeHl4MjJqMXZWeE55M1VPNHlhUnI?oc=5",
+      "domain": "pitchfork.com",
+      "seendate": "20261118170349"
+    },
+    {
+      "title": "‘American Idol’ Gets Rid Of Hollywood Week In Favor Of More Live Shows",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3RpSGRyeTJHZ0JUZU9vUjBZRkgtLWY3ejQ1Rjloc3dFdDZnTk9QMWgzM19VMGl6Yi0zZk15T3RFZnoxQWtpS1I1NnQ1V2JrLTJkaDN4X21HYTVaZzBrME85UmozYTBpTzV3ckRNMlQ3ME9KSjVYT2pNY2JWZVNfTml2aWFUcXZqVXp4bGdyVHF6cWM2N3pZ?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261118160000"
+    },
+    {
+      "title": "Jonas Brothers to begin two-night Hollywood Bowl run",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYlhrMXotSW9udldwU01tMmtEOFNCeU1sMXNQRG9mcDJJZjFyOG1kYl9LWDgwTjdUTU1MTmwyN0NnNU9FX21xWWNwckNjNTZXbC10a1JSSHpMckljamc1Rmg2blY3VWl6NEIxdXhoRU4xd1duZmJfbTV2VTBwNHBuRHBJQzlEOUpZMG1HbkNuN0NhbFBwUm1iejVKREpLMS03QW40c9IBrAFBVV95cUxOS1hnS2VIeXI1WV8tN0Z4Q05Hb012SlJ5eE83a0UyRFlTcnRiLWZGVE9pWXREZGQ3MnFSZDduQnZOZVFrVHU3c1ZueTFyc0tyNFlKUHlvRm5VRENzV3V3Q1lBS1dBWTdfMEt6UVR2ZDlXOV9wZ0p0QnhIN0cwdWFSbDViNTZ2SmVlX0tUQUJjUm5XN2dwNVN2VFh6YXlES2FQTG9pRV9hRzRsWk5H?oc=5",
+      "domain": "nbclosangeles.com",
+      "seendate": "20261118162718"
+    },
+    {
+      "title": "Broward flooding impacts Memorial Regional Hospital in Hollywood",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUTE0RzlmODVtbmtmSDZTOUN0UUtrTEdHZ1l6OEpEWHBZeDNncHZsLVMwSmFfdm9qNXhsWjFEeW02MFNsRG14LVRfTUJhWC16akpwNUxPUGtTYUJMblhDYUFtaVRCQmdJYXdleXI3ckJKVHYxb0tmU3Bpb2VONnNROHdCcHBTdEZuMFZuSVVOaTZXSTN6MEU4bzZLdnF2bk5hNXV3Sk95eXpGSVFxVVHSAbYBQVVfeXFMTUE3YWNCbFZiRXFxZ1I2bkpTN2RIMU1XSERJRnFlTE1lMU1VT2xPSC1nUzZvdFhRRzktTDZFa2pvdW5kNlMxQllNRk9aN21USHdRR3JPUDVrQ0h3SXNvTE5iR3Utd3ludVR4Y3RuOFVGMUg0WXRVQTdoZ1ZzUEprZ3Q2dG1mdExRcEg5RHdXcVkzZGJpWEVzbHZyOVZPYktlcmZaVk9rOTNkMkdDaDc0Rm16dUV4UEE?oc=5",
+      "domain": "nbcmiami.com",
+      "seendate": "20261118165410"
+    },
+    {
+      "title": "Sevendust Announce 2027 US Tour Celebrating 30th Anniversary of Debut Album",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN09CVEwxblZJdXBBb3BXSUJpN2NsblNrOWdud1laZ3g1VS14Q2s3NXZKWTZaVnJXd21TOWtTQXNBWWM0S2FTSDY5Y081ZWlrR29iaUxfeUUwdlZOakdpTnpTc19tMl9RWWJPQWVQYVFnNkJpaGJUaXREVmJJa3BOdGNIQnljVGpuYVF1RQ?oc=5",
+      "domain": "consequence.net",
+      "seendate": "20261118161610"
+    },
+    {
+      "title": "Two friends reconnect through music after a traumatic brain injury",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0eWIyVkdBSDhkdXg4b19QRW1BMmNwTlRQcm5uUnBra05FQzNJOU5BbWRRV2N4TDNBcXA2OUlTSk1EMXRUM3lueTVkV0RiRjdBblhsOExPcDB0RWtPaVJGMzBoTUFic1U4SDJLVVZGY1FHSThzeU9YejlyTQ?oc=5",
+      "domain": "wbur.org",
+      "seendate": "20261118170206"
+    },
+    {
+      "title": "Hofstra Chorale and Chamber Choir Explore Unity Through Music",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDgybVUwSGg0Z1lpMTlidG9mcDgyeC0yNWtCTXJ5ZE52UFlyY0hFUzY2YXNHUWhFVEZ1bDloMWwtVjV2X1BZSWpXQVdLRVc0b3cwalJLcVRJNWJ4WTFXRTBwVzUtOW9YbUFuM1RIT1ZVeHRvRDBPV0dfUEVibnljRk9PUWJFcnNQQ3NrejVoS3R2cGUxN255YV9XY2Q1UGc?oc=5",
+      "domain": "news.hofstra.edu",
+      "seendate": "20261118171612"
+    },
+    {
+      "title": "‘Night and day’: Blades Brown returns to Sea Island as PGA Tour winner with new expectations",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmpfWjN0ZWZvT1p2dFRmc3NTMEd3RFZUblVKOThrLTVpSXJzemxvWTJqcFF0anZ2bWtJOG8tRnBDdGRuRU5UTUdULWlyWlZ2YUc2TW5fZUFvdS1kd0NTVk5DYkZMbmN0dzNhbUNMTEpHY3J6U2lPN0g4M25pc200MG1ZSUlvaDdiQU54amQ0YmtBaklCT3JLRFdvcVd3cFNRNkR3Ujl3TFFQdk1BQkJ6RTRpYVpKcEF4?oc=5",
+      "domain": "pgatour.com",
+      "seendate": "20261118161719"
+    },
+    {
+      "title": "Avatar Announce Headlining Spring 2027 North American Tour Between Metallica Support Dates",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81VEpOazFNdzZXcmRNTjM5eUxfRV9PWWxDSFo2ajB5ejJydWRLQnIwbkd4Zy1JbWhvQ09BTXdBMGk1ZEhuVjZjbzlWeDE5RUw0SVZ5MHdJbkhJOVp2OGZwMmRxYkhlcTA2bWUyWkFISjgtcXZE?oc=5",
+      "domain": "consequence.net",
+      "seendate": "20261118154257"
+    },
+    {
+      "title": "GTA 6 arrives to record review scores and streaming audiences",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0Rsek5uZzd3MVc2SF93WDhveU1fdVB2UVZTa245dFJJa2tIV29lU2U0d2JYQ2h0cFFIUWwtV043bW1KSjU3UXpIeFhEUzZfQThUVDd6VjdDUVpZcXphVndCUy1NM0lkSzRqOXpFNHFLRFNxS3JoZFVOUWJCb25VdTJJTjVLV190NlZpTDdQRm1xYWhUTXc?oc=5",
+      "domain": "gamesindustry.biz",
+      "seendate": "20261118152420"
+    },
+    {
+      "title": "Girl Winter Film Tour comes to Beaver Creek Nov. 19",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLTQ3Z3ZHaXBjMzN2c2RWdlh1QV9NWEVXTWE4M1pGaTZkVG41ZUVXczhKMFFZUEYzbnAyeDJpb0o4MkxFalJhNmxQbFhxMU1mTkUwTUgxOUt5YmtwODRONzVvc3RFYWthb0NpdGlhWXFXUVk2MHdXU0xRd045Nm9RUmJuXzF0RF9mZWc?oc=5",
+      "domain": "vaildaily.com",
+      "seendate": "20261118173011"
+    },
+    {
+      "title": "Colter Wall teases new unreleased music with ranch footage and audio clip on Instagram | OutKick",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnF4WnZlWXFsVXF1WjBYbUl3d1Q4RnhzRnlfa09USmhZcDVoWnRTY181V3UyUDZTNWxvTUhiMVc0MVk1X2U2ckpyR1NGWE5mam1PRHBFQmdGYnd0MGtJWlRPTTdNZm1iVl9PX0lrTlZhV3ZvU1R5WTVIdnpLdHpvVGxtaEdzMUdOYTAwektBcFNSQV9zd1RfS3MyNXlHT2NYZC1UNVh3TGg3eHR4SVU5V0ExSHA?oc=5",
+      "domain": "foxnews.com",
+      "seendate": "20261118153552"
+    },
+    {
+      "title": "Sampa the Great's new album explores the legacy and future of Zamrock",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Wbm9kaFMyemY3akQ3NWV6N0RpVkVDT3p4VGZ6VmQ5THA5ZER1QmpGOUlsUk0wVm5jZzRTUmRmQzI5V0NFdFh5TFFmaV9fVHdRRzN2YjJxc29HTWRUM2hEb2t0M0g2Rm9GTXhzcEpnenlSQ2lw?oc=5",
+      "domain": "wbur.org",
+      "seendate": "20261118170533"
+    },
+    {
+      "title": "‘I Want Your Sex’ Sets HBO Max Streaming Release Date",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFdhdXRBVDdqQnBoeE5fMTAyOWxGU2x1NURWLWJMa0xqMWZmUVhLdkgxM0UzLTlTcE1HUkMwZk5VcGd3NVZlMmpoNFppUk13ekthRVVPT05vMXM4T1RoTlBweGJlZEc3akg2bi1yaURsbElZVXJWMER1NXEySzNTcDJ0QTZjRWVGMFo3LXZQOXU?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261118172800"
+    },
+    {
+      "title": "‘JASON’ – 13th Official Movie Will Release in Theaters August 13, 2027 from Cineverse",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakUzMjVuLW9aeDFSNHI1aERubTdiMkZYTndZbE1UM2ZJS3JidGRkODRheHJucU5LZjF1ekV5Vm9xemJTcWQ5NGwtczhCQjRVT2Q4QUp2TjBfamxVVzVVcWlMOUQxakRHNFZ3bHI1dV9SNkVDRmV6alMxd0JXVUxFbzc4T3h4M0hZUk9vMnRNZWp6N3AtN1lLOGVlQmp4Vkl5WkVNSFRqUURJZWJuTmFpUHotRGxzNndVclpwOXBwM3VRdm8?oc=5",
+      "domain": "bloody-disgusting.com",
+      "seendate": "20261118143337"
+    },
+    {
+      "title": "Key to LPGA Growth in 2027: Following the PGA Tour",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcjM4RjJGTnZ6ZUJKM2tZemJEaG85T01aTmE3X0lLX20yYjY4bW1jc3pxc1Y2MzZEa2ZNVEF1SnN2c1NydGxQcXlJbEUtbmJiQjBUUXpya21QTTlOWS1rdEFZM29nWVdDNHYwMDJOcjVaQ2thOGJrMjlyNms1ZncxcVRGMGw0ZlhRYUx6VWZibWNreXpOOGRRTkxpNEU?oc=5",
+      "domain": "frontofficesports.com",
+      "seendate": "20261118171723"
+    },
+    {
+      "title": "The 2026 Country Music Association Awards are here with Taylor Swift performing: How to watch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTE5dE1Eb3NNY01xOGhPYWF4UHNMQ3dBaFFyVi0zV2o0alJnTmwxLVVQWkxVTmRPQ3FiYnN6blFGdDBlZExidmhpU1BKTzJhNnBEbW1Bb1NaRTBXVmh2bnVJa2hpVWtfZExFMGVEUW43cDB0aUZ6YWJVcnZEN0dra2E3bzNUeFM1ZjBWY1RlTmV5MWhPUUhwUE91UjAwQXdFdXdhTzdHcXNJUnd4TFNBZlNjTHVjdE1M0gHMAUFVX3lxTE5OVTc4cEJjZzBoQWlnbjc5cm4tMFdtSzR2MjgxdWQycVhmR29lYUpNcXFiSE42cXdpcURoSkRDQjJiQkZlZ0NITW52Vy1rUU4xdEZOX2JadkxZRUNOZ0FlVnNWVDJuMExxZ0FuX2RCU2xRWVl0TjNZb3RVOFE3OXhrbEg3cnV2RE14dW55YWZfdFVlQ0wtUGxnNDBUZTJmaU8wV0ZTdjFrY1hNUWd3enNTQXZ6NEFZTml1R00wRjZjbGdMWmNyNWF6RnZjYw?oc=5",
+      "domain": "ky3.com",
+      "seendate": "20261118163800"
+    },
+    {
+      "title": "'Grand Theft Auto VI': Take Two CEO On TV & Film Adaptation Chances",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUV4Y01KTDc3YUF3NDg1cUxJNGVCV0Z3TTRLZHNQVzUycElrQ3lvcGNNc2d4RElnSU1wUmdmamhmWk15dTJ4aklVRVZkZ3JzWEpYQkZxem42NV9ORHg5SGNhd05nLTB5c21EYko0ekh6LVhTbjhiSEhCSlZFOXFuRGFib0dHWE4y?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261118151000"
+    },
+    {
+      "title": "SML Announce 2027 U.S. Tour",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSak9mVjFBVHpTcTN0di11SE1IQzdJdnVwQkg3em9aNkZRVE9NMklYd0IzOXVGcXg0T0RuSm4teHVSeVkza2huWUh4Nk0zMHlUUFUxODhHV1VZcS1mNzZnMHpZVFA?oc=5",
+      "domain": "pitchfork.com",
+      "seendate": "20261118171831"
+    },
+    {
+      "title": "Severe flooding in Broward: Hospital suspends visitation; synagogue roof collapses in Hollywood",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaDhlaTgzOWdrSjdwLWVycXdqUnpOeVM2MHh1TmIyQzhrUVozUWpqOGFFNmV6NkZlLU9zWnhQS2hJVGdFdjJpaF9fbHRTMW1mVXFvbGFqenVoeVV5ZGgyVnprZFBHSC1wNVNIUWpSUzFOUngxNEpnbWdFUWtMSlh2WDk1YmEwWGtlVGJkZ2xoVXpjYnF1U0xXbGphTTNnX2JXSjFZWlpTRWVJb2MxSFJfU0tUY3c1V08wNUxVNEFTTFhJYUxLY2tXbS1Hc0pRRzZlenJKbFQ2Yw?oc=5",
+      "domain": "local10.com",
+      "seendate": "20261118123527"
+    },
+    {
+      "title": "Overnight storms cause extensive flooding in Broward, Miami-Dade; Hollywood declares state of emergency",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHNCYXVFdjNVd09XdF9SVHMyNTFEdWFDTUpjN1dsSXlvd2pSVXdQNVg0THRKU21kUzNqODFPUGN6UFFJeExKZzVCZWJ2SVJVc1JuM1VnS0dkaWNUUzhCT3FFa1hOVXBVaXRmMF9wSDRLcU1nSTJXV3VQSmZrem9hVEpYLXNXUQ?oc=5",
+      "domain": "wsvn.com",
+      "seendate": "20261118125211"
+    },
+    {
+      "title": "Lindsey Stirling brings holiday magic — and music — to Orlando",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXhGZm5DNUpESi1jb05UWGRUS2toUFZyc1B6SE45T2kyU0V6d1IyOThncFMzZVRZUmlwU3dDLWM0YnE0X1E4TU50anV2OXJXUmxlYkdtNFdkb2JGWHh5NEotZElUaE1BZk1MZFpyMENDYV8xWlBwYlNPTW5GOFhseUd5anh4LWNPZlFYdFotZG00Y3dIV0ZYU1Fscml6UFlpS2RUYmpudnMtVG5KV040M21CNkQwbmtrRFhNTm9n?oc=5",
+      "domain": "orlandoweekly.com",
+      "seendate": "20261118165731"
+    },
+    {
+      "title": "Hotel fire triggers nearby apartment evacuation in Hollywood",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWlfZjZrbHRubTdyb2tFeVEtODhZYkdRUUQzV3VoVzlLQ05sWEZVS0NLYXBkS2p0SmJQaDBkbVE3dUlRY0NlU2c0bW9aR045N19OTlVRd3VkdWdjZFRiOEE2X19XVi1QNGtQMV9raHNGeFdnb3NZMHhtUXBKMmVJS0wyQlZRX0FGeWVCY1BtTkNqTUgyUy01VU1lS2ZHcU8xQndKRDByakJiUWllOXFj0gG3AUFVX3lxTE1YOHdCdWNaVVM3VEFKQW9hYzc1WGU2RzY5WW44dDV1Uk5VdWFfLUlQTEdoalloUWRUOUY4ZnVtYTdfQVB1cWFqZ1VxQUVNZFA5LUVQZHhNdHlDOXkwOU96aVpEdkk0dkluZUNYR1hQVW1LVWQ4YjMwc1pQdWV1OUtNT2czcjB3WTR4aGtpYzFhb3RaNkhfdy1pM2NBOTE3TVNKU0JHYXZfdE50NzNKSEdFdkpucF9Ydw?oc=5",
+      "domain": "nbclosangeles.com",
+      "seendate": "20261118160538"
+    },
+    {
+      "title": "Bruce DIckinson Announces New Album PsychoGod, Unleashes “Speaking in Tongues”: Stream",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjNxUjFjc1E2MTdvWnRWb0U2d0QyS0dYREZIRzctNWJrSzhRQU5ZYURVWTZlOUlXdjVteDRmSjBidEFXbWR2aVRCTmJTSEQ3MWVQVUlYYllGb0laR3c5R0JfVzRxMUNmb3NkdC1UWFdkZDNJVkU0UUVXSWN5TXJwN1BjNnY?oc=5",
+      "domain": "consequence.net",
+      "seendate": "20261118164844"
+    },
+    {
+      "title": "5 Famous Movie Props That Were Totally Improvised",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16SW5seDZ1cjFjQ0NCUzhzSDdXM0JLT041aHU4SktPRzNpX1NsSG5mSDdtcVlud0l4cTRERlZKTkRzV05yUXFjWjhnN0kxUkZKWklZS2I1TjRWcjR4Zjg3eWZtX3BkaWVJRVdOWVZkeFFTbWZxWk9abnhzNA?oc=5",
+      "domain": "mentalfloss.com",
+      "seendate": "20261118170002"
+    },
+    {
+      "title": "Adobe TV & Film Fund Screening: 3 Filmmakers Talk About Craft",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQUtkSVQ5MGNEaUUxQUo2a3AtQTlMdGJQYlJ5MHNkRHFCSGx5VU1ZRElZS3VOMjY0UnFPSVExbUFoTDFXblpxc08xYkJLdXdlQzNLRW43c2llcHR0NVFaaEZRbzBfYUFOY0tpelRRZW1VM3c5Umhta1lqVFNjbjRiWTRDZ01ZLTFuc2tJMEhSdVlyekFoNlp1dDU1VGhsdG8?oc=5",
+      "domain": "variety.com",
+      "seendate": "20261118173000"
+    },
+    {
+      "title": "Fans Flock to the Hollywood Sign. Neighbors Say, Get Off My Road.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JNUVLNkFucUhqZ1BpR1NUOHZNYXM4UDV1M0E5cW1ib2dhbmxOeUI5NlRkU1JRM0RmSVJpQWRScEt2UzZhUlU2cUo0cUZGeno1WTBfSk9VSE9KM3BrNkVfY1k0d2tVMnNtTUZHaXRBVzQ0QU0?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261118155248"
+    },
+    {
+      "title": "‘Madden’ reviews: Film called a ‘stunt biopic,’ compared to ‘SNL’ sketch",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEdrblpMOHlPaVZVeVpkQ0EzTWlTVy14Ny01dklnZ0pFVlBzTGx3NHktOG0tdkt0cUd5blk2MkhwSzJTVk5mV2h4QjVOTnd3U2gwUHB1WDJaU012azg5RWpRQmo1d1ZjUHQzRXlrYUwyUDRIRkl3WWtCcHIxaXR3eDQyUDhwT2lhYk5DTWhVTGJIeG05OExHMFdJVXhDRU1nU2JxZmVJckNUMkM1UFFLQ1JZeUpPRWJKX0JuM3E3akk?oc=5",
+      "domain": "sportsbusinessjournal.com",
+      "seendate": "20261118164730"
+    },
+    {
+      "title": "Fashion show brings local style and live music to Sozo Coffeehouse in Omaha",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeFVJSFROc1NUcWhZdnIwZnJYbXdvOFVGaFlDNFFuclY1VmhLS2Q3dVdyR0F1ZEtCYkNfbFVhSWozTl8zMFZ1LUswcEE4dGlmOGViSlVuYTRQdDlZTEFWcGFZX1hVLTNkdXVnOTlKM1VZSW5zWGhjNG8wOFRKVWhUeVVLS0RyNXZFUk50Q3pVZnJaOXVxazAzR1dxNXhuTFJpUHd3TWVUMA?oc=5",
+      "domain": "wowt.com",
+      "seendate": "20261118170000"
+    },
+    {
+      "title": "The cheapest way to get Fujifilm Instax camera just got even better with 10-pack of free film",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ1JkZ3R0anM0T0VRY0NoV0taLUcyZnA4U2F4SzRILS10Nl8wZ2xFZDJEQ3ZMTzZlUDNGdnJQdnM2Q1BRc29fZlNDWEJpdUJGLUJWclRGZjBPdy1Lamo5MGZIcHpqNExsU0I0bUswRkI2eXd3VTZhNnNQS3NsT0ZJXzBCc1hUQUwzSEZMZXRXbUhoMTdPTEVBSWU3VHAxU0pYM01zWU1xQ1VYUFREZGlvMTdNX3lBQ19IeF9Hb2ZwTGRrU2xjbzBaSVRqY2dJYUxxVEJycm53dUo?oc=5",
+      "domain": "cleveland.com",
+      "seendate": "20261118164400"
+    },
+    {
+      "title": "Belle and Sebastian Reissuing If You’re Feeling Sinister With New Rarities Album",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnNoeFNEaDI1M1ZEeUlBLTJqdUdqcGRzYXFOc2NMVG9UTE1vT2VMdHowa3V0a0hLZlN6Z2xlODNOeUFuUWIweGdQanQ5VXN2X29IWXFBajduUnNRNVlrV1I4SlA3RFFPUTlRX3VyZG53ckpfU3pHV29Ybll0WkktX3RmeHRpM0Vqb1locU9yNUV2M0tLQld6MFBnUUZid3BhSHFBWVZDbTBaakNf?oc=5",
+      "domain": "pitchfork.com",
+      "seendate": "20261118150314"
+    },
+    {
+      "title": "Sum 41’s Deryck Whibley Announces Debut Solo Album Diamonds of the Night, Shares Rework of “With Me”: Stream",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObGQzcXpQcjM4RDhaQk9fS0d2aWF3bC15YUc4NmtYYzRGZkdzQUpfSkZSaVlpaGp6M2dpZVRXZGFxNk04U1dEdzFVTUhhak5OUDhHTklYTGlfdnB1MElJQXhCbG5sSWZvTXJiVUNjMGlURmFhYXNEYlZvRDJEdlpNTnUzYnJ3VDhpZVZQSk1MN2Z1WVhHd0c1V3ZnYWk3Y1pPNnJDbE5Bb210YktSd1hYWA?oc=5",
+      "domain": "consequence.net",
+      "seendate": "20261118163957"
+    },
+    {
+      "title": "Singer Ryan Adams, 52, Engaged to 22-Year-Old",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTJRQWRpSm9zc0pNWXpMZVBCTElGRG1mbGQ2RHl0dnNOcjF3ZVpEc29sRVkzQVZuYUI4cFBhQTVRSG04OExMaFJSWkhiVm9lM0g0M2U5RWxrX1pIX2hkcFVRWmZualpUZnJlZjIxQkRob08zVlVwR2NvU0lYSncwOGFnZEQzM0JEOFRySQ?oc=5",
+      "domain": "newser.com",
+      "seendate": "20261118164500"
+    },
+    {
+      "title": "How ‘Behemoth!’ director Tony Gilroy got 9 composers to score the film",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblNXcnZVRVNuV3FiVF9odllJVUlvTkFQc2xYR240Zk9xQnlNUXJyYXJjdUZSTHAxLS0zRDFVZUYweHZvU0lZUFVCU3d5ZmdVaVpUdThIU3o5Ukp3VmdYQWxPWVJMRDEyLS0ydllGYnlyX0l4NmFHV1RLZ3lLQnRFN1ljSjNuZi1IajFKY3BlX3lBMVZzZDQ1YWRmWDFRVDdXWFBrWnFCOGduZw?oc=5",
+      "domain": "ocregister.com",
+      "seendate": "20261118163024"
+    },
+    {
+      "title": "Ryley Walker Announces New Album ‘Darkening The Glass’ & 2027 Tour",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb0tlbFJ3SGRTQUNzWDNCaTFkWERoMDg0bUhmNVNIeEwzQUFKQXpxN1hrekczVzYzeU1wT0ZyUzJoU25WX1RwTlA1TkVocnFzTmltQTdETlg0TjFWcFZieXRiNVh0MEFGcnlRYlpDN2tzU3h0WEtTNEMxQTRzV1ZXX3BYdEZtVm5pUHJPamhuaw?oc=5",
+      "domain": "jambase.com",
+      "seendate": "20261118171700"
+    },
+    {
+      "title": "PGA Tour’s Rolapp dishes on creating more media value, diversifying revenue streams",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3hWOURvNGNjempXNlJGZ1Q4ak1SUkNIR3JvX1FkekpHbUEwU3o4dE1SVFJpNkNDMlc0WU9keWFIZGtPa3FtbDg4TVJnbkhLTzdsd1A4VVhTY184aDFJZnliMmdKZVZpQ3l3d0o4aVZPdWx3M2JVQ0REd0x4M2g3eV9MVlNNWnRNd1h1UG1zbUtweTdhOXR0ZW45YlV3dnRNanFreHpQT2FaelEzcUJuUnJhOGN0TGhEQWdZbzJkbHJadHh3T3QwdmpfaEwxUXJjY3JzdU5OWQ?oc=5",
+      "domain": "sportsbusinessjournal.com",
+      "seendate": "20261118165721"
     },
     {
       "title": "Rubio says there's 'zero' information that U.S. outages are caused by a malign actor",
@@ -16,274 +298,22 @@
       "seendate": "20261118082750"
     },
     {
-      "title": "CS Cleaners - \"What's This?\" | Album Review - POST-TRASH",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmTmRJZkROaUxQLWhkN0ZaUC1nZkk2S1NvU2pmbUdBQzE4VVE1d2pBaS1NNkpwY0VGUllRRjdLX1U1SHMyUUo2bUtJbGd1U3h6bm5nckctT2xfTm1aU1ZpUjk0bHlaNllOb2tQa3BSbzJvNWxCQTA0ZEE0VF8wUQ?oc=5",
-      "domain": "post-trash.com",
-      "seendate": "20261118050100"
+      "title": "LISA Drops Emotional New Single ‘Leave With Me’ From ‘Always Lalisa’ Movie: Listen",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2s5bUt1Z1d2UkpUS0xPV1dfWGdJU1hpdkxWMzVmclVfZndqeDBvSlNLWWMyWUxMU2h5QTBDNTBLZzE4d2VLT3JkejlkajRWaThIdWNjcXN0RDVUcDNRaVEwUHBmVE8zS0JpVTQtUzlwWWRqOE9VbEFET1NqN1ZtQ2U1a0lrRmJiLVpGTXZLVUp3X25qeFcxdGpQYXhwQTQwQ1dVQkpRLWlqSVBVTnc?oc=5",
+      "domain": "billboard.com",
+      "seendate": "20261118173107"
     },
     {
-      "title": "Bryson DeChambeau adds star quality to DP World Tour after demise of LIV Golf",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnQwamx4dlpTV1k2SlNTYnYycWlOc2QxZkJYTC1uTGN1WmN4S1I1TkNwa05XU0ctMTJ6MjJhTDRzRjhXRU1sRHoyUV9qZUIyekVvSml3LXNTWDFFcnFHUlRST2paUDlWTkhMSGhEbmVVbW1PNkVuMWFxeEdfc0UzQ05CMG9EU3RuUTRwSUZiYVNPM2tTME51d2ZuWGVvV3ZUSDlydC1mdw?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261118023000"
+      "title": "How Each Music Listening Platform Is Treating AI Music (Updating)",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXUxNTdjLXNjWkstaDZLVzBWQjhLYk9OYkxUS3F3NWRzbEZFWkRwbEY3WmJwS2xfeEtWS3VxbGlydzZCc1Z0UXdXX0xXd3R3YlFIVWp4VUE1WC1aYkp4X0tzb0thU0ZKdnVqc3k5aG0tbk55QnpBMW94bHF3V3hXVjctdW0zRldCdGc?oc=5",
+      "domain": "billboard.com",
+      "seendate": "20261118074258"
     },
     {
-      "title": "Tiger Woods to play Hero World Challenge in December, marking first Tour start in two years",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWFDT1JxR29Hc1MtSjZYWkZXRnZyaFZJZzJFRDFKMVpfc1Jsa2RBWHZnLVFyd1lhWU1Pb0F1VzlaR1lvSTRJNHREY2N0YzlHaGxZMEg4dXo5WkFFSlZ6U0dHN2VtWUl3Wmx4b1hYZm15c2x4aTNqQWRfX2wxOFM3Y1RnMHRoMlZGTkMxTXN3QTlxZkEwMWRQOVZVS3ZUTDU3VGJZODNZX1Z3dkJ5ZFVN?oc=5",
-      "domain": "pgatour.com",
-      "seendate": "20261117215017"
-    },
-    {
-      "title": "The Film Festival at Northwestern University highlights student, local filmmakers",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZE56OGYtWE5hZzkxZXZ1aV9zVzAyUWxCOUd0YmZXTTRMa3A2UTJwb2pNbGpDTUNON05lWWhxUDN4SWJzeTNZR2tVYjVMY2kzSFg0Rkcybl9pQk1xUDVLU19lMXRjTFFOc25MRkdmd21VYjExMGZkZm1pNVJ5RVN4dThmMHhYWVNGLXhPX3pNT0Z1SkNlNE1FNzR1dUNYWUtnU0w0TzUtWDROdlpzUzR1bmdSVVlTOGJrMDh5RmFNd2k4eFk?oc=5",
-      "domain": "dailynorthwestern.com",
-      "seendate": "20261118055556"
-    },
-    {
-      "title": "From Yale to the Grammys: 21 School of Music alumni earn nominations",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMjVBZWx4cndCaUI2Sm4wMUhkSk5CVWtkMTl2aDJVaDlsTDBRQ1ZmTjF4MVhwODA1YjgtblVYMUxuUWdCdVRFSlJSYTdXaXpuN2R3bktGOEFKejhJVU9nYTBXZjg2MlBmM2cydXI0T3pvWGI1VTFRcDVRV2szVElKcXFNV0pqOE1ULVJHZzF1SF8yV2RIcFZRM2VST0FqYnlITGNaQg?oc=5",
-      "domain": "yaledailynews.com",
-      "seendate": "20261118065011"
-    },
-    {
-      "title": "Dying Fetus Announce Winter 2027 US Tour",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YTXFnM3BFVjV6U1NZLUc5RFMtdEdWbFlNMmUyUDViUXVTTnd4d21WR0ZadHA5RDh5cDhRZURYTkZXdFpCQ1BaU1h0Qk1oeHRza1JkQWIxR0pXS2oxSktGaDJ4d1N6Ym9ReXBHaGxnYVhQQQ?oc=5",
-      "domain": "consequence.net",
-      "seendate": "20261117200247"
-    },
-    {
-      "title": "Folk Music Society Presents Kate Taylor",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONThoRVdmWDFXR21peVVYdDVJWTFrWFFXYklQMUc4OFU1WmxveFN3Y2tHdC1INWFFYm5Fbms0bmhCRW1XQnZnZFlqTmNna0JUdTdkTTRtcE5QRG5RVURnVkljbzEyV244NWFCR2V2dDBGWGNWaGljcE9lSmFMa3ZMa1BTcUU?oc=5",
-      "domain": "towntopics.com",
-      "seendate": "20261118075037"
-    },
-    {
-      "title": "Superchunk Set 2027 North American Tour",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NaG4wcnNtcXA4OHpCcldIcGpvY184YlkzaDVYbzJTUzg3S0dBNW0tcGJJb21XdUJ1SDA4TVprdkE1WmhDRXoweVUtNWUyT1JoVmhjTHRVZ3pkazJLcDVrd0Q2dFBmcm9tQlc1T1I5Q0tRWkF2WXQw?oc=5",
-      "domain": "pitchfork.com",
-      "seendate": "20261117180835"
-    },
-    {
-      "title": "Movie Review: Joyless “Ebenezer” is more Horror than Humbug",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazlRa2JQV2xDVm9SU1drcGt0UENPSzRiT2taQXBrTHhnUjdEb1BIaV9fVEtPMTMzemcxR0xoOEVyYUY3VjNoeEJXeGVIZVVJSjlQLWVOSkY4VnVnVW9hTHJHdm1VZHRDVmhzajM1S3Q2OVo5Sm5DYmtmOXd4anQwSUJoWU9fRlNMTUctVnZ3aHBmSUFhOFQwWVJya0JFM2M?oc=5",
-      "domain": "rogersmovienation.com",
-      "seendate": "20261118031536"
-    },
-    {
-      "title": "Florence Pugh Celebrates Robert Pattinson’s Bond Casting: “He’s Been the No. 1 Vote in My Household”",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkJiNWtmcVlsMTBhNGRnczJEV1lEaHR1MUtpTjY2Nnctd2F2QlJyTGNBNFRwVU5KWU1neXdIZFh1ZUJjX29QZjZTSTRta2UxWVBHbE1WeTlmTGVEVUR0aXViS2ZQVkJfZm5IZWl0amdYcjFtek03S0lfdF9MUUdUeHVuSVR1bTZ2NTJHaU1Pai1ONXVmdXQxS29oSjc1SWJfcXBqTjBVU0w2TG8?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261118065401"
-    },
-    {
-      "title": "Hawaii names Sanoe Damon as new state film commissioner",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcFNSZXIxZXh5WUdlX2ZaYVN4aE1ZN1JxNFNScnhpTlIyZFVBYU1oV1lrQXAyX0R6RjBuMVdWb1laSWZXYjZmeTh5OFQ3TlRCLXF3akFBTllmRG9nU29YS2NHc2tQU2Ftdk1pTFdiREl3TVBQcXNwMnZ1bHlDd056WjNxY0hreFFMSVdaRGFEdDFmRXF2MTgtUWlB0gGuAUFVX3lxTE52QXhYbnV1a2V1ZmlVY2hoUS01eElrcFZGM1JiRHNwdkhSWVBfLXFrbDNfeFh0N1RtTDhEZW1Bc3ZrR2NrOG5odDVPQTNFa1dSd2VVRTI4LUlXZjVDOUxCYS1ySUVLa1hvNXhWdWUwMHJxanBDUVJWMWpEMV9YZ0Q0Ymt1ajRpVXBHdHJQT3FmTk95ZkNrTlpnUHFfekxKU2ZxVkNHUnh4bW8tWnlCdw?oc=5",
-      "domain": "hawaiinewsnow.com",
-      "seendate": "20261118043600"
-    },
-    {
-      "title": "Bryson DeChambeau To Join DP World Tour For 2027 Season",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0NrcnhmOXItSE5WU1VvN2JGRFZna0pNMmtQVDQtMFJLTFBtejV0eGNLMGk3WVRnX2R4bHRkbkExSmxwaFlFc1FaMktUZzYxTG9PdGUydWRLUU5IUDBBVDQzX2ZnZEJZVVVqc1BmOE5HY0YzZXpUOXR3WDl5Z3QtOVJxWGRsY2c5SkNHWHVIY0VSQklPZUZ0M2dWQzFYUTJUWkVOU0xNQjI?oc=5",
-      "domain": "forbes.com",
-      "seendate": "20261118044050"
-    },
-    {
-      "title": "Gossip: Chelsea still interested in Camara",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWkdldmFSYUhBTWZETnI1V2ZFUVZLUVVKWk5yWmFjOUEwOUpKUmkteUJIMlo0QS1CdTFzRTVPTngwYUQ0MjFMVHNnT1JyVTI0RWFRMF9DSWJ2R2VfWG1wNHYxWGZINXkzdXE0WnlXakFyMVFmZTZtZmZuTlc1TjUxM2MwN3hYRFZMenhiUGVrZGk?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261118074551"
-    },
-    {
-      "title": "Phil Henry discusses writing about Vermont and the power of live music ahead of his new album",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUmloRFJITUtITFFxWWhES1BKZ0RQQ0lELVUycEJpUTBPQTBGb3Q3Zkp5ODdJV19sWElkcGdOTW5Ea2VqLTdoMUphaHpkTGw1RFZPaVMxX2RmNmRIZFNfLVgwVklFU1ZWNUNULXNrb3N2alhvc3J1Z1BkX2lhSzRoVm1UY0xkM20ySm42dFlPV1g5Ulg0eVZOeDdDZkhLMXltOVY5dG5UNEx4QTA2T3YzQ1J6SFhXRjhGTnhiWFFUaUFnY0VHZmpHUzRVelJOY1JnZ0lnTlh1VnhBdXRxMUxVMV9sMFp2N2RxS1dNOWFIS04zV3NMVzJ1YlNMMDBpSnV1?oc=5",
-      "domain": "timesargus.com",
-      "seendate": "20261118050000"
-    },
-    {
-      "title": "Covered Bridge Artisans Tour Returns Nov. 27-29",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUFnSFRqOHJvd05FZDlJbnRhUHZFS0FINEhmaE5BMHJyOUt2R3ZVU2x0OHkzVmpQNlZ6UVRPdzJOc2M3c1pnRVp2YktQUVVVbnVGQlZYSWpia2MyblgwdW14VmFTTHdvMWtrTXJxSHkyRENTUG81UElZOF83SWxBQ1lkcThZTXZ3U2dhTmdR?oc=5",
-      "domain": "towntopics.com",
-      "seendate": "20261118070058"
-    },
-    {
-      "title": "Big Thief Plots 2027 U.S. Tour",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zbjVVRnEyemlBbnpjOHZjVUpGd0FxNU52NTJNanBGOUI4Z1JlcTFLVXVGTl9jWjJla2hQSUV5Y0tLbDkteTlabHRKaExEbmJld1lJaE54MlRzYUdvTGk4aU95cjBiTDU5?oc=5",
-      "domain": "pitchfork.com",
-      "seendate": "20261117180711"
-    },
-    {
-      "title": "‘They want silence’: how the film NAZA is shaking Israel",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa185WHJ5T19DUFNDZF9QT01WU0NwUDZ1QnNpeXhXNWJIc1BxWUFyWlRFanRSak5YQ3k1cDY3aHVoZnRkTmlUYWx2ZUlaZlVqWmtQVWZ4WGJKeWJLT0VsdGZQRnNvYkZHeFJRcE1RdnFrSzg0U0FzektrWGptbFo4cGxUSGZLY0VyNmdPcUp2aktqU3dVUDFlM2FTRUdralJocHFhX2tIMWhWclhjWlBNNEd6MS1tQ0p2UzZ6YXQ5V05qb2MwYXcwRV9MMA?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261118064400"
-    },
-    {
-      "title": "New Album of Baby Star Sounds Shared by NASA’s Chandra",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVE3VGtkV3pWX0JHdzF3UUlZU3lEQU5zUkpQRUVZYU1tbkZhM21BQnBaNE1oVG5tZEZJbk95a2ZOejJPeVZJM0t3YW83bUVhN19GWENuVUNDQTNCRWxINWRHUHF2dWF3MGtUcXg2SF9BVUFNWldUTnVCcG90TVM1emgxM1B5Q1F2NkV0Mm1jcUdudzMxME1ENDM1U3U?oc=5",
-      "domain": "science.nasa.gov",
-      "seendate": "20261117202617"
-    },
-    {
-      "title": "Gossip: Liverpool front-runners for Monaco's Camara",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbmswcURHamNoTnJhZjBOVUZmTHhBekdQTmxWejl4RVZ2eDhjbTMzQzY2N3V2cVA2aExjM2RjTF9DMnl1NndLSjlMQ25TVGFvS09mWFZmeWJUTHpTbWZIdnRuSUhWVC11aUNwYWZqWVl5UUl0VWlMQVhGLTV3SklrVjF2WDFZTFExZ2pUV1p0ckQ?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261118074400"
-    },
-    {
-      "title": "Hollywood Reacts to Robert Pattinson’s James Bond Casting: Florence Pugh, Brad Pitt, Rami Malek, More",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY3JjOEhMQk5DTUZBVXhhd0ozc0RESm5aMVhmbjFBV0FmNnQtZU1zM0tWUFVQOFBZVHdpUUtPWno4bXY5aV9IYWJRUm1nWW9NdlVJZ2UtN2lMZjZ3TGRnY3RCbVk3ZVpZaWFNdWUwaU4yWlc4N1A1LW9PcFdCVmNHQ3p1VVIwTndlLVpPSEc5OFpHOGF2OG5SNHB2SUx0R2pfVGVJSEYycHRob3E3T3NDOGJuWGdkOG1zY0F5OU1NNA?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261118000645"
-    },
-    {
-      "title": "The 2026 Country Music Association Awards are here with Taylor Swift performing: How to watch",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ1R3czlRVkJfQ3NDbmZ4NWZWekRxRkdTOUdRNjNabFlBUEFWMFV3VFZzYUZzLTFUYVBQZk1rVnVsbnNGZ19INTNOZnU5VkUxRUFfVUtoZGZRZ1RvN195ZXhXUFhNYUk4OUh6SnhEVFhvSHJTb3h5TkxXMk9NOXpJeGc1Yk9aUkJvZk5NUUxKZ2Y2OThmZ1RFcWxNLXBNZDlOcHJkZHlKUFNDWVZBQ0h5dmtpS2hEYU9pX3V4SEVFU2lsbVB1UjZB?oc=5",
-      "domain": "wral.com",
-      "seendate": "20261118050632"
-    },
-    {
-      "title": "New Constellations comes to Milwaukee: The Portland indie duo reflects on tour and milestones",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOellyZWZpYUg3ZS1ORlhYYTBXd1UzQThBcFg0OEtqd1ZEQnVXZzh3QUUwWXNVNF8wUS15a2ljdFFxbGM1dzNaTkJIbnZHb3lkUU42d2diUWVHQTZ2M2hVYThDb0YtTXhpV2UzcVY2RWxtWHVReUg0T0Q2V2diTktpNHR2MXNKb0EwdExLaWJQTUVHeVg4SWcybm11eWphX1BOVEdmOVk0QUswTFlhYTJwOVBYZkhIUlJhOE5SY1pXcjY4TUdnYjVF?oc=5",
-      "domain": "uwmpost.com",
-      "seendate": "20261118072041"
-    },
-    {
-      "title": "Gossip: Everton face big call on Keane's future",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVRQOHZjOHdwWkpuZFgtYlh6TWl2aW93SjBCbDJZMkZNVEhWem8tNEVBRUh0WlVYdnBPUlJLMnRIXzB1bTFwSDZhcEZFdjRqM3czMWhoQW0xbHJRLXZIdFpSUzBocmpUdTRfWnB3M1VVT2hsQ2FobXZNRDRPQzlkakdzcw?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261118080134"
-    },
-    {
-      "title": "Gossip: Man Utd in pole position to sign teenager Rajkovic",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2tQZnpxS3FvM2ZHMkxQcUVlRFdfYkNlZVNOcXZkY3lmU2tjTTk5Zk1HblpMV0RXZTB0WF9WTWRWbnd4R21EWDlWUGdjRFVtVVhCRHN4NGhldXZ3U3g0ZGFnOGdycl9JcDY2QW1CZ0hHYXJuWE5RdDdqNW5MeFlQeDVIQQ?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261118074808"
-    },
-    {
-      "title": "Gossip: Newcastle want Sheff Utd midfielder Peck",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHdYelVRTWo2X3M4UXZ6VVp5aFpTQV9pSGF0SjJ0djdFTzFPb0FSelJFU3hMXzN3RzNubFRmWlI3ODV1WkJPclpvYjVMRHdXZFV6UGpIT09WUlc2YWdVbEVIa2NpS0dxelY5bGZrbkRMeGhlMDhKU0tJbEhNTXRnZkVodElKV1k?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261118075732"
-    },
-    {
-      "title": "PGA Tour pressure cooker at Sea Island with cards and maybe the Masters on the line",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTI2TkpxdC1jcVZCcTVIdGZZYWpNOUZpVk5QQnNnR1MxRWs5bUkwN0hPNDY1ZVNMR3RFVGxJaUtMZ053N3M4RzJkaHJPRjNUTXREUjhYNk54VEdzR3o0QmRLY3o1WXJROHBZZVp1VEZCWER4OEg3TkFlSkhaUUd5WmI0b0RzWHBteXZpVTU5Q3o0RFp1MzFOek0wSUVLUWxkM3hfc0xOVU5yRzZqN0lxNERiQTNzYkt5VDdaUHVkVjhFenc?oc=5",
-      "domain": "golfchannel.com",
-      "seendate": "20261117225143"
-    },
-    {
-      "title": "Reg Lenna to screen film by Warren-area man Friday",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkwwYnZuNC1WUzFQbGxxbHRHcko4SndkWk85ZEdwNzBDUFg2T1B3SFdaekllNDlpZUstR3V6XzhuX0k5eTBXNnFyYWJHbklNMzFBNEpnaEFIS0xpOVV4cGxZYXlNQ3BMX3UyWlVLMXlFc1FRVG5nYmppWGxNNWNLOXVzdXhYUkx5OWppNkR6clNYODZZMkpRZkFISDBXeFZ5NDZLdkI1d20?oc=5",
-      "domain": "timesobserver.com",
-      "seendate": "20261118073518"
-    },
-    {
-      "title": "‘Intimacy on Prescription’ Wins Main Prize at Tallinn’s TV Beats Co-Financing Market",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWF1OVNLeS1LYXgwZjg3WWN2WGd2ZW92c1M2bWhuWTNwWjlYSWd0dXh2Q1VfcHhaNEVnN2wzX0J6MlZPX2Vka290UnowZ0o2a0tlbi10eExQNTI0X0JXTFJwQ2dDZ3dhaktCZVlnU19YTGZySXlNRHVJWUdvWWI4dVVPZVJXa1pjX3NJWE5rdXJYcU5SSGlrR3g3Wm5jaFZhNHYwZ28xUzJfemk0R0E4alpFRXBERHM?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261118082327"
-    },
-    {
-      "title": "Jeff Bezos was 'heavily involved' in Robert Pattinson's casting as Bond",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Q3JmMkFzZFVyYTAxSFRVVkhrc21TMHVIV0s2YlFDVTJHd3RUYjY1RTZJalU3Mm5ydjVrM2JGbHpjUHF0OEdQWjROU2NhWnBRQnlraFlLRGxJS3c?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261118040054"
-    },
-    {
-      "title": "CMA Awards 2026: Everything to Know About Country Music’s Biggest Night",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHQ1a0g1ZmFuY3FzR21RRkJUZjlfdHZzbEs2MlZiRV81eG4xWHAyZG8tTnRiSHpoWDlWSGFMajU1bG1EOU1yY3BVdzJqTG1FN1VVbmtib1djWkxnNUdOVFRJUXE2OGlpb2NtX1Q0d2Z3YUgtZVIyZjFwbjNNdFhWU2lVWWRNVzh2QlBMYzJmU3pScFpLaWNpNFVUV1c?oc=5",
-      "domain": "people.com",
-      "seendate": "20261117223500"
-    },
-    {
-      "title": "‍‍‍++[WATCHLIVE]TV!]Camilleri vs Leek Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 November 2026",
-      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNeGh2YUxROGxZUHdBRmRtY3pLRlktdXE0YTlJa05Ga2NhaTVfbERSaHE2eTduTEFWU19oOWIxRVplRGhGWTB1c1pHTk0wc3VBeGFrSkgtdm80NWQxUjl5am1WMXNOZ1hKWlFUTzU3N2c2eDdoX21RRXFOLTV3RGQ1ZTRBVmlYZVg3dnFkMDZkeEJGNnVVOTlTZ3lHVmpnQXNPQ3I4OV9paExHWGdZZExMZ01yVWR2NXN5ZTR6SVNyeE9RdUpFS1hVSnZhYVFWSjBJMFZnUjVweW5IZ0FFSDRMTEgzY2h1aUdzME1xQmg0aUFZU2FnelhsM0JWYTd6VlJpbUl5TElIc19UVURsRWNYZlVDNHBYeG9JUUU5M2g3NHhrS0ZpVENTN1dXZnA1OExKaUtoSi1ya2ZwakxrVkJ3RHBPVjdWUmVKeUJzMUpkakYtbG5ZVExuNDFtSHczWUZX?oc=5",
-      "domain": "vacunasaep.org",
-      "seendate": "20261118082911"
-    },
-    {
-      "title": "Daddy Yankee Receives Music Honor With Faith at the Center",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnl6SldNdVJ5cFEwQmQwaFZoaHpYSHhhZmdwUUJWNXBOcXV2SkkxS0kxUkdlWWNTSlVHREI3Tk15S0dva3FKOFlmanBXSy1udXJPdmtuWjdVNk1XenBFajRJLWMzdDA5VjZldHFoWjlieTJ2WXlYakstWUhoek9jUWRYMDJNN1cyVV8zVHRrQnhLblVTcVFKdHNzNk1KQ0V2c3Zma1htR2VMQQ?oc=5",
-      "domain": "movieguide.org",
-      "seendate": "20261118065615"
-    },
-    {
-      "title": "Elikia Mbinga: From Ajax's academy to millions of Spotify streams",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBacGt1c0pJLVVncG1aOUJKUEFTZU8zV1hPelFteHNacmdLNXRjM3ByU0pmZGVJdlNLT2tqUmZISXpTcGd6S2ZyY0JNZTB6MVh3eldKTW9ieXdFUnNhNjNvcUFfVDZUUWYy?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261118070242"
-    },
-    {
-      "title": "Tape Talk: Film review from Cowboys-49ers",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTl0M3ZtSWl5ZlY2NXpmclJQMHR5b2tZQUJJUUhldmNqQjdJaDljTnBMWmRsZ3BXNG5NUnc4UTY1bDBTeDF6X1lMenZQa09MNTlZUGJKZjNFblBmckZZcW9FbktPME93MmVpQi1ZQWo0RGxYSVM2SXc2QkttTHR1Yg?oc=5",
-      "domain": "dallascowboys.com",
-      "seendate": "20261117213149"
-    },
-    {
-      "title": "Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFhfV0xfMV9sU0c5RWtDSGpmamlVYmlDZVZyR2cxLThETXVEMTVMTF96djNqaFRPNjR2YkRPN1lhcFYzTklrWHZlLVc4WjFsRldqaU1iSmxNQjdsZEZ2Y1kzajN2Mk9RdkZidFFyczhKb0FOSmtVMk9hMXpLN3ZwMjdUb2JMVEMzb3pTNE9rdTBXTkVWU3d2SDF5NjRaUzRJY3h1ZHpzXzdiUUpKTWo3TUYzdGtCZHk0ZjJr?oc=5",
-      "domain": "foxnews.com",
-      "seendate": "20261118004238"
-    },
-    {
-      "title": "Paul McGinley Reveals Why DP World Tour Players Could Pay the Price for LIV’s Collapse",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUU2V2lBUHR0QTg3TE9HeFN2UDFuQl9jMUZuNmFBZnhYT3lQM25ELTlGVGNpdm1yVHp1VmxER2EtWFdCT1FzNERvV2p0c0VlbUVBczVHTzc4LXVnM1B3LXBsendfT2x5WjZDVmQxblBxVHU1b0RkV0Z4ajNkRkx5dG1aRQ?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261118054447"
-    },
-    {
-      "title": "“Tyson’s Run” is a compelling, moving film about courage and forgiveness",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTElIWGtmU2RzczdfSEJEYzY3OTZlMl85OG03YzlNcUlvazZud3ZjMlZwQXMyN3ExRmRWTVc0bGphWUpaWHlna2NJcGZoNUU0YWNjcDBfRmFxVEVSYzV4QVEydEpSTWxBMFJRWFdhXzc3NzJ5THFVZ1lLWTcyVU9hTVY1UnY1NzBKMVN2eWpsRkZTZ29RU0o5aExOYjBwTFNqVkZvcG9QZHNoM2M?oc=5",
-      "domain": "wcexaminer.com",
-      "seendate": "20261118050213"
-    },
-    {
-      "title": "Destiny of Desire – A Laugh-Out-Loud Telenovela with Music",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTzh6MFRYdG1xSHRWeGhqOXFMclpvMXM0NGo1ZEl3UDI1NnQtbnhvV1FCcUl3aFI3LVN2LV9iMkxJeDdNZmc0ZEI5MDJ4NHgtdi05dVY5UHhxTHJtN1NaQlRzbV80X2pwM3VnWGJvUDFESTJpa3ZLNVAwSTFYdTBlRFJ0dElDcFM2OE1VbWQ0T3p5UQ?oc=5",
-      "domain": "splashmags.com",
-      "seendate": "20261118053317"
-    },
-    {
-      "title": "‘Mick Jagger should fold up his penis and go home’: the caustic genius of music critic Robert Christgau",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUFBVWptVzdjTlV3bU1Tc3UyVFZnVGxSbjFWUXIzTm8zelVqYkFvX1lyYW5FNDE0ZW5DWlpmUm1pS0t0ZEpFXzB5Y3R1VjZFM0U0THMxc1pLRGhQSWdPb3J6Qk1PV0tzZFNIdWtkSzV1WEJnSC1KVGx2UXZvcVRxcnBwWjM1aDBHVDhKWHFxVQ?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261117205600"
-    },
-    {
-      "title": "Which ex-LIV Golf players will play on the DP World Tour?",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWlJVZ3hIWlp2dGRHeVVJRmhlSGI2eEEzNUFod05nN0F0b0x4T01zSGNuTTVPYU93OGc4Zmp6ajNnLUQ4TjFnTFNlVndDZkh5UUhKUVo5NnB6RmwyREpuaFJxQ191N08zYzlZUm12eDQ5QnJEY1hJS3A2cy1mZ0ZpR0E4LUJUU2pLMmkxTXJwRXJDcE1lVElyNWlMMldTRml4Z0ZKNlhSbmdBcFF5RnM3SzJEcngzdWVsZE9VNUZEbGVsTWVSckNJRFYtSEJqLVYxeFFfem1leTdEaDZBN0FlT0JPR1V1OV8wZ085V0VGSQ?oc=5",
-      "domain": "skysports.com",
-      "seendate": "20261118060015"
-    },
-    {
-      "title": "[Diretta#Streaming! tv]* Teremoana - Ahio diretta streaming Boxing, 18 novembre, 2026",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQM202VXJMZmZOMlBwZkJNNkRzMzNuZm5hUWVvazVyTm5iRDlMYzB6d1pfOC1EQ3JvcEQ2d1hGQzNBdmdzTGItV3I1TUtYS3dRTjlQeUxfelJWRU8ybmNhSDBZX2FBbkRkZ0txcFZ4VldsbmZPQ2ZKdTZ5SHQ3WEdpOUdYS2ZsOW12TWJMMTBLNjVuNThtdXA2dGtQQjZvNUl0VlZ1VGdaWjI0ZWF2RFdPR3NEVXIxMHAwYU9EbW11YVdNeGFwV05zZS12ZGtqblFodmJydGZHR3kwbXNTVkVxM0Y1dkR4dWNocHZrb0xNSWpiRVZLSVpNTEFPZ2RDQThfTGdZdXBMT3V4NnkyajdDRlJXSnY3ZnBvN0NaTnktOEd1UmFrR1FVSl84SXRXaGlYcGk0WTBOSGI0c1c5MUtpT1BWWk5iMVJWRlBVVFlWbmZZSmhPTDJldElleEFERXlNWnlpcWJB?oc=5",
-      "domain": "vacunasaep.org",
-      "seendate": "20261118082011"
-    },
-    {
-      "title": "The 10 Worst Summer Blockbuster Movies in Film History, Ranked",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5Rks2ckZTdWkyNXNBWFBZWHVDRmlCMzFqaWNQY25JSzlIRWZJRGllZG83MlFmdHZqMTl1UVpRNzNDU1h0cU9pN1BqT0FYbkM5aFVvLUpraktfMjJkelJ6MjA3NlNpaUtNRUZ0ZnEwUkhldi16?oc=5",
-      "domain": "collider.com",
-      "seendate": "20261118044800"
-    },
-    {
-      "title": "Kings of Leon to play at Apple Music Hall in December, tickets go on sale November 18",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUG9vVnVRX0ZVM1JoenlrUnZqcjBLSTlRZEI1T1J0T3hoLVJ3N09qNlFDdF91bXFzVUZwT1FCdUtxZW9MRlM1WWhCQ1dkTEp1eWlXMUZoQnUwZGJKdHRhbGh1bm5FeFpwNHYzZ2laRDNnUDlISExNY3RaQjZKYURXMl8tVTVmSEczQkJhRHk0SUlWeGF0YThZclA3cmlkTFdGakhzWFdpTHhLWGRDakNUSm9BV1JnSU0?oc=5",
-      "domain": "9to5mac.com",
-      "seendate": "20261118003500"
-    },
-    {
-      "title": "!*![[[DIRETTA-TV]===]] Teremoana Ahio In Diretta Ｓｔｒｅａｍｉｎｇ Online (Boxing) 18 novembre 2026",
-      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQWTBvZXNFMHZiTXBrOVhZVzR5MVVKQVU3aXc1b3VERklLNEhheVlfU05vTVNsM0QxandhSmRqLUdkNmdZQ2VXQ0FNaFhfZVE4bHg1akhRcGNYZjN6Ul8wbVVVbXNXRGZlc24wNDlrUGpvN2JlZHVSVTRqd2pQNGxOd1JwX1NLMEgzS3AyZXNPRldBZWpEM0xzUWhjc1BJYmx1RGp1Ri1vVzVtMTJ6OURFc3B5bXJhNGRlNVZTNGh1UlZZaHRraGkyLUhiX3RXcXY1el9jQW5VVV90TGk1ckxqc3FKNW01eGJIdEtKenJvb2dMVkVWS2lCajN3Z05HTlhhN3E3b29kM2g4Y1BnTTQ3cUM1WnV4RXFwUWw0ZXZjNHpnWl8tZ25QYVMtSVZ4ZmJuZGVMbWNLaFQ1MzdEMXN2WGstRTQtYUlFU1B0RkpHQnJxMnA2SUNZWXRkYzE?oc=5",
-      "domain": "vacunasaep.org",
-      "seendate": "20261118082011"
-    },
-    {
-      "title": "Alexisonfire and Poison the Well at Brooklyn Paramount April 14",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPc18wOElMQXlvaFpxSmhFRVZqZ3pCQ2FUX0RtOTIzOHNyUHFJLUx6SmNCQUFTOWZsN05jTFdtVlVGOXFaVklfZWxFeVRieHc5N3YwVEZqbkx1RU5wNjRiUldzRHowdW9RaTl1THQ3REktZDVCRXRwWnZtNFJRSC1uRWFPa1lTUFZUUWhJb2RISUlIM1RVcW1KM3V0dHE3aGhpR1BPMmlOOERvVGhpLTI3djRCUWM1YnFRRDR2LWxfbWtXaDdYUlJJcw?oc=5",
-      "domain": "bushwickdaily.com",
-      "seendate": "20261118075152"
+      "title": "This Video Store On Wheels Is A Horror Movie Fan’s Dream",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjF0MWo4TGR0cTB4N3NITXJDRmVMc3lYS0E4WFZRcnNRUklyTm5IbndxVkRzSml0SDJnZTctSU1wREZJdHJXTGdoang5MjlzSm5OTmNrWlBXLXg2SUtrMk93N1FzclNpcGhHcGJPUVlncmQ0V2NBNzRpN0ZHYlZycXZoT1dadFFFb051bVFHd1hUcE1WVU5XZFU1dHg?oc=5",
+      "domain": "blockclubchicago.org",
+      "seendate": "20261118140000"
     }
   ]
 }
