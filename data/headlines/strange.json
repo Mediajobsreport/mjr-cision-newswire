@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-19T05:21:07.585Z",
+  "updated": "2026-11-19T14:35:36.951Z",
   "source": "UPI Odd News",
   "category": "strange",
   "articles": [
+    {
+      "title": "Man paints Lady Liberty in 43.5 seconds for Guinness World Records Day",
+      "url": "https://www.upi.com/Odd_News/2026/11/19/Guinness-World-Records-Day-2026/1211795031689/",
+      "domain": "upi.com",
+      "seendate": "20261119100006"
+    },
     {
       "title": "Watch: Stray dog joins coyote pack in Arizona",
       "url": "https://www.upi.com/Odd_News/2026/11/18/tucson-dog-coyote-pack/4721795027869/",
@@ -146,12 +152,6 @@
       "url": "https://www.upi.com/Odd_News/2026/11/12/martin-county-florida-bobcat-barbed-wire/5931794501662/",
       "domain": "upi.com",
       "seendate": "20261112164326"
-    },
-    {
-      "title": "N.J. officials warn residents not to chase loose emu",
-      "url": "https://www.upi.com/Odd_News/2026/11/12/loose-emu-pine-barrens-new-jersey/8421794500759/",
-      "domain": "upi.com",
-      "seendate": "20261112164055"
     }
   ]
 }
