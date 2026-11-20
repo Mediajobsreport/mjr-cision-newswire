@@ -22,7 +22,8 @@
         "2026-11-30": "Why did the grape refuse to fight? Because it didn’t want to get crushed.",
         "2026-12-01": "How do bees get to school? They take the buzz.",
         "2026-12-02": "You heard of that new band 1023MB? They're good but they haven't got a gig yet.",
-        "2026-12-03": "Why do you go to bed every night? Because the bed won't come to you!"
+        "2026-12-03": "Why do you go to bed every night? Because the bed won't come to you!",
+        "2026-12-04": "Why did the tomato blush? Because it saw the salad dressing."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -73,7 +74,14 @@
         "Why shouldn’t you write with a broken pencil? Because it’s pointless.",
         "What musical instrument is found in the bathroom? A tuba toothpaste.",
         "What did the buffalo say to his son when he dropped him off at school? Bison.",
-        "What do you call an alligator in a vest? An investigator."
+        "What do you call an alligator in a vest? An investigator.",
+        "Why don’t you ever see elephants hiding in trees? Because they’re really good at it.",
+        "What do you call a ghost’s true love? His ghoul-friend.",
+        "Why was the color green notoriously single? It was always so jaded.",
+        "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
+        "I'm not anti-social. I'm just not user friendly.",
+        "What do you call a group of musical whales? An orca-stra.",
+        "Did you see they made round bails of hay illegal in Wisconsin? It’s because the cows weren’t getting a square meal."
       ]
     },
     "would-you-rather": {
@@ -97,7 +105,8 @@
         "2026-11-30": "Would you rather have a house that is always tidy or have a garden that is always in bloom?",
         "2026-12-01": "Would you rather spend a day learning to make cheese or spend a day learning to make cider?",
         "2026-12-02": "Would you rather have a small flat in your favorite city or have a big house in a quiet village?",
-        "2026-12-03": "Would you rather have a garden path lined with lavender or have a garden wall covered in roses?"
+        "2026-12-03": "Would you rather have a garden path lined with lavender or have a garden wall covered in roses?",
+        "2026-12-04": "Would you rather watch a film with someone who predicts everything or watch with someone who asks what is happening?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -151,7 +160,14 @@
         "Would you rather have a very clever pet crow or have a very affectionate pet goat?",
         "Would you rather be able to spot any typo instantly or be able to spot any wrong note instantly?",
         "Would you rather have one enormous birthday party or have twelve small birthday dinners?",
-        "Would you rather have a free train pass or have free entry to every museum?"
+        "Would you rather have a free train pass or have free entry to every museum?",
+        "Would you rather always arrive ten minutes early or always leave ten minutes late?",
+        "Would you rather find something wonderful by accident or make something wonderful on purpose?",
+        "Would you rather have a coat with endless pockets or have a bag that never feels heavy?",
+        "Would you rather live above your own shop or live beside your own workshop?",
+        "Would you rather have to announce every door you enter or have to applaud every meal you finish?",
+        "Would you rather have perfect handwriting or have a perfect singing voice?",
+        "Would you rather have a new hobby every year or become an expert in one hobby over ten years?"
       ]
     },
     "excuse": {
@@ -1760,7 +1776,15 @@
         "I set out to make progress, but the clock took the scenic route around the afternoon and I lost track of whose calendar we were following.",
         "I nearly finished on time, but the filing cabinet labeled itself 'miscellaneous' insisted on a committee meeting.",
         "I had the answer until the printer needed an update and a heartfelt apology changed the subject to snacks.",
-        "I set out to make progress, but autocorrect made hello a formal declaration and I lost track of whose calendar we were following."
+        "I set out to make progress, but autocorrect made hello a formal declaration and I lost track of whose calendar we were following.",
+        "I had to take the batteries out and put them back convincingly.",
+        "I had to find a matching lid for the leftovers.",
+        "I was trying to fold the map along its existing disagreements.",
+        "I got distracted by a book someone left open.",
+        "I couldn't leave a crossword with one empty square.",
+        "I couldn't tell which of the identical black bags was mine.",
+        "I couldn't remember what I'd gone online to look up.",
+        "I needed to buy a light bulb that looked like the old light bulb."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2517,7 +2541,8 @@
         "2026-11-30": "Ganymede has a thin atmosphere containing oxygen, far too tenuous to breathe.",
         "2026-12-01": "Sloth bears can delay implantation of a fertilized egg, extending the time between mating and birth.",
         "2026-12-02": "Much of the ice sprayed by Enceladus falls back onto the moon as snow.",
-        "2026-12-03": "Curiosity played Happy Birthday using its sample-analysis instrument on the first anniversary of its Mars landing."
+        "2026-12-03": "Curiosity played Happy Birthday using its sample-analysis instrument on the first anniversary of its Mars landing.",
+        "2026-12-04": "Tokay geckos grip surfaces with microscopic filaments on their toes rather than suction cups."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2566,7 +2591,15 @@
         "Jupiter is the fastest spinning planet in the solar system (it only takes about 10 hours to complete a full rotation on its axis).",
         "Adult sloth bears lack their two upper front incisors, leaving a gap that helps them suck up insects.",
         "Some tarantulas share burrows with tiny frogs that eat insects threatening the spiders' eggs.",
-        "During World War II, the United States tested a weapon that would release bats carrying small incendiary devices."
+        "During World War II, the United States tested a weapon that would release bats carrying small incendiary devices.",
+        "Sand cats hunt venomous snakes, including vipers.",
+        "Juno's measurements suggest Jupiter's core is diffuse rather than a neatly separated solid ball.",
+        "Red pandas wrap their long tails around themselves for warmth while resting.",
+        "Specialized ankle joints let clouded leopards climb down trees headfirst.",
+        "A Japanese white pine trained as a bonsai since 1625 survived Hiroshima and now lives at the U.S. National Arboretum.",
+        "Jupiter's neighboring cloud bands often blow in opposite directions.",
+        "Red pandas can rotate their ankles to climb down trees headfirst.",
+        "NASA's Stardust mission brought particles from Comet Wild 2 back to Earth in 2006."
       ]
     },
     "fortune": {
@@ -7254,5 +7287,5 @@
       }
     }
   },
-  "updated": "2026-11-19T14:33:15.760Z"
+  "updated": "2026-11-20T14:11:19.018Z"
 }
