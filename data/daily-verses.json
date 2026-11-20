@@ -121,6 +121,12 @@
       "text": "Pleasant words are a honeycomb, sweet to the soul, and health to the bones.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "2026-12-04": {
+      "reference": "John 14:27",
+      "text": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
   "passages": {
@@ -243,7 +249,13 @@
       "text": "Pleasant words are a honeycomb, sweet to the soul, and health to the bones.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "John 14:27": {
+      "reference": "John 14:27",
+      "text": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
-  "updated": "2026-11-19T14:41:38.448Z"
+  "updated": "2026-11-20T14:23:04.028Z"
 }
