@@ -1,151 +1,139 @@
 {
-  "updated": "2026-11-21T16:52:35.910Z",
+  "updated": "2026-11-21T21:58:10.766Z",
   "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cXdVVUc1b3ZQMTdhdXdRUWF4RFVlNTNMYlJDeWxoR0NZX3hxd3BBOEJwTzhYdDJMQnZNRkZ4TDc3c0pTN3hyX0xBbkVUanpHejhWQUJKMzR2VEE?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261121131738"
+      "title": "Trump says FBI hack might expose Russia \"hoax\"",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qZGhVMnlWbTBqVTRJTU95ZjdFTHBEeDIyZHgtQ1pSZ3NCMDhUSGZZazZ0V0ptR0I2ZDZhSUhtUFZRNGRsN3dOMzRZenJHNGlidHB4QnBkYlVVcldoUi13ZjdlZ3g?oc=5",
+      "domain": "axios.com",
+      "seendate": "20261121155721"
     },
     {
-      "title": "New forecast shows how El Niño will shape winter weather in US",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFFjeE1iNTd3YWhTQ0phTzV2RWM5NmJVS1JHYUQ4Vm9IclZQNUhxR3ZPOV9FZ3A0QXZ0Szl2QzFSRDhwYkhXcXRFZXB2TFZKOXN1VVVUVXNxZzh5YVdna1BaTE5JLTE5Y05EbHhUbXB0Qmg4ZEt6T1ZqQ3BJb0Q0OHVXTF9Zemt4VUxlYktYdDRfc1g0VDljdnFkZlpzV2FpaWFTS1E3NA?oc=5",
-      "domain": "usatoday.com",
-      "seendate": "20261121140400"
-    },
-    {
-      "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTR4anpEVkluM0VyUnhEemgxdHk1MGp6bTdPLWtVMUZ1Nlh2MktQQzdwOGtWUmVzNkRHMC0tVS0wWk5Db2dEdGdJa3Z2cFQxdERkTW1RRHBPZU54X3dSaHNSZVJad2pvMXkwY3dPMDRfZU1WMFhyUDhpSE42THVhNzZYTTdpVzBscGlXbXNJNHhKOEo3SS1V?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261121112034"
-    },
-    {
-      "title": "Denmark accuses Russia of plotting to kill Ukrainian American rapper on its soil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1liT1N6XzJmWDVsV1laaVZtblN0OTludWJKM1JqS2ZJb3NHNEN0TGF4SVJrVWRlZUpLdExOeWdIREhaRG16N1c5cFEwV2Uya3dRbEJwMjdPNk9pTEJ1dkpYbENVNVJtaTZudmt1cmQzTDRRQUhETTd5NjBXQnVacVRtUzBHR3NHVHVfUEhoc3Nwa3dwSDJad0NCbTUzN2tUa3pFNk85a2FtbGZfRDROMmdEc0ZGUQ?oc=5",
-      "domain": "nbcnews.com",
-      "seendate": "20261121101512"
-    },
-    {
-      "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNXJuX3ZtUFRKbjBwa2lBaVc3eHZPakhfNENOa0lhVWZYeDFXcWNIdHpYY01pc2M1ckJ6dkw0VWlhMkxhUHo2VjRtN1F2cEhnekp2YjdSRkpQdVNIRzBnVFVMY3RfaFN3QkZRMGl1RG11My1xT1p4NnYzTFJ2RGw0Q2cxUmV5V0ljWm5BSlprdzNzb2R1MVZIcEYybWVKN04zcHJRMWlNQmtvME4wSGFQMUZvV2kwRUdFM01kTDNjUkZ6dzJvVUs4VlBKcw?oc=5",
-      "domain": "washingtonpost.com",
-      "seendate": "20261121143138"
-    },
-    {
-      "title": "Millions could lose paid benefits due to Congress ignoring decades of Social Security warnings: experts",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3l0dzVtNTRLVkJVbTlCV21hZXBMODFhcUVEMk1sVEJaRUVyUndBX3lWR0dtR3ZwMDZUdXFfR1NWQkxOekxKd0dGbWZmNXJyTmVpdGhjUUFCSXRueUZnYnNIVVRjalF3YkU4UlY3TWtyVmFiQmEyY0ZWQlQtUGxCQldRQ0lhcEZOd2tvWVMyVHlhZjgyZ0Jlcm9yWDFmZVJrQkFCbGhuUmMwdHZYVGFRSXJxdlhhRlJaQWJZV1oxRHJRZDFWUVdOVtIBzgFBVV95cUxPeDBEX09XcGF4WnF6TVRhZlVhWEx1Rmp1aWIyR0dYTHRIcWo0LW1jWnBORE5MUzFXUGRjYVVxb2NkX2J6anRTYXU5REt6dy10RHAwaHlaamdPOXI2Uk5fbHJxazJDbVNGSTFiMkxQNDhDTkx3WGtjVXBULVlsNmt5dHlmemdoWVJKRDlMRVI1X1pkY1dPRGVBaDhET19xalZuS0RMZnpub1R6bFNSaFM2NmN0ZmREbGxBVjBFdzdkMkhwRjE3VHFzNmhDYldvZw?oc=5",
-      "domain": "foxnews.com",
-      "seendate": "20261121113004"
-    },
-    {
-      "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9odU5MVEZEWWhIZWZoR1BWdHdtOVdXOFpUQzd4NzhQRGpidjJReWVkSVN0RVdmOFhwWkRuaE1SWUlveDFRcjZ0RTZ2cTBoRU5TamNhbENrNmdHbk9zaWFpY05qSXNWUGNWUURyMWNlLWpFenlFWTF4NWN3?oc=5",
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmxsSmsyUk1zQTI4aGZBcHlQUVpfa1FDY0c3endISlE3QmNLY0t2bjNVaUxQSWl1WFBPZFI4Wk9PTzRvMTAxdVo3eDZuaTJnX2RFQ0Vob1dHXzU2cWJGWndYWUhibklxV0lDOFlPS3U1cFVoeUU1MmRyVGVaZDZHZTZ2dV8?oc=5",
       "domain": "npr.org",
-      "seendate": "20261121135833"
+      "seendate": "20261121182246"
     },
     {
-      "title": "Fears about toxic lead dust spur battle over US Army plan to detonate bomb-making material in Iowa",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13ZGhGOVZ3Y1dvb2FocF9uUnRWcHlsNWJYQXNHbU9yT2VOLTh6VzRwOGxhOFgzOVVWM0xkdlFYR1dVZHhsYVZRU1paM2JXZjA3MEFZMnRRTkhFZWZnUUFYSU15VkRpbWVmYUlnUThEMmZkbWtqWWc?oc=5",
-      "domain": "cnn.com",
-      "seendate": "20261121110015"
+      "title": "Second judge blocks construction of Trump's massive 'triumphal arch'",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRF9hWDZxY0F3cmtPcmhKSGlCeWJWODdUd3NMdWJWLTd0MXdQVXF3a3dQNkFxX1IwOXJ5SkRRRUp3MWZPOGVZRzVUZU9CLWpQSkw2Vk5aRzFVQjJaM0NKSkxQb094TUhnOGRMOXZybXZRNlQ2MVpJMER3UUNkUGdXel9ISWRFNVR6YlJsOXRhYzJlenNOVzZYSUxZTlplNWJwTkRJ?oc=5",
+      "domain": "euronews.com",
+      "seendate": "20261121080128"
     },
     {
-      "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261120221433"
+      "title": "Mike Waltz warns Kremlin faces 'unsustainable' losses approaching WWII scale as Trump seeks deal",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXpPZ0pLRE1EdmVFUXFIeHBEQjNBbHJSUGgwSDZLSzV4TXJ6eVVlMEpqTFJtOEp1N1gtaFlUcHF3M3BJRXJjdnAydXVFWnczRTVwbUcySF9VQUlwSndtOURNbjNRU3VNZ1VOa2xmYmVxcEJrbXdEakJqUldUdTZINHJkNUtTMkl6WUJBTWZsdEJ1d19yVldVaWlxQXRBaS11STBJN2VUUnd4U05fSW5MTU52RTduOGt5aHdyZnNR0gHDAUFVX3lxTE4wUFRSVWo2bjNuNVEzSG5uZjRhRUstZk1id3EzbnI2WXdJNUgzU0IxTHRQTU5haFdVX0puZFdERXJ4S0hJRFZVZkpGNkxmLVFpbXJYVGY3dFpXcGRaQzZpeWc3TVVrVmxLTERPcEVFNTY2THhIeFYxSkc5dGYwOTRmaGVCSlRoWWRIUmZlUUVxLVFPb0NOYVlHMWxlTTE4V201X25tY1labG1jUTNOSmZ3b0F5Q0NrMUNpcUpMOGJkX0NXOA?oc=5",
+      "domain": "foxnews.com",
+      "seendate": "20261121175735"
     },
     {
-      "title": "It’s a Bill on Energy Permits, but Trump’s Pet Projects Are Part of the Debate",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPendkMzdHdkpCUEh3c3lxWnNSbzlSOWZ4T21pY0RkMmJHNUlzbkhiR09SV1kyUGFzd002TUxWaGNzUDVQX1JWZDNlZlFEMVJHWlF1Y2I2ZFNaeVljNHF1Y1ZKQmZPZ0Jod18ybUZaZHdLYnVXYk9mNkFNaGVvRHI1LUR3WF92dw?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261121153700"
-    },
-    {
-      "title": "International talks on controlling use of autonomous weapons collapse",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRUNMSUo1X2dYS3gzSVJxMmttOF95YXNZSHVxdkVqcVNocWdsSzdqMVROd0hjdWZWM3ZDbFB3UVFiNVZtZjQtTjhvUVBIMDF1eXAzdXRhRGcwTmVHajZyS09KU2hZdFRfam5GZlZSNng4emstWlNWakpZUW91dU05aTVZcjdXMmRMX2VZYlEyUWZHbTFTcm1ueklldGNia0IzeG4yVW92RmJISUVIVlE?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261121131500"
-    },
-    {
-      "title": "Princess of Wales: Catherine talks about her cancer journey in new documentary Heal",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DMFNHWkMtV1hnN0FPbzR3UzJ5SGxNV2V2X3VQbnY5YUI5V211OEw3NlU1Y1luTEd6N3c3am9YZG5zdmNYcTNieEVxQXhqZ2FBMm5Ua2xPQS1UOEE?oc=5",
-      "domain": "bbc.com",
-      "seendate": "20261121120003"
-    },
-    {
-      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObXJxS0Y2ZWlaREQtbEtfbmhwcFJibU9pOTdCalNJNGhlTElNSmFMZXN0Sy1YYTlVN2VfcGRpbFgtNFlKM0I3ZEtILWk1TTRTVG1KYkp1VmJqcldtNG1rVnY1cG5rMUppb29kekNKazBGUy1LMVRKeEtOcmd2cTdFNUQxVl9mS3Zld0VqbEpiSU9nQU82bGdqUUN3c0JlMHR6VHB4UHlxU2Fod9IBrwFBVV95cUxPWS1tWElsbWdpWUFTN3VyamFlYTd5UXhMLTI1R0NKa1NzamV5WVIwRndZRm5qOWgxclQwOEprdi1tb290VHFnZWZHMGtSTVJidmFZT3RJVWpKS3lscFl6N244akRLQ29UeDZGcVBiZjR4MkthYkdCRUxCdmhtZnd0eFl2ZWtaWDdEN3Ridy1nLUgzN2E3LXI1MnEyb2NxTHlMUllZcnd2MUlHYXIwS2tr?oc=5",
-      "domain": "aljazeera.com",
-      "seendate": "20261121110642"
-    },
-    {
-      "title": "U.K. and EU strike deals on trade and travel, pledging to rebuild ties after Brexit",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEtqaW5mMm03NmY4aUM1TUh0LWM5TWV6VkpjU2N4aDhWRFhFMFdtWm9wS3VHb1I1M21Ja0U3QWRCenhGS3k0QXZLcm9FSUlWMTZaMHBkYXZoTUpmUThiY2JpZ29oYjMzZVBlZXl2SnpYdTQ2dF9wTnFadVBfNE9PcDB4cmRFc1MxbjROWnhBZVQ3bzBzbmlPUXAwOXVmUkdSTHY1eUJnd2VwNEl0?oc=5",
+      "title": "Republican hopes fade for one last party-line bill before GOP loses majorities",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUc4V3V1WnVESVVOaW5iQ1E0TXBucnhrQ3BVYlowM2RDUi1ocC1fVVlJcVpWYm1jaGt6bHo5aElBYkZ0MWt3RGNNeW9lVXV6NWstdlVPa3NXZWFuRC13UnpaQl9ydUZxRF8wM3oybmMwZFViWEhWRkpaQmtrWWpwS24wdEM4Zjl1RWJsWFlrbXJPT081aFBncEdGbkI1bTdCUU5PZkFneWt5OGlzSko4QndxbnpQWjFSWDNVeQ?oc=5",
       "domain": "nbcnews.com",
-      "seendate": "20261120204215"
+      "seendate": "20261121160000"
     },
     {
-      "title": "S&P 500 correction: Five forces behind the market sell-off",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVdEZSRFJHbTVUcnFhajRic19hWTN3bFdWTTNHcG4xZ1FOUkIwbTlxM25RRnNubWg4eFdMN091NVdrNFRrLXNxYkVRdE5RMmxUdjEtLVB1d0ZvS0V0S05mVGRpdWliYXE0YV9sSHZndlNfenJBUl90YlZR0gF_QVVfeXFMTjdUUUM2aGNWRGk0VGM5TGpacVBtZjNLNnRiWmE1clBxSnBZenR2anotRF9lU1pEQXJKVjhoaEh6VHZ5b2hWMktPZEI0N1FmWW80S2N0anRHS3djeHVuOTRibk1wanNiNEZoY0FyVlFxbXA4N1hWWlZIZzlWdHVqdw?oc=5",
+      "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1lhc2ZRS3hPcnFWc3VBdDBIbElGZF9PSlZVSEV4NFNxSXZ1YlZWeWtYUVdrbjZXVXFJM3V6VkgzLTZGSWdWUFZiVGctOFRreU1lUWpWdXp5VmJxYTFBVU9wTk9YcTZNSmt6MDhsNnB6azlRSnVnaUdZNF83dl9Gay1OVm9qQ2NreElTT1EzVFF2STVySzRkQmt3M19lRjlzQjJvVWVQckYzR21YUVRyY1R0MGJNYzJwaVhR?oc=5",
+      "domain": "reuters.com",
+      "seendate": "20261121195306"
+    },
+    {
+      "title": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZm4wWDR5Q2NNcmdUSjFSbGgtdWdBZ0JxODJsdU1LVDJFRWdrZ3dqOC1XVmJZRFdyTWNoOVI3TVpvWERxSldjTnNLcHJPeEduZnIxTEkydFU1Wml0NTE5TlhXQ2xEQ0tId1pvVnlMRnNNVkRxXzJnZVZPeUlSc3dWeDZPUmg5VGFzd285NVZ0RGx0aW5zbGJUREpPNTBLamdsOEZtVDRjaDRGUkhVRHl6U0VBRWMzYTVVWkdoYg?oc=5",
+      "domain": "pbs.org",
+      "seendate": "20261120233939"
+    },
+    {
+      "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261121172600"
+    },
+    {
+      "title": "‘Grandfather’ or ‘godfather’? Republicans know they’re stuck with Trump",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVml6cmh6bHBTNFRfOFFySEdQcXlsNENWbkdhUWt3ck1yNWZ2Y0pfM2p6RGhwbU5Wb1M5NmkxdVE3aFBlekpPMnRCNUhlRHI2MjFWQTZGcnozc0lHLVkyV1FqN01RY012QjVtUU14aTV5cUd2SENERWo5S1c1WV9wdk9SUU1aY2ZveURfSXItUWlKYmd5OXlXcGFB?oc=5",
+      "domain": "politico.com",
+      "seendate": "20261121120000"
+    },
+    {
+      "title": "Monster king tides are set to flood the Bay Area. Here are days and times they’ll be highest",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSEFhZ0EtSWNJRmJSY1U4TkU3cjRhbUFyQ1ZSWGNuZ3NiazBZbGlUZ2xTR3ktODlIb045dGYzdGRoRTBFemR0RXp3MDluOFpvQXRua29XOWd2OEtDRGlsSmlPNWs4LXA0ZnRLakFkeU5qbmc2ZE95MzFFeU1ydmZnTVg4NlB4MDk5cGRVbEg4OG4?oc=5",
+      "domain": "sfchronicle.com",
+      "seendate": "20261121170836"
+    },
+    {
+      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
+      "domain": "reuters.com",
+      "seendate": "20261121210149"
+    },
+    {
+      "title": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY3JlX1Q4VXpOM1lnZ2s3aUdnSmxhOExuMl9PUlVwSUpZclY1R3RSb04wdzljcmNaQzJoOENYYmxCQ2tLaXpma2RhQ3hHeWdwYURDN2ZBaGxYT0k5MkEyVDFubm5GX2FfYWVsd2Q0VkQwTWh6X2x0SF9qZS1kWW8za2Nod0I2QV9DQlVsSHpjRnhRN3ZaUWNjb1dpRHYzdw?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261121151800"
+    },
+    {
+      "title": "What smart people are saying about the market sell-off ripping through tech and AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5",
+      "domain": "businessinsider.com",
+      "seendate": "20261121172300"
+    },
+    {
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
       "domain": "cnbc.com",
-      "seendate": "20261120235321"
+      "seendate": "20261121130001"
     },
     {
-      "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZTRVdJcGNQbEdjRlRQUnN1YjBzTXlaYzFDb0swSDlCNTVsLVo2SGtQTGxsUGxzVmE0SkFPbHB0dFBXbWhGQVZUdmFQZ21zeDBwcW5OSjJmOUtmQjB4U3lNVkptMzYybHpmR1hkTUZESVlQU1VtWFhsSzNGWUlmWHNUa3FCd0t6NjNFR0xkTzBxdjYySFFtSTRQbTFwTDd0TXlfVEY4dnZCNmxrVnZFWVlSR0U?oc=5",
-      "domain": "bloomberg.com",
+      "title": "Stock Market News From Nov. 20, 2026: S&P 500 Ends Week in Correction Territory",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PbFN3R1Bpa1RUYkt0Vm1yRFZjaWczbEZSNWlEck54REtud2VUYXZHMnEtTXhsNEtQMGdtSUdNa3RDUkpGdHVrQU5tTDNvTS02WXU0Qm54Qzc2WXI3SmNEcU1rMnRaTEpKZDNYMGM3TzJkWnVocFE?oc=5",
+      "domain": "barrons.com",
+      "seendate": "20261121003900"
+    },
+    {
+      "title": "The Outages Are Just Getting Started",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNzdnendnRkFmcGtfWE5XQnJrX0o0TEh3YkNCcnh3R0pzbU5fQW14YkJhV0gtWnJBWjZzSTdUb1dnOFp0alhxbGpiQmZnVjdUVGxUVm0xTEpGSEVsRlBQMDh0TXBQR1d3WjllZHpaczBlel9KN0lHbw?oc=5",
+      "domain": "wired.com",
       "seendate": "20261121130000"
     },
     {
-      "title": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5",
-      "domain": "wsj.com",
-      "seendate": "20261120233600"
-    },
-    {
-      "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGtFb3BuM05pTUg5S1ZialV2cklvU0ZYRmtYbXpZaUlFckhIWVhhRWhQLVJYNjk0Qm93dVVTRXlZZnVDY1Z4MEd6eGNJazlzVllLWmNnLVV5THJ1cVppM1ViWFBQZVExNkxvNVF0VFl5Z2w1UFE1aU9nVUhpWVJfbnZNSHFtQ2tQdzQ5ajdZcFpmRS1wdWFJeUpFa3VXX1hXekRSNGJhWjVfR3kyUHYtNVNxbGUzZV9JU2NsbU9zRHg?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261121032304"
+      "title": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjhEYkRqdG81LV9ZZm9ScHRKYTUybnFBc3NHOWQ2dTFCZURHem9fMWVKWklZMXRvNTlodjgyWm5Ca0NfLXFZWEFOdVl2LTdmODRmVXV0WERkNklXM0hPMnRha3ExS1FNS0cwM0FBcVJDbzVoS01ib3N4Wm92YWJHSUdTTVFyaUcweXVoTUU4Y2N4WHB3d0hqSktqWTRXSi1pMUs0amI3eWJwdGVUWVhjWDBHRm1tZVcyS0IwMkl5Q1BzYTNt?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261121170042"
     },
     {
       "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzQ3TXlUbnpfS1pCR3Q5TzRRanAtZnJwcVNzUkRVaXZ0dHhXYTUwM0I0eGNBQkZfMVZfRFQ2Q0dtRDlDcU5rOENuUzQ3ZHhkb0U1bVV3MkpLY2dOZEZONXkyNkRKSVpqSDhGVmp0ZXFuX3ZmN05tbi03RDVWVG5mQUpGUDZ1UHlw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelVkZmVoelpxa2pvdEZNMjl5ems1N1J0RFNWS0hsU01nSmpyMXp2cFF5OXp0bEMzUnhORkxub1JMeDdFdFRYWExieWYtWktVYzh3YkttSUNiYTh0Z05uYkR5RlNwamh1UFZmZ19MMGFVNGdGei1uZms2ZUx6MzFHbEtPQXlIOGhr?oc=5",
       "domain": "macrumors.com",
-      "seendate": "20261120230307"
+      "seendate": "20261121171748"
     },
     {
-      "title": "iOS 27.3: New features, release date, more",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5JMll6YnNLRXhiNk1KdlBiOVJuX3B2aGFNa2twT1J4ekxHYlhqTUZLZ0RUdHktQnA1b1RSaDhZUzBZNDNFUnB5RkV1OEhVUW9vVFpVdDVxY2UwRHpUeVRwMDdjenprNm40UzZpMTVNTlNDSkxjbEdtdWNxYw?oc=5",
-      "domain": "9to5mac.com",
-      "seendate": "20261120134400"
+      "title": "28-Core Intel \"Nova Lake-S\" Appears in Testing Running at 5.2 GHz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1F2UFdad2R2cGdaYkJ6T2pZSVhVQlBDSXJhR1lhbC1BWTRsbnktS1I1NmZYUl9uTDdjTl84cnBLWUN5b1dXSi1Ib0FVSlA1dUYxUTd4bWUwcDc5U0M1YWQzdThpeEVSUDhYd0t3STdUU09xLXBaeW12cEd2WjNXLVdXMXVHMnNlbk5YQ0lxcnl1Y0xfcUoxTDB0Yl84RnfSAaQBQVVfeXFMT1ZpUVBKSnhRUHBWRG1xLWlaeEZJNmtvMlJDb1JLdDNudXRxTWdjYWtsdENTNGVIbDg0bV92VnRscE0tUlhZaWZpMDlFNEhmclJJUjluNkxqdXdSSUhWbEZSaWtjYUUxTW0zUGRuYlhxeWJ6TkFla0hCa2FWbjRGeTZFdXlpYmJzTnJqcWpUa3VKOFUyS2RGUm5TUG81SU5xX1cydEk?oc=5",
+      "domain": "techpowerup.com",
+      "seendate": "20261121153912"
     },
     {
-      "title": "GTA 6 is already running at 60fps with DLSS 5 with the help of a PC, thanks to a clever PS5 Remote Play workaround",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPXzVDOERHTTVkVU0xd205Tk5jR2dLci1vbldYUVNnOGEwMFFJWXpEVl94d19NT0VadzE0Um04emZjMkRtY0w4QjJEOFBzZ3A5ZklmNzlHRUhpNlBhMTZmRkI4U2FqZENRUTlfdnQyckxadmRUQnplTFZqY1ZOUHR2U3l0ZWRGSjVqbk5lb1pEZHZmMnBPZkZJTDBXajBXNk5pclB1UEliMzBvZUVURnFNVDNfS0tSeWswMnhoaDM3ZnA?oc=5",
-      "domain": "xda-developers.com",
-      "seendate": "20261120165912"
+      "title": "Grand Theft Auto VI PS5 Streams/Captures Get DLSS 5 and Frame Generation on PC Through Veyra/Neural Screen, But Gameplay Still Runs at 30FPS (with More Latency)",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZFFqTkpBUjJNRmN2Mnc4OURLMkZqa1l2RkFwenRyeEJVT085V2QzY2tkRVRHd3lxdVVZM1d6ZzhuZnB1VGhTRmZCVUcycUJMN2o0TEN5eUZLemFqcFcwSksxMFVPb1RBWFhzWDV0d1pKMGRuVVRDLU8wMFdKcHJxV0tkRHk1VmdKNmEyZTRGVGVEeUFIdC1j0gGcAUFVX3lxTE5hZUNkLVZQZldIS0NWOF9jQnFxdmcwMVJUM0dvV0NxSk00Q3hKUUNNVXlORUdzWkFiNHVjMHB0aDdWeUVURkhUcVV1S2NIT0JyRF9mN3p0V1Z6LTViRW1CcWxkNFo5OXhQdEZydHhiRWZxU0pUZ0lxWV9qU29DcmZBeFZYT1dNbUJJOFBzUXA2ZGw1ZnJUZno5OHVDcQ?oc=5",
+      "domain": "wccftech.com",
+      "seendate": "20261121150000"
     },
     {
-      "title": "Miley Cyrus & Maxx Morando's Rehearsal Dinner Menu Revealed in Wedding Weekend Photos",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1hrZWhNUVl5NmZTOGUtSGZ0VGV5QWtuM2NBVU1YNWpweUVsM2RMVUV1MnRWLTZTaTJmTlpSUFd1aGpOLXN6dVh4cHczV1cyVnpYcVNuSm1ycS1DZl94X0pkbVNOUlhZSTdKZlUxYklTSFRUSXVoT2FKQnRfYXZTOU9IdVhWUmI4Q2tHcndmZGRCMWhzOHk5VG53TG1BQQ?oc=5",
-      "domain": "tmz.com",
-      "seendate": "20261121132731"
+      "title": "Miley Cyrus and Maxx Morando’s wedding rehearsal dinner menu revealed ahead of weekend nuptials",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWxwNHFaTnZCaVRIUTJ3clJSUHN4V3hMR0pyejRmRm9mMjVTNHhTd0ZoeXNlMkdscDBJd3BRZExscGYyV3BhV25fdVBoUU54OHB3emRhUWRidFFhN19rcVBNUlBNdFZpVHAtUUJiNWVMOFVHNm5EYl94YnhCd0E3WHlIMHpsX2NKQVVXREd2a210MU0xYU1wWU8waHlKWjhMS2ZQU1ZSWE5BVjdpV3RHMDREaENIZw?oc=5",
+      "domain": "pagesix.com",
+      "seendate": "20261121195300"
     },
     {
-      "title": "The $2.4 Billion Auction Week: Big Sales, Big Questions",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbnNwUHZJRXlSRmNjZWV1VU8xNmVGc0ZoY3ZzcVNXMmMzanY3Y21GQ2lRQnRfdW02b1hVWl9BMm1vQlZ1bERFVlZOaEpkYlhKSXVTQVBOVUg1d21CeVA2VG9pQnRaOExZT2ZQMGRXalVqTW9CeVY5Z2lFbWI5aXItSWN5MkVGVllydl9jcHRVVUt1Tm9JSFNuZWxBNXdHU296c0FMcTJMX21WZ0VKOGdsUWtVTQ?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261121115959"
-    },
-    {
-      "title": "NYC concertgoers injured in crowd crush during rapper OsamaSon’s Terminal 5 show",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYTRNTGNNMTFSNjZuR1pPVWdYc21Vd2R3eFJPSGx1Zk4xZG10aklmMU52c0JTOXQ1NVVMM0Jaek12NVZVS0F3RmsxcHhFemE2VGdjYVMzcXN2X0xTYUw1VVY5RUZfSU1OZWpkdmVVQUh2dk5JS3VUTTVGZUxCbHEtUzAtbXJBYkpjUGVoSlNQeHV5Rm14MEFzMS1ucEtSdHRQdGR1dDRRLWtmM0RUcjhQbDk2VmJqdGkzdXc?oc=5",
-      "domain": "nypost.com",
-      "seendate": "20261121064000"
+      "title": "5 Years Later, 'Yellowjackets' Officially Solves One of Its Last Huge Mysteries",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5ckduUlNuVklYWGtfTU12RktfY3lnek1pTkxxQW5TX2ZQUEoyN2M4enVCa29PbS12TnZjeUJjcDhkbU1DdFZNNVdzTEtuZ0YyNUVYRWV4SXd0d2ZRdkhVM3Zpb2lDblAxTUZvZkpLbWdDeUZWR1Mw?oc=5",
+      "domain": "polygon.com",
+      "seendate": "20261121110018"
     },
     {
       "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
@@ -154,34 +142,46 @@
       "seendate": "20261121150200"
     },
     {
-      "title": "CFP bubble drama in Week 12, with tight spreads and ranked teams as underdogs",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWY3VjlhdTJjdlNRVE1IVC13SkQybjZZbE1RRWJXQ01VdVN1aFFQdW05emJVUFRzOXJOdVBvNGhsR1FiVjZ1UDZMNC1ndC0wTUl2SjcxWDNpNnJNNG90LUt5QzgwbGFjWmk3SjVqekRicURDMU5Vc3JCSF9BODBHZzMtSE1jYkE?oc=5",
-      "domain": "apnews.com",
-      "seendate": "20261121121000"
+      "title": "Nebraska snaps AP Top 25 losing skid, upsets Ohio State",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHpIU2picGxpMnVwZmZFWXV5YXlEX0ZVaVpNNlIwa25rMUotYkZodVNvTnUwRzYtV2dOR1VrY0IzdFhXbEVrMmg5cWZacW0tN2d3emR4NWIxNHFsVml6eHI1aDhxWkpRRFFVY3AzLVJMelVhSzg1eVFzV1JXSHZEMnM5NjdzS2pjdXRWNHY4ZXpHVzBoTEtYVWtfb0dmbWtXaEdTZ20yM0ljWHRPSU5abEhB?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261121205000"
+    },
+    {
+      "title": "Main Card Results | UFC Qatar",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyVkZBdjNvX0NKQnV5SUlMaUtvOTBHaUV3eHk5LUhKV0JBQmpLNGt6azNKbXJESXplbnlSNmtiUGRPc3hXVVFSbjhSa2dYQjZBTDhpR0tOa3hGMjFPT1R6Qkw3a0I1c2gwcG9OenpKQ1dDZw?oc=5",
+      "domain": "ufc.com",
+      "seendate": "20261121203346"
     },
     {
       "title": "What I’m Hearing on Puka Nacua’s suspension, Cowboys coaching pressure, Colts’ surprise Daniel Jones release",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUc5d1VEOGhMcFN4Z3ZHSm4zYjNqMWxMUEkweWR6UVlrMUQzOHBoVUtzYllmWTBoblhOcjM3dm1nVE5MOXVLeWNKelh0OXVSSS1Ld3NoSnhSdk1YTkkwU01FQ0V0ektZMHVBSldWQlExRXBveWxId3JhSGZuc3BYYkhQaldZblB0SXRDbDFMQnFIa0xXWEtzOQ?oc=5",
       "domain": "nytimes.com",
-      "seendate": "20261121084247"
+      "seendate": "20261121195408"
     },
     {
-      "title": "Kimi Antonelli and George Russell set for Mercedes talks over Las Vegas GP qualifying woes",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYnF0Umtxcmp6YlRRQ0RSWEpJVVRKUElzRm9SZVo3Sk1rN2thdF9VYTJtVVIyWlNsODhOcFlHMV9YNnFmMl9vV2RCd2hpWWVNLTU3NWxyc2VxX2xtOHdsSU0yOURFMmd2VEZlb2lXekJITFM4eHpQOUExMzFqQnduUWZTaEZucy0zMXBhd09tMElZWWVjWXgwSk1FY2s5VXlXSVltdWlCQUVpLUNnUlhXbElGLThfekVRQ2F4Skc5MnF6b09EUEFURA?oc=5",
-      "domain": "motorsport.com",
-      "seendate": "20261121112058"
+      "title": "UCLA vs. Michigan: Spread picks and bold predictions",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNGZwLVdRb25aZnN3cGF6YlRsS2tqLWFYZU1MTUhsUkNXSVBOVHNMaGNsLXBsV0tvWUhEWTdkaHRYeTgtcTVZWU12d09GaVFLRHVHOEFlTndIQ3E0dkN1Q0JRdzJjODJyTFpyYnN5M0FXelVvWFNtdFRVbTNBXzhvWF9FWUdmRmdJYkVxdnJ0UHFvYUJvQU5kbmotNnNXelpodW1ONHlvaw?oc=5",
+      "domain": "247sports.com",
+      "seendate": "20261121152104"
     },
     {
-      "title": "Manchester United’s Mauricio Pochettino payment to U.S. Soccer detailed in financial update",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkYtdHJZWHp1MjNZZjdFa1A5QlByajdLaXlkMTZzSFNKNHp1Y0taV0RuekU5blRnaVBaQUgzaG0yU1o2aUFsWVBLS3FIQmk5TWhsN1FMcW1SOFNvRURjYTNKdmVhUDMwR3NyWmhOZkdWZTM2LXl2U010cURQcjltYTZNeXlwUnRBQ1JTbTkwWmZQbW9LVGxPUm9jQQ?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261121152342"
+      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTNvdl9DUkdXMllqTXdqM053Mmc1REdQZjVTOGlXY1JGZVNvSHRTeFhIZjJXYVE0OFZ3UHBPWDdkdi1TTHZWc3lrZkNPVXd6LTFmT3kxN28zclJOcTlXLVNSanl4UnRHNzhuVDNnenhLTXRqQ3RJRk1sNEJIVTUycVA1Zi0tNnhyNjJJV2JBaFNDdUZZY1J3Vi10MTBHMXd0RXc?oc=5",
+      "domain": "space.com",
+      "seendate": "20261121110000"
     },
     {
-      "title": "After 8 Years, Many Flybys, And A Daring Maneuver, BepiColombo Has Finally Arrived At Mercury",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGpSZzRaZlkzOU5jTzI3eGJsVXE4TmdCVlcycjVGbDlqQmtyNFY0SDI5TngtRVlmSkVYWG5JNEh2VVhBcUNNMVdMZ0c4eXMxbDhXbHZFYkI5V3hsWkFlQ3N5V1RVZnlKMmdUUFhrbWlZNkphWW9mczVWYklRd214NDhjR183RWFUWWg4blAxejFPYk1rSlJzSUQ4UVZxeDdRSjVUZXZqaTdHRC1VVWZ4OGlPREExLTVCTzFXWGZfMlQ?oc=5",
-      "domain": "iflscience.com",
-      "seendate": "20261120173333"
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JUG1ZNlNrTGpnOU1kZWlsS3M3clRra0EzcTBsZTVwOWtqNDFNTzR6UjNncnRlWC1SZjZaRS0zaHVXbHVJMVp1SEt5alVMTWUxT1VJMlNOVkN2dkUzV2NnTjhXaGU3S3pEb1NoRF85dw?oc=5",
+      "domain": "sciencedaily.com",
+      "seendate": "20261121151122"
+    },
+    {
+      "title": "Voyager 1 hit one light day but isn't sending home any data right now",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzNfZ1BhYkJTeG5vM002UFBGZXBtSUxGUV9aSkh5RFNjSzNkUWdSd2o4Q3pJRFBsVEZ6dFBaaVBSdXc0YTROXzZDQ2F4aTR2RVdOaUx4c09uSVBicGY3VEp6TnFYUVFXOGhUQVhVMlRDX19ySXJVaDNNVFE4RldXeXBJeU1QRnhsQTdTLQ?oc=5",
+      "domain": "mashable.com",
+      "seendate": "20261121101851"
     },
     {
       "title": "James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger",
@@ -190,40 +190,28 @@
       "seendate": "20261120171224"
     },
     {
-      "title": "Supermoon could worsen king tide flooding before Thanksgiving",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTlJNS1FVDRkZW5DbDhtOXJ5Q25taWpRVkoxUU5VNTRqR3dQQjlrR3o5Mm01cElUNjFVcUFMMEJlcjU0VXBpWTBUZ0ItUEFjWXg0enE0dlJFcU93T3pVOWZ6R0dhRUVTdXVWc0hOMEo0M3dfZ3F5RmNxTnRMSENlMlhmaXVBTDVMM29vNEZ3?oc=5",
-      "domain": "accuweather.com",
-      "seendate": "20261120181203"
-    },
-    {
-      "title": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVE1oZEpHSTdqVU5SelRIUHB1c0xoWmRaTFBibFB4ck4xc1hSMUhvbGR0bUtVNVRjQl80dzlMQkpFcWs2TG0yYlB1NzlwUy1jMjBlcjNHcV9YZkFzU1FsSThZaWh0S2tYVEdRelB4MEQ4a284a2lDelVIdFRla2JzdGQxeTk?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261120204500"
-    },
-    {
-      "title": "RFK Jr. vows to curb a measles crisis he initially underestimated",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
-      "domain": "washingtonpost.com",
-      "seendate": "20261121164311"
-    },
-    {
       "title": "Virginia child dies in state’s first measles-associated death of 2026",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMEU1RXFwUGlBR3N0WHBXWnFPa1kxX3lkb1ZaUnQ5T1lQVlU4LXJWVHZXZ0tVYk5NZy1qdGlxUWpJaTNzUzZHMzhIM25lQzFCeUtoNXpBdDlfb056LVo5b0RRWTViV3VSSkdmS0JiU29rdnAyYWZYUjRyemtMTHJERg?oc=5",
       "domain": "theguardian.com",
       "seendate": "20261121153000"
     },
     {
-      "title": "Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QQndwa25DMUdfRXpVVU9iUi1mQVQxYmt1WVhxcG84VmVmdnNGcWFhQWd6bGdRclRUSXU0cXNxQUYxbGE3V0dVS0FHRGxhVW5FdzlORVhueGZ1M2Y2UzNxNG9ncE9IQWRWbWVSZTEyRVU3SU9ZMUNjTnNrcWxPdw?oc=5",
-      "domain": "bostonglobe.com",
-      "seendate": "20261119224600"
+      "title": "RFK Jr. vows to curb a measles crisis he initially underestimated",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckhpUXNVWXJrVGVkeGZJYVh4aXN2VlV4UHR2SXJMS0V6WFlYVnBjRjNkRldNVDVzTVZiSkFoN3Jqdy01aEMyYWkxRFJSR2FQelg0UnFvcms2NzlIRnJvLWlsQnl1aVFkVXl2MGhRY09OYnNoZ0ZCUDN6cVplS0NhN3g4dHRUZ2JqRFU4QXRoMThiMU9xZC1NRWtOMExHWlJyUDlXUVVXZ0xRWkhsSmc?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261121180000"
     },
     {
-      "title": "New pancreatic cancer drug halts tumour growth in 90% of patients",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3RTTVJkU3ZLREhsRFQ4Y21qWWVvd0ZwSmdROVpQaHFWTF82N01OVXdzbTRqSUlIUjVjN0VOZDBVUlI4Q1NNWU0ycEhLckdnSS1RRTQyRFE4SjhZWnF5dTdsYUp0b0I3YkY1MmZVZmc1bEJCNDhxV09MaVlReUxtX1BXejA?oc=5",
-      "domain": "ft.com",
-      "seendate": "20261120121751"
+      "title": "Studies: Blood test has potential to detect CTE in the living",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVA0Nlh5TUlBZk1ndGtJSm5CM1lzQW1xc0tWMVRkQXJNNGpWQ3oxbmZsQU5PYUY0UW9qQWM5c2gwaUhMUVlJOHg3RndhelY3ODlndlg5NS03Rm9kMVN4eTBpSmVSRXJaUTBVNTc2cXBuZElEMkRsUkxOdGtKZTltVWdfS0RkYzFnQ2ZzNkVHQWZiX25Fdmc?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261119185000"
+    },
+    {
+      "title": "‘Massive breakthrough’ as new pancreatic cancer treatment can make tumors disappear: ‘We’ve never seen such a thing’",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeEFFQ25xUV90ZTREMVdmZkd4MDRPTWlNVUxRNmtfS0tHdnV3R0E0WWRRVlpobk5LRDZYU2FEUHdqcFpkZlNlbHJ1YzFxMXRhV2R4ZG1rdUNwMUVVMUVOQnlBTWwxNENvVkhWUEhnWVBjSDhoSzByci1TSGRrcldFaW8xWWI3Sk5ENlA1VGdiSTNYUzlwLWVJa1ZTZG15MXZ1bVQ1bjZNRQ?oc=5",
+      "domain": "nypost.com",
+      "seendate": "20261120171800"
     }
   ]
 }

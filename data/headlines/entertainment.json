@@ -1,13 +1,139 @@
 {
-  "updated": "2026-11-21T16:52:35.910Z",
+  "updated": "2026-11-21T21:58:10.766Z",
   "source": "Google News RSS fallback",
   "category": "entertainment",
   "articles": [
     {
-      "title": "Film Review: The Hunger Games: Sunrise on the Reaping",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zd1Zvc1laVTV5aFFhMThfTGw5R2RQR093SC1qV3llbklyTlVKYmNhWE1iRGhUc2pMR3prNzFCakROd2xFVmVNVW5icWFSNU00N1V3RHEzWFN2a0oyZ0Q2SzFtTlhVaFlqa1RxMzNMb0RaUUxhMzc1ak5LWQ?oc=5",
-      "domain": "simondillon.substack.com",
-      "seendate": "20261121123931"
+      "title": "Raiders owner Mark Davis 'hurt' by 'Madden' movie's portrayal of Al Davis | Exclusive",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQU0NDTmVoRk1GWUJDWXFibW5SN0l6N0xkV2lBaGhScldyeWdHZkF0UFVUR0l3aXl6X09tRFE0cUYtV3pidVhrVmREcW56U2taeDJUTmkxNEtBQ081M2FyS1lGdFZtUkpDMVljemM3b3Nwa1RieXFlVDlMT0ZOaWVzcEt2alNSUU84cnpYLW43WHo3anB5WnQzV2hnazRyNnZOMThTeFhIUHZJcUtsTEo2MWRtNTNLTzhCTDV2cl85eEw1NW1qNjRJaHpXU3hlUkllNnJ3N1FHR0VqSXpEZUhDd2Z3?oc=5",
+      "domain": "usatoday.com",
+      "seendate": "20261121205800"
+    },
+    {
+      "title": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXNPN1Q2d2RqLVpiQUlhNC11V0VpS3ZnNm8yYWJrTzZreEsyWmlSV2ZUNTJ4dnM2dWpBVTBxZkMxTi1RQ3JrRXdZQ1g5d2NOVVNpOTZDdDlhbGhmOWxTZVRhV0N5RzVQelRveFNyVVpsZl9aMExKNkF2bm45OHlRdlhQWFVvb29qR2R2WVVPeFgtdm5jUnJVckM4cW1ZOHlBN2k3U0U5SktScnFtZEpGWDI5RWdUN3EyYzNPZlN1QW1TZw?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261121174305"
+    },
+    {
+      "title": "Beaubrun performs ‘Vertières’ album live for the first time in New York",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUx3WkFFaFRmcjVDSnU0YVFEX1lYT0JCUWFROXFqTkNFbFA2NnJOdDcxcVVLeE9ScmxCVEZhM2RKYWswSnFiSXljbThuUHhvZDV0N2JFZHNrRTlhb2M1Sk5Dd0tDYVJNTGdKUzZsT0M4aFFZOUFncjRVSjRGSzRxRjdCU1lkcW8yS1RwVTF5aTE?oc=5",
+      "domain": "haitiantimes.com",
+      "seendate": "20261121202129"
+    },
+    {
+      "title": "Column | Asking Eric: Music question causes racial offense",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmpZcmIyOHBVVld5MUE4bGF1ZnVJYU9uV0dCdVRWRjVoM3FuR0hhcmhaMERJM2o3VmlpbkhPdGpTMDk1eVFObFI1eWdEOXdsamJVdVZMZ252TjdHQ01UaFRZVWNrTUNHMWNyOVRna2ZzLTRCLTExU1c4YnFqYlRqUzJJNXM3MG1QVHkwQ2lqaGZ2Y1llaUhKdlpSMmdUTEE?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261121190000"
+    },
+    {
+      "title": "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFRMQzlXdmhzSEJTdFlpbXo2eS1NLTMtdmFzWXNNNFBNQ0lEQmF6UGlyQjMyUnRsZHRmTERUZEQtQkt0YURQdU1qTnBnajM0U3gyaVFMYkFiZW1TV1R5VVVEWHRoRkMxdE1UOU03dEVzUEc3MnJFVktaN1YxeFZxa2xScmhGc2RZallFVkw2UFRGa3h0Y3c?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261121143800"
+    },
+    {
+      "title": "Tony Pollard Takes Over | Film Review powered by Microsoft Surface",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWkc1N3lLMjF4M1BfdUZOQTdCRGVVS0d2YjhlS0g4ZFA4VkFIeHR4c3A2cGx6QUJpeWs3NnFDdnhCTVlJNU1CYkRXMHFmTHpsbkE0VHhrUzBYMlRhQmVJTVRXMjlQaVdIU2NvR3N5d2l2b2VESlFFenloMWVhajZIWnllQlRlaU9pQzdmektMSm1rZndVY1FOQXhUc2pvSE4yUkhqUw?oc=5",
+      "domain": "tennesseetitans.com",
+      "seendate": "20261121180516"
+    },
+    {
+      "title": "Nelly Korda Fires 65 to Set Up Historic Sunday at CME Group Tour Championship",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXdiNUlNUjBtaWNRVnItZlVESUx6OXhxUzhDTzJrWFIyYzE1bVZFQU16ZkdhQk1tX3BmQXZXRC1TLXQyeEIwMjlhOFFwTmtqMGwta0JvbTJjYzR6Nkk4Q196b0c2ci0zNlM5cGh4YnpTR3p4TXZSdlFyUFVvMEg0WmpsSFpDeUhGOTluRkllRUhzMjNGSXQyNnBPVFJMbjNJRFF2eEdfYXdULVdU?oc=5",
+      "domain": "lpga.com",
+      "seendate": "20261121213317"
+    },
+    {
+      "title": "E.J. Carroll, ‘The Deuce’ and ‘Law & Order’ actor, dies at 66 while en route to voiceover job",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMzhoUlBUTXZsdGdQMWU4R1NFZWhUNS15VVJYRzZZU044ZU16RGh1VVR4cUpSRlNjMGVFLVJMS2ZPeWpqanZGMDFadURRcjVkQWd1Tmo5TzR5QmxGY19jS3ZzVTJvdnpLejY2LUx2NFlLZ29nM0pkMW5PY0V0TmxMemVlTmw?oc=5",
+      "domain": "ew.com",
+      "seendate": "20261121190439"
+    },
+    {
+      "title": "‘The Social Reckoning’ Arrives On Streaming This Week",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWExxOFE2Q1hkdGRvbm9lM2dGcVN5bXRpaVFFdWZiaHJpUTRQSml4M0dXX0FwQzU5Q2dVWWlWTG1kQ2FiNnB2TktZTTg5cnZhM2hDTGJJRmNnM3Juc0U5bWQtdUhCZE9jSC10Rk8zZllhUEhta0VPY01tZmdlenJiZHdVelhVTlZ0NG8yUmgzT29kWmdlWUsyckFUNXpRQVVrVFg4WENtdllnNG5FZkZUZEVYa2xBS3dwelRyYTFjRE82VUVJcWlYTTFwX21Bdw?oc=5",
+      "domain": "forbes.com",
+      "seendate": "20261121201903"
+    },
+    {
+      "title": "REYES ON TOUR – THE FAVORITES, PART 2",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bEFiQlJaMEtmSi1WcE9DWUhtU2NsY0hqNGxTU1dOWFFNRWhuQ1VzanBCdTNLbklXTmpSMmlEWUVNVVlSWVQxZUU4b0RpcXItZWZCVWhtZ3pGYmVpcDdiUFJLWFNYd1hlWVNwMXd5c0c?oc=5",
+      "domain": "competitionplus.com",
+      "seendate": "20261121194845"
+    },
+    {
+      "title": "Jeff Goldblum Reflects on Career in Cinema at Marrakech Film Festival",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUpQUWFoSnJ2R3RXQ1dxWWxXeUs2RXB5TVVYMDNJT0J3VFFGcEFqNEFvMTJpbmJVWHFrd0hsQ2NOREEybEFFcy14cWQ2N1pveW1PYTVoNVRpc21LLTJ5TVRIYXo1d2pwdHc1a1ZTSDRnM2hqdVJXSDk5VWZIMkFWT1M3T2JKYlVWeVZlWjQ3cVp5cFQ1M0hXOWRZN1NMckhIRURSMWYtSWx0WkE?oc=5",
+      "domain": "variety.com",
+      "seendate": "20261121195100"
+    },
+    {
+      "title": "CME Group Tour Championship 2026: Final round tee times, pairings how to watch",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdk83dEJMdXQ4cWIyMnlybzBJS2N3RkNjNVBXRGYxT3FvbWZJUGFzekdrbXhxRU1JQUtvOFRDUWhENlVZSkt0dmQ2UGYwamVqV085NjgwX24wSzBIZDF0NjhEVGpkZHZtaUdvU1N2M3FqaThXVkFzelMzWndFaU9JVzlzSlJuTU8wMkExblRQOURhWGhVWWc5WjgxOGRWX21IMGxuaEJEbG1IdEdQdzU5YmZuZDNySlJJSENkckdoeEZiMVlaYWFNMFNQMGZ5cmowZERLSQ?oc=5",
+      "domain": "golfchannel.com",
+      "seendate": "20261121213227"
+    },
+    {
+      "title": "How to watch Wild vs. Canucks: TV channel and streaming options for November 21",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZE9xdExXcGdPOURjU19Qd0hWeHc3d1dOa0RJanBQT1NRV0JXdDczajgyVUhEcEVULXZfWmVLS25hODU4Zlo1VFNpZFJqNXQ5bU11SDc4d1RZalduUFg4emJFUkxHS0ZWQ1FhTWZBOVRacjV1bGJjajNybWpoWENPRmJRTkRXWl83al9BTGM0QTVCbGFtTkZPbW1TRQ?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261121204456"
+    },
+    {
+      "title": "Raiders owner Mark Davis hated the Madden movie",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlhaWwwUjczUklnYk95Wl9IOGItVzZmaHFzVmowVm8xV0FOeVVSWVBSQ2FSajh3TDVnWmNPeTBxYWctYzFoWk9tSGMzNnJSUUIxWlFkc2pWWXpWNVQ0RlhsdmFFbUZkTFBUVW1vSFYzdFdvWWFZX3lEUUkyQnI5SUk4NnByY2otUVlUc0RjcnVzUUdtWXhSTHRJR3pIYnNCWVZKOEJQMUxsa19zS2c?oc=5",
+      "domain": "nbcsports.com",
+      "seendate": "20261121131435"
+    },
+    {
+      "title": "Music Review: ‘Grand Theft Auto VI: The Album’ is overstuffed and chaotic. But there are also gems",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSkxoX0Y1eUt2REI0YjFKZERkYUVJTGtmc0ZOY1phTHpnMjVJaVVFVHo5djhocE8xbmRjb0o5d2cta2QwVS1kV1dvcmV0WVNCN0ItdnRBbXhVdzBTTEVEeUZQT1hiYVFjc1RiZWhWMUJrR0pyRGFBTlFHenhwYXZOazd4MTRuQnd1V3JSLXJkeFZONEVPeEkyYS16amNtZDJoaWRVR1NQS3BXdXgtLUxNY3VmRnVxOWZmZ2J5YS1zWnlrT1FGWUl4blFtMlBaaWc0cHVZ?oc=5",
+      "domain": "seattletimes.com",
+      "seendate": "20261121204233"
+    },
+    {
+      "title": "The moment I knew: She flew me to the scene of my favourite romantic movie",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0stYnV4MHR5M3JzNEVFd1RJR2tqZnNmNkpUQ2hMQ0x6bnVmZjBOYVVacVBhcExfOWRIRUFXWUJjZndUMXJfQXlMSkpyX3hjUkVrVC1mZFRJZ0pHcHpESzExLVNxYkxsQXhxcmRRX0N2SW1aN21QclV0SkYwZUhLQ0g3Rl9UVGdmSVBpTUJRRTJXLXVpdFNzYzlXazdlX1g0b2FmWTlzZERqR0YxX1l3ZzZjU1JreW5JaDFVazlabjFjVXVH?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261121190000"
+    },
+    {
+      "title": "How to watch Kraken vs. Sharks: TV channel and streaming options for November 21",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaHRrZk9KVC1Jb3VWck9QbWl3VGltb2hVaGZ0a24wSFR2SnZ4RHU3Q2hlWldtVV9uMGp1Sk8yS21nS041THNnOEQzRFRZVElwSVFFSm9pZDdMSUpNN3VERHRIcFB2Q2ZfYS1hNjkzTF9sUjJxR1pmbVdJc0ZmRHZsSGQ0ZmVYNjdrSzM2WVZscUM0WEdjLWtKamhiSHI?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261121204456"
+    },
+    {
+      "title": "Watermelon Expands Production Ambitions As It Seals Partnership With Qatar’s Film Committee",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTkYtM2JseWJuUGtZYTBiNzR3QXYzLXpJaTY3QW5abGhWQ2dJNllKeDlYeHRLWkZGbW9CSjBkZzJnYl9nZHZ3bUpCdlNRRmhQaXBEWkk0eW05bDhFeXozWVlXX2s5SkZLWF9ycFNHOXVLMC1LczJwYXZYenVLN3Y5Ri03UUpqZS1tWmtwUWoxQmc3emZFYUZGZ3l2QQ?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261121194300"
+    },
+    {
+      "title": "DC Film Girl Review: Return to Panem in \"The Hunger Games: Sunrise on the Reaping\" - WBAL-TV",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT3RILTZyN1d6RWE2elFhWW1CelhtcWZ6VGRJNUNwTFh0NkxCOE9OdG5laVVlb1FxaGdock9fZ2gycHRNd2wyQ0pKdkltQmtSNWpwRG5Ia0pfZXRUV01iZlA3N2ctaUFnS3cyQ1ZXNV9YRkNWWUhFTEFYZEhVQ0lWOF9sNEF2SDlmOXl4M1hheWpyQQ?oc=5",
+      "domain": "wbaltv.com",
+      "seendate": "20261121211800"
+    },
+    {
+      "title": "ALBUM REVIEW: Peter Gabriel starts small, thinks big on ‘o\\i’",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QZk5zUVI5aUd1ZUppOFVuVzF6cXliNkpYakpKUW03T2RscjJObFZxUkhXYVBRblM2UjRsQUJiUVdRUVBXM2FKdjlweEpFdzNTcWh5VUJPSkZseXZ5MW5JOGxmN0FxWG8?oc=5",
+      "domain": "riffmagazine.com",
+      "seendate": "20261121173000"
+    },
+    {
+      "title": "Rosalía Wears Dove Headpiece by Robert Wun to the Los 40 Music Awards in Barcelona",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaGVxRjBHdjVJOURvN0FWTTlQX0hvTHZqRUZyOFR0ZjZDLUJ6N3JUNUpfckhvSEVjQzJTS3ZVeWlxRkxqYjdwTHEzUHRsS3BVTHdueFdxSTVrMl9DZHBrU1Z2c0hISk5Ld2s4cUl6S0RjOUtrZlk3ZWhST3NFZTFvRFpyWnZ1ZE9VZVRmU0JoUGRra3hkcjNhX2pOc3FpOVJMQXhGenlmeDc2ZHVf?oc=5",
+      "domain": "wwd.com",
+      "seendate": "20261121203729"
+    },
+    {
+      "title": "CME Group Tour Championship 2026: Adjusted TV times, tee times for Round 3",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNDFLNG9LMDVKLXY4TUs4MUlQWUhFRzZmbWdhWlZka181S2ZwSnU2ZEVNYTBySGd0aEN1eXVXN0c5R1pKSG1HSTMzOFJuVVptV1hrbHFiamZ3OHVjM1lfdjNkYnJyWnpXMWJRblhVUjgtNXhfZmFQWXM2WUtDV1Bid1Z2dy00cXoweWNCa0hpOENxaVloQ2dvc0lkeXBxNFJkN1ZnX0tzOUZHZ0dPR2sw?oc=5",
+      "domain": "golfchannel.com",
+      "seendate": "20261121124627"
     },
     {
       "title": "Actor from cult-classic 2000s film dies at 58",
@@ -22,22 +148,22 @@
       "seendate": "20261121132407"
     },
     {
-      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1EyLVMza0xpLVJacm1ZUEN3cXgwWTlDeFJFYm9LZU14dTVKWUNkT1NKcmllZF9Uc0lfalc2ZXEwS0g0bWZiRW9na25OLVNHQklPeVZ0d1AzWTlHb2pKWGtlajI5LVp1N2dEUzQ3VmxTV2NXSER4UnhTLTVjT2Z6ZFJZa05pOWNNV2c?oc=5",
-      "domain": "nytimes.com",
-      "seendate": "20261121140452"
+      "title": "Sci-fi movie set in Juneau to premiere Saturday",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHNFSVZYWTNiUHExbkgxNmtXQ2hwTE9KLXpWcFhTVTBNaWJ3cnVOaENwQlB0VzM0Wk1Pc21VcEUwZXJWRUFUTWNSaU1mU1JYclpFbjNuTFM3eHoxd1dZQjM5V0ItYXZIQXhNTktFUHpmZHAyUVFvdG55Si1DTmJTY19NWE4xVXVubE9iaG42WQ?oc=5",
+      "domain": "juneauindependent.com",
+      "seendate": "20261121211008"
     },
     {
-      "title": "From 'Obsession' to 'Madden,' 10 movies you need to stream right now",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOem5ZMnl3NTIwTk51cC01X2tTSWQwNmJ0SVB1N3U4NW5RVGJXZVppb1lkR200bWpSY0wwMGgzaUNZZk1kY0l6bWJwRFJON3hlUjl0U2tDaWtsN1hqeEs4YjA0dU9qV2JuNjNXb2c1RkVnNHBFdWY0SUhwc2FfQm9zLWdDWlE2cFlmWUlGNGloTGZkY3BkRVNMRXRraDJyMHM0ZEgyNFRBbkFYR256VVJxN05nM0RsVDQ1bHp1SmI1NTRWWmt4THNYMDFPODZwaEdXdG9UVQ?oc=5",
-      "domain": "usatoday.com",
-      "seendate": "20261121153600"
+      "title": "FedExCup Fall scenarios: See top finishes needed to secure 2027 Tour status, Aon Next 10 eligibility",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYnZabmpZa2d1ci0zLVd4aUR6MmJtTkpIT1I0TTlyTkEwOGMyemlIWEU1aWtNR0s2NFBGMm16MWpoZU5LMkVkVnZnZlkyQVBQVHBwUFdLbFlYeVd6LXFVT1JQZVVYVW51V1dlT3Qxd0t1dTF2N3YxSWlncWNqNjR6REFITTFfUnpTNk04Yk85Nk8tdTc5TWlBcUgzZE9GbzNJb3BJSG9UQUhDcXl6UjFKbGN2RXNWSTc2SlprVXJ6NWpOemxiMzRFd3JHTEZ4NzNhLUE?oc=5",
+      "domain": "pgatour.com",
+      "seendate": "20261121120718"
     },
     {
-      "title": "E.J. Carroll, ‘Boardwalk Empire’ and ‘Law & Order’ actor, dead at 66",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVVCMTZLZWEzQVhES05hLU1VYjB2TVBVRDhGNjRad1VoeWk3TFd4VXFNTFFjbEVYdDViUGJtQUwyamJNaWZjRDFlcGR1WU44RENfNUdRazhBdmdYVmx1cC11UGJnb2lnWGVqZ0txVjh4aFhKWEt4NzYta3JqOWlON2swRHl5TDE2Z2c2b0FRX052RmFkRHpkZl9xRkd6b24ta0oxWjduYWlXQQ?oc=5",
-      "domain": "pagesix.com",
-      "seendate": "20261121142200"
+      "title": "Jennifer Lawrence Teases That Miss Piggy Movie Has a First Draft",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX3NhUHVlMW5HWkRBMlg0Q1ZOa0I5YXhjbUpHMlZWcjV2eWVlbG5hWDhDaF9DY0tzMDFoQldaUFJwdkZKeU1DR0FxV093TkhjdS1aY0lBN1dKdnBIRVQ3bzdLYTB0cTh2M0dqOExtWno2Y0FURnljTDFTTXZKandpSGVIUkZWQV9sSGhDRExCTWcyOU9KOWdhZGJUOGdKdmw3SV9PTC05SXdwUQ?oc=5",
+      "domain": "thewrap.com",
+      "seendate": "20261121212240"
     },
     {
       "title": "‘Home Alone’ Sequel in Development at Disney With Macaulay Culkin, Seth Rogen and Evan Goldberg",
@@ -46,16 +172,28 @@
       "seendate": "20261121085709"
     },
     {
-      "title": "Raiders' Mark Davis unhappy with 'unfair' image of his father in 'Madden' movie",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaFRMQzlXdmhzSEJTdFlpbXo2eS1NLTMtdmFzWXNNNFBNQ0lEQmF6UGlyQjMyUnRsZHRmTERUZEQtQkt0YURQdU1qTnBnajM0U3gyaVFMYkFiZW1TV1R5VVVEWHRoRkMxdE1UOU03dEVzUEc3MnJFVktaN1YxeFZxa2xScmhGc2RZallFVkw2UFRGa3h0Y3c?oc=5",
-      "domain": "espn.com",
-      "seendate": "20261121143800"
+      "title": "A tour in photos from Elm Park in Lansing",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1ZhYWVYQnd6Sl9jUXl0bkhVLTFwU2tzTFMwdEM3SHotc0t6VS1idzZsUi1POXlOUndpLW50SHZ0VFA3T05SbVhTa01RMW5zMHByTXE3cjRfS2Q5X1VndUZpaXRKd3JQbUpSVmJsMnFvWGFWSXJ6MWlNaEczVks0eWhSR0w1SVh5RkpIOWljS3E1c2txM3Rva1pjUmtVQy1iN01HS3lGLXdRTy1PTWxhSGVTbTdoYXVTa0ZzZG10SmhTSUhOYmtN?oc=5",
+      "domain": "lansingstatejournal.com",
+      "seendate": "20261121210700"
     },
     {
-      "title": "Movie Review | I Play Rocky",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUdHZxSm5BbVhLb1lKYWc2WmdDRXBPRl9RMnZ1MXlUbXljM1hUZnF6T0R6Tm9ld0FxclVvTnJ2YjhfRHdvaXhYb3hGMDMyMy1YNjgwY3hIX1huSmhiZG8zX0hLYllyNjRmWDh0aA?oc=5",
-      "domain": "coloradoboulevard.net",
-      "seendate": "20261121160052"
+      "title": "Hollywood’s Biggest Watch Nerds Are Obsessing Over These Indie Brands",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMjZSMDFUbUhVQ2dnZHJEaV9oSlFuMFJrUWhMLVdPN1VpZzJEVnh5c284OE5GOTVhSGNXOXJBWUl3b2FsaFpCWnBmenM1RDBlaktpRjU1MG9pWFNkWEUwTzNjYlJxUkNTblVTdW91VG9mUmpKZUZPWE80Y0xzYlVSOUZvd2t6aUFVdlc0bmJSSEJXcmJH?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261121190039"
+    },
+    {
+      "title": "How to watch Ducks vs. Mammoth: TV channel and streaming options for November 21",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPem9lSTRlRzVHYXFSN1RTTDFsSEtOb1dlZ1FrWUhOaXlpRk5NTUxock1LdDJkWDFSNmJtU0VRLWJiLUx1THI4RG9BNEo0b2ptOFJUbzU1aDZsNGFWNzhEU0dITFN3TURTNXRvRVp6YllqSGViWFFPNHAxSlJtVjVCX21IQ0xtNGxnNm92MEw5Tm50UlFSVWs0dTVEajQ?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261121184559"
+    },
+    {
+      "title": "Ariana Grande Recalls ‘Wildest Place’ She’s Heard Her Music Playing: ‘Getting a Bikini Wax’",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUmIxVXUwSG1sU0Q0NXlaRHJ2cW5vWGhuZzVYaXcwUTBSRTN6VlotdERnZGpPczNVV0JEZDBIVUFKb1kzLUZIVmZ0ZEJ5QmYyNUFZb09hYVV0RkhXcVZxdVduek1OdmN3Y0pOejExcDFFVnNraUNOb1pNY0hhMkZHaXpiRGFLZ2dTVkZzcHFuU21mWDR5RVRnc0ZpbmUzTlp1ZV9tdUhVM3kxdjQ?oc=5",
+      "domain": "billboard.com",
+      "seendate": "20261121173623"
     },
     {
       "title": "Hollywood Needs a New Pixar",
@@ -64,262 +202,58 @@
       "seendate": "20261121130000"
     },
     {
-      "title": "Pope: In an age of conflicts music teaches us to not be in opposition to one another",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS2ZxSUhtUWFUZEpXUnhxZkJBa0ZMVjd5Y0txRzkxSUEyMkh6SGpvWEpXcHhaVm5sWUlMTVNTUWhZY1E3YnVxVnp1QUlKMWlFdXBsRmtNbUpXQ3g0eEhudXBFZkhCU1hFb2tHZDlGMWxWRFR5c09pY19GSmF4TWZpMnJNWGlxQzVXYkdJNUVQSXM0SFVtWnJubTA1bEdTSE5nRGJFOGpIOWJhZkE5b3BkSHlxeHlSdw?oc=5",
-      "domain": "vaticannews.va",
-      "seendate": "20261121110544"
-    },
-    {
-      "title": "Is Black Metal Really the Music Genre With the Most Virgins?",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHQxNnFGTjU3dGZhVFN4S0pFN2s1Q05Sck9HT0d5aS1iNzRHYjR2UnJKS2tjUlJOSGl3WkRDb3AzejA3dnZ1OS15cVBNal9VaHFTLVlDenlaSGlpTnNvNmJpQ0dnWl9Qd0tOQUhXODMzWjFJV1YwN2VZWVpReUtSTy0wdnVJM0h3eUxVbzZXandvSWpDc3FF?oc=5",
-      "domain": "vice.com",
-      "seendate": "20261121145227"
-    },
-    {
-      "title": "Test your pop culture: From Hollywood to the Heartland",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVFRRXZtLV9yUFBLSktUeVFXb2xMbzJBYmc3WlJfWUhnckZyUjMycTNTWFQzcFQ5RzViOTRMZ2VZSXQyN2l1MUJzcHlCXzZISk9PUUFya1VEeEo0bS1PYlVWYktxMG1uZDEtUFliemNMRXhpWkRaOEhhNm5ZbXRCQUtWVmU1NnJiZ0V3VGttTVU?oc=5",
-      "domain": "foxnews.com",
-      "seendate": "20261121150050"
-    },
-    {
-      "title": "Raiders owner Mark Davis hated the Madden movie",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUXlhaWwwUjczUklnYk95Wl9IOGItVzZmaHFzVmowVm8xV0FOeVVSWVBSQ2FSajh3TDVnWmNPeTBxYWctYzFoWk9tSGMzNnJSUUIxWlFkc2pWWXpWNVQ0RlhsdmFFbUZkTFBUVW1vSFYzdFdvWWFZX3lEUUkyQnI5SUk4NnByY2otUVlUc0RjcnVzUUdtWXhSTHRJR3pIYnNCWVZKOEJQMUxsa19zS2c?oc=5",
-      "domain": "nbcsports.com",
-      "seendate": "20261121131435"
-    },
-    {
-      "title": "The 9 biggest differences between the 'Sunrise on the Reaping' book and movie",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQi1UdnFvTEJNVmt4V0RmTDZSQ2NXUjdDSHgzV2hsYVNHNF83U1NPbVFYY081am9LcDROQ0d6OWltcGdSS3NKdFNEVWhkeXBseEFvN0lNOHd5ZjN0YUxzeERudVlrM0lxdGREOEJpbW1sczhXbGVXcmpjT2hBWHFONV9SbGx1RjRWR19JZ0YtT2pkbGszVlF6WHFpWG40UVl3cEx3?oc=5",
-      "domain": "businessinsider.com",
-      "seendate": "20261121153500"
-    },
-    {
-      "title": "‘Vengeance Is Mine’ Director Edwin Reveals Cast For ‘Dancing With My Shadow’ Based On Generation-Defining Album",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzZQaUFkdXlNaUdVbjlJNlFUTjZNVzZNTTJKczljOTRUXzQya1JJekd4UDlnakE2dE8tRV9yUFhIMW5NT2h2NlBjRi0wVmxYY3dHeFRPNVZuY3NnUnNyb1lTLWFjY0VoTTRrd0RHVTZFQmFZRmFyOUh3SElUUUp4aG52Y2ZsWHZPSlBnUzNFNzR5R0piSWhrMA?oc=5",
-      "domain": "deadline.com",
-      "seendate": "20261121133000"
-    },
-    {
-      "title": "REYES ON TOUR – THE FAVORITES, PART 2",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bEFiQlJaMEtmSi1WcE9DWUhtU2NsY0hqNGxTU1dOWFFNRWhuQ1VzanBCdTNLbklXTmpSMmlEWUVNVVlSWVQxZUU4b0RpcXItZWZCVWhtZ3pGYmVpcDdiUFJLWFNYd1hlWVNwMXd5c0c?oc=5",
-      "domain": "competitionplus.com",
-      "seendate": "20261121130049"
-    },
-    {
-      "title": "Music Can Have a Surprising Impact on Anxiety, Depression, and Even Heart Health",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajhWekZuZUxBTTdJN1gwV3JfS2pKTm1yT2tkQ3A4SDVaU0FleGV4WVp5OGJJVmJVVkUyLXMxaUc3bUc3T2FLcm9mcVA0UTZieFZZTHdnOHZkbV9ULVFvOVhpWWRVZVhuaGE2OGFZQmx0ZG0zSmxiWTFWaXIyVWpBbWFlQVdCUDJkLWVkTERsOUptdFBIWXpxSVNWUGQ2a3ZOVTdNa1JOSWxzWFJ4NHM2QUNseUl5ZW01?oc=5",
-      "domain": "discovermagazine.com",
-      "seendate": "20261121150625"
-    },
-    {
-      "title": "7 Details from The Hunger Games: Sunrise on the Reaping Book That Didn’t Make the Movie",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZWI4OU8yemNGZDV2LWV1NnZqaGpya3IycnBkakdWX3hGaXdpbV9aSGF2bk0weFdoaGt5NEFjUTloLUVZMGtZMjZfTGtEaV94QlVJZm5VYjdSekpmUGJSMjJmdkpyeFNiWHg5Y0RYMHlYSk03TWJVZWlXNVNtNUdHYm1MR2RNNEVNNlUtbg?oc=5",
-      "domain": "people.com",
-      "seendate": "20261121123000"
-    },
-    {
-      "title": "‘Hunger Games: Sunrise on the Reaping’ Feasting With $120M+ in Franchise’s Box Office Comeback",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRXNPN1Q2d2RqLVpiQUlhNC11V0VpS3ZnNm8yYWJrTzZreEsyWmlSV2ZUNTJ4dnM2dWpBVTBxZkMxTi1RQ3JrRXdZQ1g5d2NOVVNpOTZDdDlhbGhmOWxTZVRhV0N5RzVQelRveFNyVVpsZl9aMExKNkF2bm45OHlRdlhQWFVvb29qR2R2WVVPeFgtdm5jUnJVckM4cW1ZOHlBN2k3U0U5SktScnFtZEpGWDI5RWdUN3EyYzNPZlN1QW1TZw?oc=5",
-      "domain": "hollywoodreporter.com",
-      "seendate": "20261121161714"
-    },
-    {
-      "title": "French police officers convicted of racist assault on Black music producer",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vOHhhWHVjakpKdDV6V2VQVm5xRFVMWHZ0c2JIYktIcmN1ckgtaWdxUmoycGxGYTFKSWJweld1bWtqVmFVWVc3Q0RDNER4bDNvcDh4R09NZi1ydU1nQ1JSSS1LMlU0VzBGSkg3NDc4Y2xGX2RPZzBRN25scGlPUUk?oc=5",
-      "domain": "cnn.com",
-      "seendate": "20261121141902"
-    },
-    {
-      "title": "Star golfer Charley Hull gave up smoking, now she's making another major life change, Hooters movie news & CFB",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZFlUTHpBWWwzMGZ2OTlSdzBWYzJ1LVUtZ2xVc1JIWFZPRVE3MjZmMnljLXFxbFk2eUJuTnFYQ01jWnpIVHFVRC14Q09JX0dpSlF2aGlmaVBRNGg1aHdkNmxQM0xEOXExV0FacEhpS3JjelUyeXRudEhscGZYNDJZMXFwWE80cGxvQmptUlZYOGlxWGt6d3hGQ0llUmxvVkNET2dMcTQ0MmRiTU9WaDYtejVGWWZKM1V0cm5UOXpMV2V3REJRekNDRG55RnJzdHRTdnhfcFE5LXpBb1Nq?oc=5",
-      "domain": "foxnews.com",
-      "seendate": "20261121151023"
-    },
-    {
-      "title": "‘Grand Theft Auto VI: The Album’ Is All Over the Place (in a Good Way)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQmlyVWtWR2JPd1NfX1FvN2xnTkViOGo2LWx5cEZhTzJlUmE1ZEV1eUtuMmpWajFoR1lYVWtjcWVPUTJlQ3hjWWo4bmNERkE0c2ozV1FoREpEVzQtQ0xJNTlfbHNqOF9Ibi1pbDlHZjFLMGhDclJWb2xoVkhRcTNxZG5KeEFETkR0cXdLWWJHSDJjWTZvWFFTQ09xbVRMRmRleGZCbzJIMG5kT3RWMHhz?oc=5",
-      "domain": "rollingstone.com",
-      "seendate": "20261121144100"
-    },
-    {
-      "title": "Country music star’s widow, ex-bandmates battling over group name. Here’s the latest",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObFBjZWxqZndPT1doc29xeTBfQUIwbUNDb3hJYXJVSUdyNUVfckVBc2tjUVhOeVJpT1haeU55clFmYmlRZmNpZFFtbTJYTzE4cjl1UndySzBJR29QTXFXdTlVWWJFWjRDejg1NGhNRzRpMmxQWkRwQUVtRFFBM1VobGY2SEVRZ0RxTkwtUUpKYy1rMjY1TmpBVmpMSmFiSGExb2FYV21LQzgxckZLZ3FFQTg5Nll5WjFaal84N1d3ZFRoaEVGZGFlUkV6TjHSAeABQVVfeXFMTk5fSFRPaElqU3phUEZSWS1reFFKU3VRanZoMmlQRUVVZnRTVkY3TEVIYWhZS3N2UjIzNnBxX2JteHhSYnVWWl9EU1JmYmIxNFEzX2FvT3MtamtOMkFLNkRwdUdzbTFqNFFlaGhnajdLMkE2Tl9hNThIWi0zN0JmLVA3enlHb3dDNkNONEFpa1lNYlBxMnBEMTRIblRvVm9VdVBpZWlQTEwxVGhOMVlYM0tjdUxfS0pKWmlSTHpnREtnOTJUR2l6dHpIdGNEV3dFaEQ4YzcyUjhLeGc5MkthVzk?oc=5",
-      "domain": "pennlive.com",
-      "seendate": "20261121140000"
-    },
-    {
-      "title": "Gamethread/How to watch Northwestern at Minnesota: TV, radio, streaming, betting line, injury report",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR0Jza2d1aVFqS29pd1RCM0Z2bVRBcE1pN3pETzRnZlhyQWdsV19Icm1Dd3hjc1pweVpubDhBZlFoc2Q0Q2VDNG5oVE5YdW9JWTFVV3hOaGJfQnF5U19XZjBfUGFMdS1hQ0NwN0xSRWtuSUZFU08xV1hfRTBsOHphUHdsODZsaWhYb2t6UHBqakROUjVTNnFGY1ZEam5sTXE4SFpVTTdzcFcxYTFab2swcVJqeG1fVkJNSnJDeFlGZ25DUkxZWlI4MWdiT1dMd3JXbzdkRzZjMmtZc1FvaktVQ2NB?oc=5",
-      "domain": "insidenu.com",
-      "seendate": "20261121154141"
-    },
-    {
-      "title": "French Actor Depardieu and Author Houellebecq Under Investigation for Sexual Assault",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1pjNElBMlJQQ2I5OGplSllxX05GejAzTC1FdG83OWY2Vlo2a0xsYkhwRXZjWE4xaDd5T3Y2ZWFScUlBUFRib1JyWTRxYWF5OG1vOU1qZF9Bc29YeXAtcExwbnBPZWhxWjM4OU83MzlmdVdqcXZvUnpKU1Z1aFQ4ZVZmLWFWdlpzQXVnc2dmMUVnS3FJMTJwOWIwNGRPNzY0cmJRREhuSnBPZlpwM3BselRQa3RmMFRTaHJaZ3Q1VlZwVzRha3U1dDMybjJEQjMzampKLQ?oc=5",
-      "domain": "usnews.com",
-      "seendate": "20261121133908"
-    },
-    {
-      "title": "Exclusive | John Travolta tapped into ‘a very dark state of mind’ to play real-life mobster in new movie",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3pBVV9wWmd3UW9yUkhiTzFnMzA0ZkxoY3V1RW1QTkVEaEhuV2pXRDZ0SGI5cDZGaVlsaVRHMkczN1NDcVlzaWJiX0FhZzVraW1oV2pNR1JuQ19FQTFuOUUxNXBGQzJIbkRsNkxsR3hLSExVX3lkb3hVYTIwbi1PTU0tYk9yeHpYczNtbzFDMW5ZRXNNeThIMHpSbWYtR1lTR25mZkw5a2NhMUNQVS1EU010bkk?oc=5",
+      "title": "E.J. Carroll, ‘Boardwalk Empire’ and ‘Law & Order’ actor, dead at 66",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeVVCMTZLZWEzQVhES05hLU1VYjB2TVBVRDhGNjRad1VoeWk3TFd4VXFNTFFjbEVYdDViUGJtQUwyamJNaWZjRDFlcGR1WU44RENfNUdRazhBdmdYVmx1cC11UGJnb2lnWGVqZ0txVjh4aFhKWEt4NzYta3JqOWlON2swRHl5TDE2Z2c2b0FRX052RmFkRHpkZl9xRkd6b24ta0oxWjduYWlXQQ?oc=5",
       "domain": "pagesix.com",
-      "seendate": "20261121152600"
+      "seendate": "20261121142200"
     },
     {
-      "title": "Wedding receptions feature a lot of bad music, and we have thoughts [Unscripted]",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMVZ6ZkhrNUZDUWluQjVITXRZcnNvUmFxcVBVUjk5OHZwXzl3bjN2c0tJTWtadFVjX3Y0cjljcDFzd2JlVWpiRDF3dlpXY21ONjFiTl94UnZVU1RtVi05ZzJoMzdzUGFxcVYwcXdvOWxzUWk2bUdPcm9OaG53UGdMTmd5ZGJqQVZudV8taGthQ2NNaXhzVzAtT2dOXzNLaWEtZndmMG9vd1ZhUS1aUmNpbFE4ZnQ2dmJ5alBpQ2VHeV9TOVZBZjRGSDdIWlpIc2V1RGUxVndhR3lzcGt3RjY4cWJTSWRpRV92VXFVVzUydzl3N2Q1YWZZ?oc=5",
-      "domain": "lancasteronline.com",
-      "seendate": "20261121100000"
-    },
-    {
-      "title": "How to watch Islanders vs. Red Wings: TV channel and streaming options for November 21",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc25Ma1hmQUVnUFFPYTFIUHl2cnlaSmFxV01Wa2hibnpWcWhHOU0xMExUc1NhcmdadlFrWjIydmpNRXpDUXdrZkQ3eXhYVzhqVUhJcXQ2ZWRCTlBHbVBROW5rNU1fYXVHTk1nWEtFV0NadlB3cE9wRHR6ajk4QVNnN05iQW05blFkazVxRllWaW9OcmVJb09fRjBjQy1oY0hYOHJUaw?oc=5",
+      "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1EyLVMza0xpLVJacm1ZUEN3cXgwWTlDeFJFYm9LZU14dTVKWUNkT1NKcmllZF9Uc0lfalc2ZXEwS0g0bWZiRW9na25OLVNHQklPeVZ0d1AzWTlHb2pKWGtlajI5LVp1N2dEUzQ3VmxTV2NXSER4UnhTLTVjT2Z6ZFJZa05pOWNNV2c?oc=5",
       "domain": "nytimes.com",
-      "seendate": "20261121164544"
+      "seendate": "20261121140452"
     },
     {
-      "title": "How to watch Kings vs. Senators: TV channel and streaming options for November 21",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQkxMN0lsaTFxZXVubVJaZTBGWk92RktvRWNyRGttWnJXNEg4c0VnenR6MndrTENfSGx4MG04MHJ2b2VpRUlPRDRHcmRodWp2OFNjd0ZoZWVLTUxFLTFCR29fM1BuZkxEQWFxeXE2alVzVUZhamNVSm9DYW1oNjA1bzNXelA5NldwMWpkMWgxeDdDcVZZQzlITDRRZEJhUQ?oc=5",
+      "title": "I Play Rocky Review: The Underdog Story Behind a Hollywood Classic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CRENYR3R2emp4RTl6Rm1ZRzFKNXg1SmZfR0J6X3FHaHpndVBxT2pReGFhSHdibDdubEYzYVNOQkQtTnc2OXpXcEVrVmlmR3V5Z3QyVzd4MVBtZFhnSmhv?oc=5",
+      "domain": "screenzealots.com",
+      "seendate": "20261121194409"
+    },
+    {
+      "title": "Actor Awards Predictions: Andrew Garfield, Inde Navarrette and ‘The Odyssey’ Lead an Unsettled Film Race as ‘Widow’s Bay’ and HBO Max Could Rule TV",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LeGhDQnVrV0F3ZVZOcDdWZW5ZeU5WU0VBNl81RFFTTHZKSlJaLURCalVteEVMYUZPcU0zdVNMbEJ5U2ZwQXNXNzBvd0xZNkhxQ0ZnSGFCRFVlanR2VWpYcXRyTVpEQV9iZ2lTVQ?oc=5",
+      "domain": "variety.com",
+      "seendate": "20261121181500"
+    },
+    {
+      "title": "How to watch Trail Blazers vs. Knicks: TV channel and streaming options for November 21",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZW5PYndpM1gwcWxCX3d3d0NIY1VjLXpvd2Q0aEFjdGdHQmVkZFNfdGJ1OUJ5TnV0Y0JzTzVxcEdNbUxzR2t6YTNnRXk5WVVYZlQzUjN2dl9hSkFkeFVqSWRIbzVWbm5HUkRxcW9lX0FOYUhjNDRvX1FBczhnb0Vjc0NWbkc4aVdrTExxd3FMTEhMdENhaFVTQmR4MDRVMm1tSWhud29B?oc=5",
       "domain": "nytimes.com",
-      "seendate": "20261121164720"
+      "seendate": "20261121180834"
     },
     {
-      "title": "How To Watch The 2026 NWSL Championship: TV And Streaming Info",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVlpyOHdIS29LNEJid3VJWUstNTgtZUVMZ3Jjb3c0ckJoanEycXptRUlXZ2VfcE83NDBLaGZRMW55eGF6dGZ5TU4xU2xDYU1sQzg2OGIwZ0ZWcklVbGYyaWF0YkRPUnh0czhOMVZVczJjaS0wNUJ2Z2ItdzM1S2FLdE9mMkhjWGxjeDJvZkl3S0Z3YWR3Wm5PVTc0WnNmVzlTMExvRkdwTzJoVklIaDRyV0JLRkJiQQ?oc=5",
-      "domain": "forbes.com",
-      "seendate": "20261121135809"
+      "title": "Netflix's ‘Minimum Wage’ Ushers In Streaming’s Short Ep Sitcom Era",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTHhIRTBxbXU5Q3EyTDdPWjZOTEVVYjF6SzdPdlVHVWNVV01TU0xUcFRPUnJ1ZFNpWlFpY0R1d2NZOVYzTGFreklJdXd0eDQ0bXpHVFpiWVdpcGJfNW9JQjRaY2paeXVtY3haUUtGQjA2NWg2R0J0cHVQQWhpZnJiY1JxM1E?oc=5",
+      "domain": "deadline.com",
+      "seendate": "20261121190600"
     },
     {
-      "title": "Local independent movie, Spanish Fly, ‘Best Feature’ at the Urban Film Festival",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDJBRnZHXzh4ZWlvNGFEMndzZEtEbzRzcUR2cWdXNjNyYk5kSEVjTlZGeEpSMFBQQWdudG1WNmxqcXhGdkhOc0d6ZDhGYlh6SldTSFE3WVVTZVNHalRpUlNNUmpibUYweTZnVjNYY3JUNnNjakw0eEdrOHlmVjgtZ3ZyalNDYlNTcWFPYUh3MXBPWXdwc0V6aFFWTFZ2RC1JSnNjSFFiem5sUUppX3ZPOVpseU8tVldPZXZBMF9R?oc=5",
-      "domain": "communitynewspapers.com",
-      "seendate": "20261121142111"
+      "title": "Meet the Artists with 2027 Best Rock Album Grammy Nominations",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRTE3YzBXV3RUVEJaTC1paW1ySkxHU3U4T1FhUC1CREV4MXJiUDNzeFdPU3VXa1RkT2FwYnR0T1IycU9EMHVZOWxJRVFlYkFVa0dqVWxEWERpODRwYW02YnB1TWFFcXNlNFg0SFlWU2p4X2Jqa2JOZ21pWUtlWVFHdTJIMG4?oc=5",
+      "domain": "grammy.com",
+      "seendate": "20261121181123"
     },
     {
-      "title": "Megha Ganne leads LPGA Q-Series with her Tour card already in hand",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0RyYi1JX2VaNkdTVHZNakFJMnlCRGphVkFsb3N6T0FqSl9YTlhtRlg2U0RMdTgyMG5GRVFRNlA5djh1c0dzcklYMzZkRC12UUZWWF9KenNSRnVwYXh6SmxINGR1OTJZSGVWdEMyQTVreGU2VV9lN2U4UFlIdDhTT3d5UGpCSXppYnlSUWEwQTdhNjhJblhkUWZkOWZBZ1FlajRDYkZ0cV9KZXBMbllTT0NfdnJzR3Zubk1FYTdUUQ?oc=5",
-      "domain": "amateurgolf.com",
-      "seendate": "20261121151939"
+      "title": "Singer Laurie Roldan - A Song for you: The Christmas Music of Karen Carpenter",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTU5vVjJYS2VGQjR4dml2cGtoOHZTcTVrSXlfak8zb0NESDd6OU5nUWJlamVnX0ZDc0dkdUlhQW9CSXhtczhubWRkY0hCMlJhOEd2SFlTeFA5UWRvSG5Sb0ZITHZDRHFXRm80c1VhbGZsR203d1JHd05aVjJDN052VF9LOVZHaVFiUWxIVU9XZEdwQWYtbl9PT2pQS2NaenlNelJlUElkcWZlZllxSDNmSjFUeFYtT3VWTi0xeklnNGE?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261121202900"
     },
     {
-      "title": "Asking Eric: Music question causes racial offense",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWJsdThTbEtyOUZxdG82SFVPcElCaW5YTnJpNHZFWTVCSFU0aGtLR2RqOG83bGFvLWVnaUFwX0NGMVoxVFNzclR6Q0phX3lFRGQ0S0ExdEpIRy1HdV9Eb3k3aElNdTI0b0Q3dzZRcDR0TzI0bjZZVzVoVkZ5RGthQTVwSHdoNnktd29EaUN3cWFYTndIZXc?oc=5",
-      "domain": "chicagotribune.com",
-      "seendate": "20261121060132"
-    },
-    {
-      "title": "PHOTOS: MOPOP's new Seattle music exhibits highlight Nirvana, Jimi Hendrix and many more",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ1c3Ull1SUFsUmZiQlB2UXpkTEswWWZjMk5FMGF4SmN0QzZ3aDFoLTRST2tyNk9CQ3dkTmJESHlIWDRQR2IyVGpZeW5PSUdwSERfVjMzbEtOdy1FQnhLZVVoUHRISkVFV2pzcXJMXzRSOFZQRjNpOTc2d2Z1VXp3akIzWVQ4aXRlUndtZGhXZEkwQnVfS0tLU1ZlYTZHNEJjbkw4QkstUFRpdDlfU2E0dklwUHZEY05ScXNWdG00V200dw?oc=5",
-      "domain": "komonews.com",
-      "seendate": "20261121153316"
-    },
-    {
-      "title": "Nithya Raman names LA advisory panel spanning labor, business, Hollywood",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY1RaZ0NjdmtLX1ZKN0RUaXlrRVI3RXRUVjVIZFNOYThfMjR4TVFfd1hTX1ZNNjZ0cVVXcnB2LWtySTM3QlFDSjdOTlc5Nms1WlIyMExscThTeUF0Tnp3TTl6UDdzYzA4UDJ1Mlp5Z1B1MWRWWHo3bkl6U1lkZzktbkJmUVV6YTRUZ2NzVGdrQmdPWkZMOE4ycks1cmVqSXlna1EyaDBva3dBYkpB?oc=5",
-      "domain": "dailynews.com",
-      "seendate": "20261121132022"
-    },
-    {
-      "title": "Fresh Air Weekend: LeVar Burton; Opera singer Anthony Roth Costanzo",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjBvektGS0RWSVRiSFhPZDg1cElibXZNS2JmZ0JDdjdTNDRGN3ROWFBXZ2poU1ZPbHBfRTFQR3FQazhfNlF6bFRqMkRHNjJZMzYzS1FnQWJGeVFTZ3lPRDh1VHQtUzhacFI4aTB4MVdmZlR4bHlnUVlPRmtXbzJ2X28yYUFXdHVlRWh1UDQ2Z3laTHh3RW5qRUQ1MDJ0SnlJSVFHVUZ6dXE5d1YybUNN?oc=5",
-      "domain": "npr.org",
-      "seendate": "20261121100000"
-    },
-    {
-      "title": "Local Youth Join Altadena Music Theatre’s Holiday Celebration",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0FhY1E0Y3l3STVqZy1JRENmTDNuRWZ5cmNMQklWY3Axa0s2ejhfQ1Y4VC1meGNwRnoxWWFtaG1wVl96emxfQXJKeUlWaVVSZnBZQmxfeElEVGM0eFAwVEFHeDdWOUpKTTVWcVU4LTAzcFRyX19SQjBNaGxibkJhMWtJQlVvcXU5N2JXVl9fOTdQaEg3bFNZSHRpdw?oc=5",
-      "domain": "coloradoboulevard.net",
-      "seendate": "20261121162553"
-    },
-    {
-      "title": "Jon Rahm Handed Major PGA Tour Update After LIV Golf Collapse",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53a3JKcDc2VHNnMGF0cURqNnR3d25LSG52aVJ4RUwtX3VYRmZtQkptOGpzbTFWRWllRkhaNFFrbTJQNGhDWnUza0NDX1ZkVlVvZWpEU0syMXFGSGNZem5EanprczE5MjJUeU1fS2c0RGhhTVBMYndfbGd5YzBKbFE?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261121152707"
-    },
-    {
-      "title": "Country star rips video of singer: ‘If you fall for it, you’re a (expletive) idiot’",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQU5XSnJZdV9Hb2pwS3JFXzlGNEdVcF9kaHI5VUd1NFg4RXk2cFMybTJSZFpTY1pIZWV6UzBOMGFBajNpZFAteFQ5QmZybjYwU3l2b3NyXzVGRG5NcklwUVlXdHlXQ0NmY0hyNjJPZ2tvZTlQeFRocVY1MnVrRVBkX0JhQUUtdXdnS1JtWnlKNm9EY3l3UFZvaXB6WVlJVlNGRWxjUDBZSXFxQWF2ZGpPVVZFTXV3Zk1udk4xcXFSMkx5X1ZrSFMw0gHbAUFVX3lxTE5fX1RoZkJTRGFXNlVWVGYxeFJYWG9jYi1TSk5WY2I0ZHVyeGlGXzk5WFNhRzZkX3gwczN0Yks0VF9jRVlMdU05cnFSb0JjTzRaVnBtc005bTdWUlJNMEQwQmk1bmV1X2xaVkJNOE1jN1pYb24zU0lXckxJTWlKUnJhQ2kwYlUzeUhlY2RtamphQ1ZweS1CWURiLWxGVE4wdzdNeEpaeUhQN2JKMUVtd1VsWTB0UTREU1BMcm1TSS1IemwxZm1zenN3d05HeUdqRFlSZUZPUG8wZ1U1TQ?oc=5",
-      "domain": "pennlive.com",
-      "seendate": "20261121113000"
-    },
-    {
-      "title": "This actress relishes criminals and connivers. Now, she tackles the FTX collapse.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMU9YckEwQXF4dndXc2VrWnNRQUc2YlQxUFpyTEI3SENMZXgySTgyeWd4WXVNS2x4R0ZrMFp3M1J5YzU0WGY5ZWFraF9GX0NESllSUGZUZWNCZ2l2azdNTHN3cjVzSUsyWWp5TUQtY1BnZ3llZkc2VTlxeEZSQTBzLUxRa2hyeEY4R29HMVFhejJDZG9IQURfQ01rOHMxM2NsZG42ZlU2ejVhTWMtZ2t1OGRnSlpIWkIyWkdrY0Qwekw?oc=5",
-      "domain": "washingtonpost.com",
-      "seendate": "20261121160252"
-    },
-    {
-      "title": "Netflix’s Oscar Hopeful Officially Removed From 207 Theaters Ahead of Streaming Debut",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTG5YOW5CRTlVUFhldWlJc1V4R3o1OFFlUVZQLUs4TFdST3JOR3JBbDlVWEoxMmZZaGI2bzM0aVF0VHA2amxhcl9lMFZuSFZlSmFMNk9lUkZ5WDlscXo2UjFNb3pEd3RjZjFMV3dsQi15MzBNeWZkeVptbEdZRVNuXy11RDhMdEVRdmc?oc=5",
-      "domain": "collider.com",
-      "seendate": "20261121150012"
-    },
-    {
-      "title": "Popular rock singer battling inoperable brain cancer sets new goal: ‘8 months’",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1d5MXZ1RWNUQk93RG1XMldSaXNOT2FfSzJoWVcxeDhnODdvcVYtTDBFeWt0MmV6UWpOVGwxSjZkd3FVQ1cwRnplaGZOd1p2U3hJTGRpbk43UkNBdm9kV1gzTm9fa3JEanRFTVRZUjhocHdZdy1oVDMwTDc5OXJEZmlyTTFWcDJwcTN5MXBFRWNSX3pfYnZHam03TEdDZkg4dHY5aXFGRS1kNGJwMV9HaGFDcnFiUVNVMXgzckQ2QWlkdURnZXfSAdoBQVVfeXFMTnhfM0lJckxialk0dDZ4UnctNW5xOFhjZ2ZYbDBuYkUxTWtjbmdpcjREWVVYaHFCMFg1bi12N2ZfU01BNVFXZWhHYnBjSTBrQUJDVUZ6ODVKZ3JFSkp6ZExUNTF3cHA4dlBpVk9reTU4MjhlVU0yeHlrZDBFaXhKSE5wb0NTNmlKeDNZaU1RcjZsRU5pQUEzRDF6a21fTlFYTGZOV1VMX2NtdWNDeG02TUtzdlZUTG00eHEwLXRIVENGemU2TFVoNV92MHpWdjZmLVlKWHFXdEIteEE?oc=5",
-      "domain": "pennlive.com",
-      "seendate": "20261121110000"
-    },
-    {
-      "title": "36 percent of households have ditched a streaming service subscription recently: Here's why",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGZkZDJNeW9CZnExM1dYZlNfWE52cks1c3RFd0I4R2RjQi1sbGotdHE0dTFBb29Qa3V1VGF5ODk1V2Nkc1NYMXV5ekxTMnhCbmw5V2dYSy1CRWpiQ3ZQcE5aUFZYY2syN0Q1dHFOTjd3OUV5NGJ0MHoxR3BLTTVWOFpad3NpVnZhSUswS0t6Z0pzdVJNem1Z?oc=5",
-      "domain": "engadget.com",
-      "seendate": "20261121163000"
-    },
-    {
-      "title": "Billy Horschel reveals how many PGA Tour events he expects to play next year after disastrous 2026",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXg1VzF6cGk2N0JXcTE0MWh6RXFMZzJKclRndWE0X3hCMVdqRExQLW1ibC1maEFLcjhtYUJwbEFUVzlGSEZIYUFkbjFNM1R4QjhsU1VUTlRIQTRoX3hJdmtYMUxhT1ZwUV80MHNjRnZSbzBJc0RMdE9rbktqWWhNN1J0ZWJJNVE?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261121153000"
-    },
-    {
-      "title": "E.J. Carroll Dies: Actor of ‘Blue Bloods’ & ‘The Deuce’ Was 66",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWczTlc3b3BwejFVVjJaRzg5ckRQeHBHd19zVWRSV2tLeDktSmR6aUw3V1kzbnJRZ3ZNb2JFckNubkpraXF0Q3BSSlJHeVZhWEwxd1puN1ZuM1pIUGxUc2FlOEhncDRoTGROS0t6aVM3T2c0bTRYZmpNc0U5NXBLYkV1WnFfNElIVXVRQ01reEVrOW1DcGJKdm81SXF2VTZMUXJkSzlSRERjQVdjMG9Z?oc=5",
-      "domain": "yahoo.com",
-      "seendate": "20261121160146"
-    },
-    {
-      "title": "Patrick Wolf To Close TOUR OF THE BEAST In New York City",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOTY2WHc1WnA1OGRoZGdQWnFNMTVzWko3RC11aF9CUmthSnZnZV9OQk9uSFc5ME9uWlFJYkpNRlBYTEZoSDcwOGZURXJvbnBKZVJBakRwcDNBMzF3YmpMV29MMnBPczBLRC1ja1VBTkZqSEM4Mm5GS3hzd0l4SHlzWlJpektLZGVIUUltYURsY2QwODA2Wkd3bXN0NXp1MTVlandILU1n?oc=5",
-      "domain": "broadwayworld.com",
-      "seendate": "20261121154915"
-    },
-    {
-      "title": "Scotty Cameron Unveils New Putter Line For 2027 Tour Launch",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLTJXY3N4R1NDNlRISnItVXZxeVJaNHhSSWhJQ0pYZ3lrcGlybGkwdW9sb3NQU19ZZ2dvekpZa3ctOUtPdmxPVXlVcVRNX1hDNFM3NE9XUWxvN2FIMUt1UkNaaHBoeElkdHVybjV4YURSSHdTTzYtNFpBakxMX0xsLV9aMm5iaFMxaWlR?oc=5",
-      "domain": "sports.yahoo.com",
-      "seendate": "20261121151958"
-    },
-    {
-      "title": "French policemen convicted of racist assault on music producer",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQjFqTTRmWm41aFhqSGFRR3U4cUVrSWs4aU5OLVR0ZlN4N0ZuRm1YdDNTNUQxZV94WFFkZ0RaWVFlUFpMd1ZTT0RrUlJmbnN6Uk9vYzRTWGpJWGU1ajBEclF3S0xWaUZNQkdEa3ZmaVJ3Z0F4aTBWb1kxQ25BV29HNVNUZTRwaGpMTVBIMTEyTHJKRjl3MzNiU2dSeUZnRFNoa1BZV2hKNXNoZW1PZ25MQTM1WEhuZw?oc=5",
-      "domain": "reuters.com",
-      "seendate": "20261121094543"
-    },
-    {
-      "title": "FIDE Statement on the Conclusion of the Total Chess World Championship Tour Pilot 2026",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlQ5RmlGYWF3ajVfNG9NZUNtYmlCWUJ0QUN2a04zZDZ0MFdXeUpwaU53TFRBSUJsdGs1aWtJUjR2ZnM0UDhHRmpUZHVTY2dVUV91dVRjamt4NTBtZjdrSUMxb3VWSnZpTG05bVFTUS1RLUxuS1ZuYnJjWDR3Zm5iUnRQUERFaGhTdWtTNXl3QnhkMkZMa3c2Q25GV2NHLWk5c3B5QTI5TkNQRGJl?oc=5",
-      "domain": "fide.com",
-      "seendate": "20261121133741"
-    },
-    {
-      "title": "Geneva OKs $10K destination grant for new music festival",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzRkUk5iaENyZG15WGtmNHAybmdIZ25hMzM5cmJvTUNycmxJNFAtQ0FpVVVnMHd6S2s0X1p6WHozZDJ0UTFDTHpYWXRsaHNOdlpKU0ZGTnJxVnZLYS15aE90TlNwV3I5UHlWNHZ5QVRfdFcwaFBkckVhWEJEWEFPS2R3ZmxIQzNnWXhHMzI1QktuZ2t0MlVNeWpWZUFuZHhST3dqRVM5MnZRaGk4aE5NX1I1MVViZw?oc=5",
-      "domain": "shawlocal.com",
-      "seendate": "20261121163324"
-    },
-    {
-      "title": "French court finds racism played role in police beating of black music producer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVlZOWHV2a2FyUTd0M2hXSkV6Mk55OVBvUUxCV2lMVlFYbi1NX2lEMU5rOHpZdEthQU01YjhrX25fYmtPZTRuZ0NKWXBpdTlYVVZpQjZ4anA2dEtvOGpqM0xSM3lqLXV3ZHZRMUt6blF1aUc1cG5hdzZZN0Y1MGQ3YlM5XzFlbWJpWW00eUFwVVhQajVnS1d3Vmp6eWJUc1ZmTVFKWjZ1dm9iX3BCbTliZ0lfZ0NVeTVQ?oc=5",
-      "domain": "rfi.fr",
-      "seendate": "20261121154158"
-    },
-    {
-      "title": "3 Friends Were Almost Struck by Lightning During a Music Festival",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT2d5MnY2VUF2bjFTTXdSMUgxRnhNcHNSZkUzTWVKX2ZCS3BNZm9TX3BTalBaQmtYLTRUV2J3TlpybXRnTTJwWW9GZzVkdzBrTnFqbW42SUZUQ0tWUjdURTlFNm9LTFB1RzgwTVo2bHpwa043Vzh2NklNX21VUVoyTDEwQU4wTllmVVViekIzMF9udTZadnZOVA?oc=5",
-      "domain": "people.com",
-      "seendate": "20261121150750"
+      "title": "Anne Hathaway, Andrew Garfield Among 2027 Santa Barbara Film Festival Honorees",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3NqMnFkeDM4eTc2S3d1c1pXVHFxQTJlRmhJWElfeEJGcEE0T2RWMGFmMDNrZWpHcncyYm1uLVJHXzBibW1acGxSRWdROVlhOWN3NW1PWE4tal9vM1ZvTDJNdS1PQmR4eGkwN3F6LUhjSk5Qdm44UGZsWXNPZ3VHTXV4TnR1MVB6SGpwVVN5NG9BMk1q?oc=5",
+      "domain": "noozhawk.com",
+      "seendate": "20261121191951"
     },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
@@ -328,10 +262,64 @@
       "seendate": "20261121160000"
     },
     {
-      "title": "A Robbie Williams film starring a CGI chimp helped me come to terms with my hearing loss",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc0hWOTVubTlwS2lndWhhb3NZSmF0UlBLY01CZzRMTDJzR1NpTHFPdGhvSXhoWi1sd1BDcnUxajl6b1RKZUhTWXlVMVpLM2JIRXdDbEdPOWRUV28wRnNpNmhKcEdFeGQ5TEdFaHIyS20tY2hYdnpPX1NVdDdYekI2ZzJtVWpBVUtFczkzS2xvQVI3akxjNWdwaEJIemtoOFhZUFZma0lNWFFSeUhmZWJVU3hhWW5xVE11TUY1RGhUUTZYcGQ5X0pBbDZCMDlBc3V4?oc=5",
-      "domain": "theguardian.com",
-      "seendate": "20261121120000"
+      "title": "How to watch Celtics vs. Kings: TV channel and streaming options for November 21",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYl9qejg3SUxIblR0cjFnZTB4bjNMcDk4OFFrVF9nRGxINzVnb2hXQnhkVjBrYlJhaHdCc0c5NjVHaUlrdF9RNVBQYVAxMnJrUWRXenVwbnIycG5ia2E0NmRZLXBhYUtkc1Y3Y0JVWGFfQUo5a3l5Qjc2dXJMQW1EbTZmRktkSFNWSWVtcU1KMU5jbFJER01zaEE5X1o?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261121200514"
+    },
+    {
+      "title": "Music Box celebrates 40 years of “A Christmas Carol”",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSHlFektKOHZWMGdUUmgwVE9mWS1CNHpmSkV2UWZvQl92RjFnU0JaeGFSSjFONkVJbDZzMnEzVVdEUTJDV2F2U0dpWTBGWU56UEc0bDE4dVpQaC1iVzFjY2k5RXEwZXpjU1d5czFVRVdGNFRzZ1F6eDRIUGs3YV9peDN6T2lnZld0SWkxRDExdDJIYUFIcTBr?oc=5",
+      "domain": "citizensvoice.com",
+      "seendate": "20261121213027"
+    },
+    {
+      "title": "CME Group Tour Championship 2026: Final round tee times, pairings, and how to watch",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQTVwUnNtVVN1YVVzQjdwN2trM1M1RGlSNDh4aWJRZHl1NEs3UUFsX1Vmci1zeGJsTUFuN3Y1Zm8ydjhxN3BGbTlza1VaRkRQS0tBYWZPNHNUcFV2VDRjM3VuR0Zpdmd5WHpNNF9GZnBfRDIyZWpiMVlqclItYUo2bkRKQWtDWm5R?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261121212842"
+    },
+    {
+      "title": "Is Black Metal Really the Music Genre With the Most Virgins?",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZHQxNnFGTjU3dGZhVFN4S0pFN2s1Q05Sck9HT0d5aS1iNzRHYjR2UnJKS2tjUlJOSGl3WkRDb3AzejA3dnZ1OS15cVBNal9VaHFTLVlDenlaSGlpTnNvNmJpQ0dnWl9Qd0tOQUhXODMzWjFJV1YwN2VZWVpReUtSTy0wdnVJM0h3eUxVbzZXandvSWpDc3FF?oc=5",
+      "domain": "vice.com",
+      "seendate": "20261121145227"
+    },
+    {
+      "title": "These Were the Biggest Grammy Snubs in Rock Music",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HclBUTnFTd1J2WXNDekJSQ1NUdnZ1S3VMRE45RXl0RHdhWE9Db1ZVMDI2cHNVRldOUXJYYmwyY3Jkem1McTdCMk1wb194OXlDcWY5aXVLZEtqNlZQVFZJ?oc=5",
+      "domain": "collider.com",
+      "seendate": "20261121201712"
+    },
+    {
+      "title": "Cody Dickinson Releases Second Solo Album Tandem Liberi",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFU3dzZfUi01cHBDQ2V4REhzVl83WlVEdDg1Vm4wbXVDbHFWX2N5ekhSb0R3cDBFSXFlY0dyRFhQQzhVZGp2YnhZNVVYemdIOHplcE9NT3h0ZXlCZXRHNThFTzVXZUNhcTZKLXNzaEoyUHRVQ0Q3VXd1Y2RXTkxQMnF6R0FJWXJqanh2TFkzSDlVRVVfUmxiTw?oc=5",
+      "domain": "gratefulweb.com",
+      "seendate": "20261121191210"
+    },
+    {
+      "title": "California's film industry faces uphill battle as Trump steps in and East Coast rivals gain ground",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2RIc0hhYU5xRzQ2S1FGUEhaUlhoN1g1Z2hMSTJfUURrdk1lc0czdVhuVUQ1UXpOem5ENDRyN25aS21PU01vaXBEOGtPN3RZNTZKNUVFNGxxRm16ekFnQ3BBMk04MXVlRko5dmtDSXdJMTdWZ2lDVHZvcGREdE1aTEJXc0U5SVhTdVctbHJidGpxeUlKczAzZTVvWnUzRm9mcHkzRUljMjRwaElzdW5JRkNVVHQyVGZU0gG-AUFVX3lxTFBrODJ0N2ZCelBoMGpqRTE1VFFwU1hqUzR5SXhOSWdxZU4tZXZWRGlnM0Z0RVdfOW9iT05mU3psRV9XbXRZQUVVTUt3RFdXYjhLY3p3M1RZeU1UXzNZM050ZnJRcVNVYkMzOGZGbHhVMGlUYmN0VFNOOVktUE1HQmg4ZFpkcXk3bklMVTB6bXBXV2FJa0cxd1NCS0RzQmh0Uk1ySWFKVTFGdTEtUk4wZzFJYVN6Vjg1SFdjZWVmV3c?oc=5",
+      "domain": "foxnews.com",
+      "seendate": "20261121201349"
+    },
+    {
+      "title": "Pitcher-turned-actor Lance Broadway dies at age 43 at Dallas apartment complex",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVRwdlFxUmZReVk4STlTOEg2NmFkcU9vS0hIVXFPTGJaQ2lkNlVNU2RGdl9pQk43OXVZT0NaMWdyX1RyaGJaQ2RGVFFuN3Buc0JMY1RlRHQ2RzZBOXBfLUNEWTFLMm1zMXBwdUk4RndaSkg5TzBLWElSRFZCa3lKRlpCTDk5WlFqSmx6NlhwLTVnTnFxSkp3dl9YOUxiS1lFUUhjdzdlTEpHbzdMMEJkcnF3SFlIMWJxVXfSAb8BQVVfeXFMUEpyVzlNNVNZVk5XYzBRVXAzY0pOdEdNcVR2eFpCV19rTmkzV2xsVHpMcm1rQzlPdVNzQ1l2U0NkWlo0NGdxNWpYQ3lzSFlRVlVDWXBnTFZ5eVBCWFBTc0xfTXEyNnVrYWg4WG5ob01raF8tMWUxMjlqR20wVmJockN5Sk5BOE5tQXdwQkJMQzhReDU4NWZVMy1FQ1JsSXJtS2d5aDRpNC1vcHh2MEh0MjNERVNLbjBUWEdSXzNOa2s?oc=5",
+      "domain": "wreg.com",
+      "seendate": "20261121194843"
+    },
+    {
+      "title": "Oscar Prediction Updates: Animated Feature & Short Films",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFRtM0prV0NfbTItSWxZN092bWZDOXZSRldsRUNZTmJtM1FQX0tXbTZ5SHZ0S0FUTTQtc01WbmlsYUpuVDVIczN6UnhPUVhVcG9iWFM2QXhqeU8za2lnUWFqd3RXR0hVSTRMS0MtOWZJQkV5YUdISTlKVWozYmhKZnJJeW9LRi1UdGhDUFRXcTdsQzJENUJoTElCQTY3eEc0cHdGU2hR?oc=5",
+      "domain": "thefilmexperience.net",
+      "seendate": "20261121210100"
+    },
+    {
+      "title": "Music & the Spoken Word: Give thanks",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjV0ZlF1WS1acEEzWE5RUXFlMEpzcDV6eFllM3B4bWlBeUJ3eml6QTBBX2toUURDcHkwRXBmWWkyc0JWbmNidWU2bDJ0dl8tT1JhT1ROOV83UGRXSW5icTFJWW02bTZuRkNDTjM0dmlscEszTjZTaE1YaEpadDFfbmV0MnJyR3VWd1Atd2NSNjR5dDlSMXdpM3NKb3FUcVhGS1BrSGJlNjhrLVVGbnp1OWVPaS1KUU8wSmNFOG1rMA?oc=5",
+      "domain": "thechurchnews.com",
+      "seendate": "20261121200000"
     }
   ]
 }
