@@ -1,367 +1,235 @@
 {
-  "updated": "2026-11-20T20:37:11.174Z",
-  "source": "GDELT",
+  "updated": "2026-11-21T01:54:35.533Z",
+  "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
     {
-      "title": "Kalshi hired its GTA VI researcher after receiving 30 , 000 applications",
-      "url": "https://finance.yahoo.com/technology/article/kalshi-hired-its-gta-vi-researcher-after-receiving-30000-applications-192348447.html",
+      "title": "California man found guilty of starting deadly and devastating Pacific Palisades fire",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMTBjbU10T0ZDdE1jVTFnbm9XYkdBbGx1NjNNU1ByOWtVOWxnMWQ4WnloY3hYTDNUTDYwT3pLQ2huWTJVUUc3YWZRZHlhVlBhTk1Zb2xNa0NIMmNILWcwX09BSmU1V09fbXBCNmp4V0xHTW9PTWYxbk53aGVjcTY0WnpvMDBGT3UyclpwNG1fVDJTUHhvLVdfb3k4aFFuTHh2b3c?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261120232304"
+    },
+    {
+      "title": "Trump touts Asia deals and meeting with Xi and Putin at White House press conference",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN05lbnJqODFXYk1OV3NsRGkwWVEwZk9ETGdXOXB5Z25ROXdhTlRlc0V1SVB6NV9fUWo5aW5Wa0t1UG9EUE9ack4xd24tU0hSd1JUd1ZyV1ROakNNa1NhYVRKeHMxeVNJTnJIcjdFS3dxeklhLVpsMnpYX2JXWE9kUmRMeENxbll3eE5J?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261120190200"
+    },
+    {
+      "title": "Mamdani reveals plan for closure of New York's Rikers Island jail",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hY24yQ0VKc3FYUVhGdzk3UG1jVk1JN05XTkRneEQ2RjRsQlBjWlVwcnBGeElOZDBQRFFWb3Njcy1JRlYzMmxpamVJNDZZN0pTczh4MlBrTndjdWM?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261121000139"
+    },
+    {
+      "title": "Second judge to block Trump's contested D.C. arch",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82Q3hkVmkyVk1FSnVORVdOdVY4Y3JwY0VVYThZaGIyVHpyeUJtYXZKaWVtUVJwV2dCU05ERTRxZ2prNl9WdjJERXZMZ2Jua1FtZmdLSDVQYjVleS0xVFQyUlYxNjZWcGlJ?oc=5",
+      "domain": "axios.com",
+      "seendate": "20261120213346"
+    },
+    {
+      "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12Mkg2SE1JVDFlZVVlTmlpalBIRUJpSFAwSFFCS1NlYWhKZThkX0ZTWm1OWGVuM2o2ZG83XzIzeUw0TTF5d2l5R05VeHZ4a3g2dVdFb2RVSjBkR1RHT2xXMm1vb3A2bllUeHI5djdNN05IcUZoMjdJY01jazBLc2s?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261120185122"
+    },
+    {
+      "title": "10 years on, Britain reopens the Brexit fight — this time embracing the E.U.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXRuRm1HLXhzOXByTFJjR2JiVTMtZ1paN2czQ0xkVmtxbDlQZlVib2lIUGRTT0gxd2VEdTUwRHMzZ3dvVExBWkgwZzI3VFZNcGpYYzg2aldUek13NExLTWwwN0hwaFFrM0FSaUlFbXVfdlprNXo0TUt2cmVuYkFvM2tuaGJpOXRxTDFyamRxYVEtRDc4OC1CZEtfWjJvaUlaajFrV01MVWJtMWNEcHc?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261120215141"
+    },
+    {
+      "title": "Texas Prisoner Moaned as Drugs Flowed During Execution, Witnesses Say",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNE1PdVV3RnE5VjdUVF9zZDFZYmttZDBRR0oxNGNIR29aVUJ6aXRrVmRzXzk5eXdKcEppV1RNZ3lSMVZIS3RFNkw2aklwNnF2d2EwYnhUaE1jRUQxbFhzQ1BlZFFIOW5HbXNHVHgxQUFmWGtsQzVHdm80SFJtOWFYa1J3dldzNmtLMHFHNDU4U0ZqZ2VtVXc?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261120201701"
+    },
+    {
+      "title": "Scalise backs Senate-passed permitting bill",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmVjTjdkNHlOblhnb2VXeEs0cDJIRXJDVld1cGxReUt1M0hZa2xTaERxTm9UalVMaWJvdFFDaVB0ZUVYZ09OOFc1Z1dQai1WdXQxangxcmd2US1jWmJWUFN2V191M29xN3pQWExPRU1HU3BONVQ3ZmcxY0NuWVRNcl90bk9fMV9uSDA1Q1pyaW4zMUtYSG9BWGctdmI?oc=5",
+      "domain": "politico.com",
+      "seendate": "20261120163428"
+    },
+    {
+      "title": "Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DSFVlQjA3Wlg2b2xudkQzOFQ3bnpBMjdrNkNuN2hMZzEyR2RZa3JxejRGVkgyaDl6MVE4Z3FPUjZvOGdEVGRqdTdUY3JOWjBjaE5lVjUxWGtUeTg?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261120221433"
+    },
+    {
+      "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRkxwMVV6TkQ3WGtjZTFWckZjbHFxajN6bFJRWl84YmdXTU5yNFJXS1ZrZW5XUUpsUW9HdHJrOXlhRUhvUzB1R1lwV09UWFhHMjZ1MkVZT05FRVRKSnV3V2VwRmUzYVVBSTljdXlDUkVUUElJX1djYWdiNElKT28yalU1M3N3UFRJZFVTc2txaGQ4M3pjSGZieEh5UVh4V2NYVHFKMGRpcUdUUVJyYnR2TGtBUnJ0UdIBuwFBVV95cUxNbnoyaXhfLTd0MWNabW5PeWw5WHVJZTctUktjdnVMc1k4QmtPOUVhWi1XdHYwUTViSjJMQlF3dVJ2WnVyQ0hITGU5elRfYjFmQy10cmMxbVJqU2JFR3dwSEJkMTZXTENZU0lUSGZYTktEY2RGbFJkUkRIcGNRakMxeGNKUWpXVzdrX0xCN2s2YThKcjZtbl94eFl2WU9NZFZnb3ktQzNSNE1rRDMyTXE5aGZwanQ0RzN4dkRR?oc=5",
+      "domain": "pbs.org",
+      "seendate": "20261120134358"
+    },
+    {
+      "title": "Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNXhFLWVHeVA2TTIyRTRBRklRM29NQlpLTkNSbkdUYlNWVTNLek1BNG52cDFJRjNNVGNxNW04V3RDTEJPNGtDZ1R6WXE5TVV3SDJhQkFDRVFEMXZaTF92aWhZdS1xS1A0QnR2dE9selFRNGJYclZkRmdKUlJrWjB3VGxzTFE3aVBjYWJCUXhsM0Q1Sk5qR1U3TFlIekxkUE43MUNNenk2bw?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261120221500"
+    },
+    {
+      "title": "Donald Trump seeks Ukraine peace deal before January",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa18tQmF3YkRHVXNLbTI4N1pxOFAzeUdOeVlaM3k4b2ZSZVpKZVhFTzFxMmxMUm5Nb1lkT0I2WTFiRlA2SWJMZG1HSl9VVW0xSUU1VWhidjMtZHZ5T2N4Z2hwazlvWUdfN0hDUjRJeFoxeDY1a1JHcDduaUJwUFlKWE5Jb3U?oc=5",
+      "domain": "ft.com",
+      "seendate": "20261120161715"
+    },
+    {
+      "title": "Iraqi security forces deploy in Iran-backed militia stronghold",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ2RLdGYxc2lXdVVnQmx3bnBCbGtQRy1vOTZxeVROMGRIVHBkNnhtUFVaZTlScG93YzA5QUdkRlhld3dlUE0yNnNBTzRhTVA0S0ZRMzhUVTFhTHVUWEdscXA2NV9rVmhrWmtTS19FTFVidTBrX21hcGpPb3NkXzZqclMyYWlqU25vOXJvdFZ5YTFBX2xGd1RuWEx2VWczRnFaSTNyRHNDelpEZHVFSG9MSFl3?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261120230804"
+    },
+    {
+      "title": "The War Is Ravaging Ukraine’s Wildlife, Too",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mSGhHcWttY0cxZTVGa3VBcDFzX2NqeVNpaTBLcmxqaEY1MHZGV0lEalNLWFhHYUlUSE5iSWVIaGdFczFHNTBvaGl6WUJvMUFDcGdaZGVuMnlZQWVXdHhmM0NWS2hlWGdteHBQTGRvdm4telhFYUxCYlZNYlNDZw?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261120230546"
+    },
+    {
+      "title": "Markets plunge: Nasdaq erases 2026 gains, S&P and Dow enter corrections",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRTk1MEVuRzZfdUVPMG9Mc3c4VFlvRUJRTGl0WUxTWVFOUG41LWJwWTFsbnNwcnktNjh5VE9IMUdLbHRuRnlEbUFZNlUyZGgxMG5admdobWx6R3VBU2VCb3BBczlUZU9sdmctenh6c2laaUpWSzYzWTBHaUh6UWhSWmVmOTRnRWdoVDM2MjRoWkM0LXU4cmc?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261120213726"
+    },
+    {
+      "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVNwbUpEZjJtY1NaOWc5Z1ZfYUo2QXJqdl9WVGhJVnFvajdCTGV5RFJwNzNQTFVSeENSNzdUQ2ctRjB5Sl9ybmJqb3FfZENLMEZkeFdYSUJMa1FSamFBS2pqTGpjQzAwWHBza2JHOXBzdmV2ZG1icEgzQXp1aW4zRDFLWnN1Rm1USW9zZ3I4V2NZZ05RN2tBa295b0I4c1VIME1OR3N0VXlZc0ZxOUcwb2lrOA?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261120223600"
+    },
+    {
+      "title": "Dan Ives Just Delivered Great News for AI Stocks. Here’s the Part That Matters.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0t4OVYwWGhwM1pwUnEyNTBKZGdQVHg3Rl9CNUxVbDBITnBxUk9BNWNwUWpFVlZkMGo2V1RFR29uX3lIT1didi00RWF6OThZaTlmSjNDcmJ5aUxfTHpkZnBiQ0RMSlpFWDR0RkVreEU4M2ZSRVpyTWJnODdSRnkwRXl5RUFJdC1FVmdQZGhTVkVvUVlWV1V0NFJwZW9qNjZES1hVWnJiUlhiMXJJMGRBMXBDVUJRLXpTbUlrWg?oc=5",
+      "domain": "fool.com",
+      "seendate": "20261120181902"
+    },
+    {
+      "title": "Nvidia stock extends $2.7 trillion rout as SEC probe reportedly investigates its accounting",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS25iVW9uNHFsc3lYdkNPRTJyTUhYcWRVbjhOZlR4QUpLZGs4RkE0d1lSLTEtN2x6N0ZxZnlZdE9KaTQxeS1TbWRFaGFpd0hGc0ZKWmF5OEVRdnFDX1NNWFlBTl9rdVRUVFlxSVRIelpPNmluWVdUVElhQzh1NWtjemJaUnlhRnJ2N3Q2dDNVYlhVYWtXbkswbXhYLWdiOHE0V1dkQ2xjNjFsTlpEQ0hzRDBja0RqV0VFX0FZaXdKRVZ2RHdGVUUtS2VzanJrTkhiSVcxeGVCRXNlUUhSVWJ3?oc=5",
       "domain": "finance.yahoo.com",
-      "seendate": "20261120T004500Z"
+      "seendate": "20261120213524"
     },
     {
-      "title": "Trump ousts cyber director after tech outages spark criticism",
-      "url": "https://www.yahoo.com/news/articles/white-house-national-cyber-director-222714781.html",
-      "domain": "yahoo.com",
-      "seendate": "20261120T034500Z"
+      "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXNYd3RqZTAwMjhVQ1VGQ2c1ZWpvdHktSlQza05md3N2VGVXSklEQ0xnMndaeEE3MVctMm1ocEotdG9NbEYyZG9YcVJBWW5ONzRnVjNDaXdqaDhianl6OVNVNEFWMWdwQWM5dGlDRlhpci1wY0pLWklFRjFGMFg4VzVlMG0?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261120212140"
     },
     {
-      "title": "Zoom Scheduler and WordPress . com : Bookings on Your Site",
-      "url": "https://wordpress.com/blog/2026/11/19/zoom-scheduler/",
-      "domain": "wordpress.com",
-      "seendate": "20261120T023000Z"
+      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzQ3TXlUbnpfS1pCR3Q5TzRRanAtZnJwcVNzUkRVaXZ0dHhXYTUwM0I0eGNBQkZfMVZfRFQ2Q0dtRDlDcU5rOENuUzQ3ZHhkb0U1bVV3MkpLY2dOZEZONXkyNkRKSVpqSDhGVmp0ZXFuX3ZmN05tbi03RDVWVG5mQUpGUDZ1UHlw?oc=5",
+      "domain": "macrumors.com",
+      "seendate": "20261120230307"
     },
     {
-      "title": "Scientists Are Using the Stuff Inside Oyster Shells to Heal Broken Bones . Here How It Works .",
-      "url": "https://www.vice.com/en/article/scientists-are-using-the-stuff-inside-oyster-shells-to-heal-broken-bones-heres-how-it-works/",
-      "domain": "vice.com",
-      "seendate": "20261120T033000Z"
+      "title": "Google retiring Nest app and Google Assistant on speakers, displays in 2027",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43bFljbGg2WGZXSUVrMzRYMjhhVGdPczM5Z2ZqZUkxdjdBN2xWaTdxQzlQT1VPSWxpYjlvSXMzck5MQy1GT3pFdE1faGZEZzNMdWpvMkRhMzRQeUtxMFdkM1c5c0oyRnJVb0RoZA?oc=5",
+      "domain": "9to5google.com",
+      "seendate": "20261120180000"
     },
     {
-      "title": "The Real Reason Why Americans Are Drinking So Much Less Alcohol",
-      "url": "https://www.vice.com/en/article/the-real-reason-why-americans-are-drinking-so-much-less-alcohol/",
-      "domain": "vice.com",
-      "seendate": "20261120T033000Z"
+      "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Jbjd5NENGb3VaaEpQRTNuNHgyWHFPR2Z3Mm1xU1BOemlpOVNFXzFwbzdCS0liMERjdGVoTXkyc1ZJNElxbjZnWHN0YmxEanRHZmVzUzFWUEdOa28?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261120162918"
     },
     {
-      "title": "Dearborn locals embrace Muslim immigration as another city fears next Dearborn",
-      "url": "https://www.foxnews.com/media/locals-michigan-city-largest-muslim-population-believe-america-should-look-more-like-dearborn",
-      "domain": "foxnews.com",
-      "seendate": "20261120T001500Z"
+      "title": "Robert Pattinson’s Bond Ascent: How Pricey Screen Tests and Amazon Execs Landed a Starry 007",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWkh1dXVwZW1tVFBqZ0NkeEdmOU5wOGp0WngwY0ZGeFhmVnVGZ1lONjNYOEtsU00tS2I5alRlVDg1QTRuZmctNXBINUl6clhlcWZKOFZfT2F3WEFoTmlkOE5iLWNQNUI2ZFBJYXZJT0x5SkY4d1NSNnMxRXZLREN3VzV5aW1TWnRJblBpNmlGSnp5Q0w5RTg4cA?oc=5",
+      "domain": "variety.com",
+      "seendate": "20261120153500"
     },
     {
-      "title": "Sarah Huckabee Sanders recalls spitting incident as Trump press secretary",
-      "url": "https://www.foxnews.com/media/sarah-huckabee-sanders-recalls-jarring-encounter-angry-mom-spat-car",
-      "domain": "foxnews.com",
-      "seendate": "20261120T001500Z"
+      "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1ZlMG5tNllhS3BjYUtiTzdsZmlCMW5VSE5qVUw0SUx6bU1xbmp4V2pKV1BkZ2tua0R6R3NxUGdfcjVmMEJTYTRwNTVFOFVhMllhbTNpSEY3M3ZNUFJZVTQ0QlA1alZwLTJzNnlHYVBYX0RFVng3c0dTVzhPOGF4akNrSTlCc0ppc1lSZEJ6QWJGT3VpWV9rcGtR?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261120215626"
     },
     {
-      "title": "Zelenskyy urges US to organize Russia talks with European participation",
-      "url": "https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough",
-      "domain": "foxnews.com",
-      "seendate": "20261120T001500Z"
+      "title": "Thomas Markle ruled mentally competent to face trial",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVdvaHFabkllLWI1Nm1hczZvT09nZmFQTS1MeWU4M05nbWRQejlKY2taWUJmdS11WTRrM0liLUp0M2poaTlYUm9Bel9kd2wyR2VjTHR2bUU5aGFJMGRCRVRDcHpvLVcydExLZHZYZ1pkWHpzaU9uUzM0Nmc2THphSmtWRmFJbFFJOVhrdkJ2bGVEUXAtcmhJMk01Q0N1UQ?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261120083033"
     },
     {
-      "title": "Bacchanal Buffet at Caesars Palace is closing for renovation until summer 2027",
-      "url": "https://www.foxnews.com/travel/legendary-las-vegas-buffet-close-renovations-after-rumors-swirled-its-demise",
-      "domain": "foxnews.com",
-      "seendate": "20261120T011500Z"
+      "title": "Sir Patrick Stewart’s cause of death confirmed",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHhTNnA5ZGxnMmVqeE5kX0JsSWhRVmQ1V2Y2cFBoR1pNMTZhOTk1RGxYR0UxQXhkZjZId0VNbWRzZ2QycmJFLUhRYzIwaDZqSkFLZU1NakxISGxMQ1JsYjVId2dNX2VrZE8xeUlfcVNQWnc0YWVlQXFzaGQ5aHA4QVJMZEFWNko1bHBMeFVR?oc=5",
+      "domain": "komonews.com",
+      "seendate": "20261120174413"
     },
     {
-      "title": "House panel says Airbus should lose US taxpayer funds over China ties",
-      "url": "https://www.foxnews.com/politics/house-china-panel-calls-cutting-defense-contracts-over-aerospace-ties-beijings-military",
-      "domain": "foxnews.com",
-      "seendate": "20261120T004500Z"
+      "title": "Colts officially place Daniel Jones on waivers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc21Ebk5Kb1QxRVVhUG5SQzRNcUFKRFVvLXlxOGREeUx3cVZWRDlTWF9zUVBkdFM5T3BDVlEtRDBhZjJCTGk2em0yT2YxQlNfU3ZubE9xMnVXb1RjOVFmQWF6QmJnM1NVdmJyelB0RHpRN1Q3T290ZlhZaklESW9fOFY4dHR6ZGRCRFRpUVVXaTNPbjFDMy1rZXpjdnVfXzBaUGtJUTZIN2hoT0lS?oc=5",
+      "domain": "nbcsports.com",
+      "seendate": "20261120220248"
     },
     {
-      "title": "Judge Merryday denies motion to dismiss Trump $15 billion defamation suit",
-      "url": "https://www.foxnews.com/media/trump-clears-hurdle-15-billion-lawsuit-against-new-york-times",
-      "domain": "foxnews.com",
-      "seendate": "20261120T004500Z"
+      "title": "Patriots QB Drake Maye has fractured fibula, sources say",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVE4VUpLa1JRQWU0MDRZYzZDUTNESmpZb3p1NllYUlhDd21EWk5WZ1BicnpQb0JZSU5IRk1jTkhMaVFnaVlGTWtsRk1uOU8tdlRScDVDeFZXdmlCSHVpVm96Mmx0bnZ1RmphT1ctZjVwVGduYTh2UFVGTWdhRFlGNU5SZ25xN3oteFJRaU9ZMmFsb3Q3bWpNUi1KSTY?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261120185800"
     },
     {
-      "title": "Welcome to the Future",
-      "url": "https://radio.foxnews.com/2026/11/20/welcome-to-the-future/",
-      "domain": "radio.foxnews.com",
-      "seendate": "20261120T064500Z"
+      "title": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2NLbEYzMHRIVzQwZFhvc1BIYy0zWmFGYWxOTmh3RWtiekFDSVU3eVdKV3ZmLWNhZWVRdEgzdGMyMmo2VDh3MDVmWEJYUEVvVXNXMlR3VUVxRVhfaUpnd0FkbzlLS2lia093czdyMVFWcjlYeFRGSWI3RzhncDBSWnotMkVCcEItRFF5RjNqeXRrRUEtX1BMdmVLV29Cdw?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261120215800"
     },
     {
-      "title": "Quinnipiac University placed on lockdown as police respond to possible gunman",
-      "url": "https://www.foxnews.com/us/quinnipiac-university-placed-lockdown-police-respond-possible-gunman",
-      "domain": "foxnews.com",
-      "seendate": "20261120T043000Z"
+      "title": "Anxiety Rankings: Tennessee looks to avoid nightmare in Neyland, Big 12 living on the edge",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDh4ei1BRGNnMjNSSzVYSmVYbGE1bE5GektnU2QtRlRKbnZnaDRhSjhjLVowaVlJc0xhWllQVHFHVUNJVUZha195Ulk5MmE3ZzdTVG5OQ2xnTnE5QVlOVWNYQ1poNjMyamlzTjhsMmtiYlBMYzZVbllaenVyazU2ZU5qZ1JSUWpqX2ZsNmNWQnZmX3pIVF9F?oc=5",
+      "domain": "cbssports.com",
+      "seendate": "20261120154600"
     },
     {
-      "title": "Iowa Army Ammunition Plant detonation of lead azide delayed",
-      "url": "https://www.foxnews.com/us/army-delays-controlled-detonation-unstable-bomb-making-chemical-iowa",
-      "domain": "foxnews.com",
-      "seendate": "20261120T033000Z"
+      "title": "BepiColombo spacecraft arriving at Mercury after eight years",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFc1plT0pHdW9mdk5HMHFSUHpXS3FOWUI5WFBEcFNfbW94WkFDcWpITU5PUElRaEtESUFYcmZxRlp4dmZUdG1DaERmZEFjcVNCNXNvekNrbWlRR0k?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261120055956"
     },
     {
-      "title": "Senate advances bipartisan permitting reform bill to speed energy projects",
-      "url": "https://www.foxnews.com/politics/senate-republicans-break-through-washington-gridlock-massive-american-energy-data-center-overhaul",
-      "domain": "foxnews.com",
-      "seendate": "20261120T043000Z"
+      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWhEX0xuSzU0QjN5dE0ycWpxY2NCRnlLU2NwdnptT2EtaGZCblhiRFZWeEJTNk1YWVl5QkZDNVotaWdmY2Q5OVZ6YUlEaklZZ3dEZTEzeWk4LTBweHJKdDBkUkpvMEJxT21pVzVuMGdWcVVVbWpReHFpMEVBV0c4SW95VHk1Ty1CandKV0x3bkVBZFRZcGpsMlBTMXhjNjVnUWJCWm9McVJsdXc3NXBMaWhn?oc=5",
+      "domain": "arstechnica.com",
+      "seendate": "20261120204117"
     },
     {
-      "title": "California Attorney General Rob Bonta opens probe into Nvidia",
-      "url": "https://www.breitbart.com/news/california-attorney-general-rob-bonta-opens-probe-into-nvidia/",
-      "domain": "breitbart.com",
-      "seendate": "20261120T043000Z"
+      "title": "A supermoon is on the way. Why it will be extra impressive",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0lLR3daajU3SEw0ZDVRQnhiUzZCNEhqdDlUdUhfZDRFZE5QQTlXeXlxMTB3c3pQenp0bk56WXQ1OXBEXzNpQTEyb1NLSmxUVkdoQ1ZYNlZ5NkdxTG1wYkxxZzBVRXVIb2UtVE5VdUtiQkZNU0dBNXpMTmZ6TXZIRUJsVkhGLUVJRGRSVnRDX25QNWl6NFVSVnUxRTd6UTdnQ1VnUzdZTHdzaW9McExzNFNB?oc=5",
+      "domain": "freep.com",
+      "seendate": "20261120140500"
     },
     {
-      "title": "Gazans return after Israel army ends rare ground operation",
-      "url": "https://www.breitbart.com/news/gazans-return-after-israel-army-ends-rare-ground-operation/",
-      "domain": "breitbart.com",
-      "seendate": "20261120T043000Z"
+      "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnc4S3dTcWU4TkNqaFdkTTFhR3NLbWpYcUpaazFzRnlpMS1PcllMUXZieWxMa0NHSEhZUjZkQkY2b0lGSEEyQk4yNUFsUUYySzRQUWVOS2VHMkItbjNvNWtGc204T0pYZnZ6RHVTdTN5MTNtdmw5UGxhcDdXNDI2clRRaG1wMnJIaXF5VUxkNW5WLWpTM3ByZXRqNVFpaVdfcUFUSU5NNlNwQ2JQc1VzSFVYbU4?oc=5",
+      "domain": "space.com",
+      "seendate": "20261120174700"
     },
     {
-      "title": "Russian strikes on Kyiv kill one , damage Dutch and Austrian embassies",
-      "url": "https://www.breitbart.com/news/russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies/",
-      "domain": "breitbart.com",
-      "seendate": "20261120T043000Z"
+      "title": "Young child dies of measles, marking first death of year in Virginia, VDH says",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGkzS3ZKd2xkY3FUMHBuNUxMN0dVWllVdG9HWFhqUURyWDZ3OUEycmRDaXJsZUpsMEREY2tfMUdJMU5GM3NjNTFFMl85QVVkTXlURXg4RlgzYWNyTUVXZE5xcXA4SWVPbTA1RlJ1RDNVOTVZbEdXQjhtRFBLMGo1MUs0TjBQNk1OYkI0Z0VzeXl0aGU3Qnl2M1hiem5IQy1vMzBB?oc=5",
+      "domain": "wset.com",
+      "seendate": "20261120215023"
     },
     {
-      "title": "42 Amazing Gifts Under $25 That Spread Joy",
-      "url": "https://www.buzzfeed.com/jenae_sitzes/wonderful-gifts-under-25",
-      "domain": "buzzfeed.com",
-      "seendate": "20261120T063000Z"
+      "title": "Scientists discover a possible marker in the blood of CTE patients",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdzFDemVXMG45U2NfVk11ZjdpOF8xU0VacU5INFlEMjMxaVE1ZEdPQlRzRVYxZlpGWW4yNDl0MkNmUlp1UkYtMGNWcUExTmRLVzBrQm1KRlpJdEFYaHBBQk9zUEpndUk2alZFY2VaS05MVFNGYkRGaVhMMkdaRE5xZk16S19uSXgxRjU5eWs1aGJUYnA4dVBZSVYyQ3BHbGU0c0RMSWRic254cjBpWGdEdExWOA?oc=5",
+      "domain": "seattletimes.com",
+      "seendate": "20261120002150"
     },
     {
-      "title": "Good Characters Who Are Actually Toxic",
-      "url": "https://www.buzzfeed.com/michelelbird/toxic-tv-and-movie-characters",
-      "domain": "buzzfeed.com",
-      "seendate": "20261120T034500Z"
+      "title": "Keto diet slashes liver fat by 67% in just 4 months",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93R1I2ZjdEWnVzU3BNNlo5S3RVR2E3WTF5TlJyQXo5Y09yWWtuOGdWbW5meVVkT0hhb3lYZWhwQWwzSUUyWTJ4Z2NxcnQwZmN4QVhhWFFSX29xeTBpa0ZvNTMyZzJnZEF1YjJUbEk4QQ?oc=5",
+      "domain": "sciencedaily.com",
+      "seendate": "20261120124716"
     },
     {
-      "title": "Jim Cramer sends strong signal to Costco investors",
-      "url": "https://www.aol.com/articles/jim-cramer-sends-strong-signal-011700000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "C . J . Stroud throws for 3 TDs as the Texans roll past the Colts 26 - 3",
-      "url": "https://www.aol.com/articles/c-j-stroud-throws-3-041858000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Ashton Kutcher Calls Anthropic IPO a Manifestation of Trust as Gene Munster Warns Against AI Groupthink",
-      "url": "https://www.aol.com/articles/ashton-kutcher-calls-anthropic-ipo-040629000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Micron CEO Nvidia message comes with warning for 2027",
-      "url": "https://www.aol.com/articles/micron-ceo-nvidia-message-comes-013300000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Will Macy Thanksgiving Day Parade balloons fly this year ? More storms could bring weather trouble to NYC",
-      "url": "https://www.aol.com/articles/macys-thanksgiving-day-parade-balloons-024419000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Michael Burry sees a serious problem Wall Street may be overlooking",
-      "url": "https://www.aol.com/articles/michael-burry-sees-serious-problem-010700000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Knicks fend off the Timberwolves 102 - 99 behind 22 points from Karl - Anthony Towns vs . his former team",
-      "url": "https://www.aol.com/articles/knicks-fend-off-timberwolves-102-035232000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Dow drops below Pam Bondi threshold of 50 , 000 as Nvidia shares slide",
-      "url": "https://www.aol.com/articles/dow-drops-below-pam-bondi-043636000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Nvidia Just Raised Its Supply Commitments to $390 Billion , Mostly for Memory . Micron Is the Memory Stock Id Buy .",
-      "url": "https://www.aol.com/articles/nvidia-just-raised-supply-commitments-042702000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Connor McDavid point streak ends as Lightning shut down Oilers star",
-      "url": "https://www.aol.com/articles/connor-mcdavid-point-streak-ends-033458000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T053000Z"
-    },
-    {
-      "title": "Northwestern State Stephie Salumu collapses on court during game vs . Oklahoma : What we know",
-      "url": "https://www.aol.com/articles/northwestern-states-stephie-salumu-collapses-012503000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Japan core inflation accelerates in October , cementing rate hike expectations",
-      "url": "https://www.aol.com/articles/japans-core-inflation-accelerates-october-234336000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Future Subtropical Storm Kyle could emerge as Atlantic coastal storm puts millions on alert",
-      "url": "https://www.aol.com/articles/future-subtropical-storm-kyle-could-004525000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "South Korea Stock Market Sinks 4 . 6 % as KOSPI Heavyweights SK Hynix and Samsung Fall 6 % After Wall Street AI Selloff",
-      "url": "https://www.aol.com/articles/south-korea-stock-market-sinks-030704000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "People With Elite Music Taste Still Listen To 8 Early 2000s Songs On Repeat",
-      "url": "https://www.aol.com/articles/people-elite-music-taste-still-021502000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "College Volleyball ( 11 / 19 ): Iowa Western advances to national semifinals , Kansas State wins",
-      "url": "https://www.aol.com/article/m/college-volleyball-11-19-iowa-01e7b6a5-6ad2-51e2-8308-1fa1eb07ae97.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Tilray Has More Cash Than Debt and 71 % Growth in Europe . Is This Cannabis Stock a Buy ?",
-      "url": "https://www.aol.com/articles/tilray-more-cash-debt-71-024602000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
-      "url": "https://www.aol.com/articles/men-guilty-assaulting-woman-drugged-150746000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "History Says This Brilliant ETF Could Help You Turn $500 Per Month Into $784 , 100 While Barely Lifting a Finger .",
-      "url": "https://www.aol.com/articles/history-says-brilliant-etf-could-014802000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Hackers access financial data of more than 4 , 000 retired NYC government workers : Report",
-      "url": "https://www.aol.com/articles/hackers-access-financial-data-more-005508000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Disney Just Raised Its Dividend 33 % and Guided to Double - Digit EPS Growth . Here What Its Results Mean for Investors .",
-      "url": "https://www.aol.com/articles/disney-just-raised-dividend-33-020518000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "The Real Reason There Are Luggage Stores In Airports",
-      "url": "https://www.aol.com/articles/real-reason-luggage-stores-airports-004500000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Exclusive - Citi underestimated risky assets by $35 billion after incorrectly recording trades , sources say",
-      "url": "https://www.aol.com/articles/exclusive-citi-incorrectly-booked-trades-233828000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Here Why Anthropic IPO Was a Historic Success",
-      "url": "https://www.aol.com/articles/heres-why-anthropics-ipo-historic-020205000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Dollar near 19 - month peak as AI jitters sap risk appetite",
-      "url": "https://www.aol.com/articles/dollar-near-19-month-peak-014722000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Teen accused of fatally shooting identical twin brother after fight about touching his belongings",
-      "url": "https://www.aol.com/articles/teen-accused-fatally-shooting-identical-233245000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Pasco County couple finally receives $24k tax refund after months of frustration",
-      "url": "https://www.aol.com/articles/pasco-county-couple-finally-receives-012345000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "What are the immediate things people should think about if they are laid off from a job ?",
-      "url": "https://www.aol.com/articles/immediate-things-people-think-laid-020054000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Kentucky National Guard explains how to stay safe during tech outages , cyber attacks",
-      "url": "https://www.aol.com/articles/kentucky-army-national-guard-expert-011531000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Rickety air control : US planes at mercy of system needing billions",
-      "url": "https://www.aol.com/articles/rickety-air-control-us-planes-013642000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "IBM Stock Is Down About 23 % in 2026 . Here Where I Think It Will Be in 2030 .",
-      "url": "https://www.aol.com/articles/ibm-stock-down-23-2026-022401000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "Anthropic IPO turns thousands of tech workers into overnight millionaires , reports say",
-      "url": "https://www.aol.com/articles/anthropic-ipo-turns-thousands-tech-000539000.html",
-      "domain": "aol.com",
-      "seendate": "20261120T034500Z"
-    },
-    {
-      "title": "This week on Sunday Morning ( Nov . 22 ): The Food Issue",
-      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-nov-22-2026-the-food-issue/",
-      "domain": "cbsnews.com",
-      "seendate": "20261119T234500Z"
-    },
-    {
-      "title": "Marine Corps hero under federal investigation",
-      "url": "https://www.cbsnews.com/news/marine-corps-hero-brad-kasal-federal-investigation/",
-      "domain": "cbsnews.com",
-      "seendate": "20261120T033000Z"
-    },
-    {
-      "title": "Senate passes bipartisan permitting reform bill designed to boost energy projects",
-      "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/",
-      "domain": "cbsnews.com",
-      "seendate": "20261120T041500Z"
-    },
-    {
-      "title": "You Can Now Buy The Steam Machine Without a Reservation",
-      "url": "https://www.ign.com/articles/you-can-now-buy-the-steam-machine-without-a-reservation-but-supplies-are-limited",
-      "domain": "ign.com",
-      "seendate": "20261119T233000Z"
-    },
-    {
-      "title": "Crunchyroll Official Black Friday Streaming Deal Is Now Live for 2026",
-      "url": "https://www.ign.com/articles/crunchyroll-black-friday-streaming-deal-2026",
-      "domain": "ign.com",
-      "seendate": "20261119T233000Z"
-    },
-    {
-      "title": "Just Eat Reveals Gaming Controller With an Extra Button Just for Ordering Food",
-      "url": "https://www.ign.com/articles/just-eat-reveals-gaming-controller-with-an-extra-button-just-for-ordering-food",
-      "domain": "ign.com",
-      "seendate": "20261120T004500Z"
-    },
-    {
-      "title": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
-      "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
-      "domain": "ign.com",
-      "seendate": "20261120T004500Z"
-    },
-    {
-      "title": "Apple Reveals Its Black Friday Streaming Deal for 2026",
-      "url": "https://www.ign.com/articles/apple-tv-black-friday-streaming-deal-2026",
-      "domain": "ign.com",
-      "seendate": "20261120T004500Z"
+      "title": "U.S. measles cases are at a 35-year high. Here’s how to protect yourself.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGNoR2JFQ1FlN0pEUXh5Um9sVDVrelhyLVdObHctZnJHUUpGeWpWUU5uWmU1eUdQOXJKNElIRWJLTEFtUDRKY0pYSDN0QmdSR05CblVHUUszc0RBSUNQdEhSbmpFbmwwbHFucmt1aGRnSzgyWUlnd1MzVHRoRnNTbXAxd2RFQkgzWnJsTDFzYXF5Q0ZLSEtTTXNUTFFuSE9Ja1JQYkVTTHJOR1BOSGpBZWpB?oc=5",
+      "domain": "washingtonpost.com",
+      "seendate": "20261120190000"
     }
   ]
 }
