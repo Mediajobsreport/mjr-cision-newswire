@@ -127,6 +127,12 @@
       "text": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "2026-12-05": {
+      "reference": "Psalms 34:8",
+      "text": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
   "passages": {
@@ -255,7 +261,13 @@
       "text": "Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "Psalm 34:8": {
+      "reference": "Psalms 34:8",
+      "text": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
-  "updated": "2026-11-20T14:23:04.028Z"
+  "updated": "2026-11-21T13:42:58.785Z"
 }
