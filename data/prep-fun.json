@@ -23,7 +23,8 @@
         "2026-12-01": "How do bees get to school? They take the buzz.",
         "2026-12-02": "You heard of that new band 1023MB? They're good but they haven't got a gig yet.",
         "2026-12-03": "Why do you go to bed every night? Because the bed won't come to you!",
-        "2026-12-04": "Why did the tomato blush? Because it saw the salad dressing."
+        "2026-12-04": "Why did the tomato blush? Because it saw the salad dressing.",
+        "2026-12-05": "Why was the belt arrested? Because it was holding up a pair of pants."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -81,7 +82,14 @@
         "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
         "I'm not anti-social. I'm just not user friendly.",
         "What do you call a group of musical whales? An orca-stra.",
-        "Did you see they made round bails of hay illegal in Wisconsin? It’s because the cows weren’t getting a square meal."
+        "Did you see they made round bails of hay illegal in Wisconsin? It’s because the cows weren’t getting a square meal.",
+        "How do cows keep up with current events? They watch the moo-s.",
+        "Why did the computer have no money left? Someone cleaned out its cache!",
+        "Have you ever heard of a music group called Cellophane? They mostly wrap.",
+        "Why are mummys scared of vacation? They're afraid to unwind.",
+        "The wedding was so beautiful. even the cake was in tiers.",
+        "How do you catch a squirrel? Climb a tree and act like a nut.",
+        "I decided to sell my vacuum cleaner,. it was just gathering dust!"
       ]
     },
     "would-you-rather": {
@@ -106,7 +114,8 @@
         "2026-12-01": "Would you rather spend a day learning to make cheese or spend a day learning to make cider?",
         "2026-12-02": "Would you rather have a small flat in your favorite city or have a big house in a quiet village?",
         "2026-12-03": "Would you rather have a garden path lined with lavender or have a garden wall covered in roses?",
-        "2026-12-04": "Would you rather watch a film with someone who predicts everything or watch with someone who asks what is happening?"
+        "2026-12-04": "Would you rather watch a film with someone who predicts everything or watch with someone who asks what is happening?",
+        "2026-12-05": "Would you rather have a picnic interrupted by goats or have a barbecue interrupted by ducks?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -167,7 +176,15 @@
         "Would you rather live above your own shop or live beside your own workshop?",
         "Would you rather have to announce every door you enter or have to applaud every meal you finish?",
         "Would you rather have perfect handwriting or have a perfect singing voice?",
-        "Would you rather have a new hobby every year or become an expert in one hobby over ten years?"
+        "Would you rather have a new hobby every year or become an expert in one hobby over ten years?",
+        "Would you rather have a kitchen full of natural light or have a bedroom that is perfectly dark?",
+        "Would you rather have a cupboard full of excellent mugs or have a drawer full of excellent socks?",
+        "Would you rather only drink hot drinks or only drink cold drinks?",
+        "Would you rather take a trip chosen by a friend or choose a trip for a friend?",
+        "Would you rather be the best chess player in your town or be the best cook in your family?",
+        "Would you rather have a computer with no fan noise or have a phone with no notification sounds?",
+        "Would you rather know the history of every building you enter or know the story of every object you hold?",
+        "Would you rather have unlimited olives or have unlimited pickles?"
       ]
     },
     "excuse": {
@@ -1784,7 +1801,14 @@
         "I couldn't leave a crossword with one empty square.",
         "I couldn't tell which of the identical black bags was mine.",
         "I couldn't remember what I'd gone online to look up.",
-        "I needed to buy a light bulb that looked like the old light bulb."
+        "I needed to buy a light bulb that looked like the old light bulb.",
+        "I ran out of clean spoons at a critical moment.",
+        "I had to negotiate with the printer.",
+        "I went to get one thing and found seven other things to do.",
+        "The vending machine owed me something.",
+        "I couldn't bring myself to throw away a really good box.",
+        "I needed to remember what was in the unmarked freezer container.",
+        "I was between snacks."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2542,7 +2566,8 @@
         "2026-12-01": "Sloth bears can delay implantation of a fertilized egg, extending the time between mating and birth.",
         "2026-12-02": "Much of the ice sprayed by Enceladus falls back onto the moon as snow.",
         "2026-12-03": "Curiosity played Happy Birthday using its sample-analysis instrument on the first anniversary of its Mars landing.",
-        "2026-12-04": "Tokay geckos grip surfaces with microscopic filaments on their toes rather than suction cups."
+        "2026-12-04": "Tokay geckos grip surfaces with microscopic filaments on their toes rather than suction cups.",
+        "2026-12-05": "Reflectors left on the Moon let researchers measure its distance by timing returning laser pulses."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2599,7 +2624,14 @@
         "A Japanese white pine trained as a bonsai since 1625 survived Hiroshima and now lives at the U.S. National Arboretum.",
         "Jupiter's neighboring cloud bands often blow in opposite directions.",
         "Red pandas can rotate their ankles to climb down trees headfirst.",
-        "NASA's Stardust mission brought particles from Comet Wild 2 back to Earth in 2006."
+        "NASA's Stardust mission brought particles from Comet Wild 2 back to Earth in 2006.",
+        "The Moon's far side gets sunlight too; it is not permanently dark.",
+        "Wood frogs retain urea during winter, helping their bodies tolerate freezing.",
+        "An April Fools' prank in 1974 used burning tires to make Alaska's Mount Edgecumbe look as if it were erupting.",
+        "Friedrich Miescher isolated DNA in 1869, long before its role in heredity was understood.",
+        "Clouded leopards have the longest canine teeth relative to skull size of any living wild cat.",
+        "Mary Anderson patented a hand-operated windshield cleaner in 1903.",
+        "Elephant shrews are not true shrews; another name for them is sengis."
       ]
     },
     "fortune": {
@@ -7287,5 +7319,5 @@
       }
     }
   },
-  "updated": "2026-11-20T14:11:19.018Z"
+  "updated": "2026-11-21T13:36:48.007Z"
 }
