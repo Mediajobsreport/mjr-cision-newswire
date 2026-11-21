@@ -1,9 +1,96 @@
 {
-  "generated_at": "2026-11-20T20:24:38.926Z",
+  "generated_at": "2026-11-21T01:40:14.659Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
-  "count": 741,
+  "count": 742,
   "releases": [
+    {
+      "company": [
+        "FouAnalytics"
+      ],
+      "date": "20261120T231200+0000",
+      "dateline": "NEW YORK and MUNICH, Nov. 20, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "prncom_prnj",
+        "PRNUS_ONLY",
+        "PRNUS",
+        "PRNUS_NO_ELD"
+      ],
+      "geography": [
+        "NYK",
+        "UNE",
+        "USA",
+        "NAM",
+        "GMY",
+        "WEU",
+        "EUR"
+      ],
+      "industry": [
+        "ADV",
+        "CPR",
+        "AFI"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "FouAnalytics UNLIMITED ",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1965671/FouAnalytics-Unlimited.jpg?id=OA3094824&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS1965671/FouAnalytics-Unlimited.jpg?id=OA3094824&p=publish"
+        }
+      ],
+      "release_id": "20261120DE03914",
+      "status": "PUBLISHED",
+      "subject": [
+        "LIC",
+        "PDT"
+      ],
+      "summary": "<p><i>Advertisers get every impression measured by FouAnalytics, humans and bots both counted, and wasted spend recovered through fraud0 Google Ads refunds</i></p><p><span class=\"legendSpanClass\">NEW YORK and MUNICH </span>, <span class=\"legendSpanClass\">Nov. 20, 2026</span> /PRNewswire/ -- fraud0, the company behind the AI agent for Google Ads refunds, today announced a further partnership with FouAnalytics, the independent analytics platform for digital ads, websites and mobile apps. This partnership builds on the companies' earlier agreement to offer Google Ads refunds to advertisers. It lets fraud0 customers use FouAnalytics impression-level measurement as their digital media governance system, replacing legacy verification vendors such as DoubleVerify and Integral Ad Science (IAS).</p>\n    ",
+      "ticker": [],
+      "title": "fraud0 Partners with FouAnalytics to Offer Impression-Level Digital Media Governance - to Replace DoubleVerify and IAS",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261120DE03914",
+      "body": "\n<p><i>Advertisers get every impression measured by FouAnalytics, humans and bots both counted, and wasted spend recovered through fraud0 Google Ads refunds</i></p><p><span class=\"legendSpanClass\">NEW YORK and MUNICH </span>, <span class=\"legendSpanClass\">Nov. 20, 2026</span> /PRNewswire/ -- fraud0, the company behind the AI agent for Google Ads refunds, today announced a further partnership with FouAnalytics, the independent analytics platform for digital ads, websites and mobile apps. This partnership builds on the companies' earlier agreement to offer Google Ads refunds to advertisers. It lets fraud0 customers use FouAnalytics impression-level measurement as their digital media governance system, replacing legacy verification vendors such as DoubleVerify and Integral Ad Science (IAS).</p>\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                    <img src=\"https://mmx.prnewswire.com/media/MS1965671/FouAnalytics-Unlimited.jpg?id=OA3094824\" title=\"FouAnalytics UNLIMITED \" alt=\"FouAnalytics UNLIMITED \"></img>\n                </p>\n    </div>\n<p>For more than a decade, legacy verification reports have told advertisers that invalid traffic (IVT) was around 1% and that their campaigns were 99% \"<span><span class=\"\" title=\"\">fraud</span></span> free.\" Independent audits have consistently found much higher levels of <span><span class=\"\" title=\"\">fraud</span></span> and waste. Today, even advertisers no longer believe these low IVT numbers from the legacy vendors, and many are looking for an independent way to see what is really happening in their campaigns.</p><p>FouAnalytics was built to give them that view. It measures every ad impression and collects 300 to 500 parameters for each one. The platform is deterministic, not probabilistic. It uses red flags to mark automation and blue flags to mark real human interaction, such as mouse movements, scrolling and touch events. Because it positively measures for humans, not just bots, advertisers have two levers to pull. They can cut off sources of <span><span class=\"\" title=\"\">fraud</span></span> (less red, bots) and shift budget toward sites and apps that reach more real people (more blue, humans). FouAnalytics also detects other forms of waste, like ad stacking, pixel stuffing, made-for-advertising (MFA) sites, ad slot refreshing and forced redirects.</p><p>FouAnalytics in-ad tags fire after the ad has rendered, so they record where the ad actually ran, not just what the bid request claimed. This matters because <span><span class=\"\" title=\"\">fraudulent</span></span> sites routinely put reputable domains in their bid requests to win bids. Log-level data repeats those false domains, which lets <span><span class=\"\" title=\"\">fraud</span></span> and MFA sites disappear from reports. FouAnalytics impression-level data shows where the ads really went. Advertisers can then compare bids won, ads served and ads actually rendered.</p><p>The FouAnalytics dashboard summarizes and labels impression-level data so executives can act on it quickly, without needing data scientists to process billions of rows of log files. If a third of impressions in a month are marked dark red, advertisers know right away which bad sites and apps to add to block lists. Setup takes minutes -- advertisers just copy and paste FouAnalytics in-ad tags into their DSP or ad server.</p><p>FouAnalytics also has cybersecurity built in. Every tag is unique and single-use, and its code is obfuscated, so bad actors can't tamper with measurement or test their bots against detection. The platform is privacy-compliant by design. It never collects personally identifiable information, never sets cookies, and keeps EU data in its Frankfurt data center, and IP addresses are discarded.</p><p>The partnership gives advertisers a complete governance loop. FouAnalytics shows them, impression by impression, where their money went and whether real humans saw their ads. fraud0 then analyzes invalid clicks, bots, billing anomalies, overdelivery and traffic outside targeted regions, then builds the evidence and manages refund claims with Google. Approved refunds are credited back to the advertiser's Google Ads account.</p><p>\"Legacy verification was designed to reassure advertisers, not to protect them,\" said Dr. Augustine Fou, founder and CEO of FouAnalytics. \"FouAnalytics measures every impression so advertisers can 'see Fou themselves' where their ads went and whether humans saw them. Paired with fraud0's refund capabilities, advertisers can now find the waste and get the money back. That is real governance, not transparency theater.\"</p><p>\"We see far too many bot clicks in display campaigns,just like with other types of campaigns,\" said Tilman Pfeiffer, CEO of fraud0. \"Now we can finally give our customers the placement-level data to identify and remove this wasted spend\"</p><p>Advertisers interested in replacing legacy verification with impression-level governance and automated Google Ads refunds can contact fraud0 or FouAnalytics.</p><p><b>About fraud0</b><br></br>fraud0 is a leading bot detection and invalid traffic (IVT) prevention platform, trusted by some of Europe's largest banks, insurance companies, e-commerce businesses, and leading brands. Its privacy-friendly technology helps companies eliminate <span><span class=\"\" title=\"\">fraudulent</span></span> traffic, protect ad spend, and improve marketing performance. More details at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4828650-1&amp;h=3886200771&amp;u=https%3A%2F%2Fwww.fraud0.com%2F&amp;a=%C2%A0www.fraud0.com\" target=\"_blank\" rel=\"nofollow\"> www.fraud0.com</a>.</p><p><b>About FouAnalytics</b><br></br>Created by Dr. Augustine Fou, FouAnalytics is the most trusted, and the only truly independent analytics platform for digital ads, websites, and mobile apps. The platform provides detailed analytical data so practitioners can \"see Fou themselves\"™ why something is \"high humanness,\" and troubleshoot what is not good quality. Today FouAnalytics is used globally by advertisers like Microsoft, Inuvo, Viant, Beiersdorf and Georgia Pacific, independent agencies and every agency holding company on behalf of clients, as well as more than 10,000 SMBs and site owners. More details at<a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4828650-1&amp;h=3273895225&amp;u=http%3A%2F%2Fwww.fouanalytics.com%2F&amp;a=%C2%A0\" target=\"_blank\" rel=\"nofollow\"> </a><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4828650-1&amp;h=733152681&amp;u=http%3A%2F%2Fwww.fouanalytics.com%2F&amp;a=www.fouanalytics.com\" target=\"_blank\" rel=\"nofollow\">www.fouanalytics.com</a>.</p><p><b>Media Contact</b><br></br>Dr. Augustine Fou, CEO, FouAnalytics<br></br><a href=\"mailto:augustine.fou@fouanalytics.com\" target=\"_blank\" rel=\"nofollow\">augustine.fou@fouanalytics.com</a> | (212) 203-7239</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=DE03914&amp;sd=2026-11-20\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/fraud0-partners-with-fouanalytics-to-offer-impression-level-digital-media-governance---to-replace-doubleverify-and-ias-302947408.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/fraud0-partners-with-fouanalytics-to-offer-impression-level-digital-media-governance---to-replace-doubleverify-and-ias-302947408.html</a></p><p>SOURCE FouAnalytics</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=DE03914&amp;Transmission_Id=202611201725PR_NEWS_USPR_____DE03914&amp;DateId=20261120\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "FouAnalytics",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 3,
+          "digital": 5,
+          "engineering": 0,
+          "entertainment": 0,
+          "management": 0,
+          "radio": 0,
+          "television": 0,
+          "podcast": 0,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "advertising": [
+            "summary:advertiser",
+            "industry:ADV"
+          ],
+          "digital": [
+            "digital media"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-21T01:40:15.583Z"
+    },
     {
       "company": [
         "Connected Nation"
