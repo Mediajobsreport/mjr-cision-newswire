@@ -1,367 +1,235 @@
 {
-  "updated": "2026-11-22T01:55:40.563Z",
-  "source": "GDELT",
+  "updated": "2026-11-22T09:12:37.885Z",
+  "source": "Google News RSS fallback",
   "category": "all",
   "articles": [
     {
-      "title": "US House unconstitutionally passed spending bill in 2022 , court rules",
-      "url": "https://www.yahoo.com/news/politics/articles/us-house-unconstitutionally-passed-spending-020234683.html",
-      "domain": "yahoo.com",
-      "seendate": "20261121T123000Z"
+      "title": "Eleven killed in burst of violence during Mexican cartel leader’s capture",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamNOMXJXUnhxN2ZLeTNlekdQelVXYm1Va004b01XWm10MTdsdlRDUTNNeGNhVkx0RXd3NE5SQVo3TGM4ZXNwbkF4SkRfWVpFTmd3djdRajdmcDJwUUE3Y0EzcFk5d0NXbl9WYjJoM3lMVUVYYWF5NXdXVTdwTVFxQzc5ckozZWV2ZTNGcm1nejg0ZDlEMmYwRFNmQmNuOGVUY0RYd1BXc1lMenJEMWd1YWpaaS3SAboBQVVfeXFMT3RBQmVhWmJ0VnIwQzZyaGxhajZYSzhrdXo1dVUteHVILXBucVluQjFXWjRMQ0VnWDJCNzJYLWs0b1Z0N1VYRzd3VDZJbGloV0dGOVowNkVFSER3UlJkelkzaTREaV9tTHVRNll3VEt0a0I1RFNiemFaTDFOTXV5TS1FSUpZWlE1LUh5LTF2MUFDNGw4U0h0VHMwbmhxdjRKMWNTTGR4NzZyMXVUaWRaT0MwbDgzTm1nczNB?oc=5",
+      "domain": "aljazeera.com",
+      "seendate": "20261122034113"
     },
     {
-      "title": "Trump told European leaders they were spending a lot on Ukraine , Zelenskiy says",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-told-european-leaders-were-145057566.html",
-      "domain": "yahoo.com",
-      "seendate": "20261121T163000Z"
+      "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout | Cop31",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1kxQzdNNXpJY0dmendlY1VjSG5EdHUwbmpjTkdCMDgxR3UxWnZOOEs3MEktTW1PakJWOExhMzdEX0wwSVdQS29Rb3lXeVhwRnlvYW1Ia3o3RGJYQkxmejhVTWhxZTRIdmlxQjJFbWVpUHdRTHhZV2ZQaGtFZ1VpdEhOcGhqYjhaOTl2WjJ0OEtqZ2VwbzNOazFMaGRVbTh0bDdIeDlOUkUtZ200VjZJYjdJMlZVaWhpZGUtSEZIRHl1THVy?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261122011534"
     },
     {
-      "title": "San Francisco braces for massive tides . Mayor urges residents to reconsider travel",
-      "url": "https://www.yahoo.com/news/weather-news/articles/san-francisco-braces-massive-tides-223138254.html",
-      "domain": "yahoo.com",
-      "seendate": "20261122T003000Z"
+      "title": "Trump says latest FBI hack could have ‘positive’ impacts",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZkVhWWpyQlZoUFdpcFU0bGgtbmkyN0FISXNRZFhvZ0ROdUc2aGpEUFlScUFtY3F5cEgtNkRHXzBMZUttQ1I0c2RJSVFycF9Zb3cwYUpkc25tcDNjR05xekE4SW9RWXM4Z0FHeHdXYXZBX1pUYS1hRkxTeEVNeVhTcUtUNng?oc=5",
+      "domain": "politico.com",
+      "seendate": "20261121214100"
     },
     {
-      "title": "Virginia reports young child is the state first measles death in 2026",
-      "url": "https://www.yahoo.com/news/us/articles/virginia-reports-young-child-states-220617063.html",
-      "domain": "yahoo.com",
-      "seendate": "20261122T003000Z"
+      "title": "Abdul El-Sayed catches Trump’s attention with pitch for ‘Trumpcare’",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV0JNdklfa1ZNZ3IxMHplQW1YRFFhX2k1NEZRc0djOFc1MHBqSGxyV1NXaGFTWmFDak9XUVgwLWd6X0RzZkVXNTk3Uk4tclRBQW5WcXpjVHJyOWpQM1pJYTV6MDRpRzZ0ZGxRS2ktcGo5UlJOZnh0VU5VeDUxalloalZ3cVRvaXRtTGpnZ09kVXdvb1Fkcjhmb1VVR2g2Q2tDUTNjYnc2SERMMmJIaS1aZVF3?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261122003700"
     },
     {
-      "title": "GitHub - kborer / cells : A living microscope slide in your terminal",
-      "url": "https://github.com/kborer/cells/",
-      "domain": "github.com",
-      "seendate": "20261121T163000Z"
+      "title": "Washington governor, union denounce ICE arrests of travelers at Seattle airport",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSi1Oa2dUSVViZERBQzducWxTUFB5cjd4Sm1HRU0zQ0ZiQUhGWngxTlRmZzJybFo5cjRuMVdEOU80S2xuVGx4ZVdsaFFCTXZ3TkVYM19hcVBIbVViSm4wU2JHWExxYWFVVlFzSkZkUXVLZjdOTml0Qk1lYWdELXFyUGlTeTI3T2lETXVvYzdJVHduT3pnVGZ0MjhUTTBOMlcwYUJxTENWRVJ3aVRTSnJ3Y1FucjdrUTNrMERzekRHZFBkX0U?oc=5",
+      "domain": "reuters.com",
+      "seendate": "20261122033300"
     },
     {
-      "title": "What Time Are Fortnite Treasure Hours Today ? November 21 Start and End Times",
-      "url": "https://www.vice.com/en/article/fortnite-treasure-hours-november-21/",
-      "domain": "vice.com",
-      "seendate": "20261121T133000Z"
+      "title": "Trump Moves to Restrict Congressional Oversight of Contractors",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkR5Sk9sSy1xNFpWVHJ4Vlg2VlJSLThaM21KVlRZUTRYYkd2REJVX29uOGVmb0pCUEtab20zS3NaaGJXMFFETkg3Yk9yNm5lNzhlUlp5VEhGX2tFQ2tYTlB4VmFoTjlkYS1KcHlFN3BMOU1OVV81dFBzTHl3RXhPYUhYMUdKbmJMdnZNdFVGOHFHZ0JhTXJmbQ?oc=5",
+      "domain": "nytimes.com",
+      "seendate": "20261122012953"
     },
     {
-      "title": "Archaeologists Just Figured Out What Childhood Looked Like 15 , 000 Years Ago",
-      "url": "https://www.vice.com/en/article/archaeologists-just-figured-out-what-childhood-looked-like-15000-years-ago/",
-      "domain": "vice.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Man detransitioned after living as woman for 6 years , became Christian",
-      "url": "https://www.foxnews.com/media/deprogrammed-lived-woman-six-years-hit-rock-bottom-found-jesus-detransitioned",
-      "domain": "foxnews.com",
-      "seendate": "20261121T123000Z"
-    },
-    {
-      "title": "Shari Franke urges Utah parole board to keep Ruby Franke in prison",
-      "url": "https://www.foxnews.com/us/utah-mommy-blogger-ruby-franke-daughter-begs-parole-board-not-let-her-out-prison-she-is-monster",
-      "domain": "foxnews.com",
-      "seendate": "20261121T123000Z"
-    },
-    {
-      "title": "SMET CEO Danny Cooper questions ruling out cyberattack in outages",
-      "url": "https://www.foxnews.com/us/swift-assurances-officials-wave-nationwide-outages-raises-questions-expert-says",
-      "domain": "foxnews.com",
-      "seendate": "20261121T123000Z"
-    },
-    {
-      "title": "Genesis AI raises $500 million at $3 . 5 billion valuation for Eno robot",
-      "url": "https://www.foxnews.com/tech/500m-investment-bring-ai-robots-workplace",
-      "domain": "foxnews.com",
-      "seendate": "20261121T123000Z"
-    },
-    {
-      "title": "FBI crime database hacked , sources say , in second cyberattack in months",
-      "url": "https://www.foxnews.com/politics/fbi-probes-second-cyberattack-months-hackers-breach-key-crime-database-sources-say",
-      "domain": "foxnews.com",
-      "seendate": "20261121T163000Z"
-    },
-    {
-      "title": "23 Cringe Things People Exes Did Post - Breakup",
-      "url": "https://www.buzzfeed.com/bellaarnold/post-breakup-embarrassing-ex-stories",
-      "domain": "buzzfeed.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "This Nostalgic Movie Quiz Tests Your Pop Culture IQ",
-      "url": "https://www.buzzfeed.com/syd_mills/fandom-4x4-daily-vol-86",
-      "domain": "buzzfeed.com",
-      "seendate": "20261121T123000Z"
-    },
-    {
-      "title": "Movie Unjumble : Sliver # 58 - November 21 , 2026",
-      "url": "https://www.buzzfeed.com/avalonlustick/sliver-november-21-2026",
-      "domain": "buzzfeed.com",
-      "seendate": "20261121T123000Z"
-    },
-    {
-      "title": "ICE reportedly let hundreds of new recruits do their training virtually",
-      "url": "https://www.aol.com/articles/ice-reportedly-let-hundreds-recruits-182841000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "Owl terrorizes Massachusetts community after multiple aggressive attacks on residents",
-      "url": "https://www.aol.com/articles/owl-terrorizes-massachusetts-community-multiple-170000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "Doja Cat Racy Bodysuit Shows off Her Curves With a Risqué High - Cut Design",
-      "url": "https://www.aol.com/articles/doja-cat-racy-bodysuit-shows-170000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "A Dietitian Shares How Much Protein Men Need Every Day",
-      "url": "https://www.aol.com/articles/dietitian-shares-much-protein-men-170000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "A . J . Ewing , Mets reportedly agree on 8 - year , $95M extension",
-      "url": "https://www.aol.com/articles/j-ewing-mets-reportedly-agree-181708000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "Trump orders federal contractors to check with White House before responding to Congress",
-      "url": "https://www.aol.com/articles/trump-orders-federal-contractors-check-170716000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "The 6 Best Wines at Trader Joe Under $15 , According to Sommeliers",
-      "url": "https://www.aol.com/articles/6-best-wines-trader-joe-160000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "Ben Stiller stopped breathing and passed out during filming for Focker - in - Law",
-      "url": "https://www.aol.com/articles/ben-stiller-stopped-breathing-passed-173323000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "Facing Life in Prison , Man Said Something in Court That Stuck with the Judge , Who Resigned and Became a Friend ( Exclusive )",
-      "url": "https://www.aol.com/articles/facing-life-prison-man-said-183500000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "Wet course conditions move third round of RSM Classic to Sunday",
-      "url": "https://www.aol.com/articles/wet-course-conditions-move-third-183300000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "3 Thanksgiving Dishes You Should Always Wait To Make Until The Big Day",
-      "url": "https://www.aol.com/articles/3-thanksgiving-dishes-always-wait-171000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "If AI Chips Become Commoditized , Nvidia Has the Most to Lose , While These 3 Stocks Are Set to Gain",
-      "url": "https://www.aol.com/articles/ai-chips-become-commoditized-nvidia-113502000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Nvidia Just Issued a Major Warning to AMD and Intel Stock Investors",
-      "url": "https://www.aol.com/articles/nvidia-just-issued-major-warning-121402000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "I lost my $200K job a year ago now I make $20K freelancing and have $150K in savings . How do I survive without draining my assets ?",
-      "url": "https://www.aol.com/articles/lost-200k-job-ago-now-113000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "6 Household Items You Should Sell Instead of Giving Away for Free",
-      "url": "https://www.aol.com/articles/6-household-items-better-off-133007000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Is Carrying a Small Credit Card Balance Ever Actually a Good Strategy ?",
-      "url": "https://www.aol.com/articles/carrying-small-credit-card-balance-122050000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Zcash Just Dropped Below $1 , 000 for the First Time Since September . Is This a Buy - the - Dip Opportunity ?",
-      "url": "https://www.aol.com/articles/zcash-just-dropped-below-1-112302000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "62 % of Thanksgiving hosts say they may need to borrow to cover the big day . Is inflation gobbling up your nest egg ?",
-      "url": "https://www.aol.com/articles/62-thanksgiving-hosts-may-borrow-114500000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "What Is Net Interest Margin ? 2 Bank Stocks Where It Rising",
-      "url": "https://www.aol.com/articles/net-interest-margin-2-bank-112002000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Here How Many Shares of Starbucks Youd Need to Cover $744 in Coffee Using Dividends Alone",
-      "url": "https://www.aol.com/articles/heres-many-shares-starbucks-d-130002000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "A Historic El Niño Has Arrived . Here What it Means for US Prices",
-      "url": "https://www.aol.com/articles/historic-el-ni-o-arrived-123009000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Quantum - Proof Accounts Are Coming to the XRP Blockchain by 2028 . That Not Likely to Be a Game Changer for XRP .",
-      "url": "https://www.aol.com/articles/quantum-proof-accounts-coming-xrp-122502000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "How much Taylor Swift owes in pied - à - terre tax",
-      "url": "https://www.aol.com/articles/much-taylor-swift-owes-pied-110001000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Here What Happens When You Put Personal Spending on a Business Credit Card",
-      "url": "https://www.aol.com/articles/heres-happens-put-personal-spending-125047000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "A six - figure middle manager job no desk or suit required",
-      "url": "https://www.aol.com/articles/six-figure-middle-manager-job-104901000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Is Markel Group Stock a Buy After Falling 10 % in 2026 ?",
-      "url": "https://www.aol.com/articles/markel-group-stock-buy-falling-120502000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Leaving The Villages Could Cost Retirees Thousands - Here Why",
-      "url": "https://www.aol.com/articles/leaving-villages-could-cost-retirees-110000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Is Bank of America Stock a Buy at 25 % Below Its 52 - Week High ?",
-      "url": "https://www.aol.com/articles/bank-america-stock-buy-25-122002000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Greg Abel Just Approved a Record $9 . 6 Billion in Stock Buybacks for Berkshire Hathaway Last Quarter , More Than Double the Pace Set in the Second Quarter . Is Berkshire Still a Buy as Shares Sit Near All - Time Highs ?",
-      "url": "https://www.aol.com/articles/greg-abel-just-approved-record-123502000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "I quit my career at 63 because I was burned out . Now , Im focusing on my soft retirement .",
-      "url": "https://www.aol.com/articles/quit-career-63-because-burned-111701000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Sessions offer advice on rising energy costs",
-      "url": "https://www.aol.com/articles/sessions-offer-advice-rising-energy-120953000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Nvidia longest losing streak since 2008 ; Anthropic record IPO fizzles",
-      "url": "https://www.aol.com/articles/nvidia-longest-losing-streak-since-110732000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Dave Ramsey 401 ( k ) Rules Are Hard to Swallow if Youre in Your 60s",
-      "url": "https://www.aol.com/articles/dave-ramsey-401-k-rules-110000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Deductible - Maxxing Could Save You Hundreds on Health Care Before the End of the Year Here How",
-      "url": "https://www.aol.com/articles/deductible-maxxing-could-save-hundreds-130000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Kevin OLeary Blunt Warning for Retirees About These Costly Money Traps",
-      "url": "https://www.aol.com/articles/kevin-olearys-blunt-warning-retirees-112800000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Collecting Social Security early cost him $5 , 000 a year : My prospects werent very good . The pros and cons of claiming before your time",
-      "url": "https://www.aol.com/articles/collecting-social-security-early-cost-110000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Warren Buffett is closing out his career in classic style",
-      "url": "https://www.aol.com/articles/warren-buffett-closing-career-classic-104801000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Is This 6 %- Yielding Dividend Stock a Bargain or a Trap ? Its Payout Eats Up About 90 % of Cash Flow .",
-      "url": "https://www.aol.com/articles/6-yielding-dividend-stock-bargain-125002000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Youre Probably Saving Money the Hard Way Here Are 3 Lazy Alternatives",
-      "url": "https://www.aol.com/articles/youre-probably-saving-money-hard-123016000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Prediction : This International ETF Will Double Your Money in the Next 7 Years",
-      "url": "https://www.aol.com/articles/prediction-international-etf-double-money-110902000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T133000Z"
-    },
-    {
-      "title": "Simone Biles Reveals the Surprisingly Relatable Story Behind Her Stylish Game - Day Outfit",
-      "url": "https://www.aol.com/articles/simone-biles-reveals-surprisingly-relatable-140000000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
-    },
-    {
-      "title": "Robert De Niro recalls A - list actress making him leave rehearsal dinner",
-      "url": "https://www.aol.com/articles/robert-niro-recalls-list-actress-174856000.html",
-      "domain": "aol.com",
-      "seendate": "20261121T203000Z"
+      "title": "USDA Quietly Releases Bigfoot Files, Included Cases in the Pacific Northwest",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXRJMnAtaU05b1Bpdkl1T1E3ckQteVdUZmI2cEIxdHVubTRxOTFoaFp3UU05YXhGa21EempIYzdDSnJjTGRvaFcyQmdhcjR1dTliNDh3dVJ5azM4TTNSanlSTUJMVFBjbUNKUER6UWRyeEpDNFMwdmdfYzRzZXdKbmxfbVpETEdsQURvZXJnd1JlU3NSZ2RtSENzVm83N3pUeFNkMFBZYThQbzM5ZVE?oc=5",
+      "domain": "ktvz.com",
+      "seendate": "20261122001458"
     },
     {
       "title": "Princeton University student detained by ICE at Reagan Airport after conference",
-      "url": "https://www.cbsnews.com/news/princeton-student-ice/",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HUVBBVWJjMmtDMW8tMlotRFplSVpFMWFpSHo2Yl8yb2lZLVZONDVSM3U4S0xYTTBfT205bTBGYzZMbk4yRUIyR2ZyYU01VEdHUGdwakxPdzZsMGpSbnRXb0xXOVdGZ3FPbUwyV0RnenplUQ?oc=5",
       "domain": "cbsnews.com",
-      "seendate": "20261122T003000Z"
+      "seendate": "20261121225000"
     },
     {
-      "title": "COP31 climate summit risks failure as talks go deep into overtime",
-      "url": "https://www.cnbc.com/2026/11/21/cop31-climate-summit-risks-failure-as-talks-go-deep-into-overtime.html",
-      "domain": "cnbc.com",
-      "seendate": "20261122T003000Z"
+      "title": "Two New Jersey women indicted over alleged false claims of violent attack",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUllxRDFtbnhkTmZzblN4Skw5bzdDNkpDZnlaYW8zUldXSHV4bWIwT1I5YmdmMy1wQ1oxY3h1ZmJvbFhDYl9ybjZIVzRDZFZPV25adG9xYVk4OEV6aGM0R0NieUk0THZUeUR2b3hDTVNjWjZQbUdlMUpHajgydjNtXzVBSQ?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261121234600"
     },
     {
-      "title": "Crypto Senate Ally Ruben Gallego Says the Industry Is F * cked After Blue Wave",
-      "url": "https://gizmodo.com/crypto-senate-ally-ruben-gallego-says-the-industry-is-fcked-after-blue-wave-2000843344",
-      "domain": "gizmodo.com",
-      "seendate": "20261121T163000Z"
+      "title": "SFO will flood next week from huge tides, federal expert says",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWNmTDdHMUF2Q2ZseHZkdVh1amw5akh4dDZRRHpSVXNmUmROTUZkMngxaGZfcndDZU1BUXJnbEJxU2ZadkVRUjlnQ1FrZ21GX3FBNUJyS3dDYWw2dW1CRktQSXBOUkI5UWExbktVODc1cjNVSWlIOTQ0RlFNTmd4Z2xYdUExWmxV?oc=5",
+      "domain": "sfchronicle.com",
+      "seendate": "20261122025047"
+    },
+    {
+      "title": "Ukraine war briefing: Russian cargo ship hit by drone in Baltic Sea as Finland PM says conflict ‘spilling over’",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLXpOdWlXckdpLXNuT053QVpxMFlxNkVKbjRtY29vam5PSEgtdWw5VkI3T19HWkg0eGE2MUxrTUdkSlg0WGN1Z19NOHhQSDh2YVlmMHZoOTQ1UmFFQ2tqYkVrU0p2aGsxNkdydlVYOVJzTUFkVm5xcEJGMUt2ZGEwaDFzLXoxMkVibnZMcUx1MUhIZUJtS2MzTnNBbTl0Z0tfSkdoUWVaZ0V5VktzMU9OZEcweEZ2Y00xeFJDNmh2Yzg0QndsUm9NRklNWDVLSkJuU0thMnFCZmdPV2x4S0ZLdmtybVBRM3FGOHc?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261122021900"
+    },
+    {
+      "title": "Athlete swims Strait of Hormuz to raise awareness of Iran war's toll on wildlife",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzJ5Mkk0bVR3U0FIeVVxV0xfNVJSSVVGbE0xMmlEdGFmUE02bXV3TDRsZlVMZ080Ump0eFpnNjJkcHRpUmItSWN6V2x0YV9CODRSV0JKSWZHZEttMlhpazkwMTZCOW05d3RwbnpkTUV6NDg2QlU1RzFtbkM3TUk2SExmemU?oc=5",
+      "domain": "cbsnews.com",
+      "seendate": "20261122013053"
+    },
+    {
+      "title": "Andy Burnham: UK to explore even closer ties with EU after agreeing deal",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvbm8yWXlEX0ptd3ZoMTJucC1aNngzYURyTEYxM3RyOGRHRmpSTkxKM3Q0aEozTzVINTM4WEJNb3JUbmlhQlEteFFxS3lOYjZZckd5SE1xNDZkZms?oc=5",
+      "domain": "bbc.com",
+      "seendate": "20261120174948"
+    },
+    {
+      "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWm1waHdJRVp4M2dKRlhKSHRHQmpEOFZZdGJRRndnR3ZXb0pmc1d6cUNmZWcwX3VwTHBzY1VMVmh3RDJBNVYtV2tDV1pDX25kNFhMWlE4a3N0RVpIMV80alNzRl9VQ0NMNF81UzVXTUJWVk1ZSmkwSFZDOHFNNHBLZ2RlNWloalpTOWs5UXFVQWJqenE4RGFXLWZRN1JlS1l6MnJlWQ?oc=5",
+      "domain": "reuters.com",
+      "seendate": "20261121091254"
+    },
+    {
+      "title": "Anthropic IPO signals ‘beginning of a gold rush’ for small businesses, biz tech CEO says",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjVQWHNJMWw0Y21HYTVDN0lhX0ZYQS1FdzFCLV9nbVRzS09jNFN5UXRaanhHM2tXbGJkVGtlZVdMMnlTa2RTR29MUU1KbXVkekg1X19VeU5ISGJCbG9FRU5nSkNrZG1MWFJBaVZWY3pGUm5vUmZUWl96aWl6TVNDcUFCOXFxRmlYTFhRLTlqdTQ2S2FWTjJ4RWNBbnlVS2dtemlUSF9nOVlpZFpONElOdUhB0gG3AUFVX3lxTFBNVVBhQ1VSV2VIc0Z5OTJfSU1FUmc2UVFZNDJPX19TSjgteXV4QWxmbDZQWGQwa0M3S0tLUTY1V3ZTRXhUTmVNLTNBSk15QTRuQ1ZzSDY5VkFVT3laUl9XemZJVWZBVG9TU21UaW1US3JvWGZ3dGpiakppUDJobkQ2NW5lVGxEZUdCTlBnaGhEVWNvRE43ZTEySTBZaDJ6VzFuY08xN2FJRkFWUzI1Rkg0eEljUHl0OA?oc=5",
+      "domain": "foxbusiness.com",
+      "seendate": "20261121175421"
+    },
+    {
+      "title": "What smart people are saying about the market sell-off ripping through tech and AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ?oc=5",
+      "domain": "businessinsider.com",
+      "seendate": "20261121172300"
+    },
+    {
+      "title": "Powerball winning numbers for Nov. 21: $114M jackpot",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ2hoQzlEQm5wMDZJSzJXNnhReVFyRmFUTFBObWp0QnhPUVJIa0NORFlmZkpxUkh0NFduYzZsbGcyeXlPVS1hMlFVa0U5TzVzb19BeU1Na1pjQkE0YXY5aTFGTW1CS0EwXzg2LUZzNEw5UkRxazBWWm1NZWFDdG9TeUNQVzZDOHRIWnBrN1pCUHNyTjV0c2tUVFplVWthaDdfR2tJWXhmTDJxb1RLVzdZSg?oc=5",
+      "domain": "usatoday.com",
+      "seendate": "20261122041400"
+    },
+    {
+      "title": "Nvidia faces US accounting probe amid deepening turmoil: media",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkpvTmdpdzNUMVVjZEJXbVdIYXlheTM1ZmpMRl9LdkQ1YjV1VXYtNUxGSTlHZWpzLWhfTFVnR2h0b0NMNGlsTWhOYXpYRVYyR0ZkTmJNRkh2MXAycU5Nd0pKNy1QbG92UGg1TXd0SGx4S1R6UXNDek1fTTFpZnR1VEVfaE9Na0hOYjlBUGlfUC1jTGFCS195ek1ZNjc?oc=5",
+      "domain": "finance.yahoo.com",
+      "seendate": "20261121215354"
+    },
+    {
+      "title": "These iPhone Customizations Can Make Your Lock Screen Look Cooler",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrcXVEQVZXZTFub1hZbW9LM1dXRVhqYVhzWm5FaG1zLWh4UTdsajNaa2RBOGVVSTVDdTF3eFFyeFllV09NSE55Y2M3aFRpdmNWdmxJdmE3aW9kWFZDVUFFOVNlZ2JpSGRjaVI5WkVnZUNHTEhqVjM0d0Zmc202eWs?oc=5",
+      "domain": "bgr.com",
+      "seendate": "20261122034700"
+    },
+    {
+      "title": "Grand Theft Auto VI shatters entertainment records with staggering $3.79B debut",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN241czJCWFM1TGtvSm1LbGctd2k5N1BwZTIyNXFZN2JHcEVycE96M1RtZlJvQjRHZFlfMkQ5dkh1MXotWGI0U0pnV1d5aVZvdmZXMnBEVjdxNGF3TjQyNEVBTHUySWI0OUJGTU41Qy1GbGVOQVphcmNSYW1qSkx5bTBxMmVzWVVGa3VkTTF5NUl3aldrWmowODR3T0JkNnlDZVM3bk1SWnJPQS1nb0dyQWlFWUtfZ9IBuwFBVV95cUxPNnJxaDlrbkZ4SlBDV2p0ekZkQjVBUWVpOHVzSkp4ZUZIQ1dEMTEzd055YmVFNk1DclFNZzRxUWNmMkRKYzFraGc4WU9RRGVGcWdJcWRYTTVMVVJ5SVh4LTJqZlRkQzBRSGtXVmFZYnZBbXdKMU5RbmlxOXBqOEhiZ0ROYkgxbGZ6Nlk5Mk5QSm5Ld0RGS2M1RUZoZkxkVVBLcmg4SHQ2OUYwT2d5NE5BQmYzNWYtaXc4aHAw?oc=5",
+      "domain": "foxbusiness.com",
+      "seendate": "20261121075958"
+    },
+    {
+      "title": "Miami Fan's GTA 6 Sign About Lucia Goes Viral in Trending Photo from ESPN College GameDay",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMURIZzFLbHdmUjJTVHBHcmxaQUcwWENlMXdacUVSVmZjWmx4TGsyV1BDeklUaWRKLVNEMHJHNjdLODdXczVlb0gwTHJfWm5Bb2JiYkVQcVpDMDZCS3pfdkZPMGt5VzBXdkNSM3MteXFHa1U2LTNvLU1NenQyb05valZXOGo0UWF6Mm9CTWwyOF82dXM3bS01VDdwcXhZV0ZIQ2ZMLVJFbTNUeTBLcEtGUldjRWhDUGFCOVhtdlJRZ3g4ajQ?oc=5",
+      "domain": "bleacherreport.com",
+      "seendate": "20261121170432"
+    },
+    {
+      "title": "This AirPods Pro 3 deal is the one to grab before Black Friday",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWGNkX1JpbW1Bbk5sbmh2N21UbFAxMmNMeXZreTBlM0pPXzNLZklRd3lBaE9yWTJlNTQ0M0QyM2ZFdTdQRS1wS3NwYWNDMFpIUDBxa2JyemQ2c3FTaDJYRUlkVmd5MmhzT0xmMllXWmhtQlJleHN4MFNkRkhTV3V1Vnh1NWtvUnVEaHFqRHlmWQ?oc=5",
+      "domain": "nbcnews.com",
+      "seendate": "20261121120040"
+    },
+    {
+      "title": "Miley Cyrus and Maxx Morando Are Married",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFpHXzJ4WmZDcXY2X1EyM2MyX2s2SzRoeXNrSC1lZUw1eExsOF94cVRTS1RwcHFEYWd6aXg3VGJCTnNmQ0RkTjZsT1Z1Q01PZ3ZYWDVRamZ2SGYxcWJuVURFVmE4MWQyc0Q5dzlVbmdVNlFJUzVzcndrWE1DM09ERFpaMFI4cmRyQjJuOU43QkNObWFaT3FIei1UakMyampydVY1cThB?oc=5",
+      "domain": "hollywoodreporter.com",
+      "seendate": "20261122010813"
+    },
+    {
+      "title": "\"The Hunger Games: Sunrise on the Reaping\" opened to $56 million.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjV1WU02bzM3RXprY1AyeHVFc2JPWjBRM0NEODBXdFFIeXI3XzYyRW9rVk90SVpFQ1lzS2g0NTZQR0NqTG83VzU0U0FIN054NmlGcWlmbTlpYmV4TlVSR04tQzFEdVQ4VV9NUXBlMXN3a19HZ21mWnJRMm5YRi0yX29iTDdBUnBtazNTY0xKQ0pPdU9zQk00aXllVXBoMnl0QVpmRGl0Q3NhUVM4NE9jTA?oc=5",
+      "domain": "variety.com",
+      "seendate": "20261121164200"
+    },
+    {
+      "title": "Batman To Be Recast After Robert Pattinson Early Exit (Report)",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ySlV0ekk2ZDhyT1ZOdXJJNnROYkFjSGVxR1Q3OUdUamlpSHk3N3FTN2RvOU1Fc1NRR2NjbHR3Rnc0Z2k3YjRxcmVhYw?oc=5",
+      "domain": "cosmicbook.news",
+      "seendate": "20261121211238"
+    },
+    {
+      "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85OS1rb3RuN3M1WEd1ZFJTbDJDSzY2YTBwTm9Cb0lZVmdwQ2RQcUxHNXBIWnM1VVQ5eGNwNWtOUF9GUVhuYm9nbGVHTzV1a3ByajhPdUptemJSTEZWcFVKYXRIcGJWbFBwV0hNdzU3RDFMX1hYV2hMWkpTRGlOaW8?oc=5",
+      "domain": "theguardian.com",
+      "seendate": "20261122020600"
+    },
+    {
+      "title": "Lane Kiffin credits Neyland Stadium crowd as 'loudest' he has heard on road",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNFUtdXN5VFZRN3BRQnBKbWlHTmt1a2YwT1NfZDB3a3NVM1FycGtteFoySEJodEFLN1pnbXM4WWVGdkpyNTIxdUJZYzZNY2N4ZnRvWkJhbko2dEVJUmF6aU1ZSlpPUTRVQmtaT2hBTjdteTJmLXREUTJ0dXhDaXJXRzZwYjNCMDM2S2lVc2NjczM4eWVmNGFNcUZHWm5HUDlseW1yRjFVZkFia1M2MWc3XzhscnJWSmpoNGlvbURDTFU2Yk5NZEVnY2VSNF8tRXNPbmk2QmE1eG9wSjlxSGlodmlBSjJLUQ?oc=5",
+      "domain": "247sports.com",
+      "seendate": "20261122034448"
+    },
+    {
+      "title": "Kansas City Current finally breaks NWSL Championship drought",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObVJyaENJd21iakdnX1pkRlFvYVdYYWhoRTl0bGszVjNxTnVlVEhDc1pRZDBFQ1ZGd09iLW42TWhVRVo5MndpRVc3b1FFZjZIQ1VCQ1Nkb08zYkJxOHFsWUhOd2RSN0pJYmxrZmpzLTVpRUhTTk1ZTjB2MkNmSlA3QXVfeDY2VkhNSXBBWV85RG1iV0lvN0tGSnBtU0pLX1VLLXc?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261122035700"
+    },
+    {
+      "title": "Tomorrow's Top 25 Today: Ohio State, Indiana, UCLA fall in college football rankings amid Big Ten chaos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2lObU9rZmZ3WDhzRFZwbElHakF6LU9fYW1YZVBQYWZTeVFLX0ZCbWVDaVRmbVJJTDBaM2llc1J3TjUzYmlDTlpEa3dJclFYd0NFSDRmYmdMVHVlZDljcndwNURJNnRXNUlIdUp0M0RYN1E0bk1NSTg5YlAyLUE5XzNqbnljRlVvVC12aUctd2RPckpGOVNXZWprc0d5TmNHbERKQ3dKQQ?oc=5",
+      "domain": "cbssports.com",
+      "seendate": "20261122043900"
+    },
+    {
+      "title": "UFC Qatar results: Navajo Stirling detonates Jiri Prochazka with monster statement KO",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDZsTkdLSEU4SFFtZy1uQUhER1FPNklGWmM3TWpjVk0waTlKOHRnRDk4WFZZZENhMS1sOVdkOGxtMkZ6WHlQbHRDY3J0US03VExlSTdTWkMyU2dRcHV3aWladVNQMjFKMXdndVJKZVRDYjVsYV85LWY5UzAwTVNFOTJ0OU5NMndfcDNVTlFVYXNWNGRoYVcwNExZc2lEb3J4dm9fYTM1NzlrYnR5ZlBrUjFrbk0xWno4cjBxOEpmbXhINE8xYldYXzRFS2FnMlRUbGJ3eQ?oc=5",
+      "domain": "sports.yahoo.com",
+      "seendate": "20261121214904"
+    },
+    {
+      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QjJ2YUJJRUpaNkVLXzNvZnNJT3p0YnlSTU4yY0tabm1BVExWTnRBSC1XTUo0bmV0aTFWdFpFYVowVGc1TENTQXgxeHJOcjNCb2MzcW5OekxEajhqNGtF?oc=5",
+      "domain": "nature.com",
+      "seendate": "20261122022915"
+    },
+    {
+      "title": "SpaceX Dragon cargo capsule returns to Earth from the ISS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVnc4S3dTcWU4TkNqaFdkTTFhR3NLbWpYcUpaazFzRnlpMS1PcllMUXZieWxMa0NHSEhZUjZkQkY2b0lGSEEyQk4yNUFsUUYySzRQUWVOS2VHMkItbjNvNWtGc204T0pYZnZ6RHVTdTN5MTNtdmw5UGxhcDdXNDI2clRRaG1wMnJIaXF5VUxkNW5WLWpTM3ByZXRqNVFpaVdfcUFUSU5NNlNwQ2JQc1VzSFVYbU4?oc=5",
+      "domain": "space.com",
+      "seendate": "20261122021817"
+    },
+    {
+      "title": "Voyager 1 hit one light day but isn't sending home any data right now",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRzNfZ1BhYkJTeG5vM002UFBGZXBtSUxGUV9aSkh5RFNjSzNkUWdSd2o4Q3pJRFBsVEZ6dFBaaVBSdXc0YTROXzZDQ2F4aTR2RVdOaUx4c09uSVBicGY3VEp6TnFYUVFXOGhUQVhVMlRDX19ySXJVaDNNVFE4RldXeXBJeU1QRnhsQTdTLQ?oc=5",
+      "domain": "mashable.com",
+      "seendate": "20261122082522"
+    },
+    {
+      "title": "Supermoon could worsen king tide flooding before Thanksgiving",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTlJNS1FVDRkZW5DbDhtOXJ5Q25taWpRVkoxUU5VNTRqR3dQQjlrR3o5Mm01cElUNjFVcUFMMEJlcjU0VXBpWTBUZ0ItUEFjWXg0enE0dlJFcU93T3pVOWZ6R0dhRUVTdXVWc0hOMEo0M3dfZ3F5RmNxTnRMSENlMlhmaXVBTDVMM29vNEZ3?oc=5",
+      "domain": "accuweather.com",
+      "seendate": "20261120181203"
+    },
+    {
+      "title": "Virginia reports young child is the state’s first measles death in 2026",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSk9HQklCN2x4dXV0OXM4eEtFTDdiSTlveWhiSTNYa1dPVEFTU1k3UG5fbF9pLXBrUlNDNE51QWM3YWtGWnBNWFUwU1V6RHQwemxSVnp1VU12MXkxdVQwcU9scTFNcDNNbTQ5T2ZwT2xWNHAxeVJMQ1lEQzVDS1VVSWdRMlR0U2Z3bTRvYk5EWnA?oc=5",
+      "domain": "apnews.com",
+      "seendate": "20261121220700"
+    },
+    {
+      "title": "Map: Measles cases in each U.S. state",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJTGFIRzc4akdjV1ZiTi1ickJvMjNKX1pzc2VENndYd0MwSmFxaTlEYW9HOVBfcTFBYWdrZGlUYmEwaGowQ1Z5ZXNEcWxwOFBMSFAwallBLXJSRTRlUFdEWndLR0t4OGlza2RWVDgyc3lkTG5uNEZhRjJQYnZsZVU?oc=5",
+      "domain": "axios.com",
+      "seendate": "20261121182732"
+    },
+    {
+      "title": "Studies: Blood test has potential to detect CTE in the living",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVA0Nlh5TUlBZk1ndGtJSm5CM1lzQW1xc0tWMVRkQXJNNGpWQ3oxbmZsQU5PYUY0UW9qQWM5c2gwaUhMUVlJOHg3RndhelY3ODlndlg5NS03Rm9kMVN4eTBpSmVSRXJaUTBVNTc2cXBuZElEMkRsUkxOdGtKZTltVWdfS0RkYzFnQ2ZzNkVHQWZiX25Fdmc?oc=5",
+      "domain": "espn.com",
+      "seendate": "20261119185000"
+    },
+    {
+      "title": "New pancreatic cancer drug stops tumor growth: Study",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNEU1WUljbVoySEdNdXJFSWJzZjJyM2ZUeGpiLTE1TEUtWnpsS09UT19Pakt4U2JXZ2lhZ253UVFMTVJLMmRWQTByU0pYYTNuaHhSVERISHRQM0dLNXlzV09obmNkaGpRUzdGVzVybFJfRE54bW4wSldFMlRrNTN1aXo1ZWd1QdIBiwFBVV95cUxOb2g1TUpDajZTWUJVWDl0ZktDZmFuYjhTNFBTSnZkWVctMnhYVnR5SUdjT0ZSTk41aUhhN0Fha0lVaHdJSWJTX2lpeTU5WUdsRUY1eHhfN3lQSk80dFFFeXlEd01hODdDLUVHQmFGbVhudjh6dVcwVVVKSEhfczIxOVdKMWhKNE9KRzdV?oc=5",
+      "domain": "newsnationnow.com",
+      "seendate": "20261122024915"
     }
   ]
 }
