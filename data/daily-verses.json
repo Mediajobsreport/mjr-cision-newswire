@@ -133,6 +133,12 @@
       "text": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "2026-12-06": {
+      "reference": "Ephesians 4:32",
+      "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
   "passages": {
@@ -267,7 +273,13 @@
       "text": "Oh taste and see that Yahweh is good. Blessed is the man who takes refuge in him.",
       "translation": "World English Bible",
       "translation_id": "web"
+    },
+    "Ephesians 4:32": {
+      "reference": "Ephesians 4:32",
+      "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.",
+      "translation": "World English Bible",
+      "translation_id": "web"
     }
   },
-  "updated": "2026-11-21T13:42:58.785Z"
+  "updated": "2026-11-22T13:36:47.370Z"
 }
