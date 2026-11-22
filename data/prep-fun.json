@@ -24,7 +24,8 @@
         "2026-12-02": "You heard of that new band 1023MB? They're good but they haven't got a gig yet.",
         "2026-12-03": "Why do you go to bed every night? Because the bed won't come to you!",
         "2026-12-04": "Why did the tomato blush? Because it saw the salad dressing.",
-        "2026-12-05": "Why was the belt arrested? Because it was holding up a pair of pants."
+        "2026-12-05": "Why was the belt arrested? Because it was holding up a pair of pants.",
+        "2026-12-06": "What do you call someone with no body and no nose? Nobody knows."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -89,7 +90,14 @@
         "Why are mummys scared of vacation? They're afraid to unwind.",
         "The wedding was so beautiful. even the cake was in tiers.",
         "How do you catch a squirrel? Climb a tree and act like a nut.",
-        "I decided to sell my vacuum cleaner,. it was just gathering dust!"
+        "I decided to sell my vacuum cleaner,. it was just gathering dust!",
+        "I used to be addicted to the hokey pokey. but I turned myself around.",
+        "How do you organize a space party? You planet.",
+        "Why don’t sharks like fast food? Because they can’t catch it.",
+        "What's the difference between a computer salesman and a used-car salesman? The used-car salesman KNOWS when he's lying.",
+        "Why don’t seagulls fly over the bay? Because then they’d be bagels.",
+        "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
+        "Why did the horse go behind the tree? To change its jockeys."
       ]
     },
     "would-you-rather": {
@@ -115,7 +123,8 @@
         "2026-12-02": "Would you rather have a small flat in your favorite city or have a big house in a quiet village?",
         "2026-12-03": "Would you rather have a garden path lined with lavender or have a garden wall covered in roses?",
         "2026-12-04": "Would you rather watch a film with someone who predicts everything or watch with someone who asks what is happening?",
-        "2026-12-05": "Would you rather have a picnic interrupted by goats or have a barbecue interrupted by ducks?"
+        "2026-12-05": "Would you rather have a picnic interrupted by goats or have a barbecue interrupted by ducks?",
+        "2026-12-06": "Would you rather live somewhere where it snows every December or live somewhere where you can swim every December?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -184,7 +193,14 @@
         "Would you rather be the best chess player in your town or be the best cook in your family?",
         "Would you rather have a computer with no fan noise or have a phone with no notification sounds?",
         "Would you rather know the history of every building you enter or know the story of every object you hold?",
-        "Would you rather have unlimited olives or have unlimited pickles?"
+        "Would you rather have unlimited olives or have unlimited pickles?",
+        "Would you rather visit every national park in your country or visit every capital city on your continent?",
+        "Would you rather spend a week on a canal boat or spend a week in a treehouse?",
+        "Would you rather always get the window seat or never have to queue at an airport?",
+        "Would you rather have a polite ghost do your chores or have a rude genie grant one small wish a day?",
+        "Would you rather have a cat that gives advice or have a dog that tells jokes?",
+        "Would you rather eat breakfast food for dinner or eat dinner food for breakfast?",
+        "Would you rather be able to solve any maze or be able to solve any riddle?"
       ]
     },
     "excuse": {
@@ -1808,7 +1824,15 @@
         "The vending machine owed me something.",
         "I couldn't bring myself to throw away a really good box.",
         "I needed to remember what was in the unmarked freezer container.",
-        "I was between snacks."
+        "I was between snacks.",
+        "I had to let the dog sniff the same patch again.",
+        "I was trying to get a mattress corner to stay tucked in.",
+        "I was stuck behind a tractor with nowhere urgent to be.",
+        "I was using all my concentration to carry soup.",
+        "I had to investigate the wet patch before stepping in it again.",
+        "I was trying to recover something from under the car seat.",
+        "I was giving the problem some space.",
+        "I was on hold long enough to learn the music."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2567,7 +2591,8 @@
         "2026-12-02": "Much of the ice sprayed by Enceladus falls back onto the moon as snow.",
         "2026-12-03": "Curiosity played Happy Birthday using its sample-analysis instrument on the first anniversary of its Mars landing.",
         "2026-12-04": "Tokay geckos grip surfaces with microscopic filaments on their toes rather than suction cups.",
-        "2026-12-05": "Reflectors left on the Moon let researchers measure its distance by timing returning laser pulses."
+        "2026-12-05": "Reflectors left on the Moon let researchers measure its distance by timing returning laser pulses.",
+        "2026-12-06": "Hellbenders have no eyelids."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2631,7 +2656,14 @@
         "Friedrich Miescher isolated DNA in 1869, long before its role in heredity was understood.",
         "Clouded leopards have the longest canine teeth relative to skull size of any living wild cat.",
         "Mary Anderson patented a hand-operated windshield cleaner in 1903.",
-        "Elephant shrews are not true shrews; another name for them is sengis."
+        "Elephant shrews are not true shrews; another name for them is sengis.",
+        "Camels have a third, translucent eyelid that helps protect their eyes from sand.",
+        "Amman was known as Philadelphia during the Hellenistic and Roman periods.",
+        "Binturongs can chuckle and purr.",
+        "Some flying foxes have wingspans approaching two meters.",
+        "Green anacondas give birth to live young rather than laying eggs.",
+        "Titan is larger than the planet Mercury.",
+        "NASA reused the original tapes containing Apollo 11's slow-scan television signal; converted broadcast recordings survived."
       ]
     },
     "fortune": {
@@ -7319,5 +7351,5 @@
       }
     }
   },
-  "updated": "2026-11-21T13:36:48.007Z"
+  "updated": "2026-11-22T13:28:40.459Z"
 }
