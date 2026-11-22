@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-22T09:39:56.957Z",
+  "generated_at": "2026-11-22T17:24:58.214Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "tradeshow",
   "page_url": "https://www.mediajobsreport.com/tradeshow_news",
-  "count": 3,
+  "count": 2,
   "releases": [
     {
       "company": [
@@ -188,96 +188,6 @@
         "excluded": false
       },
       "imported_at": "2026-10-15T00:57:21.828Z"
-    },
-    {
-      "company": [
-        "Mersive Technologies"
-      ],
-      "date": "20261008T124000+0000",
-      "dateline": "DENVER, Oct. 8, 2026",
-      "feed": [
-        "APPLE_NEWS",
-        "PRNUS",
-        "PRNUS_ONLY",
-        "prncom_prnj",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "COL",
-        "UWS",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "TLS",
-        "STW",
-        "OFP",
-        "HRD",
-        "HOU",
-        "REA",
-        "CPR"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271&p=publish"
-        },
-        {
-          "caption": "Mersive",
-          "seq": "2",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1770899/Mersive-Logo.jpg?id=OA2994270&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1770899/Mersive-Logo.jpg?id=OA2994270&p=publish"
-        }
-      ],
-      "release_id": "20261008LA66803",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT"
-      ],
-      "summary": "<p><i>New name retires the Gen 4 and MCS labels to better reflect where Mersive is steering collaboration next.</i></p><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Mersive Technologies today announced that its collaboration platform, previously known as Gen 4 and the Mersive Collaboration Suite (MCS), is now Mersive Polaris. Its website and visual identity have been updated to match.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271\" title=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\" alt=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\"></img></p></div><p>Mersive Solstice defined its category, showing that a room could share wirelessly, simply and reliably. But what rooms are asked to do has changed. Meetings now span more platforms, more networks and more devices than any one room was designed for.</p>",
-      "ticker": [],
-      "title": "Mersive Collaboration Suite Is Now Mersive Polaris",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20261008LA66803",
-      "body": "<p><i>New name retires the Gen 4 and MCS labels to better reflect where Mersive is steering collaboration next.</i></p><p><span class=\"legendSpanClass\">DENVER</span>, <span class=\"legendSpanClass\">Oct. 8, 2026</span> /PRNewswire/ -- Mersive Technologies today announced that its collaboration platform, previously known as Gen 4 and the Mersive Collaboration Suite (MCS), is now Mersive Polaris. Its website and visual identity have been updated to match.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS2004812/Mersive-Polaris-Suite.jpg?id=OA2994271\" title=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\" alt=\"Polaris Host with the Polaris Pro and Polaris Essentials Pods. Essentials lets anyone in the room share content wirelessly from their own device. Pro adds hybrid meetings, bringing remote participants into the room. Polaris Host, formerly the Mersive Tablet that debuted at InfoComm 2026, lets the room itself start, join and run the meeting on whichever conferencing platform, all from a single touch display. Host is available Q4 2026.\"></img></p></div><p>Mersive Solstice defined its category, showing that a room could share wirelessly, simply and reliably. But what rooms are asked to do has changed. Meetings now span more platforms, more networks and more devices than any one room was designed for.</p><p>Answering that took more than new hardware. Drawing on fourteen years of deployments and feedback from IT and AV teams, Mersive rebuilt the platform with software at its core, so rooms keep improving long after install day.</p><p>\"Gen 4\" made that sound like the next step in a hardware sequence. It isn't. It's built for the landscape rooms work in now, and it needed its own name.</p><p>Every generation of this line has looked up: Mersive Sol in 2012, then Solstice Gen 1 in 2013, Gen 2 in 2015, Gen 2i in 2017 and Gen 3 in 2019. While a solstice marks a turning point, Polaris is the fixed point the northern sky turns around, the star navigators steer by, and the role Mersive intends to play in customers' spaces for the next decade.</p><p>\"Solstice showed the market what wireless collaboration could be,\" said Damian Blazy, CEO of Mersive. \"Calling what came next a fourth generation undersold it.\"</p><p>\"Polaris isn't the next Solstice with a new label,\" said Ryan Lee, Vice President of Product at Mersive. \"It's a different way of building, and the name signals that.\"</p><p>Mersive Polaris includes Polaris Essentials, Polaris Pro and Polaris Host. Gen 4 and MCS customers are using the same products, now under the Polaris name.</p><p>Solstice Gen 3 is supported into 2029, with a mapped transition path and a trade-in program. It runs side by side with Polaris, so customers can upgrade room by room at their own pace.</p><p>To learn more, visit the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792528-1&amp;h=3555535750&amp;u=https%3A%2F%2Fmersive.com%2F&amp;a=Mersive+website\" target=\"_blank\" rel=\"nofollow\">Mersive website</a>.</p><p><b>Media Contact</b></p><p>Skyler Bowden, <a href=\"mailto:sbowden@mersive.com\" target=\"_blank\" rel=\"nofollow\">sbowden@mersive.com</a></p><p><b>About Mersive Technologies</b></p><p>Mersive Technologies helps people connect and collaborate in meeting rooms, huddle spaces and classrooms. Today's meetings span more platforms, networks and devices than any one room was designed for, with people joining from anywhere. Mersive Polaris, the successor to its Solstice line, was built for that hybrid reality. With software at its core, Polaris lets anyone in the room share content wirelessly from their own device and connect with remote participants on any conferencing platform. Rooms keep improving long after install day, and IT teams can centrally manage, monitor and update deployments of any size. Mersive is headquartered in Lakewood, Colorado. To learn more, visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4792528-1&amp;h=2920957546&amp;u=https%3A%2F%2Fwww.mersive.com%2F&amp;a=www.mersive.com\" target=\"_blank\" rel=\"nofollow\">www.mersive.com</a>.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder2\"><p><img src=\"https://mmx.prnewswire.com/media/MS1770899/Mersive-Logo.jpg?id=OA2994270\" title=\"Mersive\" alt=\"Mersive\"></img></p></div><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=LA66803&amp;sd=2026-10-08\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/mersive-collaboration-suite-is-now-mersive-polaris-302902027.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/mersive-collaboration-suite-is-now-mersive-polaris-302902027.html</a></p><p>SOURCE Mersive Technologies</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=LA66803&amp;Transmission_Id=202610080840PR_NEWS_USPR_____LA66803&amp;DateId=20261008\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Mersive Technologies",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "tradeshow"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "tradeshow"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 0,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 2
-        },
-        "reasons": {
-          "tradeshow": [
-            "summary:infocomm"
-          ]
-        },
-        "news_score": 0,
-        "excluded": false
-      },
-      "imported_at": "2026-10-08T15:25:40.461Z"
     }
   ]
 }
