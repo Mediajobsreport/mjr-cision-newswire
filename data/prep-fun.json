@@ -25,7 +25,8 @@
         "2026-12-03": "Why do you go to bed every night? Because the bed won't come to you!",
         "2026-12-04": "Why did the tomato blush? Because it saw the salad dressing.",
         "2026-12-05": "Why was the belt arrested? Because it was holding up a pair of pants.",
-        "2026-12-06": "What do you call someone with no body and no nose? Nobody knows."
+        "2026-12-06": "What do you call someone with no body and no nose? Nobody knows.",
+        "2026-12-07": "What do you call an owl that can code? Hoot-developer."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -97,7 +98,12 @@
         "What's the difference between a computer salesman and a used-car salesman? The used-car salesman KNOWS when he's lying.",
         "Why don’t seagulls fly over the bay? Because then they’d be bagels.",
         "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
-        "Why did the horse go behind the tree? To change its jockeys."
+        "Why did the horse go behind the tree? To change its jockeys.",
+        "It's inappropriate to make a 'dad joke' if you're not a dad. It's a faux pa.",
+        "I don’t know what’s going to happen next year. It’s probably because I don’t have 2020 vision.",
+        "What do you call an illegally parked frog? Toad.",
+        "What did one candle say to the other? You light up my life.",
+        "What do you call a knight who is afraid to fight? Sir Render."
       ]
     },
     "would-you-rather": {
@@ -124,7 +130,8 @@
         "2026-12-03": "Would you rather have a garden path lined with lavender or have a garden wall covered in roses?",
         "2026-12-04": "Would you rather watch a film with someone who predicts everything or watch with someone who asks what is happening?",
         "2026-12-05": "Would you rather have a picnic interrupted by goats or have a barbecue interrupted by ducks?",
-        "2026-12-06": "Would you rather live somewhere where it snows every December or live somewhere where you can swim every December?"
+        "2026-12-06": "Would you rather live somewhere where it snows every December or live somewhere where you can swim every December?",
+        "2026-12-07": "Would you rather be a good gardener with bad weather or be a bad gardener with perfect weather?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -200,7 +207,15 @@
         "Would you rather have a polite ghost do your chores or have a rude genie grant one small wish a day?",
         "Would you rather have a cat that gives advice or have a dog that tells jokes?",
         "Would you rather eat breakfast food for dinner or eat dinner food for breakfast?",
-        "Would you rather be able to solve any maze or be able to solve any riddle?"
+        "Would you rather be able to solve any maze or be able to solve any riddle?",
+        "Would you rather have the perfect picnic basket or have the perfect camping stove?",
+        "Would you rather always have room in the freezer or always have room in the wardrobe?",
+        "Would you rather have an extra shelf in every cupboard or have an extra socket in every room?",
+        "Would you rather read a book with a missing page or watch a film with a missing scene?",
+        "Would you rather have a year of free lessons or have a year of free practice space?",
+        "Would you rather host a dinner for six or organize a picnic for twenty?",
+        "Would you rather have a silent vacuum cleaner or have a silent hairdryer?",
+        "Would you rather be able to recognize any bird by its song or be able to recognize any tree by its leaves?"
       ]
     },
     "excuse": {
@@ -1832,7 +1847,14 @@
         "I had to investigate the wet patch before stepping in it again.",
         "I was trying to recover something from under the car seat.",
         "I was giving the problem some space.",
-        "I was on hold long enough to learn the music."
+        "I was on hold long enough to learn the music.",
+        "I needed to figure out why one earbud was louder.",
+        "I had to reheat the tea I forgot while making the tea.",
+        "I was trying to remove one email from a hundred subscriptions.",
+        "I couldn't remember what I named the file.",
+        "I was reading the back of a cereal box for the first time.",
+        "I was waiting for the computer to stop sounding worried.",
+        "The bus arrived on the other side of the road."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2592,7 +2614,8 @@
         "2026-12-03": "Curiosity played Happy Birthday using its sample-analysis instrument on the first anniversary of its Mars landing.",
         "2026-12-04": "Tokay geckos grip surfaces with microscopic filaments on their toes rather than suction cups.",
         "2026-12-05": "Reflectors left on the Moon let researchers measure its distance by timing returning laser pulses.",
-        "2026-12-06": "Hellbenders have no eyelids."
+        "2026-12-06": "Hellbenders have no eyelids.",
+        "2026-12-07": "Despite its name, the Panamanian golden frog belongs to the true toad family."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2663,7 +2686,14 @@
         "Some flying foxes have wingspans approaching two meters.",
         "Green anacondas give birth to live young rather than laying eggs.",
         "Titan is larger than the planet Mercury.",
-        "NASA reused the original tapes containing Apollo 11's slow-scan television signal; converted broadcast recordings survived."
+        "NASA reused the original tapes containing Apollo 11's slow-scan television signal; converted broadcast recordings survived.",
+        "Growing an apple from seed usually produces a genetically different variety; named varieties are commonly propagated by grafting.",
+        "Sunlight breaks down methane in Titan's atmosphere, so something must replenish it over time.",
+        "Venus takes longer to turn once on its axis than to travel once around the Sun.",
+        "Mercury's craters are named for artists, musicians, and writers, including Dr. Seuss.",
+        "Fennec fox dens can have tunnels ten meters long, with multiple escape exits.",
+        "Lake Baikal, in Siberia, is the deepest lake in the world.",
+        "Titan's orange haze is produced by chemical reactions involving methane and nitrogen high in its atmosphere."
       ]
     },
     "fortune": {
@@ -7351,5 +7381,5 @@
       }
     }
   },
-  "updated": "2026-11-22T13:28:40.459Z"
+  "updated": "2026-11-23T16:14:28.226Z"
 }
