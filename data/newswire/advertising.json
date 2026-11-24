@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-23T13:03:21.424Z",
+  "generated_at": "2026-11-24T00:54:53.598Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "advertising",
   "page_url": "https://www.mediajobsreport.com/advertising_news",
-  "count": 22,
+  "count": 21,
   "releases": [
     {
       "company": [
@@ -1862,88 +1862,6 @@
         "excluded": false
       },
       "imported_at": "2026-10-15T15:36:48.626Z"
-    },
-    {
-      "company": [
-        "Guideline"
-      ],
-      "date": "20261009T131100+0000",
-      "dateline": "NEW YORK, Oct. 9, 2026",
-      "feed": [
-        "prncom_prnj",
-        "APPLE_NEWS",
-        "PRNUS",
-        "PRNUS_ONLY",
-        "PRNUS_NO_ELD"
-      ],
-      "geography": [
-        "NYK",
-        "UNE",
-        "USA",
-        "NAM"
-      ],
-      "industry": [
-        "ADV",
-        "DTA",
-        "AFI",
-        "OUT",
-        "STW"
-      ],
-      "language": "en-US",
-      "multimedia": [
-        {
-          "caption": "Guideline",
-          "seq": "1",
-          "thumbnailurl": "https://mmx.prnewswire.com/media/MS1549091/Guideline-logo-Logo.jpg?id=OA2997712&p=thumbnail",
-          "type": "photo",
-          "url": "https://mmx.prnewswire.com/media/MS1549091/Guideline-logo-Logo.jpg?id=OA2997712&p=publish"
-        }
-      ],
-      "release_id": "20261009NY67840",
-      "status": "PUBLISHED",
-      "subject": [
-        "PDT",
-        "SBS"
-      ],
-      "summary": "<p>The new agent reads media plan spreadsheets in any format and turns them into clean, governed data in seconds.</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 9, 2026</span> /PRNewswire/ -- Guideline, a global provider of ad intelligence and media plan management solutions, today launched the <b>AI Ingestion Agent</b> in its Media Plan Management platform. The agent takes the spreadsheet media plans agencies and brands already use and turns them into structured, governed data in seconds.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1549091/Guideline-logo-Logo.jpg?id=OA2997712\" title=\"Guideline\" alt=\"Guideline\"></img></p></div><p>Most media plans still start in a spreadsheet, and every agency, team, market and client lays them out differently. Getting a plan into a system of record has meant re-entering it by hand, which takes time, introduces errors, and delays the moment when finance, leadership and operations teams can see and act on the plan. The AI Ingestion Agent removes that manual step without requiring teams to change how they build plans.</p>",
-      "ticker": [],
-      "title": "Guideline Ends the Media Plan Re-Entry Bottleneck with Launch of New AI Ingestion Agent",
-      "url": "https://contentapi.cision.com/api/v1.0/releases/20261009NY67840",
-      "body": "<p>The new agent reads media plan spreadsheets in any format and turns them into clean, governed data in seconds.</p><p><span class=\"legendSpanClass\">NEW YORK</span>, <span class=\"legendSpanClass\">Oct. 9, 2026</span> /PRNewswire/ -- Guideline, a global provider of ad intelligence and media plan management solutions, today launched the <b>AI Ingestion Agent</b> in its Media Plan Management platform. The agent takes the spreadsheet media plans agencies and brands already use and turns them into structured, governed data in seconds.</p><div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\"><p><img src=\"https://mmx.prnewswire.com/media/MS1549091/Guideline-logo-Logo.jpg?id=OA2997712\" title=\"Guideline\" alt=\"Guideline\"></img></p></div><p>Most media plans still start in a spreadsheet, and every agency, team, market and client lays them out differently. Getting a plan into a system of record has meant re-entering it by hand, which takes time, introduces errors, and delays the moment when finance, leadership and operations teams can see and act on the plan. The AI Ingestion Agent removes that manual step without requiring teams to change how they build plans.</p><p>With the AI Ingestion Agent, planning teams can:</p><ul type=\"disc\"><li><b>Start from their existing file.</b> Upload an Excel or CSV file to create a new plan.</li><li><b>Automate field mapping.</b> The agent reads each column and suggests how it maps to the customer's plan templates and fields.</li><li><b>Review before anything is saved.</b> Fields the agent is less certain about are flagged, and nothing is committed until the planner confirms it.</li><li><b>Use the plan right away.</b> Once confirmed, the plan is structured data that can be used for reporting, budget tracking and actuals reconciliation.</li></ul><p>Uploaded files are validated so that only supported plan formats are processed, and customer plan data is not used to train AI models. Each upload is saved as a new plan version rather than overwriting earlier work, so every change can be traced. This new product capability ships with enterprise controls. It is opt-in and enabled per customer. This first release creates new plans from spreadsheets; updating existing plans and bulk-importing historical ones will follow.</p><p>\"Every customer's spreadsheet looks different, and for years that has been the hardest part of getting plans into a system of record,\" said Vincent Mifsud, Chief Executive Officer at Guideline. \"The sooner a plan becomes governed data, the sooner it can be measured, reconciled and improved. That is central to making Media Plan Management the trusted source of truth for the more than $300 billion in media budgets our customers manage with us.\"</p><p>\"Planners shouldn't have to retype a plan to get it into a governed platform,\" said Steve Silvers, Chief Product Officer at Guideline. \"The agent works with the files teams already use and handles the mapping for them. We built it to save planners time without taking decisions out of their hands.\"</p><p><b>Availability: </b>The AI Ingestion Agent is available now for enterprise customers. To learn more or schedule a demo, contact <a href=\"mailto:sales@guideline.ai\" target=\"_blank\" rel=\"nofollow\">sales@guideline.ai</a> or visit <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4793551-1&amp;h=1629373901&amp;u=http%3A%2F%2Fwww.guideline.ai%2F&amp;a=www.guideline.ai\" target=\"_blank\" rel=\"nofollow\">www.guideline.ai</a>.</p><p><b>About Guideline</b></p><p>Guideline is a global provider of ad intelligence and media plan management technology for the world's leading brands, agencies, media owners and investors. Its solutions help enterprises understand advertising markets, manage media plans and make more informed decisions across the buying and selling ecosystem. Guideline's media plan management solutions support more than $300 billion in managed media budgets across more than 60,000 active media plans and 10,000+ monthly users. Its proprietary spend and pricing data represents approximately $200 billion in annual media investment across 65 countries worldwide.</p><p>For more information, visit <a href=\"http://www.guideline.ai\" rel=\"nofollow\">www.guideline.ai</a>.</p><p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=NY67840&amp;sd=2026-10-09\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/guideline-ends-the-media-plan-re-entry-bottleneck-with-launch-of-new-ai-ingestion-agent-302903554.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/guideline-ends-the-media-plan-re-entry-bottleneck-with-launch-of-new-ai-ingestion-agent-302903554.html</a></p><p>SOURCE Guideline</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=NY67840&amp;Transmission_Id=202610090911PR_NEWS_USPR_____NY67840&amp;DateId=20261009\" style=\"border:0px; width:1px; height:1px;\"></img>",
-      "source_company": "Guideline",
-      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
-      "sub_title": [],
-      "websiteurl": [],
-      "mjr_categories": [
-        "advertising"
-      ],
-      "mjr_review": false,
-      "mjr_classification": {
-        "categories": [
-          "advertising"
-        ],
-        "review": false,
-        "scores": {
-          "college": 0,
-          "advertising": 2,
-          "digital": 0,
-          "engineering": 0,
-          "entertainment": 0,
-          "management": 0,
-          "radio": 0,
-          "television": 0,
-          "podcast": 0,
-          "tradeshow": 0
-        },
-        "reasons": {
-          "advertising": [
-            "industry:ADV"
-          ]
-        },
-        "news_score": 1,
-        "excluded": false
-      },
-      "imported_at": "2026-10-09T14:33:06.436Z"
     }
   ]
 }

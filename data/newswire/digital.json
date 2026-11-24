@@ -1,11 +1,100 @@
 {
-  "generated_at": "2026-11-23T13:03:21.424Z",
+  "generated_at": "2026-11-24T00:54:53.598Z",
   "source": "Cision Content API / PR Newswire",
   "content_policy": "Original release content is preserved; MJR fields are classification metadata only.",
   "category": "digital",
   "page_url": "https://www.mediajobsreport.com/digital_news",
-  "count": 29,
+  "count": 30,
   "releases": [
+    {
+      "company": [
+        "Gistvox"
+      ],
+      "date": "20261123T134000+0000",
+      "dateline": "WASHINGTON, Nov. 23, 2026",
+      "feed": [
+        "APPLE_NEWS",
+        "PRNUS",
+        "prncom_prnj"
+      ],
+      "geography": [
+        "DOC",
+        "UNE",
+        "USA",
+        "NAM"
+      ],
+      "industry": [
+        "ENT",
+        "CPR",
+        "SMD",
+        "RAD"
+      ],
+      "language": "en-US",
+      "multimedia": [
+        {
+          "caption": "Gistvox - A New Frequency for Stories",
+          "seq": "1",
+          "thumbnailurl": "https://mmx.prnewswire.com/media/MS2041406/Gistvox-Logo.jpg?id=OA3096242&p=thumbnail",
+          "type": "photo",
+          "url": "https://mmx.prnewswire.com/media/MS2041406/Gistvox-Logo.jpg?id=OA3096242&p=publish"
+        }
+      ],
+      "release_id": "20261123PH04511",
+      "status": "PUBLISHED",
+      "subject": [
+        "PDT"
+      ],
+      "summary": "<p><i>New audio Channels let creators turn personal diaries, behind-the-scenes conversations, and candid human moments into recurring revenue—with subscriptions starting at just $1 per month.</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Nov. 23, 2026</span> /PRNewswire/ -- Some of the most interesting stories are the ones that never make it into a podcast, onto a stage, or in front of a camera.</p>\n<p>Today, audio-first social platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=1538762932&amp;u=https%3A%2F%2Fwww.gistvox.com%2Fchannels&amp;a=Gistvox+announced+the+launch+of+Channels\" target=\"_blank\" rel=\"nofollow\">Gistvox announced the launch of Channels</a>, giving individuals, teams, and communities a new way to share those moments through personal voice recordings, collaborative storytelling, and live audio broadcasts.</p>",
+      "ticker": [],
+      "title": "Gistvox Launches Subscription Channels, Betting Authenticity Can Power the Creator Economy",
+      "url": "https://contentapi.cision.com/api/v1.0/releases/20261123PH04511",
+      "body": "\n<p><i>New audio Channels let creators turn personal diaries, behind-the-scenes conversations, and candid human moments into recurring revenue—with subscriptions starting at just $1 per month.</i></p><p><span class=\"legendSpanClass\">WASHINGTON</span>, <span class=\"legendSpanClass\">Nov. 23, 2026</span> /PRNewswire/ -- Some of the most interesting stories are the ones that never make it into a podcast, onto a stage, or in front of a camera.</p>\n<p>Today, audio-first social platform <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=1538762932&amp;u=https%3A%2F%2Fwww.gistvox.com%2Fchannels&amp;a=Gistvox+announced+the+launch+of+Channels\" target=\"_blank\" rel=\"nofollow\">Gistvox announced the launch of Channels</a>, giving individuals, teams, and communities a new way to share those moments through personal voice recordings, collaborative storytelling, and live audio broadcasts.</p><p>Imagine following an author's spoken reflections as a novel takes shape, hearing a theater cast banter between rehearsals, or listening to athletes and coaches share their perspectives beyond the postgame interview. Channels creates a home for these experiences, allowing audiences to hear more of the people and communities they care about.</p><p>Unlike traditional podcasts, which often involve planning, editing, and production, Gistvox Channels are designed for spontaneity. A passing thought, a funny exchange, a personal reflection, or an unexpected moment can become part of an ongoing audio story, shared with listeners who genuinely want to hear it.</p><p>\"There's something fascinating about the moments that never make it into someone's finished work,\" said Abram Olmstead, Founder and CEO of Gistvox. \"A writer thinking out loud, a cast laughing backstage, a coach reflecting on a difficult game. There are people whose internal monologues I'd happily subscribe to. Not because they're perfectly produced, but because they're personal. That's the kind of connection we're trying to make possible.\"</p><p><b>A Personal Audio Diary. A Collective Story. A Channel of Your Own.</b></p><p><a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=3258406041&amp;u=https%3A%2F%2Fwww.gistvox.com%2Fchannels&amp;a=Gistvox+Channels\" target=\"_blank\" rel=\"nofollow\">Gistvox Channels</a> can function as intimate audio diaries, collaborative storytelling spaces, or continuously evolving audio networks built around a shared interest, organization, or community.</p><p>Free Channels allow anyone on Gistvox to create an audio community, with flexible settings for privacy, membership, and participation. Creators can invite contributors, encourage community storytelling, or curate a more focused listening experience.</p><p>Subscription Channels, available to Gistvox Pro and Founder members, offer a way to turn those relationships into recurring revenue.</p><p>Each Subscription Channel supports up to three hosts and 30 hand-selected contributors, allowing different voices to tell a larger story together. A theater company, for example, could bring performers, directors, musicians, and backstage crew into one shared audio experience, giving subscribers an ongoing glimpse into life behind the curtain.</p><p>Monthly subscriptions can be priced at $1, $3, $5, $7, or $9, with Gistvox retaining a 10% platform share, in addition to applicable third-party payment fees.</p><p>At launch, creators in the United States can enable paid Subscription Channels and receive payouts through Stripe. Listeners anywhere in the world can listen and subscribe on the Gistvox website, with creator monetization expanding to additional countries as international payout support rolls out.</p><p>The model doesn't require a massive following. A smaller, deeply engaged community can create meaningful value for the people sharing their voices and those choosing to listen.</p><p><b>Live in the Moment. Personal by Design.</b></p><p>Subscription Channels also support live audio broadcasts of up to 30 minutes, giving hosts an opportunity to share spontaneous moments and connect with listeners in real time.</p><p>Live broadcasts aren't automatically archived for replay, while regular Channel recordings remain available on demand.</p><p>Through Gistvox's continuous, hands-free listening experience, users can follow their favorite Channels like a collection of personal radio stations, choosing whether Channel stories appear in their main listening feed or remain within individual Channels.</p><p>The experience is deliberately free of advertisements, algorithm-driven content recommendations, and AI-generated media. Gistvox prohibits synthetic voices and AI-generated content, keeping the emphasis on the personalities, imperfections, and human experiences that make voices worth hearing.</p><p>\"Authenticity is our North Star,\" Olmstead said. \"We're not trying to manufacture another endless stream of content. We're creating a place where people can share their thoughts, stories, and experiences in their own voices, without performing for an algorithm. The goal is to make the internet feel a little more human.\"</p><p>With Channels, Gistvox is <span>betting</span> that the future of audio may be less about reaching everyone and more about being heard by the people who matter.</p><p>Gistvox Channels is available across <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=2072611608&amp;u=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fgistvox%2Fid6751720190&amp;a=iOS\" target=\"_blank\" rel=\"nofollow\">iOS</a>, <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=698093360&amp;u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.gistvox.app&amp;a=Android\" target=\"_blank\" rel=\"nofollow\">Android</a>, and the <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=2033648898&amp;u=https%3A%2F%2Fwww.gistvox.com%2F&amp;a=web\" target=\"_blank\" rel=\"nofollow\">web</a>. Creators in the U.S. can start earning today, with more countries coming. Audiences worldwide can listen and subscribe through the web.</p><p>Learn more or create a Channel at <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=3487091280&amp;u=https%3A%2F%2Fwww.gistvox.com%2Fchannels&amp;a=https%3A%2F%2Fwww.gistvox.com%2Fchannels\" target=\"_blank\" rel=\"nofollow\">https://www.gistvox.com/channels</a>.</p><p><b>About Gistvox</b></p><p>Gistvox is an audio-first social platform reimagining how people connect through the human voice. Combining the community of social media, the storytelling of podcasting, the spontaneity of voice messaging, and the continuous listening experience of radio, Gistvox creates an entirely new way to share, listen, and connect.</p><p>Through short audio stories and free or subscription-supported Channels, people can share personal reflections, invite listeners behind the scenes, follow voices they value, and build meaningful communities.</p><p>No ads. No algorithms deciding what you hear. No AI-generated content. Just real people and real voices.</p><p>Website: <a href=\"https://edge.prnewswire.com/c/link/?t=0&amp;l=en&amp;o=4829239-1&amp;h=2927932550&amp;u=https%3A%2F%2Fwww.gistvox.com%2F&amp;a=https%3A%2F%2Fwww.gistvox.com%2F\" target=\"_blank\" rel=\"nofollow\">https://www.gistvox.com/</a></p><p><b>Media Contact</b></p><p>Abram Olmstead<br></br>Founder &amp; CEO, Gistvox<br></br>Email: <a href=\"mailto:427556@email4pr.com\" target=\"_blank\" rel=\"nofollow\">427556@email4pr.com</a><br></br>Phone: 202-579-0967<br></br>Location: Washington, D.C.</p>\n\n\n\n<p id=\"PURL\"><img title=\"Cision\" width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://edge.prnewswire.com/c/img/favicon.png?sn=PH04511&amp;sd=2026-11-23\"></img> View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\" href=\"https://www.prnewswire.com/news-releases/gistvox-launches-subscription-channels-betting-authenticity-can-power-the-creator-economy-302948265.html\" target=\"_blank\">https://www.prnewswire.com/news-releases/gistvox-launches-subscription-channels-betting-authenticity-can-power-the-creator-economy-302948265.html</a></p><p>SOURCE Gistvox</p><img alt=\"\" src=\"https://rt.prnewswire.com/rt.gif?NewsItemId=PH04511&amp;Transmission_Id=202611230840PR_NEWS_USPR_____PH04511&amp;DateId=20261123\" style=\"border:0px; width:1px; height:1px;\"></img>",
+      "source_company": "Gistvox",
+      "style": "\n/* Style Definitions */\nspan.prnews_span\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\na.prnews_a\n{\ncolor:blue;\n}\nli.prnews_li\n{\nfont-size:8pt;\nfont-family:\"Arial\";\ncolor:black;\n}\np.prnews_p\n{\nfont-size:0.62em;\nfont-family:\"Arial\";\ncolor:black;\nmargin:0in;\n}\n\n",
+      "sub_title": [],
+      "websiteurl": [],
+      "mjr_categories": [
+        "digital"
+      ],
+      "mjr_review": false,
+      "mjr_classification": {
+        "categories": [
+          "digital"
+        ],
+        "review": false,
+        "scores": {
+          "college": 0,
+          "advertising": 0,
+          "digital": 7,
+          "engineering": 0,
+          "entertainment": 2,
+          "management": 0,
+          "radio": 2,
+          "television": 0,
+          "podcast": 3,
+          "tradeshow": 0
+        },
+        "reasons": {
+          "digital": [
+            "creator economy",
+            "industry:SMD"
+          ],
+          "entertainment": [
+            "industry:ENT"
+          ],
+          "radio": [
+            "industry:RAD"
+          ],
+          "podcast": [
+            "summary:podcast",
+            "industry:RAD"
+          ]
+        },
+        "news_score": 1,
+        "excluded": false
+      },
+      "imported_at": "2026-11-24T00:54:58.812Z"
+    },
     {
       "company": [
         "FouAnalytics"
