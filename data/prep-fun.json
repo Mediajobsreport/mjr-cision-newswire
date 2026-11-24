@@ -26,7 +26,8 @@
         "2026-12-04": "Why did the tomato blush? Because it saw the salad dressing.",
         "2026-12-05": "Why was the belt arrested? Because it was holding up a pair of pants.",
         "2026-12-06": "What do you call someone with no body and no nose? Nobody knows.",
-        "2026-12-07": "What do you call an owl that can code? Hoot-developer."
+        "2026-12-07": "What do you call an owl that can code? Hoot-developer.",
+        "2026-12-08": "What do you call an unpredictable camera? A loose Canon."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -103,7 +104,14 @@
         "I don’t know what’s going to happen next year. It’s probably because I don’t have 2020 vision.",
         "What do you call an illegally parked frog? Toad.",
         "What did one candle say to the other? You light up my life.",
-        "What do you call a knight who is afraid to fight? Sir Render."
+        "What do you call a knight who is afraid to fight? Sir Render.",
+        "Did you hear about the kidnapping at school? It’s fine, he woke up.",
+        "Want to hear a joke about a piece of paper? Never mind... it's tearable.",
+        "What’s the difference between an African elephant and an Indian elephant? About 5000 miles.",
+        "What’s a vampire’s favorite fruit? A blood orange.",
+        "What has four wheels and flies? A garbage truck!",
+        "What do you call a fibbing cat? A lion.",
+        "I'm reading a book about anti-gravity. It's impossible to put down!"
       ]
     },
     "would-you-rather": {
@@ -131,7 +139,8 @@
         "2026-12-04": "Would you rather watch a film with someone who predicts everything or watch with someone who asks what is happening?",
         "2026-12-05": "Would you rather have a picnic interrupted by goats or have a barbecue interrupted by ducks?",
         "2026-12-06": "Would you rather live somewhere where it snows every December or live somewhere where you can swim every December?",
-        "2026-12-07": "Would you rather be a good gardener with bad weather or be a bad gardener with perfect weather?"
+        "2026-12-07": "Would you rather be a good gardener with bad weather or be a bad gardener with perfect weather?",
+        "2026-12-08": "Would you rather have a suitcase that packs itself or have a suitcase that never gets lost?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -215,7 +224,14 @@
         "Would you rather have a year of free lessons or have a year of free practice space?",
         "Would you rather host a dinner for six or organize a picnic for twenty?",
         "Would you rather have a silent vacuum cleaner or have a silent hairdryer?",
-        "Would you rather be able to recognize any bird by its song or be able to recognize any tree by its leaves?"
+        "Would you rather be able to recognize any bird by its song or be able to recognize any tree by its leaves?",
+        "Would you rather take the slower route with a great view or take the faster route and get home early?",
+        "Would you rather get lost in a city where you speak the language or get lost in a village where everyone is helpful?",
+        "Would you rather know how every magic trick works or still be amazed by every magic trick?",
+        "Would you rather get a handwritten letter every week or get a surprise parcel every month?",
+        "Would you rather be able to identify any constellation or be able to identify any mushroom safely?",
+        "Would you rather have a bicycle with no punctures or have a car with no rattles?",
+        "Would you rather have a book you never want to finish or have a book you want to reread immediately?"
       ]
     },
     "excuse": {
@@ -1854,7 +1870,15 @@
         "I couldn't remember what I named the file.",
         "I was reading the back of a cereal box for the first time.",
         "I was waiting for the computer to stop sounding worried.",
-        "The bus arrived on the other side of the road."
+        "The bus arrived on the other side of the road.",
+        "I took a five-minute break without specifying the planet.",
+        "I needed to let someone past and it turned into a whole procession.",
+        "I was trying to carry a drink through a door that pulled.",
+        "I had to find the box containing the other boxes.",
+        "I couldn't let that typo go.",
+        "I couldn't get the chair back to its original height.",
+        "I thought that was tomorrow's problem.",
+        "I read the message, replied in my head, and considered the matter closed."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2615,7 +2639,8 @@
         "2026-12-04": "Tokay geckos grip surfaces with microscopic filaments on their toes rather than suction cups.",
         "2026-12-05": "Reflectors left on the Moon let researchers measure its distance by timing returning laser pulses.",
         "2026-12-06": "Hellbenders have no eyelids.",
-        "2026-12-07": "Despite its name, the Panamanian golden frog belongs to the true toad family."
+        "2026-12-07": "Despite its name, the Panamanian golden frog belongs to the true toad family.",
+        "2026-12-08": "The \"Star Spangled Banner\" did not become a national anthem until 1931. It was designated by an Act of Congress."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2693,7 +2718,14 @@
         "Mercury's craters are named for artists, musicians, and writers, including Dr. Seuss.",
         "Fennec fox dens can have tunnels ten meters long, with multiple escape exits.",
         "Lake Baikal, in Siberia, is the deepest lake in the world.",
-        "Titan's orange haze is produced by chemical reactions involving methane and nitrogen high in its atmosphere."
+        "Titan's orange haze is produced by chemical reactions involving methane and nitrogen high in its atmosphere.",
+        "The solar wind carries the Sun's magnetic field outward in a spiral resembling water from a rotating sprinkler.",
+        "Fossils show that penguins lived in New Zealand about 62 million years ago.",
+        "Ganymede has auroras around its poles.",
+        "Kobuk Valley in Alaska has sand dunes that rise about 100 feet above the surrounding landscape.",
+        "Titan's surface is so cold that water ice behaves much like rock.",
+        "Mercury's iron core takes up about 85 percent of the planet's radius.",
+        "A piece of wood from the tree associated with Newton's apple story traveled aboard space shuttle Atlantis in 2010."
       ]
     },
     "fortune": {
@@ -7381,5 +7413,5 @@
       }
     }
   },
-  "updated": "2026-11-23T16:14:28.226Z"
+  "updated": "2026-11-24T16:01:03.803Z"
 }
