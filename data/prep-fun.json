@@ -27,7 +27,8 @@
         "2026-12-05": "Why was the belt arrested? Because it was holding up a pair of pants.",
         "2026-12-06": "What do you call someone with no body and no nose? Nobody knows.",
         "2026-12-07": "What do you call an owl that can code? Hoot-developer.",
-        "2026-12-08": "What do you call an unpredictable camera? A loose Canon."
+        "2026-12-08": "What do you call an unpredictable camera? A loose Canon.",
+        "2026-12-09": "Why don’t birds use social media? Because they already tweet enough."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -111,7 +112,10 @@
         "What’s a vampire’s favorite fruit? A blood orange.",
         "What has four wheels and flies? A garbage truck!",
         "What do you call a fibbing cat? A lion.",
-        "I'm reading a book about anti-gravity. It's impossible to put down!"
+        "I'm reading a book about anti-gravity. It's impossible to put down!",
+        "Why did the invisible man turn down the job offer? He couldn't see himself doing it.",
+        "I wondered why the frisbee kept on getting bigger. Then it hit me.",
+        "Why did the baseball player bring a ladder? To reach the high scores."
       ]
     },
     "would-you-rather": {
@@ -140,7 +144,8 @@
         "2026-12-05": "Would you rather have a picnic interrupted by goats or have a barbecue interrupted by ducks?",
         "2026-12-06": "Would you rather live somewhere where it snows every December or live somewhere where you can swim every December?",
         "2026-12-07": "Would you rather be a good gardener with bad weather or be a bad gardener with perfect weather?",
-        "2026-12-08": "Would you rather have a suitcase that packs itself or have a suitcase that never gets lost?"
+        "2026-12-08": "Would you rather have a suitcase that packs itself or have a suitcase that never gets lost?",
+        "2026-12-09": "Would you rather make a great first impression or be someone people like more over time?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -231,7 +236,13 @@
         "Would you rather get a handwritten letter every week or get a surprise parcel every month?",
         "Would you rather be able to identify any constellation or be able to identify any mushroom safely?",
         "Would you rather have a bicycle with no punctures or have a car with no rattles?",
-        "Would you rather have a book you never want to finish or have a book you want to reread immediately?"
+        "Would you rather have a book you never want to finish or have a book you want to reread immediately?",
+        "Would you rather never have to iron or never have to vacuum?",
+        "Would you rather live in a converted lighthouse or live in a converted railway station?",
+        "Would you rather learn pottery or learn woodworking?",
+        "Would you rather have a garden shed with every tool or have a kitchen with every appliance?",
+        "Would you rather be able to sleep on any train or be able to read in any moving car?",
+        "Would you rather own a coat passed down through generations or own a table passed down through generations?"
       ]
     },
     "excuse": {
@@ -1878,7 +1889,14 @@
         "I couldn't let that typo go.",
         "I couldn't get the chair back to its original height.",
         "I thought that was tomorrow's problem.",
-        "I read the message, replied in my head, and considered the matter closed."
+        "I read the message, replied in my head, and considered the matter closed.",
+        "I had to wait for a neighbor to finish showing me their renovation.",
+        "I had to find out what song that was.",
+        "I was already wearing indoor socks.",
+        "The dog brought me a ball. We had an appointment.",
+        "I got caught behind a person reading the entire menu.",
+        "I had to retrieve a coin that wasn't worth retrieving.",
+        "I needed to use up the ripe bananas."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2640,7 +2658,8 @@
         "2026-12-05": "Reflectors left on the Moon let researchers measure its distance by timing returning laser pulses.",
         "2026-12-06": "Hellbenders have no eyelids.",
         "2026-12-07": "Despite its name, the Panamanian golden frog belongs to the true toad family.",
-        "2026-12-08": "The \"Star Spangled Banner\" did not become a national anthem until 1931. It was designated by an Act of Congress."
+        "2026-12-08": "The \"Star Spangled Banner\" did not become a national anthem until 1931. It was designated by an Act of Congress.",
+        "2026-12-09": "Tonga has issued banana-shaped postage stamps."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2725,7 +2744,12 @@
         "Kobuk Valley in Alaska has sand dunes that rise about 100 feet above the surrounding landscape.",
         "Titan's surface is so cold that water ice behaves much like rock.",
         "Mercury's iron core takes up about 85 percent of the planet's radius.",
-        "A piece of wood from the tree associated with Newton's apple story traveled aboard space shuttle Atlantis in 2010."
+        "A piece of wood from the tree associated with Newton's apple story traveled aboard space shuttle Atlantis in 2010.",
+        "Astronomers once searched for a hypothetical planet called Vulcan inside Mercury's orbit.",
+        "Komodo dragons can vomit to lighten themselves when fleeing a threat.",
+        "Some poison frogs feed their tadpoles unfertilized eggs.",
+        "Despite its scorching daytime temperatures, Mercury has permanently shadowed polar craters that can hold water ice.",
+        "Jupiter has a ring system made largely of dark dust, first detected by Voyager 1 in 1979."
       ]
     },
     "fortune": {
@@ -7413,5 +7437,5 @@
       }
     }
   },
-  "updated": "2026-11-24T16:01:03.803Z"
+  "updated": "2026-11-25T15:50:19.466Z"
 }
