@@ -28,7 +28,8 @@
         "2026-12-06": "What do you call someone with no body and no nose? Nobody knows.",
         "2026-12-07": "What do you call an owl that can code? Hoot-developer.",
         "2026-12-08": "What do you call an unpredictable camera? A loose Canon.",
-        "2026-12-09": "Why don’t birds use social media? Because they already tweet enough."
+        "2026-12-09": "Why don’t birds use social media? Because they already tweet enough.",
+        "2026-12-10": "What do you call a dog on the beach? A hot dog."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -115,7 +116,13 @@
         "I'm reading a book about anti-gravity. It's impossible to put down!",
         "Why did the invisible man turn down the job offer? He couldn't see himself doing it.",
         "I wondered why the frisbee kept on getting bigger. Then it hit me.",
-        "Why did the baseball player bring a ladder? To reach the high scores."
+        "Why did the baseball player bring a ladder? To reach the high scores.",
+        "You're American when you go into the bathroom, and you're American when you come out, but do you know what you are while you're in there? European.",
+        "What did the hat say to the scarf? You hang around, I’ll go ahead.",
+        "Why was the calendar so happy? Because it had so many dates.",
+        "I’ve been bored recently, so I decided to take up fencing. The neighbors keep demanding that I put it back.",
+        "Chances are if you' ve seen one shopping center... you've seen a mall.",
+        "What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars."
       ]
     },
     "would-you-rather": {
@@ -145,7 +152,8 @@
         "2026-12-06": "Would you rather live somewhere where it snows every December or live somewhere where you can swim every December?",
         "2026-12-07": "Would you rather be a good gardener with bad weather or be a bad gardener with perfect weather?",
         "2026-12-08": "Would you rather have a suitcase that packs itself or have a suitcase that never gets lost?",
-        "2026-12-09": "Would you rather make a great first impression or be someone people like more over time?"
+        "2026-12-09": "Would you rather make a great first impression or be someone people like more over time?",
+        "2026-12-10": "Would you rather spend a rainy day in a museum or spend a snowy day in a cabin?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -242,7 +250,11 @@
         "Would you rather learn pottery or learn woodworking?",
         "Would you rather have a garden shed with every tool or have a kitchen with every appliance?",
         "Would you rather be able to sleep on any train or be able to read in any moving car?",
-        "Would you rather own a coat passed down through generations or own a table passed down through generations?"
+        "Would you rather own a coat passed down through generations or own a table passed down through generations?",
+        "Would you rather visit an underwater hotel or visit an ice hotel?",
+        "Would you rather live beside a canal or live beside an orchard?",
+        "Would you rather have an excellent local swimming pool or have an excellent local theatre?",
+        "Would you rather have an apartment with great light or have an apartment with great soundproofing?"
       ]
     },
     "excuse": {
@@ -1896,7 +1908,13 @@
         "The dog brought me a ball. We had an appointment.",
         "I got caught behind a person reading the entire menu.",
         "I had to retrieve a coin that wasn't worth retrieving.",
-        "I needed to use up the ripe bananas."
+        "I needed to use up the ripe bananas.",
+        "I thought the travel time included the time spent finding the car.",
+        "The train left from the platform I'd just left.",
+        "The wrapping paper ran out at a mathematically awkward moment.",
+        "I thought my future self had more free time.",
+        "I was trying to get the duvet back from the dog.",
+        "I was waiting for the weather to commit."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2659,7 +2677,8 @@
         "2026-12-06": "Hellbenders have no eyelids.",
         "2026-12-07": "Despite its name, the Panamanian golden frog belongs to the true toad family.",
         "2026-12-08": "The \"Star Spangled Banner\" did not become a national anthem until 1931. It was designated by an Act of Congress.",
-        "2026-12-09": "Tonga has issued banana-shaped postage stamps."
+        "2026-12-09": "Tonga has issued banana-shaped postage stamps.",
+        "2026-12-10": "Neptune has clumps within its rings called arcs, with names including Liberty, Equality, and Fraternity."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2749,7 +2768,14 @@
         "Komodo dragons can vomit to lighten themselves when fleeing a threat.",
         "Some poison frogs feed their tadpoles unfertilized eggs.",
         "Despite its scorching daytime temperatures, Mercury has permanently shadowed polar craters that can hold water ice.",
-        "Jupiter has a ring system made largely of dark dust, first detected by Voyager 1 in 1979."
+        "Jupiter has a ring system made largely of dark dust, first detected by Voyager 1 in 1979.",
+        "Saudi Arabia is the largest country in the world without a single permanent river.",
+        "The Sun's outer atmosphere is far hotter than its visible surface.",
+        "Fennec foxes have been recorded catching adult rabbits larger than themselves.",
+        "Black and rufous elephant shrews feed their young mashed insects as they transition away from milk.",
+        "Binturongs smell like popcorn because their urine contains one of the compounds responsible for popcorn's aroma.",
+        "The smallest bird in the world is the bee hummingbird. The bird is 2.24 inches long.",
+        "Giant anteaters can distinguish different kinds of ants by smell before opening a nest."
       ]
     },
     "fortune": {
@@ -7437,5 +7463,5 @@
       }
     }
   },
-  "updated": "2026-11-25T15:50:19.466Z"
+  "updated": "2026-11-26T15:29:49.114Z"
 }
