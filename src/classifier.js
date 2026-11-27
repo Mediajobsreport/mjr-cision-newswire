@@ -190,7 +190,9 @@ export function classifyRelease(release) {
   if (!excluded) {
     // Judge the news subject and lead, not an executive's education or an
     // engineering firm's higher-education client list in body boilerplate.
-    const studentText = `${primary} ${summary.slice(0, 1200)}`;
+    // Government portfolios in an attendee list do not describe the event.
+    const studentLead = summary.replace(/\bminister of higher education\b|\bminister (?:of|responsible for) housing(?: and infrastructure)?\b/gi, " ");
+    const studentText = `${primary} ${studentLead.slice(0, 1200)}`;
     const primaryStudentFocus = /\bcollege\b|universit|\bcampus\b|\bstudent\b|higher education|scholarship|fafsa|pell grant|undergraduat|journalism school|school of journalism/i.test(primary);
     const corporatePersonnel = /\b(?:promotes?|promoted|promotions?|appoints?|appointed|names?|hires?|hired|joins?|joined)\b/i.test(primary) && !primaryStudentFocus;
     const studentAudience = /college students|university students|campus life|student life|higher education|undergraduates|student financial aid|student loans|college tuition|college costs|student housing|campus safety|student mental health|college scholarships|university scholarships|fafsa|pell grant/i.test(studentText);
