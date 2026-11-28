@@ -30,7 +30,8 @@
         "2026-12-08": "What do you call an unpredictable camera? A loose Canon.",
         "2026-12-09": "Why don’t birds use social media? Because they already tweet enough.",
         "2026-12-10": "What do you call a dog on the beach? A hot dog.",
-        "2026-12-11": "Why did the cow in the pasture get promoted at work? Because he is OUT-STANDING in his field!"
+        "2026-12-11": "Why did the cow in the pasture get promoted at work? Because he is OUT-STANDING in his field!",
+        "2026-12-12": "Why did the math book look sad? Because it had too many problems."
       },
       "pool": [
         "Why don’t skeletons like the cold? They can’t handle the chills.",
@@ -130,7 +131,14 @@
         "What kind of tree fits in your hand? A palm tree!",
         "What do you call a boy named Lee that no one talks to? Lonely.",
         "What’s a tornado’s favorite game? Twister.",
-        "Why do clouds never get lost? Because they follow the wind."
+        "Why do clouds never get lost? Because they follow the wind.",
+        "How do you fix a damaged jack-o-lantern? You use a pumpkin patch.",
+        "A termite walks into a bar and asks. \"Is the bar tender here?\".",
+        "Slept like a log last night … woke up in the fireplace.",
+        "I just watched a documentary about beavers. It was the best dam show I ever saw!",
+        "Who was the fattest knight at King Arthur’s round table? Sir Cumference.",
+        "Why can’t you give Elsa a balloon? Because she’ll let it go.",
+        "I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it."
       ]
     },
     "would-you-rather": {
@@ -162,7 +170,8 @@
         "2026-12-08": "Would you rather have a suitcase that packs itself or have a suitcase that never gets lost?",
         "2026-12-09": "Would you rather make a great first impression or be someone people like more over time?",
         "2026-12-10": "Would you rather spend a rainy day in a museum or spend a snowy day in a cabin?",
-        "2026-12-11": "Would you rather have a holiday home near a forest or have a holiday home near a market square?"
+        "2026-12-11": "Would you rather have a holiday home near a forest or have a holiday home near a market square?",
+        "2026-12-12": "Would you rather spend a month traveling by bicycle or spend a month traveling by train?"
       },
       "pool": [
         "Would you rather wear a cape to work or wear tap shoes to the supermarket?",
@@ -269,7 +278,13 @@
         "Would you rather get a surprise cake or get a surprise day trip?",
         "Would you rather always have crispy fries or always have perfectly toasted bread?",
         "Would you rather have every meal cooked for you or have every room cleaned for you?",
-        "Would you rather grow your own coffee or grow your own chocolate?"
+        "Would you rather grow your own coffee or grow your own chocolate?",
+        "Would you rather miss the beginning of a great film or miss the ending of an average film?",
+        "Would you rather have a raincoat that folds into a pocket or have a hat that never blows away?",
+        "Would you rather have a very short winter or have a very long autumn?",
+        "Would you rather get a handwritten recipe from your favorite cook or get a handwritten poem from your favorite poet?",
+        "Would you rather have a phone that translates menus or have glasses that translate street signs?",
+        "Would you rather know everyone on your street or know everyone in your favorite café?"
       ]
     },
     "excuse": {
@@ -1937,7 +1952,15 @@
         "I put my lunch in the bag where the laptop should have gone.",
         "Someone asked how I was and I answered accurately.",
         "My pen ran out of motivation.",
-        "I had to move the car for someone who wasn't quite ready."
+        "I had to move the car for someone who wasn't quite ready.",
+        "I needed to finish counting before somebody spoke again.",
+        "The dog looked like he needed a longer walk.",
+        "I decided to iron one shirt. Then there were consequences.",
+        "I needed to locate the scissors using another pair of scissors.",
+        "I was busy looking busy.",
+        "I got emotionally involved in a nature documentary.",
+        "I got distracted by how much dust was on the lamp.",
+        "I got distracted by a good bit in a bad film."
       ],
       "days": {
         "2026-11-19": "I was ready to start, but the alarm clock asked for a five-minute extension.",
@@ -2702,7 +2725,8 @@
         "2026-12-08": "The \"Star Spangled Banner\" did not become a national anthem until 1931. It was designated by an Act of Congress.",
         "2026-12-09": "Tonga has issued banana-shaped postage stamps.",
         "2026-12-10": "Neptune has clumps within its rings called arcs, with names including Liberty, Equality, and Fraternity.",
-        "2026-12-11": "A prehensile-tailed porcupine is born with its eyes open and is already able to climb."
+        "2026-12-11": "A prehensile-tailed porcupine is born with its eyes open and is already able to climb.",
+        "2026-12-12": "January takes its name from Janus, the Roman god associated with doorways and transitions."
       },
       "pool": [
         "Titan has a cycle of methane clouds, rain, rivers, and evaporation resembling Earth's water cycle.",
@@ -2805,7 +2829,13 @@
         "Adult hellbenders retain open gill slits even after losing their external gills.",
         "Naked mole-rats dig in teams, passing excavated soil backward along a line.",
         "Enceladus circles Saturn twice for every orbit of the neighboring moon Dione.",
-        "Screaming hairy armadillos tend to be active at night in summer but during daylight in winter."
+        "Screaming hairy armadillos tend to be active at night in summer but during daylight in winter.",
+        "Gravitational tugs from Dione help heat the interior of Enceladus.",
+        "Triton is the only large moon in the solar system that orbits opposite its planet's rotation.",
+        "Apollo astronauts trained in Iceland because it was felt that the terrain would most resemble the surface of the moon.",
+        "Seeds carried around the Moon on Apollo 14 were later planted on Earth as Moon Trees.",
+        "Naked mole-rats have sensory hairs despite their name, including hairs that help sweep soil with their feet.",
+        "Sandy Island appeared on maps of the Coral Sea until a 2012 expedition found no island at its supposed location."
       ]
     },
     "fortune": {
@@ -7493,5 +7523,5 @@
       }
     }
   },
-  "updated": "2026-11-27T15:22:15.345Z"
+  "updated": "2026-11-28T14:23:07.037Z"
 }
